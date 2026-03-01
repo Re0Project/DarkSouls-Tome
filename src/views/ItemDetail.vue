@@ -22,25 +22,33 @@
         <div v-else class="contentd">
           <!-- 物品框架 -->
           <div class="frame">
-            <!-- 物品图标 -->
-            <div class="icon">
-              <img :src="item.icon" :alt="displayName" @error="handleImageError">
+            <!-- 标题装饰线 -->
+            <div class="title-line"></div>
+            
+            <!-- 物品标题 -->
+            <div class="item-title">{{ displayName }}</div>
+            
+            <div class="title-line"></div>
+
+            <!-- 内容区域 -->
+            <div class="content-wrapper">
+              <!-- 左侧图标 -->
+              <div class="left-icon">
+                <img :src="item.icon" :alt="displayName" @error="handleImageError">
+              </div>
+
+              <!-- 右侧内容 -->
+              <div class="right-content">
+                <!-- 物品描述 -->
+                <div class="item-desc" v-html="formatText(displayDescription)"></div>
+
+                <!-- 备注 -->
+                <div v-if="displayRemark" class="item-remk" v-html="formatText(displayRemark)"></div>
+              </div>
             </div>
 
-            <!-- 物品名称 -->
-            <div class="title">
-              <p>{{ displayName }}</p>
-            </div>
-
-            <!-- 物品描述 -->
-            <div class="desfrm">
-              <p v-html="formatText(displayDescription)"></p>
-            </div>
-
-            <!-- 备注 -->
-            <div v-if="displayRemark" class="remk">
-              <p v-html="formatText(displayRemark)"></p>
-            </div>
+            <!-- 底部装饰线 -->
+            <div class="title-line"></div>
 
             <!-- 收藏按钮 -->
             <div class="actions">
@@ -242,97 +250,108 @@ watch(() => props.id, () => {
   }
 }
 
-.icon {
-  float: left;
-  width: 10%;
+.title-line {
   height: 1px;
-
-  img {
-    transform: translateY(-50%);
-    margin: 14em 0 0;
-    max-width: 120%;
-  }
+  background: linear-gradient(to right, transparent, #960, transparent);
+  margin: 2em 0;
 
   @media (max-width: 1000px) {
-    float: none;
-    width: 33%;
-    height: auto;
-    margin: auto;
-
-    img {
-      transform: translateY(0);
-      margin: 0;
-    }
-  }
-}
-
-.title {
-  padding: 1% 1% 2%;
-  font-family: 'Palatino Linotype', '仿宋', serif;
-  font-size: 1.3em;
-  color: #960;
-  font-weight: 700;
-
-  p {
-    margin: 0;
-  }
-}
-
-.desfrm {
-  transform: translateY(-50%);
-  margin: 12em 0;
-  text-align: left;
-  padding: 0 2em;
-
-  p {
-    border-bottom: 1px solid #321;
-    box-sizing: border-box;
-    min-height: 1.5em;
-    padding: 0.25em 0;
-    margin: 0;
-
-    &:last-child {
-      border-bottom: 0;
-    }
-  }
-
-  @media (max-width: 1000px) {
-    transform: none;
-    margin: 2em 0;
-    padding: 0 1em;
-
-    p {
-      min-height: 2.5em;
-      font-size: 1.2em;
-    }
-  }
-}
-
-.remk {
-  height: 3em;
-  text-align: left;
-  padding: 0 2em;
-
-  p {
-    transform: translateY(-50%);
     margin: 1.5em 0;
-    color: #fe6;
+  }
+}
+
+.item-title {
+  font-size: 2em;
+  font-weight: 700;
+  color: #960;
+  font-family: 'Palatino Linotype', '仿宋', serif;
+  text-align: center;
+  padding: 0 2em;
+
+  @media (max-width: 1000px) {
+    font-size: 1.5em;
+    padding: 0 1em;
+  }
+}
+
+.content-wrapper {
+  display: flex;
+  gap: 3em;
+  padding: 2em 3em;
+  align-items: flex-start;
+
+  @media (max-width: 1000px) {
+    flex-direction: column;
+    gap: 2em;
+    padding: 1.5em 1em;
+    align-items: center;
+  }
+}
+
+.left-icon {
+  flex-shrink: 0;
+  width: 150px;
+  
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
   }
 
   @media (max-width: 1000px) {
-    height: auto;
-    padding: 0 1em;
+    width: 120px;
+  }
+}
 
-    p {
-      transform: translateY(0);
-      margin: 1em 0;
+.right-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.item-desc {
+  line-height: 1.8;
+  margin-bottom: 2em;
+
+  :deep(p) {
+    margin: 0;
+    padding: 0.5em 0;
+    
+    &:not(:last-child) {
+      border-bottom: 1px solid #321;
+    }
+  }
+
+  @media (max-width: 1000px) {
+    font-size: 1.1em;
+    margin-bottom: 1.5em;
+
+    :deep(p) {
+      padding: 0.8em 0;
+    }
+  }
+}
+
+.item-remk {
+  color: #fe6;
+  line-height: 1.8;
+
+  :deep(p) {
+    margin: 0;
+    padding: 0.5em 0;
+  }
+
+  @media (max-width: 1000px) {
+    font-size: 1.1em;
+
+    :deep(p) {
+      padding: 0.8em 0;
     }
   }
 }
 
 .actions {
   clear: both;
-  padding-top: 2em;
+  padding: 2em 0 0;
   text-align: center;
 
   .favorite-btn {
@@ -355,6 +374,10 @@ watch(() => props.id, () => {
       border-color: #960;
       color: #fe6;
     }
+  }
+
+  @media (max-width: 1000px) {
+    padding: 1.5em 0 0;
   }
 }
 
