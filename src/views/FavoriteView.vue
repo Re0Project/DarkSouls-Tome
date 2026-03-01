@@ -1,6 +1,6 @@
 <template>
   <div class="favorite-view">
-    <ClassicNavigation />
+    <ImprovedNavigation />
     <div class="favorite-layout">
       <SidebarNav />
       <main class="favorite-main">
@@ -69,7 +69,7 @@
 import { ref, computed, onMounted } from 'vue';
 import { useUserStore } from '@/stores/user';
 import { GAME_NAMES, ITEM_TYPE_NAMES } from '@/utils/constants';
-import ClassicNavigation from '@/components/layout/ClassicNavigation.vue';
+import ImprovedNavigation from '@/components/layout/ImprovedNavigation.vue';
 import SidebarNav from '@/components/layout/SidebarNav.vue';
 import type { Item } from '@/types/item';
 
@@ -151,10 +151,10 @@ onMounted(() => {
 
 .favorite-layout {
   display: flex;
-  padding-top: 150px;
+  padding-top: 120px;
 
   @media (max-width: 1000px) {
-    padding-top: 6em;
+    padding-top: 100px;
   }
 }
 

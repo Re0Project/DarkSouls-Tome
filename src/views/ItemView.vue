@@ -1,6 +1,6 @@
 <template>
   <div class="classic-item-view">
-    <ClassicNavigation />
+    <ImprovedNavigation />
     <hr>
     <ClassicContainer>
       <div v-if="loading" class="loading">加载中...</div>
@@ -24,7 +24,7 @@ import { computed, onMounted } from 'vue';
 import { useGameData } from '@/composables/useGameData';
 import { useSearch } from '@/composables/useSearch';
 import { useUserStore } from '@/stores/user';
-import ClassicNavigation from '@/components/layout/ClassicNavigation.vue';
+import ImprovedNavigation from '@/components/layout/ImprovedNavigation.vue';
 import ClassicContainer from '@/components/layout/ClassicContainer.vue';
 import ClassicItemCard from '@/components/item/ClassicItemCard.vue';
 import type { GameVersion, ItemType } from '@/types/item';
@@ -55,10 +55,10 @@ onMounted(() => {
 
 hr {
   border: 0;
-  height: 150px;
+  height: 120px;
 
   @media (max-width: 1000px) {
-    height: 6em;
+    height: 100px;
   }
 }
 

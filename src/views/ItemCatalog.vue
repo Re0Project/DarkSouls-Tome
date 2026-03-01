@@ -1,6 +1,6 @@
 <template>
   <div class="item-catalog-view">
-    <ClassicNavigation />
+    <ImprovedNavigation />
     <div class="catalog-layout">
       <SidebarNav />
       <main class="catalog-main">
@@ -22,7 +22,7 @@
 import { computed, onMounted } from 'vue';
 import { useGameData } from '@/composables/useGameData';
 import { GAME_NAMES, ITEM_TYPE_NAMES } from '@/utils/constants';
-import ClassicNavigation from '@/components/layout/ClassicNavigation.vue';
+import ImprovedNavigation from '@/components/layout/ImprovedNavigation.vue';
 import SidebarNav from '@/components/layout/SidebarNav.vue';
 import ItemCatalogTable from '@/components/item/ItemCatalogTable.vue';
 import type { GameVersion, ItemType } from '@/types/item';
@@ -54,10 +54,10 @@ onMounted(() => {
 
 .catalog-layout {
   display: flex;
-  padding-top: 150px;
+  padding-top: 120px;
 
   @media (max-width: 1000px) {
-    padding-top: 6em;
+    padding-top: 100px;
   }
 }
 
