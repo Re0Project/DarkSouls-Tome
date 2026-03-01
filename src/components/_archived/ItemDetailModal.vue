@@ -60,7 +60,7 @@ import { computed } from 'vue';
 import { useUserStore } from '@/stores/user';
 import { formatText } from '@/utils/formatter';
 import { GAME_NAMES, ITEM_TYPE_NAMES } from '@/utils/constants';
-import LazyImage from './LazyImage.vue';
+import LazyImage from '@/components/common/LazyImage.vue';
 import type { Item, Language } from '@/types/item';
 
 const props = defineProps<{

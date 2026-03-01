@@ -1,45 +1,76 @@
 <template>
   <div class="favorite-view">
-    <header class="view-header">
-      <div class="header-content">
-        <h1 class="title">我的收藏</h1>
-      </div>
-    </header>
+    <ClassicNavigation />
+    <div class="favorite-layout">
+      <SidebarNav />
+      <main class="favorite-main">
+        <div class="favorite-container">
+          <h2 class="page-title">我的收藏</h2>
 
-    <main class="view-main">
-      <div v-if="loading" class="loading">
-        <div class="spinner"></div>
-        <p>加载中...</p>
-      </div>
+          <div v-if="loading" class="loading">
+            <div class="loading-spinner"></div>
+            <p>加载中...</p>
+          </div>
 
-      <div v-else-if="favoriteItems.length === 0" class="empty">
-        <p class="empty-icon">📌</p>
-        <p>还没有收藏任何物品</p>
-        <router-link to="/" class="browse-link">去浏览物品</router-link>
-      </div>
+          <div v-else-if="favoriteItems.length === 0" class="empty">
+            <p class="empty-icon">📌</p>
+            <p>还没有收藏任何物品</p>
+            <router-link to="/ds1/weapon" class="browse-link">去浏览物品</router-link>
+          </div>
 
-      <div v-else class="favorites-container">
-        <div class="favorites-header">
-          <p class="item-count">共 {{ favoriteItems.length }} 项收藏</p>
-          <button @click="clearAll" class="clear-btn">清空收藏</button>
+          <div v-else class="favorites-content">
+            <div class="favorites-header">
+              <p class="item-count">共 {{ favoriteItems.length }} 项收藏</p>
+              <button @click="clearAll" class="clear-btn">清空收藏</button>
+            </div>
+
+            <table class="favorites-table">
+              <thead>
+                <tr>
+                  <th class="icon-col">图标</th>
+                  <th class="name-col">名称</th>
+                  <th class="game-col">游戏</th>
+                  <th class="type-col">类型</th>
+                  <th class="action-col">操作</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr 
+                  v-for="item in favoriteItems" 
+                  :key="item.id"
+                  class="table-row"
+                >
+                  <td class="icon-cell">
+                    <img :src="`/icons/${item.icon}`" :alt="item.name.chn">
+                  </td>
+                  <td class="name-cell">
+                    <router-link :to="getItemLink(item)" class="item-link">
+                      {{ item.name.chn }}
+                    </router-link>
+                  </td>
+                  <td class="game-cell">{{ getGameName(item.id) }}</td>
+                  <td class="type-cell">{{ getTypeName(item.id) }}</td>
+                  <td class="action-cell">
+                    <button @click="removeFavorite(item.id)" class="remove-btn">
+                      移除
+                    </button>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
-
-        <div class="items-grid">
-          <ItemCard 
-            v-for="item in favoriteItems" 
-            :key="item.id" 
-            :item="item"
-          />
-        </div>
-      </div>
-    </main>
+      </main>
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
 import { useUserStore } from '@/stores/user';
-import ItemCard from '@/components/ItemCard.vue';
+import { GAME_NAMES, ITEM_TYPE_NAMES } from '@/utils/constants';
+import ClassicNavigation from '@/components/layout/ClassicNavigation.vue';
+import SidebarNav from '@/components/layout/SidebarNav.vue';
 import type { Item } from '@/types/item';
 
 const userStore = useUserStore();
@@ -78,6 +109,27 @@ const loadFavorites = async () => {
   }
 };
 
+const getGameName = (id: string) => {
+  const game = id.split('-')[0];
+  return GAME_NAMES[Number(game) as 1 | 2 | 3] || '未知';
+};
+
+const getTypeName = (id: string) => {
+  const parts = id.split('-');
+  const type = parts[1];
+  return ITEM_TYPE_NAMES[type as keyof typeof ITEM_TYPE_NAMES] || '未知';
+};
+
+const getItemLink = (item: Item) => {
+  const game = item.id.split('-')[0];
+  const type = item.id.split('-')[1];
+  return `/ds${game}/${type}/${item.id}`;
+};
+
+const removeFavorite = (id: string) => {
+  userStore.toggleFavorite(id);
+};
+
 const clearAll = () => {
   if (confirm('确定要清空所有收藏吗？')) {
     favoriteItems.value.forEach(item => {
@@ -92,68 +144,57 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
-@import '@/assets/styles/variables.scss';
-
 .favorite-view {
   min-height: 100vh;
-  background: var(--color-bg-primary);
+  background: #000;
 }
 
-.view-header {
-  background: var(--color-bg-secondary);
-  border-bottom: 1px solid var(--color-border);
-  padding: 1rem 0;
-  position: sticky;
-  top: 0;
-  z-index: 100;
-}
-
-.header-content {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 1rem;
+.favorite-layout {
   display: flex;
-  align-items: center;
-  justify-content: center;
+  padding-top: 150px;
+
+  @media (max-width: 1000px) {
+    padding-top: 6em;
+  }
 }
 
-.title {
-  font-size: 1.5rem;
-  color: var(--color-accent);
-  margin: 0;
-  font-weight: 500;
+.favorite-main {
+  flex: 1;
+  min-width: 0;
 }
 
-.view-main {
+.favorite-container {
+  padding: 2em;
   max-width: 1400px;
   margin: 0 auto;
-  padding: 2rem 1rem;
+
+  @media (max-width: 1000px) {
+    padding: 1em;
+  }
+}
+
+.page-title {
+  color: #960;
+  font-size: 1.8em;
+  margin: 0 0 1.5em 0;
+  font-family: '仿宋', 'SimSun', serif;
+
+  @media (max-width: 1000px) {
+    font-size: 1.4em;
+  }
 }
 
 .loading,
 .empty {
   text-align: center;
-  padding: 4rem 2rem;
-  color: var(--color-text-secondary);
-}
+  padding: 4em 2em;
+  color: #ccc;
+  font-family: '仿宋', 'SimSun', serif;
 
-.loading {
-  .spinner {
-    width: 48px;
-    height: 48px;
-    margin: 0 auto 1rem;
-    border: 4px solid var(--color-border);
-    border-top-color: var(--color-accent);
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
+  .loading-spinner {
+    margin: 0 auto 1em;
   }
-}
 
-@keyframes spin {
-  to { transform: rotate(360deg); }
-}
-
-.empty {
   .empty-icon {
     font-size: 4rem;
     margin-bottom: 1rem;
@@ -162,68 +203,190 @@ onMounted(() => {
   .browse-link {
     display: inline-block;
     margin-top: 2rem;
-    padding: 0.75rem 1.5rem;
-    background: var(--color-bg-secondary);
-    border: 1px solid var(--color-border);
-    border-radius: 4px;
-    color: var(--color-text-primary);
+    padding: 0.75em 1.5em;
+    background: #111;
+    border: 1px solid #430;
+    color: #960;
     text-decoration: none;
-    transition: all 0.2s ease;
+    transition: 0.3s;
+    font-family: '仿宋', 'SimSun', serif;
 
     &:hover {
-      border-color: var(--color-accent);
-      color: var(--color-accent);
+      border-color: #960;
+      background: #222;
     }
   }
 }
 
-.favorites-container {
-  padding: 1rem;
+.favorites-content {
+  background: #111;
+  padding: 1.5em;
+  box-shadow: inset 0 0 .3em .1em #531;
+
+  @media (max-width: 1000px) {
+    padding: 1em;
+  }
 }
 
 .favorites-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 1rem;
-  padding: 0.5rem 0;
-  border-bottom: 1px solid var(--color-border);
+  margin-bottom: 1.5em;
+  padding-bottom: 1em;
+  border-bottom: 1px solid #430;
 
   .item-count {
-    color: var(--color-text-secondary);
-    font-size: 0.9rem;
+    color: #aaa;
+    font-size: 0.95em;
     margin: 0;
   }
 
   .clear-btn {
-    padding: 0.5rem 1rem;
-    background: transparent;
-    border: 1px solid var(--color-border);
-    border-radius: 4px;
-    color: var(--color-text-secondary);
+    padding: 0.5em 1.5em;
+    background: #222;
+    border: 1px solid #430;
+    color: #f66;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: 0.3s;
+    font-family: '仿宋', 'SimSun', serif;
 
     &:hover {
-      border-color: #ff6b6b;
-      color: #ff6b6b;
+      border-color: #f66;
+      background: #333;
     }
   }
 }
 
-.items-grid {
-  display: grid;
-  gap: 1rem;
-  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
-}
+.favorites-table {
+  width: 100%;
+  border-collapse: collapse;
 
-@media (max-width: 768px) {
-  .title {
-    font-size: 1.2rem;
+  thead {
+    background: #222;
+
+    th {
+      padding: 1em;
+      text-align: left;
+      color: #960;
+      border-bottom: 2px solid #430;
+      font-weight: 700;
+      font-family: '仿宋', 'SimSun', serif;
+
+      @media (max-width: 1000px) {
+        padding: 0.75em 0.5em;
+        font-size: 0.9em;
+      }
+    }
+
+    .icon-col {
+      width: 80px;
+
+      @media (max-width: 1000px) {
+        width: 60px;
+      }
+    }
+
+    .name-col {
+      width: 35%;
+    }
+
+    .game-col,
+    .type-col {
+      width: 15%;
+
+      @media (max-width: 768px) {
+        display: none;
+      }
+    }
+
+    .action-col {
+      width: 100px;
+      text-align: center;
+    }
   }
 
-  .items-grid {
-    grid-template-columns: 1fr;
+  tbody {
+    tr {
+      border-bottom: 1px solid #321;
+      transition: 0.3s;
+
+      &:hover {
+        background: rgba(153, 102, 0, 0.1);
+      }
+
+      &:last-child {
+        border-bottom: none;
+      }
+    }
+
+    td {
+      padding: 1em;
+      color: #ccc;
+      vertical-align: middle;
+
+      @media (max-width: 1000px) {
+        padding: 0.75em 0.5em;
+      }
+    }
+
+    .icon-cell {
+      img {
+        width: 48px;
+        height: 48px;
+        object-fit: contain;
+        display: block;
+
+        @media (max-width: 1000px) {
+          width: 40px;
+          height: 40px;
+        }
+      }
+    }
+
+    .name-cell {
+      .item-link {
+        color: #fe6;
+        font-weight: 700;
+        font-family: '仿宋', 'SimSun', serif;
+        transition: 0.3s;
+
+        &:hover {
+          color: #960;
+          text-decoration: underline;
+        }
+      }
+    }
+
+    .game-cell,
+    .type-cell {
+      color: #aaa;
+      font-size: 0.95em;
+
+      @media (max-width: 768px) {
+        display: none;
+      }
+    }
+
+    .action-cell {
+      text-align: center;
+
+      .remove-btn {
+        padding: 0.4em 1em;
+        background: transparent;
+        border: 1px solid #430;
+        color: #f66;
+        cursor: pointer;
+        transition: 0.3s;
+        font-family: '仿宋', 'SimSun', serif;
+        font-size: 0.9em;
+
+        &:hover {
+          border-color: #f66;
+          background: rgba(255, 102, 102, 0.1);
+        }
+      }
+    }
   }
 }
 </style>

@@ -30,7 +30,7 @@
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
 import { GAME_NAMES } from '@/utils/constants';
-import DialogueCard from '@/components/DialogueCard.vue';
+import DialogueCard from '@/components/dialogue/DialogueCard.vue';
 import type { Dialogue, GameVersion } from '@/types/item';
 
 const props = defineProps<{

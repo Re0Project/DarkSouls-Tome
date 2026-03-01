@@ -1,24 +1,21 @@
 <template>
-  <div class="item-view">
-    <header class="view-header">
-      <div class="header-content">
-        <h1 class="title">{{ title }}</h1>
+  <div class="classic-item-view">
+    <ClassicNavigation />
+    <hr>
+    <ClassicContainer>
+      <div v-if="loading" class="loading">加载中...</div>
+      <div v-else-if="error" class="error">
+        <p>{{ error }}</p>
+        <button @click="loadData">重试</button>
       </div>
-    </header>
-
-    <main class="view-main">
-      <SearchBar 
-        v-model="searchQuery" 
-        :placeholder="`搜索${ITEM_TYPE_NAMES[type as ItemType]}...`"
-      />
-      
-      <ItemList 
-        :items="filteredItems"
-        :loading="loading"
-        :error="error"
-        @retry="loadData"
-      />
-    </main>
+      <div v-else>
+        <ClassicItemCard 
+          v-for="item in filteredItems" 
+          :key="item.id" 
+          :item="item"
+        />
+      </div>
+    </ClassicContainer>
   </div>
 </template>
 
@@ -27,9 +24,9 @@ import { computed, onMounted } from 'vue';
 import { useGameData } from '@/composables/useGameData';
 import { useSearch } from '@/composables/useSearch';
 import { useUserStore } from '@/stores/user';
-import { GAME_NAMES, ITEM_TYPE_NAMES } from '@/utils/constants';
-import ItemList from '@/components/ItemList.vue';
-import SearchBar from '@/components/SearchBar.vue';
+import ClassicNavigation from '@/components/layout/ClassicNavigation.vue';
+import ClassicContainer from '@/components/layout/ClassicContainer.vue';
+import ClassicItemCard from '@/components/item/ClassicItemCard.vue';
 import type { GameVersion, ItemType } from '@/types/item';
 
 const props = defineProps<{
@@ -42,12 +39,8 @@ const userStore = useUserStore();
 const gameNum = computed(() => Number(props.game) as GameVersion);
 const itemType = computed(() => props.type as ItemType);
 
-const title = computed(() => {
-  return `${GAME_NAMES[gameNum.value]} - ${ITEM_TYPE_NAMES[itemType.value]}`;
-});
-
 const { items, loading, error, loadData } = useGameData(gameNum.value, itemType.value);
-const { searchQuery, filteredItems } = useSearch(items, computed(() => userStore.currentLanguage));
+const { filteredItems } = useSearch(items, computed(() => userStore.currentLanguage));
 
 onMounted(() => {
   loadData();
@@ -55,47 +48,41 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
-@import '@/assets/styles/variables.scss';
-
-.item-view {
+.classic-item-view {
   min-height: 100vh;
-  background: var(--color-bg-primary);
+  background: #000;
 }
 
-.view-header {
-  background: var(--color-bg-secondary);
-  border-bottom: 1px solid var(--color-border);
-  padding: 1rem 0;
-  position: sticky;
-  top: 0;
-  z-index: 100;
+hr {
+  border: 0;
+  height: 150px;
+
+  @media (max-width: 1000px) {
+    height: 6em;
+  }
 }
 
-.header-content {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 0 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
+.loading,
+.error {
+  text-align: center;
+  padding: 4em 2em;
+  color: #ccc;
+  font: 18px/1.5 仿宋, SimSun, serif;
 
-.title {
-  font-size: 1.5rem;
-  color: var(--color-accent);
-  margin: 0;
-  font-weight: 500;
-}
+  button {
+    margin-top: 1em;
+    padding: 0.5em 2em;
+    background: #111;
+    border: 1px solid #430;
+    color: #960;
+    font: 16px/1.5 仿宋, SimSun, serif;
+    cursor: pointer;
+    transition: .3s;
 
-.view-main {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
-}
-
-@media (max-width: 768px) {
-  .title {
-    font-size: 1.2rem;
+    &:hover {
+      border-color: #960;
+      background: #222;
+    }
   }
 }
 </style>

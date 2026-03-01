@@ -17,6 +17,7 @@ const props = defineProps<{
   placeholder?: string;
 }>();
 
+// @ts-expect-error imgElement is used via template ref
 const { src, isLoaded, error, imgElement } = useLazyImage(props.src, props.placeholder);
 </script>
 

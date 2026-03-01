@@ -1,4 +1,5 @@
 @import './variables.scss';
+@import './classic.scss';
 
 // 全局重置
 * {
@@ -20,31 +21,36 @@
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--color-accent);
+  background: #960;
   width: 10px;
   border-radius: 5px;
 }
 
 // 基础样式
 html {
-  background: var(--color-bg-primary);
+  background: #000;
   font-size: 16px;
+  scroll-behavior: smooth;
 }
 
 body {
   font-family: '仿宋', 'SimSun', serif;
-  color: var(--color-text-primary);
+  color: #ccc;
   line-height: 1.5;
 }
 
 // 链接样式
 a {
-  color: var(--color-text-secondary);
+  color: #aaa;
   text-decoration: none;
   transition: color 0.3s;
 
   &:hover {
-    color: var(--color-accent);
+    color: #960;
+  }
+
+  img {
+    transition: 0.3s;
   }
 }
 
@@ -62,94 +68,20 @@ input,
 textarea {
   font-family: inherit;
   color: inherit;
-  background: var(--color-bg-secondary);
-  border: 1px solid var(--color-border);
+  background: #111;
+  border: 1px solid #430;
   padding: 0.5rem;
   transition: border-color 0.3s;
 
   &:focus {
     outline: none;
-    border-color: var(--color-accent);
+    border-color: #960;
   }
-}
-
-// 工具类
-.text-gold {
-  color: var(--color-text-gold);
-}
-
-.text-red {
-  color: var(--color-text-red);
-}
-
-.text-sm {
-  font-size: 0.85em;
-}
-
-.line-through {
-  text-decoration: line-through;
-  text-decoration-color: rgba(255, 238, 102, 0.8);
-  text-decoration-thickness: 0.2em;
-}
-
-.text-title {
-  font-weight: 700;
-  color: #fff;
-  background: linear-gradient(to right, rgba(80, 48, 1, 0), var(--color-border-light), rgba(80, 48, 1, 0));
-  padding: 0.25em 0;
-}
-
-// 微交互动画
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-    transform: translateY(10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes pulse {
-  0%, 100% {
-    opacity: 1;
-  }
-  50% {
-    opacity: 0.5;
-  }
-}
-
-@keyframes bounce {
-  0%, 100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-5px);
-  }
-}
-
-// 动画工具类
-.fade-in {
-  animation: fadeIn 0.3s ease-out;
-}
-
-.pulse {
-  animation: pulse 2s ease-in-out infinite;
-}
-
-.bounce {
-  animation: bounce 0.5s ease-in-out;
-}
-
-// 平滑滚动
-html {
-  scroll-behavior: smooth;
 }
 
 // 焦点可见性
 :focus-visible {
-  outline: 2px solid var(--color-accent);
+  outline: 2px solid #960;
   outline-offset: 2px;
 }
 
@@ -164,8 +96,8 @@ html {
   display: inline-block;
   width: 20px;
   height: 20px;
-  border: 2px solid var(--color-border);
-  border-top-color: var(--color-accent);
+  border: 2px solid #430;
+  border-top-color: #960;
   border-radius: 50%;
   animation: spin 1s linear infinite;
 }

@@ -10,12 +10,18 @@ const router = createRouter({
     },
     {
       path: '/ds:game/:type',
-      name: 'ItemView',
-      component: () => import('@/views/ItemView.vue'),
+      name: 'ItemCatalog',
+      component: () => import('@/views/ItemCatalog.vue'),
       props: true
     },
     {
-      path: '/ds:game/dialogue/:npc',
+      path: '/ds:game/:type/:id',
+      name: 'ItemDetail',
+      component: () => import('@/views/ItemDetail.vue'),
+      props: true
+    },
+    {
+      path: '/ds:game/dialogue',
       name: 'DialogueView',
       component: () => import('@/views/DialogueView.vue'),
       props: true

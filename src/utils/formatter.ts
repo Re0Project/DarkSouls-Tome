@@ -1,15 +1,38 @@
 /**
- * 格式化游戏文本，处理特殊标记
+ * 格式化游戏文本，处理特殊标记（原版风格）
  */
 export function formatGameText(text: string): string {
-  return text
-    .replace(/#1/g, '<span class="text-gold line-through">')
-    .replace(/#2/g, '<span class="text-gold">')
-    .replace(/#3/g, '</span>')
-    .replace(/##/g, '<i class="text-red text-sm">未使用</i>')
-    .replace(/#0/g, '<strong class="text-title">')
-    .replace(/\n/g, '<br>');
+  if (!text) return '';
+  
+  let formatted = text;
+  
+  // 未使用文本 - 红色删除线
+  formatted = formatted.replace(/\[uud\](.*?)\[\/uud\]/g, '<span class="uud">$1</span>');
+  
+  // 已改变文本 - 黄色删除线
+  formatted = formatted.replace(/\[cgb\](.*?)\[\/cgb\]/g, '<span class="cgb">$1</span>');
+  
+  // 金色文本
+  formatted = formatted.replace(/\[cgd\](.*?)\[\/cgd\]/g, '<span class="cgd">$1</span>');
+  
+  // 标题文本
+  formatted = formatted.replace(/\[dtt\](.*?)\[\/dtt\]/g, '<span class="dtt">$1</span>');
+  
+  // 兼容旧格式
+  formatted = formatted.replace(/#1/g, '<span class="cgb">');
+  formatted = formatted.replace(/#2/g, '<span class="cgd">');
+  formatted = formatted.replace(/#3/g, '</span>');
+  formatted = formatted.replace(/##/g, '<i class="text-red text-sm">未使用</i>');
+  formatted = formatted.replace(/#0/g, '<span class="dtt">');
+  
+  // 换行
+  formatted = formatted.replace(/\n/g, '<br>');
+  
+  return formatted;
 }
+
+// 别名，保持向后兼容
+export const formatText = formatGameText;
 
 /**
  * 移除格式化标记，获取纯文本
