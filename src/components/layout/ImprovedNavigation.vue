@@ -38,6 +38,19 @@
           <span class="category-name">收藏</span>
           <span class="category-name-en">Favorites</span>
         </router-link>
+
+        <!-- 语言切换 -->
+        <div class="language-selector">
+          <button 
+            v-for="lang in languages" 
+            :key="lang.value"
+            :class="['lang-btn', { active: currentLanguage === lang.value }]"
+            @click="setLanguage(lang.value)"
+            :title="lang.label"
+          >
+            {{ lang.short }}
+          </button>
+        </div>
       </nav>
 
       <!-- 移动端菜单按钮 -->
@@ -77,6 +90,19 @@
           <span class="category-icon">★</span>
           <span>收藏 / Favorites</span>
         </router-link>
+
+        <!-- 移动端语言切换 -->
+        <div class="mobile-language-selector">
+          <span class="lang-label">语言 / Language:</span>
+          <button 
+            v-for="lang in languages" 
+            :key="lang.value"
+            :class="['mobile-lang-btn', { active: currentLanguage === lang.value }]"
+            @click="setLanguage(lang.value)"
+          >
+            {{ lang.label }}
+          </button>
+        </div>
       </nav>
     </div>
   </div>
@@ -85,9 +111,12 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
+import { useUserStore } from '@/stores/user';
+import type { Language } from '@/types/item';
 
 const route = useRoute();
 const router = useRouter();
+const userStore = useUserStore();
 
 const games = [
   { id: 1, name: '黑魂1' },
@@ -104,10 +133,18 @@ const categories = [
   { type: 'dialogue', name: '对话', nameEn: 'Dialogue', icon: '💬' }
 ];
 
+const languages = [
+  { value: 'chn' as Language, label: '中文', short: '中' },
+  { value: 'jap' as Language, label: '日本語', short: '日' },
+  { value: 'eng' as Language, label: 'English', short: 'EN' }
+];
+
 const currentGame = computed(() => {
   const match = route.path.match(/\/ds(\d)/);
   return match ? Number(match[1]) : 1;
 });
+
+const currentLanguage = computed(() => userStore.currentLanguage);
 
 const mobileMenuOpen = ref(false);
 
@@ -116,6 +153,10 @@ const switchGame = (gameId: number) => {
   if (currentType) {
     router.push(`/ds${gameId}/${currentType}`);
   }
+};
+
+const setLanguage = (lang: Language) => {
+  userStore.setLanguage(lang);
 };
 
 const toggleMobileMenu = () => {
@@ -297,6 +338,38 @@ const closeMobileMenu = () => {
   }
 }
 
+.language-selector {
+  display: flex;
+  gap: 0.25em;
+  margin-left: auto;
+  padding-left: 1em;
+  border-left: 1px solid #430;
+
+  .lang-btn {
+    padding: 0.4em 0.8em;
+    background: #111;
+    border: 1px solid #430;
+    color: #aaa;
+    font-family: '仿宋', 'SimSun', serif;
+    font-size: 0.9em;
+    cursor: pointer;
+    transition: 0.3s;
+
+    &:hover {
+      border-color: #960;
+      color: #960;
+      background: #222;
+    }
+
+    &.active {
+      background: rgba(153, 102, 0, 0.2);
+      border-color: #960;
+      color: #fe6;
+      font-weight: bold;
+    }
+  }
+}
+
 .mobile-menu-btn {
   display: none;
   flex-direction: column;
@@ -385,6 +458,38 @@ const closeMobileMenu = () => {
 
   .category-icon {
     font-size: 1.5em;
+  }
+}
+
+.mobile-language-selector {
+  margin-top: 1em;
+  padding: 1em;
+  border-top: 1px solid #430;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+
+  .lang-label {
+    color: #960;
+    font-size: 0.9em;
+    margin-bottom: 0.5em;
+  }
+
+  .mobile-lang-btn {
+    padding: 0.8em;
+    background: #111;
+    border: 1px solid #430;
+    color: #aaa;
+    font-family: '仿宋', 'SimSun', serif;
+    cursor: pointer;
+    transition: 0.3s;
+
+    &.active {
+      background: rgba(153, 102, 0, 0.2);
+      border-color: #960;
+      color: #fe6;
+      font-weight: bold;
+    }
   }
 }
 </style>
