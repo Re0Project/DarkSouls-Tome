@@ -2,7 +2,7 @@
   <div class="dialogue-card">
     <div class="dialogue-header">
       <div class="npc-avatar">
-        <img :src="avatarPath" :alt="dialogue.npc" @error="onImageError" />
+        <LazyImage :src="avatarPath" :alt="dialogue.npc" />
       </div>
       <h3 class="npc-name">{{ dialogue.npc }}</h3>
     </div>
@@ -27,6 +27,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useUserStore } from '@/stores/user';
+import LazyImage from './LazyImage.vue';
 import type { Dialogue, DialogueLine } from '@/types/item';
 
 const props = defineProps<{
@@ -41,11 +42,6 @@ const avatarPath = computed(() => {
 
 const getLineText = (line: DialogueLine) => {
   return line[userStore.currentLanguage];
-};
-
-const onImageError = (e: Event) => {
-  const target = e.target as HTMLImageElement;
-  target.src = '/icons/placeholder.webp';
 };
 </script>
 

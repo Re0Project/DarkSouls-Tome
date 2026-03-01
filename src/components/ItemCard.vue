@@ -1,7 +1,7 @@
 <template>
   <div class="item-card" :class="{ 'is-favorite': isFavorite }">
     <div class="item-icon">
-      <img :src="iconPath" :alt="displayName" @error="onImageError" />
+      <LazyImage :src="iconPath" :alt="displayName" />
     </div>
     
     <div class="item-content">
@@ -24,6 +24,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useUserStore } from '@/stores/user';
+import LazyImage from './LazyImage.vue';
 import type { Item } from '@/types/item';
 
 const props = defineProps<{
@@ -44,11 +45,6 @@ const isFavorite = computed(() => userStore.isFavorite(props.item.id));
 
 const toggleFavorite = () => {
   userStore.toggleFavorite(props.item.id);
-};
-
-const onImageError = (e: Event) => {
-  const target = e.target as HTMLImageElement;
-  target.src = '/icons/placeholder.webp';
 };
 </script>
 
