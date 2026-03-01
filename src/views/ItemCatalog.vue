@@ -54,10 +54,11 @@ onMounted(() => {
 
 .catalog-layout {
   display: flex;
-  padding-top: 110px;
+  padding-top: var(--nav-height, 110px);
+  transition: padding-top 0.3s ease;
 
   @media (max-width: 1000px) {
-    padding-top: 95px;
+    padding-top: var(--nav-height-mobile, 95px);
   }
 }
 

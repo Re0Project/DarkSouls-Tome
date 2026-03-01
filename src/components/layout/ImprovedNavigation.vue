@@ -211,6 +211,17 @@ onUnmounted(() => {
   }
 }
 
+// 设置 CSS 变量供其他组件使用
+:root {
+  --nav-height: 110px;
+  --nav-height-mobile: 95px;
+}
+
+body.nav-scrolled {
+  --nav-height: 60px;
+  --nav-height-mobile: 55px;
+}
+
 .nav-container {
   max-width: 1800px;
   margin: 0 auto;
