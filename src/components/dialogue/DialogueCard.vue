@@ -37,7 +37,7 @@ const props = defineProps<{
 const userStore = useUserStore();
 
 const avatarPath = computed(() => {
-  return `/icons/${props.dialogue.avatar}`;
+  return props.dialogue.avatar;
 });
 
 const getLineText = (line: DialogueLine) => {
