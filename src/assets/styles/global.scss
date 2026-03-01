@@ -33,10 +33,21 @@ html {
   scroll-behavior: smooth;
 }
 
+// 导航栏高度 CSS 变量
+:root {
+  --nav-height: 110px;
+  --nav-height-mobile: 95px;
+}
+
 body {
   font-family: '仿宋', 'SimSun', serif;
   color: #ccc;
   line-height: 1.5;
+
+  &.nav-scrolled {
+    --nav-height: 60px;
+    --nav-height-mobile: 55px;
+  }
 }
 
 // 链接样式
