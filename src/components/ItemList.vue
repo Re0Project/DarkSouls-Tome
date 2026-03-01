@@ -26,15 +26,24 @@
           v-for="item in items" 
           :key="item.id" 
           :item="item"
+          @click="openDetail"
         />
       </div>
     </div>
+
+    <ItemDetailModal 
+      v-model="showDetail"
+      v-if="selectedItem"
+      :item="selectedItem"
+    />
   </div>
 </template>
 
 <script setup lang="ts">
+import { ref } from 'vue';
 import ItemCard from './ItemCard.vue';
 import SkeletonCard from './SkeletonCard.vue';
+import ItemDetailModal from './ItemDetailModal.vue';
 import type { Item } from '@/types/item';
 
 defineProps<{
@@ -47,8 +56,16 @@ const emit = defineEmits<{
   retry: [];
 }>();
 
+const showDetail = ref(false);
+const selectedItem = ref<Item | null>(null);
+
 const retry = () => {
   emit('retry');
+};
+
+const openDetail = (item: Item) => {
+  selectedItem.value = item;
+  showDetail.value = true;
 };
 </script>
 

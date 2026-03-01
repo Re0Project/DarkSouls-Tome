@@ -25,6 +25,7 @@
         <div class="nav-divider"></div>
 
         <div class="nav-actions">
+          <ThemeSwitch />
           <LanguageSwitch />
         </div>
       </div>
@@ -36,6 +37,7 @@
 import { ref } from 'vue';
 import { useRouter } from 'vue-router';
 import LanguageSwitch from './LanguageSwitch.vue';
+import ThemeSwitch from './ThemeSwitch.vue';
 
 const router = useRouter();
 const isMenuOpen = ref(false);

@@ -28,3 +28,17 @@ $color-text-red: #f00;
   --color-text-gold: #{$color-text-gold};
   --color-text-red: #{$color-text-red};
 }
+
+// 浅色主题
+[data-theme="light"] {
+  --color-bg-primary: #f5f5f5;
+  --color-bg-secondary: #ffffff;
+  --color-bg-card: #fafafa;
+  --color-text-primary: #2a2a2a;
+  --color-text-secondary: #666666;
+  --color-text-gold: #d4a017;
+  --color-text-red: #d32f2f;
+  --color-accent: #d4a017;
+  --color-border: #e0e0e0;
+  --color-border-light: #cccccc;
+}

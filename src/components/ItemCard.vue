@@ -1,5 +1,5 @@
 <template>
-  <div class="item-card" :class="{ 'is-favorite': isFavorite }">
+  <div class="item-card" :class="{ 'is-favorite': isFavorite }" @click="$emit('click', item)">
     <div class="item-icon">
       <LazyImage :src="iconPath" :alt="displayName" />
     </div>
@@ -29,6 +29,10 @@ import type { Item } from '@/types/item';
 
 const props = defineProps<{
   item: Item;
+}>();
+
+defineEmits<{
+  click: [item: Item];
 }>();
 
 const userStore = useUserStore();
@@ -61,6 +65,7 @@ const toggleFavorite = () => {
   border: 1px solid var(--color-border);
   border-radius: 4px;
   transition: all 0.3s ease;
+  cursor: pointer;
 
   &:hover {
     border-color: var(--color-accent);
