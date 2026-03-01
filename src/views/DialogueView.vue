@@ -1,46 +1,188 @@
 <template>
   <div class="dialogue-view">
-    <h1>对话查询</h1>
-    <p>游戏: DS{{ game }} | NPC: {{ npc }}</p>
-    <p class="placeholder">对话功能开发中...</p>
-    <router-link to="/" class="back-link">← 返回首页</router-link>
+    <header class="view-header">
+      <div class="header-content">
+        <router-link to="/" class="back-link">← 返回</router-link>
+        <h1 class="title">{{ title }}</h1>
+        <LanguageSwitch />
+      </div>
+    </header>
+
+    <main class="view-main">
+      <div v-if="loading" class="loading">
+        <div class="spinner"></div>
+        <p>加载中...</p>
+      </div>
+
+      <div v-else-if="error" class="error">
+        <p>❌ 加载失败</p>
+        <p class="error-message">{{ error.message }}</p>
+        <button @click="loadDialogue" class="retry-btn">重试</button>
+      </div>
+
+      <div v-else-if="!dialogue" class="empty">
+        <p>未找到对话数据</p>
+      </div>
+
+      <DialogueCard v-else :dialogue="dialogue" />
+    </main>
   </div>
 </template>
 
 <script setup lang="ts">
-defineProps<{
+import { ref, computed, onMounted } from 'vue';
+import { GAME_NAMES } from '@/utils/constants';
+import DialogueCard from '@/components/DialogueCard.vue';
+import LanguageSwitch from '@/components/LanguageSwitch.vue';
+import type { Dialogue, GameVersion } from '@/types/item';
+
+const props = defineProps<{
   game: string;
   npc: string;
 }>();
+
+const dialogue = ref<Dialogue | null>(null);
+const loading = ref(false);
+const error = ref<Error | null>(null);
+
+const gameNum = computed(() => Number(props.game) as GameVersion);
+
+const title = computed(() => {
+  return `${GAME_NAMES[gameNum.value]} - ${props.npc}`;
+});
+
+const loadDialogue = async () => {
+  loading.value = true;
+  error.value = null;
+
+  try {
+    const module = await import(`@/data/ds${props.game}/dialogues/${props.npc}.json`);
+    dialogue.value = module.default;
+  } catch (e) {
+    error.value = e as Error;
+    console.error(`Failed to load dialogue for ${props.npc}:`, e);
+  } finally {
+    loading.value = false;
+  }
+};
+
+onMounted(() => {
+  loadDialogue();
+});
 </script>
 
 <style scoped lang="scss">
+@import '@/assets/styles/variables.scss';
+
 .dialogue-view {
-  padding: 2rem;
-  text-align: center;
+  min-height: 100vh;
+  background: var(--color-bg-primary);
+}
 
-  h1 {
+.view-header {
+  background: var(--color-bg-secondary);
+  border-bottom: 1px solid var(--color-border);
+  padding: 1rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-content {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.back-link {
+  padding: 0.5rem 1rem;
+  background: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  border-radius: 4px;
+  color: var(--color-text-primary);
+  text-decoration: none;
+  transition: all 0.2s ease;
+
+  &:hover {
+    border-color: var(--color-accent);
     color: var(--color-accent);
-    margin-bottom: 1rem;
+  }
+}
+
+.title {
+  flex: 1;
+  font-size: 1.5rem;
+  color: var(--color-accent);
+  margin: 0;
+  font-weight: 500;
+}
+
+.view-main {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+.loading,
+.error,
+.empty {
+  text-align: center;
+  padding: 4rem 2rem;
+  color: var(--color-text-secondary);
+}
+
+.loading {
+  .spinner {
+    width: 48px;
+    height: 48px;
+    margin: 0 auto 1rem;
+    border: 4px solid var(--color-border);
+    border-top-color: var(--color-accent);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+  }
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+.error {
+  .error-message {
+    color: #ff6b6b;
+    margin: 1rem 0;
+    font-size: 0.9rem;
   }
 
-  .placeholder {
-    margin: 3rem 0;
-    font-size: 1.2rem;
-    color: var(--color-text-secondary);
-  }
-
-  .back-link {
-    display: inline-block;
+  .retry-btn {
     padding: 0.75rem 1.5rem;
     background: var(--color-bg-secondary);
     border: 1px solid var(--color-border);
     border-radius: 4px;
-    margin-top: 2rem;
+    color: var(--color-text-primary);
+    cursor: pointer;
+    transition: all 0.2s ease;
 
     &:hover {
       border-color: var(--color-accent);
+      color: var(--color-accent);
     }
+  }
+}
+
+@media (max-width: 768px) {
+  .header-content {
+    flex-wrap: wrap;
+  }
+
+  .title {
+    width: 100%;
+    order: -1;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
   }
 }
 </style>

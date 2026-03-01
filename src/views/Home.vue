@@ -1,6 +1,9 @@
 <template>
   <div class="home">
     <header class="header">
+      <div class="header-top">
+        <LanguageSwitch />
+      </div>
       <h1>黑暗之魂系列文本数据库</h1>
       <p class="subtitle">Dark Souls Series Text Database</p>
     </header>
@@ -39,6 +42,7 @@
 import { computed } from 'vue';
 import { useGameStore } from '@/stores/game';
 import { ITEM_COUNTS } from '@/utils/constants';
+import LanguageSwitch from '@/components/LanguageSwitch.vue';
 import type { GameVersion, ItemType } from '@/types/item';
 
 const gameStore = useGameStore();
@@ -76,6 +80,12 @@ gameStore.loadGame();
 .header {
   text-align: center;
   margin-bottom: 3rem;
+
+  .header-top {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 2rem;
+  }
 
   h1 {
     font-size: 2.5rem;
