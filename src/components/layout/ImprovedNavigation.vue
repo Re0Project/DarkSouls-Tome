@@ -1,5 +1,5 @@
 <template>
-  <div class="improved-nav">
+  <div :class="['improved-nav', { scrolled: isScrolled }]">
     <div class="nav-container">
       <!-- Logo 和游戏切换 -->
       <div class="nav-header">
@@ -109,7 +109,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, computed } from 'vue';
+import { ref, computed, onMounted, onUnmounted } from 'vue';
 import { useRoute, useRouter } from 'vue-router';
 import { useUserStore } from '@/stores/user';
 import type { Language } from '@/types/item';
@@ -147,6 +147,7 @@ const currentGame = computed(() => {
 const currentLanguage = computed(() => userStore.currentLanguage);
 
 const mobileMenuOpen = ref(false);
+const isScrolled = ref(false);
 
 const switchGame = (gameId: number) => {
   const currentType = route.params.type;
@@ -166,6 +167,25 @@ const toggleMobileMenu = () => {
 const closeMobileMenu = () => {
   mobileMenuOpen.value = false;
 };
+
+const handleScroll = () => {
+  isScrolled.value = window.scrollY > 50;
+  // 给 body 添加/移除 class 以调整页面布局
+  if (isScrolled.value) {
+    document.body.classList.add('nav-scrolled');
+  } else {
+    document.body.classList.remove('nav-scrolled');
+  }
+};
+
+onMounted(() => {
+  window.addEventListener('scroll', handleScroll);
+});
+
+onUnmounted(() => {
+  window.removeEventListener('scroll', handleScroll);
+  document.body.classList.remove('nav-scrolled');
+});
 </script>
 
 <style scoped lang="scss">
@@ -178,6 +198,17 @@ const closeMobileMenu = () => {
   backdrop-filter: blur(10px);
   border-bottom: 2px solid #430;
   z-index: 999;
+  transition: all 0.3s ease;
+
+  &.scrolled {
+    .nav-header {
+      max-height: 0;
+      padding: 0;
+      opacity: 0;
+      overflow: hidden;
+      border-bottom: none;
+    }
+  }
 }
 
 .nav-container {
@@ -196,6 +227,9 @@ const closeMobileMenu = () => {
   justify-content: space-between;
   padding: 0.6em 0;
   border-bottom: 1px solid #430;
+  max-height: 100px;
+  opacity: 1;
+  transition: all 0.3s ease;
 
   @media (max-width: 1000px) {
     padding: 0.5em 0;

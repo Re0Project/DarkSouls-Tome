@@ -154,7 +154,7 @@ onMounted(() => {
   padding-top: 110px;
 
   @media (max-width: 1000px) {
-    padding-top: 90px;
+    padding-top: 95px;
   }
 }
 

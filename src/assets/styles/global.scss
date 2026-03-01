@@ -37,6 +37,22 @@ body {
   font-family: '仿宋', 'SimSun', serif;
   color: #ccc;
   line-height: 1.5;
+  transition: padding-top 0.3s ease;
+}
+
+// 导航栏滚动状态下的页面布局调整
+body.nav-scrolled {
+  .detail-layout,
+  .catalog-layout,
+  .favorite-layout,
+  .dialogue-layout,
+  .dialogue-list-layout {
+    padding-top: 60px !important;
+
+    @media (max-width: 1000px) {
+      padding-top: 55px !important;
+    }
+  }
 }
 
 // 链接样式
