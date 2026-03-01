@@ -22,6 +22,12 @@ const router = createRouter({
     },
     {
       path: '/ds:game/dialogue',
+      name: 'DialogueList',
+      component: () => import('@/views/DialogueList.vue'),
+      props: true
+    },
+    {
+      path: '/ds:game/dialogue/:npc',
       name: 'DialogueView',
       component: () => import('@/views/DialogueView.vue'),
       props: true

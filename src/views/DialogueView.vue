@@ -1,35 +1,40 @@
 <template>
   <div class="dialogue-view">
-    <header class="view-header">
-      <div class="header-content">
-        <h1 class="title">{{ title }}</h1>
-      </div>
-    </header>
+    <ImprovedNavigation />
+    <div class="dialogue-layout">
+      <SidebarNav />
+      <main class="dialogue-main">
+        <div class="dialogue-container">
+          <h2 class="page-title">{{ title }}</h2>
 
-    <main class="view-main">
-      <div v-if="loading" class="loading">
-        <div class="spinner"></div>
-        <p>加载中...</p>
-      </div>
+          <div v-if="loading" class="loading">
+            <div class="loading-spinner"></div>
+            <p>加载中...</p>
+          </div>
 
-      <div v-else-if="error" class="error">
-        <p>❌ 加载失败</p>
-        <p class="error-message">{{ error.message }}</p>
-        <button @click="loadDialogue" class="retry-btn">重试</button>
-      </div>
+          <div v-else-if="error" class="error">
+            <p>❌ 加载失败</p>
+            <p class="error-message">{{ error.message }}</p>
+            <button @click="loadDialogue" class="retry-btn">重试</button>
+          </div>
 
-      <div v-else-if="!dialogue" class="empty">
-        <p>未找到对话数据</p>
-      </div>
+          <div v-else-if="!dialogue" class="empty">
+            <p>未找到对话数据</p>
+            <router-link :to="`/ds${game}/dialogue`" class="back-link">返回对话列表</router-link>
+          </div>
 
-      <DialogueCard v-else :dialogue="dialogue" />
-    </main>
+          <DialogueCard v-else :dialogue="dialogue" />
+        </div>
+      </main>
+    </div>
   </div>
 </template>
 
 <script setup lang="ts">
 import { ref, computed, onMounted } from 'vue';
 import { GAME_NAMES } from '@/utils/constants';
+import ImprovedNavigation from '@/components/layout/ImprovedNavigation.vue';
+import SidebarNav from '@/components/layout/SidebarNav.vue';
 import DialogueCard from '@/components/dialogue/DialogueCard.vue';
 import type { Dialogue, GameVersion } from '@/types/item';
 
@@ -69,94 +74,91 @@ onMounted(() => {
 </script>
 
 <style scoped lang="scss">
-@import '@/assets/styles/variables.scss';
-
 .dialogue-view {
   min-height: 100vh;
-  background: var(--color-bg-primary);
+  background: #000;
 }
 
-.view-header {
-  background: var(--color-bg-secondary);
-  border-bottom: 1px solid var(--color-border);
-  padding: 1rem 0;
-  position: sticky;
-  top: 0;
-  z-index: 100;
+.dialogue-layout {
+  display: flex;
+  padding-top: 120px;
+
+  @media (max-width: 1000px) {
+    padding-top: 100px;
+  }
 }
 
-.header-content {
+.dialogue-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.dialogue-container {
+  padding: 2em;
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0 1rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+  @media (max-width: 1000px) {
+    padding: 1em;
+  }
 }
 
-.title {
-  font-size: 1.5rem;
-  color: var(--color-accent);
-  margin: 0;
-  font-weight: 500;
-}
+.page-title {
+  color: #960;
+  font-size: 1.8em;
+  margin: 0 0 1.5em 0;
+  font-family: '仿宋', 'SimSun', serif;
 
-.view-main {
-  max-width: 1000px;
-  margin: 0 auto;
-  padding: 2rem 1rem;
+  @media (max-width: 1000px) {
+    font-size: 1.4em;
+  }
 }
 
 .loading,
 .error,
 .empty {
   text-align: center;
-  padding: 4rem 2rem;
-  color: var(--color-text-secondary);
-}
+  padding: 4em 2em;
+  color: #ccc;
+  font-family: '仿宋', 'SimSun', serif;
 
-.loading {
-  .spinner {
+  .loading-spinner {
     width: 48px;
     height: 48px;
-    margin: 0 auto 1rem;
-    border: 4px solid var(--color-border);
-    border-top-color: var(--color-accent);
+    margin: 0 auto 1em;
+    border: 4px solid #430;
+    border-top-color: #960;
     border-radius: 50%;
     animation: spin 1s linear infinite;
+  }
+
+  .error-message {
+    color: #f66;
+    margin: 1em 0;
+    font-size: 0.9em;
+  }
+
+  .retry-btn,
+  .back-link {
+    display: inline-block;
+    margin-top: 1em;
+    padding: 0.75em 1.5em;
+    background: #111;
+    border: 1px solid #430;
+    color: #960;
+    cursor: pointer;
+    transition: 0.3s;
+    font-family: '仿宋', 'SimSun', serif;
+    text-decoration: none;
+
+    &:hover {
+      border-color: #960;
+      background: #222;
+    }
   }
 }
 
 @keyframes spin {
   to { transform: rotate(360deg); }
-}
-
-.error {
-  .error-message {
-    color: #ff6b6b;
-    margin: 1rem 0;
-    font-size: 0.9rem;
-  }
-
-  .retry-btn {
-    padding: 0.75rem 1.5rem;
-    background: var(--color-bg-secondary);
-    border: 1px solid var(--color-border);
-    border-radius: 4px;
-    color: var(--color-text-primary);
-    cursor: pointer;
-    transition: all 0.2s ease;
-
-    &:hover {
-      border-color: var(--color-accent);
-      color: var(--color-accent);
-    }
-  }
-}
-
-@media (max-width: 768px) {
-  .title {
-    font-size: 1.2rem;
-  }
 }
 </style>
