@@ -1,6 +1,431 @@
 {
   "npc": "ciaran",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/ciaran.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/ciaran.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0未持有亚尔特留斯的灵魂时攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……你是人类吗……？",
+      "jap": "…貴公、人間か…",
+      "eng": "...Are you human?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "……也罢，",
+      "jap": "…まあ、それもよい",
+      "eng": "...I forgive you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我正在拜祭我的朋友。",
+      "jap": "これは、私の友の弔いなのだ",
+      "eng": "I am here to pay respects to a dear friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "不好意思，请不要打扰我，好吗……",
+      "jap": "すまないが、少し一人にしてくれないか…",
+      "eng": "Please, allow me a moment alone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0持有亚尔特留斯的灵魂时攀谈",
+      "jap": "#0話しかけた:1回目アルトリウスのソウルを所持",
+      "eng": "#0Talk-1st time holding the Soul of Artorias",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "……你手上那是……",
+      "jap": "…貴公、それは…",
+      "eng": "...You, is that not...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "不正是毙命此处的那位男子，他的魂魄吗？",
+      "jap": "それは、ここで倒れた男の、魂ではないか？",
+      "eng": "The soul of the man who fell on this spot?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……我是那位男子的朋友，\r\n我想好好悼念他的魂魄。",
+      "jap": "…私は、その男の友だった\r\nだから、その魂を、しっかりと弔いたい",
+      "eng": "He was a dear friend.\r\nI wish to pay proper respect, with that soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "意下如何？是否能将够将它转让给我呢？",
+      "jap": "どうだろう？それを譲ってはくれないだろうか？",
+      "eng": "Would you be willing to part with it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0您要将亚尔特留斯的灵魂交给对方吗？第1次选择「否」",
+      "jap": "#0話しかけた:1回目アルトリウスのソウルを所持・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "这样啊……",
+      "jap": "そうか…",
+      "eng": "Yes, of course...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "……是我唐突了。",
+      "jap": "…いや、すまなかった",
+      "eng": "...I must not be presumptuous.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "亚尔特留斯也不愿看到强买强卖……",
+      "jap": "無理強いは、アルトリウスも望むまい…",
+      "eng": "Artorias would not have approved.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目・【NO】選択後",
+      "eng": "#0Talk-2nd time after choosing \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "怎么了？你还有事吗？",
+      "jap": "どうした？まだ何かあるのか？",
+      "eng": "What is it? Something else?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "如果愿意转让灵魂，非常欢迎。",
+      "jap": "もし譲ってくれる気になったのなら、歓迎だがな",
+      "eng": "Have you changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0您要将亚尔特留斯的灵魂交给对方吗？第2次选择「否」",
+      "jap": "#0話しかけた:2回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" after choosing \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "……没别的事了吧……？",
+      "jap": "…では、特に用もないはずだな…",
+      "eng": "...Then you have no business with me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0您要将亚尔特留斯的灵魂交给对方吗？选择「是」",
+      "jap": "#0話しかけた:1回目アルトリウスのソウルを所持・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "谢谢你，我代替故友感谢你。",
+      "jap": "ありがとう。友として、貴公に感謝する",
+      "eng": "Thank you. You are very kind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "这是一点小心意……我已经不需要用到它了。",
+      "jap": "これは、せめてもの礼だ。…もはや私には、不要なものだ",
+      "eng": "Please take this. I no longer need it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "愿你永受圣王指引。",
+      "jap": "貴公に王の導きのあらんことを",
+      "eng": "May the Lord guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0选择「是」后攀谈",
+      "jap": "#0話しかけた:2回目・アルトリウスのソウルを渡した後",
+      "eng": "#0Talk-2nd time after choosing \"Yes\" to the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "愿你永受圣王指引。",
+      "jap": "貴公に王の導きのあらんことを",
+      "eng": "May the Lord guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "咕",
+      "jap": "クッ",
+      "eng": "Hrk!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "咕",
+      "jap": "グッ",
+      "eng": "Erg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "呜",
+      "jap": "ウッ",
+      "eng": "Ooh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "哼，人类就是人类。",
+      "jap": "フン、所詮人間か",
+      "eng": "Hmph, you humans...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "那好，就用你们的方式把灵魂抢到手吧。",
+      "jap": "よかろう、貴公らの流儀で、貰い受けるとしよう",
+      "eng": "...always taking what you please. Then, I shall do the same.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "哼，不知好歹……",
+      "jap": "フン、思い上がりが…",
+      "eng": "Hmph, such conceit...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "天真地以为，王的先锋不会波及自身吗……？",
+      "jap": "王の刃、貴公らに届かぬものと思ったか…",
+      "eng": "How did you imagine that the Lord's Blade would not reach you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "呜，怎么可能……",
+      "jap": "グウッ、そんな…",
+      "eng": "But, how...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "人类……",
+      "jap": "人間とは…",
+      "eng": "You humans...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#2（仅英文语音）亲爱的，亚尔特留斯……#3",
+      "jap": "…",
+      "eng": "(No caption) My dear Artorias...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "##……人类……",
+      "jap": "##…人間…",
+      "eng": "##...Human...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "##……为什么你会拥有亚尔特留斯的戒指……？",
+      "jap": "##…貴様なぜ、アルトリウスの指輪を持っている…",
+      "eng": "##...Why have you the ring of Artorias?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "##……为什么你会拥有亚尔特留斯的魂魄……？",
+      "jap": "##…貴様なぜ、アルトリウスの魂を持っている…",
+      "eng": "##...Why have you the soul of Artorias?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "##……我叫基亚蓝，那是我伙伴的遗物，你必须还给我……",
+      "jap": "##…私はキアラン。仲間の形見だ、返してもらうぞ…",
+      "eng": "##...I am Ciaran, and that is a keepsake.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "##……你那只戒指……",
+      "jap": "##…貴公、その指輪…",
+      "eng": "##...That ring...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "##那只戒指……是我被身穿大衣的男子偷走的东西。",
+      "jap": "##その指輪は…コートの男が、盗んでいったもの",
+      "eng": "##It was purloined by a man in a long coat...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "##……虽然不清楚你是怎么拿到手的，",
+      "jap": "##…貴公がなぜそれを持つのか、分からないが",
+      "eng": "##I know not how you came upon it,",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "##那是毙命此处的男子，他的重要遗物。",
+      "jap": "##それは、ここで倒れた男の、大切な形見なのだ",
+      "eng": "##but its owner met his death here.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "##我是那位男子的朋友，\r\n希望能凭吊他的遗物。",
+      "jap": "##私は、その男の友だった。\r\nだから、その形見を、弔いに供えたい",
+      "eng": "##He was a dear companion,\r\nand I wish to return the ring to his grave.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "##意下如何？是否能将戒指让给我呢？",
+      "jap": "##どうだろう？それを譲ってはくれないだろうか？",
+      "eng": "##Would you be willing to part with it?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "##那好，就用你们的方式对付你吧。",
+      "jap": "##よかろう、貴公らの流儀で、相手するとしよう",
+      "eng": "##...always resorting to force. Then, I shall do the same.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,2015 @@
 {
   "npc": "siegmeyer",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/siegmeyer.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/siegmeyer.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "嗯……",
+      "jap": "うーむ…",
+      "eng": "Mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "嗯────",
+      "jap": "ウムムムム…",
+      "eng": "Hrmmmmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "嗯……嗯……",
+      "jap": "うーむ…うーむ…",
+      "eng": "Mmm...mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "嗯……喔！",
+      "jap": "！お、おお！",
+      "eng": "Mm! Oh-hoh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "抱歉，我想得太入神了。",
+      "jap": "すまぬ。考え耽っていた",
+      "eng": "Forgive me. I was absorbed in thought.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "我是卡塔利纳的杰克麦雅。",
+      "jap": "私はカタリナのジークマイヤー",
+      "eng": "I am Siegmeyer of Catarina.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "老实说，我正有点困扰，",
+      "jap": "実は、少し難儀しているのだ",
+      "eng": "Quite honestly, I have run flat up against a wall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "就是不知道怎么开这道门。",
+      "jap": "そこの門が、どうしても開かなくてな",
+      "eng": "Or, a gate, I should say. The thing just won't budge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "我在这里一直等……就是没有办法打开，",
+      "jap": "もうずっと待ってるのだが…どうにもならん",
+      "eng": "No matter how long I wait. And, oh, have I waited!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "所以我才坐在这里思考要如何开门。",
+      "jap": "だから、ここへ座って、思案している",
+      "eng": "So, here I sit, in quite a pickle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "真是烦恼啊！",
+      "jap": "悩んでるんだよ！",
+      "eng": "Weighing my options, so to speak!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "哈哈哈哈",
+      "jap": "ガハハハハ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "打不开……",
+      "jap": "開かぬ…",
+      "eng": "Still closed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "打不开啊……",
+      "jap": "開かぬなあ…",
+      "eng": "Still closed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "嗯……",
+      "jap": "うーむ…",
+      "eng": "Mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0进入塞恩古城后，第1次攀谈",
+      "jap": "#0話しかけた:移動後1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "嗯……嗯……",
+      "jap": "うーむ…うーむ…",
+      "eng": "Mmm...mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "嗯……喔！",
+      "jap": "！お、おお！",
+      "eng": "Mm! Oh-hoh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "是你……我没想到还会见到你。",
+      "jap": "貴公は、いつぞやの…再び見えるとは、驚いたぞ",
+      "eng": "Ahh, where did you come from? Splendid news, I tell you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "哈哈哈哈",
+      "jap": "ガハハハハ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0进入塞恩古城后，第2次攀谈",
+      "jap": "#0話しかけた:移動後2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "嗯……看得出来吗？",
+      "jap": "ん、むむ…分かっちまうか？",
+      "eng": "Mn, mmm...Ah, so you see my plight?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "老实说，我又有点困扰了。",
+      "jap": "実は、また少し難儀しているのだ",
+      "eng": "Yes, indeed, I have run up against a wall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "……那边滚来滚去的铁球……",
+      "jap": "…あの、鉄球ゴロゴロがな…",
+      "eng": "...Or, a ball, to be precise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "……你看，我胖胖的，对吧？\r\n铁球滚动的速度实在太快了……",
+      "jap": "…ほら、私はなんとなく太っているだろう？\r\nゴロゴロが速すぎるんだ…",
+      "eng": "...I'm afraid I'm a bit too plump\r\nto be outrunning those things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "所以我才坐在这里思考解决方法。",
+      "jap": "だから、ここへ座って、思案している",
+      "eng": "So, here I sit, in quite a pickle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "一定还有其他解决方法吧？",
+      "jap": "また、なんとかなるかもしれないだろう？",
+      "eng": "But who knows? Perhaps we'll have another development?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "哈哈哈哈",
+      "jap": "ガハハハハ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0进入塞恩古城后，第3次攀谈",
+      "jap": "#0話しかけた:移動後3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "如果和铁球一起滚……",
+      "jap": "転がればもしかして…",
+      "eng": "Perhaps I could try some rolling...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "……不行，头会晕。",
+      "jap": "…無理だなあ。目も回るし",
+      "eng": "...Bah, no chance. My head would spin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "嗯……",
+      "jap": "うーむ…",
+      "eng": "Mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0到达亚诺尔隆德后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "嗯……",
+      "jap": "うーむ…",
+      "eng": "Mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "嗯────",
+      "jap": "ウムムムム…",
+      "eng": "Hrmmmmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "该怎么做啊……",
+      "jap": "さてどうしたものか…",
+      "eng": "Whatever can be done?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0到达亚诺尔隆德后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "喔，是你啊！",
+      "jap": "おお、貴公か！",
+      "eng": "Ah, you again!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "看来你也和我一样，\r\n被那些银骑士追到这边来是吧？",
+      "jap": "どうやら同じ境遇だな\r\n銀の騎士たちから逃げてきたのだろう",
+      "eng": "Let me guess.\r\nWere you repelled by the Silver Knights?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "不要不好意思啦，我也是一样，\r\n去硬拼的才是笨蛋。",
+      "jap": "なあに、恥じることは無い\r\n私も同じだ、無謀は阿呆の仕業だからな",
+      "eng": "Aww, don't be ashamed.\r\n'Tis the fate of vanguards like you and I.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "我想到一个好方法，我们合作吧！",
+      "jap": "今いい案を考える。協力してなんとかしようじゃないか！",
+      "eng": "I'll think of something. We can overcome this, together!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0到达亚诺尔隆德后，第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "怎么做呢……",
+      "jap": "どうしたものか…",
+      "eng": "This is quite a fix...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "还要再三个人，不，五个人才够吧……",
+      "jap": "やはり、あと3人、いや5人くらいは必要か…",
+      "eng": "We'll need another three, no, maybe five bodies...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "嗯……真是烦人啊……",
+      "jap": "うーむ…悩ましい…",
+      "eng": "Hmm...quite a fix indeed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0击杀隔壁房间3个银骑士后，第4次攀谈",
+      "jap": "#0話しかけた:4回目・部屋の銀騎士を倒した後",
+      "eng": "#0Talk-After defeating the Silver Knights in the adjacent room",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "嗯……嗯……",
+      "jap": "うーむ…うーむ…",
+      "eng": "Mmm...mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "嗯……喔！",
+      "jap": "！お、おお！",
+      "eng": "Mm! Oh-hoh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "怎么了！",
+      "jap": "どうしたのだ？",
+      "eng": "What's on your mind, friend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "不会吧……你打到那些家伙了？",
+      "jap": "まさか貴公…あやつらを倒したのか！",
+      "eng": "Wait!...You defeated those monsters?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "还真是蛮干啊……不过也帮了我，\r\n我卡塔利纳的杰克麦雅，在此向你道谢。",
+      "jap": "なんと豪気な…だが、助かった\r\nカタリナのジークマイヤー、貴公に礼を言おう",
+      "eng": "Fantastic...I am saved.\r\nThis knight of Catarina hereby commends you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "这是我的心意，请你受下吧。",
+      "jap": "これは感謝の気持ちだ。受け取ってくれ",
+      "eng": "Take this, as a token of my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "但是我有点担心你，不要太蛮干啦……",
+      "jap": "だがな、貴公が心配で言うが、あまり豪気なのも考えものだぞ…",
+      "eng": "But be warned, gallantry entails great risks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "虽然说平安就好，\r\n但有时也可以等我想出办法再行动啊。",
+      "jap": "無事だからよかったものの\r\n私の策を待つこともできたのだからな",
+      "eng": "Next time,\r\ngive me a chance to come up with a plan.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0返回传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "喔，是你啊，真没想到会在这见到你。",
+      "jap": "おお、貴公。望外だ、こんなところで会えるとは",
+      "eng": "Well! Fancy meeting you here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "在上面多谢你的帮忙了，很感谢你。",
+      "jap": "上では色々と世話になったからな。感謝しているよ",
+      "eng": "You did much for me up above. I am grateful.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "对了，有件事……",
+      "jap": "あと、それとだ…",
+      "eng": "You know, I was thinking...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "我想了很久，古城的门……",
+      "jap": "よく思索してみたんだが、古城の門は…",
+      "eng": "The gates at the old fortress...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "是你干的吧？",
+      "jap": "ありゃあ、貴公の仕業じゃないのか？",
+      "eng": "Was that your doing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0您打算如何回答？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "是吗？",
+      "jap": "そうなのか？",
+      "eng": "Is that so?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "那……算了。世上总是会有些奇妙的事啊……",
+      "jap": "では…まあいい。不思議なこともあるものだな…",
+      "eng": "Hmm, no matter. Stranger things have happened.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "做事情果然要有耐心啊……",
+      "jap": "やはり果報は待つものか…",
+      "eng": "Sometimes one only has to give it some time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "是吗，果然是你吗！",
+      "jap": "そうか、やはりそうだったか！",
+      "eng": "Yes! I knew it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "我就觉得这太巧了。",
+      "jap": "私も、できすぎた偶然だとは思っていたんだ",
+      "eng": "It seemed like an unlikely coincidence.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "谢谢你。\r\n我卡塔利纳的杰克麦雅，郑重向你道谢。",
+      "jap": "いや、ありがとう\r\nカタリナのジークマイヤー、改めて貴公に礼を言おう",
+      "eng": "Well, am I fortunate!\r\nThis knight of Catarina thanks you sincerely.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "这是我的一点心意，请你收下。",
+      "jap": "これは感謝の気持ちだ。受け取ってくれ",
+      "eng": "Please take this, as a token of my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0返回传火祭祀场后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "喔，是你啊。",
+      "jap": "おお、貴公か",
+      "eng": "There you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "我也马上要往下走，",
+      "jap": "私は、もうすぐ下に向かうつもりだ",
+      "eng": "I'll be heading down below shortly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "上面已经没有我要找的东西了。",
+      "jap": "上には、目指すものは、何も無かったからな",
+      "eng": "There's nothing worthwhile up above.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "别担心，英雄就是会探险嘛。我早就觉悟了。",
+      "jap": "なあに、探索は英雄の嗜みさ。覚悟はできている",
+      "eng": "No worries! Adventuring is my life; I'm prepared for the worst.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "哈哈哈哈",
+      "jap": "ガハハハハ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0到达病村后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "呼……呼……",
+      "jap": "グゥ…グゥ…",
+      "eng": "Sng...sng...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "呼──",
+      "jap": "フゴーッ",
+      "eng": "Zzzzzz...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0到达病村后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "嗯……喔！",
+      "jap": "！お、おお！",
+      "eng": "Mm! Oh-hoh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "是你啊，抱歉。\r\n我也真是的，想到出神，居然打瞌睡起来了。",
+      "jap": "貴公か。すまぬ\r\n私としたことが、考え耽っていたら、うとうとしてしまった",
+      "eng": "Excuse me.\r\nI was so absorbed in thought, I just drifted away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "都是因为一直想不出好的方法啊。",
+      "jap": "というのも、実は、少し往生していてな",
+      "eng": "You see, I'm actually in a bit of a fix.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "来到这里时还挺顺利的，\r\n但是返程所要的解毒苔藓却掉了……",
+      "jap": "順調にここまできたのはいいのだが…\r\n帰り道に必要な、毒消しの苔が無くなってしまった…",
+      "eng": "I've made it this far,\r\nbut I'm short on antitode moss for the trip back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "我杰克麦雅身为骑士，只好丢脸一问了……",
+      "jap": "騎士ジークマイヤー、恥を忍んで言うのだが…",
+      "eng": "By my knighthood, I am ashamed to ask...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "你有解毒苔藓的话，可以让一些给我吗？",
+      "jap": "貴公、苔を持っていたら、幾つか譲ってくれんか？",
+      "eng": "But can you spare a few scraps of moss?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0您要将毒紫苔藓球交给对方吗？选择「否」，或持有毒紫苔藓球不足3个",
+      "jap": "#0話しかけた:2回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query or \"Yes\" without carrying 3 Purple Moss Clumps",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "好吧……",
+      "jap": "そうか…",
+      "eng": "Yes, I see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "不，我能了解。",
+      "jap": "いや、分かっておる",
+      "eng": "No need to worry!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "不要紧，不过是没有解毒苔藓，我还是会有办法。",
+      "jap": "大丈夫だ。苔など無くとも、どうにかしてみせるさ",
+      "eng": "I'll be fine. I can make it without that silly moss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "没有事情是在我\r\n苦思之后解决不了的。",
+      "jap": "私が思索して、うまくいかなかったことなど\r\n一度もないのだからな",
+      "eng": "Think about it.\r\nHave I ever let a little hardship slow me down?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "哈哈哈哈",
+      "jap": "ガハハハハ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0选择「否」，或持有毒紫苔藓球不足3个时选择「是」后攀谈",
+      "jap": "#0話しかけた:3回目・【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\", or \"Yes\" without carrying 3 Purple Moss Clumps",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "嗯……",
+      "jap": "うーむ…うーむ…",
+      "eng": "Mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "嗯……喔！",
+      "jap": "！お、おお！",
+      "eng": "Mm! Oh-hoh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "是你啊，怎么了？",
+      "jap": "貴公か。どうしたのだ？",
+      "eng": "What's on your mind, friend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "你该不会……愿意给我苔藓？",
+      "jap": "まさか…苔か？",
+      "eng": "You've brought moss, perchance?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0您要将毒紫苔藓球交给对方吗？选择「是」",
+      "jap": "#0話しかけた:2回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "可以吗！",
+      "jap": "そうか！",
+      "eng": "Fantastic!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "太棒了，真是不好意思啊。",
+      "jap": "そうか、そうか！すまんのう",
+      "eng": "Thank you, a saint you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "我卡塔利纳的杰克麦雅，在此向你致谢。\r\n你的恩情，我一生都不会忘记的。",
+      "jap": "カタリナのジークマイヤー、貴公に感謝するぞ\r\nこの恩は生涯忘れん",
+      "eng": "This knight of Catarina expresses his deepest gratitude.\r\nI shall not forget this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "这是我的心意，请你受下吧。",
+      "jap": "これはその気持ちだ。受け取ってくれ",
+      "eng": "Please, take this; a symbol of my appreciation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "我觉得我和你还挺有缘的。",
+      "jap": "しかし、貴公とは不思議な縁があるのう",
+      "eng": "Well, our fates do seem entwined, don't they?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "说不定这一切都是葛温大王的旨意。",
+      "jap": "大王グウィンの思し召しかもしれんな",
+      "eng": "Perhaps this, too, is the will of Lord Gwyn!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "哈哈哈哈",
+      "jap": "ガハハハハ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0选择「是」后攀谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-After giving him 3 Purple Moss Clumps",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "毒沼啊……",
+      "jap": "毒沼か…",
+      "eng": "The Poison Swamp...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "会沉下去……",
+      "jap": "沈むからなあ…",
+      "eng": "It's like quicksand in there...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "嗯……",
+      "jap": "うーむ…",
+      "eng": "Mmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0到达伊札里斯后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "呼……呼……",
+      "jap": "グゥ…グゥ…",
+      "eng": "Sng...sng...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "呼──",
+      "jap": "フゴーッ",
+      "eng": "Zzzzzz...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "#0到达伊札里斯后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 115,
+      "chn": "嗯……喔！",
+      "jap": "！お、おお！",
+      "eng": "Mm! Oh-hoh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "是你啊，抱歉。\r\n我也真是的，想到出神，居然打瞌睡起来了。",
+      "jap": "貴公か。すまぬ\r\n私としたことが、考え耽っていたら、うとうとしてしまった",
+      "eng": "Excuse me.\r\nI was so absorbed in thought, I just drifted away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "这地方实在是太暖和了……那，有什么事吗？",
+      "jap": "どうも温かいところはいかんな…それで、どうしたのだ？",
+      "eng": "It must be the warmth. Well, what's on your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "不，不用说我也知道。\r\n你被那些怪物困住了对吧？",
+      "jap": "いや、言わずとも分かるぞ\r\nあの化け物どもに難儀しているのだろう？",
+      "eng": "No, don't tell me.\r\nThose monsters making life difficult for you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "不要觉得不好意思，我也是一样。",
+      "jap": "なに、恥じることは無い。私も同じだ",
+      "eng": "You need not be ashamed. We are in the same boat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "……话说回来，你实在是帮我太多忙了。",
+      "jap": "…だが、貴公には色々と世話になったこともある",
+      "eng": "...You know, I really have run up quite a debt to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "……时机说不定成熟了。",
+      "jap": "…時がきたのかもしれんな",
+      "eng": "...Perhaps the time has come...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0到达伊札里斯后，第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "我有个想法，你要听吗？",
+      "jap": "貴公、提案がある。聞いてくれるか",
+      "eng": "Friend, I have an idea. A good one, really.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "……我等等会突击那些怪物，\r\n你就趁机快逃吧。",
+      "jap": "…私が化け物どもに突撃する。\r\n貴公は、隙を見て逃げてくれ",
+      "eng": "...I will rush those dire fiends,\r\nand you can slip away in the confusion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "别在意，你帮了我太多了，",
+      "jap": "なあに、貴公には、色々と世話になったからな",
+      "eng": "Please, friend, I owe you much more than this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "我不在这儿展现一下卡塔利纳骑士的实力，\r\n可就太丢脸了。",
+      "jap": "お礼に、カタリナの騎士の力をみせつけねば\r\n武門の名折れと言うものだ",
+      "eng": "By the honour of the knights of Catarina,\r\nallow me to assist you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "……上啦，动作快！",
+      "jap": "…いくぞ。遅れるなよ！",
+      "eng": "And now, I go! Don't be slow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "#0在杰克麦雅跳下边缘前，击杀下方4个混沌吞噬者，返回上方攀谈",
+      "jap": "#0話しかけた:4回目・敵を全減させた後に話しかける",
+      "eng": "#0Talk-After defeating the 4 Chaos Eaters without him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 131,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "喔，是你啊……",
+      "jap": "おお、貴公か…",
+      "eng": "Oh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "难道……你打倒那些怪物了？",
+      "jap": "！まさか…あの化け物どもを倒したのか！",
+      "eng": "Wait!...Did you defeat those dire creatures?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "你可真是厉害啊……真厉害……",
+      "jap": "そうか、さすが貴公だ…さすがだ…",
+      "eng": "Outstanding...You never fail to impress.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "谢谢你。\r\n我卡塔利纳的杰克麦雅，在此向你道谢。",
+      "jap": "いや、ありがとう\r\nカタリナのジークマイヤー、貴公に礼を言おう",
+      "eng": "Well, wonderful.\r\nThis knight of Catarina thanks you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "这是我的心意，请你受下吧。",
+      "jap": "これは感謝の気持ちだ。受け取ってくれ",
+      "eng": "Take this, as a token of my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "都是我一直在说谢谢，",
+      "jap": "貴公にはずっと礼ばかりだな",
+      "eng": "I feel like I'm always thanking you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "没办法帮到你……",
+      "jap": "私は、何もできん…",
+      "eng": "I curse my own inability.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "#0跳下边缘开始战斗时",
+      "jap": "#0戦闘開始",
+      "eng": "#0After he drops off the ledge and begins to fight the 4 Chaos Eaters",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 140,
+      "chn": "哇────！",
+      "jap": "ウワァァァァァァァ！",
+      "eng": "Hrgrraaaaggh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "喝啊────！",
+      "jap": "どうりゃぁぁぁぁっ！",
+      "eng": "Hiyaaaaaah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "来吧，我在这儿，你们这些怪物！",
+      "jap": "どうした！こっちだぞ、化け物どもが！",
+      "eng": "C'mon! Over here, you fiends!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "去死吧！",
+      "jap": "死にくされ！",
+      "eng": "Perish, foul creatures!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "不要小看我，我可是卡塔利纳的杰克麦雅！",
+      "jap": "カタリナを、ジークマイヤーを舐めるなよ！",
+      "eng": "I am Siegmeyer of Catarina, and you shall feel my wrath!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "#0击杀下方4个混沌吞噬者后，杰克麦雅剩余血量低于50%时攀谈",
+      "jap": "#0話しかけた:4回目・カタリナのジークマイヤーのHPが50%以下",
+      "eng": "#0Talk-After defeating the 4 Chaos Eaters together, if he has less than 50% HP",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 146,
+      "chn": "呼……呼……",
+      "jap": "ハァ…ハァ…",
+      "eng": "Hng...hng...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "怎么，你没逃走啊……",
+      "jap": "なんだ、貴公、逃げて、いなかったのか…",
+      "eng": "Why, you! Didn't you get away?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "到头来，反而是你帮了我……",
+      "jap": "いや、むしろ助け、られたか…",
+      "eng": "Well, you've saved me, once again...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "真是抱歉，到了最后还是让你出手相救……",
+      "jap": "すまんのう、貴公には、世話ばかり、最後まで…",
+      "eng": "Dear me, what can I say? I have failed you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "呜……咳……",
+      "jap": "グフッ…ゲハッ…",
+      "eng": "Hrgph...Aggkt...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "啊，琳儿……",
+      "jap": "ああ、リンよぅ…",
+      "eng": "My dear little Lin...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "#0击杀下方4个混沌吞噬者后，杰克麦雅剩余血量在50%或更高时攀谈",
+      "jap": "#0話しかけた:4回目・カタリナのジークマイヤーのHPが50%以上",
+      "eng": "#0Talk-After defeating the 4 Chaos Eaters together, if he has 50% HP or more",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 153,
+      "chn": "呼……呼……",
+      "jap": "ハァ…ハァ…",
+      "eng": "Hng...hng...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "怎么，你没逃走啊……",
+      "jap": "なんだ、貴公、逃げて、いなかったのか…",
+      "eng": "But, you! Didn't you get away?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "到头来，反而是你帮了我……",
+      "jap": "いや、むしろ助け、られたか…",
+      "eng": "Well, you've saved me, once again...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "不过真是太好了……我有点累了……",
+      "jap": "だが、よかった…疲れた…",
+      "eng": "Thank goodness...I'm exhausted...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "我想小睡一下。",
+      "jap": "私は、少し眠るよ",
+      "eng": "I think I'll have a rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "别担心，我哪都可以睡，这可是我的特技啊……",
+      "jap": "なあに、どこでも寝るのが、私の特技さ…",
+      "eng": "Don't you worry, the ground below me is my pillow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "马上就可以恢复……",
+      "jap": "すぐに回復する…",
+      "eng": "I'll recover shortly...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 161,
+      "chn": "哇",
+      "jap": "うわっ",
+      "eng": "Yeeg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 162,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 163,
+      "chn": "喔",
+      "jap": "うおっ",
+      "eng": "Whoa!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 165,
+      "chn": "呜",
+      "jap": "なっ",
+      "eng": "Wha!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 166,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 167,
+      "chn": "怎么了",
+      "jap": "どうしたっ",
+      "eng": "Why, are you...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 168,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 169,
+      "chn": "我知道了！",
+      "jap": "ようし、わかった！",
+      "eng": "That's your game, is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 170,
+      "chn": "来吧，我不会手下留情的！",
+      "jap": "貴公がその気なら、手加減せぬわ！",
+      "eng": "Well, I'm certainly not backing down!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "让你看看骑士的力量！",
+      "jap": "騎士の力を見せてやろうぞ！",
+      "eng": "By the honour of my knighthood!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 172,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 173,
+      "chn": "天哪，我……",
+      "jap": "私としたことが…",
+      "eng": "Heavens, me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 174,
+      "chn": "琳儿……",
+      "jap": "リンよぅ…",
+      "eng": "My dear little Lin...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "##我也搞不懂，\r\n只听到一声很大声的吼叫声之后，门就打开了。",
+      "jap": "##よくわからんが\r\nでかい吠え声が聞こえたと思ったら、門が開いたのだ",
+      "eng": "##First, I hear a great roar.\r\nAnd, voila! The path is open.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "##做事情要有耐心，努力一定会得到回报的。",
+      "jap": "##果報は待つものだな。努力はきっと報われる",
+      "eng": "##Just goes to show. Good things come to those who wait!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "##嗯……嗯……",
+      "jap": "##うーむ…うーむ…",
+      "eng": "##Mmm...mmm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "##嗯……喔！",
+      "jap": "##！お、おお！",
+      "eng": "##Mm! Oh-hoh!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 179,
+      "chn": "##好久不见！",
+      "jap": "##貴公か！久しぶりだな！",
+      "eng": "##There you are! What a pleasure!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "##你看看我，一个不注意……就被抓了。",
+      "jap": "##私は、見ての通りだ。うっかり捕まっちまった",
+      "eng": "##Well, look at me. Trapped like a mouse.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 181,
+      "chn": "##但是你不用担心。",
+      "jap": "##だがな、貴公が案じることはない",
+      "eng": "##But, don't lose any sleep over me.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 182,
+      "chn": "##我坐在这想了很久了，",
+      "jap": "##もうずっと、ここへ座って、思案している",
+      "eng": "##I'm very focused, sitting here, so very still.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 183,
+      "chn": "##如果没错的话，应该要有好事发生了。",
+      "jap": "##いつもなら、そろそろよい事がおこるはずさ！",
+      "eng": "##Something good is bound to happen soon!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "##哈哈哈哈",
+      "jap": "##ガハハハハ",
+      "eng": "##Hah hah hah hah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 185,
+      "chn": "##要有钥匙才能出去……",
+      "jap": "##外に出るには鍵が必要…",
+      "eng": "##I require a key to exit.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 186,
+      "chn": "##但是钥匙在外面……",
+      "jap": "##鍵は外にある…",
+      "eng": "##But the key is on the outside...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 187,
+      "chn": "##嗯……不好解决……",
+      "jap": "##うーむ…難問だ…",
+      "eng": "##Hmm...I'm in quite a fix...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 188,
+      "chn": "##喔，是你啊！得救了！",
+      "jap": "##おお！貴公！助かった！",
+      "eng": "##Ahh! There you are! Bless you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 189,
+      "chn": "##真不好意思，又要你救我，谢谢你啊。",
+      "jap": "##また助けられるとは、かたじけないな",
+      "eng": "##You seem to help me at every turn.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 190,
+      "chn": "##我卡塔利纳的杰克麦雅，郑重向你道谢。",
+      "jap": "##カタリナのジークマイヤー、改めて貴公に礼を言おう",
+      "eng": "##This knight of Catarina expresses his deepest gratitude.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 191,
+      "chn": "##这是我的一点心意，请你收下。",
+      "jap": "##これは感謝の気持ちだ。受け取ってくれ",
+      "eng": "##Please take this, as a token of my appreciation.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 192,
+      "chn": "##没想到你会在这里出现。",
+      "jap": "##しかし、貴公が現れるとは",
+      "eng": "##I didn't expect you to show up.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 193,
+      "chn": "##在这边苦思果然还是有用的。",
+      "jap": "##やはり思案してみるものだな",
+      "eng": "##Although, maybe I did!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 194,
+      "chn": "##哈哈哈哈",
+      "jap": "##ガハハハハ",
+      "eng": "##Hah hah hah hah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 195,
+      "chn": "##喔，是你啊。",
+      "jap": "##おお、貴公か",
+      "eng": "##Ahh, hello, there.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 196,
+      "chn": "##我要在这里休息一下。",
+      "jap": "##私は、ここで少し休んでいくよ",
+      "eng": "##I'm going to take it slowly here, at least for now.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 197,
+      "chn": "##是我在这里待太久了吗？我居然觉得这房间不错。",
+      "jap": "##長居したせいか、意外と悪くない部屋なんだよ",
+      "eng": "##After all this time, it's not so intolerable.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 198,
+      "chn": "##什么地方都是住习惯就好啦。",
+      "jap": "##まあ、どこだって住めば都さ",
+      "eng": "##I've actually become quite fond of it!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 199,
+      "chn": "##哈哈哈哈",
+      "jap": "##ガハハハハ",
+      "eng": "##Hah hah hah hah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 200,
+      "chn": "##嗯……",
+      "jap": "##うーむ…",
+      "eng": "##Mmm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 201,
+      "chn": "##嗯────",
+      "jap": "##ウムムムム…",
+      "eng": "##Mmm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 202,
+      "chn": "##嗯……嗯……",
+      "jap": "##うーむ…うーむ…",
+      "eng": "##Mmm...mmm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 203,
+      "chn": "##嗯……喔！",
+      "jap": "##！お、おお！",
+      "eng": "##Mm! Oh-hoh!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 204,
+      "chn": "##抱歉，我想得太入神了。",
+      "jap": "##すまぬ。考え耽っていた",
+      "eng": "##Forgive me. I was absorbed in thought.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 205,
+      "chn": "##我是卡塔利纳的杰克麦雅。",
+      "jap": "##私はカタリナのジークマイヤー",
+      "eng": "##I am Siegmeyer of Catarina.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 206,
+      "chn": "##老实说，我正有点困扰。",
+      "jap": "##実は、少し難儀しているのだ",
+      "eng": "##Quite honestly, I have run up against a wall.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 207,
+      "chn": "##我想你应该看过了，那些烦人的眼珠蜥蜴。",
+      "jap": "##貴公も見たかもしれないが、目玉のトカゲが厄介でなあ",
+      "eng": "##Perhaps you've noticed those bug-eyed lizards?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 208,
+      "chn": "##我也不算弱，但是那个会吐石化气息，我真的束手无策，",
+      "jap": "##私も手だれだが、あれは石化の息を吐く。どうにもならん",
+      "eng": "##I've had a go at them, but their breath is petrifying.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 209,
+      "chn": "##所以就坐在这里想有没有好办法。",
+      "jap": "##だから、ここへ座って、思案している",
+      "eng": "##And so here I am, just thinking things over!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 210,
+      "chn": "##一定会让我想到好方法的。",
+      "jap": "##そのうち妙案がでるだろうさ",
+      "eng": "##Any moment now, and I'll be hit by an epiphany!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 211,
+      "chn": "##哈哈哈哈",
+      "jap": "##ガハハハハ",
+      "eng": "##Hah hah hah hah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 212,
+      "chn": "##嗯……嗯……",
+      "jap": "##うーむ…うーむ…",
+      "eng": "##Mmm...mmm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 213,
+      "chn": "##嗯……喔！",
+      "jap": "##！お、おお！",
+      "eng": "##Mm! Oh-hoh!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 214,
+      "chn": "##是你啊，抱歉，我想得太入神了。",
+      "jap": "##貴公か。すまぬ。考え耽っていた",
+      "eng": "##Forgive me. I was absorbed in thought.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 215,
+      "chn": "##我想你应该看到了，那些烦人的眼珠蜥蜴。",
+      "jap": "##貴公も見たかもしれないが、目玉のトカゲが厄介でなあ",
+      "eng": "##Perhaps you've noticed those bug-eyed lizards?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 216,
+      "chn": "##我也不算弱，但是那个会吐石化气息，我真的束手无策，",
+      "jap": "##私も手だれだが、あれは石化の息を吐く。どうにもならん",
+      "eng": "##I've had a go at them, but their breath is petrifying.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 217,
+      "chn": "##所以就坐在这里想有没有好办法。",
+      "jap": "##だから、ここへ座って、思案している",
+      "eng": "##And so here I am, just thinking things over!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 218,
+      "chn": "##一定会让我想到好方法的。",
+      "jap": "##そのうち妙案がでるだろうさ",
+      "eng": "##Any moment now, and I'll be hit by an epiphany!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 219,
+      "chn": "##哈哈哈哈",
+      "jap": "##ガハハハハ",
+      "eng": "##Hah hah hah hah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 220,
+      "chn": "##你有没有好办法？",
+      "jap": "##貴公、妙案はないか？",
+      "eng": "##What about you? Any ideas?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 221,
+      "chn": "##我想大概也没有吧……连我都想不出好方法了……",
+      "jap": "##ないだろうなあ…私ですらないのだからなあ…",
+      "eng": "##Ahh, I thought not. This is a difficult one, even for me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 222,
+      "chn": "##嗯……真是伤脑筋……",
+      "jap": "##うーむ…参ったぞ…",
+      "eng": "##Hmm...quite a fix indeed...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 223,
+      "chn": "##要刺眼睛吗……",
+      "jap": "##目潰し、とか…",
+      "eng": "##Perhaps I should aim for their eyes...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 224,
+      "chn": "##嗯……嗯……",
+      "jap": "##うーむ…うーむ…",
+      "eng": "##Mmm...mmm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 225,
+      "chn": "##嗯……喔！",
+      "jap": "##！お、おお！",
+      "eng": "##Mm! Oh-hoh!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 226,
+      "chn": "##怎么了？",
+      "jap": "##どうしたのだ？",
+      "eng": "##What's on your mind, friend?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 227,
+      "chn": "##难道你打倒那些眼珠蜥蜴了？",
+      "jap": "##まさか貴公…トカゲどもを倒したのか！",
+      "eng": "##Wait!...Did you defeat those lizards?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 228,
+      "chn": "##果然只要把眼睛给……算了，这不重要。",
+      "jap": "##やはり目玉が…いや、そんなことよりも",
+      "eng": "##Ahh, you went for the eyes! I knew it...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 229,
+      "chn": "##你帮了我一个大忙。我卡塔利纳的杰克麦雅，在此向你道谢。",
+      "jap": "##助かった。カタリナのジークマイヤー、貴公に礼を言おう",
+      "eng": "##I am saved. This knight of Catarina thanks you sincerely.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 230,
+      "chn": "##这是我的心意，请你受下吧。",
+      "jap": "##これは感謝の気持ちだ。受け取ってくれ",
+      "eng": "##Please take this, as a token of my gratitude.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 231,
+      "chn": "##但是我有点担心你，不要太硬干啦……",
+      "jap": "##だがな、貴公が心配で言うが、あまり無謀なのも考えものだぞ…",
+      "eng": "##But be warned, gallantry entails great risks.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 232,
+      "chn": "##虽然说平安就好，但有时也可以等我想出好招再行动啊。",
+      "jap": "##無事だからよかったものの、私の妙案を待てばよかったのだから",
+      "eng": "##Next time, give me a chance to come up with a plan.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 233,
+      "chn": "##呼……呼……",
+      "jap": "##グゥ…グゥ…",
+      "eng": "##Sng...sng...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 234,
+      "chn": "##……",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 235,
+      "chn": "##呼……呼……",
+      "jap": "##グゥ…グゥ…",
+      "eng": "##Sng...sng...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 236,
+      "chn": "##喔，是你啊。你没事呀！",
+      "jap": "##おお、貴公！無事だったか",
+      "eng": "##Hello, friend. Still holding up?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 237,
+      "chn": "##我一直在等待机会好好谢你呢，",
+      "jap": "##あの時の礼がまだだったからな。待っていたんだ",
+      "eng": "##I owe you much. I was hoping that you would come.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 238,
+      "chn": "##结果还是被你救了。\r\n我卡塔利纳的杰克麦雅，郑重向你道谢。",
+      "jap": "##ありがとう。結局、貴公に助けられた\r\nカタリナのジークマイヤー、改めて貴公に礼を言おう",
+      "eng": "##So that I could say thank you, for saving me.\r\nFrom one brave knight to another.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 239,
+      "chn": "##这是我的心意，拜托请你收下吧。",
+      "jap": "##これは感謝の気持ちだ。頼むから受け取ってくれ",
+      "eng": "##Please, take this, as a token of my gratitude.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 240,
+      "chn": "##太好了，这样就没有牵挂了。",
+      "jap": "##ああ、よかった。これで心残りはない",
+      "eng": "##This is a relief. Now I have no regrets.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 241,
+      "chn": "##终于可以踏上最后的探险旅程了……",
+      "jap": "##最後の探索に出かけるとしよう…",
+      "eng": "##I shall depart for my final adventure...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 242,
+      "chn": "##喔，是你啊。",
+      "jap": "##おお、貴公か",
+      "eng": "##Oh, hello, friend.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 243,
+      "chn": "##我将要踏上最后的探险旅程",
+      "jap": "##私は、もうすぐ最後の探索に向かう",
+      "eng": "##I am preparing for my final adventure.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 244,
+      "chn": "##……也祝你平安。",
+      "jap": "##貴公も…無事でな",
+      "eng": "##Wherever you go, may you be safe.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 245,
+      "chn": "##你可是真正的英雄啊。",
+      "jap": "##貴公を、本当の英雄だと思っているよ",
+      "eng": "##You are a true hero, to be sure.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 246,
+      "chn": "##喔，是你啊。",
+      "jap": "##おお、貴公か",
+      "eng": "##Oh, hello, friend.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 247,
+      "chn": "##……其实，我刚才见到了我的女儿，",
+      "jap": "##…実は、少し前に、娘に会ってな…",
+      "eng": "##...My daughter risked life and limb, just to find me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 248,
+      "chn": "##女儿是为了通知我妻子的遗言才来找我……\r\n那孩子又不是不死人，真是……",
+      "jap": "##妻の遺言を、伝えてくれてな…\r\n不死でもないのに、なんてことを…",
+      "eng": "##...to deliver her mother's last words...\r\nAnd the poor girl's not even Undead!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 249,
+      "chn": "##唉……",
+      "jap": "##ハァ…",
+      "eng": "##Sigh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 250,
+      "chn": "##是我没教好吗……",
+      "jap": "##育て方を間違ったのか…",
+      "eng": "##Heavens, I never asked her to do that...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

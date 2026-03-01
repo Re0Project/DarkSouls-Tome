@@ -1,6 +1,399 @@
 {
   "npc": "gwyndolin",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/gwyndolin.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/gwyndolin.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近葛温墓前的雾门时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching the Fog Gate before the tomb of Gwyn",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "请留步。",
+      "jap": "止まりなさい",
+      "eng": "Halt!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "前方即为葛温大王之墓，",
+      "jap": "これより先は、大王グウィンの墓所",
+      "eng": "This is the tomb of the Great Lord Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "无论来者何人，均不许玷污该处。",
+      "jap": "何人であれ、これを穢すことは許されない",
+      "eng": "Tarnished, it shall not be, by the feet of men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "若汝无不敬之意，并为黯影太阳之忠实信徒，",
+      "jap": "汝、不敬の意思なく、正しく陰の太陽の信徒ならば",
+      "eng": "If thou art a true disciple of the Dark Sun, cast aside thine ire, ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "当从吾，葛温德林所言，在此伏地跪拜。",
+      "jap": "我グウィンドリンの声を聞き、そこで跪くがよい",
+      "eng": "hear the voice of mineself, Gwyndolin, and kneel before me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第1次跪下",
+      "jap": "#0跪く:1回目",
+      "eng": "#0Kneel-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "黯影太阳的信徒呀，",
+      "jap": "陰の太陽の信徒よ",
+      "eng": "O Disciple of the Dark Sun.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "来此听吾言，诚难可贵。",
+      "jap": "よくぞここに至り、我の声を聞いた",
+      "eng": "Thou hast journeyed far; hear my voice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "汝若有决心立誓化为吾剑，以讨逆神贼敌，",
+      "jap": "汝、我の誓約者となり神の敵を狩る剣となる",
+      "eng": "If thou shalt swear by the Covenant, to become",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "成为吾父葛温，吾姊葛维艾薇雅之影──",
+      "jap": "我が父グウィンと、姉グウィネヴィアの陰となり",
+      "eng": "A shadow of Father Gwyn and Sister Gwynevere,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "化身征讨逆神贼敌的剑，",
+      "jap": "神の敵を狩る、剣となる覚悟があるならば",
+      "eng": "A blade that shall hunt the foes of our Lords;",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "吾当守护汝，\r\n并以黯影太阳、暗月之力助汝克敌。",
+      "jap": "我は汝を守護し、\r\n陰の太陽、暗月の力を、汝の助けとするだろう",
+      "eng": "Then I shalt protect thee,\r\nsafeguarding thy person with the power of the Darkmoon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0您要订立誓约吗？选择「否」",
+      "jap": "#0跪く:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to join Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "无妨。",
+      "jap": "それもよい",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "然则吾于汝已无庸赘言，",
+      "jap": "だが、ならば我らは交わらぬ",
+      "eng": "We shall not need speech.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "速速离开此处，完成汝应尽之职责吧。",
+      "jap": "ここを去り、汝のつとめを果たすがよい",
+      "eng": "Exit here, and follow thine own design.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0您要订立誓约吗？选择「是」",
+      "jap": "#0跪く:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to join Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "善哉。既然如此，汝自此便已成为暗月之剑，",
+      "jap": "よろしい。ならば、汝はこれより暗月の剣となる",
+      "eng": "Very well. Now thou art a Blade of the Darkmoon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "借黯影太阳、暗月之力，猎捕所有逆神贼敌吧。",
+      "jap": "陰の太陽、暗月の力もて、神の敵を狩るがよい",
+      "eng": "Hunteth the enemies of the Lords, by the power of the Dark Sun.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0加入暗月之剑誓约后，第1次跪下",
+      "jap": "#0跪く:暗月の剣誓約後:1回目",
+      "eng": "#0Kneel-1st time after joining the Blade of the Darkmoon Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "暗月之剑呀，欢迎回来。",
+      "jap": "よくぞ戻った。暗月の剣よ",
+      "eng": "Welcome back, Blade of the Darkmoon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "若汝欲吾力，吾必当戮力相助。",
+      "jap": "我の力が必要であれば、汝の助けとするがよい",
+      "eng": "If mine power be need'st, I shall assist thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0加入暗月之剑誓约后，第2次跪下",
+      "jap": "#0跪く:暗月の剣誓約後:2回目",
+      "eng": "#0Kneel-2nd time after joining the Blade of the Darkmoon Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "好，暗月之剑呀，",
+      "jap": "よいだろう、暗月の剣よ",
+      "eng": "Very well, Blade of the Darkmoon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "汝所求为何，但说无妨。",
+      "jap": "なんなりと、汝の希望を述べるがよい",
+      "eng": "Please state thy wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0进入雾门，开始战斗前",
+      "jap": "#0白い光の中に入る",
+      "eng": "#0After traversing the Fog Gate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "愚昧之徒……",
+      "jap": "愚かな…",
+      "eng": "What foolishness...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "身为黯影太阳的信徒，\r\n竟仍玷污大王之墓……",
+      "jap": "陰の太陽の信徒でありながら、\r\n大王の墓所を穢すとは…",
+      "eng": "Why trespasseth upon the Great Lord's tomb,\r\nwhilst thou art a disciple of the Dark Sun?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "吾以葛温德林之名立誓，",
+      "jap": "我グウィンドリンの名において",
+      "eng": "Mark the words of mineself, Gwyndolin!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "绝不宽待！",
+      "jap": "もはや、汝は許されん！",
+      "eng": "Thou shalt not go unpunished!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0加入暗月之剑誓约后，进入雾门，开始战斗前",
+      "jap": "#0暗月の剣誓約中に白い光の中に入る",
+      "eng": "#0After traversing the Fog Gate after joining the Blade of the Darkmoon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "愚昧之徒……",
+      "jap": "愚かな…",
+      "eng": "What foolishness...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "虽身为暗月之剑，\r\n竟仍玷污大王之墓……",
+      "jap": "暗月の剣となりながら、\r\n大王の墓所を穢すとは…",
+      "eng": "Why would a Blade of the Darkmoon\r\ntrespasseth upon the Great Lord's tomb?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "吾以葛温德林之名立誓，",
+      "jap": "我グウィンドリンの名において",
+      "eng": "Mark the words of mineself, Gwyndolin!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "绝不宽待！",
+      "jap": "もはや、汝は許されん！",
+      "eng": "Thou shalt not go unpunished!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0打破葛维艾薇雅的幻象后",
+      "jap": "#0太陽の王女グウィネヴィアを殺害後",
+      "eng": "#0After killing illusion of Gwynevere",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "手刃神祇形象之徒啊，",
+      "jap": "神の姿に刃するものよ",
+      "eng": "Thou that tarnisheth the Godmother's image.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "吾乃葛温德林。",
+      "jap": "我が名はグウィンドリン",
+      "eng": "I am Gwyndolin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "汝之不敬，乃不容宽待之重罪。",
+      "jap": "汝の不敬は、決して許されるものではない",
+      "eng": "And thy transgression shall not go unpunished.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "汝当永囚于亚诺尔隆德之夜。",
+      "jap": "アノール・ロンドの夜に果てるがよい",
+      "eng": "Thou shalt perish in the twilight of Anor Londo.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0打破葛维艾薇雅的幻象后，进入雾门，开始战斗前",
+      "jap": "#0太陽の王女グウィネヴィアを殺害後に白い光の中に入る",
+      "eng": "#0After killing illusion of Gwynevere & traversing the Fog Gate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "可恨的无礼之徒……",
+      "jap": "不敬者が…",
+      "eng": "Heretic...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "汝竟玷污公主形象，\r\n以至于大王之墓……",
+      "jap": "王女の姿のみならず、\r\n大王の墓所まで穢すとは…",
+      "eng": "First thou offendeth the Godmother,\r\nand now thou see fit to trample upon the tomb of the Great Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "吾以黯影太阳葛温德林之名立誓，",
+      "jap": "陰の太陽、グウィンドリンの名において",
+      "eng": "I am the Dark Sun, Gwyndolin!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "汝之不敬绝不予以宽待！",
+      "jap": "決して、許されるものと思うなよ！",
+      "eng": "Let the atonement for thy felonies commenceth!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0被击杀时",
+      "jap": "#0擊破した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "生于黑暗的无礼之徒啊……",
+      "jap": "闇に生まれた不敬者が…",
+      "eng": "O Heretic, swathed in Dark...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "汝将永世受诅……",
+      "jap": "貴様に、永遠の呪いを…",
+      "eng": "An eternal curse upon thee...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

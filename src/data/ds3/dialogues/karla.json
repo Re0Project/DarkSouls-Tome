@@ -1,6 +1,1239 @@
 {
   "npc": "karla",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/karla.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/karla.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，好久了啊。",
+      "jap": "…ほう、久しいな",
+      "eng": "Oh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我还以为已经被遗忘了，真高兴。",
+      "jap": "きっと忘れられたと思っていたが、嬉しいよ",
+      "eng": "I thought you'd all but forgotten me. How sweet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "看来我这黑瘪的身体还能逗你们这群生物开心啊。",
+      "jap": "暗く痩せた体とて、下種の慰みくらいにはなるようだな",
+      "eng": "Good to know that a skinny little heretic can still turn heads.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……",
+      "jap": "クックックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "嗯？你……看来和那群家伙不一样啊。",
+      "jap": "うん？貴公…どうやら、あ奴らとは違うようだな",
+      "eng": "Hm? Oh...you're not one of them, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "我向你道歉，居然把人和水蛭看成同类，真是失礼至极。",
+      "jap": "謝罪しよう。人を蛭と見紛うなど、失礼極まりないというものだ",
+      "eng": "Accept my apologies, for mistaking you for one of those leeches.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "那么，你在这个地方做什么？",
+      "jap": "それで、貴公、こんな場所に何用かな？",
+      "eng": "So, what business have you here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "这里是畸形生物的住所，就连我也不例外啊。",
+      "jap": "ここは異形の住処。私とて、例外ではないのだぞ",
+      "eng": "This is a land of monstrosities. And I am no exception.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0选择「不帮助她」，或选择「想帮助她」-「不帮忙」",
+      "jap": "#0話しかけた:2回目・選択肢【助けない】",
+      "eng": "#0Choose \"Do not help her\" to either the 1st, 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "……",
+      "jap": "フフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "你还真是诚实啊。",
+      "jap": "貴公、正直だな",
+      "eng": "You are very frank.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "既然如此，你没事就快滚吧。",
+      "jap": "だがそれならば、早々に去るがいい",
+      "eng": "If you've no business here, take your leave at once.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "这也是为了你好啊。",
+      "jap": "それが、貴公のためというものだ",
+      "eng": "For your own sake.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0选择「不帮助她」，或选择「想帮助她」-「不帮忙」后交谈",
+      "jap": "#0話しかけた:3回目・【助けない】選択後",
+      "eng": "#0Talk-After choosing \"Do not help her\" to either the 1st, 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "……你又怎么了？有什么事吗？",
+      "jap": "…貴公、どうした？まだ何かあるのか？",
+      "eng": "What is it? Something else?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "没关系，你不用顾虑我。\r\n无论如何，我都已经无法动弹了。",
+      "jap": "ああ、私を気にする必要はない。\r\nどのみち、もはや動くも叶うまいよ",
+      "eng": "Ahh, don't fret over me.\r\nI'm stuck here anyway.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0选择「想帮助她」",
+      "jap": "#0話しかけた:2回目・選択肢【助ける】",
+      "eng": "#0Choose \"Offer help\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "……哦，你想要帮我……？",
+      "jap": "…ほう、私を助けると…？",
+      "eng": "You're here to save me...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "但我除了是有罪之人，还是禁忌的人心深渊之子。",
+      "jap": "だが、私は罪人。人の深淵、その忌み子なのさ",
+      "eng": "But I am guilty. A wretched child of the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "这么一来，你还能接受我吗？",
+      "jap": "貴公、それでも私を許せるのか？",
+      "eng": "Is that something you can forgive?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0选择「想帮助她」后，选择「就算如此，还是帮忙」",
+      "jap": "#0話しかけた:2回目・【助ける】選択後・選択肢【それでも助ける】",
+      "eng": "#0Choose \"Save her nonetheless\" to the 4th query after choosing \"Offer help\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "#2（男主角）#3……哦，这样啊。你这男人还真是怪。",
+      "jap": "…ほう、そうか。変わった男だな",
+      "eng": "Oh, really. You are no ordinary man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#2（女主角）#3……哦，这样啊。你这女人还真是怪。",
+      "jap": "…ほう、そうか。変わった女だな",
+      "eng": "Oh, really. You are no ordinary woman.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "不过，好吧，我也厌倦被囚禁的生活了。",
+      "jap": "だが、まあよかろう。私も、囚われの身に倦んでいたところだ",
+      "eng": "Very well. Besides, I've grown tired of imprisonment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "我是卡露拉，我答应你提出的要求。",
+      "jap": "私はカルラ。貴公の申し出、うけさせてもらうよ",
+      "eng": "I am Karla, and I accept your proposal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "……",
+      "jap": "ウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "……",
+      "jap": "ウウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "搞什么，你还是和水蛭同群啊。",
+      "jap": "なんだ、貴公も蛭の仲間だったか",
+      "eng": "Why, you're one of those leeches after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "那真是好笑，为什么还要装作是人呢？",
+      "jap": "おかしいな、人のふりをするなどと",
+      "eng": "How dare you feign humanity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "臭水蛭，我在深渊等你……",
+      "jap": "蛭めが、深淵で待っているぞ…",
+      "eng": "Cursed leech, I await you, in the Abyss...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0返回传火祭祀场后交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "啊，你回来了啊。",
+      "jap": "ああ、貴公。戻ったのか",
+      "eng": "Ahh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "再次重申，我卡露拉很感谢你。",
+      "jap": "改めて、私はカルラ。貴公に感謝しよう",
+      "eng": "As I said, I am Karla. And am grateful to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "……不过，当了随从又该怎么办呢。",
+      "jap": "…だが、さてどうしたものかな",
+      "eng": "Now, what shall we do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "我能够回报你的，就只有魔法了",
+      "jap": "私が貴公に報いるとすれば、ただ魔術があるのみ",
+      "eng": "The only thing that might interest you is my sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "……而且是活该受人忌讳的暗之魔法啊。",
+      "jap": "…忌むべき闇の魔術だけがな",
+      "eng": "Although my dark arts are a detestable sort.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "难道你真的想学吗？",
+      "jap": "貴公、まさかそれが欲しいのか？",
+      "eng": "That wouldn't interest you, would it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0选择「不学习」",
+      "jap": "#0話しかけた:1回目・選択肢【学ばない】",
+      "eng": "#0Choose \"Decline\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……",
+      "jap": "…フッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "那还真是不好意思啊。",
+      "jap": "それは、すまなかったな",
+      "eng": "Most regrettable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "不过我真的除此以外一无是处。",
+      "jap": "だが私には、本当に他に何もない",
+      "eng": "I have nothing else, you see, nothing at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "我说过了吧？\r\n这里是畸形生物的住所，\r\n就连我自己也不例外。",
+      "jap": "言ったろう？\r\nあそこは異形の住処、\r\n私とて、例外ではないのだと",
+      "eng": "Have you so soon forgotten?\r\nThat place is home only to monstrous things,\r\nand I am no exception.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0选择「不学习」后交谈",
+      "jap": "#0話しかけた:2回目・【学ばない】選択後",
+      "eng": "#0Talk-After choosing \"Decline\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "啊，是你啊，不好意思啊。",
+      "jap": "ああ、貴公、すまないな",
+      "eng": "Ahh, hello there. I'm sorry to say...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "我真的是一无是处，",
+      "jap": "だが私には、本当に何もないんだ",
+      "eng": "This truly is all I have.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "就只会关乎人心黑暗、受人忌讳的魔法……",
+      "jap": "人の闇、その忌むべき魔術の他にはな…",
+      "eng": "Detestable sorceries that delve into the darkness of man...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0选择「学习暗魔法」",
+      "jap": "#0話しかけた:1回目・選択肢【闇の魔術を学ぶ】",
+      "eng": "#0Choose \"Ask to learn dark sorceries\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "……",
+      "jap": "…フッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "你这活该被雷劈的家伙。",
+      "jap": "罰当たりめが",
+      "eng": "You're a wicked one, aren't you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "不过，算了。人类是黑暗的代称，你也不例外，",
+      "jap": "だが、まあいい。人は闇、それは貴公とて同じこと",
+      "eng": "Very well. Humans are of the dark, and you are no different.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "只是差在愿不愿意正眼看待这件事罢了。",
+      "jap": "ただ覗くか否かが違うだけさ",
+      "eng": "Some may avert their eyes, but the truth remains the truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "但是你要记得，人们却不这么想。",
+      "jap": "だが、注意することだ。人は皆、そうは考えぬ",
+      "eng": "Be careful though. Few humans are privy to this knowledge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "我所说的事情，就当成我和你的秘密吧。",
+      "jap": "だからすべて、貴公と私の、秘密だぞ",
+      "eng": "Let it be a secret, between you and I...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0选择「学习暗魔法」后交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "啊，你回来了啊，太好了。",
+      "jap": "ああ、貴公、戻ったのか。よかったよ",
+      "eng": "Ahh, hello again. Thank goodness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "我很清楚，你是为了我的魔法来的吧？",
+      "jap": "分かっているよ、私の魔術が要るのだろう？",
+      "eng": "Yes, yes, you require my sorceries, I presume?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "你要好好记住。",
+      "jap": "貴公、覚えておくことだな",
+      "eng": "There is one thing that you should know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "只是差在愿不愿意\r\n正眼看待这件事罢了。",
+      "jap": "人の内には闇がある。\r\nそして貴公は、それを覗くだろう",
+      "eng": "There is a darkness within man,\r\nand I am afraid you will peer into it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "不过看你是会怕得裹足不前，\r\n还是会因为思念家乡而迫不及待——",
+      "jap": "そして恐怖し足元を顧みるか、\r\n郷愁に胸を焦がすのか",
+      "eng": "Whether the fear will spark self-reflection,\r\nor a ruinous nostalgia...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "这由你自己决定。",
+      "jap": "貴公次第だ",
+      "eng": "...is up to you entirely.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "……不管你做哪个决定，都能被允许吧。",
+      "jap": "…そしてどちらも、許されるだろう",
+      "eng": "Fear not, your choice will bring you no scorn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0到达初始之火的火炉后返回，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すB・最初の火の炉到着後",
+      "eng": "#0Menu-Choose \"Talk\" after reaching the Kiln of the First Flame",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "……哦，你在迷惘吧？",
+      "jap": "…ああ、貴公、迷っているのだろう？",
+      "eng": "Oh, are you lost on your journey?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "正所谓有路可行之人才会迷路，",
+      "jap": "だが、道に迷う者は、道をゆく者に他ならぬ",
+      "eng": "No matter, today's lost are conquerors tomorrow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "这是你身为英雄的证明啊。",
+      "jap": "それは貴公が、英雄であるという証しだ",
+      "eng": "It only demonstrates the makings of a champion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "……而不管你做什么决定……",
+      "jap": "…そして、たとえ貴公が何を選ぶとも…",
+      "eng": "And besides, whatever your choice...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "都不会改变我对你的想法和感激之情。",
+      "jap": "私が貴公に感謝し、抱く思いに、何の変わりもありはしないよ",
+      "eng": "It will not change my sense of gratitude, or how I think of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0互动列表-选择「交出咒术书」-选择「克拉娜的咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(クラーナの呪術書)",
+      "eng": "#0Menu-Choose \"Give Quelana Pyromancy Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "……哦，这个是……咒术书啊。",
+      "jap": "…ほう、これは…呪術の書か",
+      "eng": "Oh, a pyromancy tome, have we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "伊札里斯的魔女──克拉娜……\r\n是魔女的咒术啊，真是有趣。",
+      "jap": "イザリスの魔女、クラーナ…\r\n魔女の呪術とは、また興味深いものだ",
+      "eng": "Quelana, Witch of Izalith...\r\nwell, this is a fascinating pyromancy...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "……好吧，既然是你的要求，",
+      "jap": "…よかろう。他ならぬ貴公が望むのなら",
+      "eng": "Very well. If this is your wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "我就会拼了命解读看看。",
+      "jap": "懸命に紐解いてみようじゃないか",
+      "eng": "I will unravel the thing the best I can.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "还有啊，当上你的师父好像也挺有趣的啊。",
+      "jap": "それに、だ。貴公の師というのも、面白そうだからな",
+      "eng": "Besides. It will be nice to play master for once.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "……",
+      "jap": "フフフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0交出守墓人咒术书后，选择「克拉娜的咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(墓守の呪術書)・クラーナの呪術書を渡した後",
+      "eng": "#0Menu-Choose \"Grave Warden Pyromancy Tome\" after Quelana Tome",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "……哦，又拿来了咒术书啊。",
+      "jap": "…ほう、また呪術の書か",
+      "eng": "Ohh, another pyromancy tome, have we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "伊札里斯的魔女──克拉娜……\r\n是魔女的咒术啊，真是有趣。",
+      "jap": "イザリスの魔女、クラーナ…\r\n魔女の呪術とは、また興味深いものだな",
+      "eng": "Quelana, Witch of Izalith...\r\nwell, this is a fascinating pyromancy...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "不过就算我是异端，\r\n你竟一直要魔法师教你咒术，",
+      "jap": "しかし異端とはいえ魔術師に、\r\n呪術の教えばかり乞うなどと",
+      "eng": "I may be a heretical sorcerer,\r\nbut you bring me nothing but pyromancies!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#2（男主角）#3你这男人还真过分啊。",
+      "jap": "貴公、酷い男だな",
+      "eng": "Fiendish little lad, you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#2（女主角）#3你这女人还真过分啊。",
+      "jap": "貴公、酷い女だな",
+      "eng": "Fiendish little lass, you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "……",
+      "jap": "フフフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0互动列表-选择「交出咒术书」-选择「守墓人咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(墓守の呪術書)",
+      "eng": "#0Menu-Choose \"Give Grave Warden Pyromancy Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "……哦，这个是……咒术书啊。",
+      "jap": "…ほう、これは…呪術の書か",
+      "eng": "Oh, a pyromancy tome, have we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "而且是和黑暗相近的咒术，这的确很适合我啊。",
+      "jap": "それに、闇に近い呪術とは、確かに私に相応しいな",
+      "eng": "And one that resonates with the dark, yes, well suited to me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "……",
+      "jap": "フフフ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "好吧，既然是你的要求，",
+      "jap": "よかろう。他ならぬ貴公が望むのなら",
+      "eng": "Very well. If this is your wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "我就会拼了命解读看看。",
+      "jap": "懸命に紐解いてみようじゃないか",
+      "eng": "I will unravel the thing the best I can.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "还有啊，当上你的师父好像也挺有趣的啊。",
+      "jap": "それに、だ。貴公の師というのも、面白そうだからな",
+      "eng": "Besides. It will be nice to play master for once.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "……",
+      "jap": "フフフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0交出克拉娜的咒术书后，选择「守墓人咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(クラーナの呪術書)・墓守の呪術書を渡した後",
+      "eng": "#0Menu-Choose \"Quelana Pyromancy Tome\" after Grave Warden Tome",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "……哦，又拿来了咒术书啊。",
+      "jap": "…ほう、また呪術の書か",
+      "eng": "Oh, another pyromancy tome, have we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "而且是和黑暗相近的咒术，这的确很适合我啊。",
+      "jap": "それに、闇に近い呪術とは、確かに私に相応しいな",
+      "eng": "And one that resonates with the dark, yes, well suited to me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "……",
+      "jap": "フッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "不过就算我是异端，\r\n你竟一直要魔法师教你咒术，",
+      "jap": "しかし異端とはいえ魔術師に、\r\n呪術の教えばかり乞うなどと",
+      "eng": "I may be a heretical sorcerer,\r\nbut you bring me nothing but pyromancies!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#2（男主角）#3你这男人还真过分啊。",
+      "jap": "貴公、酷い男だな",
+      "eng": "Fiendish little lad, you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "#2（女主角）#3你这女人还真过分啊。",
+      "jap": "貴公、酷い女だな",
+      "eng": "Fiendish little lass, you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "……",
+      "jap": "フフフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0学习咒术后交谈",
+      "jap": "#0話しかけた:3回目・呪術を購入後",
+      "eng": "#0Talk-After purchasing a pyromancy",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "啊，你回来了啊，太好了。",
+      "jap": "ああ、貴公、戻ったのか。よかったよ",
+      "eng": "Ahh, hello again. Thank goodness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "就算是笨蛋弟子，我也是有感情的。",
+      "jap": "馬鹿弟子でも、それなりに情は移るからな",
+      "eng": "One can become quite attached, even to a bumbling apprentice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "……玩笑话啦。",
+      "jap": "…冗談だよ",
+      "eng": "Oh, I'm hardly serious.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "……",
+      "jap": "フフフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "#0互动列表-第1次选择「交出圣典」-选择「交出隆道尔/幽邃点字圣典」",
+      "jap": "#0リストから選択:聖書を渡す(深み/ロンドールの点字聖書):1回目",
+      "eng": "#0Menu-Choose \"Give Deep / Londor Braille Divine Tome\" for the 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 111,
+      "chn": "……哦，这个是……圣典啊。",
+      "jap": "…ほう、これは…聖書だな",
+      "eng": "Oh, is this a Divine Tome?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "你到底在想什么？",
+      "jap": "貴公、何を考えている？",
+      "eng": "What on earth are you thinking?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "不管是圣典还是奇迹，都和我不相干。",
+      "jap": "聖書など、奇跡など、私に縁のあろうはずもない",
+      "eng": "I wouldn't go near a Divine Tome or any so-called miracle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "对那些家伙而言，我是唯恐避之不及的人物吧。",
+      "jap": "奴らとて、私に近づきすらしないだろうさ",
+      "eng": "And casters of miracles are sure to steer clear of me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "……所以你啊，拜托，",
+      "jap": "…だから貴公、お願いだ",
+      "eng": "So, please.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "不要太为难我了。",
+      "jap": "あまり私を、苛めないでくれ",
+      "eng": "Don't torture me so.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0互动列表-第2次选择「交出圣典」-选择「交出隆道尔/幽邃点字圣典」",
+      "jap": "#0リストから選択:聖書を渡す(深み/ロンドールの点字聖書):2回目",
+      "eng": "#0Menu-Choose \"Give Deep / Londor Braille Divine Tome\" for the 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "……啊，是你啊，你",
+      "jap": "…ああ、貴公、貴公",
+      "eng": "Ahh, you, how could you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "……唉。",
+      "jap": "…ああ",
+      "eng": "Ahhh....",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "我很清楚，你是我的恩人。",
+      "jap": "分かっているよ。貴公は、恩人だ",
+      "eng": "I know, I know. I owe my life to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "没关系。只在这里念给你听就行。",
+      "jap": "構わぬさ。ただここで、ここだけで貴公と物語るのなら",
+      "eng": "Fine, then. Just this once, I will tell you this tale.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "……不过，我也是第一次做这种事，",
+      "jap": "…だが、私も初めてだからな",
+      "eng": "But do understand, it will be my first time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "就当是在玩吧，不要对我要求太高啊。",
+      "jap": "児戯だとて、それは勘弁してくれたまえよ",
+      "eng": "I'll have no sniggering, should I err.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 125,
+      "chn": "你要平安无事啊。",
+      "jap": "貴公、無事でな",
+      "eng": "Do stay safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "#0学习咒术后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて・呪術を購入後",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly after purchasing a pyromancy",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 127,
+      "chn": "人要平安啊。",
+      "jap": "無事でいるのだぞ",
+      "eng": "Don't stir up any trouble.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "因为你是我的弟子啊。",
+      "jap": "貴公、私の弟子なのだからな",
+      "eng": "You're my apprentice, don't forget.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 130,
+      "chn": "……",
+      "jap": "ウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 132,
+      "chn": "……",
+      "jap": "ウウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 134,
+      "chn": "你怎么了？",
+      "jap": "どうした、貴公？",
+      "eng": "What's wrong?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 136,
+      "chn": "你还真是过分啊。",
+      "jap": "酷いじゃあないか",
+      "eng": "How could you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 138,
+      "chn": "你真是善变啊……",
+      "jap": "気まぐれだな、貴公…",
+      "eng": "You're a fickle one...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "还有，真是残酷啊……",
+      "jap": "そして、残酷なことだ…",
+      "eng": "And vicious...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##……",
+      "jap": "##フフフ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "##……",
+      "jap": "##グウッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "##……",
+      "jap": "##クックックックッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "##……",
+      "jap": "##フフフッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "##……",
+      "jap": "##フフフッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "##……",
+      "jap": "##クックックックッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "##……",
+      "jap": "##グウッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "##……",
+      "jap": "##クックックックッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "##……哦，你想要我当你的随从……",
+      "jap": "##…ほう、私を従者に…",
+      "eng": "##Would I serve you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "##也就是说，你和传火有关，对吧。",
+      "jap": "##つまり貴公は、継ぎ火の関係者というわけか",
+      "eng": "##Then you must be involved in linking of the fire.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "##……好啊，没关系。我一直被囚禁，也差不多觉得厌倦了。",
+      "jap": "##…ああ、いいだろう。囚われの身にも、倦んでいたところだ",
+      "eng": "##Ahh, very well. I can do very little holed up here.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "##我是罪业之都的卡露拉，\r\n愿意成为你的随从。",
+      "jap": "##私は、罪の都のカルラ。\r\n貴公の従者になろう",
+      "eng": "##I am Feria, of the Profaned Capital,\r\nand I hereby enter into your service.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "##啊，就是因为这样，我才会惹人嫌吧。",
+      "jap": "##ああ、だから私は、嫌われるのだろうな",
+      "eng": "##Ahh, it's little wonder my kindness is lost on most...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "##……",
+      "jap": "##クックックックッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

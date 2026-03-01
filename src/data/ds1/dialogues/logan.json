@@ -1,6 +1,959 @@
 {
   "npc": "logan",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/logan.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/logan.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0在塞恩古城关押罗根的牢笼处攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喔，没想到还能看到常人……还真稀奇啊。",
+      "jap": "ほう、貴公、まさかまともな人とは…珍しいことだ",
+      "eng": "Mm, you seem quite lucid! A rare thing in these times.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是罗根，如同你所看到的，被人关了起来。",
+      "jap": "私はローガン。見ての通りの囚われの身だ",
+      "eng": "I am Logan. I'm a bit cooped up, as you can see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "如何，可以麻烦你帮我重获自由吗？",
+      "jap": "どうだ、貴公、私を解放してくれぬか",
+      "eng": "I have a bright idea. Suppose you set me free?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "虽然我只是个老人，没办法给你丰厚的回报……\r\n不过我可以教你知识和魔法。",
+      "jap": "只の老人、碌な礼もできぬが…\r\n私の知識、魔術ならば、教授できよう",
+      "eng": "I'm old and empty-handed,\r\nbut I could repay you with knowledge, and sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "这边实在是太无聊啦，我早就已经待腻了。",
+      "jap": "ここは退屈にすぎる。もう飽き飽きなのだよ",
+      "eng": "This place is melting my mind. The inactivity is repressive!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0用牢笼钥匙打开牢笼后，第1次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time, after opening his cage using the Cage Key",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "喔，真是太感谢你啦，终于得救了。",
+      "jap": "おお、貴公、ありがとう。助かった",
+      "eng": "Oh, heavens, thank you. I'm saved.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "虽然说再继续我的旅程也是不错啦……",
+      "jap": "さて、このまま旅を続けるもよいのだが…",
+      "eng": "And, I'd love to resume my travels,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "不过还是要些时间记录一些事，也得回报你的恩情，\r\n还是先回祭祀场一趟吧。",
+      "jap": "諸々記する時間も必要だし、貴公への礼もある\r\n一旦、祭祀場に戻るとしよう",
+      "eng": "but I must log a few things first, and I owe you a favour.\r\nI will return to Firelink Shrine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "到了那边请记得招呼我一声。我会依照约定教你魔法的。",
+      "jap": "そこで声をかけてくれ。約束どおり、魔術を教授しよう",
+      "eng": "Speak with me there, so that I may impart my sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0用牢笼钥匙打开牢笼后，第2次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "喔，是你呀。你就先走吧，不用管我。",
+      "jap": "おお、貴公か。気にせず先にいってくれ",
+      "eng": "Oh, hello. Don't mind me. Go on ahead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我也马上就要出发了。\r\n别担心，我也不是小鬼头了，不用替我操心啦。",
+      "jap": "私ももうすぐ出発する\r\nなあに、小僧でもない、心配には及ばんよ",
+      "eng": "I'll be along later.\r\nPhoo-hah-hah, I'll be just fine, young one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0返回传火祭祀场后，智力未达到15时，第1次攀谈",
+      "jap": "#0話しかけた:1回目・理力が15未満",
+      "eng": "#0Talk-1st time with less than 15 Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "喔，是你呀，我等你很久了。",
+      "jap": "おお、貴公か。待っていたぞ",
+      "eng": "Hello there. I was expecting you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "等你来领约好的回报呢。不是说好马上就要教你魔法吗？",
+      "jap": "約束の礼だ。早速、魔術を教授しようじゃないか",
+      "eng": "As promised, I will share my sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "哎呀，真是不好意思。看起来你的资质是没办法学魔法的。",
+      "jap": "いや、すまん。貴公には無理筋のようだ",
+      "eng": "I am afraid that you are unable to learn sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "你的基础智力实在是……这方面是连我也无计可施了。",
+      "jap": "如何せん基礎能力がな…こればかりは、私にもどうしようもない",
+      "eng": "The basic framework, you see. It cannot be taught.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "别担心，人生可不是只有魔法而已。\r\n你应该也有你自己的生存方式吧。",
+      "jap": "なあに、人生魔術ばかりじゃない\r\n貴公には貴公の、生き方があろう",
+      "eng": "Oh, do not fret. Life isn't all about sorcery.\r\nYou will find your own way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "不要为此而担心了，就走你自己的路吧。",
+      "jap": "気に病まず、貴公の道を行くことだな",
+      "eng": "Don't frown with regret; peer forward with your head high.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0返回传火祭祀场后，智力未达到15时，第2次攀谈",
+      "jap": "#0話しかけた:2回目・理力が15未満",
+      "eng": "#0Talk-2nd time with less than 15 Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "喔，是你呀。你没事真是太好了。",
+      "jap": "おお、貴公か。無事でなによりだな",
+      "eng": "Hello there. Glad to see you alive.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0已在智力未达到15时攀谈，当智力达到15或更高后攀谈",
+      "jap": "#0話しかけた:2回目・理力を15未満から15以上にした",
+      "eng": "#0Talk-2nd time with 15 Intelligence or more after previously not enough",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "喔，是你呀。你没事真是太好了……",
+      "jap": "おお、貴公か。無事でなによりだが…",
+      "eng": "Hello there. Glad to see you alive.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "……",
+      "jap": "…",
+      "eng": "Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "咦？看起来你先前曾做了一番努力喔……",
+      "jap": "ふむ？貴公、努力したのだな…",
+      "eng": "It seems you've come quite a way...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "很好。现在的你，资质算是够了。\r\n我就来教你些魔法吧。",
+      "jap": "よろしい。今の貴公なら、無理筋でもない\r\n魔術を教授しようじゃないか",
+      "eng": "Excellent. You are certainly ready.\r\nI shall teach you sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0返回传火祭祀场后，智力达到15或更高时，第1次攀谈",
+      "jap": "#0話しかけた:1回目・理力が15以上",
+      "eng": "#0Talk-With 15 Intelligence or more-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "喔，是你呀，我等你很久了。",
+      "jap": "おお、貴公か。待っていたぞ",
+      "eng": "There you are. I was expecting you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "等你来领约好的回报呢。不是说好要教你魔法吗？",
+      "jap": "約束の礼だ。魔術を教授しようじゃないか",
+      "eng": "As promised, I will share my sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0返回传火祭祀场后，智力达到15或更高时，第2次攀谈",
+      "jap": "#0話しかけた:2回目・理力が15以上",
+      "eng": "#0Talk-With 15 Intelligence or more-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "喔，是你呀，你还真热忱呀。",
+      "jap": "ああ、貴公か。熱心なことだな",
+      "eng": "Hello there. You really are very diligent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "不过，这我也不是不能理解。因为学习是件快乐的事啊。",
+      "jap": "だが、分からいではない。学びは快楽だからな",
+      "eng": "I quite understand. Study is invigorating!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0返回传火祭祀场后，智力达到15或更高时，第3次攀谈",
+      "jap": "#0括しかけた:3回目・理力が15以上",
+      "eng": "#0Talk-With 15 Intelligence or more-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "喔，是你呀。",
+      "jap": "おお、貴公か",
+      "eng": "Hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "没问题。现在就开始来教魔法吧。",
+      "jap": "問題ない。魔術の教授をはじめようか",
+      "eng": "Very well indeed. I'm pleased to share my sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0返回传火祭祀场后，智力达到15或更高时，第4次攀谈",
+      "jap": "#0話しかけた:4回目・理力が15以上",
+      "eng": "#0Talk-With 15 Intelligence or more-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "喔，是你呀。好久不见啦。",
+      "jap": "おお、貴公か。久しぶりだな",
+      "eng": "Hello there. What have you been up to?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "实在是太久没看到你了，我还在想你是不是变成游魂了哩。",
+      "jap": "あまり顔を見せんから、亡者にでもなったかと思ったぞ",
+      "eng": "I thought that perhaps you'd gone Hollow on me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "言归正传，你又想要来向我学习魔法啦？",
+      "jap": "それで、まだ魔術を学ぶ気はあるのかね？",
+      "eng": "So, have you come to further your study of sorcery?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0第1次未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった):A",
+      "eng": "#0Menu-Choose \"Leave\"-1st time without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "没有任何成果呀……",
+      "jap": "成果なしか…",
+      "eng": "No results, eh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "无妨，毕竟魔法的路既漫长又充满险阻。\r\n不用着急，慢慢学就可以了。",
+      "jap": "まあ、魔術の道は長く険しい。\r\n焦らず、ゆっくりと学べばいいさ",
+      "eng": "Well, the way of sorceries is a long, hard road.\r\nTake it slowly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0第2次未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった):B",
+      "eng": "#0Menu-Choose \"Leave\"-2nd time without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "再见啦。",
+      "jap": "さらばだ",
+      "eng": "Farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "我还会在这边停留一段时间。",
+      "jap": "私は、まだしばらくここにいる",
+      "eng": "I will stay here for the time being.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "如果你有心想要学的话，就再和我说一声吧。",
+      "jap": "学ぶ気があれば、また声をかけたまえ",
+      "eng": "Speak to me again to further your knowledge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0获得王器后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る・王の器入手後",
+      "eng": "#0Menu-Choose \"Leave\" after attaining the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "你要走了吗？",
+      "jap": "いくのか、貴公",
+      "eng": "Heading out, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "再过不久，我也要去旅行。\r\n就算是不死人，继续在此逗留也只是虚度光阴啊。",
+      "jap": "私も、もうすぐ旅立つ\r\nいかに不死とて、これ以上の逗留は無為だからな",
+      "eng": "I, too, will leave soon.\r\nUndead or no, I shan't stay here forever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "……你的资质相当不错，可别为了点小事而白白丧命。",
+      "jap": "…貴公は筋がいい。無駄死にするでないぞ",
+      "eng": "...You have great potential. Don't go and die over nothing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0在公爵的书库塔关押罗根的大牢处攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-Before opening his cell with the Archive Tower Giant Cell Key",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "喔，是你呀！没想到竟然在这个神奇的地方与你重逢！",
+      "jap": "おお、貴公か！妙なところで再会するものだ！",
+      "eng": "Hello again! What a chance meeting this is!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "虽说很丢脸，但正如你所见，我又被关了起来。\r\n不好意思，可以麻烦你放我出来吗？",
+      "jap": "恥ずかしいが、見ての通り、また囚われてしまってな\r\nすまぬが、解放してくれぬか？",
+      "eng": "Alas, I'm imprisoned once again.\r\nI don't suppose you could stage me a getaway?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "那座书库乃是知识的宝山，\r\n眼前就有那种宝藏却动弹不得……",
+      "jap": "あの書庫は、知識の山だ。\r\nあんなものを至近に、動けぬなど…",
+      "eng": "The Archives, such a storehouse of knowledge.\r\nSo close, but just out of reach!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "实在是让我觉得非常不甘心，几乎气到命都要丢了！",
+      "jap": "もう悔しくて、悔しくて、憤死しそうなのだよ！",
+      "eng": "The thought offends me so, I could simply die!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "相信身为魔法学徒的你，应该可以了解我的心情吧？",
+      "jap": "魔術の徒たる貴公なら、分かるだろう？",
+      "eng": "As a student of the arts, you understand me, yes?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0用书库塔大牢钥匙打开大牢后，第1次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-1st time after opening his cell with the Archive Tower Giant Cell Key",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "喔，真是太感谢你啦，终于得救了。",
+      "jap": "おお、貴公、ありがとう。助かった",
+      "eng": "Oh, thank you very much. I'm saved.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "这是第二次了。不过，我还是一定会回报你这次的恩情。",
+      "jap": "これで2度目だな。だが、この礼はきっとする",
+      "eng": "That makes twice. I must be sure to repay you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "我将会前往那座书库，并在那边找出全新的魔法……\r\n然后传授给你。",
+      "jap": "私はあの書庫に向かう\r\nそこで、新たな魔術を見出し…貴公に、それを教授するだろう",
+      "eng": "I will visit the Archives.\r\nIf I discover any new spells, I shall share them with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "请你耐心期待吧，魔法一定会进化的。",
+      "jap": "楽しみにしていてくれ。魔術はきっと進化するよ",
+      "eng": "Prepare to be impressed, by the onward march of sorcery!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0用书库塔大牢钥匙打开大牢后，第2次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-2nd time after opening his cell with the Archive Tower Giant Cell Key",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "是你呀。你就先走吧，不用管我。",
+      "jap": "おお、貴公か。気にせず先にいってくれ",
+      "eng": "Hello. Don't mind me. Go on ahead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "我也马上就要出发了。\r\n在进入那座书库之前，我想先稍微思索一番。",
+      "jap": "私ももうすぐ出発する\r\nあの書庫に入る前に、少し、思案しておきたくてな",
+      "eng": "I'll head out soon.\r\nI wish to lay down my plans before I visit the Archives.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0到达书库小房间后，第1次攀谈",
+      "jap": "#0話しかけた:移動後:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "喔，是你呀。我等你很久了。",
+      "jap": "おお、貴公か。待っていたぞ",
+      "eng": "Hello there. I was expecting you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "一如我的预期，这书库果真是太棒了，实在是太棒了。",
+      "jap": "思ったとおりだ、この書庫は、すばらしい。すばらしすぎる",
+      "eng": "This place is truly magnificent, more than expected, even.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "除了能依照约定，教你全新的魔法之外，",
+      "jap": "約束どおり、貴公に、新たな魔術を教授できよう",
+      "eng": "As promised, I shall share the new sorceries with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "这里还藏着白龙希斯的不死秘密……",
+      "jap": "それに、白竜シースの、不死の秘密もな…",
+      "eng": "And, the secret of Seath's immortality.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0到达书库小房间后，第2次攀谈",
+      "jap": "#0話しかけた:移動後:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "喔，是你呀。你还真热忱呀。",
+      "jap": "ああ、貴公か。熱心なことだな",
+      "eng": "Hello there. You really are very diligent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "不过，我也可以理解那种心情。\r\n毕竟你现在可说是亲眼见证了魔法的进化。",
+      "jap": "だが、それも分かる\r\n今まさに、魔術の進化に立ち会っているのだからな",
+      "eng": "Oh, I understand.\r\nWe are in the midst of a revolution!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0到达书库小房间后，在营火休息后攀谈",
+      "jap": "#0話しかけた:移動後:3回目",
+      "eng": "#0Talk-After resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "喔，是你呀。有段时间没看到你了呢。",
+      "jap": "おお、貴公か。しばらくぶりだな",
+      "eng": "Oh, hello there. Where have you been?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "时间宝贵，现在就立刻开始教魔法吧。",
+      "jap": "時間が惜しい。早速、魔術の教授をはじめようか",
+      "eng": "Time is a resource. Let's delve in promptly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "说到白龙希斯的不死秘密呀，",
+      "jap": "白竜シースの、不死の秘密だったな",
+      "eng": "Ah, the secret of Seath's immortality?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "我想如果你也和他交手过，并遭到囚禁的话，应该就能了解。\r\n那种能力不同于我们，是货真价实的不死。",
+      "jap": "貴公も、あれと戦い、囚われたのであれば\r\n分かっていると思うが、あれは、我々とは違う、本物の不死だ",
+      "eng": "If you have fought him, and were imprisoned, you must know that\r\nSeath is a true Undead, different from ourselves.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "伤口立刻就会痊愈，\r\n所以也不会受到致命伤，绝对不会死亡。",
+      "jap": "傷はすぐに塞がり、\r\n致命傷を負わず、決して死ぬことがない",
+      "eng": "His wounds close promptly, and no mortal blow affects him,\r\ngranting true insulation from death.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "那似乎是希斯背叛了古龙所取得的秘宝──\r\n原始结晶的效果。",
+      "jap": "それは、シースが、古い竜たちを裏切って手に入れた秘宝\r\n原始結晶の効果らしい",
+      "eng": "It is an effect of the Primordial Crystal, a sacred treasure\r\npillaged by Seath when he turned upon the ancient dragons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "所以说，如果不先破坏原始结晶的话，\r\n就绝对无法伤到希斯分毫。",
+      "jap": "だから、まず原始結晶を壊さなければ\r\nシースを傷つけることはできない",
+      "eng": "So, only by destroying the Primordial Crystal\r\ncan you so much as scratch his hide.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "而原始结晶，便放在这座书库的中庭──\r\n结晶森林里头。",
+      "jap": "そして原始結晶は、この書庫の中庭、\r\n結晶の森にあるのだよ",
+      "eng": "And it so happens, the Primordial Crystal is\r\nin the inner garden of these very archives, the Crystal Forest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "话说回来，这座书库中的藏书真的是不得了。",
+      "jap": "しかし、この書庫の蔵書は、本当にすばらしい",
+      "eng": "The tomes stored in these Archives are truly magnificent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "根本是杰出的智慧与一心研究下累积的成果，\r\n化成的知识结晶。",
+      "jap": "優秀な知恵と、真摯な探究心の積み重ねが、\r\n知識として結晶する",
+      "eng": "A great pool of knowledge, the fruits of\r\nsuperior wisdom and an unquenchable desire for the truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "虽然那也许真是希斯偏执下产生的结果……\r\n但即便如此，仍是无比美妙，并深具价值的东西。",
+      "jap": "それは、確かに、シースの妄執の結果かもしれないが…\r\nそれでも、とても美しく、価値あるものだ",
+      "eng": "Some would say Seath had an unsound fixation\r\n...But his work is a beautiful, invaluable resource.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "进化也是要有所牺牲的。",
+      "jap": "進化が犠牲を欲することもある",
+      "eng": "All progress demands sacrifice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "我对白龙只有感到崇拜，\r\n无法投以负面情感……",
+      "jap": "私には、あの白竜に憧れこそすれ\r\n負の感情を抱くことはできんよ…",
+      "eng": "And I certainly bear no antipathy\r\nfor that wonderful scaleless beast.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0击杀希斯后攀谈",
+      "jap": "#0話しかけた:移動後:4回目",
+      "eng": "#0Talk-After defeating Seath the Scaleless",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "喔，是你呀。好久不见啦。",
+      "jap": "おお、貴公か、久しいな",
+      "eng": "Oh, there you are, it has been a while.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "还是说其实我们才刚刚见过面？",
+      "jap": "それとも、ついさっきだったか？",
+      "eng": "Or, were you just here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "待在这里，时间逐渐变得无关紧要了……",
+      "jap": "ここにいると、時間など、どうでもよくなっていくのだよ…",
+      "eng": "This fascinating place defeats my sense of time...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "#0击杀希斯后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" after defeating Seath",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 97,
+      "chn": "嘟嘟囔囔……",
+      "jap": "ブツブツブツブツ…",
+      "eng": "Mm...mm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "嘟嘟囔囔……",
+      "jap": "ブツブツブツブツ…",
+      "eng": "Mm...mm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0击杀希斯后，学习罗根的全部魔法后攀谈",
+      "jap": "#0話しかけた:移動後・すべてのアイテムを購入した",
+      "eng": "#0Menu-Choose \"Talk\" after purchasing all of his spells & defeating Seath",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "……是谁……？",
+      "jap": "…誰だ…",
+      "eng": "...Who are you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "……绝不容许任何人妨碍……我的研究……",
+      "jap": "…私の研究…邪魔は、許さん…",
+      "eng": "...Stay clear...stay clear of my work...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "……绝不容许……",
+      "jap": "…許さんぞ…",
+      "eng": "...Curses upon you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "……不要妨碍我研究！",
+      "jap": "…邪魔をするでないわ！",
+      "eng": "...How dare you disturb me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 105,
+      "chn": "再见啦。",
+      "jap": "さらばだ",
+      "eng": "Farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0第1次完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした):A",
+      "eng": "#0Menu-Choose \"Leave\"-1st time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "下次再回来找我吧。",
+      "jap": "また、戻ってきたまえ",
+      "eng": "Come again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "这里有着取之不尽的知识。\r\n我将在此努力学习，并传授给你。",
+      "jap": "ここには尽きぬ知識がある\r\n私は学び、それを貴公に教授しよう",
+      "eng": "The knowledge here is limitless.\r\nI will absorb it, then share it with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0第2次完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした):B",
+      "eng": "#0Menu-Choose \"Leave\"-2nd time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "别放在心上，下次再来找我吧。",
+      "jap": "気にせず、またきたまえ",
+      "eng": "Come again, any time you please.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "毕竟有些东西，就连我也是借由教学才发现的。",
+      "jap": "私とて、教授することではじめて見えるものもあるのだから",
+      "eng": "For I too, learn, whilst teaching a student.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 113,
+      "chn": "我不知道你有什么企图，",
+      "jap": "貴公、なんのつもりかは知らぬが",
+      "eng": "I fail to see your design,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "但你可别看我垂垂老矣就瞧我不起呀！",
+      "jap": "老いたりとて、あまりみくびらないことだな",
+      "eng": "but if you think I'm too old to defend myself,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "让你见识一下我罗根的魔法吧！",
+      "jap": "ローガンの魔術を見せてやろう！",
+      "eng": "perhaps some sorcery will change your mind!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 117,
+      "chn": "你，你……真是个愚昧之徒……",
+      "jap": "き、貴公…ばか者が…",
+      "eng": "Heavens...the folly of youth...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "我真的是已经老了啊……",
+      "jap": "老いた、ものだな…",
+      "eng": "...I'm too old for this...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

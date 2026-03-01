@@ -1,6 +1,1247 @@
 {
   "npc": "kaathe",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/kaathe.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/kaathe.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0获得王器前，击杀小隆德四王后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time after defeating the Four Kings, after obtaining Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……不死人勇者呀，欢迎你的到来，",
+      "jap": "…ようこそ、不死の勇者よ",
+      "eng": "Greetings, Undead warrior.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我乃世界之蛇，平抚黑暗的卡斯。",
+      "jap": "我は、世界の蛇、闇撫でのカアス",
+      "eng": "I am the primordial serpent Darkstalker Kaathe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我将能引导你们这群不死人，告知你事实的真相。",
+      "jap": "貴公ら人を導き、真実を伝える者だ",
+      "eng": "I can guide thee, and illuminate the truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "已歼灭了小隆德四王的\r\n不死人勇者呀，",
+      "jap": "四人の小王を滅ぼした、不死の勇者よ。\r\n知りたくはないか？",
+      "eng": "Undead Warrior, conqueror of the Four Kings;\r\nis this not your wish?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "想知道你们人类与不死人的真相吗？",
+      "jap": "貴公ら人と、不死の真実を",
+      "eng": "To know the truth of men, and the Undead?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……算了，随你高兴。",
+      "jap": "…まあ、よい",
+      "eng": "...Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "毕竟你是暌违已久的勇者，我就再多等你一会吧。",
+      "jap": "久しぶりの勇者だ、しばらくは、待つとしよう",
+      "eng": "Warriors as yourself are few. I will be patient.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "但我也只会再多等一会……",
+      "jap": "しばらくはな…",
+      "eng": "But I cannot wait forever...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目・【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "怎么了？",
+      "jap": "どうした？",
+      "eng": "What is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "还是说你已经改变了心意？",
+      "jap": "あるいは、気が変わったのかな？",
+      "eng": "Perhaps you have changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "明智的抉择，不死人勇者。",
+      "jap": "よい答えだ、不死の勇者よ",
+      "eng": "A wise choice, Undead warrior.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "不过，\r\n你得要先证明自己值得我透露真相才行。",
+      "jap": "だが、貴公はまず\r\n我カアスの真実に値するを、証明せねばならん",
+      "eng": "Prove you must,\r\nthat the truth becomes you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "动身前往亚诺尔隆德，",
+      "jap": "アノール・ロンドに向かうがよい",
+      "eng": "Seek Anor Londo.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "并在那取得葛温的遗物──王器吧。",
+      "jap": "そして、グウィンの遺物、王の器を手に入れるのだ",
+      "eng": "And claim Gwyn's heirloom, the Lordvessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "赶紧出发吧，不死人勇者。",
+      "jap": "さあ、向かうがよい、不死の勇者よ",
+      "eng": "Now go, Undead warrior.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "前去证明你值得我透露真相。",
+      "jap": "そして証明するのだ。貴公が、真実に値することを",
+      "eng": "Show the world that the truth becomes you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "嗯……",
+      "jap": "貴公…",
+      "eng": "Ahh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "如果你要求，我也愿意将能力传授给你：",
+      "jap": "貴公が望むのならば、我が力をも授けよう",
+      "eng": "If you wish, I shall grant the art of Lifedrain,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "黑暗之王的能力──吞噬灵魂的能力。",
+      "jap": "闇の王の力、生命喰いの力だ",
+      "eng": "the legendary power of the Dark Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "你就用这能力保持不死人的人类模样，",
+      "jap": "その力で、不死として人であり続け",
+      "eng": "It can preserve your humanity while Undead,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "卸下神加在你们人身上的枷锁吧。",
+      "jap": "貴公ら人にはめられた、神の枷をはずすがよい",
+      "eng": "and cast off the shackles placed upon your brethren.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "怎么了？",
+      "jap": "どうした？",
+      "eng": "What is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "我是你的后盾。",
+      "jap": "我は貴公の後見",
+      "eng": "I am your guardian.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "无论是什么都无妨，尽管将你想要的全告诉我吧。",
+      "jap": "なんなりと、望みのたけを申すがよい",
+      "eng": "Go on, state your wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0获得王器前，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\" before obtaining the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "不死人勇者呀，",
+      "jap": "不死の勇者よ",
+      "eng": "Undead warrior,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "现在并不是该和我说话的时候。",
+      "jap": "今はもう、話すべきではない",
+      "eng": "To speak now is premature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "有什么话，都等你顺利取得王器回来后再说吧……",
+      "jap": "すべては、貴公が王の器を持ち帰った、その後だ…",
+      "eng": "It begins with your retrieval of the Lordvessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0获得王器后攀谈",
+      "jap": "#0話しかけた:王の器を入手後",
+      "eng": "#0Talk-After obtaining the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "嗯……真是干得好呀。",
+      "jap": "ふむ…貴公、見事だ",
+      "eng": "Hmm...You are astonishing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "那么，我就一五一十地说出真相吧。",
+      "jap": "では、我は隠さず真実を語ろう",
+      "eng": "The truth I shall share, without sentiment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "……很久很久以前，在有火之后，你们人类的祖先，",
+      "jap": "…かつて火のはじまり、貴公ら人の先祖は",
+      "eng": "After the advent of Fire, the ancient Lords found the three souls. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "延续着古代诸王的发现而找到了第四个灵魂──",
+      "jap": "古い王たちの後に、四つ目のソウルを見出した",
+      "eng": "But your progenitor found a fourth, unique soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "也就是黑暗灵魂。",
+      "jap": "闇のソウルだ",
+      "eng": "The Dark Soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "你们人类祖先得到黑暗灵魂后，\r\n便一直等着火熄灭。",
+      "jap": "貴公らの人の先祖は、闇のソウルを得て、\r\n火の後を待った",
+      "eng": "Your ancestor claimed the Dark Soul,\r\nand waited for Fire to subside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "总有一天火会熄灭，世上所剩的将尽是黑暗。",
+      "jap": "やがて火は消え、闇ばかりが残る",
+      "eng": "And soon, the flames did fade, and only Dark remained.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "这么一来，便会进入你们人类的黑暗时代了。",
+      "jap": "さすれば、貴公ら人、闇の時代だ",
+      "eng": "Thus began the age of men, the Age of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "……然而，",
+      "jap": "…だが",
+      "eng": "However...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "葛温大王却深深畏惧黑暗，",
+      "jap": "王グウィンは、闇を恐れた",
+      "eng": "Lord Gwyn trembled at the Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "他担忧火熄灭，害怕那些身属黑暗的人，",
+      "jap": "火の終わりを恐れ、闇の者たる人を恐れ",
+      "eng": "Clinging to his Age of Fire, and in dire fear of humans,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "并忧虑人类可能会诞生黑暗之王，",
+      "jap": "人の間から生まれるであろう、闇の王を恐れ",
+      "eng": "and the Dark Lord who would one day be born amongst them,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "恐惧天理循环。",
+      "jap": "世界の理を恐れた",
+      "eng": "Lord Gwyn resisted the course of nature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "所以便不断传火，\r\n命自己的孩子统率，束缚人，",
+      "jap": "だから奴は、火を継ぎ、\r\n自らの息子たちに、人を率い、縛らせた",
+      "eng": "By sacrificing himself to link the Fire,\r\nand commanding his children to shepherd the humans,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "让你们人类忘记一切，浑噩过活，\r\n避免黑暗之王诞生。",
+      "jap": "貴公ら人が、すべて忘れ、呆け、\r\n闇の王が生まれぬように",
+      "eng": "Gwyn has blurred your past,\r\nto prevent the birth of the Dark Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "……我乃是世界之蛇，",
+      "jap": "…我は世界の蛇",
+      "eng": "I am the primordial serpent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "我在寻觅正确的时代，寻觅王者。",
+      "jap": "正しい時代を、王を探すもの",
+      "eng": "I seek to right the wrongs of the past, to discover our true Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "但另一条蛇，芙拉姆特，却忘了职责，\r\n堕落为葛温大王的朋友。",
+      "jap": "だが、もう1人の蛇、フラムトは、理を忘れ\r\n王グウィンの友に堕した",
+      "eng": "But the other serpent, Frampt, lost his sense,\r\nand befriended Lord Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "仔细听好了，不死人勇者。",
+      "jap": "よいか、不死の勇者よ",
+      "eng": "Undead Warrior, we stand at a crossroads.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "我卡斯将会把真正的使命传达给你。",
+      "jap": "我カアスが、貴公に、正しい使命を伝えよう",
+      "eng": "Only I know the truth about your fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "你得除掉违背天理传火，\r\n已摇摇欲坠的葛温大王，",
+      "jap": "理に反して火を継ぎ、\r\n今や消えかけの王グウィンを殺し",
+      "eng": "You must destroy the fading Lord Gwyn,\r\nwho has coddled Fire and resisted nature,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "并成为第四位王，\r\n让黑暗的时代降临。",
+      "jap": "そして、四人目の王となり、\r\n闇の時代をもたらすのだ",
+      "eng": "and become the Fourth Lord,\r\nso that you may usher in an Age of Dark!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0持有王器时，击杀小隆德四王后攀谈",
+      "jap": "#0話しかけた:王の器を持っている・1回目",
+      "eng": "#0Talk-1st time after defeating the Four Kings, after obtaining Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "……不死人勇者呀，欢迎你的到来，",
+      "jap": "…ようこそ、不死の勇者よ",
+      "eng": "Greetings, Undead warrior.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "我乃世界之蛇，平抚黑暗的卡斯。",
+      "jap": "我は、世界の蛇、闇撫でのカアス",
+      "eng": "I am the primordial serpent Darkstalker Kaathe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "我将能引导你们这群不死人，告知你事实的真相。",
+      "jap": "貴公ら人を導き、真実を伝える者だ",
+      "eng": "I can guide thee, and illuminate the truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "那么，我就一五一十地说出真相吧。",
+      "jap": "では、我は隠さず真実を語ろう",
+      "eng": "The truth I shall share, without sentiment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "……很久很久以前，在有火之后，你们人类的祖先，",
+      "jap": "…かつて火のはじまり、貴公ら人の先祖は",
+      "eng": "After the advent of Fire, the ancient Lords found the three souls. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "延续着古代诸王的发现而找到了第四个灵魂──",
+      "jap": "古い王たちの後に、四つ目のソウルを見出した",
+      "eng": "But your progenitor found a fourth, unique soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "也就是黑暗灵魂。",
+      "jap": "闇のソウルだ",
+      "eng": "The Dark Soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "你们人类祖先得到黑暗灵魂后，\r\n便一直等着火熄灭。",
+      "jap": "貴公らの人の先祖は、闇のソウルを得て、\r\n火の後を待った",
+      "eng": "Your ancestor claimed the Dark Soul,\r\nand waited for Fire to subside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "总有一天火会熄灭，世上所剩的将尽是黑暗。",
+      "jap": "やがて火は消え、闇ばかりが残る",
+      "eng": "And soon, the flames did fade, and only Dark remained.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "这么一来，便会进入你们人类的黑暗时代了。",
+      "jap": "さすれば、貴公ら人、闇の時代だ",
+      "eng": "Thus began the age of men, the Age of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "……然而，",
+      "jap": "…だが",
+      "eng": "However...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "葛温大王却深深畏惧黑暗，",
+      "jap": "王グウィンは、闇を恐れた",
+      "eng": "Lord Gwyn trembled at the Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "他担忧火熄灭，害怕那些身属黑暗的人，",
+      "jap": "火の終わりを恐れ、闇の者たる人を恐れ",
+      "eng": "Clinging to his Age of Fire, and in dire fear of humans,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "并忧虑人类可能会诞生黑暗之王，",
+      "jap": "人の間から生まれるであろう、闇の王を恐れ",
+      "eng": "and the Dark Lord who would one day be born amongst them,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "恐惧天理循环。",
+      "jap": "世界の理を恐れた",
+      "eng": "Lord Gwyn resisted the course of nature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "所以便不断传火，\r\n命自己的孩子统率，束缚人，",
+      "jap": "だから奴は、火を継ぎ、\r\n自らの息子たちに、人を率い、縛らせた",
+      "eng": "By sacrificing himself to link the Fire,\r\nand commanding his children to shepherd the humans,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "让你们人类忘记一切，浑噩过活，\r\n避免黑暗之王诞生。",
+      "jap": "貴公ら人が、すべて忘れ、呆け、\r\n闇の王が生まれぬように",
+      "eng": "Gwyn has blurred your past,\r\nto prevent the birth of the Dark Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "……我乃是世界之蛇，",
+      "jap": "…我は世界の蛇",
+      "eng": "I am the primordial serpent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "我在寻觅正确的时代，寻觅王者。",
+      "jap": "正しい時代を、王を探すもの",
+      "eng": "I seek to right the wrongs of the past, to discover our true Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "但另一条蛇，芙拉姆特，却忘了职责，\r\n堕落为葛温大王的朋友。",
+      "jap": "だが、もう1人の蛇、フラムトは、理を忘れ\r\n王グウィンの友に堕した",
+      "eng": "But the other serpent, Frampt, lost his sense,\r\nand befriended Lord Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "仔细听好了，不死人勇者。",
+      "jap": "よいか、不死の勇者よ",
+      "eng": "Undead Warrior, we stand at a crossroads.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "我卡斯将会把真正的使命传达给你。",
+      "jap": "我カアスが、貴公に、正しい使命を伝えよう",
+      "eng": "Only I know the truth about your fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "你得除掉违背天理传火，\r\n已摇摇欲坠的葛温大王，",
+      "jap": "理に反して火を継ぎ、\r\n今や消えかけの王グウィンを殺し",
+      "eng": "You must destroy the fading Lord Gwyn,\r\nwho has coddled Fire and resisted nature,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "并成为第四位王，\r\n让黑暗的时代降临。",
+      "jap": "そして、四人目の王となり、\r\n闇の時代をもたらすのだ",
+      "eng": "and become the Fourth Lord,\r\nso that you may usher in an Age of Dark!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:王の器を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "什么！",
+      "jap": "なんと！",
+      "eng": "Nonsense!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "你疯了不成？这真是让我太遗憾了！",
+      "jap": "貴公、正気か！なんと嘆かわしい！",
+      "eng": "Are you mad! This is deplorable!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "难道你已经是神的奴隶了？没想到你竟然连真相的价值都不懂！",
+      "jap": "もはや神の奴隷か！真実の価値も分からんとは！",
+      "eng": "You would rather be a slave? Does the truth mean nothing to you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "真是的！怎么会，怎么会有这种事！",
+      "jap": "まったく！なんと！なんということだ！",
+      "eng": "This is unacceptable! Impossible! Unthinkable!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "……算了，随你高兴。",
+      "jap": "…まあ、よい",
+      "eng": "...Oh, enough with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "遗忘一切，浑噩度日的愚昧之徒呀，永别了。",
+      "jap": "さらばだ、忘れ呆けた愚か者よ",
+      "eng": "Farewell, pitiful, unknowing fool.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "我将再度藏身于深渊中，静待人王的来临……",
+      "jap": "我は再び深淵に潜り、人の王を待つとしよう…",
+      "eng": "I shall return to the Abyss, and await the true Lord of Men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:王の器を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "非常好！",
+      "jap": "よろしい！",
+      "eng": "Very well!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "既然如此，我就引导你前往葛温的陵寝吧。",
+      "jap": "されば、我は貴公を、グウィンの棺に導くとしよう",
+      "eng": "I shall now guide you to Gwyn's prison.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "可别乱动。放心把一切交给我来就可以了。",
+      "jap": "動くでないぞ。我に身を任せればよい",
+      "eng": "Be still. Entrust thine flesh to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "……这里，就是葛温的陵寝。",
+      "jap": "…ここが、グウィンの棺だ",
+      "eng": "This is Gwyn's prison.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "去吧，把王器放到那个台座上就行了。",
+      "jap": "さて、王の器を、その台に置くがよい",
+      "eng": "Now, place the Lordvessel upon the altar.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "#0放置王器前攀谈",
+      "jap": "#0話しかけられた",
+      "eng": "#0Talk-Before placing Lordvessel in his presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 99,
+      "chn": "怎么了？去将王器放到那个台座吧。",
+      "jap": "どうした？王の器を、その台に置くがよい",
+      "eng": "What is it? Place the Lordvessel upon the altar.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0放置王器后攀谈",
+      "jap": "#0話しかけた:王の器を祭壇に置いた後",
+      "eng": "#0Talk-After placing Lordvessel in his presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "这样就可以了。",
+      "jap": "それでよい",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "接下来，就只须让王器装满灵魂，开启通往葛温所在的门了。",
+      "jap": "後は、その器をソウルで満たし、グウィンへの扉を開くだけだ",
+      "eng": "Once the vessel is filled with souls, the gate to Gwyn shall open.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "你得搜集墓王尼特、伊札里斯魔女，\r\n还有那个背叛者──",
+      "jap": "墓王ニト、イザリスの魔女、\r\nそれに、あの裏切り者、白竜シース",
+      "eng": "Seek Gravelord Nito, the Witch of Izalith,\r\nand the traitor Seath the Scaleless.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "白龙希斯，这些人的灵魂，献到王器中。",
+      "jap": "奴らのソウルを集め、この器に献じるのだ",
+      "eng": "Fill this vessel with their souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "如此一来，门便会打开……接着你只要除掉葛温就大功告成了。",
+      "jap": "されば扉は開き…後は、貴公がグウィンを殺せばよい",
+      "eng": "Then, the gate will open...so that you may kill Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "可以了吗？",
+      "jap": "よろしいか？",
+      "eng": "Are you ready?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "那么，我们就回到深渊吧。只要再次将一切都交给我来即可。",
+      "jap": "では、深淵に戻るとしよう。また、我に身を任せればよい",
+      "eng": "Then, let us return to the Abyss. Entrust thine flesh to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0放置王器后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話す・王の器を祭壇に置いた後",
+      "eng": "#0Menu-Choose \"Talk\" after placing the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "那些家伙全都不管用，",
+      "jap": "奴らは、だめだった",
+      "eng": "They failed me, every last one of them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "他们不懂真相的价值，只因自身的力量而心生傲慢。",
+      "jap": "真実の価値を知らず、ただ力に慢心した",
+      "eng": "They were strong, but saw not the truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "……我期待你会有与他们不同的表现。",
+      "jap": "…貴公には、期待しておるぞ",
+      "eng": "...I am certain that you will prove different.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "#0装满王器后攀谈",
+      "jap": "#0話しかけた:王の器を満たした後",
+      "eng": "#0Talk-After filling Lordvessel in his presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 114,
+      "chn": "真是干得漂亮呀……",
+      "jap": "見事だ…",
+      "eng": "Magnificent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "你确实依循着我──世界之蛇的引导而行，",
+      "jap": "我、世界の蛇の導きに、よくぞ応えた",
+      "eng": "You have followed my teachings faithfully.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "你是位真正的人王，黑暗之王。",
+      "jap": "貴公こそ、真に人の王、闇の王よ",
+      "eng": "You are the true lord of men, the Dark Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "事不宜迟，赶紧迈步向前，除去那已摇摇欲坠的葛温吧。",
+      "jap": "さあ、進むがよい。消えかけのグウィンを殺すのだ",
+      "eng": "Now, go forth, and rid us of that enfeebled Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "我卡斯将会在这边等候着你。",
+      "jap": "我カアスは、ここで待っているぞ",
+      "eng": "I, Kaathe, shall await you here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "等着替凯旋归来的你效力，正式揭开黑暗时代的序幕……",
+      "jap": "戻った貴公に仕え、闇の時代をはじめるために…",
+      "eng": "When you return, I shall serve you, in the imminent Age of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "等着替你效力，正式揭开黑暗时代的序幕……",
+      "jap": "貴公に仕え、闇の時代をはじめるために…",
+      "eng": "I shall serve you, in the imminent Age of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "#0在传火祭坛时，互动列表-选择「传送」",
+      "jap": "#0リストから選択:転送",
+      "eng": "#0Menu-Choose \"Warp\" to be taken to the Abyss",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 122,
+      "chn": "可以了吗？",
+      "jap": "よろしいか？",
+      "eng": "Are you ready?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "那么，我们就回到深渊吧。只要再次将一切都交给我来即可。",
+      "jap": "では、深淵に戻るとしよう。また、我に身を任せればよい",
+      "eng": "Then, let us return to the Abyss. Entrust thine flesh to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "#0在深渊时，互动列表-选择「传送」",
+      "jap": "#0リストから選択:転送",
+      "eng": "#0Menu-Choose \"Warp\" to be taken to the Firelink Altar",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 125,
+      "chn": "非常好。",
+      "jap": "よろしい",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "那么，可别乱动喔。放心地把一切交给我来就可以了。",
+      "jap": "では、動くでないぞ。我に身を任せればよい",
+      "eng": "Be still. Entrust thy flesh to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 128,
+      "chn": "再见了。",
+      "jap": "さらばだ",
+      "eng": "Farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 130,
+      "chn": "噫！",
+      "jap": "むっ！",
+      "eng": "Hmg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 132,
+      "chn": "嗷！",
+      "jap": "ぬっ！",
+      "eng": "Hrg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 134,
+      "chn": "喔！",
+      "jap": "おっ！",
+      "eng": "Agh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 136,
+      "chn": "呜！",
+      "jap": "うおっ！",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "#0第5次受到攻击时",
+      "jap": "#0攻撃した:5回目",
+      "eng": "#0Upon being attacked-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 138,
+      "chn": "住手！",
+      "jap": "やめろ！",
+      "eng": "Stop!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "#0第6次受到攻击时",
+      "jap": "#0攻撃した:6回目",
+      "eng": "#0Upon being attacked-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 140,
+      "chn": "还不住手！",
+      "jap": "やめんか！",
+      "eng": "Enough!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 142,
+      "chn": "愚昧之徒！",
+      "jap": "この愚か者が！",
+      "eng": "Fool!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "愚昧之徒……你绝不可能是黑暗之王。",
+      "jap": "愚か者が…貴公などが、闇の王であろうはずもない",
+      "eng": "Fool...You could not be the Dark Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "我已受够了……永别了……",
+      "jap": "もうよい…さらばだ…",
+      "eng": "Enough of this...and farewell to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "我将再度藏身于深渊中，静待人王的来临……",
+      "jap": "我は再び深淵に潜り、人の王を待つとしよう…",
+      "eng": "I shall return to the Abyss, and await the true Lord of Men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "#0击杀葛温后，离开初始之火的火炉",
+      "jap": "#0薪の王グウィン撃破後，最初の火の炉から離れて",
+      "eng": "#0Leaving Kiln of the First Flame after defeating Gwyn",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 147,
+      "chn": "看到您顺利凯旋而归真是太好了，吾王。",
+      "jap": "よくぞ戻られました、我が王よ",
+      "eng": "My Lord, bless thy safe return.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "我卡斯，以及芙拉姆特将共同为您效力。",
+      "jap": "我カアス、フラムト、共に貴方に仕えます",
+      "eng": "Let Kaathe, and Frampt, serve Your Highness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "我们聚集在此便是为了要向您效力。",
+      "jap": "我ら集い、貴方に仕えます",
+      "eng": "We are here to serve Your Highness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "接着，真正的黑暗便将遍布整个世界……",
+      "jap": "それでは、世界に、真の闇を…",
+      "eng": "Let true Dark be cast upon the world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "吾王呀……",
+      "jap": "我が王よ…",
+      "eng": "Our Lord hath returned'st...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "##我将打开赛恩古城的大门，那是前往亚诺尔隆德的必经之道。",
+      "jap": "##アノール・ロンドへいたる道、センの古城は我が開く",
+      "eng": "##I will open Sen's Fortress, which leads to Anor Londo.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "##喔────！",
+      "jap": "##ウオオオオーーーーーン！",
+      "eng": "##Hraaaoogggh!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "##喔────！",
+      "jap": "##ウオオオオーーーーーン！",
+      "eng": "##Hraaaoogggh!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

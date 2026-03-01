@@ -1,6 +1,623 @@
 {
   "npc": "vendrick",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/vendrick.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/vendrick.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次聊天",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "寻求着火\r\n欲登王座之人啊。",
+      "jap": "火を求める者\r\n王たらんと欲する者よ",
+      "eng": "Seeker of fire,\r\ncoveter of the throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "朕乃汎克拉德，\r\n多兰古雷格的统治者。",
+      "jap": "我はヴァンクラッド\r\nドラングレイグを統べる者",
+      "eng": "I am Vendrick,\r\nruler of Drangleic.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0第2次聊天",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "火虽旺盛，终将熄灭。",
+      "jap": "火は盛り、何れ消え行くが定め",
+      "eng": "As flame rises, so does it fade. Such is the way of things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "汝有无火之继承者的资格，",
+      "jap": "汝、火を継ぐ者たらんとするか",
+      "eng": "Do you intend to link the fire?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "仰赖在王位之人的一念。",
+      "jap": "全ては玉座にある者の意思",
+      "eng": "Then you must first take the throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "去寻找符合的冠冕。",
+      "jap": "相応しき冠を求めよ",
+      "eng": "Prove your worth. Find the ancient crowns.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "自求苦难，寻求远古之冠吧。",
+      "jap": "苦難を求め、古き冠を求めよ",
+      "eng": "Seek adversity, and they will be yours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "一切如其所愿……",
+      "jap": "全ては、その意思のままに…",
+      "eng": "And your wishes, granted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第3次聊天",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "一切如其所愿……",
+      "jap": "全ては、その意思のままに…",
+      "eng": "And your wishes, granted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0获得国王冠冕后，第1次聊天",
+      "jap": "#0話しかけた:王の冠を1つ持ってる:1回目",
+      "eng": "#0Talk-1st time, after acquiring the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "寻求着火之人，\r\n获得符合王位资格冠冕的人。",
+      "jap": "汝、火を求める者\r\n王に相応しき冠を手にする者よ",
+      "eng": "Seeker of fire,\r\ndeliverer of crowns.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "汝向火欲何求？",
+      "jap": "火を求め、何を望む",
+      "eng": "What do you see in the flames?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "有所求，应向冠冕去。",
+      "jap": "望むのならば、冠を求めよ",
+      "eng": "Find the crowns,  and your own answers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "远古诸王之力，宿于该顶证明之冠。",
+      "jap": "古き王たちの力は、その証たる冠に宿る",
+      "eng": "The crowns hold the strength of lords from times long past.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "自求苦难吧。",
+      "jap": "苦難を求めよ",
+      "eng": "Seek adversity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "寻求着火\r\n欲登王座之人啊。",
+      "jap": "火を求める者\r\n王たらんと欲する者よ",
+      "eng": "As befits you,\r\nseeker of fire, coveter of the throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0获得国王冠冕后，第2次聊天",
+      "jap": "#0話しかけた:王の冠を1つ持ってる:2回目",
+      "eng": "#0Talk-2nd time, after acquiring the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "朕是小丑\r\n悲哀无比的小丑。",
+      "jap": "我は道化よ\r\n哀れなる道化よ",
+      "eng": "I am no king.\r\nI am more fit to be a jester... ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "不知一己之愚，",
+      "jap": "己の愚者たるを知らず",
+      "eng": "I was unaware of my own blindness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "只因虚伪之器、虚伪之魂",
+      "jap": "仮初の器、偽りの魂が故に",
+      "eng": "We are feeble vessels, with feebler souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "而愿舍虚伪之生，自求苦难吗。",
+      "jap": "偽りの生を捨て去ることを望み、苦難を望むか",
+      "eng": "We would cast aside the prop of life, only to face greater hardship.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "汝也是那小丑\r\n又或者是……",
+      "jap": "汝もまた道化か\r\nそれとも…",
+      "eng": "Are you another such fool,\r\nor something more?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0获得国王冠冕后，第3次聊天",
+      "jap": "#0話しかけた:王の冠を1つ持ってる:3回目",
+      "eng": "#0Talk-3rd time, after acquiring the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "寻求着火之人，汝欲何求？",
+      "jap": "火を求める者よ、何を望む",
+      "eng": "I fail to see your design, young moth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "朕却已一无可见……",
+      "jap": "我には、最早何も見えぬ…",
+      "eng": "But I see very little, these days...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0获得国王冠冕后，获得1顶古王冠冕后，第1次聊天",
+      "jap": "#0話しかけた:王の冠を2つ持ってる:1回目",
+      "eng": "#0Talk-1st time, after acquiring one of three Lost Crowns &  the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "寻求着火的人啊\r\n汝欲胜过黑暗吗。",
+      "jap": "火を求める者よ\r\n闇に打ち克とうとするか",
+      "eng": "Seeker of fire,\r\nconqueror of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "朕亦曾寻求着火。",
+      "jap": "かつて我もまた、火を求めた",
+      "eng": "I, too, sought fire, once.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "以火御咒，\r\n始为王者之器……",
+      "jap": "火を以って、呪いを統べる者\r\nそれこそが王たる者…",
+      "eng": "With fire, they say,\r\na true king can harness the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "却不知仅仅是飘渺的虚伪。",
+      "jap": "虚ろな偽りに過ぎぬとも知らず",
+      "eng": "A lie. But I knew no better...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "寻求着火的人，了解己身黑暗的深邃吧。",
+      "jap": "火を求める者よ、汝の闇の深さを知るがよい",
+      "eng": "Seeker of fire, you know not the depths of Dark within you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "越是追求火，越是加深黑暗。",
+      "jap": "火を追うほどに、闇もまた深まる",
+      "eng": "It grows deeper still, the more flame you covet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "火啊，火……",
+      "jap": "火よ、火よ…",
+      "eng": "Flame, oh, flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0获得国王冠冕后，获得1顶古王冠冕后，第2次聊天",
+      "jap": "#0話しかけた:王の冠を2つ持ってる:2回目",
+      "eng": "#0Talk-2nd time, after acquiring one of three Lost Crowns &  the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "朕乃国王，这颓圮荒废国度的王。",
+      "jap": "我は王、この綻び崩れ果てた国の王",
+      "eng": "I am king of this wretched, unravelled kingdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "朕平了巨人，剥夺其力，",
+      "jap": "我は巨人を平らげ、その力を奪い去った",
+      "eng": "I subdued the Giants, and claimed their strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "只为获得更大之力，以便接近火……",
+      "jap": "更なる力を得、火に近づかんがため…",
+      "eng": "So that I might step closer to fire...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "国已颓、火已灭……\r\n远古灵魂重新取回力量……",
+      "jap": "国は亡び、火は綻ぶ…\r\n古のソウルが力を取り戻す…",
+      "eng": "Drangleic will fall, the fire will fade,\r\nand the souls of old will reemerge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "黑暗离了枷锁，化为诅咒……",
+      "jap": "闇は枷を離れ、呪いとなり…",
+      "eng": "With Dark unshackled, a curse will be upon us...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "人变为应有的模样……",
+      "jap": "人は、そのあるべき形に…",
+      "eng": "And men will take their true shape...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0获得国王冠冕后，获得1顶古王冠冕后，第3次聊天",
+      "jap": "#0話しかけた:王の冠を2つ持ってる:3回目",
+      "eng": "#0Talk-3rd time, after acquiring one of three Lost Crowns &  the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "国已颓、火已灭……\r\n远古灵魂重新取回力量……",
+      "jap": "国は亡び、火は綻ぶ…\r\n古のソウルが力を取り戻す…",
+      "eng": "Drangleic will fall, the fire will fade,\r\nand the souls of old will reemerge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "黑暗离了枷锁，化为诅咒……",
+      "jap": "闇は枷を離れ、呪いとなり…",
+      "eng": "With Dark unshackled, a curse will be upon us...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "人变为应有的模样……",
+      "jap": "人は、そのあるべき形に…",
+      "eng": "And men will take their true shape...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0获得国王冠冕后，获得2顶古王冠冕后，第1次聊天",
+      "jap": "#0話しかけた:王の冠を3つ持ってる:1回目",
+      "eng": "#0Talk-1st time, after acquiring two of three Lost Crowns &  the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "寻求着火的人，\r\n再度驱散一个业力的人啊。",
+      "jap": "火を求める者よ\r\nまたひとつ、業を払いし者よ",
+      "eng": "Seeker of fire,\r\nI see you've subdued another foul creature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "从前的深渊之主，人性的化身，\r\n那些是他的残渣……",
+      "jap": "かつての深淵の主、人間性の権化\r\nあれらはその残滓…",
+      "eng": "One of the Father of the Abyss' spawn,\r\nthat confounded quintessence of humanity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "深渊从前有形，旋遭毁灭……",
+      "jap": "深淵はかつて形を成し、やがて滅び…",
+      "eng": "The Abyss once had form, but then dissipated.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "只留下了零碎断片。",
+      "jap": "ただその断片を遺した",
+      "eng": "And yet, traces of its existence endured.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "而那些只会渴望力量，\r\n拓展永远的黑暗……",
+      "jap": "それはただ、力を欲するだけのもの\r\n永劫に闇を拡げる…",
+      "eng": "Each fragment, thirsting for power,\r\nspread Dark, with no relent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "朕之王妃……\r\n亦为其中之一……",
+      "jap": "我が妃と呼んだものも…\r\nまた、そのひとつ…",
+      "eng": "My dear Shandra...\r\nwas one such fragment...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "断片既弱且小，\r\n因而饥渴于强大之力……",
+      "jap": "か弱く、小さなその断片は、\r\nそれ故により強く力に飢え…",
+      "eng": "A feeble,\r\ntiny thing that thirsted for power more than any other...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "只凭借着\r\n那寻求力量的寄托……",
+      "jap": "力の憑代を求めた\r\nその渇望のままに…",
+      "eng": "Driven by insatiable lust\r\nfor a worthy vessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0获得国王冠冕后，获得2顶古王冠冕后，第2次聊天",
+      "jap": "#0話しかけた:王の冠を3つ持ってる:2回目",
+      "eng": "#0Talk-2nd time, after acquiring two of three Lost Crowns &  the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "一些事物均由火中诞生，却有着先天差异。",
+      "jap": "かつて火が生まれ、それは差異をもたらした",
+      "eng": "Fire came to be, and with it, Disparity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "热与冷，生与死，\r\n光与暗。",
+      "jap": "熱と冷たさと、生と死と\r\nそして光と闇とを",
+      "eng": "Heat and cold, life and death,\r\nLight and Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0获得国王冠冕后，获得2顶古王冠冕后，第3次聊天",
+      "jap": "#0話しかけた:王の冠を3つ持ってる:3回目",
+      "eng": "#0Talk-3rd time, after acquiring two of three Lost Crowns &  the King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "暗被称为诅咒，",
+      "jap": "闇は呪いと呼ばれる",
+      "eng": "Dark was seen as a curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "但影子无火光不生。",
+      "jap": "だが、影は火あらばこそ生まれよう",
+      "eng": "Shadow is not cast, but born of fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "火越旺盛，暗色亦越发浓厚。",
+      "jap": "炎が盛るほどに、闇もまたその色を深くする",
+      "eng": "And, the brighter the flame, the deeper the shadow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "以火御暗……\r\n即代表两者均均需接纳。",
+      "jap": "火を以って闇を統べる…\r\nそれはふたつを諸共に、引き受けること",
+      "eng": "Inherit fire,\r\nand harness the Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "能够做到的人方为……",
+      "jap": "それを成す者こそが…",
+      "eng": "Such is the calling of a true leader...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0获得国王冠冕后，获得3顶古王冠冕后聊天",
+      "jap": "#0話しかけた:王の冠を4つ持ってる",
+      "eng": "#0Talk-1st time, after acquiring all three Lost Crowns & King's Crown",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "转眼，火已灭，暗为诅咒。",
+      "jap": "やがて火は絶え、闇は呪いとなる",
+      "eng": "One day, fire will fade, and Dark will become a curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "人由死亡中解放，获得永远。",
+      "jap": "人は死から解き放たれ、永劫を得る",
+      "eng": "Men will be free from death, left to wander eternally.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "一如昔日获得黑暗时的模样。",
+      "jap": "かつて闇を手に入れた、その姿のままに",
+      "eng": "Dark will again be ours, and in our true shape...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "虚伪的故事告终……然而……",
+      "jap": "偽りの物語は終わる…だが…",
+      "eng": "We can bury the false legends of yore... Only...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "何者方为应有之姿……",
+      "jap": "何があるべき姿なのか…",
+      "eng": "Is this our only choice?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "寻求着火\r\n欲登王座之人啊。",
+      "jap": "火を求める者\r\n王たらんと欲する者よ",
+      "eng": "Seeker of fire,\r\ncoveter of the throne. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "去获得力量吧。",
+      "jap": "力を手にするがよい",
+      "eng": "Seek strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "汝可随心所欲……",
+      "jap": "そして、汝の望むがままに…",
+      "eng": "The rest will follow...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "愚昧……",
+      "jap": "愚かな…",
+      "eng": "Foolish...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "##寻求着火之人，汝欲何求？",
+      "jap": "##火を求める者よ、何を望む",
+      "eng": "##(No caption) I fail to see your design, wee moth.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

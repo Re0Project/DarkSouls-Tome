@@ -1,6 +1,39 @@
 {
   "npc": "giant",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/giant.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/giant.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你是？",
+      "jap": "あんた、誰？",
+      "eng": "Who are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0选择「表示友好」后",
+      "jap": "#0話しかけた:選択肢【友情を示す】",
+      "eng": "#0Choose \"Make peace\" to the query, & subsequently talking after",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "随时都行。",
+      "jap": "いつでもばんぜん",
+      "eng": "I help anytime.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

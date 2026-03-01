@@ -1,6 +1,519 @@
 {
   "npc": "palespider",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/palespider.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/palespider.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0未装备老魔女戒指时攀谈",
+      "jap": "#0話しかけた:老魔女の指輪を装備していない",
+      "eng": "#0Talk, or Menu-Choose \"Talk\"-without the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……？",
+      "jap": "…？",
+      "eng": "...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0装备老魔女戒指时，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "……姊姊？",
+      "jap": "…姉さん？",
+      "eng": "Quelaag?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "怎么了？",
+      "jap": "どうしたの？",
+      "eng": "My dear sister.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0装备老魔女戒指时，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "姊姊，你怎么了？",
+      "jap": "姉さん、どうしたの？",
+      "eng": "Quelaag, what is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0装备老魔女戒指时，第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "啊，姊姊。",
+      "jap": "あ、姉さん",
+      "eng": "Oh, my dear sister.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "我不要紧，好像也不是很痛。",
+      "jap": "私なら大丈夫。なんだかあまり痛くないの",
+      "eng": "Don't mind me. It does not hurt terribly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "那个，姊姊。",
+      "jap": "ねえ、姉さん",
+      "eng": "Quelaag, my dear sister...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "我的蛋一直在痛，身体没办法动了，",
+      "jap": "ずっと、卵が痛いの。動かないの",
+      "eng": "The eggs...it hurts. They've gone still...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "所以，我觉得这次真的不行了",
+      "jap": "だから、今度も、ダメ、だと思う",
+      "eng": "I am afraid...it may be too late...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "……姊姊，对不起。",
+      "jap": "…ごめんね、姉さん",
+      "eng": "...I am so sorry, dear sister...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "我不要紧，有姊姊在我身边。",
+      "jap": "私なら大丈夫、姉さんがいるもの",
+      "eng": "I'll be fine, I have you, dear sister.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "所以姊姊……",
+      "jap": "だから姉さん",
+      "eng": "But promise me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "不要太勉强自己喔……",
+      "jap": "あんまり無理しないで…",
+      "eng": "That you will take care of yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0互动列表-选择「订立誓约」",
+      "jap": "#0リストから選択:誓約を交わす",
+      "eng": "#0Menu-Choose \"Enter Covenant\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "誓约……要再做一次？",
+      "jap": "誓約…？もう一度…？",
+      "eng": "Enter a Covenant? Again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "知道了，我试试看。",
+      "jap": "分かった、やってみるね",
+      "eng": "Of course. Let me try...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0献上人性后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:人間性を捧げたA",
+      "eng": "#0After deepening Covenant allegiance 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "……啊！",
+      "jap": "…ああ！",
+      "eng": "...Ooh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "谢谢你，姊姊。",
+      "jap": "ありがとう、姉さん",
+      "eng": "Thank you, Quelaag.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0献上人性后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:人間性を捧げたB",
+      "eng": "#0After deepening Covenant allegiance 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "啊……",
+      "jap": "ああ…",
+      "eng": "Ahh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "谢谢你……姊姊……",
+      "jap": "ありがとう…姉さん…",
+      "eng": "Thank you...Dear sister...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0提升混沌的仆人誓约到等级1后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すC・誓約のランクアップ後",
+      "eng": "#0Menu-Choose \"Talk\" after gaining Chaos Servant Covenant rank 1",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "那个，姊姊。",
+      "jap": "ねえ、姉さん",
+      "eng": "Quelaag, my dear sister...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "有时候，我会这么想──",
+      "jap": "私、時々思い出すの",
+      "eng": "You know, I still remember...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "姊姊的脸真的好漂亮喔。",
+      "jap": "姉さんの顔。とっても綺麗だった",
+      "eng": "Your beautiful, silky face...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "希望有一天可以再看到姊姊的脸……",
+      "jap": "いつかもう一度、見れるといいな…",
+      "eng": "If only I could gaze upon it once more...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0提升混沌的仆人誓约到等级1后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すD・誓約のランクアップ後",
+      "eng": "#0Menu-Choose \"Talk\" after deepening Covenant allegiance 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "姊姊？",
+      "jap": "姉さん？",
+      "eng": "Quelaag?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "姊姊，不要哭，",
+      "jap": "ねえ、姉さん、泣かないで",
+      "eng": "Please, sister, do not cry.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "我很幸福的，因为有姊姊陪我……",
+      "jap": "私はずっと幸せよ。姉さんがいてくれるから…",
+      "eng": "I am happy, really. I have you, don't I?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\" with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "姊姊再见，",
+      "jap": "さよなら、姉さん",
+      "eng": "Good-bye, Quelaag.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "能和姊姊讲到话，我好高兴。",
+      "jap": "お話できて嬉しかった",
+      "eng": "It was so very nice to chat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0加入混沌的仆人誓约后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る・混沌の従者誓約中",
+      "eng": "#0Menu-Choose \"Leave\" with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "姊姊再见，",
+      "jap": "さよなら、姉さん",
+      "eng": "Good-bye, Quelaag.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "不要做危险的事喔……",
+      "jap": "危ないことはしないでね…",
+      "eng": "Do be safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼女から離れて",
+      "eng": "#0After leaving abruptly with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "啊，姊姊！",
+      "jap": "あ、姉さん！",
+      "eng": "Why, Quelaag!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "你要去哪……？",
+      "jap": "どこへ…？",
+      "eng": "Where...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "姊姊，刚才发生了什么事？",
+      "jap": "姉さん、さっきはどうしたの？",
+      "eng": "Quelaag, what was that?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "遇到什么了？",
+      "jap": "何かあったの？",
+      "eng": "Is something troubling you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked, with the Old Witch's Ring equipped-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "啊……",
+      "jap": "アッ…",
+      "eng": "Ah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked, with the Old Witch's Ring equipped-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "啊啊……",
+      "jap": "アアッ…",
+      "eng": "Ahh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked, with the Old Witch's Ring equipped-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "呀！",
+      "jap": "キャアッ！",
+      "eng": "Eek!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying, with the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "姊姊……",
+      "jap": "姉さん…",
+      "eng": "Quelaag...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "为什么……？",
+      "jap": "どうして…？",
+      "eng": "But, why...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "##我没关系，我想要帮姊姊的忙。",
+      "jap": "##私なら大丈夫、姉さんの力になりたいの",
+      "eng": "##Don't worry for me. I care only to assist you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "##有没有我帮得上忙的地方？",
+      "jap": "##私にできることがあるの？",
+      "eng": "##There must be something I can do?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "##大概是因为姊姊最近常和我讲话吧……",
+      "jap": "##最近、姉さんが話してくれるからかな…",
+      "eng": "##Your visits help more than anything.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "##我觉得好舒服……",
+      "jap": "##私、とっても、気持ちいい…",
+      "eng": "##It feels...wonderful.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "##好轻松……",
+      "jap": "##すごく楽になる…",
+      "eng": "##It really helps, it does...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "##已经不痛了……",
+      "jap": "##もう、痛くないよ…",
+      "eng": "##...It hurts no longer...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,679 @@
 {
   "npc": "targray",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/targray.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/targray.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目・信義の証を持っていない",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "流浪者啊。",
+      "jap": "うつろいゆく者よ",
+      "eng": "Transient being.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "此非你等可到之处。",
+      "jap": "そなたのような者の訪れる場所ではない",
+      "eng": "This is no place for one such as you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "离去吧。\r\n流浪者。",
+      "jap": "去るがよい\r\nうつろいゆく者よ",
+      "eng": "Be gone.\r\nYou are not needed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目・信義の証を持っていない",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "流浪者，\r\n问再多次都是一样。",
+      "jap": "うつろいゆく者よ\r\n幾度尋ねても同じ",
+      "eng": "Transient being,\r\nnothing has changed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "跟未拥有青骑士资格之人，\r\n我无话可说。",
+      "jap": "青の騎士たる資格を持たぬ者に\r\n語る口は持たぬ",
+      "eng": "You would never make a Knight of the Blue,\r\nand I have nothing more to say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "离去吧。\r\n流浪者。",
+      "jap": "去るがよい\r\nうつろいゆく者よ",
+      "eng": "Be gone.\r\nYou are not needed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0获得信义之证后说话",
+      "jap": "#0話しかけた:1回目・信義の証を持っている",
+      "eng": "#0Talk-After acquiring a Token of Fidelity",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "流浪者啊。",
+      "jap": "うつろいゆく者よ",
+      "eng": "Transient being.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "身携青骑士之证，你来得好。",
+      "jap": "青の騎士たる証を携え、よくぞ参った",
+      "eng": "You have obtained proof, you are worthy of joining our Order.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "你已立证，为导引人，\r\n获准于诸神居处落地生根。",
+      "jap": "そなたは導き手となるべき、証を立て\r\nこの神々がおわす地に、根を張ることを許された",
+      "eng": "You may call yourself one of us,\r\nand are free to plant your roots in this garden of the gods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "光荣之人，\r\n我青骑士格拉因德克任命你，\r\n从今以后，你当为青骑士。",
+      "jap": "誇りある者よ\r\nこのガラインドークが任ずる\r\nいまより、そなたは青の騎士となる",
+      "eng": "Be proud.\r\nI, Targray, do proclaim,\r\nfrom this day, you are a Knight of the Blue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "来，接受这份荣耀，并与欢欣同在。",
+      "jap": "さあ、喜びと共に、この栄誉を受けるがよい",
+      "eng": "Rejoice, and bask in your new honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0是否订立青之守护者誓约？第1次选择「否」",
+      "jap": "#0話しかけた:1回目・信義の証を持っている:選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "……你刚刚说什么？",
+      "jap": "…いま、何と申したのか？",
+      "eng": "Do my ears deceive me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "居然有人会拒绝此项荣誉？……",
+      "jap": "この栄誉を、よもや拒む者がおる…？",
+      "eng": "Who would refuse such magnificence?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "赦免他吧……眼前的无知者，\r\n浑不知自己说话的意义。",
+      "jap": "赦し給え…この無知なる者は\r\n己の言葉の意味すらもわからぬのです",
+      "eng": "Gods, have mercy...on this halfwit.\r\nHe knows not what he speaks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0选择「否」后，或撕毁誓约后说话",
+      "jap": "#0話しかけた:2回目・【NO】を選択後(誓約破棄後)",
+      "eng": "#0Talk-After choosing \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "流浪者啊，原来是你。",
+      "jap": "うつろいゆく者よ そなたか",
+      "eng": "You are a wandering transient.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "是否愿意悔改，企望青之求道者的荣耀？",
+      "jap": "悔い改め、青の求道者たる栄誉を望むか？",
+      "eng": "Do you rescind your ways, and seek honour as an apostle of blue?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0是否订立青之守护者誓约？第2次选择「否」",
+      "jap": "#0話しかけた:2回目・【NO】を選択後(誓約破棄後)・再度【NO】を選択",
+      "eng": "#0Choose \"No\" to the 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "哦哦……请原谅他吧……",
+      "jap": "おおお…赦し給え…",
+      "eng": "Ohh Gods...have mercy...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0是否订立青之守护者誓约？选择「是」",
+      "jap": "#0話しかけた:1回目・信義の証を持っている:選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "你已不再是流浪者，\r\n而是青骑士，高贵的导引人。",
+      "jap": "そなたはもはや、うつろいゆく者にあらず\r\n貴き導き手、青の騎士となった",
+      "eng": "You are no longer a mere vagabond.\r\nYou are now a guardian, a Knight of the Blue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "青骑士，我颁授你此物。",
+      "jap": "青の騎士よ、これを授けよう",
+      "eng": "Proud knight, take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "配戴此戒指，光耀此宝石。",
+      "jap": "この指輪を身に着け、その石に光を与えよ",
+      "eng": "Wear this ring, and shine light upon stone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "如此，则可倾听青教徒众的心声。",
+      "jap": "さすれば、そなたには青の徒らの声が聞こえよう",
+      "eng": "Then, you will hear the voices of the blue apostles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "你要回应求救之声，迎击无情冷血的侵入者。",
+      "jap": "救いを求める声に応え、慈悲なき侵入者を迎え討つのだ",
+      "eng": "Listen for their cries of help, and repel the malicious invaders.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "此乃光荣青骑士的使命，\r\n迈向颠峰的进一步试炼。",
+      "jap": "それが誇りある、青の騎士の務め\r\n高みへの更なる試練である",
+      "eng": "This is the proud work of the Knights of the Blue,\r\nthe way they elevate themselves to a higher plane.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "需要的东西帮你调度，\r\n你可随时前来。",
+      "jap": "必要なものは用立てよう\r\nいつでも参るがよい",
+      "eng": "I'll provide what you need.\r\nYou may visit me at any time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0加入青之守护者誓约后说话",
+      "jap": "#0話しかけた:誓約を結んだあと",
+      "eng": "#0Talk-After choosing \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "骑士，\r\n可向我格拉因德克寻求援助。",
+      "jap": "騎士よ\r\nこのガラインドークに助力を求めよ",
+      "eng": "Proud knight, you may come to me,\r\nTargray, for help.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "我等青骑士为了完成使命，\r\n必须拥有相应之力。",
+      "jap": "我ら青の騎士たる者、務めを果たすためには\r\n相応の力を持たねばならぬ",
+      "eng": "We Knights of the Blue must rely upon\r\none another to achieve our greater goal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "拿出\"信义之证\"吧。",
+      "jap": "\"信義の証\"を見せるがよい",
+      "eng": "Present your Token of Fidelity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "拿着\"信义之证\"，站到那边吧。",
+      "jap": "\"信義の証\"を持ち、そこに立つがよい",
+      "eng": "Take your Token of Fidelity, and stand there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "骑士对骑士，为你准备相符对象试试身手。",
+      "jap": "騎士と騎士、然るべき相手との腕試しを供しよう",
+      "eng": "...to test your strength against other knights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "骑士，\r\n要凝望颠峰。",
+      "jap": "騎士よ\r\n高みを見据えよ",
+      "eng": "Proud knight,\r\naim high in all things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "吾等的使命，乃守护引导青教徒众。",
+      "jap": "我らの役目は、青の徒を守り導くこと",
+      "eng": "We knights must protect the apostles of blue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "勿忘之，\r\n以此名誉为誓，寻求试炼吧。",
+      "jap": "忘れることなかれ\r\nその名誉に懸けて、試練を求めよ",
+      "eng": "Never forget this fact,\r\nand by your honour, never eschew your training.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "此地有着渴求鲜血\r\n并以此为乐的徒众。",
+      "jap": "この地にはただ血を求め、\r\nそれを己に約した者たちがいる",
+      "eng": "There are others in this forsaken place\r\nwho have only a lust for blood.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "以屠戮行路青教徒众为目的的人们。",
+      "jap": "道行く青の徒を屠ることを目的とする者たちよ",
+      "eng": "They conspire to ambush blue apostles on the road.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "青骑士啊，要从这些无情之人的刀刃下，\r\n保护青教徒众。",
+      "jap": "青の騎士よ、彼奴ら無慈悲なる者の刃から\r\n青の徒を守るのだ",
+      "eng": "Knight of the Blue, protect our apostles\r\nfrom these bloodthirsty brigands.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "这就是光荣青骑士的使命。",
+      "jap": "それが誇りある、青の騎士の務め",
+      "eng": "Take pride in your duty as a Blue Knight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "一切都是试炼，\r\n以颠峰为目标。",
+      "jap": "全ては試練である\r\n高みを見据えるのだ",
+      "eng": "Work hard,\r\nand pursue a higher plane.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0提升青之守护者誓约到等级1后说话",
+      "jap": "#0誓約のランクが1になった",
+      "eng": "#0Talk-After reaching rank +1 as a member of the Blue Sentinels Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "超越试炼，你朝颠峰更进一步。",
+      "jap": "試練を越え、そなたはより高みへと近づいた",
+      "eng": "You've achieved much, and approached a higher plane.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "青骑士啊，任重道远",
+      "jap": "青の騎士よ、道は遠く長いもの",
+      "eng": "But our path is long and arduous.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "寻求试炼吧。\r\n那是吾等的使命。",
+      "jap": "試練を求めよ\r\nそれが我らの務め",
+      "eng": "We must always seek\r\nfurther challenges.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0提升青之守护者誓约到等级2后说话",
+      "jap": "#0誓約のランクが2になった",
+      "eng": "#0Talk-After reaching rank +2 as a member of the Blue Sentinels Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "青骑士啊，\r\n经历诸多试炼的骑士啊。",
+      "jap": "青の騎士よ\r\n幾多の試練を越えた騎士よ",
+      "eng": "Knight of the Blue,\r\nyou have accomplished much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "颠峰尚在天边，\r\n但你已步步接近。",
+      "jap": "高みはいまだ遠い\r\nされどそなたはそれに近づいている",
+      "eng": "You are closer still\r\nto a higher plane.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "心存迷惘、恐惧者，无法引导他人。",
+      "jap": "惑い、恐れを抱く者たちの導き手とならん",
+      "eng": "You will continue to lead the weak and misguided.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "愿与荣耀同在……",
+      "jap": "誇りと共に…",
+      "eng": "May you always stand proud.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0提升青之守护者誓约到等级3后说话",
+      "jap": "#0誓約のランクが3になった",
+      "eng": "#0Talk-After reaching rank +3 as a member of the Blue Sentinels Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "吾等的试炼，无穷无尽。",
+      "jap": "我らの試練は、終わりなき道",
+      "eng": "We walk along an endless path.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "然你已窥得其颠峰。",
+      "jap": "なれど、そなたはその高みを垣間見る者よ",
+      "eng": "Along the way, we see glimpses of a higher plane.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "试炼依然持续，\r\n只要吾等尚存。",
+      "jap": "試練は続く\r\n我らがある限り",
+      "eng": "We challenge ourselves,\r\nuntil we breathe our last breath.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0提升青之守护者誓约到等级3后，互动列表-选择「说话」",
+      "jap": "#0話しかけた:誓約のランクが3になったあと",
+      "eng": "#0Menu-Choose \"Talk\" As a rank +3 member of the Blue Sentinels Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "拿了它吧。",
+      "jap": "これを取るがよい",
+      "eng": "Take these.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "愿你的试炼一帆风顺。",
+      "jap": "そなたの試練に幸いあれ",
+      "eng": "May you achieve great things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "只要你善尽使命，吾等均是助力。",
+      "jap": "そなたが務めを果たす限り、我らは力を貸そう",
+      "eng": "Do your work, and I will lend you strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "完成使命吧。\r\n青骑士。",
+      "jap": "務めを果たすのだ\r\n青の騎士よ",
+      "eng": "Pursue your work,\r\nKnight of the Blue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "去吧。\r\n为了那份荣耀。",
+      "jap": "行くがよい\r\nその誇りのために",
+      "eng": "Go,\r\nand be proud.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "你正是我的试炼。",
+      "jap": "そなたこそが、我が試練よ",
+      "eng": "You are my greatest challenge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "我的试炼啊，来得好。",
+      "jap": "よくぞ来た、我が試練よ",
+      "eng": "Welcome back, my greatest challenge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "以我的荣誉为誓……",
+      "jap": "我らが誇りに懸けて…",
+      "eng": "By my knight's honour...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "这才是真正的试炼……",
+      "jap": "これこそが試練よ…",
+      "eng": "This is the ultimate challenge...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "吾之神……乃为道标……",
+      "jap": "我が神こそが…道しるべ…",
+      "eng": "Great Sentinel...lead me home...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "##哦……哦哦……你居然……",
+      "jap": "##おお…おおお…なんという…",
+      "eng": "##Ooh... Ooooh... Unthinkable...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "##离去吧……愿你终生流浪不止……",
+      "jap": "##去れ…終生、うつろいゆくがよい…",
+      "eng": "##Be gone... And be forever transient.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "##离去吧……你已无可赦免。",
+      "jap": "##去れ…そなたは赦されることはない",
+      "eng": "##Be gone... There is no mercy for your kind.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "##骑士……应有荣耀……",
+      "jap": "##騎士よ…誇りを…",
+      "eng": "##Brave knight...be proud.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

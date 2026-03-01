@@ -1,6 +1,311 @@
 {
   "npc": "aside",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/aside.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/aside.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0序幕",
+      "jap": "#0プロローグ",
+      "eng": "#0Prologue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "在远古时代",
+      "jap": "古い時代",
+      "eng": "In the Age of Ancients,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "世界还未分化，笼罩在大雾之中",
+      "jap": "世界はまだ分かたれず、霧に覆われ",
+      "eng": "the world was unformed, shrouded by fog.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "四处都是灰色的岩石，高耸的大树及不朽古龙",
+      "jap": "灰色の岩と大樹と、朽ちぬ古竜ばかりがあった",
+      "eng": "A land of grey crags, archtrees, and everlasting dragons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "但是有一天燃起了第一团火",
+      "jap": "だが、いつかはじめての火がおこり",
+      "eng": "But then there was Fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "所有的差异因此而生",
+      "jap": "火と共に差異がもたらされた",
+      "eng": "And with Fire, came Disparity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "冷与热",
+      "jap": "熱と冷たさと",
+      "eng": "Heat and cold,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "生命与死亡",
+      "jap": "生と死と",
+      "eng": "life and death,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "光明与黑暗",
+      "jap": "そして、光と闇と",
+      "eng": "and of course... Light and Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "然后，有几只从黑暗中诞生的物种",
+      "jap": "そして、闇より生まれた幾匹かが",
+      "eng": "Then, from the Dark, They came,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "受到火焰引诱，并在火的周围找到了王的灵魂",
+      "jap": "火に惹かれ、王のソウルを見出した",
+      "eng": "and found the Souls of Lords within the flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "“最初的死者”尼特",
+      "jap": "最初の死者、ニト",
+      "eng": "Nito, the first of the dead,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "伊札里斯魔女和混沌的女儿",
+      "jap": "イザリスの魔女と、混沌の娘たち",
+      "eng": "the Witch of Izalith, and her Daughters of Chaos,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "阳光之王葛温和他的麾下骑士",
+      "jap": "太陽の光の王グウィンと、彼の騎士たち",
+      "eng": "Gwyn, the Lord of Sunlight, and his faithful knights,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "以及没人看到过的#1矮人#3#2小人#3",
+      "jap": "そして、誰も知らぬ小人",
+      "eng": "and the furtive pygmy, so easily forgotten.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "他们获得了王的力量，并挑战古龙",
+      "jap": "それらは王の力を得、古竜に戦いを挑んだ",
+      "eng": "With the Strength of Lords, they challenged the dragons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "葛温的雷贯穿了有如岩石般的鳞片",
+      "jap": "グウィンの雷が、岩のウロコを貫き",
+      "eng": "Gwyn's mighty bolts peeled apart their stone scales.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "魔女的火焰形成了风暴",
+      "jap": "魔女の炎は嵐となり",
+      "eng": "The witches weaved great firestorms.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "尼特解放了死亡瘴气",
+      "jap": "死の瘴気がニトによって解き放たれた",
+      "eng": "Nito unleashed a miasma of death and disease.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "而无鳞的白龙希斯背叛了古龙",
+      "jap": "そして、ウロコのない白竜、シースの裏切りにより",
+      "eng": "And Seath the Scaleless betrayed his own,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "导致古龙败退",
+      "jap": "遂に古竜は敗れた",
+      "eng": "and the dragons were no more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "火的时代就此开启",
+      "jap": "火の時代のはじまりだ",
+      "eng": "Thus began the Age of Fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "但是火终有熄灭的时候，到时将只剩下黑暗",
+      "jap": "だが、やがて火は消え、暗闇だけが残る",
+      "eng": "But soon, the flames will fade, and only Dark will remain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "现在，火即将熄灭",
+      "jap": "今や、火はまさに消えかけ",
+      "eng": "Even now, there are only embers,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "光明无法照耀人世，夜晚无止境的持续",
+      "jap": "人の世には届かず、夜ばかりが続き",
+      "eng": "and man sees not light, but only endless nights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "而受诅咒的黑暗之环，开始出现于人群中",
+      "jap": "人の中に、呪われたダークリングが現れはじめていた…",
+      "eng": "And amongst the living are seen, carriers of the accursed Darksign.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0北方不死院",
+      "jap": "#0北の不死院",
+      "eng": "#0Northern Undead Asylum",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "是的，黑暗之环代表了受到不死的诅咒",
+      "jap": "そうさね。ダークリングは、呪われた不死の証",
+      "eng": "Yes, indeed. The Darksign brands the Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "所以，在王国里",
+      "jap": "だから、この国では",
+      "eng": "And in this land,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "不死人全会被逮捕，送到北边",
+      "jap": "不死はすべて捕らえられ　北に送られ",
+      "eng": "the Undead are corralled and led to the north,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "关到大牢里，直到世界终了",
+      "jap": "世界の終わりまで　牢に入る",
+      "eng": "where they are locked away, to await the end of the world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "……这也是你的命运",
+      "jap": "…お前もそうなるんだよ",
+      "eng": "...This is your fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0离开不死院",
+      "jap": "#0不死院離れる",
+      "eng": "#0Leaving Undead Asylum",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "不过，根据古老的传说",
+      "jap": "けれども、古い伝承によれば",
+      "eng": "Only, in the ancient legends it is stated,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "有极少数被选上的不死人",
+      "jap": "ごく稀に選ばれた不死だけが",
+      "eng": "that one day an Undead shall be chosen",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "可以离开不死院，前往远土巡礼",
+      "jap": "不死院を出て、かの地への巡礼を許される",
+      "eng": "to leave the Undead Asylum, in pilgrimage,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "那里是古代诸王之地",
+      "jap": "そこは古い王たちの地",
+      "eng": "to the land of the Ancient Lords,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "罗德兰",
+      "jap": "ロードランだ",
+      "eng": "Lordran.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

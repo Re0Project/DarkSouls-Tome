@@ -20,9 +20,28 @@ async function parseXml(filePath) {
     const xmlData = fs.readFileSync(filePath, 'utf-8');
     const result = await parser.parseStringPromise(xmlData);
     return result.entries.text.map(item => ({
-      id: item.$.id,
-      text: item._
+      id: item.$?.id,
+      text: item._ || item
     }));
+  } catch (error) {
+    console.error(`Error parsing ${filePath}:`, error.message);
+    return [];
+  }
+}
+
+async function parseDialogueXml(filePath) {
+  try {
+    const xmlData = fs.readFileSync(filePath, 'utf-8');
+    const result = await parser.parseStringPromise(xmlData);
+    return result.entries.text.map((item, index) => {
+      const text = typeof item === 'string' ? item : (item._ || item);
+      const id = item.$?.id;
+      return {
+        index,
+        id,
+        text
+      };
+    });
   } catch (error) {
     console.error(`Error parsing ${filePath}:`, error.message);
     return [];
@@ -134,7 +153,7 @@ async function convertDialogues(game) {
     const dialogue = {
       npc: npcName,
       game,
-      avatar: `/icons/ds${game}/npcs/${npcName}.webp`,
+      avatar: `/icons/ds${game}/dialogues/${npcName}.webp`,
       lines: []
     };
     
@@ -142,8 +161,9 @@ async function convertDialogues(game) {
     for (const lang of languages) {
       const dialoguePath = path.join(__dirname, `../reference/text/${lang}${game}/dialogue/${npcFile}`);
       if (fs.existsSync(dialoguePath)) {
-        const lines = await parseXml(dialoguePath);
-        lines.forEach((line, index) => {
+        const lines = await parseDialogueXml(dialoguePath);
+        lines.forEach((line) => {
+          const index = line.index;
           if (!dialogue.lines[index]) {
             dialogue.lines[index] = { 
               index, 

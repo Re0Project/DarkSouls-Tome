@@ -1,6 +1,663 @@
 {
   "npc": "tark",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/tark.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/tark.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0未装备细语戒指时说话",
+      "jap": "#0話しかけた・ささやきの指輪未装備時",
+      "eng": "#0Talk-Without Ring of Whispers Equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "・・・？",
+      "jap": "・・・？",
+      "eng": "...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0未装备细语戒指攻击导致敌对时",
+      "jap": "#0敵対状態になった・ささやきの指輪未装備時",
+      "eng": "#00Upon being attacked & made hostile-Without Ring of Whispers Equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "・・・！",
+      "jap": "・・・！",
+      "eng": "...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0装备细语戒指时，第1次说话",
+      "jap": "#0話しかけた:1回目(以下すべてささやきの指輪装備時)",
+      "eng": "#0Talk-1st time, With Ring of Whispers Equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "人类啊。",
+      "jap": "人間か",
+      "eng": "Human, are we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "到此处有何贵干？\r\n速速离去。",
+      "jap": "このような場所に何の用がある\r\n立ち去るがいい",
+      "eng": "This is no place for you.\r\nBe gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "你难道不惧怕我吗？",
+      "jap": "お前は、我が恐ろしくはないのか？",
+      "eng": "Are you not afraid of me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "难得有人类来到这里。",
+      "jap": "ここまでやってくる人間は珍しい",
+      "eng": "Humans rarely come here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "但是，人们一看到我，\r\n不是逃得干净，就是拔剑相向。",
+      "jap": "だが、我を見た者は、ことごとく逃げ出すか、\r\n襲い掛かってくるかだった",
+      "eng": "Those who do turn back when they see me.\r\nOr make an attempt on my life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "你真是个怪人。\r\n呵呵呵。",
+      "jap": "変わった奴だ\r\nフフフッ",
+      "eng": "But you, heh...\r\nare different. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "我们有主，\r\n我们都是由他所生。",
+      "jap": "我らには主がいた\r\n我らは皆、その者によって生み出されたのだ",
+      "eng": "We once had a master.\r\nHe created us long, long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "主天生就有缺憾。",
+      "jap": "主には、生まれつき欠けたものがあった",
+      "eng": "But he was born with a fatal flaw.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "总是寻求己身所无，羡慕他人、嫉妒他人，\r\n心中总受到怨愤煎熬。",
+      "jap": "己に足りぬものを求め、他を羨み、憤り、\r\n常に憎しみに身を焼かれていた",
+      "eng": "He resented those who had what he lacked,\r\nand became fully mired in hatred.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "而那就促使主陷入疯狂。",
+      "jap": "それはやがて、主を狂気へと誘ったという",
+      "eng": "Eventually, he drove himself mad.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "而疯狂下的结果，\r\n就诞生了我们这种奇特的生命。",
+      "jap": "その狂気の果てに\r\n我らのような、奇妙な命を生んだのだ",
+      "eng": "It was at the peak of this madness\r\nthat he conjured up we strange creatures.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "主经常是孤独的。",
+      "jap": "主は常に孤独であったのだろう",
+      "eng": "Our master was a tragically lonely soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "而孤独扼杀了理性。",
+      "jap": "そして、その孤独が理性を殺してしまった",
+      "eng": "Eventually, his solitude eroded his very reason.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "可悲啊。\r\n主却从未发现到，",
+      "jap": "哀れなことよ\r\n主は、ついに気付かなかったのだ",
+      "eng": "In the end,\r\nhe never understood...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "己身真正缺少的到底是什么。",
+      "jap": "真に己に欠けていたものが、何であったのか",
+      "eng": "...what it was that he truly lacked.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0第5次说话",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "我们何时诞生，无人可知。",
+      "jap": "我らがいつ生まれたのか、知る者はおらん",
+      "eng": "Nobody knows when we were born.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "也不知道主目前在哪里、做什么。",
+      "jap": "主がいま、どこで何をしているのかもな",
+      "eng": "Or where our master has gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "不过，能够与其对话的正常人，\r\n除了我与我的同伴外，也没别人了。",
+      "jap": "もっとも、話ができるようなまともな者など、\r\n我と我が連れ合いを除いて、誰もおりはせぬが",
+      "eng": "The only ones who even speak a human tongue\r\nare myself and my better half.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0第6次说话",
+      "jap": "#0話しかけた:6回目",
+      "eng": "#0Talk-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "有件事情想拜托你，\r\n能否杀了我的同伴。",
+      "jap": "お前に頼みがある\r\n我の連れ合いを殺してはもらえんか",
+      "eng": "I wish to ask a favour of you.\r\nI want you to kill my betrothed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "他与我可说焦不离孟，\r\n但曾几何时也开始变得不对劲。",
+      "jap": "あれは我といつも共にあった\r\nだが、いつの頃からかおかしくなり始めた",
+      "eng": "Once, I always found her at my side.\r\n But as time went on, things went awry.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "莫名其妙的凶暴起来，还四下大闹。",
+      "jap": "無闇と凶暴になり、暴れまわるようになった",
+      "eng": "She became violent, raging uncontrollably.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "连我都免不了受到攻击。",
+      "jap": "そして、我にすら襲い掛かってきた",
+      "eng": "Eventually she came after me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "之后我和他不断的战斗，\r\n好几次、好几次……",
+      "jap": "以来、我はあれと戦い続けている\r\n幾たびも幾たびも…",
+      "eng": "And we've been locked\r\nin combat ever since.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0第7次说话",
+      "jap": "#0話しかけた:7回目",
+      "eng": "#0Talk-7th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "我们似乎无法杀死对方，\r\n彼此造成的伤害，没有办法致死。",
+      "jap": "我らは互いを殺すことができぬようなのだ\r\n互いの手でつけられた傷では、死ぬことができん",
+      "eng": "We seem to be at a standstill.\r\nThe wounds we exchange are never lethal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "由于主的疯狂所诞生的我们，\r\n这个因果，或许也因此而来吧。",
+      "jap": "主の狂気によって生みだされたものが我らなら、\r\nこの業も、それ故かもしれぬ",
+      "eng": "I was born of my master's madness.\r\nPerhaps this is some curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "可以的话，我也会协助你。",
+      "jap": "もしできるなら、我もお前に協力しよう",
+      "eng": "I will be sure to assist you in return.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0第8次说话",
+      "jap": "#0話しかけた:8回目",
+      "eng": "#0Talk-8th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "想不起来，完全都……",
+      "jap": "かつて我は何者だったのか…思い出せん、何も…",
+      "eng": "The past is a distant fog...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "我名叫塔克……除此之外什么都想不起来……",
+      "jap": "我が名はターク…それ以外は、何も思い出せん…",
+      "eng": "My name was Tark... That is all that I remember...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0击杀纳吉卡后，第1次说话",
+      "jap": "#0話しかけた:蠍のナジカ擊破後",
+      "eng": "#0Talk-1st time, after defeating Scorpioness Najka",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "你似乎打倒了我的同伴呢。",
+      "jap": "我が連れ合いは、倒れたようだ",
+      "eng": "You've defeated my better half.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "这是谢礼，\r\n收下吧。",
+      "jap": "これは礼だ\r\nとっておけ",
+      "eng": "This is my thanks.\r\nTake it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0击杀纳吉卡后，第2次说话",
+      "jap": "#0話しかけた:蠍のナジカ擊破後2回目",
+      "eng": "#0Talk-2nd time, after defeating Scorpioness Najka",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "遥远的过去，这里曾有拥有类似我们力量的人。",
+      "jap": "遥か昔、我らに似た力を持つ者がここにいた",
+      "eng": "Long ago, there was a being with powers similar to ours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "他们的外型有如蜘蛛。",
+      "jap": "その者は蜘蛛の姿を宿していた",
+      "eng": "The creature took the form of a spider.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "他们不知什么时候消失，不知道去了哪里。",
+      "jap": "いつの間にかいなくなっていたが、何処へ行ったのか",
+      "eng": "But I don't know where it disappeared to.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "那些人或许也是被疯狂所引诱吧。",
+      "jap": "あの者も、また狂気に誘われたのかもしれんな",
+      "eng": "Perhaps it was seduced by madness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0击杀纳吉卡后，第3次说话",
+      "jap": "#0話しかけた:蠍のナジカ擊破後3回目",
+      "eng": "#0Talk-3rd time, after defeating Scorpioness Najka",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "我们没有可以祈求的神。",
+      "jap": "我らには、祈る神などおらぬ",
+      "eng": "I have no gods to pray to.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "即便如此，也希望你的旅程一帆风顺。",
+      "jap": "だがそれでも、お前の旅の無事を願っていよう",
+      "eng": "But still I pray that your journey will be safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0击杀公爵的弗雷迪亚后说话",
+      "jap": "#0話しかけた:公のフレイディア擊破後",
+      "eng": "#0Talk-1st time, after defeating The Duke's Dear Freja",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "你打倒了我们的主啦。\r\n身手真是不错。",
+      "jap": "我が主を倒したか\r\n見事な腕よ",
+      "eng": "What skill.\r\nYou've defeated my master.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "主不会灭亡，而是会改变身形，\r\n不断、不断地苦闷疯狂吧。",
+      "jap": "あの方は滅ぶのではない、その姿を変え、\r\n幾たびも幾たびも、苦しみに狂うのだろう",
+      "eng": "But our master never dies, only changes form,\r\nso that he may seethe for all eternity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "人类啊，你的旅途仍然满是苦难。",
+      "jap": "人間よ、お前の旅もまた苦難に満ちたものであるはず",
+      "eng": "Brave human, you have yet to face your greatest perils.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "这个你带着吧，\r\n希望你的旅途终点有着喜乐。",
+      "jap": "これを持っていけ\r\nお前の旅の果てに、喜びがあることを願う",
+      "eng": "Take these.\r\nMay joy await you at the end of your travels.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "咕喔！",
+      "jap": "ぐおっ！",
+      "eng": "Hrgkt!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "你干什么！",
+      "jap": "何をする！",
+      "eng": "What are you doing!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "你想怎样!?",
+      "jap": "何のつもりだ！？",
+      "eng": "How dare you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "连你也被疯狂所困了吗!?",
+      "jap": "お前も、狂気に囚われたか！？",
+      "eng": "Have you been enslaved by madness?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "失去理智的人，不能放过。",
+      "jap": "正気をなくした者に容赦はせぬ",
+      "eng": "The mad will never be forgiven.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "愚蠢的人类……",
+      "jap": "愚かな人間よ…",
+      "eng": "Foolish human...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "小小人类——！",
+      "jap": "人間風情が！",
+      "eng": "You wretched human!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "咕哇……",
+      "jap": "ぐわあぁぁ…",
+      "eng": "Arrggh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "##我们能够说人类的话语……\r\n难道我们曾经是人？",
+      "jap": "##こうして、人の言葉が喋れるということは…\r\n我はかつて人間であったのか？",
+      "eng": "##Since I speak the tongue of men,\r\ndoes this mean I was once human?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "##人类啊……",
+      "jap": "##人間よ…",
+      "eng": "##Young human...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "###2（仅英文语音）人类啊……#3",
+      "jap": "##…",
+      "eng": "##(No caption) Young human.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "###2（仅英文语音）我被困住了#3",
+      "jap": "##…",
+      "eng": "##(No caption) I am trapped.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "###2（仅英文语音）人类啊，我想请你帮个忙。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Young human, I have a favor to ask.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "###2（仅英文语音）住手！人类。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Stop! Human.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "###2（仅英文语音）很抱歉麻烦你。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Sorry to trouble you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "###2（仅英文语音）谢谢了，人类。#3",
+      "jap": "##…",
+      "eng": "##(No caption) And thank you, young human.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "###2（仅英文语音）我不知道是怎么回事。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I don't know how I let that happen.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "###2（仅英文语音）我记得你……是你救了我。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I remember you... you're the one who saved me.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

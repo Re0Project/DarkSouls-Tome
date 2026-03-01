@@ -1,6 +1,223 @@
 {
   "npc": "aside",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/aside.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/aside.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0序幕",
+      "jap": "#0プロローグ",
+      "eng": "#0Prologue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你是否也曾梦到，",
+      "jap": "お前さんも夢に見たことが無いかい",
+      "eng": "Perhaps you've seen it, maybe in a dream.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "梦到那失落的地方？",
+      "jap": "あの失われた地のことをさ",
+      "eng": "A murky, forgotten land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "那儿据说有着能唤醒人常，",
+      "jap": "そこには人の理を呼び戻せる",
+      "eng": "A place where souls",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "称之为\"灵魂\"的力量。",
+      "jap": "\"ソウル\"と呼ばれる力があるそうな",
+      "eng": "may mend your ailing mind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "所有的一切都将失去，",
+      "jap": "何もかもを失くすんだよ",
+      "eng": "You will lose everything.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "一旦你显现了\"刻印\"。",
+      "jap": "\"刻印\"が現れた人間はね",
+      "eng": "Once branded.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "那是诅咒的证明。",
+      "jap": "それは、呪いの証",
+      "eng": "The symbol of the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "黑暗之印。",
+      "jap": "闇の刻印さ",
+      "eng": "An augur of darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "无论过去未来，",
+      "jap": "過去も未来も",
+      "eng": "Your past. Your future.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "甚或是光明。",
+      "jap": "そして光さえも",
+      "eng": "Your very light.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "当连失去的事实也不再记得。",
+      "jap": "やがて失くしたことすらも思い出せなくなったら",
+      "eng": "None will have meaning, and you won't even care.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "你将成为非人。",
+      "jap": "お前さんは人じゃないものになる",
+      "eng": "By then, you'll be something other than human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "成为一匹贪嗜灵魂的野兽。",
+      "jap": "ただ魂をむさぼり喰う獣…",
+      "eng": "A thing that feeds on souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "成为……游魂。",
+      "jap": "亡者に",
+      "eng": "A Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "遥远的北地，\r\n高墙的另一边，",
+      "jap": "遥か北の地\r\n貴壁の先",
+      "eng": "Long ago, in a walled off land,\r\nfar to the north,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "曾有以伟大国王#1为名#3#2的名义#3建立的远古之国。",
+      "jap": "かつて偉大な王の名のもとに築かれた、古の国",
+      "eng": "a great king built a great kingdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "记得当时称做\"多兰古雷格\"。",
+      "jap": "その時の名は確か、\"ドラングレイグ\"といったね",
+      "eng": "I believe they called it Drangleic.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "你应已知晓。",
+      "jap": "もう知ってるはずだよ",
+      "eng": "Perhaps you're familiar.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "不，不知道也好。",
+      "jap": "いいや、知らなくたっていいのさ",
+      "eng": "No, how could you be.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "你将抵达那座朽坏的大门。",
+      "jap": "お前さんは、あの朽ち果てた門へ辿りつく",
+      "eng": "But one day, you will stand before its decrepit gate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "无关是否情愿。",
+      "jap": "望もうが望むまいが",
+      "eng": "Without really knowing why...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "有如飞蛾扑火般，",
+      "jap": "そして、光に惹かれる羽虫のように",
+      "eng": "Like a moth drawn to a flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "你的身心将受煎熬。",
+      "jap": "その身を焦がすんだよ",
+      "eng": "Your wings will burn in anguish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "很多次，很多次……",
+      "jap": "何度も、何度も…",
+      "eng": "Time after time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "那是你唯一可行之路。",
+      "jap": "それしか許されないのさ",
+      "eng": "For that is your fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "\"受诅咒者\"啊。",
+      "jap": "\"呪われ人\"にはね",
+      "eng": "The fate of the cursed.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

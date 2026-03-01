@@ -1,6 +1,143 @@
 {
   "npc": "ariandel",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/ariandel.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/ariandel.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0进入地下室，靠近艾雷德尔时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After entering the passageway leading to his location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "看得到火，还看得到细细微火……",
+      "jap": "火が見える。火がまた、チラついている…",
+      "eng": "I see flame. Flame, flickering, once again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "一定是因为血还不够……",
+      "jap": "きっと血が足りないんだ…",
+      "eng": "Not enough blood yet shed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "快点，快把鞭子拿来……",
+      "jap": "鞭を、鞭をもってきておくれ…",
+      "eng": "My flail... Bring me my flail.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "啊啊，芙莉德，你有听到吧……",
+      "jap": "ああ、フリーデ。君は聞こえているだろう…",
+      "eng": "Ahh, Friede. What stops thine ears?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "拜托你了，把鞭子拿来吧……",
+      "jap": "お願いだ、鞭を持ってきておくれ…",
+      "eng": "Please, my flail, right away...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0交谈开始战斗前",
+      "jap": "#0修道女フリーデ戦闘前",
+      "eng": "#0Initiate the boss fight",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "啊啊，你，你去叫芙莉德过来。",
+      "jap": "ああ、あんた、フリーデを呼んでおくれ",
+      "eng": "Ahh, oh. Bring Friede to me, please.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "你也有看到吧？还有细细微火，",
+      "jap": "見えるだろう？火がまた、チラついている",
+      "eng": "Canst thou not see? The flame, flickering once again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "感觉它都快要涌出来了……",
+      "jap": "もうすぐにも、溢れてしまいそうだ…",
+      "eng": "Soon will it surge, I can see it, feel it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0芙莉德第2次倒下后",
+      "jap": "#0擊破した",
+      "eng": "#0After completing the 2nd phase of the boss fight",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "“灰烬成双，则火燃起”",
+      "jap": "「いつか灰はふたつ、そして火を起こす」",
+      "eng": "\"When the Ashes are two, a flame alighteth.\"",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "灰烬，果然你啊，才配得上火焰……",
+      "jap": "やはり君には、灰には、火が相応しい…",
+      "eng": "Thou'rt Ash, and fire befits thee, of course...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "##啊啊，芙莉德，芙莉德啊，亲爱的芙莉德……",
+      "jap": "##ああ、フリーデ、フリーデ、優しいフリーデ…",
+      "eng": "##Ahh, Friede, Friede, gentle Friede...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "##啊啊，啊啊，亲爱的芙莉德……",
+      "jap": "##ああ、ああ、優しいフリーデ…",
+      "eng": "##Ahh, ahh, gentle Friede...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "##所有的一切都化为火海吧……",
+      "jap": "##もう、すべて燃やしてしまおう…",
+      "eng": "##Just let it burn, every bit of it...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "##……",
+      "jap": "##おお、おおおっ。おおおおおっ…",
+      "eng": "##Ohhhh, ohhhhh... Ohhhhh",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

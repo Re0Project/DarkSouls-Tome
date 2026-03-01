@@ -1,6 +1,815 @@
 {
   "npc": "eingyi",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/eingyi.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/eingyi.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……形迹可疑的家伙……你是谁？新的仆人吗？",
+      "jap": "…怪しい奴め…お主、何者だ？新しい従者か？",
+      "eng": "...Oh dear...What have we here? Are you a new servant?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0您打算如何回答？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "既然如此，就不能让你通过这边。赶快给我滚吧！",
+      "jap": "だったら、ここは通せん。とっとと帰れ！",
+      "eng": "Then you shall not pass. Away with you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目・【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "喂！你实在是很烦人耶！给我滚！还不滚！",
+      "jap": "ええい、しつこいな！帰れ！帰らんか！",
+      "eng": "The nerve of you! Be gone, be gone at once!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "……哼，连蛋都没背，真是没用的家伙呀。",
+      "jap": "…ふん、卵も背負わぬ半端者がな",
+      "eng": "...Hmph. But you have no eggs?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "算了。既然你是新的仆人，就到里面拜见大小姐吧。",
+      "jap": "まあいい。ならば、進んで姫様に見えるがいい",
+      "eng": "Bah, no matter. Go along and have audience with Our Fair Lady.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "你可要多留神，千万别粗心大意地闯祸！",
+      "jap": "くれぐれも、粗相のないようにな！",
+      "eng": "I pray that you will mind your manners!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0选择「是」后，与混沌的女儿攀谈前攀谈",
+      "jap": "#0話しかけた:2回目・【YES】選択後",
+      "eng": "#0Talk-After choosing \"Yes\" to the query, before talking to Daughter of Chaos",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "怎么了？不是叫你赶快到里面去拜见大小姐吗？",
+      "jap": "どうした？はやく進んで、姫様に見えんか",
+      "eng": "What is it? Go along, and meet Our Fair Lady.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0与白蜘蛛攀谈后，第1次攀谈",
+      "jap": "#0話しかけた:3回目・混沌の娘と会話後",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "……也罢，反正你也和大小姐的仆人没什么两样。",
+      "jap": "…まあ、お主も姫様の従者には違いないからな",
+      "eng": "Are you prepared to dedicate yourself to Our Fair Lady?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "如果你要的东西是可以帮到大小姐的，我会帮忙张罗。",
+      "jap": "姫様のために、必要なものがあれば、わしが用立ててやる",
+      "eng": "Then I will make available whatever you require.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "有什么要用到的物品，就尽管和我拿吧，不用客气。",
+      "jap": "入用があれば、遠慮して言うがいい",
+      "eng": "If you need something, ask me first.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0与白蜘蛛攀谈后，第2次攀谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "又是你这小子呀……",
+      "jap": "またお主か…",
+      "eng": "You again...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0与白蜘蛛攀谈后，第3次攀谈",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "是你这小子呀……",
+      "jap": "お主か…",
+      "eng": "Are you in need already?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "算了，这也是为了大小姐。你要些什么？",
+      "jap": "まあ、姫様のためだ。何が入用だ？",
+      "eng": "Well, anything for the Fair Lady...What do you want?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0装备老魔女戒指与混沌的女儿攀谈后攀谈",
+      "jap": "#0話しかけた:老魔女の指輪を装備中に混沌の娘と会話したことがある",
+      "eng": "#0Talk-With the Old Witch's Ring equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "……你这小子听得懂大小姐说的话呀……",
+      "jap": "…お主、姫様の言葉が分かるのだな…",
+      "eng": "...You, you speak the tongue of the Fair Lady?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "不过，你别得意忘形，\r\n我还没有完全相信你这小子。",
+      "jap": "だが、調子にのるなよ。\r\nわしはまだ、お主を信用しとらんでな",
+      "eng": "Well, do not be rash with your pride.\r\nYou have yet to earn my trust.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "你这小子敢让大小姐受到丝毫伤害的话，\r\n绝饶不了你……",
+      "jap": "姫様を傷つけでもしたら、\r\nわしが許さんぞ…",
+      "eng": "If you try anything funny with the Fair Lady,\r\nthere will be hell to pay.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "……我和你这小子完全无话可说。",
+      "jap": "…お主と話すことなど、何もない",
+      "eng": "There is no time for idle chat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "小子你只要专心想着大小姐的事就可以了。",
+      "jap": "お主はただ、姫様のことだけ考えていればいいんだ",
+      "eng": "Think only of Our Fair Lady, and what she may need.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "……我和你这小子完全无话可说。",
+      "jap": "…お主と話すことなど、何もない",
+      "eng": "...There is nothing to say to you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "不过，我就只叮咛你一句。千万别让大小姐受到分毫伤害，",
+      "jap": "ただ、これだけは言っておく。姫様を傷つけるな",
+      "eng": "Except...If you lay a hand on the Fair Lady,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "要不然，我可是绝对饶不了你……",
+      "jap": "さもなければ、わしが許さんぞ…",
+      "eng": "you should be prepared to face my wrath.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0头部寄生变卵后，第1次攀谈",
+      "jap": "#0話しかけた:頭部たまご状態:1回目",
+      "eng": "#0Talk-1st time after already having hatched an egg",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "哇喔！",
+      "jap": "うお！",
+      "eng": "Well!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "……你这小子……已经变得和我们一样了呢……",
+      "jap": "…お主…我らと同じになったのだな…",
+      "eng": "...Now...you're just like me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "小子你的诚意够了。\r\n可是啊……那应该会让你的头很不舒服吧……",
+      "jap": "お主の誠意はよくわかった\r\nだが、あれだ…さすがに頭はきつかろう…",
+      "eng": "Your dedication is fully apparent.\r\nOnly, well...Your head looks awful...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "不介意的话，这药拿去用吧。\r\n毕竟这对我而言，已经是用不到的东西了。",
+      "jap": "よければ、これを使うといい\r\nもはや、わしには必要の無いものだからな",
+      "eng": "Why not try this?\r\nI've no use for it any longer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0头部寄生变卵后，第2次攀谈",
+      "jap": "#0話しかけた:頭部たまご状態:2回目",
+      "eng": "#0Talk-2nd time after already having hatched an egg",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "喔喔，是你这小子呀。",
+      "jap": "おお、お主か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "有什么要用到的物品吗？",
+      "jap": "何か入用なのか？",
+      "eng": "What is it that you need?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0头部寄生变卵后，第1次在营火休息后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC・頭部たまご状態",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after hatching an egg & resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "在这座遗迹的下方，有着传说的废都──伊札里斯，",
+      "jap": "この遺跡の下に、伝承の廃都、イザリスがある",
+      "eng": "Below us lies the ruins of the legendary city of Izalith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "那是座受到岩浆巨人守护，混沌火焰的遗迹。",
+      "jap": "溶岩の巨人に守られた、混沌の炎の遺跡だ",
+      "eng": "There, the Molten Giant watches over the Flame of Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "大小姐便是和克拉格大小姐一起，从那座遗迹逃到此处。",
+      "jap": "姫様は、クラーグ様と一緒に、そこから逃げてきたのだ",
+      "eng": "Our Fair Lady, and Mistress Quelaag, fled from the ruins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "至于为什么而逃，我并不清楚……也没有特别想要知道……",
+      "jap": "詳しい事情は知らんし…知りたいとも思わんがな…",
+      "eng": "I do not know the details...And I do not ask...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0头部寄生变卵后，第2次在营火休息后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すD・頭部たまご状態",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after hatching an egg & resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "你这小子有听过“流浪的克拉娜”吗？",
+      "jap": "お主、「さまよえるクラーナ」を知っているか？",
+      "eng": "Have you heard of Lost Quelana?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "据说在那座毒沼泽的某处，有一个不是人的魔女。",
+      "jap": "あの毒沼のどこかに、人でない魔女がいるという",
+      "eng": "An inhuman witch, who wanders the Poison Swamp.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "虽然说这是个无人证实真伪的无聊谣传……",
+      "jap": "確かに見た者とてない、下らん噂話だが…",
+      "eng": "Only no one has ever seen her, so who really knows?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "但也有人说那魔女是大小姐和克拉格大小姐的姊妹。",
+      "jap": "姫様とクラーグ様の、姉妹だという者もいる",
+      "eng": "But what if she is another of the Quelaag sisters?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "如果真的是那样的话，相信应该能慰藉大小姐吧……",
+      "jap": "もしそうなら、姫様の慰めになるのだろうか…",
+      "eng": "Our Fair Lady would be greatly comforted by her presence.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0头部寄生变卵后，装备老魔女戒指与混沌的女儿攀谈后攀谈",
+      "jap": "#0リストから選択:話すE・混沌の娘と会話したことがある・頭部たまご状態",
+      "eng": "#0Menu-Choose \"Talk\" after hatching an egg & talking to Daughter of Chaos",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "老实说，我十分羡慕你这小子。",
+      "jap": "わしは、正直お主が羨ましい",
+      "eng": "In all honesty, I am envious.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "因为我们连大小姐说的话也听不懂……\r\n就算想安慰大小姐也无从做起……",
+      "jap": "わしらなど、言葉も分からず…\r\n姫様の慰めにも、なれないのだからな…",
+      "eng": "What comfort can I offer,\r\nwithout speaking her tongue?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0头部寄生变卵后，装备老魔女戒指与混沌的女儿攀谈，在营火休息后攀谈",
+      "jap": "#0話しかけた:頭部たまご状態・混沌の娘と会話したことがある",
+      "eng": "#0Talk-After talking to Daughter of Chaos hatched an egg & resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "喔喔，是你这小子呀，好久不见啦。",
+      "jap": "おお、お主か。久しぶりだな",
+      "eng": "Oh, hello...A pleasure to see you again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "找我谈是没差，但相信大小姐应该也很寂寞吧。\r\n等会请帮大小姐解解闷吧。",
+      "jap": "わしもいいが、姫様も寂しがってるだろう\r\n後で話していってくれよ",
+      "eng": "But don't neglect the Fair Lady.\r\nShe needs some company.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0头部寄生变卵后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すF・頭部たまご状態",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after hatching an egg",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "话说回来，你这小子对于咒术有兴趣吗？",
+      "jap": "そういえば、お主。呪術に興味はないか？",
+      "eng": "Incidentally, do you have an interest in pyromancy?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "如果有兴趣的话，就分一些我的火给你吧。",
+      "jap": "もし興味があるなら、わしの火を分けてやろう",
+      "eng": "If you have, I shall share my flame with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0リストから選択:話すF・頭部たまご状態・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "……这样呀。既然如此，我也不勉强你。",
+      "jap": "…そうか。まあ、無理にとは言わんさ",
+      "eng": "...Well, fine. I will not force you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0选择「否」后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すG・頭部たまご状態・【NO】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"No\" to either the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "话说回来，你这小子开始对咒术产生兴趣了吗？",
+      "jap": "そういえば、お主。呪術に興味はでたか？",
+      "eng": "Have you developed an interest in pyromancy?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "如果有兴趣的话，就分一些我的火给你吧。",
+      "jap": "もし興味があるなら、わしの火を分けてやろう",
+      "eng": "If you have, I shall share my flame with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0リストから選択:話すF・頭部たまご状態・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "毕竟你这小子也算是大小姐的仆人，",
+      "jap": "お主も、姫様の従者だからな",
+      "eng": "You have served our Fair Lady well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "最好还是要拥有些能力比较好……",
+      "jap": "力を持っていたほうがよい…",
+      "eng": "Now, let this strength be yours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0头部寄生变卵后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すH・頭部たまご状態",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after hatching an egg",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "从前我们都是不死人，而且还是受到疾病侵袭的麻烦分子，",
+      "jap": "わしらは皆、不死だって、病にまで侵された、厄介者さ",
+      "eng": "Worse than Undead, we are diseased, and unwanted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "简直就如同大沼的污泥般，人见人嫌。",
+      "jap": "大沼の大クソみたいなもんだ",
+      "eng": "Like the grime of the Great Swamp.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "不过，不过啊……\r\n大小姐竟然为如此低贱的我们流下眼泪……",
+      "jap": "だが、だがなあ、姫様は\r\nそんなわしらのために、泣いてくれた…",
+      "eng": "But my dear, Fair Lady!\r\nShe cried for me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "而且还不听克拉格大小姐的话，\r\n吞下了疾病的脓……",
+      "jap": "そして、クラーグ様の言うことも聞かず\r\n病の膿を飲み込んだんだ…",
+      "eng": "And swallowed the great Blightpus,\r\ndespite Mistress Quelaag's orders to the contrary.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0第2次被寄生头部生出卵后攀谈",
+      "jap": "#0話しかけた:2度目の頭部たまご状態",
+      "eng": "#0Talk-After hatching a parasitic egg for the 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "哇喔！",
+      "jap": "うお！",
+      "eng": "Well!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "你这小子的脸，怎么又……你还真是不走运啊……",
+      "jap": "お主、また顔か…どうにもうまくいかないものだな…",
+      "eng": "That head of yours...Nothing seems to help, does it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "这边还有药，不介意就拿去用吧。",
+      "jap": "薬はまだある。よければ使ってくれ",
+      "eng": "I still have medicine. Go ahead and use it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "唉，别垂头丧气嘛……",
+      "jap": "まあ、なんだ。気を落とすなよ…",
+      "eng": "Now, now, no need to fret about it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "总有走运的一天啊……",
+      "jap": "いつかきっとうまくいくさ…",
+      "eng": "Things will be fine, one day...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "呜！",
+      "jap": "グウッ",
+      "eng": "Hrgkt!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "喔！",
+      "jap": "グオッ",
+      "eng": "Erggkt!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "呃！",
+      "jap": "グッ",
+      "eng": "Oog!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "恶！",
+      "jap": "ゲエッ",
+      "eng": "Hagkt!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "你这小子果然居心叵测！",
+      "jap": "お主、やはりそうかっ！",
+      "eng": "I knew it! I knew it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "我绝不会饶过你！",
+      "jap": "許さんぞっ！",
+      "eng": "You will not get away with this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0头部寄生变卵后，攻击导致敌对时",
+      "jap": "#0敵対状態になった:頭部たまご状態",
+      "eng": "#0Upon being attacked after the protagonist has hatched a parasitic egg",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "为什么你这小子要……没想到……",
+      "jap": "なぜお主が…まさか…",
+      "eng": "You...you would betray us?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "你终究还是露出真面目了！",
+      "jap": "所詮そうなのかっ！",
+      "eng": "I should have known!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "呃……呜……",
+      "jap": "グッ…グウッ…",
+      "eng": "Hrg...rgggkt...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "大小姐……请您一定要好好保重……",
+      "jap": "姫様…どうか、健やかに…",
+      "eng": "My dear Fair Lady...You are in danger...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0击杀混沌的女儿后导致敌对时",
+      "jap": "#0敵対状態になった:混沌の娘を殺害後",
+      "eng": "#0Upon Killing the Fair Lady",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "你这小子──！",
+      "jap": "お主ぃぃぃぃぃ！",
+      "eng": "Why, youuuuu monster...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "你居然对大小姐！饶不了你，我绝饶不了你啊啊啊啊！",
+      "jap": "よくも姫様を！許さん、許さんぞぉぉぉぉぉぉ！",
+      "eng": "The Fair Lady! What have you done, what have you done!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "呜喔喔喔喔喔！",
+      "jap": "うおおおおぉぉぉぉぉ！",
+      "eng": "Hrggreeeeeeeeeeh!",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

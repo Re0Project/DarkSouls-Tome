@@ -1,6 +1,711 @@
 {
   "npc": "painter",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/painter.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/painter.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……你的身上有灰烬的味道呢……",
+      "jap": "…貴方、灰の臭いがするね…",
+      "eng": "I believe...I feel the scent of ash upon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你一定是盖尔爷爷说的那个人吧……",
+      "jap": "きっと、ゲール爺が言ってた人…",
+      "eng": "Thou'rt the one of whom uncle Gael spoke.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "可以让我看见火焰的那个人……",
+      "jap": "私に火を見せてくれる人…",
+      "eng": "The one to show me flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "……没关系，等我完成这个以后，我会就回去那边了……",
+      "jap": "…大丈夫。これが終わったら、あそこに戻る…",
+      "eng": "Tis good. When this is done, may I return.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "因为你把门打开了……",
+      "jap": "貴方が扉を開けてくれた…",
+      "eng": "The door is open thanks to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "……没关系，因为我和盖尔爷爷约好了，",
+      "jap": "…大丈夫。私あそこで画を描くの",
+      "eng": "Tis good. I'll head off to paint.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "所以要在那边画图……",
+      "jap": "ゲール爺と約束したから…",
+      "eng": "I promised uncle Gael I would.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0返回画室后，第1次交谈",
+      "jap": "#0話しかけた:移動後:1回目",
+      "eng": "#0Talk-1st time at her 2nd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "……你是灰烬啊。",
+      "jap": "…貴方は、灰の人",
+      "eng": "Thou'rt Ash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "因为你答应盖尔爷爷的请求了……",
+      "jap": "ゲール爺のお願いをきいてくれた…",
+      "eng": "Thou'st a pact made with uncle Gael.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "所以我才想要告诉你。",
+      "jap": "だから話しておきたいの",
+      "eng": "So I wish to tell thee all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "……这幅画很大吧？我要把图画在这上面。",
+      "jap": "…大きいでしょう。私、これに画を描くの",
+      "eng": "Behold its size. This is my canvas.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "是一幅非常寒冷、黑暗，又很柔和的画",
+      "jap": "ずっと寒くて、暗くて、とっても優しい画",
+      "eng": "It's to be a cold, dark, and very gentle place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "……所以我才想要看看火焰的样子……",
+      "jap": "…だから私、火を見たいの…",
+      "eng": "...But first, I must see flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0返回画室后，第2次交谈",
+      "jap": "#0話しかけた:移動後:2回目",
+      "eng": "#0Talk-2nd time at her 2nd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "……我想要画图。",
+      "jap": "…私、画を描きたいの",
+      "eng": "I wish to paint a picture.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "是一幅非常寒冷、黑暗，又很柔和的画，",
+      "jap": "ずっと寒くて、暗くて、とっても優しい画",
+      "eng": "Of a cold, dark, and very gentle place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "一幅总有一天，能成为某人容身之处的画",
+      "jap": "きっといつか、誰かの居場所になるような",
+      "eng": "One day, it will make someone a goodly home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "……所以我才想要看看火焰的样子……",
+      "jap": "…だから私、火を見たいの…",
+      "eng": "That's why I must see flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0主角离开艾雷德尔的绘画世界后，返回进入画室时",
+      "jap": "#0話しかけられた:移動後",
+      "eng": "#0After approaching her at her 2nd location, after leaves & returns",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "……不明火焰者，不足以绘世；",
+      "jap": "…火を知らぬ者に、世界は描けず",
+      "eng": "Those who aren't ken to fire cannot paint a world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "受火诱引者，则不得绘世……",
+      "jap": "火に惹かれる者に、世界を描く資格は無い…",
+      "eng": "Those absorbed by fire, must not paint a world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "不用担心，妈妈，我没有忘记……",
+      "jap": "大丈夫、忘れてないよ、お母さん…",
+      "eng": "Don't worry, I haven't forgotten, Mother...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0击杀芙莉德后，第1次交谈",
+      "jap": "#0話しかけた:黒い炎のフリーデ撃破後:1回目",
+      "eng": "#0Talk-1st time after defeating Blackflame Friede",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "……我听见火的声音……",
+      "jap": "…火の音が聞こえる…",
+      "eng": "I can hear the fire crackle...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "就快要看得见火了……",
+      "jap": "きっと、もうすぐ見える…",
+      "eng": "And soon, I will see it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0击杀芙莉德后，第2次交谈",
+      "jap": "#0話しかけた:黒い炎のフリーデ撃破後:2回目",
+      "eng": "#0Talk-2nd time after defeating Blackflame Friede",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "……灰烬，谢谢你。",
+      "jap": "…ありがとう、灰の人",
+      "eng": "My thanks, Ashen One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "我一定画得出来，",
+      "jap": "必ず、私は描きます",
+      "eng": "I will finish the painting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "一幅非常寒冷、黑暗，又很柔和的画……",
+      "jap": "ずっと寒くて、暗くて、とっても優しい画…",
+      "eng": "Of a cold, dark, and very gentle place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "总有一天，能成为某人容身之处的画。",
+      "jap": "きっといつか、誰かの居場所になるような",
+      "eng": "So that it might make a home for someone, someday.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0击杀芙莉德后，主角第1次离开艾雷德尔的绘画世界后，返回交谈",
+      "jap": "#0話しかけた:黒い炎のフリーデ撃破後、しばらくしてから1:回目",
+      "eng": "#0Talk-1st time after defeating Blackflame Friede, then leaves & returns",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……灰烬，谢谢你。",
+      "jap": "…ありがとう、灰の方",
+      "eng": "My thanks, Ashen One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "我就快要能看见火了……",
+      "jap": "私はもうすぐ火を見ます…",
+      "eng": "I can almost see the flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "之后盖尔爷爷就会拿颜料过来。",
+      "jap": "そしてゲール爺が、顔料を持ってきてくれます",
+      "eng": "Soon uncle Gael will bring me the pigment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "不知道老爷爷有没有找到──",
+      "jap": "お爺ちゃんはもう、見つけたかしら？",
+      "eng": "I wonder if he has found it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "人类的黑暗灵魂……",
+      "jap": "人の暗い魂を…",
+      "eng": "The dark soul of man...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0击杀芙莉德后，主角第2次离开艾雷德尔的绘画世界后，返回交谈",
+      "jap": "#0話しかけた:黒い炎のフリーデ撃破後、しばらくしてから2:回目",
+      "eng": "#0Talk-2nd time after defeating Blackflame Friede, then leaves & returns",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "不知道盖尔爷爷有没有找到──",
+      "jap": "ゲール爺はもう、見つけたかしら？",
+      "eng": "I wonder if uncle Gael has found it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "人类的黑暗灵魂……",
+      "jap": "人の暗い魂を…",
+      "eng": "The dark soul of man...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0击杀盖尔后，第1次交谈",
+      "jap": "#0話しかけた:奴隷騎士ゲール撃破後:1回目",
+      "eng": "#0Talk-1st time after defeating Slave Knight Geal at Fillanore's Rest",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "……灰烬啊，你带来的火正熊熊燃烧。",
+      "jap": "…灰の人。貴方のくれた火が、燃えています",
+      "eng": "Ashen One, thy gift of flame has taken root",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "再过不久，盖尔爷爷就会拿颜料过来了──",
+      "jap": "そしてもうすぐ、ゲール爺が、顔料を持ってきてくれます",
+      "eng": "And Uncle Gael will soon bring the pigment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "那带有人类黑暗灵魂色彩的颜料。",
+      "jap": "人の暗い魂、その色をした顔料を",
+      "eng": "Pigment coloured like the dark soul of man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0击杀盖尔后，第2次交谈",
+      "jap": "#0話しかけた:奴隷騎士ゲール撃破後:2回目",
+      "eng": "#0Talk-2nd time after defeating Slave Knight Geal at Fillanore's Rest",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "不知道盖尔爷爷有没有找到──",
+      "jap": "お爺ちゃんはもう、見つけたかしら？",
+      "eng": "I wonder if Uncle Gael has found it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "带有人类黑暗灵魂色彩的颜料。",
+      "jap": "人の暗い魂、その色をした顔料を",
+      "eng": "The pigment coloured like the dark soul of man...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0交出“黑暗灵魂之血”",
+      "jap": "#0暗い魂の血を渡す:1回目",
+      "eng": "#0Choose \"Yes\" to give the Blood of the Dark Soul",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "……灰烬，谢谢你，",
+      "jap": "…ありがとう、灰の人",
+      "eng": "My thanks, Ashen One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "这样我就可以画出世界了。",
+      "jap": "これで私は、世界を描きます",
+      "eng": "With this will I paint a world. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "……请告诉我，你的名字。",
+      "jap": "…貴方の名前を、教えてください",
+      "eng": "Please tell me thy name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "我想用你的名字替新的画题名。",
+      "jap": "新しい画に、その名を付けたいのです",
+      "eng": "I would name this painting after thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0选择「我没有名字」",
+      "jap": "#0暗い魂の血を渡す:1回目・選択肢【名前はない】",
+      "eng": "#0Choose \"I have no name\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "……我知道了，原来你也一样啊。",
+      "jap": "…分かりました。貴方も同じなのですね",
+      "eng": "I see. We are much alike.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "那会是一幅非常寒冷、黑暗，又很柔和的画……",
+      "jap": "ずっと寒くて、暗くて、とっても優しい画…",
+      "eng": "Twill be a cold, dark, and very gentle place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "总有一天，能成为某人容身之处的画。",
+      "jap": "きっといつか、誰かの居場所になるような",
+      "eng": "And one day, it will make someone a goodly home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "那这幅画，我以“灰烬”题名。",
+      "jap": "ではこの画には、灰の名を付けます",
+      "eng": "Then I will name this painting \"Ash\".",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0选择「告诉她名字」",
+      "jap": "#0暗い魂の血を渡す:1回目・選択肢【名前を教える】",
+      "eng": "#0Choose \"Share your name\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "……谢谢，我会以那名字为主题，画出世界。",
+      "jap": "…ありがとう。私はその名で、世界を描きます",
+      "eng": "My thanks. I will paint a world of that name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "那会是一幅非常寒冷、黑暗，又很柔和的画……",
+      "jap": "ずっと寒くて、暗くて、とっても優しい画…",
+      "eng": "Twill be a cold, dark, and very gentle place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "总有一天，能成为某人容身之处的画。",
+      "jap": "きっといつか、誰かの居場所になるような",
+      "eng": "And one day, it will make someone a goodly home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0交出黑暗灵魂之血后，第1次交谈",
+      "jap": "#0暗い魂の血を渡す:2回目",
+      "eng": "#0Talk-1st time after giving her the Blood of the Dark Soul",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "……盖尔爷爷不知道什么时候会回来？",
+      "jap": "…ゲール爺も、いつか帰ってくるのかしら",
+      "eng": "I wonder when Uncle Gael intends his return.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "如果新的画能成为他的容身之处，那就好了……",
+      "jap": "新しい画が、お爺ちゃんの居場所になるといいな…",
+      "eng": "I hope the new painting will be to him a gentle home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0交出黑暗灵魂之血后，第2次交谈",
+      "jap": "#0暗い魂の血を渡す:3回目",
+      "eng": "#0Talk-2nd time after giving her the Blood of the Dark Soul",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "……灰烬，谢谢你，",
+      "jap": "…ありがとう、灰の人",
+      "eng": "My thanks, Ashen One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "我一定画得出来，",
+      "jap": "必ず、私は描きます",
+      "eng": "I will assuredly finish the painting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "一幅非常寒冷、黑暗，又很柔和的画……",
+      "jap": "ずっと寒くて、暗くて、とっても優しい画…",
+      "eng": "Of a cold, dark, and very gentle place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "总有一天，能成为某人容身之处的画。",
+      "jap": "きっといつか、誰かの居場所になるような",
+      "eng": "One day, it will make someone a goodly home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "……",
+      "jap": "アッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "……",
+      "jap": "アウ…ッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "……",
+      "jap": "アッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "……",
+      "jap": "アァ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "……",
+      "jap": "アアァ……",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0被击杀后复活时",
+      "jap": "#0死亡から複活した",
+      "eng": "#0Talk-At her 1st location, after she has revived from being killed",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "……我不会死喔，",
+      "jap": "…私は死ねないの",
+      "eng": "Worry not,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "所以你不要在意。",
+      "jap": "だから貴方、気にしないでね",
+      "eng": "I cannot die.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0返回画室后，被击杀后复活时",
+      "jap": "#0死亡から複し活た:移動後",
+      "eng": "#0Talk-At her 2nd location, after she has revived from being killed",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "……灰烬，我是不会死的，",
+      "jap": "…灰の人、私は死ねないの",
+      "eng": "Ashen One, I cannot die.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "因为我还要画出世界啊。",
+      "jap": "だって、世界を描くのだから",
+      "eng": "I have a world to paint.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

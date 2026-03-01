@@ -1,6 +1,735 @@
 {
   "npc": "creighton",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/creighton.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/creighton.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0在狩猎森林用不死人石牢钥匙开门后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time after opening his cell with the Undead Lockaway Key",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你是谁？",
+      "jap": "誰だ、あんた",
+      "eng": "Who are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我还以为那个家伙回来了……",
+      "jap": "あの野郎が戻ってきたのかと思ったが…",
+      "eng": "I thought you were that bastard for a moment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "帮我把锁打开吧，这样我就能出去了。",
+      "jap": "鍵を開けてくれたのか、これで外に出られる",
+      "eng": "You've set me free. Now I can find him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "那个家伙…我一定把那个家伙找出来……",
+      "jap": "あのクソ野郎…必ず見つけ出してやる…",
+      "eng": "The cheeky prick. He won't know what hit him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0在狩猎森林用不死人石牢钥匙开门后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "我是米勒的克雷顿，\r\n正在四处云游锻炼武艺，",
+      "jap": "俺は、ミラのクレイトン\r\n諸国を武者修行して回っているところだ",
+      "eng": "I am Creighton, of Mirrah.\r\nI travel from land to land to hone my blade.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "我刚好听到这个国家发生动乱，\r\n想说正是我磨练自己武艺的好机会……",
+      "jap": "この国は物騒なところだと聞いてきた\r\n腕を磨くには、ちょうどいいと思ってな",
+      "eng": "I've heard this land was full of danger.\r\nI thought it would suit me perfectly. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "途中我与一个男子同行，\r\n结果没想到那家伙是个阴险小人，",
+      "jap": "途中で男と一緒になったんだが、\r\nそいつがとんだ食わせ者だったのよ",
+      "eng": "I joined forces with a man on the way,\r\nbut he was no more than a back-stabbing knave.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "他居然趁我不注意想置我于死地。",
+      "jap": "隙をついて、俺を殺そうとしやがった",
+      "eng": "He took the first chance he had to try and off me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "我本来打算在这埋伏他，结果没想到自己被关了起来。",
+      "jap": "ここで待ち構えようとしたら、閉じ込められたってわけさ",
+      "eng": "I decided to set a trap for him here, but then I got trapped myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "想一想我还真是个蠢蛋啊，\r\n不过还好有你的相助。",
+      "jap": "俺としたことが、まったくドジを踏んだ\r\nあんたのおかげで助かったよ",
+      "eng": "I can't believe that I was so dense.\r\nThank the stars that you came along.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0在狩猎森林用不死人石牢钥匙开门后，第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "你也要小心那个叫培特的男子喔，",
+      "jap": "あんたも気をつけろ、ペイトって男だ",
+      "eng": "You be careful of him. Pate, I think he said.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "对了，那家伙戴着一只奇怪的戒指，\r\n你看到应该就懂了。",
+      "jap": "そうだな、変わった指輪を持っていた\r\nそれを見ればわかるはずだ",
+      "eng": "He wears this rather unusual ring.\r\nYou know it when you see it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "那个混帐家伙，把杀人当成了自己的乐趣，",
+      "jap": "あのクソ野郎、殺しが趣味って感じがビンビン伝わってきたぜ",
+      "eng": "I've seen his type before. He kills entirely for the pleasure of it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "我想他一定干过不少次这种事了，\r\n让这种人消失也算是造福这个世界。",
+      "jap": "これまでにも似たようなことをしてきたんだろうさ\r\n殺したほうが、世のためってものだ",
+      "eng": "I'm sure I won't be his last victim.\r\nThe man's better off dead, I tell you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "你可别被他的巧言令色骗去了喔，",
+      "jap": "奴は口が上手い、騙されるんじゃないぞ",
+      "eng": "He's a slick talker, so don't let him fool you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0在狩猎森林用不死人石牢钥匙开门后，第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "可别忘了我说的，\r\n那个戴着奇怪戒指，名叫培特的男子喔。",
+      "jap": "変わった指輪を持ってる、ペイトって男だ\r\n忘れるなよ",
+      "eng": "Pate, the man with the strange ring.\r\nWatch out for the slimy rat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "千万别相信那家伙说的话，知道吗。",
+      "jap": "奴の言うことを信じるな、わかったな",
+      "eng": "And don't you believe a word he says.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "我一定把那个家伙找出来然后杀了他……\r\n嘻嘻嘻……",
+      "jap": "あの野郎、必ず見つけ出して殺してやる…\r\nヒヒヒッ…",
+      "eng": "I'll find the common footpad, and put an end to his roguery.\r\nHeh heh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0到达茫然遗迹后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "嘻嘻……等着瞧吧，你这家伙……",
+      "jap": "（ヒヒッ…待ってやがれ、あの野郎…）",
+      "eng": "Heh heh... Just wait, you dirty rat...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0到达茫然遗迹后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "喔……喔！你、你是先前那位!?",
+      "jap": "おっ…お、おう！あ、あんた、こないだの！？",
+      "eng": "Hm? Oh...oh! I-I remember you?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "别吓我啦……我还以为是那个家伙来了，",
+      "jap": "脅かすなよ…あいつが来たのかと思ったぜ",
+      "eng": "Don't you scare me like that. I thought you were him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0到达茫然遗迹后，第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "我说的那个奇怪戒指男子似乎就在这之前的辉石镇上。",
+      "jap": "この先の輝石街ってとこに、例の指輪野郎がいるらしい",
+      "eng": "That bastard with the ring lives in Brightstone Cove down the way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "我要跟那个家伙做个了断，\r\n居然敢带给我这样的耻辱，士可忍孰不可忍。",
+      "jap": "俺はケリをつけにいく\r\n恥をかかされて、黙っていられるか",
+      "eng": "I'm gonna find him and settle the score.\r\nNobody insults me like that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0到达茫然遗迹后，第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "为了这个世界，还有我的名誉。",
+      "jap": "世のため人のため、そして俺の名誉のため",
+      "eng": "For the good of the world, and for my own honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "我一定要杀了那个混帐家伙，\r\n嘻嘻嘻……",
+      "jap": "あのクソ野郎には死んでもらう\r\nヒヒヒッ…",
+      "eng": "I won't let that bastard live another day.\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0培特死亡后，到达辉石镇盖多勒后说话",
+      "jap": "#0話しかけた:戦闘前にベイトが死んでいた",
+      "eng": "#0Talk-After killing Mild-Mannered Pate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "是你啊，有什么事？",
+      "jap": "あんたか、何の用だ？",
+      "eng": "Oh, you. What do you want?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "那个混帐家伙跑到哪里去了……",
+      "jap": "あのクソ野郎、どこへ行きやがった…",
+      "eng": "That bastard's run off somewhere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0培特死亡后，到达辉石镇盖多勒后，佩戴荆棘戒指时说话",
+      "jap": "#0話しかけた:戦闘前にベイトが死んでいた2・棘の指輪装備時",
+      "eng": "#0Talk-After killing Mild-Mannered Pate, with Ring of Thorns equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "这只戒指！是那个混帐家伙的吧!?……",
+      "jap": "その指輪、あの野郎のじゃないか…！？",
+      "eng": "Your ring! That's his ring!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "你难道是那个混帐家伙的同伴？……",
+      "jap": "あんた、あのクソ野郎の仲間かよ…？",
+      "eng": "You're not friends with the bastard, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "把那个只戒指给我吧，\r\n既然你不是他的同伴，给我也没关系吧？",
+      "jap": "その指輪をこっちによこしな\r\n仲間じゃないんなら、俺に渡したっていいだろうが",
+      "eng": "Hand that ring over to me.\r\nHe's no friend of yours. You can do without it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "你最好想清楚再回答我喔。",
+      "jap": "返答次第じゃ、荒っぽいことになるぜ",
+      "eng": "Think carefully before you answer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0该怎么做？选择「否」",
+      "jap": "#0棘の指輪に関する選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "原来如此……这样说来你就跟那个混帐家伙一样了！",
+      "jap": "なるほど…じゃあ、おまえもクソ野郎ってことだな！",
+      "eng": "I see how it is. You're another slimy toad!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0该怎么做？选择「是」",
+      "jap": "#0棘の指輪に関する選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "……你杀了那个家伙吗？",
+      "jap": "…あんたが、あの野郎を殺したのか？",
+      "eng": "You killed him, didn't you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "哼！算了，\r\n反正也算是恶人有恶报。",
+      "jap": "ふん、まあいい\r\n悪党が報いを受けたことには、変わりない",
+      "eng": "Fair play.\r\nAs long as he got what he deserved.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "这个给你，\r\n可以用它去我位在这前方的秘密基地，",
+      "jap": "これをやるよ\r\nこの先にある俺の隠れ家に行くといい",
+      "eng": "Here, take this,\r\nand go to my bolt-hole down the way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "放在那里的东西就送你吧。",
+      "jap": "そこに置いてあるものを取っといてくれ",
+      "eng": "What's there is yours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "这是我的谢礼，你可别客气喔，",
+      "jap": "礼変わりだ、遠慮はいらねえよ",
+      "eng": "Just a small token of appreciation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0选择「是」后说话",
+      "jap": "#0話しかけた:【YES】を選択後",
+      "eng": "#0Talk-After choosing \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "还好有你的帮忙。",
+      "jap": "世話になったな",
+      "eng": "You did me well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0到达辉石镇盖多勒后，与培特战斗中",
+      "jap": "#0話しかけた:クレイトンとベイトが戦闘中",
+      "eng": "#0Talk-After approaching him & Pate while they are fighting",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "这家伙！还蛮有一手的嘛！",
+      "jap": "こいつ！案外やりやがる！！",
+      "eng": "Damn! You're tougher than you look!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0未帮助克雷顿，培特死后，第1次说话",
+      "jap": "#0話しかけた:クレイトンに味方せず、ベイトが死んだ",
+      "eng": "#0Talk-1st time, without assisting him kill to Mild-Mannered Pate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "混帐家伙终于……哈哈哈哈……",
+      "jap": "クソ野郎が…フハハハッ…",
+      "eng": "...Serves you right...Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0未帮助克雷顿，培特死后，第2次说话",
+      "jap": "#0話しかけた:クレイトンに味方せず、ベイトが死んだ2",
+      "eng": "#0Talk-2nd time, without assisting him kill to Mild-Mannered Pate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "你……你不是那个混帐家伙的同伴吧……",
+      "jap": "あんた…このクソ野郎の仲間じゃないだろうな…",
+      "eng": "...Wait... ...You weren't friends with that rat, were you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "不是的话就离开吧……我跟你应该没瓜没葛……",
+      "jap": "そうじゃないなら行きな…俺に用なんてないだろう…",
+      "eng": "Then jog on... You've no business with me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0帮助克雷顿击杀培特后，第1次说话",
+      "jap": "#0話しかけた:クレイトンとともにベイトを倒した",
+      "eng": "#0Talk-1st time, after assisting him kill to Mild-Mannered Pate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "混帐家伙终于……哈哈哈哈……",
+      "jap": "クソ野郎が…フハハハッ…",
+      "eng": "...Serves you right...Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "哈哈哈……哈哈哈哈哈！",
+      "jap": "フハハッ…ハハハハハッ！",
+      "eng": "...Hah hah...Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0帮助克雷顿击杀培特后，第2次说话",
+      "jap": "#0話しかけた:クレイトンとともにベイトを倒した2",
+      "eng": "#0Talk-2nd time, after assisting him kill to Mild-Mannered Pate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "太好了……哈哈哈……",
+      "jap": "やってやったぜ…フハハッ…",
+      "eng": "...I did it...Hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "还好有你的帮忙，没想到这么棘手……",
+      "jap": "加勢してくれて助かった、ここまでやるとはな…",
+      "eng": "Thanks for your help. He was no pushover...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "这个给你，\r\n可以用它去我位在这前方的秘密基地，",
+      "jap": "これをやるよ\r\nこの先にある俺の隠れ家に行くといい",
+      "eng": "Here, take this,\r\nand go to my bolt-hole down the way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "放在那里的东西就送你吧。",
+      "jap": "そこに置いてあるものを取っといてくれ",
+      "eng": "What's there is yours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "这是我的谢礼，你可别客气喔。",
+      "jap": "礼代わりだ、遠慮はいらねえよ",
+      "eng": "Just a small token of appreciation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0帮助克雷顿击杀培特后，第3次说话",
+      "jap": "#0話しかけた:クレイトンとともにベイトを倒した3",
+      "eng": "#0Talk-3rd time, after assisting him kill to Mild-Mannered Pate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "还好有你的帮忙，",
+      "jap": "世話になったな",
+      "eng": "You did me well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0帮助克雷顿击杀培特后，第4次说话",
+      "jap": "#0話しかけた:クレイトンとともにベイトを倒した4",
+      "eng": "#0Talk-4th time, after assisting him kill to Mild-Mannered Pate",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "这个给你吧，",
+      "jap": "あんたにこれをやっとこう",
+      "eng": "Here, these are for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "毕竟受到了你的帮忙，\r\n快收下吧。",
+      "jap": "一応、世話になったんだ\r\nとっといてくれ",
+      "eng": "You did me well.\r\nJust take 'em.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0打开盖多勒隐匿处宝箱后",
+      "jap": "#0輝石街ジェルドラの隱れ家で宝箱を開けた",
+      "eng": "#0After opening the trapped chest",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "居然没死……",
+      "jap": "死ねばよかったのに…",
+      "eng": "Ooh, that'll leave a nasty scar!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "呜喔!?",
+      "jap": "うおっ！？",
+      "eng": "Whoah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "喂！很危险耶!?",
+      "jap": "おい！危ねえだろ！？",
+      "eng": "Hey, watch it there!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "你这家伙!?",
+      "jap": "テメエッ！？",
+      "eng": "Why, you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "啐！没办法了！……",
+      "jap": "チッ、仕方ねえ…！",
+      "eng": "Do you want some? Fine enough!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "真是难缠的家伙！……",
+      "jap": "しつこい野郎だ…！",
+      "eng": "Don't you ever give up!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "想找麻烦也不看看对象是谁！",
+      "jap": "喧嘩売るんなら、相手見てからにするんだったな！",
+      "eng": "Next time, you think before you pick a fight! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "可恶！我占下风了吗!!",
+      "jap": "くそっ！押されるかよ！！",
+      "eng": "Damn! This isn't right!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "呜啊啊啊啊……",
+      "jap": "ぐわぁああぁあ…",
+      "eng": "Aiiieegh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "##喔……混帐家伙他……",
+      "jap": "##へっ…クソ野郎が…",
+      "eng": "##Heh... Rotten bastard...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,583 @@
 {
   "npc": "ornifex",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/ornifex.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/ornifex.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0在茫然遗迹地下洞穴用兽牙钥匙开门救出欧尼斐克斯后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time, after opening the door she is behind with the Fang Key",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "感谢您救了我一命。",
+      "jap": "助けていただき、ありがとうございました",
+      "eng": "Thank you for helping me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我的名字叫做欧尼斐克斯。",
+      "jap": "私の名はオルニフェクスと申します",
+      "eng": "I am Ornifex.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "真不知道该怎么向您道谢才好，\r\n可惜目前是身无分文……",
+      "jap": "何かお礼をせねばとは思うのですが\r\n生憎と、いまは何も持ち合わせておらず…",
+      "eng": "I owe you some form of thanks,\r\nbut have nothing for you at the moment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "真的很抱歉，\r\n能否劳您移驾到敝宅呢。",
+      "jap": "申し訳ありませんが\r\nこの先の、私の住処までご足労いただけますか",
+      "eng": "If it would not trouble you,\r\ncould you visit my abode just down the way?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0在茫然遗迹地下洞穴用兽牙钥匙开门救出欧尼斐克斯后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "旅行者，承蒙您救了我的小命。",
+      "jap": "旅の方、おかげで助かりました",
+      "eng": "Thank you, kind traveller.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "您若能移驾至敝宅，\r\n我一定能为您提供协助。",
+      "jap": "私の住処までお越しいただければ\r\nお役に立てることもあると思います",
+      "eng": "I believe that I can be of assistance\r\nif you would visit me at my home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0返回辉石镇盖多勒后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "又见面了，旅行者。",
+      "jap": "またお会いできましたね、旅の方",
+      "eng": "Oh, we meet again, kind traveller.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "此处是我的工作地点。",
+      "jap": "ここは、私の仕事場です",
+      "eng": "This is my workshop.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "我的工作，\r\n说来近似于你们所说的铁匠吧。",
+      "jap": "私の仕事は、貴方たちの言い方でいうと\r\n鍛冶屋に近いでしょうか",
+      "eng": "In your tongue,\r\nI believe I would be called a blacksmith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "能够制造各种装备品，\r\n但使用的是我们族内流传的秘法。",
+      "jap": "様々な装備品を作るのです\r\nただし、私の一族にのみ伝わる特別な方法で",
+      "eng": "I create all manner of equipment,\r\nusing an ancient technique unique to my...people.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "平日我们只与极为少数的人们有着往来……",
+      "jap": "普段はごく限られた方としか、お付き合いをしないのですが…",
+      "eng": "Normally I only cater to a very select few...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "但您对我有大恩，\r\n我愿为您打造一件您希望的物品。",
+      "jap": "貴方には恩があります\r\nお望みのものがあれば、おひとつ作ってみせましょう",
+      "eng": "But I have a debt to you.\r\nI will craft one thing of your choice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "我制造的物品，\r\n和市面常见的成色稍有不同。",
+      "jap": "私の作るものは、そのあたりのものとは\r\n少々出来が違います",
+      "eng": "My wares are\r\nfar from ordinary.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "您一定会感到满意。",
+      "jap": "きっとご満足いただけると思いますよ",
+      "eng": "I am certain that they will please you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "这一次无须费用，\r\n但是，请您带着『特殊灵魂』过来。",
+      "jap": "今回は、お代は結構です\r\nただし、『特別なソウル』を持ってきてください",
+      "eng": "I require no payment this time.\r\nBut you must bring me a Wondrous Soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我的工法中必须要这项物品，\r\n那就麻烦您了。",
+      "jap": "私のやり方には、それが絶対に必要なのです\r\nよろしくお願いします",
+      "eng": "My technique absolutely requires it.\r\nI trust you will understand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目・まだ武器を作っていない",
+      "eng": "#0Talk-2nd time, before trading a Wondrous Soul",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "若您带来了『特殊灵魂』，\r\n我可为您打造一款你希望的物品。",
+      "jap": "もし、『特別なソウル』をお持ちでしたら\r\nお望みのものをひとつ、お作りいたしましょう",
+      "eng": "If you provide a Wondrous Soul,\r\nI will create one thing of your choice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "这次无须任何费用，\r\n是我的一点心意。",
+      "jap": "今回は、お代はいりません\r\nこれはお礼ですから",
+      "eng": "I require no payment this time.\r\nIt is my way of saying thanks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0用特殊灵魂打造物品后，第1次说话",
+      "jap": "#0話しかけた:連続で話しかけた",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "您有什么需求？",
+      "jap": "何がお望みでしょうか",
+      "eng": "What do you desire?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0用特殊灵魂打造物品后，第2次说话",
+      "jap": "#0話しかけた:さらに連続で話しかけた",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "是否持有特殊灵魂？",
+      "jap": "特別なソウルをお持ちですか？",
+      "eng": "Do you have a Wondrous Soul?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0用特殊灵魂打造物品后，在营火休息后，第1次说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "是您啊。\r\n特殊灵魂拿到手了吗？",
+      "jap": "貴方ですか\r\n特別なソウルは手に入りましたか？",
+      "eng": "Hello there.\r\nDo you have a Wondrous Soul?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0用特殊灵魂打造物品后，在营火休息后，第2次说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "是您啊。\r\n这次有何贵干呢？",
+      "jap": "貴方ですか\r\nどんな御用でしょうか？",
+      "eng": "Hello there.\r\nWhat can I do for you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "由灵魂诞生出来的物品，\r\n会强烈反映原本灵魂的特质。",
+      "jap": "ソウルから生み出されるものには\r\n元となるソウルの性質が、色濃く反映されます",
+      "eng": "The nature of an item is greatly influenced\r\nby the soul that was used to create it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "虽然不少物品的个性太强烈，\r\n但让一流名家使用，则是无比可靠。",
+      "jap": "癖の強い代物も多いですが、一流の使い手が扱えば\r\n何よりも頼りになるでしょう",
+      "eng": "They can be tricky to use,\r\nbut when wielded properly, are extremely powerful.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "之所以提过有些特别，\r\n正是因此，不是什么人都能轻易的使用。",
+      "jap": "少し特別だと申し上げたのは、そのためです\r\n誰にでも扱えるようなものではないのです",
+      "eng": "This is what I meant by unique.\r\nThese wares are not for use by ordinary folk.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB・王のソウルを持っいてない",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "这个国家目前虽然荒废殆尽，\r\n但从前却是一位伟大国王的治下。",
+      "jap": "この国は、いまは荒れ果てていますが\r\nかつては偉大な王のもとにあったのです",
+      "eng": "It's hard to believe now,\r\nbut this land was once a flourishing kingdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "国王名叫汎克拉德，\r\n曾经进逼过灵魂根源。",
+      "jap": "王の名はヴァンクラッド\r\nかつて、ソウルの根源に近付いた方",
+      "eng": "Its king, Vendrick,\r\ncame close to unlocking the essence of the soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "他的灵魂应该十分美丽吧。",
+      "jap": "さぞかし美しいソウルをお持ちだったのでしょう",
+      "eng": "What a dazzling soul he surely had...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "有了那股力量，应该能够打造任何物品了吧。",
+      "jap": "その力があれば、どのようなものが出来上がるのでしょうねえ",
+      "eng": "Imagine what I might create with such a powerful soul...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "听说，\r\n我的技艺是由曾于此地现身的异形#1们#3所创。",
+      "jap": "私の技は、かつてこの地にあった異形によって\r\n生み出されたものと聞いています",
+      "eng": "It is said that our technique originates\r\nfrom a strange being that inhabited this land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "遥远太古时代的白者……\r\n那究竟为何，已无人得知。",
+      "jap": "遠く、古い時代からあった、白きもの…\r\nそれが何であるかは、もうわかりませんが",
+      "eng": "A pale beast that lived long, long ago.\r\nWe don't even know what exactly it was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "如果获得了特殊灵魂，\r\n请务必光临我的小店。",
+      "jap": "特別なソウルを手に入れたら\r\nぜひ私のところに立ち寄ってください",
+      "eng": "If you find a Wondrous Soul,\r\nbring it by for me to have a look.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "我的模样很珍奇吗？呵呵呵。",
+      "jap": "私の姿が珍しいですか？フフフッ",
+      "eng": "Do you find me strange? Skee hee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "你们人类总是这样，\r\n遇到与自己不同的，就用这样的眼光看待。",
+      "jap": "貴方たち人間は、いつもそうですね\r\n自分たちと違うものを、そういう目でご覧になる",
+      "eng": "You humans are always this way.\r\nThe way you glare at any unfamiliar creature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "参杂了好奇、畏惧，以及轻蔑的感情。",
+      "jap": "好奇と恐れと、蔑みの入り混じった感情",
+      "eng": "That mix of curiosity, fear, and revulsion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "对我来说，并不重要。",
+      "jap": "私にはどうでもいいことですが",
+      "eng": "Oh, well. It hardly concerns me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(なにもしなかった・まだ武器を作っていない場合)",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "等到获得了新的灵魂，再请您光临指教。",
+      "jap": "新しいソウルを手に入れたら、またお越しください",
+      "eng": "Come back again if you find another soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "有空的话，欢迎再度光临。",
+      "jap": "気が向かれたら、また声をおかけください",
+      "eng": "Come again, if it please you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼女から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "一路请小心。",
+      "jap": "お気をつけて",
+      "eng": "Be safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "嘎呀！",
+      "jap": "ギャッギャッ",
+      "eng": "Skwaa!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "你、你干什么？",
+      "jap": "な、何を",
+      "eng": "What are you...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "赶快住手！",
+      "jap": "やめてください！",
+      "eng": "Stop this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "拿你没办法……",
+      "jap": "仕方ありませんね…",
+      "eng": "Oh, as you please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching her, after she has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "居然还有脸来……",
+      "jap": "性懲りもなく…",
+      "eng": "You again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "真是的，烦呐……",
+      "jap": "全く、騒々しい…",
+      "eng": "What a bother.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "您……也不过是人啊……",
+      "jap": "所詮…貴方も人間ですか…",
+      "eng": "You humans are all alike...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "##感谢您救了我一命，\r\n没想到居然中了这陷阱……真是丢人现眼。",
+      "jap": "##助けていただき、ありがとうございました\r\nこんな罠にかかるとは…お恥ずかしい限りです",
+      "eng": "##Thank you for helping me.\r\nHow awkward...that I fell for such a trap.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "##有朝一日……再会了……",
+      "jap": "##また…お会いしましょう…",
+      "eng": "##May we meet again.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "###2（仅英文语音）能帮我一把吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Could you lend me a hand?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "###2（仅英文语音）你可以相信我，我保证。#3",
+      "jap": "##…",
+      "eng": "##(No caption) You can trust me, I assure you.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

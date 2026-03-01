@@ -1,6 +1,815 @@
 {
   "npc": "rickert",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/rickert.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/rickert.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "嗯……？",
+      "jap": "あん…？",
+      "eng": "Hrm?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "嘿，难得的常人啊！",
+      "jap": "へえ、珍しい。まともじゃないか",
+      "eng": "Well, this is unusual. You haven't lost your head.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "而且还能自由走到这里来，你是谁？",
+      "jap": "しかも自由ときてる。あんた、何者だ？",
+      "eng": "And more importantly, you're free. How on earth...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……算了，这种小事不重要。",
+      "jap": "…そんなことは、どうだっていいか",
+      "eng": "...Well, I shouldn't pry.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我是彼海姆的李凯尔特。",
+      "jap": "俺はヴィンハイムのリッケルト",
+      "eng": "I am Rickert of Vinheim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "以前是小有名气的工匠……现在沦落成这样。",
+      "jap": "昔は一端の職人だったが…今はこの有様さ",
+      "eng": "I was once an established smith, but look at me now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "好笑吧？",
+      "jap": "笑えるだろ？",
+      "eng": "Can you believe it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "嗯，有事吗？",
+      "jap": "ん？なんだ？",
+      "eng": "Hm? What is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "你……哦，别搞错了，我可没打算逃跑。",
+      "jap": "まだ…ああ、勘違いするなよ。牢を出たいなんて思っちゃいない",
+      "eng": "Have you...Oh, no, don't worry. I've no intention of escape.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "这里还算安全，我可不想死了变成游魂。",
+      "jap": "ここは安全だ。死んで亡者になるなんて、まっぴらだからな",
+      "eng": "It's safe here. I can't bear the thought of going Hollow out there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……但是，我确实也挺无聊的。",
+      "jap": "…だが、そうだな、退屈してるのも事実だ",
+      "eng": "Although, I must admit, I've not much to occupy myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "幸好还有称手的工具，\r\n打个商量，你的武器要不要给我冶炼啊？",
+      "jap": "どうだ？幸い、質は悪いが道具もある\r\nあんたの武器を、俺に鍛えさせてくれないか？",
+      "eng": "How about this? \r\nI could forge your weapons, albeit with rather minimal tools.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我会让你见识一下，彼海姆第一铁匠的实力。",
+      "jap": "ヴィンハイム一と言われた、俺の腕を見せてやるぜ",
+      "eng": "I will show you what made me the best in Vinheim!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "唷！是你啊。",
+      "jap": "おう、あんたか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "武器对吧？就拿来看看吧。",
+      "jap": "どうせ武器だろう？見せてみろよ",
+      "eng": "What weapons have you brought? Go on; show me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0第4次攀谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "唷！是你啊。",
+      "jap": "おう、あんたか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "正好无聊在等你呢。",
+      "jap": "待ってたぜ。退屈してたんだ",
+      "eng": "I was beginning to wonder when you'd come.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "有带材料来吧？拿来吧。",
+      "jap": "素材は持ってきたんだろう？はやく出せよ",
+      "eng": "Have you materials? Go on, show me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0第5次攀谈",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "嗯，有事吗？",
+      "jap": "ん？なんだ？",
+      "eng": "Hm? What is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "我找你没什么事……",
+      "jap": "俺は、あんたに用なんてないが…",
+      "eng": "Normally I wouldn't bother, but...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "……但是，我确实也挺无聊的。",
+      "jap": "…だが、そうだな、退屈してるのも事実だ",
+      "eng": "I must admit, I've not much to occupy myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "幸好还有称手的工具，\r\n打个商量，你的武器要不要给我冶炼啊？",
+      "jap": "どうだ？幸い、質は悪いが道具もある\r\nあんたの武器を、俺に鍛えさせてくれないか？",
+      "eng": "How about this? \r\nI could forge your weapons, albeit with rather minimal tools.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "我会让你看识一下彼海姆第一工匠的实力的。",
+      "jap": "ヴィンハイム一と言われた、俺の腕を見せてやるぜ",
+      "eng": "I will show you what made me the best in Vinheim!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "嗯，有事吗？",
+      "jap": "ん？なんだ？",
+      "eng": "Hm? What is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "我没什么要和你说的。",
+      "jap": "話すことなんて特にないぞ",
+      "eng": "There's nothing to talk about.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "我们两个受诅咒又被赶出家乡的不死人，\r\n在这边互相安慰也太难看了吧。",
+      "jap": "呪われて、故郷を追われた不死同士\r\n傷をなめあうのも惨めじゃないか",
+      "eng": "We're both cursed; Undead.\r\nBut what's there, really, to moan about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0救出古利古斯后，第1次攀谈",
+      "jap": "#0リストから選択:話すA・グリッグス救出後",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after freeing Griggs of Vinheim",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "大帽子？当然，我知道。",
+      "jap": "ビッグハット？ああ、知ってるぜ",
+      "eng": "Old Big Hat? Of course I've heard of him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "他的传说在彼海姆也很有名啊。",
+      "jap": "ヴィンハイムでも有名な伝説だからな",
+      "eng": "Who hasn't in Vinheim?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "他好像是龙学院的外戚，\r\n后来变成了不死人。",
+      "jap": "なんでも、竜の学院の外戚だったが、\r\n不死になったとか",
+      "eng": "He was a royal member of Dragon School,\r\nuntil he turned Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "是个挺有趣的老爷子……\r\n只不过这已经是百年前的事了",
+      "jap": "おもしろい爺様だったらしいが…\r\nまあ、100年以上も前の話さ",
+      "eng": "I hear he was quite the character...\r\nOnly, that was a hundred years ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "你对奇怪的事情还挺有兴趣的嘛？",
+      "jap": "変なことに興味があるんだな？",
+      "eng": "What interest have you in the old eccentric now?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0救出古利古斯后，第2次攀谈",
+      "jap": "#0リストから選択:話すB・グリッグス救出後",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after freeing Griggs of Vinheim",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "魔法？那我一窍不通啦。",
+      "jap": "魔術？俺は、何もわからねえよ",
+      "eng": "Sorcery? Don't ask me how it actually works.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "我们就是教什么就学什么，把学的变成自己的技术。",
+      "jap": "あるものは、受け容れて、自分たちの技術にする",
+      "eng": "We only fiddle and forge, until it works itself in.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "每个彼海姆的工匠都是这样。",
+      "jap": "ヴィンハイムの職人たちは、ただ、皆そうしている",
+      "eng": "That's how we do it in Vinheim, at least.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "要用道理解释，那是那些学者的事情。",
+      "jap": "理屈をつけるのは、学者どもの嗜みってわけさ",
+      "eng": "We prefer to leave the theorizing to those uppity scholars.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0持有大块法术余烬时攀谈",
+      "jap": "#0話しかけた:大きな魔法の種火を入手後",
+      "eng": "#0Talk-After obtaining the Large Magic Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "喂，慢着，",
+      "jap": "おい、あんた",
+      "eng": "Hey, hang on...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "你……那不是魔法的余烬吗……？",
+      "jap": "それは…魔術の種火じゃねえか…？",
+      "eng": "That's a sorcery ember...isn't it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "不会错的……\r\n自从被赶出彼海姆之后就没看到过了……",
+      "jap": "そうだ、間違いない…\r\nヴィンハイムを追われて後、はじめてだ…",
+      "eng": "Yes, it certainly is...\r\nThe first I've seen since my banishment from Vinheim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "那个可以给我吗？",
+      "jap": "なあ、あんた。それを俺にくれないか？",
+      "eng": "What do you say, friend? Mind giving that to me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "在这偏僻的地方，\r\n我想除了我以外，没有人知道如何处理余烬了。",
+      "jap": "こんな辺鄙の地だ\r\n俺以外に、それを扱える奴なんざ、いないと思うぜ",
+      "eng": "This is no-man's land.\r\nI'm the only one who could handle it anyway.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0您要将大块法术余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:大きな魔法の種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Large Magic Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "……是吗，那就算了。",
+      "jap": "…ああ、そうかい。まあ、しょうがねえ",
+      "eng": "...Yes, I see. All right, fine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "我不认为你的决定是对的。",
+      "jap": "正しい判断には思えねえがな",
+      "eng": "But I don't think you're really seeing things clearly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0您要将大块法术余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:大きな魔法の種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Large Magic Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "哈，我就知道。",
+      "jap": "まあ、そうくるわな",
+      "eng": "Yes, as you should!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "就交给我了，这样就不会无聊啦。",
+      "jap": "任せときな。これで、しばらくは退屈しなくてすみそうだぜ",
+      "eng": "I won't disappoint you. I'm taskless no longer!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0持有魔力余烬时攀谈",
+      "jap": "#0話しかけた:魔力の種火を入手後",
+      "eng": "#0Talk-After obtaining the Enchanted Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "喂，慢着，",
+      "jap": "おい、あんた",
+      "eng": "Hey, hang on...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "你那是……魔法的余烬……？",
+      "jap": "それは…魔術の種火か…？",
+      "eng": "Is that...a sorcery ember?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "真稀有……我在彼海姆也没看过……",
+      "jap": "すげえ…ヴィンハイムでだって、見たこともねえ…",
+      "eng": "I've never seen one like that, not even back in Vinheim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "好棒的火啊……",
+      "jap": "すげえ火だ…",
+      "eng": "What a brilliant flame!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "可以给我吗？拜托你给我，求你了。",
+      "jap": "なあ、あんた。それを、俺にくれ。頼む。お願いだ",
+      "eng": "Please, friend, let me have that. I am begging you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "我怎么样也算是彼海姆的工匠，\r\n有这么棒的火焰，可不能就这样算了……",
+      "jap": "俺だって、腐ってもヴィンハイムの職人だ\r\nそんなすごい火、見なかったことにはできねえよ…",
+      "eng": "I am a craftsman of Vinheim.\r\nI'd go Hollow before I pass up a flame like that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0您要将魔力余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:魔力の種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Enchanted Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "……我明白，",
+      "jap": "……わかった",
+      "eng": "...Fine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "……我明白啦，我放弃。",
+      "jap": "……わかったよ、諦める",
+      "eng": "...Fine, I won't bother you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "不过还是谢谢你让我看到这么棒的余烬。",
+      "jap": "でも、いいもの見せてくれたな。ありがとよ",
+      "eng": "It was wonderful if only to gaze upon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "让我想起一些以前的事……",
+      "jap": "少しだけ、昔を思い出しちまったじゃないか…",
+      "eng": "It takes me back to old times.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0您要将魔力余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:魔力の種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Enchanted Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "可以交给我吗！你太棒了！",
+      "jap": "おお、そうか！あんた、最高だ！",
+      "eng": "Oh, really! You are wonderful!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "我会让你见识到我李凯尔特最高杰作的。",
+      "jap": "リッケルトの最高傑作をお見せするぜ",
+      "eng": "I will forge a Rickert masterpiece, just for you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "那将会是让你成为英雄的武器……",
+      "jap": "あんたを英雄にする武器だ…",
+      "eng": "A weapon to make a legend out of you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0持有其他余烬时攀谈",
+      "jap": "#0話しかけた:ヴィンハイムのリッケルトが扱えない種火を入手後",
+      "eng": "#0Talk-While holding an ember he cannot handle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "喂，慢着，",
+      "jap": "おい、あんた",
+      "eng": "Hey, hang on...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "你那是余烬？",
+      "jap": "それは、種火か？",
+      "eng": "Is that an ember?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "不过很抱歉，\r\n彼海姆不会用那种低级的余烬。",
+      "jap": "だが残念\r\nヴィンハイムでは、そんな粗野な種火は使わないんだ",
+      "eng": "Oh, no, I'm sorry.\r\nWe of Vinheim don't deal in shoddy embers like that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "你拿去给偏远乡下的铁匠，也许还会帮你冶炼吧。",
+      "jap": "田舎の鍛冶屋なら、そんなんでも我慢できるんだろうけどな",
+      "eng": "Perhaps you should try an old smith out in the country.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0走开中断对话",
+      "jap": "#0話しかけられた:彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "嗯？有事吗？",
+      "jap": "ん？どうした？",
+      "eng": "Hm? What's happened?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "刚才发生什么事啦？",
+      "jap": "どうしたんだ、さっきは",
+      "eng": "What was that about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "算了，随便啦。",
+      "jap": "ま、どうだっていいか",
+      "eng": "Ahh, it doesn't matter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0未进化、强化或修理装备，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物をした/何もしなかった)",
+      "eng": "#0Choose \"Leave\" without forging or reinforcement",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "下次再来啊。",
+      "jap": "今度は頼むぜ",
+      "eng": "Come back soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "冶炼工作有益身心。",
+      "jap": "鍛冶仕事は脳にいいんだ",
+      "eng": "Smithing helps soothe my nerves.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "我都快无聊死了。",
+      "jap": "俺が退屈で死んじまう前にな",
+      "eng": "Don't let me wither away out of idleness!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0进化、强化或修理装备后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(装備の進化/強化/修理をした)",
+      "eng": "#0Choose \"Leave\" after forging or reinforcement",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "再见啦。",
+      "jap": "じゃあな",
+      "eng": "Good-bye, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "下次来的时候也要没事啊。",
+      "jap": "次もまともできてくれよな",
+      "eng": "Keep your head on, out there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "打发了我不少时间呢。",
+      "jap": "いい退屈しのぎになったぜ",
+      "eng": "You really help break the monotony.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "你干什么？",
+      "jap": "なにすんだよっ！",
+      "eng": "What's got into you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "怎么？原来你不正常？",
+      "jap": "なんだよ、まともじゃなかったのかよ…",
+      "eng": "Damn, you've gone Hollow, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "算了，和你没啥好讲的。",
+      "jap": "もういい、あんたと話すこともない",
+      "eng": "Forget about it! I have nothing more to say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "滚吧！",
+      "jap": "行っちまえよ！",
+      "eng": "Be gone!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "我叫你滚！",
+      "jap": "行っちまえったら！",
+      "eng": "Oh, go away!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "我不会帮你的……",
+      "jap": "あんたには何もやらんよ。何もな…",
+      "eng": "There's nothing here for you. Nothing at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "这怎么可能……",
+      "jap": "そんな、ばかな…",
+      "eng": "No...impossible...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "为什么……",
+      "jap": "なんで…",
+      "eng": "Why didn't I see?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "你不正常……",
+      "jap": "まともじゃねえ…",
+      "eng": "...You've gone Hollow...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

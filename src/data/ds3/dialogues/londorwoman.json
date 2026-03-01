@@ -1,6 +1,263 @@
 {
   "npc": "londorwoman",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/londorwoman.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/londorwoman.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦哦，您是无火的余灰啊。",
+      "jap": "…おお、貴方は、火の無い灰の方ですね",
+      "eng": "Oh, my, I see you're Unkindled",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "没想到能巡礼之旅的终点、等待死亡之地，\r\n遇上此等际会。",
+      "jap": "巡礼の旅の先、死を待つ場所で、\r\nこのような出会いがあるとは",
+      "eng": "For a pilgrim such as I, all tucked in and awaiting death,\r\nto have this honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我的死必定会受到祝福吧。",
+      "jap": "きっと私の死に、祝福があるのでしょう",
+      "eng": "This presages a most glorious death indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "上天保庇，感谢上天……",
+      "jap": "ありがたや、ありがたや…",
+      "eng": "Praise thee, praise thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0持有5个黑暗印记时，第1次交谈",
+      "jap": "#0話しかけた:暗い穴を5つ所持",
+      "eng": "#0Talk-1st time, after attaining 5 Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "……哦哦，是大人您啊……！",
+      "jap": "…おお、貴方様は…！",
+      "eng": "Oh, my, you are...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "不过，还请您再稍待片刻，",
+      "jap": "ですがまだ、もう少しだけお待ちください",
+      "eng": "But I'm afraid we require more time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "只需等待黑暗水滴垂落的片刻时间即可。",
+      "jap": "闇の雫が垂れ落ちる、ほんの少しの間です",
+      "eng": "As long as it takes a dark droplet to fall, that is all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "我辈之王啊……",
+      "jap": "我らの王よ…",
+      "eng": "Our gracious Lord...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "……",
+      "jap": "アァッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "……",
+      "jap": "オオオッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "您在做什么！",
+      "jap": "何をされますか！",
+      "eng": "Whatever for!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "你，为何如此……",
+      "jap": "貴様、なぜ…",
+      "eng": "But, why...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "尤莉雅大人……",
+      "jap": "ユリア様…",
+      "eng": "Lady Yuria...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0到达亚诺尔隆德后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time in front of the Darkmoon Tomb",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "我辈之王，盼望您许久了。",
+      "jap": "お待ちしておりました、我らの王よ",
+      "eng": "Welcome, our gracious Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "您的伴侣就在前方……您马上会看到。",
+      "jap": "貴方の伴侶は、この先で…すぐ傍でお待ちです",
+      "eng": "Your spouse awaits you, you are very near.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "请拿起这把定约剑。",
+      "jap": "どうぞ、契りの剣をお持ちください",
+      "eng": "Please, take the Sword of Avowal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "并请您成为我辈隆道尔，真正的王吧。",
+      "jap": "そして、おなりください。我らロンドールの、真の王に",
+      "eng": "May you be the truest Lord of Londor yet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0到达亚诺尔隆德后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time in front of the Darkmoon Tomb",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "您的伴侣就在前方……您马上会看到。",
+      "jap": "貴方の伴侶は、この先で…すぐ傍でお待ちです",
+      "eng": "Your spouse awaits you, you are very near.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "请您成为我辈隆道尔，真正的王吧。",
+      "jap": "おなりください。我らロンドールの、真の王に",
+      "eng": "May you be the truest Lord of Londor yet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0被击杀时，或持有8个黑暗印记时传承初始之火",
+      "jap": "#0殺害した/はじまりの火を継ぐ・暗い穴を8つ所持",
+      "eng": "#0Upon dying or link the First Flame with 8 Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "哦哦，我辈游魂之王……",
+      "jap": "おお、我ら亡者の王よ…",
+      "eng": "Ahh, our gracious Lord...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "请您率领隆道尔吧……",
+      "jap": "ロンドールを、お導きください…",
+      "eng": "Make Londor whole...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "##……",
+      "jap": "##ギャアアアアアアアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "##……",
+      "jap": "##ギャアアアアアアアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

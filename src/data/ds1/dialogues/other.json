@@ -1,6 +1,2079 @@
 {
   "npc": "other",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/other.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/other.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0地名",
+      "jap": "#0地名",
+      "eng": "#0Place Name",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "北方不死院",
+      "jap": "北の不死院",
+      "eng": "Northern Undead Asylum",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "传火祭祀场",
+      "jap": "火継ぎの祭祀場",
+      "eng": "Firelink Shrine",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "飞龙之谷",
+      "jap": "飛竜の谷",
+      "eng": "Valley of Drakes",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "小隆德遗迹",
+      "jap": "小ロンド遺跡",
+      "eng": "New Londo Ruins",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "深渊",
+      "jap": "深淵",
+      "eng": "The Abyss",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "城外不死镇",
+      "jap": "城下不死街",
+      "eng": "Undead Burg",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "太阳祭坛",
+      "jap": "太陽の祭壇",
+      "eng": "Sunlight Altar",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "城外不死教区",
+      "jap": "城下不死教区",
+      "eng": "Undead Parish",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "底层",
+      "jap": "最下層",
+      "eng": "Depths",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "病村",
+      "jap": "病み村",
+      "eng": "Blighttown",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "克拉格的住处",
+      "jap": "クラーグの住処",
+      "eng": "Quelaag's Domain",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "混沌的女儿",
+      "jap": "混沌の娘",
+      "eng": "Daughter of Chaos",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "恶魔遗迹",
+      "jap": "デーモン遺跡",
+      "eng": "Demon Ruins",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "混沌废都伊札里斯",
+      "jap": "混沌の廃都イザリス",
+      "eng": "Lost Izalith",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "大树洞",
+      "jap": "大樹のうつろ",
+      "eng": "The Great Hollow",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "灰烬湖",
+      "jap": "灰の湖",
+      "eng": "Ash Lake",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "石身古龙",
+      "jap": "石の古竜",
+      "eng": "Stone Dragon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "黑森林庭院",
+      "jap": "黒い森の庭",
+      "eng": "Darkroot Garden",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "夹缝森林",
+      "jap": "狭間の森",
+      "eng": "Darkroot Basin",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "灵庙内庭",
+      "jap": "霊廟・裏庭",
+      "eng": "Sanctuary Garden",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "乌拉席露灵庙",
+      "jap": "ウーラシールの霊廟",
+      "eng": "Oolacile Sanctuary",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "王家御苑",
+      "jap": "王家の森庭",
+      "eng": "Royal Wood",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "乌拉席露市镇",
+      "jap": "ウーラシール市街",
+      "eng": "Oolacile Township",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "乌拉席露市镇：地牢",
+      "jap": "ウーラシール市街・地下牢",
+      "eng": "Chasm of the Abyss",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "深渊洞穴",
+      "jap": "深淵の穴",
+      "eng": "Oolacile Township Dungeon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "试炼之战",
+      "jap": "試練の戦い",
+      "eng": "Battle of Stoicism",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "地下墓地",
+      "jap": "地下墓地",
+      "eng": "The Catacombs",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "巨人墓地",
+      "jap": "巨人墓場",
+      "eng": "Tomb of the Giants",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "墓王祭坛",
+      "jap": "墓王の祭壇",
+      "eng": "Altar of the Gravelord",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "赛恩古城",
+      "jap": "センの古城",
+      "eng": "Sen's Fortress",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "亚诺尔隆德",
+      "jap": "アノール・ロンド",
+      "eng": "Anor Londo",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "公主的房间",
+      "jap": "王女の間",
+      "eng": "Chamber of the Princess",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "暗月灵庙",
+      "jap": "暗月の霊廟",
+      "eng": "Darkmoon Tomb",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "公爵书库",
+      "jap": "公爵の書庫",
+      "eng": "The Duke's Archives",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "结晶洞穴",
+      "jap": "結晶洞穴",
+      "eng": "Crystal Cave",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "艾雷米雅斯的绘画世界",
+      "jap": "エレーミアス絵画世界",
+      "eng": "Painted World of Ariamis",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "传火祭坛",
+      "jap": "火継ぎの祭壇",
+      "eng": "Firelink Altar",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "初始之火的火炉",
+      "jap": "最初の火の炉",
+      "eng": "Kiln of the First Flame",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0NPC名",
+      "jap": "#0NPC名",
+      "eng": "#0NPC Name",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "太阳战士索拉尔",
+      "jap": "太陽の戦士ソラール",
+      "eng": "Knight Solaire",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "乌拉席露的幽暗",
+      "jap": "ウーラシールの宵闇",
+      "eng": "Dusk of Oolacile",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "黑铁的塔尔卡斯",
+      "jap": "黒鉄のタルカス",
+      "eng": "Iron Tarkus",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "异端魔女比阿特丽斯",
+      "jap": "異端の魔女ビアトリス",
+      "eng": "Witch Beatrice",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "吃人的米鲁德雷特",
+      "jap": "人食いミルドレット",
+      "eng": "Maneater Mildred",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "圣骑士里罗伊",
+      "jap": "聖騎士リロイ",
+      "eng": "Paladin Leeroy",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "刺针骑士寇克",
+      "jap": "トゲの騎士カーク",
+      "eng": "Knight Kirk",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "黄王杰雷麦亚",
+      "jap": "黄の王ジェレマイア",
+      "eng": "King Jeremiah",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "女神的骑士罗特雷克",
+      "jap": "女神の騎士ロートレク",
+      "eng": "Knight Lautrec",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "恶魔火焰司祭",
+      "jap": "デーモンの炎司祭",
+      "eng": "Demon Firesage",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "离群恶魔",
+      "jap": "はぐれデーモン",
+      "eng": "Stray Demon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "不死院恶魔",
+      "jap": "不死院のデーモン",
+      "eng": "Asylum Demon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "山羊头恶魔",
+      "jap": "山羊頭のデーモン",
+      "eng": "Capra Demon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "牛头恶魔",
+      "jap": "牛頭のデーモン",
+      "eng": "Taurus Demon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "钢铁巨偶",
+      "jap": "アイアンゴーレム",
+      "eng": "Iron Golem",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "刽子手斯摩",
+      "jap": "処刑者スモウ",
+      "eng": "Executioner Smough",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "半龙普利希拉",
+      "jap": "半竜プリシラ",
+      "eng": "Crossbreed Priscilla",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "月光蝶",
+      "jap": "月光蝶",
+      "eng": "Moonlight Butterfly",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "三人尸术师",
+      "jap": "三人羽織",
+      "eng": "Pinwheel",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "灵庙圣兽",
+      "jap": "霊廟の聖獣",
+      "eng": "Sanctuary Guardian",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "骑士亚尔特留斯",
+      "jap": "騎士アルトリウス",
+      "eng": "Knight Artorias",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "深渊之主马努斯",
+      "jap": "深淵の主マヌス",
+      "eng": "Manus, Father of the Abyss",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "黑龙喀拉弥特",
+      "jap": "黒竜カラミット",
+      "eng": "Black Dragon Kalameet",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "百足恶魔",
+      "jap": "百足のデーモン",
+      "eng": "Centipede Demon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "灰色大狼希夫",
+      "jap": "灰色の大狼シフ",
+      "eng": "Great Grey Wolf Sif",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "墓王尼特",
+      "jap": "墓王ニト",
+      "eng": "Gravelord Nito",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "持续溃烂的生物",
+      "jap": "爛れ続けるもの",
+      "eng": "Ceaseless Discharge",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "贪食魔龙",
+      "jap": "貪食ドラゴン",
+      "eng": "Gaping Dragon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "猎龙者翁斯坦",
+      "jap": "竜狩りオーンスタイン",
+      "eng": "Dragon Slayer Ornstein",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "混沌魔女克拉格",
+      "jap": "混沌の魔女クラーグ",
+      "eng": "Chaos Witch Quelaag",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "白龙希斯",
+      "jap": "白竜シース",
+      "eng": "Seath the Scaleless",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "黯影太阳葛温德林",
+      "jap": "陰の太陽グウィンドリン",
+      "eng": "Dark Sun Gwyndolin",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "守钟的石像鬼",
+      "jap": "鐘のガーゴイル",
+      "eng": "Bell Gargoyle",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "乌薪王葛温",
+      "jap": "薪の王グウィン",
+      "eng": "Gwyn, Lord of Cinder",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "小隆德四王",
+      "jap": "四人の公王",
+      "eng": "Four Kings",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "混沌的温床",
+      "jap": "混沌の苗床",
+      "eng": "Bed of Chaos",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "墓王手下",
+      "jap": "墓王の眷属",
+      "eng": "Gravelord Servant",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0肢体动作",
+      "jap": "#0ジェスチャー",
+      "eng": "#0Gesture",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "招手",
+      "jap": "手招き",
+      "eng": "Beckon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "向前指",
+      "jap": "前を指さす",
+      "eng": "Point forward",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "欢呼",
+      "jap": "エイエイオー",
+      "eng": "Hurrah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "道谢",
+      "jap": "一礼",
+      "eng": "Bow",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "喜悦",
+      "jap": "歓喜",
+      "eng": "Joy",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "难以置信",
+      "jap": "呆れる",
+      "eng": "Shrug",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "挥手",
+      "jap": "手をふる",
+      "eng": "Wave",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "赞美太阳",
+      "jap": "太陽賛美",
+      "eng": "Praise the Sun",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "向上指",
+      "jap": "上を指差す  ",
+      "eng": "Point up",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "向下指",
+      "jap": "下を指差す  ",
+      "eng": "Point down",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "抬头",
+      "jap": "天を仰ぐ",
+      "eng": "Look skyward",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "怎样！",
+      "jap": "さあ！どうした！",
+      "eng": "Well! What is it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "下跪",
+      "jap": "土下座",
+      "eng": "Prostration",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "郑重道谢",
+      "jap": "丁寧な一礼",
+      "eng": "Proper bow",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "祈祷",
+      "jap": "祈り",
+      "eng": "Prayer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0角色创建",
+      "jap": "#0キャラクター作成",
+      "eng": "#0Create Character",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "【战士】",
+      "jap": "【戦士】",
+      "eng": "【Warrior】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "以战斗为业的战士\r\n力气与敏捷均高\r\n是运用武器的专家",
+      "jap": "戦を生業とする戦士\r\n筋力、技量共に高い\r\n武器の専門家",
+      "eng": "Fearless warrior.\r\nWeapon expert. High\r\nstrength, dexterity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "【骑士】",
+      "jap": "【騎士】",
+      "eng": "【Knight】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "下级骑士\r\n体力高，有坚固铠甲\r\n十分耐打",
+      "jap": "下級の騎士\r\n体力が高く鎧も硬く\r\n打たれ強い",
+      "eng": "Low-ranking knight.\r\nHigh HP, solid armor.\r\nNot easily toppled.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "【流浪者】",
+      "jap": "【放浪者】",
+      "eng": "【Wanderer】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "漂泊而行的流浪者\r\n使用曲剑当武器\r\n是敏捷高的剑士",
+      "jap": "あてのない放浪者\r\n曲刀を武器とする\r\n技量の高い剣士",
+      "eng": "Aimless wanderer.\r\nWields scimitar.\r\nHigh dexterity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "【小偷】",
+      "jap": "【盗人】",
+      "eng": "【Thief】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "行动隐密的小偷\r\n专用致命一击攻击\r\n拥有万能钥匙",
+      "jap": "うしろめたい盗人\r\n致命の一撃を狙う\r\n万能鍵を持っている",
+      "eng": "Guilt-ridden thief.\r\nHigh critical hits.\r\nHas Master Key.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "【山贼】",
+      "jap": "【山賊】",
+      "eng": "【Bandit】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "作风野蛮的山贼\r\n能靠强大的力气\r\n挥动沉重战斧",
+      "jap": "野蛮な山の盗賊\r\n高い筋力で\r\n重い戦斧を振るう",
+      "eng": "Savage bandit.\r\nHigh strength. Wields\r\nheavy battle axe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "【猎人】",
+      "jap": "【狩人】",
+      "eng": "【Hunter】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "擅于使弓的猎人\r\n也能近身战斗\r\n但是不擅长法术",
+      "jap": "弓を使う狩人\r\n接近戦もこなすが\r\n魔法全般は苦手",
+      "eng": "Bow-wielding hunter.\r\nOK at close-range\r\nbut weak with magic.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "【魔法师】",
+      "jap": "【魔術師】",
+      "eng": "【Sorcerer】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "彼海姆龙学院\r\n其培育的魔法师\r\n会使用灵魂魔法",
+      "jap": "ヴィンハイムの\r\n竜の学院の魔術師\r\nソウルの魔術を操る",
+      "eng": "Sorcerer of Vinheim\r\nDragon School.\r\nCasts soul sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "【咒术师】",
+      "jap": "【呪術師】",
+      "eng": "【Pyromancer】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "大沼的咒术师\r\n会操纵火焰的咒术\r\n也能将手斧运用自如",
+      "jap": "大沼の呪術師\r\n炎を操る呪術の他\r\n手斧も使いこなす",
+      "eng": "Swamp pyromancer.\r\nCasts fire spells and\r\nwields a hand axe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "【圣职】",
+      "jap": "【聖職者】",
+      "eng": "【Cleric】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "四处旅行的圣职\r\n能挥舞锤矛应战\r\n并使用恢复类的奇迹",
+      "jap": "旅の聖職者\r\nメイスを振るい\r\n回復の奇跡を使う",
+      "eng": "Cleric on Pilgrimage\r\nWields a mace and\r\ncasts healing miracles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "【一无所有】",
+      "jap": "【持たざるもの】",
+      "eng": "【Deprived】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "半裸、不知来历的人\r\n全身上下只有装备\r\n棍棒和破木板盾",
+      "jap": "素性も知れぬ裸の人\r\n棍棒と板きれの盾が\r\n装備品のすべて",
+      "eng": "Unclothed enigma.\r\nOnly armed with club\r\nand old plank shield.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "【无】",
+      "jap": "【なし】",
+      "eng": "【None】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "身上没带任何礼物",
+      "jap": "贈り物など なにもなかった",
+      "eng": "No sign of a gift",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "【女神的祝福】",
+      "jap": "【女神の祝福】",
+      "eng": "【Goddess's Blessing】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "祝福的圣水\r\n可让血量完全恢复\r\n并治愈异常状态",
+      "jap": "祝福の聖水\r\nＨＰを全回復し\r\n異常を癒す",
+      "eng": "Divine holy water.\r\nFully restores HP\r\nand status.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "【黑火焰壶】",
+      "jap": "【黒い火炎壺】",
+      "eng": "【Black Firebomb】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "丢向敌人后\r\n引发爆炸的黑火焰壶\r\n威力比一般的更强",
+      "jap": "投げつけると\r\n爆発する黒い火炎壷\r\n通常のものより強力",
+      "eng": "Explodes upon impact\r\nwhen thrown. More\r\ndeadly than std bomb.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "【孪生人性】",
+      "jap": "【人間性の双子】",
+      "eng": "【Twin Humanities】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "偶尔可以从尸体\r\n找到的小黑精\r\n被人们称为人性",
+      "jap": "稀に死体に見られる\r\n小さな黒い精霊\r\n人間性と呼ばれる",
+      "eng": "Tiny sprite called\r\nhumanity. Sometimes\r\nfound on carcasses.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "【望远镜】",
+      "jap": "【遠眼鏡】",
+      "eng": "【Binoculars】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "双筒望远镜\r\n前方的景观\r\n看起来会放大",
+      "jap": "双眼の遠眼鏡\r\n遠くの景色が\r\n大きく見える",
+      "eng": "Binoculars.\r\nUse to peer at\r\nfaraway sights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "【项链】",
+      "jap": "【ペンダント】",
+      "eng": "【Pendant】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "毫无任何效果的物品\r\n但在艰辛的旅途中\r\n也要有些宝贵回忆",
+      "jap": "何の効果もない品\r\nだが辛い旅には\r\n思い出が必要なのだ",
+      "eng": "Trinket. No effect,\r\nbut fond memories\r\ncomfort travelers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "【万能钥匙】",
+      "jap": "【万能鍵】",
+      "eng": "【Master Key】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "能打开简单锁的\r\n万能钥匙\r\n是小偷的初期装备",
+      "jap": "簡単な鍵であれば\r\n開けてしまう万能鍵\r\n素性盗人の初期装備",
+      "eng": "Opens any basic\r\nlock. Initial equip\r\nfor thief.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "【微小生命戒指】",
+      "jap": "【小さな生命の指輪】",
+      "eng": "【Tiny Being's Ring】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "自古传承的\r\n特别戒指\r\n装备可稍微增加血量",
+      "jap": "古くから伝わる指輪\r\n装備することで\r\nＨＰが少し増える",
+      "eng": "Special tribal ring.\r\nGrants small\r\nincrease to HP.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "【老魔女戒指】",
+      "jap": "【老魔女の指輪】",
+      "eng": "【Old Witch's Ring】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "魔女赠予的物品\r\n似乎没有特殊效果\r\n是只古老的戒指",
+      "jap": "魔女からの贈り物\r\n特に効果のない\r\n古い指輪のようだが",
+      "eng": "Gift from a witch.\r\nAncient ring with\r\nno obvious effect.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "【平民脸型】",
+      "jap": "【平民顔】",
+      "eng": "【Commoner】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "极为普遍的\r\n平民脸型",
+      "jap": "ごくありふれた\r\n平民の顔",
+      "eng": "Very average\r\ncommoner face",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "【五指河农民脸型】",
+      "jap": "【五指河の農民顔】",
+      "eng": "【Delta Farmer】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "居住在五指河流域的\r\n农民常有的脸型",
+      "jap": "五指河流域に暮らす\r\n農民によくある顔",
+      "eng": "Commonly seen face\r\nin the Fivefinger Delta",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "【亚斯特拉贵族脸型】",
+      "jap": "【アストラの貴族顔】",
+      "eng": "【Astora Noble】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "俊美的贵族脸型\r\n常见于亚斯特拉",
+      "jap": "美形の貴族顔\r\nアストラに多い",
+      "eng": "Handsome face of the refined.\r\nCommon in Astora",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "【龙学院书生脸型】",
+      "jap": "【竜学院の書生顔】",
+      "eng": "【Dragon Scholar】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "睿智而纤细的脸型\r\n不过书生脸一词\r\n多半是用来揶揄人",
+      "jap": "知的で線の細い顔\r\nただし書生顔とは\r\n多くは揶揄である",
+      "eng": "Intelligent, sharp\r\nlines, but scholarly\r\nlooks invite insult",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "【索尔隆德圣人脸型】",
+      "jap": "【ソルロンドの聖者顔】",
+      "eng": "【Thorolund Cleric】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "以居民的顽固个性\r\n闻名的圣职国度──\r\n索尔隆德的脸型",
+      "jap": "頑なさで知られる\r\n聖職者の国\r\nソルロンドの面相",
+      "eng": "Look common in\r\nThorolund, known for\r\nits stalwart clerics",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "【卡塔利纳开朗脸型】",
+      "jap": "【カタリナの陽気顔】",
+      "eng": "【Jubilant Catarina】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "有活力感的脸型\r\n此为酒与讴歌的国度\r\n卡塔利纳的形象",
+      "jap": "陽気そうな顔\r\n酒と謳歌の国\r\nカタリナのイメージ",
+      "eng": "Jovial features of\r\nCatarina, known for\r\nfestivity and drink",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "【卡利姆阴沉脸型】",
+      "jap": "【カリムの陰気顔】",
+      "eng": "【Dubious Carim】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "带有阴沉感的脸型\r\n主要是因卡利姆伯爵\r\n风评欠佳而有此形容",
+      "jap": "陰気そうな顔\r\n主にカリム伯の\r\nよからぬ風評から",
+      "eng": "Ominous features\r\nassociated with the\r\nEarl of Carim",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "【杰纳古典脸型】",
+      "jap": "【ゼナの古顔】",
+      "eng": "【Classic Zena】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "在历史悠久的杰纳\r\n很常见的古典脸型\r\n有深思熟虑的印象",
+      "jap": "歴史あるゼナに多い\r\n古めかしい面相\r\n思慮深いイメージ",
+      "eng": "Thoughtful, mature\r\nface common in\r\nhistorical Zena",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "【大沼特异脸型】",
+      "jap": "【大沼の異相】",
+      "eng": "【Eerie Great Swamp】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "与众不同特异脸型\r\n偏见会导致异端产生\r\n而异端会在大沼聚集",
+      "jap": "他と違う異形の顔\r\n偏見は異端を生み\r\n異端は大沼に至る",
+      "eng": "Great Swamp heretics\r\nface prejudice for\r\ntheir atypical looks",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "【东方国度外地脸型】",
+      "jap": "【東の異人顔】",
+      "eng": "【Far East Traveler】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "遥远东方国度脸型\r\n特征是细长的凤眼\r\n以及嘴唇较薄",
+      "jap": "はるか東の地の面相\r\n切れ長の細い目と\r\n薄い唇に特徴がある",
+      "eng": "Face from a distant\r\nEastern land of almond\r\neyes and thin lips",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "【光头】",
+      "jap": "【丸坊主】",
+      "eng": "【Shaved】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "剃得精光的\r\n光头发型",
+      "jap": "綺麗に剃り上げた\r\nスキンヘッド",
+      "eng": "Cleanly shaved\r\nbald head",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "【美人尖】",
+      "jap": "【Ｍスポット】",
+      "eng": "【Receding】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "粗犷的战士发型\r\n有沧桑感",
+      "jap": "無造作な戦士の髪型\r\n年齢を感じる",
+      "eng": "Rough warrior hair.\r\nShows age.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "【短发】",
+      "jap": "【ショート】",
+      "eng": "【Short】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "剃得短短的发型\r\n头发有点卷",
+      "jap": "短く刈り込んだ髪型\r\n緩くウェーブあり",
+      "eng": "Clipped short with\r\na slight wave",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "【后梳】",
+      "jap": "【オールバック】",
+      "eng": "【Swept Back】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "直接把长发\r\n全部梳到背后的发型",
+      "jap": "長髪をそのまま\r\n後ろに流した髪型",
+      "eng": "Long hair pulled\r\nback",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "【马尾】",
+      "jap": "【テール】",
+      "eng": "【Ponytail】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "把长发梳到背后\r\n并绑在一起的发型",
+      "jap": "長髪を後ろに流し\r\nまとめて縛った髪型",
+      "eng": "Long hair pulled\r\nback and bound",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 162,
+      "chn": "【未梳整长发】",
+      "jap": "【乱れ長髪】",
+      "eng": "【Wild】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "因为沾汗显得凌乱的\r\n自然长发",
+      "jap": "自然な長髪\r\n汗に濡れ乱れている",
+      "eng": "Natural long hair,\r\naccented by sweat",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "【中分】",
+      "jap": "【センターパート】",
+      "eng": "【Parted Center】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "悉心整理过的发型\r\n年轻人较常采用",
+      "jap": "手入れされた髪型\r\n若者に多い",
+      "eng": "Neatly kept hair,\r\ncommon for youth",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 166,
+      "chn": "【中长】",
+      "jap": "【セミロング】",
+      "eng": "【Semi-Long】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "悉心整理过的发型\r\n稍微有点长",
+      "jap": "手入れされた髪型\r\n少し長め",
+      "eng": "Neatly kept hair,\r\nslightly long",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 168,
+      "chn": "【卷发】",
+      "jap": "【巻き毛】",
+      "eng": "【Curly】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "将乱翘的卷发\r\n剪短后的发型",
+      "jap": "癖の強い巻き毛を\r\n短めに切った髪型",
+      "eng": "Sharply curled hair,\r\ncut short",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 170,
+      "chn": "【马桶盖】",
+      "jap": "【おかっぱ】",
+      "eng": "【Bobbed】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "仔细修剪造型的\r\n古老贵族发型",
+      "jap": "丁寧に形作られた\r\n古い貴族の髪型",
+      "eng": "Neatly trimmed,\r\nas the old nobility",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 172,
+      "chn": "【光头】",
+      "jap": "【丸坊主】",
+      "eng": "【Shaved】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "剃得精光的\r\n光头发型",
+      "jap": "綺麗に剃り上げた\r\nスキンヘッド",
+      "eng": "Cleanly shaved\r\nbald head",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 174,
+      "chn": "【极短发】",
+      "jap": "【ベリーショート】",
+      "eng": "【Very Short】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "像男性一般\r\n剃得短短的发型",
+      "jap": "まるで男性のように\r\n短く刈り込んだ髪型",
+      "eng": "Masculine hairstyle.\r\nClipped short.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "【波浪卷】",
+      "jap": "【ウェーブ】",
+      "eng": "【Wave】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "将乱翘的卷发\r\n剪短后的发型",
+      "jap": "癖の強い巻き毛を\r\n短めに切った髪型",
+      "eng": "Wildly curled,\r\nshort hair",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "【直发A】",
+      "jap": "【ストレートＡ】",
+      "eng": "【Straight A】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 179,
+      "chn": "修剪整齐\r\n的直发\r\n留有浏海",
+      "jap": "ばさりと切り揃えた\r\nストレートヘア\r\n前髪は残している",
+      "eng": "Squarely chopped\r\nstraight hair,\r\nwith bangs",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "【直发B】",
+      "jap": "【ストレートＢ】",
+      "eng": "【Straight B】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 181,
+      "chn": "修剪整齐的直发\r\n浏海分成\r\n左右两边",
+      "jap": "ばさりと切り揃えた\r\nストレートヘア\r\n前髪は分けている",
+      "eng": "Squarely chopped\r\nstraight hair,\r\nwith bangs parted",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 182,
+      "chn": "【马尾A】",
+      "jap": "【テールＡ】",
+      "eng": "【Ponytail A】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 183,
+      "chn": "将长发全部绑到\r\n后脑杓的发型\r\n留有浏海",
+      "jap": "長い髪をまとめ\r\n後ろで縛った髪型\r\n前髪は残している",
+      "eng": "Long hair pulled\r\nback and bound,\r\nwith bangs",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "【马尾B】",
+      "jap": "【テールＢ】",
+      "eng": "【Ponytail B】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 185,
+      "chn": "包含浏海\r\n将全部长发绑到\r\n后脑杓的发型",
+      "jap": "前髪まで含め\r\n長い髪をまとめ\r\n後ろで縛った髪型",
+      "eng": "Long hair and\r\nbangs pulled back\r\nand bound",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 186,
+      "chn": "【双马尾】",
+      "jap": "【ツインテール】",
+      "eng": "【Pigtails】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 187,
+      "chn": "将长发分边绑到\r\n左右两边的发型",
+      "jap": "長い髪をまとめ\r\n左右で縛った髪型",
+      "eng": "Long hair bound\r\non both sides",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 188,
+      "chn": "【圆发髻】",
+      "jap": "【シニヨン】",
+      "eng": "【Bun】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 189,
+      "chn": "将长发盘成\r\n圆形发髻的发型",
+      "jap": "長い髪をまとめ\r\n緩く結った髪型",
+      "eng": "Long hair,\r\nbound loosely",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 190,
+      "chn": "【编发】",
+      "jap": "【編み込み】",
+      "eng": "【Braided】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 191,
+      "chn": "将长发编成发辫的\r\n古老贵族发型",
+      "jap": "長い髪を編み込んだ\r\n古い貴族の髪型",
+      "eng": "Long braided hair,\r\nas the old nobility",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 192,
+      "chn": "【黑色】",
+      "jap": "【ブラック】",
+      "eng": "【Black】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 193,
+      "chn": "黑色的头发与眼睛\r\n常见的色调",
+      "jap": "黒色の髪と瞳\r\n一般的な色味の１つ",
+      "eng": "Black hair/eyes.\r\nBasic color.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 194,
+      "chn": "【深褐色】",
+      "jap": "【ダークブラウン】",
+      "eng": "【Dark Brown】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 195,
+      "chn": "深褐色的头发与眼睛\r\n常见的色调",
+      "jap": "暗い茶色の髪と瞳\r\n一般的な色味の１つ",
+      "eng": "Dark brown hair/eyes.\r\nBasic color.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 196,
+      "chn": "【浅褐色】",
+      "jap": "【ライトブラウン】",
+      "eng": "【Light Brown】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 197,
+      "chn": "浅褐色的头发与眼睛\r\n常见的色调",
+      "jap": "明るい茶色の髪と瞳\r\n一般的な色味の１つ",
+      "eng": "Light brown hair/eyes.\r\nBasic color.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 198,
+      "chn": "【深红色】",
+      "jap": "【ダークレッド】",
+      "eng": "【Dark Red】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 199,
+      "chn": "深红色的头发与眼睛\r\n常见的色调",
+      "jap": "暗い赤色の髪と瞳\r\n一般的な色味の１つ",
+      "eng": "Dark red hair/eyes.\r\nBasic color.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 200,
+      "chn": "【深蓝色】",
+      "jap": "【ダークブルー】",
+      "eng": "【Dark Blue】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 201,
+      "chn": "深蓝色的头发与眼睛\r\n卡利姆的常见色调",
+      "jap": "暗い青色の髪と瞳\r\nカリムに多い色味",
+      "eng": "Dark blue hair/eyes.\r\nCommon in Carim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 202,
+      "chn": "【灰色】",
+      "jap": "【グレイ】",
+      "eng": "【Gray】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 203,
+      "chn": "灰色的头发与眼睛\r\n常见于卡塔利纳北部",
+      "jap": "灰色の瞳と髪\r\n北方カタリナに多い",
+      "eng": "Gray hair/eyes.\r\nCommon in N. Catarina.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 204,
+      "chn": "【金色】",
+      "jap": "【ゴールド】",
+      "eng": "【Gold】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 205,
+      "chn": "金色的头发与眼睛\r\n是部分贵族\r\n渴望追求的色调",
+      "jap": "金色の髪と瞳\r\n一部の貴族たちが\r\n求めて止まぬ色味",
+      "eng": "Gold hair/eyes.\r\nBeloved by certain\r\nmembers of nobility.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 206,
+      "chn": "【银色】",
+      "jap": "【シルバー】",
+      "eng": "【Silver】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 207,
+      "chn": "银色的头发与眼睛\r\n有古典感\r\n目前非常少见的色调",
+      "jap": "銀色の髪と瞳\r\n古めかしく\r\nもうあまり見ない",
+      "eng": "Silver hair/eyes.\r\nConsidered antiquated\r\nin these times.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 208,
+      "chn": "【深紫色】",
+      "jap": "【ダークパープル】",
+      "eng": "【Dark Purple】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 209,
+      "chn": "深紫色的头发与眼睛\r\n是现今已灭绝的种族\r\n所有的罕见色调",
+      "jap": "暗い紫色の髪と瞳\r\n今は滅んだ種族の\r\n珍しい色味",
+      "eng": "Dark purple hair/eyes.\r\nRare color of a\r\nnear-extinct race.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 210,
+      "chn": "【红色】",
+      "jap": "【レッド】",
+      "eng": "【Red】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 211,
+      "chn": "火红的头发与眼睛\r\n是很罕见的色调",
+      "jap": "燃える赤色の髪と瞳\r\nとても珍しい色味",
+      "eng": "Burning red hair/eyes.\r\nVery rare color.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 212,
+      "chn": "#0系统",
+      "jap": "#0システム",
+      "eng": "#0System",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 213,
+      "chn": "受大王的力量影响封印中",
+      "jap": "大王の力で封印されている",
+      "eng": "Sealed by the Great Lord's power",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 214,
+      "chn": "已解开大王的封印",
+      "jap": "大王の封印が解けました",
+      "eng": "Seal of the Great Lord was broken",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 215,
+      "chn": "被深渊黑暗吞噬……",
+      "jap": "深淵の闇に飲まれた…",
+      "eng": "You were taken by the abyss",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 216,
+      "chn": "牺牲戒指已经损坏",
+      "jap": "犠牲の指輪が壊れました",
+      "eng": "Ring of Sacrifice shattered",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 217,
+      "chn": "宝贵牺牲戒指已经损坏",
+      "jap": "貴い犠牲の指輪が壊れました",
+      "eng": "Rare Ring of Sacrifice shattered",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 218,
+      "chn": "漆黑眼眸宝珠正在颤动",
+      "jap": "黒い瞳のオーブが震えている",
+      "eng": "You feel the Black Eye Orb quivering",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 219,
+      "chn": "建议滑下去",
+      "jap": "滑り降りが有効",
+      "eng": "Try sliding down",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 220,
+      "chn": "弱点在头部",
+      "jap": "弱点は頭",
+      "eng": "Weakness: Head",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 221,
+      "chn": "似乎有捷径……",
+      "jap": "ショートカットの予感…",
+      "eng": "Imminent shortcut...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 222,
+      "chn": "我想放弃了……",
+      "jap": "心が折れそうだ…",
+      "eng": "I can't take this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 223,
+      "chn": "感觉有飞龙……",
+      "jap": "飛竜の予感…",
+      "eng": "Imminent drake...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 224,
+      "chn": "前有囚徒",
+      "jap": "この先、囚人あり",
+      "eng": "Prisoner ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 225,
+      "chn": "前有铁匠",
+      "jap": "この先、鍛冶屋あり",
+      "eng": "Blacksmith ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 226,
+      "chn": "前方可以往下跳",
+      "jap": "この先、飛び降りあり",
+      "eng": "Jumping off ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 227,
+      "chn": "前面有路",
+      "jap": "この先、行く道あり",
+      "eng": "Path ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 228,
+      "chn": "在这里！",
+      "jap": "ここだ！",
+      "eng": "Here!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 229,
+      "chn": "似乎有商人……",
+      "jap": "商人の予感…",
+      "eng": "Imminent merchant...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 230,
+      "chn": "循着发光的花走",
+      "jap": "光る花をたどれ",
+      "eng": "Follow the shining flowers",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 231,
+      "chn": "树在动？",
+      "jap": "樹が動いている？",
+      "eng": "Are the trees moving?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 232,
+      "chn": "前有余烬",
+      "jap": "この先、種火あり",
+      "eng": "Ember ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 233,
+      "chn": "光耀大地……",
+      "jap": "光あれ…",
+      "eng": "Let there be light...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 234,
+      "chn": "龙在天空，人类无胜算",
+      "jap": "竜は空にあり、人に勝ち目なし",
+      "eng": "A dragon high above the sky, out of sight of the naked eye.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 235,
+      "chn": "如果有鹰眼在的话……",
+      "jap": "鷹の目がいれば…",
+      "eng": "If only Hawkeye were here...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 236,
+      "chn": "宝物",
+      "jap": "宝",
+      "eng": "Treasure",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 237,
+      "chn": "建议用神圣属性",
+      "jap": "神聖が有効",
+      "eng": "Try divine",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 238,
+      "chn": "前有铁匠",
+      "jap": "この先、鍛冶屋あり",
+      "eng": "Blacksmith ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 239,
+      "chn": "骗子",
+      "jap": "嘘つき",
+      "eng": "Liar",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 240,
+      "chn": "上方",
+      "jap": "上",
+      "eng": "Up",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 241,
+      "chn": "前有小路",
+      "jap": "この先、抜け道あり",
+      "eng": "Shortcut ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 242,
+      "chn": "前有幻影墙壁",
+      "jap": "この先、幻の壁あり",
+      "eng": "Illusory wall ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 243,
+      "chn": "前面有路",
+      "jap": "この先、行く道あり",
+      "eng": "Path ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 244,
+      "chn": "虫？",
+      "jap": "虫？",
+      "eng": "bug?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 245,
+      "chn": "前有安全地带",
+      "jap": "この先、安全地帯あり",
+      "eng": "Safe zone ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 246,
+      "chn": "前有囚徒",
+      "jap": "この先、囚人あり",
+      "eng": "Prisoner ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 247,
+      "chn": "建议用远程攻击",
+      "jap": "飛び道具が有効",
+      "eng": "Try Projectile",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 248,
+      "chn": "前有通路",
+      "jap": "この先、行く道あり",
+      "eng": "Path ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 249,
+      "chn": "要被诅咒",
+      "jap": "呪いが必要",
+      "eng": "Need curses",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 250,
+      "chn": "要有契约",
+      "jap": "契約が必要",
+      "eng": "Need covenant",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 251,
+      "chn": "似乎要往下跳……",
+      "jap": "飛び降りの予感…",
+      "eng": "Imminent jumping off...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 252,
+      "chn": "前有戒指",
+      "jap": "この先、指輪あり",
+      "eng": "Ring ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 253,
+      "chn": "建议放弃",
+      "jap": "諦めが有効",
+      "eng": "Try resignation",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 254,
+      "chn": "前面有路",
+      "jap": "この先、行く道あり",
+      "eng": "Path ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 255,
+      "chn": "似乎会掉下去……",
+      "jap": "落下の予感…",
+      "eng": "Imminent fall...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 256,
+      "chn": "快逃！",
+      "jap": "逃げろ！",
+      "eng": "Get away!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 257,
+      "chn": "如果有盾的话……",
+      "jap": "盾があれば…",
+      "eng": "Get your Shield!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 258,
+      "chn": "做得好，直走吧",
+      "jap": "よくやった。まっすぐ進め",
+      "eng": "Good job. Go straight ahead.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

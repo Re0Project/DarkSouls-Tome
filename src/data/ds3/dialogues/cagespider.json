@@ -1,6 +1,55 @@
 {
   "npc": "cagespider",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/cagespider.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/cagespider.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0交谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "又一个婆婆消失了，",
+      "jap": "消えた婆がまたひとり",
+      "eng": "Another nana disappeared",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "孙子的笼子放不了。",
+      "jap": "だから孫は、ずっと籠を背負ったまま",
+      "eng": "So the grandson carries a cage",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "孙子的笼子一直背，",
+      "jap": "孫は籠を背負ったまま",
+      "eng": "He ever has his cage",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "消失的婆婆人不见。",
+      "jap": "消えた婆は消えたまま",
+      "eng": "And nana's never coming back",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "谁能进这笼子来，替代婆婆进笼来。",
+      "jap": "誰か籠にお入りよ、婆の替わりにお入りよ",
+      "eng": "So come into the cage, and become nana's shade",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

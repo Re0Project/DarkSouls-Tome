@@ -1,6 +1,815 @@
 {
   "npc": "andre",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/andre.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/andre.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "呦，新面孔啊。",
+      "jap": "よう、新顔だな",
+      "eng": "Well, a newcomer I see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是这个祭祀场的奴仆，名叫安德烈。",
+      "jap": "俺は、この祭祀場の従僕、アンドレイ",
+      "eng": "I am Andre. I serve at this shrine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "如你所见，我是打造武器的铁匠。",
+      "jap": "見ての通り、武器を打つ鍛冶屋さ",
+      "eng": "As a humble smith, forging weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "你在寻找薪王吧？",
+      "jap": "あんた、薪の王を探すんだろう？",
+      "eng": "You're in search of the Lords of Cinder, I trust?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "这可不是一趟轻松的旅行，你一定需要强有力的武器，",
+      "jap": "それは、簡単な旅じゃあない。きっと、強い武器が必要になる",
+      "eng": "A toilsome journey I'd wager. You'll require good arms.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "所以，让我锻造你的武器吧。",
+      "jap": "だから、俺にあんたの武器を鍛えさせてくれ",
+      "eng": "Let me smith y' weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "我是铁匠，也是为此而生的啊。",
+      "jap": "俺は鍛冶屋。それだけが生きがいなのさ",
+      "eng": "I am a smith, such is my purpose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "哟，是你啊。",
+      "jap": "よう、あんたか",
+      "eng": "Ahh, well met.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "人没事就好。",
+      "jap": "まだ無事なようでなによりだ",
+      "eng": "Tis good to see y' in good health.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "那么，你想锻造哪个武器啊？",
+      "jap": "で、どの武器を鍛えればいいんだ？",
+      "eng": "What needs smithing this day?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "说到武器和防具，基本上都很耐用，",
+      "jap": "武器や防具は、基本みな丈夫だ",
+      "eng": "Weapons and protection are sturdy enough, by and large.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "不过，如果你过度使用，当然还是会坏。",
+      "jap": "だが、酷使し続ければ、当然壊れちまう",
+      "eng": "But when overused, they'll eventually break.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "所以要是耐久度下降了，就要好好修理啊，",
+      "jap": "だから、耐久度が下がってきたら、まめに修理してやってくれ",
+      "eng": "When their durability is low, repair becomes a necessity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "使用光粉，或者是去营火休息都可以。",
+      "jap": "光粉を使ってもいいし、篝火で休んでもいいからな",
+      "eng": "Use a powder, or simply rest at a bonfire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "但万一武器还是坏了，\r\n就到我这里来吧。",
+      "jap": "だが、もしそれでも武器が壊れちまったら、\r\n俺のところに持ってきな",
+      "eng": "But should chance impel them break,\r\nbring them me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我会把它修理得完好如初。",
+      "jap": "きっちりと修復してやるさ",
+      "eng": "I'll hammer 'em back into shape.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "话说回来，武器坏了，它们自己也会难受吧。",
+      "jap": "尤も、壊れちまうのは、あいつらも少しは辛いだろう",
+      "eng": "They take no pleasure in breaking, I assure y'.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "所以尽可能善待它们吧。",
+      "jap": "だからできるだけ、大事にしてやってくれよ",
+      "eng": "So, handle them with care, if y' would.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "锻造武器的方式，大致分成两类──",
+      "jap": "武器を鍛えるやり方は、大きく2つある",
+      "eng": "There are two ways to smith weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "单纯强化，还有质变强化。",
+      "jap": "単純な強化と、変質強化だ",
+      "eng": "Simple reinforcement is one, and infusion the other.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "强化很简单，\r\n不改变武器的本质，纯粹增强武器；",
+      "jap": "強化の方は単純だ。\r\n武器の性質を変えずに、その武器を強くする",
+      "eng": "Reinforcement is straight forward.\r\nIt strengthens a weapon without altering its property.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "而质变强化就是改变武器的本质，\r\n属于高级锻造。",
+      "jap": "そして変質強化は、\r\n武器の性質を変える、高度な鍛冶だ",
+      "eng": "Infusion is a more advanced form\r\nof smithing that infuses an element.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "强化要用楔形石，质变强化要用宝石，\r\n需要的材料不一样。",
+      "jap": "強化には楔石が、変質強化には貴石が、\r\nそれぞれ素材として必要だが",
+      "eng": "Reinforcement requires titanite,\r\nand infusion requires gems.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "接着就是我铁匠的工作了。",
+      "jap": "そこから先は俺の、鍛冶屋の仕事",
+      "eng": "Bring the stones, and I'll do the smithing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "不用客气，尽管交给我吧。",
+      "jap": "遠慮なく任せてくれればいいさ",
+      "eng": "It's m' purpose, after all!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "武器是战友，\r\n好好锻造的话，它绝对不会背叛你。",
+      "jap": "武器は戦友。\r\n厳しく鍛えれば、決してあんたを裏切らないぜ",
+      "eng": "In battle, y' weapons are yer only friends.\r\n Forge them well, and they won't let y' down.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "哦哦，还有一件事要告诉你。",
+      "jap": "ああ、あと1つ、伝えておくことがあった",
+      "eng": "Ahh, another matter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "如果想以宝石引起质变强化，必须要有叫作“余烬”的锻造道具。",
+      "jap": "貴石による変質強化には、種火と呼ばれる鍛冶道具が必要なんだが",
+      "eng": "Infusing weapons with gems requires a special kind of coal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "有几个特殊的宝石，仅凭我手上的余烬没办法使用。",
+      "jap": "幾つかの特別な貴石は、ここにある種火じゃあ手に負えないんだ",
+      "eng": "My humble coals won't be any use infusing more unusual gems.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "身为铁匠这样说真的很没面子，但这件事我也束手无策。",
+      "jap": "鍛冶屋としちゃあ情けない話が、こればっかりはどうしようもない",
+      "eng": "I know, it's an awful shame, but it's all I have.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "抱歉，不要太责怪我，",
+      "jap": "すまないが、あまり責めんでくれよ",
+      "eng": "Oh, please, don't give me that look.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "别看我这样，我心思可是很细腻的啊。",
+      "jap": "こう見えて繊細なんだ",
+      "eng": "Believe it or not, I'm quite thin-skinned.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "……",
+      "jap": "ハハ…ウワッハハハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "哦哦，是你啊。",
+      "jap": "ああ、あんた",
+      "eng": "Oh, by the by.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "如果你找到叫原素碎片的东西，\r\n记得拿到我这里来，",
+      "jap": "もし、エストのかけら、ってやつを見つけたら、\r\n俺のところにもってきな",
+      "eng": "If you find any Estus Shards,\r\nbring 'em 'ere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "你手上的两个原素瓶，不管哪一个我都能帮忙强化。",
+      "jap": "あんたの二つのエスト瓶、どっちでも、強化してやるからな",
+      "eng": "They can be used to reinforce either of y' Estus Flasks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "原素瓶是你们的宝物，也是维系生命与意志的东西吧？",
+      "jap": "それはあんたたちの宝、命と意志を支えるものなんだろう？",
+      "eng": "Without those flasks, you'd want for life or focus.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "而且这还能一直沿用下去，稍微下点功夫，不会有损失啊。",
+      "jap": "そして、ずっと受け継がれる。手間をかけてやって、損はないさ",
+      "eng": "And they'll always stay with y'. Why not treat 'em well?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "……",
+      "jap": "…ウワッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0获得光辉龙体石后交谈",
+      "jap": "#0話しかけた:光る竜体石入手後",
+      "eng": "#0Talk-After protagonist has obtained the Dragon Torso Stone",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "哟，是你啊，等你很久了。",
+      "jap": "よう、あんたか。待ってたぜ",
+      "eng": "Oh, you've returned. I was hoping to see y'.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "这是那个叫霍克伍德的受挫家伙，寄放在我这的。",
+      "jap": "あの心折れ野郎、ホークウッドから、預かり物だ",
+      "eng": "That crestfallen arse Hawkwood, he handed me this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "而且他离开的样子也挺奇怪的，",
+      "jap": "もっとも、ここを離れて随分と変わった感じでな",
+      "eng": "He's changed a great deal since he left this place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "他一脸悲痛，说想把这个交给你啊……",
+      "jap": "悲愴な面で、あんたに渡して欲しいとよ…",
+      "eng": "Graven of face, he asked me to give it y'.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "……对，找你就这件事而已。",
+      "jap": "…ああ、俺の用はそれだけだ",
+      "eng": "Well, now that that task is concluded...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "那么，你想要锻造什么武器？",
+      "jap": "で、どの武器を鍛えればいいんだ？",
+      "eng": "What would y' ha' me smith today?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0互动列表-选择「交出余烬」-选择「交出法兰余烬」",
+      "jap": "#0リストから選択:種火を渡す(ファランの種火)",
+      "eng": "#0Menu-Choose \"Give Coal\" & choose \"Give Farron Coal\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "哦，这个是……不死队的余烬啊。",
+      "jap": "ほう、これは…不死隊の種火か",
+      "eng": "Oh, my...this coal is from the Undead Legion...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "法兰的监视者们，就是用这余烬锻造武器……",
+      "jap": "ファランの監視者たちが、その武器を鍛えたという…",
+      "eng": "Used to forge the weapons of Farron's Abyss Watchers. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "这是贵重物品啊。竟然把这东西交给我，真令人高兴啊。",
+      "jap": "貴重なものだ。それを俺に預けてくれるとは、嬉しいじゃあないか",
+      "eng": "A fine prize. I'm honoured to be endued with it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "这下子，特殊的宝石也能用在质变强化上啦。",
+      "jap": "これで、特別な貴石も変質強化に使用できるぜ",
+      "eng": "Now I'll be equipped to infuse special gems.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "对啊，这是我第一次碰上，我已经开始技痒啦。",
+      "jap": "ああ、初体験だ。俺も太腕が鳴るってもんよ",
+      "eng": "Praise the gods, eh. Time to put this brawn to use!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "……",
+      "jap": "ウハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0互动列表-选择「交出余烬」-选择「交出老者余烬」",
+      "jap": "#0リストから選択:種火を渡す(古老の種火)",
+      "eng": "#0Menu-Choose \"Give Coal\" & choose \"Give Sage's Coal\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "哦，这个是……不死队的余烬，\r\n还有长这样的啊。",
+      "jap": "ほう、これは…不死隊の種火に、\r\nこんなものがあったのか",
+      "eng": "Well, well... What's the Undead Legion\r\ndoing with a coal such as this?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "听说法兰的监视者是靠\r\n结晶老者的碎片借得力量，",
+      "jap": "ファランの監視者には、\r\n結晶の古老の片割れが力を貸していたというが",
+      "eng": "I'd heard one of the Crystal Sages\r\nhad sided with Farron's Abyss Watchers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "看来真有这么一回事。",
+      "jap": "どうやら本当の話だったんだな",
+      "eng": "I suppose it must be true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "你啊，这可是法术余烬啊，\r\n我也是第一次看到。",
+      "jap": "あんた、これは魔法の種火だよ。\r\n俺も見るのははじめてだ",
+      "eng": "You should know, this coal is imbued with magic.\r\nFirst one I've ever seen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "因为不管做学问还是贤者，都不可能跟我扯上边吧？",
+      "jap": "学問だ賢者だと、俺が縁のあるわけもないだろう？",
+      "eng": "Hardly a surprise is it? I've never been one for books or wise men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "……",
+      "jap": "ウワッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0互动列表-选择「交出余烬」-选择「交出巨人余烬」",
+      "jap": "#0リストから選択:種火を渡す(巨人の種火)",
+      "eng": "#0Menu-Choose \"Give Coal\" & choose \"Give Giant's Coal\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "哦哦，这个是……那位巨人的余烬啊。",
+      "jap": "ああ、これは…あの巨人の種火か",
+      "eng": "My, my... The coal of that peaceable giant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "真令人怀念。不过这下子，他也不可能活命了吧……",
+      "jap": "懐かしいものだ。さすがにもう、生きちゃあいないんだろうが…",
+      "eng": "Seems like ages past. I imagine his passing was long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "真难过啊，他人还不赖的……",
+      "jap": "悲しいが、いい奴だった…",
+      "eng": "I miss the old bugger, I do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "谢啦。他留下来的余烬，我可不能浪费掉。",
+      "jap": "ありがとう。あいつの種火なら、無駄にはできねえ",
+      "eng": "My thanks. I'll be sure this coal is put to good use.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "我绝对会锻造出很棒的武器。",
+      "jap": "俺がきっと、すごい武器を鍛えてやるぜ",
+      "eng": "I'll be smithing weapons never afore seen by the likes of y'!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "对他来说，这才是最好的供养吧。",
+      "jap": "あいつにも、それが一番の供養ってもんだろう",
+      "eng": "It's but a small service, to pay my humble respects.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "……",
+      "jap": "ウワッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0互动列表-选择「交出余烬」-选择「交出罪业余烬」",
+      "jap": "#0リストから選択:種火を渡す(罪の種火)",
+      "eng": "#0Menu-Choose \"Give Coal\" & choose \"Give Profaned Coal\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "……你手上的那个余烬……",
+      "jap": "…あんた、この種火は…",
+      "eng": "Lords... Where didye hap'n upon this coal?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "太深沉了，已经是接近深渊的东西了……",
+      "jap": "暗すぎる。むしろ深淵に近いものだぜ…",
+      "eng": "This is much too dark. I see the Abyss in it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "但既然我身为铁匠，只要你开口，我就会使用它。",
+      "jap": "だが、俺は鍛冶屋だ。あんたが望めば、これを使おう",
+      "eng": "Yet, a smith I remain. I won't turn down a request.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "所以，不要忘了啊。",
+      "jap": "だから、忘れないでくれよ",
+      "eng": "But forget not,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "你正为了火以及人们战斗……而我也一样啊，",
+      "jap": "あんたは、火と人々のために戦っている。…俺だって同じだ",
+      "eng": "Your fight is for the flame, and for y' fellow kin. Just like mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "虽然身负和诅咒没什么不同的使命，\r\n但也就是这样，才有希望可言吧？",
+      "jap": "呪いのような使命でも、だからこそ、\r\nそれが希望ってものだろう？",
+      "eng": "A cursed fate this may be,\r\nbut hope remains, does it not?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "再见了，要平安无事啊。",
+      "jap": "じゃあな、無事でいろよ",
+      "eng": "Prithee, be careful.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "不然就白费我锻造的武器了。",
+      "jap": "鍛えた武器が無駄になるからな",
+      "eng": "I don't want to see m' work squandered!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "……",
+      "jap": "ウワッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "……",
+      "jap": "イテェッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "……",
+      "jap": "イテェだろうが！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "给我住手！",
+      "jap": "やめやがれっ！",
+      "eng": "Enough of that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "……",
+      "jap": "グワアアアッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "混账东西……",
+      "jap": "くそ野郎が…",
+      "eng": "Beshrew your heart...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0被击杀后复活时",
+      "jap": "#0死亡から複活した",
+      "eng": "#0Talk-Once he's been revived after dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "……你可不要会错意了。",
+      "jap": "…あんた、勘違いするなよ",
+      "eng": "Overstep not yer bounds, cousin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "就算我是奴仆，也不是你的奴隶。",
+      "jap": "従僕とて、俺はあんたの奴隷じゃねえんだ",
+      "eng": "I may serve, but I'm no slave.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "你妨碍到我工作了，快滚吧。",
+      "jap": "仕事の邪魔だ。消えてくれよ",
+      "eng": "I have business I must attend. Be gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "##……",
+      "jap": "##フン！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "##……",
+      "jap": "##フン！フン！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "##……",
+      "jap": "##フン！フン！フン！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

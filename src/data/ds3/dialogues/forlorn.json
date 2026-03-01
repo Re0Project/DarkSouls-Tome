@@ -1,6 +1,391 @@
 {
   "npc": "forlorn",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/forlorn.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/forlorn.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……啊，你好像不是禁忌者啊……",
+      "jap": "…ああ、あんた、どうやら忌み人じゃあないようだな…",
+      "eng": "Hmm, well, there's nothing forlorn about you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "那么，你该不会是另外一个灰烬吧？",
+      "jap": "だったら、もしかしてあんたが、もうひとつの灰ってやつかい？",
+      "eng": "You must be the other Ash, I suppose?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0选择「不是」",
+      "jap": "#0話しかけた:1回目・選択肢【ちがう】",
+      "eng": "#0Choose \"I am not Ash\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "……这样啊，太可惜了。",
+      "jap": "…そうか。それは、残念だ",
+      "eng": "Well, that's a rotten shame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我已经等好久了──",
+      "jap": "俺はもう、ずっと待っているのさ",
+      "eng": "I've been very patient, you see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "传说中能够燃烧艾雷德尔",
+      "jap": "言い伝えにある、ふたつの灰",
+      "eng": "The tales tell of two Ashes, who'll burn Ariandel away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "那剩下来，成对的另一个灰烬啊……",
+      "jap": "アリアンデルを焼く者たち、その残った片割れをさ…",
+      "eng": "And we need only one more...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0选择「不是」后交谈",
+      "jap": "#0話しかけた:2回目・【ちがう】選択後",
+      "eng": "#0Talk-1st time after choosing \"I am not Ash\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "……啊，是你啊。",
+      "jap": "…ああ、あんたが",
+      "eng": "Ahh, yes, well...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "如果你是另外一个灰烬就好了……",
+      "jap": "あんたが、もうひとつの灰ならよかったのになあ…",
+      "eng": "I was hoping you might be the other Ash, you see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0选择「是灰烬」",
+      "jap": "#0話しかけた:1回目・選択肢【灰だ】",
+      "eng": "#0Choose \"I am Ash\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "……哦哦，哦哦，总算来了。",
+      "jap": "…おお、おお、やっときてくれたか",
+      "eng": "Ohh, ohh, finally, you've come!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "如果你是灰烬的话，拜托你，",
+      "jap": "あんたが灰なら、お願いだ",
+      "eng": "Oh wondrous Ash, grant us our wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "就像传说中描述的一样，烧了这个世界，",
+      "jap": "言い伝えの通り、この世界を焼いてくれよ",
+      "eng": "Make the tales true, and burn this world away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "让大小姐看见火焰吧。",
+      "jap": "そしてお嬢様に、どうか火を見せてあげてくれ",
+      "eng": "My Lady must see flame, and you have only to show her.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "而且，你们灰烬是渴求火焰的人，不是吗？",
+      "jap": "だってあんたは、灰は、火を求めるものなんだろう？",
+      "eng": "You are Ash, are you not? Is it not fire that you seek?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0选择「是灰烬」后，第1次交谈",
+      "jap": "#0話しかけた:2回目・【灰だ】選択後",
+      "eng": "#0Talk-2nd time after choosing \"I am Ash\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "……你也看到了，这个世界已经败坏透了。",
+      "jap": "…あんたも見ただろう。この世界はもう、腐ってるんだ",
+      "eng": "Surely you've seen. The rot that afflicts our world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "可是那个女的却骗倒神父大人，把火藏起来，",
+      "jap": "けれどあの女は、教父様を誑かし、火を隠した",
+      "eng": "But that witch fooled the good Father, and buried the flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "白费了我们的觉悟……",
+      "jap": "我らの覚悟を、奪ったのだ…",
+      "eng": "After we had all made up our minds, too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "……所以，拜托你了，",
+      "jap": "…だからあんた、お願いだ",
+      "eng": "So, please, grant us one wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "就像传说中描述的一样，烧了这个世界，",
+      "jap": "言い伝えの通り、この世界を焼いてくれよ",
+      "eng": "Make the tales true, and burn this world away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "让大小姐看见火焰吧。",
+      "jap": "そしてお嬢様に、どうか火を見せてあげてくれ",
+      "eng": "My Lady must see flame, and you have only to show her.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0选择「是灰烬」后，第2次交谈",
+      "jap": "#0話しかけた:3回目・【灰だ】選択後",
+      "eng": "#0Talk-3rd time after choosing \"I am Ash\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "……喂，拜托你了。",
+      "jap": "…なあ、あんた、お願いだ",
+      "eng": "Oh, please, it must be you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "我很怕啊，如果我一起慢慢败坏下去，",
+      "jap": "俺は恐いんだよ。ゆるゆると腐っていくなんて",
+      "eng": "I'm so terribly frightened, of timidly rotting away...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "不就变得和外面的家伙没两样了吗……",
+      "jap": "だってそれじゃあ、外の奴らと同じじゃないか…",
+      "eng": "Like those... Like those fools on the outside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0击杀芙莉德后，第1次交谈",
+      "jap": "#0話しかけた:黒い炎のフリーデ撃破後:1回目",
+      "eng": "#0Talk-1st time after defeating Blackflame Friede",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "……啊啊，谢谢你。",
+      "jap": "…ああ、あんた、ありがとう",
+      "eng": "Ohhh, my, thank you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "我在这里都能听见火的声音了，",
+      "jap": "もうここまで、火の音が聞こえてくるよ",
+      "eng": "I can hear the crackling from here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "那阵燃烧我们的故乡──艾雷德尔的绘画的声音。",
+      "jap": "我らの故郷、アリアンデルの絵画が焼ける音が",
+      "eng": "The sound of my home, the painting of Ariandel, burning away...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0击杀芙莉德后，第2次交谈",
+      "jap": "#0話しかけた:黒い炎のフリーデ撃破後:2回目",
+      "eng": "#0Talk-2nd time after defeating Blackflame Friede",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "……为了下一个世界，必须把这败坏的世界燃烧殆尽。",
+      "jap": "…我らは、腐った世界を焼ける。次の世界のために",
+      "eng": "When the world rots, we set it afire. For the sake of the next world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "我们这么做，远比外面的家伙正派多了。",
+      "jap": "それだけでまともってものじゃないか、外の奴らよりもさ",
+      "eng": "It's the one thing we do right, unlike those fools on the outside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "……",
+      "jap": "フッフッフッフ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "……",
+      "jap": "アアッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "……",
+      "jap": "アウッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "……",
+      "jap": "ヒイィ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "……",
+      "jap": "アアッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……啊啊，这才是燃烧世界的人啊。",
+      "jap": "…ああ、あんた、それでこそ世界を焼く者だ",
+      "eng": "Yes, of course, as a burner of worlds should...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "请赐予艾雷德尔火焰，",
+      "jap": "アリアンデルに火を",
+      "eng": "Set fire to Ariandel...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "燃烧败坏事物的火焰……",
+      "jap": "腐れを焼く火を…",
+      "eng": "Set fire to the rot...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

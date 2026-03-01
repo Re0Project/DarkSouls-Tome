@@ -1,6 +1,495 @@
 {
   "npc": "cromwell",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/cromwell.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/cromwell.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "您看起来似乎有心烦事呢。",
+      "jap": "なにやら、お悩みのご様子とお見受けします",
+      "eng": "Something seems to be bothering you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "不用多说，我明白的。\r\n是啊是啊，我当然明白。",
+      "jap": "言わずともわかります\r\nええ、ええ、わかりますとも",
+      "eng": "Yes, yes, I can tell.\r\nIt is written upon your face.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "您是在忏悔自己的罪行吧。",
+      "jap": "自らの行いを悔いてなさるのでしょう",
+      "eng": "You have doubts, about something you did.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我的名字叫做克隆威尔。",
+      "jap": "私の名はクロムウェル",
+      "eng": "I am Cromwell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "懊悔、烦恼、迷惘、困惑，\r\n这真是、真是非常美妙。",
+      "jap": "悔い、悩み、迷い、惑う\r\n実に、実に素晴らしきことでございます",
+      "eng": "Regret, anguish, disillusion, bewilderment.\r\nWhat wonderful gifts they are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "那才是人生的路，\r\n您说是吧？",
+      "jap": "それこそが、人の生きる道\r\nそうでございましょう？",
+      "eng": "Together, they are the essence of life.\r\nDon't you agree?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "您是后悔了自身的罪行，并陷入迷惘当中吧？",
+      "jap": "ご自身の行いを悔い、混迷の中にあるのでしょう",
+      "eng": "But now, you are lost, bewildered by your own actions.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "真是，可悲……",
+      "jap": "なんと、お可哀そうな方…",
+      "eng": "You poor little thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "是的、是的，\r\n人类渺小、柔弱。",
+      "jap": "ええ、ええ\r\n人とは小さく、弱いものです",
+      "eng": "Yes, yes,\r\nhow tiny and frail are we.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "然而只要此人心中一片虔诚，\r\n罪过就会被赦免。",
+      "jap": "しかしその身に、一片の誠の心さえあれば\r\n罪は赦されましょう",
+      "eng": "But if your heart is yet sincere,\r\nyour sins will be forgiven.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "来吧，虔诚您的心，\r\n向我克隆威尔展示您的诚心吧。",
+      "jap": "さあ、あなたの誠の心を\r\nこのクロムウェルに示してください",
+      "eng": "Now is the chance.\r\nDemonstrate your sincerity to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目・連続で話しかけた",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "祈祷罪过的赦免吧。",
+      "jap": "罪への赦しを望みなさい",
+      "eng": "Ask that your sins be forgiven.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目・さらに連で続話しかけた",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "您的罪过将得到赦免，\r\n因我克隆威尔而赦免。",
+      "jap": "貴方の罪は赦されるのです\r\nこのクロムウェルによって",
+      "eng": "I, Cromwell,\r\nwill pardon your sins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0第1次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "来吧、来吧，向我告解您的罪过吧。",
+      "jap": "さあ、さあ、貴方の罪を聞かせてください",
+      "eng": "Now, now, confess your sins to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0第2次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "若有任何的烦恼，随时欢迎来找我。",
+      "jap": "悩みがおありなら、いつでもおいでなさい",
+      "eng": "When you face doubt, you are welcome here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "此心若虔诚，人们必获赦免。",
+      "jap": "誠の心さえあれば、人は赦されるのです",
+      "eng": "Anyone can be forgiven, as long as he is sincere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "无论是什么样的罪过。",
+      "jap": "たとえ、どのような罪であろうと",
+      "eng": "No matter how terrible the sin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "人们应该受到宽免。\r\n是的、是的。",
+      "jap": "人は赦されるべきなのです\r\nええ、ええ",
+      "eng": "Surely, we all deserve mercy,\r\nyes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0互动列表-选择「请求赦罪」",
+      "jap": "#0リストから選択:免罪をお願いする",
+      "eng": "#0Menu-Choose \"Ask for pardon\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "您要乞求赦免罪过吧，\r\n那么，向我告解您的罪过吧。",
+      "jap": "赦しを乞うのですね\r\nでは、貴方の犯した罪を告白してください",
+      "eng": "You seek indulgence?\r\nThen tell me of your transgression.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0要请求赦罪吗？选择「否」",
+      "jap": "#0【NO】を選択",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "您说不惜背负一切罪过……",
+      "jap": "罪を背負うことを厭わぬと申される…",
+      "eng": "Then, you wish to stand and face your own sins?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "祝福您的决心，\r\n以我克隆威尔之名。",
+      "jap": "その覚悟に祝福あれ\r\nこのクロムウェルの名において",
+      "eng": "Such virtuous fortitude is rare,\r\nand I sincerely commend it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0要请求赦罪吗？选择「是」",
+      "jap": "#0【YES】を選択(ソウルを支払った)",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "……您的罪过已获赦免。",
+      "jap": "…貴方の罪は赦されました",
+      "eng": "...Your sin has been forgiven.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "虔诚的赎罪之心，万万不可忘记……",
+      "jap": "誠の贖罪の心、ゆめゆめ忘れること無きよう…",
+      "eng": "May your contrition be sincere and enduring.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0信仰达到35或更高时，互动列表-选择「说话」",
+      "jap": "#0話しかけた:信仰が35以上",
+      "eng": "#0Menu-Choose \"Talk\" after attaining 35 Faith",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "这样物品就授予您。",
+      "jap": "貴方には、これを授けましょう",
+      "eng": "These are for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "人们应获赦免，\r\n无论任何人。",
+      "jap": "人は赦されるのです\r\nたとえ誰であろうと",
+      "eng": "We all deserve mercy,\r\nevery last one of us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "有任何烦恼的话，欢迎随时再来。",
+      "jap": "お悩みがあれば、またいつでも",
+      "eng": "Whenever you are ready.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "赎罪之心，万万不可忘记……",
+      "jap": "贖罪の気持ち、ゆめゆめ忘れることなきよう…",
+      "eng": "We must never forget our sins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "我永远等待着您。",
+      "jap": "いつでもお待ちしていますよ",
+      "eng": "You will always find me here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "哦……",
+      "jap": "おお…",
+      "eng": "Oh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "哦……",
+      "jap": "おお…",
+      "eng": "Oh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "哦……",
+      "jap": "おお…",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "无心之人……",
+      "jap": "心無き者よ…",
+      "eng": "You are a cold beast.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "离去吧……",
+      "jap": "去るがよい…",
+      "eng": "Be gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "求祢宽恕……",
+      "jap": "赦し給え…",
+      "eng": "Forgive this poor soul...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "哦……",
+      "jap": "おお…",
+      "eng": "Aggh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "##誓约已成为包袱，\r\n您希望解开这身包袱吗。",
+      "jap": "##誓いが重荷になられている、\r\nその枷を解き放つことをお望みなのですね",
+      "eng": "##Your covenant weighs upon you,\r\nand you yearn for freedom?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "##祝你幸运，\r\n束缚你的，已经消逝。",
+      "jap": "##幸いあれ\r\n貴方を縛るものは、消え去ったのです",
+      "eng": "##Bless you.\r\nYou are bound no longer.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "##哦、哦。您说自愿甘受苦难……",
+      "jap": "##おお、おお、あえて苦難に甘んじようと言われる…",
+      "eng": "##Ohh! You would rather endure your suffering?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "##在我克隆威尔的眼中，\r\n您的身影满是光辉啊。",
+      "jap": "##その姿、このクロムウェルには\r\n輝きに包まれて見えますぞ",
+      "eng": "##You have the glorious shine\r\nof a passionate saint.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "##赦免吧……",
+      "jap": "##赦しを…",
+      "eng": "##Forgive this poor soul...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

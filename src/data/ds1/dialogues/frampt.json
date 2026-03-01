@@ -1,6 +1,903 @@
 {
   "npc": "frampt",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/frampt.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/frampt.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0敲响第1座之钟后，靠近传火祭祀场水池时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching the location he sleeps after ringing 1st Bell of Awakening",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "鼾……鼾……",
+      "jap": "グオオ…グゴオ…",
+      "eng": "Hmgg...Hmgg...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0敲响第2座苏醒之钟后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "喔──原来敲响了苏醒之钟的人是你呀。",
+      "jap": "おお、お主か。目覚ましの鐘を鳴らしたのは",
+      "eng": "Ahh, hello. Was it you who rang the Bell of Awakening?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我是世界之蛇，寻找王者的芙拉姆特，\r\n也是葛温大王的好友。",
+      "jap": "わしは世界の蛇、王の探索者フラムト。\r\n大王グウィンの親友じゃ",
+      "eng": "I am the primordial serpent, Kingseeker Frampt,\r\nclose friend of the Great Lord Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "敲响了苏醒之钟的不死人勇者呀，",
+      "jap": "目覚ましの鐘を鳴らした、不死人の勇者よ",
+      "eng": "Chosen Undead, who has rung the Bell of Awakening.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "我要告诉你不死人所肩负的使命，",
+      "jap": "お主に、不死の使命を伝えたい",
+      "eng": "I wish to elucidate your fate,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "准备好要听了吗？",
+      "jap": "よいかな？",
+      "eng": "Do you seek such enlightenment?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "你这小子竟然……这真是令我吃惊呀。",
+      "jap": "なんと…おどろきじゃ",
+      "eng": "By the Lords...Are you certain?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "不过，搞不好是我弄错了。",
+      "jap": "だが、まあ、そうかもしれん",
+      "eng": "Well, perhaps I was wrong.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "肩负使命的不死人仅有一人，\r\n而这只代表了你不是那个人而已……就照你喜欢的去办吧。",
+      "jap": "使命の不死は1人\r\nお主が違うというだけのことじゃ…好きにするといい",
+      "eng": "There can be only one chosen Undead.\r\nI will continue my search...You are freed from duty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "话虽如此，反正你都已经敲响了苏醒之钟，",
+      "jap": "だが、折角、目覚ましの鐘を鳴らしたのじゃ",
+      "eng": "But then again, you did ring the Bell of Awakening.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "那我就在这边多待一会儿吧。\r\n你若改变心意，再和我说一声就可以了。",
+      "jap": "わしはしばらくここにいる。\r\n心変わりしたら、声をかけるがよい",
+      "eng": "I will stay here a while.\r\nSpeak with me if you should change your mind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目・【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "喔，你是怎么啦？",
+      "jap": "ほう、お主、どうしたのじゃ？",
+      "eng": "What brings you here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "你改变心意，想要来听听不死人所肩负的使命了吗？",
+      "jap": "心変わり、不死の使命を聞く気になったのかな？",
+      "eng": "Had a change of heart about your fate as an Undead?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "很好，那就听我说吧。",
+      "jap": "よかろう。ならば伝えよう",
+      "eng": "Very well. Then I am pleased to share.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "不死人勇者呀，你的使命……便是继承葛温大王。",
+      "jap": "不死人の勇者よ。お主の使命は…大王グウィンを継ぐことじゃ",
+      "eng": "Chosen Undead. Your fate...is to succeed the Great Lord Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "你得继承那位王者，让火再度燃起，\r\n赶走黑暗并消除不死人征象。",
+      "jap": "かの王を継ぎ、再び火を熾し、闇をはらい\r\n不死の徴をはらうことじゃ",
+      "eng": "So that you may link the Fire,\r\ncast away the Dark, and undo the curse of the Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "为了达成这项使命，\r\n你必须先到王都亚诺尔隆德取得王器。",
+      "jap": "そのためには、まず、王都アノール・ロンドで\r\n王の器を手に入れねばならぬ",
+      "eng": "To this end, you must visit Anor Londo,\r\nand acquire the Lordvessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0选择「是」后攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "你人平安真是太好了。",
+      "jap": "お主、息災でなによりじゃ",
+      "eng": "I am pleased to see you well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "有什么急事要来找我一谈呢？",
+      "jap": "何か火急の用かのう？",
+      "eng": "Is it something urgent?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "赛恩古城乃是人前往神国必经的考验，\r\n路途中遍布陷阱。",
+      "jap": "センの古城は、\r\n人が神の国に至る試練、罠の道じゃ",
+      "eng": "Those who seek the Realm of Lords\r\nmust brave Sen's Fortress, a deadly house of traps.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "过去也曾有无数身负使命的人挑战，但从没有人能平安归来。",
+      "jap": "かつて、何人もの使命者が挑み、誰も戻らなんだ",
+      "eng": "Many have gone before you, but none have returned.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "你可是暌违许久后出现的人呢，路上多小心呀。",
+      "jap": "お主は、久しぶりの使命者じゃ。気をつけるのじゃぞ",
+      "eng": "Fate has chosen you, but proceed with caution.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0持有王器时攀谈",
+      "jap": "#0話しかけた:王の器を入手後",
+      "eng": "#0Talk-After receiving Lordvessel from the illusion of Gwynevere",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "喔！你办到了呢！真没想到你竟然能将王器拿回来呀！",
+      "jap": "おお！お主、でかしたな！まさか、王の器を持ち帰るとは！",
+      "eng": "Heavens! You have done it! You have retrieved the Lordvessel!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "在这一千多年以来，我一直找寻的那个人终于现身了吗！",
+      "jap": "1000年を越え、ずっと探し求めていた者が、やっと現れたか！",
+      "eng": "After a thousand years! It is you, it is really you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "喔────！",
+      "jap": "ウオオオオーーーーーン！",
+      "eng": "Hraaaoogggh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "喔────！",
+      "jap": "ウオオオオーーーーーン！",
+      "eng": "Hraaaoogggh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "不好意思，我有点太兴奋了。",
+      "jap": "すまん、少し興奮してしまった",
+      "eng": "Forgive me. I really should calm down.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "既然如此，就让我来引导你前往摆放王器的场所吧。",
+      "jap": "それでは、その器のあるべき場所に、お主を案内しよう",
+      "eng": "Now, let us take that vessel on a journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "准备好了吗？那就站好别乱动了！",
+      "jap": "準備はよいな。では、じっとしておれよ！",
+      "eng": "I assume that you are ready. Now, be still!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0被芙拉姆特带到传火祭坛后",
+      "jap": "#0話しかけられた",
+      "eng": "#0After Frampt warps into the Firelink Altar for the 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "这边乃是迎接葛温大王后继者的神域。",
+      "jap": "ここは、大王グウィンの後継を迎える、神域じゃ",
+      "eng": "This is the Firelink Chamber, for the successor of Lord Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "去吧，把王器摆在那个台座上就行了。",
+      "jap": "さあ、その台に、王の器を置くがよい",
+      "eng": "Now, place the Lordvessel on the altar.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0放置王器前攀谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk-Before placing the Lordvessel in his presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "怎么啦？只要把王器摆在那个台座上就可以了。",
+      "jap": "どうしたのじゃ。その台に、王の器を置くがよい",
+      "eng": "What is it? Place the Lordvessel on the altar.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "都已经到了这种地步，应该没有什么好踌躇不决了吧？",
+      "jap": "ここまできて躊躇するものでもないじゃろう",
+      "eng": "No reason for pause at this point.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0放置王器后攀谈",
+      "jap": "#0話しかけた:王の器を祭壇に置いた後",
+      "eng": "#0Talk-After placing the Lordvessel in his presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "很好。",
+      "jap": "よろしい",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "那么，身为寻找王者的人，\r\n我芙拉姆特要将下个使命告诉你这个未来的王。",
+      "jap": "では、わしフラムトが\r\n王の器であるお主に、探索者として次の使命を伝えよう",
+      "eng": "As Kingseeker, I shall now instruct you,\r\nthe Lord's successor, in your next task.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "想要继承葛温大王，\r\n就一定要用伟大的灵魂来装满王器才行。",
+      "jap": "お主が、大王グウィンを継ぐには\r\n偉大なソウルでその器を満たさねばらぬ",
+      "eng": "To achieve your fate,\r\nfill the vessel with powerful souls,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "然而，由于那位大王的灵魂既显眼又巨大……",
+      "jap": "だが、かの王のソウルは、際立って巨大なもの…",
+      "eng": "commensurate to the great soul of Gwyn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "因此灵魂装得满王器的人，也是屈指可数。",
+      "jap": "よって、王の器を満たしうるソウルを持つものは、幾人も無い",
+      "eng": "Scarce few possess such brilliant souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "这些人包括了和葛温一样，拥有重要灵魂的王：\r\n墓王尼特、伊札里斯魔女，",
+      "jap": "すなわち、グウィンと同じ要のソウルの王\r\n墓王ニトとイザリスの魔女",
+      "eng": "Gravelord Nito,\r\nthe Witch of Izalith,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "以及那些瓜分了葛温\r\n灵魂的小隆德诸王……",
+      "jap": "そして、グウィンのソウルを分け与えられた\r\n小ロンドの王たちと…",
+      "eng": "the Four Kings of New Londo,\r\nwho inherited the shards of Gwyn's soul...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "还有大王过去的盟友──白龙希斯……",
+      "jap": "かつての大王の盟友、白竜シース…",
+      "eng": "and Lord Gwyn's former confidant, Seath the Scaleless.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "若想装满王器，就要这些灵魂。",
+      "jap": "王の器を満たすためには、それらすべてのソウルが必要じゃ",
+      "eng": "All of their souls are required to satiate the Lordvessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "这样懂了吗？",
+      "jap": "よいかな",
+      "eng": "Are you ready?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "那我们就回去了，站好别乱动喔！",
+      "jap": "それでは、戻るとしよう。じっとしておれよ！",
+      "eng": "Then we shall return. Stay still for a moment!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0放置王器后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すB・王の器を祭壇に置いた後",
+      "eng": "#0Menu-Choose \"Talk\" after placing the Lordvessel in his presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "拥有王器必要灵魂的人，\r\n全部都是若非已完成其职责，就是已误入歧途，",
+      "jap": "目的のソウルを持つものたちは\r\n何れも、既に役目を終え、あるいは道を誤っておる",
+      "eng": "The beings who possess these souls have\r\noutlived their usefulness, or have chosen the path of the wicked.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "打倒那些人并夺取灵魂，\r\n是受到世界之蛇认可的正当行为。",
+      "jap": "それらを倒し、ソウルを奪うことは\r\n世界の蛇が認める、正しい行為なのじゃ",
+      "eng": "As the primordial serpent,\r\nI implore you to defeat them, and claim their souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "完全没有任何让你操心的问题。没什么好犹豫的。",
+      "jap": "お主が気にかけることなど、なにもない。迷うでないぞ",
+      "eng": "Let there be no guilt; let there be no vacillation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0装满王器后攀谈",
+      "jap": "#0話しかけた:王の器を満たした後",
+      "eng": "#0Talk-After filling the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "喔……喔……",
+      "jap": "おお…おお…",
+      "eng": "Ahh...ohh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "王器终于装满了灵魂……",
+      "jap": "遂に、王の器が満ちた…",
+      "eng": "The Lordvessel is satiated...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "真是了不起……你无疑已是葛温的后继者，\r\n也就是新的大王了……",
+      "jap": "すばらしい…お主は正に、\r\nグウィンの後継、新しい大王じゃ…",
+      "eng": "Magnificent...You are the righteous successor to Gwyn,\r\nthe new Great Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "寻找王者的职责也要在此告一段落了……",
+      "jap": "だが、探索者の役目は、ここまでじゃ…",
+      "eng": "And I am Kingseeker no more...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "能够遇到你这小子还真令我开心呢，",
+      "jap": "お主に出会って、楽しかった",
+      "eng": "Your acquaintance was an honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "我终究是很喜欢人的呀。",
+      "jap": "やはりわしは、人が好きじゃ",
+      "eng": "I must admit, I am fond of you humans.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "但愿你今后能够有一番成就……",
+      "jap": "成就を、願っているぞ…",
+      "eng": "May you enjoy serendipity,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "千万不可让火的时代划下句点……",
+      "jap": "火の時代を終わらせてはならぬ…",
+      "eng": "And may the Age of Fire perpetuate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0在传火祭祀场时，互动列表-选择「传送」",
+      "jap": "#0リストから選択:転送",
+      "eng": "#0Menu-Choose \"Warp\" from Firelink Shrine to the Firelink Altar",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "很好。",
+      "jap": "よかろう",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "那就站好别乱动啰！",
+      "jap": "では、じっとしておれよ！",
+      "eng": "Then, stay still for a moment!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0在传火祭坛时，互动列表-选择「传送」",
+      "jap": "#0リストから選択:転送",
+      "eng": "#0Menu-Choose \"Warp\" from Firelink Altar to the Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "已经好了吗？",
+      "jap": "もうよいのか",
+      "eng": "Are you ready?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "那我们就回去了，站好别乱动喔！",
+      "jap": "それでは、戻るとしよう。じっとしておれよ！",
+      "eng": "Then we shall return. Stay still, then!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "再见了。",
+      "jap": "さらばじゃ",
+      "eng": "Farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "不死人勇者呀，我将会在此处等着你。",
+      "jap": "不死の勇者よ。わしはここで待っておるぞ",
+      "eng": "Chosen Undead. I remain here, and await thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0在芙拉姆特睡觉时靠近",
+      "jap": "#0話しかけられた:寝ている",
+      "eng": "#0After approaching his location while he is sleeping",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "鼾……鼾……",
+      "jap": "グオオ…グゴオ…",
+      "eng": "Hmgg...Hmgg...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0睡觉时受到攻击",
+      "jap": "#0話しかけられた:寝ている王の探求者フラムトを起こした",
+      "eng": "#0After being attacked while sleeping to wake him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "……嗯？嗯，没事，没事啦。",
+      "jap": "…ん？むむ、大丈夫、大丈夫じゃ",
+      "eng": "...Hm? No, no, I'm fine, I'm fine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "我可是清醒得很呢。",
+      "jap": "わしはしっかりとおきておるぞ",
+      "eng": "Well and wide awake!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "可别把我当成一条垂垂老矣的老蛇。",
+      "jap": "老蛇扱いするでないわい",
+      "eng": "Do not treat me like an old withering snake.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "噫！",
+      "jap": "むっ！",
+      "eng": "Hmg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "嗷！",
+      "jap": "ぬっ！",
+      "eng": "Hrg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "喔！",
+      "jap": "おっ！",
+      "eng": "Agh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "呜！",
+      "jap": "うおっ！",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "愚昧之徒……你绝不可能是不死人英雄。",
+      "jap": "愚か者が…お主などが、不死の英雄であるはずもない",
+      "eng": "You sorry fool...You could not be the Chosen one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "够了……我将就此睡去，并等待再一次的苏醒……",
+      "jap": "もうよい…もう眠り、再びの目覚めを待つとしよう…",
+      "eng": "Enough...I shall slumber, until I am awakened again...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "##那也是这个世界让你们这群不死人现身的理由。",
+      "jap": "##お主ら不死が現れた、世界の理由じゃ",
+      "eng": "##and the very reason your kind have appeared.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "##话你也听完了，",
+      "jap": "##よいかな",
+      "eng": "##Now that you are ready,",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "##那么，我就打开赛恩古城的大门吧，\r\n那是前往亚诺尔隆德的必经之道。",
+      "jap": "##では、アノール・ロンドへいたる道、\r\nセンの古城を開くとしよう",
+      "eng": "##I shall open Sen's Fortress,\r\nwhich leads to Anor Londo.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "##呜────！",
+      "jap": "##ウオオオオーーーーーン！",
+      "eng": "##Hraaaoogggh!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "##呜────！",
+      "jap": "##ウオオオオーーーーーン！",
+      "eng": "##Hraaaoogggh!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "##考验的路已经打开了，\r\n请面对你们这群不死人的命运吧。",
+      "jap": "##さあ、試練の道は開いた。\r\n向かうがよい、お主ら不死の運命に",
+      "eng": "##The arduous path of honour is open.\r\nGo forth, and seize your Undead destiny.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "##对了，我有件事要和你说。",
+      "jap": "##そうじゃ。1つ、伝えておこう",
+      "eng": "##Ahh, one other thing.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "##身为不死人的你，如果想保持人身而要收集人性，",
+      "jap": "##お主が、不死として人であるため、人間性を欲すのならば",
+      "eng": "##You will require humanity to remain yourself while Undead.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##我可以实现你的愿望。",
+      "jap": "##わしが願いをかなえてやろう",
+      "eng": "##This I can provide you,",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "##但要用不死人得来的灵魂来交换……",
+      "jap": "##不死として得た、ソウルの力と引き換えに、じゃがな…",
+      "eng": "##but only in trade for souls.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "##你怎么啦？",
+      "jap": "##お主、どうしたのじゃ？",
+      "eng": "##What brings you here?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "##你这个样子……根本就是游魂了啊。",
+      "jap": "##その姿は…亡者そのものではないか",
+      "eng": "##By the Lords, you may as well be a Hollow.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "##这样应该也很难达成使命吧？最好赶紧变回人。",
+      "jap": "##使命も難しかろう。はやく、人に還るがよい",
+      "eng": "##This will not do. Your humanity requires replenishment.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "##住手！",
+      "jap": "##やめろ！",
+      "eng": "##Cease.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "##还不住手！",
+      "jap": "##やめんか！",
+      "eng": "##Enough.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "##愚昧之徒！",
+      "jap": "##この愚か者が！",
+      "eng": "##Infidel.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

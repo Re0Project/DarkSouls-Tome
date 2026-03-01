@@ -1,6 +1,223 @@
 {
   "npc": "lothric",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/lothric.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/lothric.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0进入雾门，开始战斗前",
+      "jap": "#0兄王子ローリアン戦闘前",
+      "eng": "#0After traversing the fog",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "噢，又来了个习不得教训的。",
+      "jap": "ほう、懲りずにまたやってきたか",
+      "eng": "Oh dear, another dogged contender.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "欢迎汝，无火的余灰、调度薪火之人啊。",
+      "jap": "ようこそ、火の無き灰、薪の調達者よ",
+      "eng": "Welcome, Unkindled one, purloiner of cinders.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "吾是成不了王的。",
+      "jap": "だが、私は王とはならぬ",
+      "eng": "Mind you, the mantle of lord interests me none.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "不论是传火的使命，亦或是血统传承，\r\n早足以生厌。",
+      "jap": "火継ぎの使命も、王の血統も、\r\nもうたくさんだ",
+      "eng": "The fire-linking curse, the legacy of lords,\r\nlet it all fade into nothing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……为此，汝当好好歇息。",
+      "jap": "…だから貴公も、もう休むがよい",
+      "eng": "You've done quite enough, now have your rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0洛里安第1次倒下后",
+      "jap": "#0兄王子ローリアン擊破後",
+      "eng": "#0After defeating Lorian, Older Prince",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "啊，王兄……",
+      "jap": "ああ、兄上…",
+      "eng": "Oh, dear brother...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "吾就动身过去……",
+      "jap": "すぐに、おそばに…",
+      "eng": "I'm on my way...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "王兄为吾──洛斯里克王子之剑，",
+      "jap": "兄上は私の、王子ロスリックの剣",
+      "eng": "My brother, unyielding sword of Lothric's Prince.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "且请站起身来。",
+      "jap": "だから、どうぞ立ってください",
+      "eng": "Rise, if you would.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "……此为吾等的诅咒。",
+      "jap": "…それが、私たちの呪いです",
+      "eng": "...For that is our curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0洛里安再次倒下后",
+      "jap": "#0攻撃した:兄王子ローリアンのHPが0になる",
+      "eng": "#0After defeating Lorian, Older Prince again",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "啊，王兄……",
+      "jap": "ああ、兄上…",
+      "eng": "Oh, dear brother...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0击杀主角时",
+      "jap": "#0主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "此地为吾等之墓地，",
+      "jap": "ここもやがて、我らの墓所",
+      "eng": "This spot marks our grave.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "汝也放松休息便可……",
+      "jap": "貴公も、ゆっくりと休むがよい…",
+      "eng": "But you may rest here, too, if you like.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0被击杀时",
+      "jap": "#0撃破した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "灰烬啊，汝须谨记于心：",
+      "jap": "灰よ、心しておくがよい",
+      "eng": "Mark my words, Ashen one...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "汝将再度身陷诅咒……",
+      "jap": "貴公もまた、呪いに囚われているのだと…",
+      "eng": "You remain among the accursed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "##因而吾成不了王，\r\n且不论何者，皆不可成。",
+      "jap": "##だが、私は王とはならぬ。\r\n誰であれ、ままにはならぬ",
+      "eng": "##Ill-starred are they who take the throne.\r\nI shall not stand among them.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "##洛斯里克王子之剑，将赐予汝安息。",
+      "jap": "##さあ、王子ロスリックの剣をもって、貴公に死を",
+      "eng": "##The royal sword of Lothric shall grant you peace.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "##……",
+      "jap": "##アッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "##……",
+      "jap": "##アアッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "##……",
+      "jap": "##アアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "##……",
+      "jap": "##ウアアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "##……",
+      "jap": "##アアアアアッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

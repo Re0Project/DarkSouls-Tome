@@ -1,6 +1,551 @@
 {
   "npc": "mcduff",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/mcduff.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/mcduff.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "呵呵呵……",
+      "jap": "フフフ…",
+      "eng": "Meh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "怎么啦，今天真是听话啊……呵呵呵……",
+      "jap": "どうした、やけに素直ではないか…フフフ…",
+      "eng": "Oh why can't they all be this easy?...Meh heh heh",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "哼……果然够难缠！……",
+      "jap": "フン…やはりじゃじゃ馬よの…！",
+      "eng": "Hmph! Hmm! We've got a wild one here!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "乖乖听老子摆布！……还不乖乖听老子摆布！……",
+      "jap": "言うことを聞け…！言うことを聞かぬか…！",
+      "eng": "Shape up! Shape up, I say!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "哦……很好……这个好……",
+      "jap": "おお…いいぞ…これはいい…",
+      "eng": "Oh-hoh hoh hoh! That's it, yes, that's the way!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "火啊火……旺旺地烧吧……呵呵呵……",
+      "jap": "火よ…火よ…さかるがよい…フフフ…",
+      "eng": "Dear flame...how brightly you burn! Meh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "差不多该加点余烬了……",
+      "jap": "そろそろ、種火を足さねばか…",
+      "eng": "I ought to fetch a new ember...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "火啊……火啊……",
+      "jap": "火よ…火よ…",
+      "eng": "Flame, dear flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0持有将熄余烬时说话",
+      "jap": "#0話しかけた:5回目・鈍い種火を持っている",
+      "eng": "#0Menu-Choose \"Talk\" After acquiring the Dull Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "火的味道……小子身上有火的味道。",
+      "jap": "火のにおい…貴様は火のにおいがする",
+      "eng": "Flame flame...I smell flame upon you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "老子叫麦道夫\r\n有火万事足的普通铁匠。",
+      "jap": "儂はマックダフ\r\n火の他には何もいらぬただの鍛冶屋よ",
+      "eng": "I'm McDuff the blacksmith;\r\nall I want is a little flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "来，把余烬给我。",
+      "jap": "さあ、その種火を寄こせ",
+      "eng": "So, hand that ember to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "快拿来，\r\n小子。",
+      "jap": "早くしろ\r\n貴様",
+      "eng": "Right now,\r\nyou imbecile.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0将熄余烬要交付出去吗？选择「否」",
+      "jap": "#0話しかけた:5回目・選択肢【NO】",
+      "eng": "#0Menu-Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "啥!?……",
+      "jap": "なんだと…！？",
+      "eng": "What?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "哈！你是不通情理的狂人吗!!",
+      "jap": "はっ！道理もわからぬ狂人か！！",
+      "eng": "Hmph! Oh, do it yourself, then!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0将熄余烬要交付出去吗？选择「是」",
+      "jap": "#0話しかけた:5回目・選択肢【YES】",
+      "eng": "#0Menu-Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "哦、哦，\r\n这个好……好个余烬……",
+      "jap": "おう、おう\r\nこれは良い…良い種火よ…",
+      "eng": "Oh-hoh!\r\nWhat a marvellous ember!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "小子身上有矿石吧。",
+      "jap": "貴様、石は持っておるのだろうな",
+      "eng": "You've got stones, I pray.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "拿出来，帮你小子把那破铜烂铁锻打一番。",
+      "jap": "石を出せ、貴様の粗末なものを鍛え上げてやろう",
+      "eng": "Give me stones, and I'll fortify your gear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0选择「是」后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA・鈍い種火を渡したあと",
+      "eng": "#0Menu-Choose \"Talk\" 1st time, after choosing \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "火啊……火啊……",
+      "jap": "火よ…火よ…",
+      "eng": "Flame, dear flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "就算老子赌上一切，你也只会随风摆盪……",
+      "jap": "儂の全てを懸けても、貴様はただ揺らぐばかり…",
+      "eng": "I give you my all, and you waver and falter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "呵呵呵……",
+      "jap": "フフフ…",
+      "eng": "Meh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time, after choosing \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "自天地之初，人的生活离不开火……",
+      "jap": "天地の始まりから、人の営みは火と共にあった…",
+      "eng": "From the start of time, flame allowed man to flourish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "人类不断追求着火的#1原罪#3#2技艺#3。",
+      "jap": "人は火の業を求め続けておる",
+      "eng": "And even now, he devises new fiery arts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "但是……那与人常恐怕难以并存。",
+      "jap": "だが…人の理は、おそらくそれとは相容れぬものよ",
+      "eng": "But...His reason makes him doubt flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "摇曳……摆荡……",
+      "jap": "揺らぐ…揺らぐ…",
+      "eng": "And so we waver...and falter...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time, after choosing \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "火之力乃神之力……\r\n人常不可及……",
+      "jap": "火の力は、神の持つ力…\r\n人の理の及ばぬものよ…",
+      "eng": "The power of flame, power of the gods...\r\nIn the end, it is all beyond our reach.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "那么，人类因何为火着迷，\r\n得以其力为生计……",
+      "jap": "ならば何ゆえ、人は火に惹かれ、\r\nその力を業とすることができるのか…",
+      "eng": "And so, flame allures us,\r\nand we attempt to harness its power.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "火啊……火啊……",
+      "jap": "火よ…火よ…",
+      "eng": "Flame, dear flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0通过变质强化武器消费14000以上魂量后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・一定回数鍛冶屋を利用したあと",
+      "eng": "#0Menu-Choose \"Talk\" after spending 14000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "你若与火同在，老子也要恭喜你了。",
+      "jap": "貴様が火と共にあるのなら、儂も貴様を祝しよう",
+      "eng": "If you walk with flame, then I salute you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "拿着它吧。",
+      "jap": "これを持っていけ",
+      "eng": "Take these.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "离开吧……",
+      "jap": "去れ…",
+      "eng": "Be gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "火啊……火啊……",
+      "jap": "火よ…火よ…",
+      "eng": "Flame, dear flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "你不是对手。",
+      "jap": "止めておけ",
+      "eng": "Stop right there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "不要碍着老子。",
+      "jap": "邪魔をするな",
+      "eng": "Enough with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "愚昧之徒。",
+      "jap": "愚か者が",
+      "eng": "You fool.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "你要污蔑这火吗！……",
+      "jap": "火を穢すか…！",
+      "eng": "You've offended the flames!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "愚不可及……",
+      "jap": "愚か者めが…",
+      "eng": "You bloody fool.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "无聊！……",
+      "jap": "くだらん…！",
+      "eng": "Ah, what a waste!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "怕了吗……",
+      "jap": "臆したか…",
+      "eng": "You scared yet?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "火啊……",
+      "jap": "火よ…",
+      "eng": "Flame... dear flame... ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "##火啊……火啊……",
+      "jap": "##火よ…火よ…",
+      "eng": "##Flame, dear flame...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "###2（仅英文语音）把这玩意打开！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Open this thing up!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "###2（仅英文语音）我知道你听得见……#3",
+      "jap": "##…",
+      "eng": "##(No caption) I know you can hear me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "###2（仅英文语音）你！对，就你！#3",
+      "jap": "##…",
+      "eng": "##(No caption) You! Yeah, you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "###2（仅英文语音）我得回去干活了！#3",
+      "jap": "##…",
+      "eng": "##(No caption) I must get back to work.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "###2（仅英文语音）哼！真是耽误工夫。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hrmph! What a waste of time.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "###2（仅英文语音）我得回去了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I have to get back.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "###2（仅英文语音）我的火可能要灭了！#3",
+      "jap": "##…",
+      "eng": "##(No caption) My flame might die out!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

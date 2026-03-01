@@ -1,6 +1,191 @@
 {
   "npc": "oceiros",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/oceiros.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/oceiros.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0进入雾门，开始战斗前",
+      "jap": "#0戦闘前",
+      "eng": "#0After traversing the fog wall to initiate his boss fight",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哦，愚蠢之众啊，是否终将发觉，",
+      "jap": "ああ、愚者どもめ。ようやく気付いたのだろう",
+      "eng": "Ahh, you ignorant slaves. Finally taken notice, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "吾之爱子欧赛罗特──龙之子的力量。",
+      "jap": "愛しいオセロット、竜の御子の力に",
+      "eng": "Of the power of my beloved Ocelotte, child of dragons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "然则不成。",
+      "jap": "だが、そうはいかぬ",
+      "eng": "Well, I will not give him up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "吾子即为吾之一切。",
+      "jap": "この子は、私のすべてだ",
+      "eng": "For he is all that I have.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0攻击至血量低于90%时",
+      "jap": "#0攻撃した:HPが90%以下にした",
+      "eng": "#0After reaching 90% health or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "……啊啊，吾之爱子欧赛罗特，",
+      "jap": "…ああ、愛しいオセロット",
+      "eng": "Ahh, dear little Ocelotte.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "在哪？汝在哪？",
+      "jap": "どこだい？どこにいったんだい？",
+      "eng": "Where have you gone? Are you hiding from me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "快快现身，毋须恐惧。",
+      "jap": "出ておいで。何も怖いことはないんだよ",
+      "eng": "Come out, come out, don't be afraid.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "汝为龙之子，受尽恩惠而生。",
+      "jap": "だってお前は竜の御子、そう生まれついたのだから",
+      "eng": "You were born a child of dragons, what could you possibly fear?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "快快现身吧，欧赛罗特。",
+      "jap": "だから、さあ、オセロットよ",
+      "eng": "Now, now, show yourself, Ocelotte.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "欧赛罗特啊。",
+      "jap": "オセロットよ",
+      "eng": "My dear, little Ocelotte.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0攻击至血量低于70%时",
+      "jap": "#0攻撃した:HPが70%以下にした",
+      "eng": "#0After reaching 70% health or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "……",
+      "jap": "キヒイイイイイイッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0击杀主角时",
+      "jap": "#0主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "愚蠢之人，亲身尝尝吧，",
+      "jap": "愚者めが、思い知るがいい",
+      "eng": "Ignorant slaves, how quickly you forget.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0被击杀时",
+      "jap": "#0撃破した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "……",
+      "jap": "グアァァアアアアァァァアアアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "##……",
+      "jap": "##アァッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "##……",
+      "jap": "##アアッ…アッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "##……",
+      "jap": "##アッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "##……",
+      "jap": "##アァアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "##何谓吾之爱子欧赛罗特、龙之子的力量。",
+      "jap": "##愛しいオセロット、竜の御子の力を",
+      "eng": "##The strength of dear Ocelotte, child of dragons!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

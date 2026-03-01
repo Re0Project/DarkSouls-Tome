@@ -1,6 +1,231 @@
 {
   "npc": "nadalia",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/nadalia.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/nadalia.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次破坏煤炭之像",
+      "jap": "#0煤の像を破壊する:1回目",
+      "eng": "#0Destroys the ashen idol-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "#2（仅英文语音）终于…你来了…#3",
+      "jap": "やっと… 来てくれたの…",
+      "eng": "(No caption) How kind...you've come...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#2（仅英文语音）快…快到我这来…#3",
+      "jap": "早く… 早く私に会いに来てください…",
+      "eng": "(No caption) Come to me...Come, quickly...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0第2次破坏煤炭之像",
+      "jap": "#0煤の像を破壊する:2回目",
+      "eng": "#0Destroys the ashen idol-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "#2（仅英文语音）我会把你环绕#3",
+      "jap": "あなたを包み込みます",
+      "eng": "(No caption) Let me surround you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#2（仅英文语音）我会把你环绕#3",
+      "jap": "あなたを包み込みます",
+      "eng": "(No caption) Let me surround you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#2（仅英文语音）所以别再逃走了，求求你…#3",
+      "jap": "だから、逃げないで  どうか…",
+      "eng": "(No caption) Please, don't go...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第3次破坏煤炭之像",
+      "jap": "#0煤の像を破壊する:3回目",
+      "eng": "#0Destroys the ashen idol-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "#2（仅英文语音）你让我等得迫不及待#3",
+      "jap": "私は、あなたを待ち焦がれていました",
+      "eng": "(No caption) I've waited so very long for you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#2（仅英文语音）让我不停地等待…#3",
+      "jap": "私は、ずっと待っていたのに…",
+      "eng": "(No caption) It's unbearable my dear...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#2（仅英文语音）就算这样，你还是…#3",
+      "jap": "それなのに、あなたは…",
+      "eng": "(No caption) Where were you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#2（仅英文语音）没关系的，既然你已经来了…#3",
+      "jap": "でもいいの こうして来てくれたのだから…",
+      "eng": "(No caption) Oh it doesn't matter...As long as you're here...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0第4次破坏煤炭之像",
+      "jap": "#0煤の像を破壊する:4回目",
+      "eng": "#0Destroys the ashen idol-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "#2（仅英文语音）不要被骗了#3",
+      "jap": "騙されないで",
+      "eng": "(No caption) Don't be fooled...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#2（仅英文语音）不要靠近新娘娜德拉#3",
+      "jap": "花嫁ナドラに近づくべきではありません",
+      "eng": "(No caption) By the enchanting bride Nadalia...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#2（仅英文语音）快点离开这#3",
+      "jap": "ここを早く去りなさい",
+      "eng": "(No caption) Get to leave...at once...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0第5次破坏煤炭之像",
+      "jap": "#0煤の像を破壊する:5回目",
+      "eng": "#0Destroys the ashen idol-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "#2（仅英文语音）都是因为你，大家支离破碎#3",
+      "jap": "あなたのせいで、みんなバラバラ",
+      "eng": "(No caption) You've ruined us...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#2（仅英文语音）我的姐妹们不在了#3",
+      "jap": "私の姉さんたちもいなくなった",
+      "eng": "(No caption) My dear sisters were gone...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#2（仅英文语音）我需要力量#3",
+      "jap": "私には、力が必要なのです",
+      "eng": "(No caption) I require your strenth...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#2（仅英文语音）所以我需要你#3",
+      "jap": "だから、あなたが必要なのです",
+      "eng": "(No caption) I require from you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0第6次破坏煤炭之像",
+      "jap": "#0煤の像を破壊する:6回目",
+      "eng": "#0Destroys the ashen idol-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "#2（仅英文语音）啊…#3",
+      "jap": "ああ…",
+      "eng": "(No caption) After all that...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#2（仅英文语音）为什么…?#3",
+      "jap": "どうして…?",
+      "eng": "(No caption) What for...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#2（仅英文语音）我不会放开的…#3",
+      "jap": "もう離さない…",
+      "eng": "(No caption) You are mine, now...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "###2（仅英文语音）你来了啊…#3",
+      "jap": "##来てくれたのね…",
+      "eng": "##(No caption) You've finally come...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "###2（仅英文语音）我不会让你离开的#3",
+      "jap": "##もう離しはしません",
+      "eng": "##(No caption) I will never let you go...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "###2（仅英文语音）你的灵魂…请献给我吧#3",
+      "jap": "##あなたのソウルを… 捧げてください",
+      "eng": "##(No caption) I need your souls...Give them to me...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

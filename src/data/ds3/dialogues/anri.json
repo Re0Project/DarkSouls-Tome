@@ -1,6 +1,1183 @@
 {
   "npc": "anri",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/anri.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/anri.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "噢，初次见面，你好。",
+      "jap": "ああ、貴方、はじめまして",
+      "eng": "Oh, hello. How do you do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#2（男主角）#3我是亚斯特拉的安里，\r\n是无火的余灰，可能你也是吧。",
+      "jap": "私はアストラのアンリ。\r\nおそらく貴方と同じ、火の無い灰です",
+      "eng": "I am Anri of Astora.\r\nUnkindled, like you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#2（女主角）#3我是亚斯特拉的安里，\r\n是无火的余灰，可能你也是吧。",
+      "jap": "私はアストラのアンリ。\r\nおそらく貴方と同じ、火の無い灰です",
+      "eng": "I'm Anri of Astora.\r\nUnkindled, like you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "在我旁边的这位是霍拉斯，和我一同旅行的朋友。",
+      "jap": "そして、隣の彼はホレイス。旅を共にする、私の友です",
+      "eng": "This is Horace. A friend and travelling companion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "你也在寻找薪王吧？",
+      "jap": "貴方も、薪の王を探しているのでしょう？",
+      "eng": "Are you too in search of the Lords of Cinder?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "这里是活祭品之路的半途，\r\n从这里下去就是磔罚森林。",
+      "jap": "ここは生贄の道の半ば、\r\nここを降りれば磔の森です",
+      "eng": "We are well along the road of sacrifices.\r\nBelow us is the Crucifixion Woods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "穿越浸在水里的森林后，\r\n会到达不死队的故乡──法兰要塞。\r\n顺着路走，应该会抵达幽邃教堂。",
+      "jap": "水に浸かった森の先は、\r\n不死隊の故郷、ファランの城塞。\r\nそして道を辿れば、深みの聖堂に通じるでしょう",
+      "eng": "Beyond the flooded woods lies Farron Keep,\r\nhome of the Undead Legion.\r\nFurther yet is the Cathedral of the Deep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#2（男主角）#3我们正朝着深海教会──\r\n那个令人不快的艾尔德利奇的故乡前进。",
+      "jap": "私たちは聖堂を、\r\nあのおぞましいエルドリッチの故郷を、目指しています",
+      "eng": "We seek the cathedral,\r\nhome of the grim Aldrich.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#2（女主角）#3我们正朝着教堂──\r\n那个令人不快的艾尔德利奇的故乡前进。",
+      "jap": "私たちは聖堂を、\r\nあのおぞましいエルドリッチの故郷を、目指しています",
+      "eng": "We seek the cathedral,\r\nhome of the grim Aldrich.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "话说回来，我们都是寻找薪王的人，\r\n不管你正想前往何处，",
+      "jap": "ですが、貴方がどちらを目指すとしても、\r\nお互い王を探す身です",
+      "eng": "We may go our separate ways now,\r\nbut we are both seekers of lords.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "既然在同一条路上，迟早会再见面吧。\r\n届时能相互帮助就好了。",
+      "jap": "道の交わることもあるでしょう。\r\nその時には、助けあえるといいですね",
+      "eng": "The next time we cross paths,\r\none may find the other in a time of need.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "愿你的旅途路上有火指引。",
+      "jap": "貴方の旅に、火の導きのあらんことを",
+      "eng": "May the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "噢，关于他啊……",
+      "jap": "ああ、それと、彼のことですが…",
+      "eng": "Oh, yes, Horace...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "霍拉斯非常寡言。",
+      "jap": "ホレイスは、とても無口な男なのです",
+      "eng": "He's not very talkative.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#2（男主角）#3但请你不要误会，他个性正直、人也温和，\r\n的确是位值得共尽使命的骑士。",
+      "jap": "だから、誤解しないでください。\r\n彼は正しく優しい人、使命を共にするに相応しい騎士です",
+      "eng": "But don't think ill of him. He's an upstanding,\r\nkind-hearted knight, a fine partner for this gruelling journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#2（女主角）#3但请你不要误会，他个性正直、人也温和，\r\n的确是位值得共尽使命的骑士。",
+      "jap": "だから、誤解しないでください。\r\n彼は正しく優しい男、使命を共にするに相応しい騎士です",
+      "eng": "But don't think ill of him. He is an upstanding,\r\nkind-hearted knight, a fine partner for this gruelling journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……如果没有和他同行，我一定会诅咒使命吧。",
+      "jap": "…彼が共にいてくれなければ、私はきっと、使命を呪ったでしょう",
+      "eng": "Without his help, I would have cursed this onerous duty long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "这里是活祭品之路的半途，\r\n从这里下去就是磔罚森林。",
+      "jap": "ここは生贄の道の半ば、\r\nここを降りれば磔の森です",
+      "eng": "We are well along the road of sacrifices.\r\nBelow us is the Crucifixion Woods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "穿越浸在水里的森林后，\r\n会到达不死队的故乡──法兰要塞。\r\n顺着路走，应该会抵达幽邃教堂。",
+      "jap": "水に浸かった森の先は、\r\n不死隊の故郷、ファランの城塞。\r\nそして道を辿れば、深みの聖堂に通じるでしょう",
+      "eng": "Beyond the flooded woods lies Farron Keep,\r\nhome of the Undead Legion.\r\nFurther yet is the Cathedral of the Deep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "我们都是寻找薪王的人，\r\n不管你正想前往何处，",
+      "jap": "貴方がどちらを目指すとしても、\r\nお互い王を探す身です",
+      "eng": "We may go our separate ways now,\r\nbut we are both seekers of lords.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "既然在同一条路上，迟早会再见面吧。\r\n届时能相互帮助就好了。",
+      "jap": "道の交わることもあるでしょう。\r\nその時には、助けあえるといいですね",
+      "eng": "The next time we cross paths,\r\none may find the other in a time of need.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "愿你的旅途路上有火指引。",
+      "jap": "貴方の旅に、火の導きのあらんことを",
+      "eng": "May the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "噢，又见到你了。",
+      "jap": "ああ、またお会いしましたね",
+      "eng": "Oh, and we meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "我是亚斯特拉的安里，之前在活祭品之路的途中和你见过面。",
+      "jap": "先に、生贄の道半ばでお会いしました。アストラのアンリです",
+      "eng": "We spoke before on the road of sacrifices. Anri of Astora.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#2（男主角）#3你也是，人平安就好。",
+      "jap": "貴方もご無事で、なによりでした",
+      "eng": "I am well pleased to see you safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#2（女主角）#3人平安就好。",
+      "jap": "貴方もご無事で、なによりでした",
+      "eng": "I am well pleased to see you safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "我们在那之后前往幽邃教堂，\r\n但是艾尔德利奇的棺木已经一片空荡。",
+      "jap": "私たちはあの後、深みの聖堂に向かいましたが、\r\nエルドリッチの棺は空でした",
+      "eng": "We reached the Cathedral of the Deep,\r\nbut Aldrich's coffin was empty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "看来那个食人魔的目标是前往他真正的故乡。",
+      "jap": "あの人喰らいは、本当の故郷を目指したのです",
+      "eng": "The man-eater must have left for his true home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "这是空棺木里的小人偶告诉我的。",
+      "jap": "空の棺に残された小さな人形が、私に教えてくれました",
+      "eng": "The little doll in the empty coffin told me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "艾尔德利奇真正的故乡，是冷冽谷的伊鲁席尔──\r\n是座古老非常的幻影都城……",
+      "jap": "エルドリッチの本当の故郷は、冷たい谷のイルシール。\r\nとても古い、幻の都…",
+      "eng": "Aldrich is said to hail from Irithyll in the Boreal Valley,\r\nan ancient fabled city...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "巡礼者也提到过：\r\n幻影都城位于法兰要塞前方更远的地方。",
+      "jap": "そして、巡礼者の方が仰っていました。\r\n幻の都は、ファランの城塞の先にあると",
+      "eng": "A pilgrim told me that the city\r\nlies beyond Farron Keep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "于是我们只能朝那里前进了……",
+      "jap": "私たちは、そこに向かわなければなりません…",
+      "eng": "And so becomes our destination...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0返回传火祭祀场后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "艾尔德利奇真正的故乡，是冷冽谷的伊鲁席尔──\r\n是座古老非常的幻影都城……",
+      "jap": "エルドリッチの本当の故郷は、冷たい谷のイルシール。\r\nとても古い、幻の都…",
+      "eng": "Aldrich's honest home is Irithyll in the Boreal Valley,\r\nan ancient fabled city...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "巡礼者也提到过：\r\n幻影都城位于法兰要塞前方更远的地方。",
+      "jap": "そして、巡礼者の方が仰っていました。\r\n幻の都は、ファランの城塞の先にあると",
+      "eng": "A pilgrim told me that the city\r\nlies beyond Farron Keep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "于是我们只能朝那里前进了……",
+      "jap": "私たちは、そこに向かわなければなりません…",
+      "eng": "And so becomes our destination...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0到达卡萨斯的地下墓地后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "噢，见到你太好了。",
+      "jap": "ああ、貴方、よいところで出会えました",
+      "eng": "Oh, hello, how very fortunate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "你有没有看到我的朋友霍拉斯呢？",
+      "jap": "私の友、ホレイスを見ませんでしたか？",
+      "eng": "Have you seen my companion, Horace?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "说来丢脸，我们中了陷阱，之后就走散了。",
+      "jap": "お恥ずかしい話ですが、罠にはまり、はぐれてしまいました",
+      "eng": "To my shame, I was snared by a trap, and we've become separated.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "在那之后，我们就没有见过面了。",
+      "jap": "それから、まだ出会うことができないのです",
+      "eng": "I've not been able to find him since.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0选择「不知道」",
+      "jap": "#0話しかけた:1回目・選択肢【知らない】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "这样啊……",
+      "jap": "そうですか…",
+      "eng": "Yes, I see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "霍拉斯是位实力强大的骑士，就算孤身一人，也不可能被打败。",
+      "jap": "ホレイスは強い騎士です。一人でも、倒れるはずはありません",
+      "eng": "Horace is a valiant knight. He can look after himself, no question.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "他一定在某处找我吧。",
+      "jap": "きっとどこかで、私を探してくれています",
+      "eng": "He's probably searching for me right now, with twice the resolve.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "如果你见到他，请帮我告诉他",
+      "jap": "貴方、もし彼に出会えたら、お伝えください",
+      "eng": "If you happen upon him, please tell him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "……我人还在地下墓地，",
+      "jap": "…私はまだ、この地下墓にいると",
+      "eng": "That I remain in the catacombs...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "而且为了找他，我和平时一样放了七色石。",
+      "jap": "彼のために、いつものように、七色石を置いておくと",
+      "eng": "And will lay prism stones to guide him, as always.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#2（男主角）#3对，请帮我转达。拜托你，麻烦你了。",
+      "jap": "そう、お伝えください。どうか、お願いします",
+      "eng": "Please send him my word, I beg of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#2（女主角）#3对，请帮我转达。拜托你，麻烦你了。",
+      "jap": "そう、お伝えください。どうか、お願いします",
+      "eng": "Please send him word, I beg of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "愿你的旅途路上有火指引。",
+      "jap": "貴方の旅に、火の導きのあらんことを",
+      "eng": "May the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0选择「不知道」后交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-After choosing \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "如果你见到霍拉斯，请帮我告诉他",
+      "jap": "貴方、もしホレイスに出会えたら、お伝えください",
+      "eng": "If you happen upon Horace, please tell him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "……我人还在地下墓地，",
+      "jap": "…私はまだ、この地下墓にいると",
+      "eng": "That I remain in the catacombs...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "而且为了找他，我和平时一样放了七色石。",
+      "jap": "彼のために、いつものように、七色石を置いておくと",
+      "eng": "And will lay prism stones to guide him, as always.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#2（男主角）#3对，请帮我转达。拜托你，麻烦你了。",
+      "jap": "そう、お伝えください。どうか、お願いします",
+      "eng": "Please send him my word, I beg of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#2（女主角）#3对，请帮我转达。拜托你，麻烦你了。",
+      "jap": "そう、お伝えください。どうか、お願いします",
+      "eng": "Please send him word, I beg of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "愿你的旅途路上有火指引。",
+      "jap": "貴方の旅に、火の導きのあらんことを",
+      "eng": "May the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0靠近断桥时，第1次交谈",
+      "jap": "#0話しかけた:移動後:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "噢，又见到你了。",
+      "jap": "ああ、貴方、またお会いできました",
+      "eng": "Ah, hello, we meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "你有见到霍拉斯吗？",
+      "jap": "貴方、ホレイスに出会いませんでしたか？",
+      "eng": "Have you seen Horace anywhere?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0选择「不知道」或「不告诉他」后交谈",
+      "jap": "#0話しかけた:移動後:2回目・【知らない】選択後",
+      "eng": "#0Talk-2nd time after choosing \"No\" to the 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "噢，果然是这样吗……",
+      "jap": "ああ、やはりそうですか…",
+      "eng": "Oh, yes, I see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "都已经这么努力找了，还找不到人，\r\n说不定他已经不在地下墓地了……",
+      "jap": "これだけ探しても、見つからないなんて、\r\nもう彼は地下墓にいないのでしょうか…",
+      "eng": "I've searched high and low, with no luck.\r\nPerhaps he's left the catacombs.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "唉，霍拉斯，你到底人在哪里呢……",
+      "jap": "ああ、ホレイス。君は一体、どこにいってしまったんだ…",
+      "eng": "Oh, Horace. Where have you run off to?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0选择「不知道」，或遇到霍拉斯后选择「不告诉他」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【知らない】",
+      "eng": "#0Choose \"No\" to the 2nd query, or choosing \"Say nothing\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "唉，霍拉斯，你到底人在哪里呢……",
+      "jap": "ああ、ホレイス。君は一体、どこにいってしまったんだ…",
+      "eng": "Oh, Horace. Where have you run off to?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "……你该不会丢下我了吧？\r\n要是如此，也太残酷了……",
+      "jap": "…もしかして、僕を捨てたのかい？\r\nだとしたら、あんまり酷いじゃないか…",
+      "eng": "Have you abandoned me?\r\nNo, what a horrible thought...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0选择「告诉他“熏烟湖”」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【「燻りの湖」を教える】",
+      "eng": "#0Choose \"Tell of the Smouldering Lake\" to the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "噢，真的吗！",
+      "jap": "ああ、本当ですか！",
+      "eng": "Goodness me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#2（男主角）#3没想到这座地下墓地里居然有那种湖泊存在。",
+      "jap": "この地下墓の底に、そんな湖があるなんて",
+      "eng": "To think there'd be a lake so deep within these catacombs.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#2（女主角）#3没想到这座地下墓地里，居然有那种湖泊存在。",
+      "jap": "この地下墓の底に、そんな湖があるなんて",
+      "eng": "To think there'd be a lake so deep within these catacombs.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "……不过，太好了，\r\n果然霍拉斯人还活着，还在我的身边。",
+      "jap": "…でも、よかった。\r\nやはりホレイスは生きて、私の側にいたのですね",
+      "eng": "What a relief.\r\nI knew that Horace was alive, and wouldn't stray far.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "谢谢你，你是我们的恩人。",
+      "jap": "ありがとう。貴方は私たちの恩人です",
+      "eng": "Thank you. We are both in your debt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "我很想郑重向你道谢，\r\n但是现在手上只有这种东西。",
+      "jap": "しっかりとお礼をしたいのですが、\r\n今はこれくらいしかありません",
+      "eng": "This hardly expresses my gratitude,\r\nbut it'll have to do for now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "请收下吧，\r\n还有，愿你的旅途路上有火指引。",
+      "jap": "受け取ってください。\r\nそして、貴方の旅に、火の導きのあらんことを",
+      "eng": "Please, take it.\r\nAnd may the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0选择「告诉他“熏烟湖”」后交谈",
+      "jap": "#0話しかけた:移動後:2回目【「燻りの湖」を教える】選択後",
+      "eng": "#0Talk-After choosing \"Tell of the Smouldering Lake\" to the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "我接着要朝那座湖泊前进。",
+      "jap": "私は、その湖に向かいます",
+      "eng": "I will soon head to the lake.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "谢谢你，你是我们的恩人。",
+      "jap": "ありがとう。貴方は私たちの恩人です",
+      "eng": "Thank you. We are both in your debt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "愿你的旅途路上有火指引。",
+      "jap": "貴方の旅に、火の導きのあらんことを",
+      "eng": "May the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0选择「不知道」或「不告诉他」，到达幽儿希卡教会后，第1次交谈",
+      "jap": "#0話しかけた:1回目・カーサスの地下墓で【知らない】選択後",
+      "eng": "#0Talk-1st time after choosing \"No\" or \"Say nothing\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "噢，是你啊，好久不见。",
+      "jap": "ああ、貴方でしたか。お久しぶりです",
+      "eng": "Oh, I thought it might be you. Good to see you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "结果从那之后，我就再也没见过霍拉斯了。",
+      "jap": "結局あれから、ホレイスとは出会えませんでした",
+      "eng": "I never managed to find Horace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "但我身上还有身为无火的余灰、\r\n探王者的使命，",
+      "jap": "でも、私にも使命があります。\r\n火の無き灰、王の探索者として",
+      "eng": "But my duty must be done, even alone.\r\nAs an unkindled Lordseeker.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "不，应该说是为了那些孩子们，\r\n就算只剩下我孤身一人，也要完成使命。",
+      "jap": "いえ、それよりもただあの子たちのために、\r\n一人でも向かうべき使命が",
+      "eng": "For the children I knew,\r\nbless their souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "……你一定也是如此吧？",
+      "jap": "…貴方も、きっとそうなのでしょう？",
+      "eng": "We all have our reasons, don't we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "请收下这个吧，\r\n麻烦你做了件没意义的事，以此聊表心意。",
+      "jap": "これをお持ちください。\r\n貴方に無駄なお願いをしてしまった、そのお詫びと",
+      "eng": "Please, take this.\r\nRecompense for my foolish request.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#2（男主角）#3……还有，我为你祈祷：\r\n愿你的旅途一路有火引导。",
+      "jap": "…そして、祈りです。\r\n貴方の旅に、火の導きのあらんことを",
+      "eng": "And also a token of protection.\r\nMay the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#2（女主角）#3……还有，我为你祈祷：\r\n愿你的旅途路上有火指引。",
+      "jap": "…そして、祈りです。\r\n貴方の旅に、火の導きのあらんことを",
+      "eng": "And also a token of protection.\r\nMay the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0击杀霍拉斯后选择「告诉他“熏烟湖”」，到达幽儿希卡教会后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time after killing Horace & choosing \"Tell of the Smouldering Lake\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "噢，是你啊，好久不见。",
+      "jap": "ああ、貴方でしたか。お久しぶりです",
+      "eng": "Oh, I thought it might be you. Good to see you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "结果从那之后，我就再也没见过霍拉斯了。",
+      "jap": "結局あれから、ホレイスとは出会えませんでした",
+      "eng": "I never managed to find Horace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "但我身上还有身为无火的余灰、\r\n探王者的使命，",
+      "jap": "でも、私にも使命があります。\r\n火の無き灰、王の探索者として",
+      "eng": "But my duty must be done, even alone.\r\nAs an unkindled Lordseeker.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "不，应该说是为了那些孩子们，\r\n就算只剩下我孤身一人，也要完成使命。",
+      "jap": "いえ、それよりもただあの子たちのために、\r\n一人でも向かうべき使命が",
+      "eng": "For the children I knew,\r\nbless their souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "……你一定也是如此吧？",
+      "jap": "…貴方も、きっとそうなのでしょう？",
+      "eng": "We all have our reasons, don't we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0到达幽儿希卡教会后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "……噢，你是位坚强的人，居然孤身一人肩挑使命。",
+      "jap": "…ああ、貴方は強い人だ。ただ一人で、使命に向かっている",
+      "eng": "Ahh, you are brave indeed. To face your duty alone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "而我也想要效仿你。",
+      "jap": "そして私も、そうあろうと思います",
+      "eng": "I would do well to learn from you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "愿你的旅途路上有火指引。",
+      "jap": "貴方の旅に、火の導きのあらんことを…",
+      "eng": "May the flames guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "#0选择「不知道」或「不告诉他」，被逆召唤与艾尔德利奇战斗时",
+      "jap": "#0話しかけられた:カーサスの地下墓で【知らない】選択後",
+      "eng": "#0Summoned to fight Aldrich after choosing \"No\" or \"Say nothing\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 104,
+      "chn": "#2（男主角）#3……噢，是你啊。",
+      "jap": "…ああ、貴方だったのですね",
+      "eng": "Ahh, I thought it might be you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#2（女主角）#3……噢，是你啊。",
+      "jap": "…ああ、貴方だったのですね",
+      "eng": "Mmm, I thought it might be you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "那么，霍拉斯人已经……",
+      "jap": "だとしたら、ホレイスはもう…",
+      "eng": "Then I'm afraid Horace...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "……不，就算如此，我也该完成我的使命。",
+      "jap": "…いえ、だからこそ、使命を果たせねばなりません",
+      "eng": "...No, this only bolsters my resolve.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "拜托你，请你助我一臂之力，",
+      "jap": "お願いします。貴方の力を貸してください",
+      "eng": "Please. Lend me your strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "把艾尔德利奇……那个吃人的恶魔杀掉吧。",
+      "jap": "エルドリッチを、あの人喰らいの悪魔を、殺すために",
+      "eng": "Help me vanquish Aldrich, the man-eating fiend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "#0击杀霍拉斯后选择「告诉他“熏烟湖”」，被逆召唤与艾尔德利奇战斗时",
+      "jap": "#0話しかけられた:カーサスの地下墓で【「燻りの湖」を教える】選択後",
+      "eng": "#0Summoned to fight Aldrich after choosing \"Tell of the Smouldering Lake\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 111,
+      "chn": "#2（男主角）#3……噢，是你啊。",
+      "jap": "…ああ、貴方だったのですね",
+      "eng": "Ahh, I thought it might be you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "#2（女主角）#3……噢，是你啊。",
+      "jap": "…ああ、貴方だったのですね",
+      "eng": "Mmm, I thought it might be you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "……不，就算如此，我也该完成我的使命。",
+      "jap": "…いえ、だからこそ、使命を果たせねばなりません",
+      "eng": "...No, this only bolsters my resolve.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "拜托你，请你助我一臂之力，",
+      "jap": "お願いします。貴方の力を貸してください",
+      "eng": "Please. Lend me your strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "把艾尔德利奇……那个吃人的恶魔杀掉吧。",
+      "jap": "エルドリッチを、あの人喰らいの悪魔を、殺すために",
+      "eng": "Help me vanquish Aldrich, the man-eating fiend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "#0被安里召唤击杀艾尔德利奇后",
+      "jap": "#0話しかけられた:神喰らいのエルドリッチ撃破後",
+      "eng": "#0After helping defeat Aldrich",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 117,
+      "chn": "多亏有你，真的非常谢谢你。",
+      "jap": "貴方のおかげです。本当に、ありがとう",
+      "eng": "I owe this to you. Thank you. Truly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "噢，霍拉斯，我们成功了啊……",
+      "jap": "ああ、ホレイス、僕たちはやったんだよ…",
+      "eng": "Horace, we've done it, we really have...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 120,
+      "chn": "你怎么了？",
+      "jap": "貴方、どうしたのですか？",
+      "eng": "What's happened to you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 122,
+      "chn": "请快住手！",
+      "jap": "やめてください！",
+      "eng": "Please, stop this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "你已经成为游魂了啊，",
+      "jap": "貴方はもう、亡者なのですね",
+      "eng": "You've gone Hollow, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "那么，就得拜托你安静沉眠了。",
+      "jap": "ならば、むしろ静かに眠るべきだ",
+      "eng": "Then I shall put you to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "霍拉斯！也拜托你了！",
+      "jap": "ホレイス！君もお願いします！",
+      "eng": "Horace! Join me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "#0离开霍拉斯后攻击导致敌对时",
+      "jap": "#0敵対状態になった・ホレイスはいない",
+      "eng": "#0Upon being attacked & made hostile, after leaving Horace",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 128,
+      "chn": "你已经成为游魂了啊，",
+      "jap": "貴方はもう、亡者なのですね",
+      "eng": "You've gone Hollow, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "那么，就得拜托你安静沉眠了。",
+      "jap": "ならば、むしろ静かに眠るべきだ",
+      "eng": "Then I shall put you to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 131,
+      "chn": "啊啊，霍拉斯……还有大家，对不起……",
+      "jap": "ああ、ホレイス、皆、ごめんよ…",
+      "eng": "Oh, Horace, everyone, forgive me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "只有我自己一个人……什么事……都办不到啊……",
+      "jap": "僕一人じゃ、何も、できなかった…",
+      "eng": "I was weak on my own...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "#0目睹霍拉斯死亡时",
+      "jap": "#0話しかけられた:沈黙の騎士ホレイスが先に死亡した",
+      "eng": "#0After becoming hostole & the protagonist kills Horace in front of Anri",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 134,
+      "chn": "啊，霍拉斯，为什么……",
+      "jap": "ああ、ホレイス、どうして…",
+      "eng": "Oh, Horace, why...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "连你也要弃我而去吗……",
+      "jap": "君も、私をおいていくのか…",
+      "eng": "Don't leave me, not you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "那些孩子们也是，你也是……",
+      "jap": "あの子たちと同じように、君までが…",
+      "eng": "Not like the others...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "啊啊，霍拉斯、霍拉斯……",
+      "jap": "ああ、ホレイス、ホレイス…",
+      "eng": "Oh, Horace, Horace...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "#0离开霍拉斯后，或目睹霍拉斯死亡后被击杀时",
+      "jap": "#0殺害した:沈黙の騎士ホレイスが先に死亡したている",
+      "eng": "#0Upon dying, after leaving Horace, or killing Horace in front of Anri",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 139,
+      "chn": "……",
+      "jap": "クウッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "对不起，霍拉斯……",
+      "jap": "ごめん、ホレイス…",
+      "eng": "Forgive me, Horace...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "我要……丢下你一个人了……",
+      "jap": "君を、独りにしてしまうね…",
+      "eng": "It pains me...to leave you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "##……",
+      "jap": "##アッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "##……",
+      "jap": "##オォッ…！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "##请赐予我们火的庇佑！",
+      "jap": "##私たちに火の加護を！",
+      "eng": "##And may the flames watch over us!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "##……",
+      "jap": "##アァ…！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "##噢噢，成功了……",
+      "jap": "##ああ、やりました…",
+      "eng": "##Yes...we did it...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

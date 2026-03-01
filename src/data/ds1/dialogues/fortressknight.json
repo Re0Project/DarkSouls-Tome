@@ -1,6 +1,623 @@
 {
   "npc": "fortressknight",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/fortressknight.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/fortressknight.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "啊，什么？什么？你是？",
+      "jap": "あ、なんだ？なんだ？お前は？",
+      "eng": "Ah, what? What? Who are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……哦，是不死人啊，想要挑战赛恩古城，真是不自量力啊。",
+      "jap": "…ああ、そうか、不死だな。無謀にも、センの古城に挑んだ",
+      "eng": "Ahh, another Undead, eh? I took on Sen's Fortress alone...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我也和那些失败的家伙一样，\r\n太高估自己的能力了。",
+      "jap": "俺や、あの成れの果てたちと同じだ。\r\n過信した、自分の力を",
+      "eng": "But I'm no different from those vile creatures...\r\nI was driven by conceit...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "说了你大概也不信邪，还是会想去试试看吧？",
+      "jap": "だが、言っても信じまい。したいのだろう？悪あがきを",
+      "eng": "Ahh, you think you're different? That you can handle it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "嗯，我懂的，没错，我也一样。",
+      "jap": "ああ、わかるぞ。そうだった。俺もそうだった",
+      "eng": "Yes, I remember that feeling. For I was the same.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "……所以我会帮你，高兴吧。我会卖你要的东西。",
+      "jap": "…だから、協力してやる。喜べよ。必要なものを売ってやるよ",
+      "eng": "...So, let me help you out. With your soul-searching.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "啊，是你啊。",
+      "jap": "あ、ああ、お前か",
+      "eng": "Hm, ah, oh you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "没想到你还活着啊。",
+      "jap": "まだ無事か。思わなかったな",
+      "eng": "Still alive? That's a surprise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "有想要的吗？有的话就买吧。",
+      "jap": "何か欲しいんだろう？だったら、また売ってやる",
+      "eng": "Anything you want? What's mine is yours, but at a price!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "啊……是你，是你吧。",
+      "jap": "あ…ああ、お前か。お前だな",
+      "eng": "Hm...Oh, yes, it's you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "怎么，有想要的？你想要哪个？",
+      "jap": "どうした？欲しいのか、まだ何か、何かあるのか",
+      "eng": "What is it? Still something you need, eh, anything at all?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "……我没什么话可以和你说的。",
+      "jap": "…お前と、話すことなどない",
+      "eng": "There's nothing more to say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我已经没救了，你也很快会和我一样。",
+      "jap": "俺は、もう終わっている。お前も、すぐそうなる",
+      "eng": "I'm finished. We're both on the brink, you see?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "就这样。你现在不会懂的。",
+      "jap": "それだけだ。分からないさ、まだ",
+      "eng": "End of story. You bloody fool.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "……好吧，我给你个忠告。",
+      "jap": "…そうだな、ひとつアドバイスしてやろう",
+      "eng": "Let me give you a nibble of advice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "你绝对不可以去亚诺尔隆德。",
+      "jap": "お前では、絶対に行けない。あの、アノール・ロンドには",
+      "eng": "Don't even consider visiting Anor Londo. Not in your state.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "我很清楚，这百年来都这样。",
+      "jap": "俺は知ってるんだ。もう100年もそうだ",
+      "eng": "For a century, they have tried, and failed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "不管是骑士王伦德尔，还是黑铁的塔尔卡斯，\r\n即便是罗根也不成。",
+      "jap": "騎士王レンドルも、黒鉄のタルカスも、\r\nあのローガンでさえ",
+      "eng": "The Knight King Rendal, Black Iron Tarkus,\r\nand even Logan himself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "像你这家伙更不可能，绝对不可能。",
+      "jap": "お前ごときが、どうもできん。できてたまるものか",
+      "eng": "You won't stand a chance. You'll be eaten alive.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "所以你就好好努力闯吧。\r\n越是深入，你得到的绝望就越深。",
+      "jap": "だから、せいぜいあがけばいい\r\nその方が、また深くなる。絶望もな",
+      "eng": "But, go along, if you wish.\r\nIf only to deepen your despair!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "……喔，我卖的东西是吗？",
+      "jap": "…ああ、俺が売ってるものか？",
+      "eng": "Where do I get all my things?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "当然是从那些像你一样，\r\n自以为是英雄的人的尸骸上扒下来啊。",
+      "jap": "もちろん、剥ぎ取ったのさ\r\nお前みたいな、英雄気取りの死体からな",
+      "eng": "Stripped off the corpses\r\nof fools like yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "要在变成游魂之前把装备扒下来，\r\n可是很危险的工作。",
+      "jap": "危ないんだぜ\r\n亡者になって、動く前に剥ぎ取らなきゃ、大変だからな",
+      "eng": "It isn't easy.\r\nI have to catch them just before they go Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "别担心。你的装备我一定会去扒的，\r\n我会看着你扭曲的表情慢慢扒。",
+      "jap": "心配するな。しっかりもらってやるよ、お前のだって\r\n歪んだ顔を眺めながら",
+      "eng": "Don't worry. I'll be there to claim your trinkets.\r\nGazing at your final twisted grimace!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "嘿嘿嘿嘿",
+      "jap": "ググググググッ",
+      "eng": "Gee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0第1次未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった):A",
+      "eng": "#0Menu-Choose \"Leave\" 1st time without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "没想要的啊。",
+      "jap": "なにもなしか",
+      "eng": "Nothing at all?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "没差，你尽管逞强，再绝望到死吧。",
+      "jap": "いいさ、せいぜい強がって、絶望して果ててくれ",
+      "eng": "Fine then, rush in like a naked babe, and be skinned alive!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0第2次未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった):B",
+      "eng": "#0Menu-Choose \"Leave\" 2nd time without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "逞强啊。居然不买。",
+      "jap": "強がりか。いらんとは",
+      "eng": "So, you're that good? Don't need a thing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "算了。我就等着听你亡命的哀嚎。",
+      "jap": "まあいい。待ってるぜ。あんたの死声を",
+      "eng": "Bah. It won't be long, before you're begging for mercy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0第1次完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした):A",
+      "eng": "#0Menu-Choose \"Leave\" 1st time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "再见啦，就好好努力闯吧。",
+      "jap": "じゃあ、せいぜいあがくんだな",
+      "eng": "Go along, try and make something of yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "我以前也一样。反正行不通的。",
+      "jap": "俺もそうだった。どうせだめなものを",
+      "eng": "But nothing will come of it. And I should know!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0第2次完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした):B",
+      "eng": "#0Menu-Choose \"Leave\" 2nd time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "喔，要出发了吗。大家都一样，鲁莽啊。",
+      "jap": "ほう、いくか。蛮勇だな、皆そうだ",
+      "eng": "There you go, another brave soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "你马上会明白，你和我们没两样的。",
+      "jap": "今に分かる。お前も俺たちと同じなんだ",
+      "eng": "But soon you shall see...You and I are no different...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "你马上会明白的……",
+      "jap": "今に思い知るのさ…",
+      "eng": "Yes, yes, you soon shall see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "明白了就好……",
+      "jap": "思い知ればいいのさ…",
+      "eng": "...the putrid fate we both share...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "……啊？",
+      "jap": "…あ？",
+      "eng": "...Hmm?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "……啊，嗯……我知道。",
+      "jap": "…あ、ああ。わかってるさ",
+      "eng": "...Hm, fine, fine. I understand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "我还正常。",
+      "jap": "俺はまともだ",
+      "eng": "I have my head about me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "啊啊",
+      "jap": "お゛お゛っ",
+      "eng": "Hrgro!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "啊啊",
+      "jap": "あ゛あ゛っ",
+      "eng": "Hrgrah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "咕喔",
+      "jap": "ぐおっ",
+      "eng": "Hrgroah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "咕哇",
+      "jap": "ぐわっ",
+      "eng": "Hrgaw!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "你到底在搞什么啊啊啊啊！",
+      "jap": "何のつもりだ、お前はぁぁぁぁつ！",
+      "eng": "What the devil's got into you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "咕喔喔喔喔喔！",
+      "jap": "ぐおおおおおっ！",
+      "eng": "Hrrgrrrroooggh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "啊啊啊！",
+      "jap": "ごがあっ！",
+      "eng": "You hrggraaaghh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "呜啊啊……",
+      "jap": "ごああっ…",
+      "eng": "Hrrggahh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "啊啊……不要啊……",
+      "jap": "ああっ…嫌だっ…",
+      "eng": "Ahhh...help me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "##……呃呃……",
+      "jap": "##…うう…",
+      "eng": "##...Hrrg...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "##……呜呜呜呜呜呜……",
+      "jap": "##…うううううう…",
+      "eng": "##...Rrgggg...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "##……咕呜呜呜呜呜呜呜呜……",
+      "jap": "##…ぐうううううううう…",
+      "eng": "##...Rrrrrgggg...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "##……呜喔喔喔喔喔喔喔喔喔……",
+      "jap": "##…ぐおおおおおおおおっ…",
+      "eng": "##...Hrrrggaaaagghhh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "##……快想……快记住……",
+      "jap": "##…かんがれろ…おぼれろ…",
+      "eng": "##...think, think...remember...remember",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "##……数什么都好……快数……",
+      "jap": "##…なんでいい…かぞれろ…",
+      "eng": "##...remember...count, count...yeah count...count",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "##一，二，三，四，五，六，七……怎么……",
+      "jap": "##…いち、にぃ、さん、しぃ、ごう、ろう、な、な…なんでいぃ…",
+      "eng": "##...one, two, three, four, five, six, seven...argh...hrgggg",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "##……咕呜呜呜呜呜呜呜呜……",
+      "jap": "##…ぐぬぬぬぬぬぬうっ…",
+      "eng": "##...Hrrgggggggg!!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "##怎么了？",
+      "jap": "##どうした？",
+      "eng": "##What is it?",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,511 @@
 {
   "npc": "giantsmith",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/giantsmith.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/giantsmith.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你是谁？",
+      "jap": "あんた、誰？",
+      "eng": "Who are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "武器要冶炼？",
+      "jap": "武器、鍛えるか？",
+      "eng": "Forge your weapons?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "喔，你啊。",
+      "jap": "お。あんた",
+      "eng": "Mng. Hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "武器，我会冶炼。",
+      "jap": "武器、鍛えるぞ",
+      "eng": "Forge, I can!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "随时都行。",
+      "jap": "いつでもばんぜん",
+      "eng": "Strong, I am!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "说话，我不行。",
+      "jap": "話す、苦手",
+      "eng": "Talk, 'tis no good.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "冶炼，我拿手。",
+      "jap": "鍛えるの、得意",
+      "eng": "But forge...very good!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "随时都行。",
+      "jap": "いつでもばんぜん",
+      "eng": "I help anytime.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "说话，我不行。",
+      "jap": "話す、苦手",
+      "eng": "Talk, 'tis no good.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "人，没有。",
+      "jap": "誰も、いない",
+      "eng": "No-one home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "不见了。",
+      "jap": "いなくなった",
+      "eng": "Everyone gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "你来了。",
+      "jap": "あんた、くる",
+      "eng": "But you, friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "你说话。",
+      "jap": "あんた、話す",
+      "eng": "You talk,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我没话。",
+      "jap": "何もない",
+      "eng": "I no talk,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "没话，也不错。",
+      "jap": "ないけど、いいか",
+      "eng": "but happy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0互动列表-第4次选择「交谈」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "你来了。",
+      "jap": "あんた、くる",
+      "eng": "You come,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "武器，我冶炼。",
+      "jap": "武器、鍛える",
+      "eng": "I forge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "亮亮的，亮亮的。",
+      "jap": "キラキラキラキラ",
+      "eng": "Shiny-shiny.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "你拿公爵的亮亮的来。",
+      "jap": "こーしゃく様の、キラキラあれば",
+      "eng": "Get shiny from Duke.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "我会做亮亮的武器。",
+      "jap": "キラキラ武器、できるぞ",
+      "eng": "Forge weapons, make shiny.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "好高兴。",
+      "jap": "うれしい",
+      "eng": "More happy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0互动列表-第5次选择「交谈」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "你来了。",
+      "jap": "あんた、くる",
+      "eng": "You come,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "武器，我冶炼。",
+      "jap": "武器、鍛える",
+      "eng": "I forge,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "说话。",
+      "jap": "話す",
+      "eng": "we talk.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "不寂寞。",
+      "jap": "寂しくない",
+      "eng": "You good friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "好快乐。",
+      "jap": "楽しいぞ",
+      "eng": "I very happy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0持有结晶余烬时攀谈",
+      "jap": "#0話しかけた:結晶の種火を入手後",
+      "eng": "#0Talk-After obtaining the Crystal Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "啊！这个，我知道。",
+      "jap": "お。それ、知ってるぞ",
+      "eng": "Mng. What's that?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "亮亮的，亮亮的。",
+      "jap": "キラキラ、キラキラ",
+      "eng": "Shiny-shiny.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "有这个，",
+      "jap": "それ、あれば",
+      "eng": "Give me that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "我会做亮亮的武器。",
+      "jap": "キラキラ武器、できるぞ",
+      "eng": "I make weapons shiny.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0您要将结晶余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:結晶の種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Crystal Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "这个，不给我……",
+      "jap": "それ、ないか…",
+      "eng": "Hmph, 'tis pity...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0您要将结晶余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:結晶の種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Crystal Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "有这个，",
+      "jap": "これ、あれば",
+      "eng": "I hath shiny-shiny,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "我会做亮亮的武器！",
+      "jap": "キラキラ武器、できるぞ！",
+      "eng": "I make weapons shiny!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "请再来。",
+      "jap": "またこい",
+      "eng": "Cometh soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "请再来。",
+      "jap": "またこい",
+      "eng": "Cometh soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0走开中断对话",
+      "jap": "#0話しかけられた:キャラクターから離れる",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "呃，嗯？",
+      "jap": "あ、あれ？",
+      "eng": "Mng, hmng?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "欢迎。",
+      "jap": "おかえり",
+      "eng": "Hello again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "好痛。",
+      "jap": "いてぇ",
+      "eng": "Oww.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "你干么？很痛耶。",
+      "jap": "いてぇぞ、あんた",
+      "eng": "Oww, that hurts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "你！",
+      "jap": "あんた！",
+      "eng": "Oi!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "不饶你！",
+      "jap": "許さねえぞ！",
+      "eng": "Stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "你……",
+      "jap": "あんた…",
+      "eng": "You weak.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "喔，喔喔喔……",
+      "jap": "お、おおお…",
+      "eng": "Angh, uggghh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "我会……？",
+      "jap": "これ、どうなる…？",
+      "eng": "Nighty-night...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

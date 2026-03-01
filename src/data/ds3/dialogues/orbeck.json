@@ -1,6 +1,1703 @@
 {
   "npc": "orbeck",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/orbeck.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/orbeck.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，真令我吃惊啊，没想到会有人造访。",
+      "jap": "…ほう、驚いたな。こんなところに訪問者とは",
+      "eng": "Well, this is unexpected. I don't often have visitors.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "那么，你有什么事？",
+      "jap": "それでお前、何用だ？",
+      "eng": "What do you want?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "你也看到了，这里是我的书斋。",
+      "jap": "見ての通り、ここは俺の書斎でね",
+      "eng": "This is my study that you've happened upon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "没事的话，我想继续安静看书啊。",
+      "jap": "何もなければ、静かな読書に戻りたいのだよ",
+      "eng": "If you haven't any business, I've reading to get back to.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0选择「没有什么事」",
+      "jap": "#0話しかけた:1回目・選択肢【特に何もない】",
+      "eng": "#0Choose \"Nothing\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "……哦，是吗。",
+      "jap": "…ほう、そうか",
+      "eng": "Yes, I see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "那么，快走吧。",
+      "jap": "ならば、もう行ってくれ",
+      "eng": "On your way, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "这里是我的书斋，我想继续安静看书了。",
+      "jap": "ここは俺の書斎、静かな読書に戻りたいのだよ",
+      "eng": "This is my study, and I've plenty of reading to do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0选择「没有什么事」后交谈",
+      "jap": "#0話しかけた:2回目・【特に何もない】選択後",
+      "eng": "#0Talk-After choosing \"Nothing\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "……哦，是你啊，真烦人。",
+      "jap": "…ほう、お前、煩いな",
+      "eng": "Oh, enough of you, already.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "你真的有事找我？",
+      "jap": "俺に何か、用でもできたのか？",
+      "eng": "Do you have business with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0智力未达到10时，选择「想要学习魔法」",
+      "jap": "#0話しかけた:1回目・選択肢【魔術を学びたい】・理力が10未満",
+      "eng": "#0Choose \"Ask to learn sorceries\" with 9 Intelligence or less",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "……哦，这还真有趣。",
+      "jap": "…ほう、それは面白い",
+      "eng": "How intriguing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "……别想了，你不适合魔法，",
+      "jap": "…やめておけ、お前は魔術には向かぬ",
+      "eng": "You'd better not. Sorcery is not for everyone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "也不需要勉强自己去学。",
+      "jap": "それに、無理に学ぶものでもない",
+      "eng": "And should never be forced.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "你有你的路，但不是魔法这一条。",
+      "jap": "お前にはお前のやり方があり、だがそれは魔術ではない",
+      "eng": "You have your own methods. Sorcery need not be one of them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "就是这样。",
+      "jap": "それだけのことさ",
+      "eng": "Don't let it bother you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……你走吧。",
+      "jap": "…さあ、もう行けよ",
+      "eng": "Be on your way, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "无火的余灰，你必然有你的使命吧？",
+      "jap": "火の無い灰だ、きっと使命があるのだろう？",
+      "eng": "You're Unkindled. Shouldn't you get back to your duty?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0智力未达到10时，选择「想要学习魔法」后交谈",
+      "jap": "#0話しかけた:2回目・【魔術を学びたい】選択後・理力が10未満",
+      "eng": "#0Choose \"Ask to learn sorceries\" with 9 Intelligence or less",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "……哦，你不放弃啊。",
+      "jap": "…ほう、お前、退かぬのだな",
+      "eng": "Oh, I thought you'd already given up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "但是别想了，你不适合魔法。",
+      "jap": "だが、やめておけ。お前は魔術には向かぬ",
+      "eng": "Well, nothing has changed. You're not inclined for sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "学习魔法就是这么一回事。",
+      "jap": "そういうものなんだ、魔術ってのはな",
+      "eng": "It is either a natural fit, or no fit at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "……你走吧。",
+      "jap": "…さあ、もう行けよ",
+      "eng": "Be on your way, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "无火的余灰，你必然有你的使命吧？",
+      "jap": "火の無い灰だ、きっと使命があるのだろう？",
+      "eng": "You're Unkindled. Shouldn't you get back to your duty?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0智力未达到10时，选择「想要学习魔法」后，智力达到10或更高后交谈",
+      "jap": "#0話しかけた:3回目・【魔術を学びたい】選択後、未満から10以上にした",
+      "eng": "#0Choose \"Ask to learn sorceries\" after returned with 10 Intelligence or more",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "……哦，你有什么事吗？",
+      "jap": "…ほう、お前、何があった？",
+      "eng": "Well, well... There's something different about you, isn't there?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "……那好吧。",
+      "jap": "…まあ、よかろう",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "没错，我是魔法师，也可以教你点东西。",
+      "jap": "確かに、俺は魔術師。お前に教えることもできる",
+      "eng": "Indeed, I am a sorcerer. With plenty to share.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "不过呢……",
+      "jap": "だがな…",
+      "eng": "However...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "有人会自以为是英雄，就要求我无偿劳动。",
+      "jap": "英雄気取りで、当然に無償の奉仕を要求する",
+      "eng": "What champion demands service without recompense?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#2（男主角）#3你应该不是这种男人吧？",
+      "jap": "お前は、そんな男ではないのだろう？",
+      "eng": "Clearly, you are not that sort of man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#2（女主角）#3你应该不是这种女人吧？",
+      "jap": "お前は、そんな女ではないのだろう？",
+      "eng": "Clearly, you are not that sort of woman.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "……不是的话，答应我一件事情。",
+      "jap": "…だったら、ひとつ約束してくれ",
+      "eng": "So, you will make me a promise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "我可以教你，但你要把知识带来，",
+      "jap": "俺がお前に教える替わりに、お前は俺に知識を届ける",
+      "eng": "That in exchange for my teaching, you will bring me knowledge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "也就是记载魔法奥秘的卷轴，把它带来给我。",
+      "jap": "魔術の秘が記された、スクロールを持ってきてくれるとね",
+      "eng": "In the form of scrolls detailing sorcery's secrets.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "……如何？办得到吗？",
+      "jap": "…どうだ？約束できるか？",
+      "eng": "Well? Can you assure me of this?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0智力达到10或更高时，选择「想要学习魔法」",
+      "jap": "#0話しかけた:1回目・選択肢【魔術を学びたい】・理力が10以上",
+      "eng": "#0Choose \"Ask to learn sorceries\" with 10 Intelligence or more",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "……哦，这还真有趣。",
+      "jap": "…ほう、それは面白い",
+      "eng": "How intriguing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "……那好吧。",
+      "jap": "…まあ、よかろう",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "没错，我是魔法师，也可以教你点东西。",
+      "jap": "確かに、俺は魔術師。お前に教えることもできる",
+      "eng": "Indeed, I am a sorcerer. With plenty to share.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "不过呢……",
+      "jap": "だがな…",
+      "eng": "However...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "有人会自以为是英雄，就要求我无偿劳动。",
+      "jap": "英雄気取りで、当然に無償の奉仕を要求する",
+      "eng": "What champion demands service without recompense?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#2（男主角）#3你应该不是这种男人吧？",
+      "jap": "お前は、そんな男ではないのだろう？",
+      "eng": "Clearly, you are not that sort of man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#2（女主角）#3你应该不是这种女人吧？",
+      "jap": "お前は、そんな女ではないのだろう？",
+      "eng": "Clearly, you are not that sort of woman.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "……不是的话，答应我一件事情。",
+      "jap": "…だったら、ひとつ約束してくれ",
+      "eng": "So, you will make me a promise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "我可以教你，但你要把知识带来，",
+      "jap": "俺がお前に教える替わりに、お前は俺に知識を届ける",
+      "eng": "That in exchange for my teaching, you will bring me knowledge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "也就是记载魔法奥秘的卷轴，把它带来给我。",
+      "jap": "魔術の秘が記された、スクロールを持ってきてくれるとね",
+      "eng": "In the form of scrolls detailing sorcery's secrets.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "……如何？办得到吗？",
+      "jap": "…どうだ？約束できるか？",
+      "eng": "Well? Can you assure me of this?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0选择「办不到」",
+      "jap": "#0話しかけた:1回目・選択肢【できない】",
+      "eng": "#0Choose \"Make no promise\" to either the 3rd or 4th query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "#2（男主角）#3……我不讨厌坦白的男人，",
+      "jap": "…正直な男は嫌いじゃあない",
+      "eng": "I can respect an honest man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#2（女主角）#3……我不讨厌坦白的女人，",
+      "jap": "…正直な女は嫌いじゃあない",
+      "eng": "I can respect an honest woman.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "但是我已经\r\n受够无偿劳动了。",
+      "jap": "だが俺はもう、\r\n無償の奉仕はうんざりなんだ",
+      "eng": "But I've already put in more than\r\nmy fair share of gratuitous service.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "……你走吧。",
+      "jap": "…さあ、もう行けよ",
+      "eng": "Be on your way, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "等你回心转意，再来找我。",
+      "jap": "そしてもし気が変わったら、戻ってくるといい",
+      "eng": "Though you're welcome back if you change your mind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0选择「办不到」后交谈",
+      "jap": "#0話しかけた:2回目・【できない】選択後",
+      "eng": "#0Talk-After choosing \"Make no promise\" to either the 3rd or 4th query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "……哦，回心转意了吗？",
+      "jap": "…ほう、お前、気が変わったのか？",
+      "eng": "Have you changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "我可以教你，但你要把知识带来，",
+      "jap": "俺がお前に教える替わりに、お前は俺に知識を届ける",
+      "eng": "If I am to teach you, you are to fetch me knowledge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "也就是记载魔法奥秘的卷轴，把它带来就好。",
+      "jap": "魔術の秘が記された、スクロールを持ってきてくれると",
+      "eng": "In the form of scrolls detailing the secrets of sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "就是这样，办得到吗？",
+      "jap": "そう、約束できるか？",
+      "eng": "Can you make this promise?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0选择「办得到」",
+      "jap": "#0話しかけた:1回目・選択肢【約束できる】",
+      "eng": "#0Choose \"Make a promise\" to either the 3rd or 4th query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "……很好。",
+      "jap": "…よかろう",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "你也不是蠢蛋，应该明白承诺的轻重。",
+      "jap": "お前は愚者ではない。約束の重みは分かっていよう",
+      "eng": "You are no fool. I take it you understand the weight of a promise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "我是彼海姆的欧贝克。",
+      "jap": "俺はヴィンハイムのオーベック",
+      "eng": "I am Orbeck of Vinheim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "无火的余灰，我就传授你魔法吧。",
+      "jap": "火の無い灰、お前に魔術を教えよう",
+      "eng": "Unkindled one, I shall teach you sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "哼哼，模仿学院也不赖嘛……",
+      "jap": "まあ、学院の真似事も悪くないさ…",
+      "eng": "We will learn together, it shall be like our very own school.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "你是什么意思？",
+      "jap": "お前、なんのつもりだ？",
+      "eng": "What's the meaning of this?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "现在住手还来得及喔。",
+      "jap": "やめるなら今のうちだぞ",
+      "eng": "Stop while you're still ahead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "啧，听不进去啊。",
+      "jap": "チイッ、聞く耳なしか",
+      "eng": "Is that how it is?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "唉，那就没办法了。",
+      "jap": "まあ、だったら仕方ない",
+      "eng": "Then we are through and done.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "只好让你闭嘴了！",
+      "jap": "静かにしてもらうとしよう！",
+      "eng": "Enjoy your long sleep!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "……唉，我还是很讨厌杀人啊……",
+      "jap": "…ああ、やはり嫌なものだ、殺しってのは…",
+      "eng": "Gods, this business never did agree with me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "……",
+      "jap": "ウアアアアァッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "我还真的退步了……",
+      "jap": "俺としたことが、鈍っちまったな…",
+      "eng": "I've lost...my touch...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "哦，你回来了啊。",
+      "jap": "ああ、お前、戻ったんだな",
+      "eng": "Oh, you're back, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "再提醒你，我是彼海姆的欧贝克，能传授你魔法。",
+      "jap": "改めて、俺はヴィンハイムのオーベック。お前に魔術を教えよう",
+      "eng": "Again, I'm Orbeck of Vinheim, here to teach you sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "但是你要先记住，\r\n关于魔法师的理想，所谓龙的二元性……",
+      "jap": "だが、まずは心得だな。\r\n魔術師の理想、竜の二相についてだが…",
+      "eng": "Let us begin with the basics.\r\nThe ideal sorcerer bears the twin faces of the dragon...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "……别一脸嫌弃嘛。",
+      "jap": "…そんなに嫌な顔をするなよ",
+      "eng": "...Oh, you could at least act as if you're paying attention!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "哈哈哈。",
+      "jap": "ハッハッハッ",
+      "eng": "(laugh)",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0返回传火祭祀场后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "哦，你回来了啊。",
+      "jap": "ああ、お前、戻ったんだな",
+      "eng": "Back again, I see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "既然你跟我搭话，代表你想学魔法吧？",
+      "jap": "俺に声をかけるんだ、魔術を学びたいんだろう？",
+      "eng": "I suppose this means that you're after sorceries?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0返回传火祭祀场后，第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "哦，你回来了啊。",
+      "jap": "ああ、お前、戻ったんだな",
+      "eng": "Back again, I see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "你来得正好，我正想要休息一下。",
+      "jap": "だが、丁度よかった。一息いれようと思ってたのさ",
+      "eng": "Perfect timing, too. I'm in need of a diversion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0返回传火祭祀场后，第4次交谈",
+      "jap": "#0話しかけた:特殊",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "嗯？怎么吗？你是忘了什么吗？",
+      "jap": "うん、どうした？何か忘れていたのか？",
+      "eng": "Oh, what is it? Forgot something?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "还真是不令我意外。",
+      "jap": "まったく、お前らしいな",
+      "eng": "That would be quite like you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "……",
+      "jap": "ハッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\"-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 97,
+      "chn": "……抱歉，你可能会嫌我烦，但你可别忘了。",
+      "jap": "…しつこくして済まんが、忘れないでくれよ",
+      "eng": "I don't mean to seem overbearing, but have you forgotten?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "我可以教你，但你要把知识带来，",
+      "jap": "俺がお前に教える替わりに、お前は俺に知識を届ける",
+      "eng": "In exchange for my sorceries, you are to bring me knowledge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "就是记载魔法奥秘的卷轴，把它带来给我。",
+      "jap": "魔術の秘が記された、スクロールを持ってきてくれると",
+      "eng": "In the form of scrolls detailing the secrets of sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "这是你自己许下的承诺啊。",
+      "jap": "お前はそう、約束したのだからな",
+      "eng": "I hope you're not one to break a promise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\"-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 102,
+      "chn": "……喂，你把承诺忘了吗？",
+      "jap": "…なあ、お前、約束を忘れているのか？",
+      "eng": "Have you forgotten our agreement?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "我现在很饥渴──对魔法的饥渴。",
+      "jap": "俺は飢えてる。魔術にだ",
+      "eng": "I am starved. For sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "我可不打算无偿劳动……",
+      "jap": "もう、無償の奉仕はごめんだぜ…",
+      "eng": "Come now, I've been charitable long enough.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\"-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "再提醒你，我是彼海姆的欧贝克，能传授你魔法。",
+      "jap": "改めて、俺はヴィンハイムのオーベック。お前に魔術を教えよう",
+      "eng": "Again, I'm Orbeck of Vinheim, here to teach you sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "但是你要先记住，\r\n关于魔法师的理想，所谓龙的二元性……",
+      "jap": "だが、まずは心得だな。\r\n魔術師の理想、竜の二相についてだが…",
+      "eng": "Let us begin with the basics.\r\nThe ideal sorcerer bears the twin faces of the dragon...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "……别一脸嫌弃嘛。",
+      "jap": "…そんなに嫌な顔をするなよ",
+      "eng": "...Oh, you could at least act as if you're paying attention!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "哈哈哈。",
+      "jap": "ハッハッハッ",
+      "eng": "(laugh)",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "#0主角非魔法师出身，交出卷轴后，学习3个魔法，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すD・魔術を3つ購入後",
+      "eng": "#0Menu-Choose \"Talk\" after giving him one scroll & purchasing 3 spells",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 111,
+      "chn": "哦，有个东西要给你。",
+      "jap": "ああ、ひとつ渡すものがあるんだ",
+      "eng": "Oh, I have something for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "你也差不多到了可以自称魔法师的境地，",
+      "jap": "お前ももう、魔術師と呼んでいい頃だからな",
+      "eng": "You're a fine sorcerer now, no mistake.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "也该拥有这个证明了。",
+      "jap": "その証を持つべきだろう",
+      "eng": "You should have something to prove it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "收下吧，难得我送人东西不求回报喔。",
+      "jap": "とっておけよ。俺がタダでくれてやるなど、滅多にないのだからな",
+      "eng": "Go on. If I'm giving something away, you'd better well take it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "……",
+      "jap": "ハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "#0学习法兰快剑/放出声响/密探/致命白雾后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すE・隠密系魔術を購入後",
+      "eng": "#0Menu-Choose \"Talk\" Aural Decoy/Farron Flashsword/Pestilent Mist/Spook",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 117,
+      "chn": "……你喜欢嬉戏吗？",
+      "jap": "…お前、児戯に興味はあるか？",
+      "eng": "How do you like gimmicks, friend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "这是消除声响的魔法师标记，\r\n也是一种暗号。",
+      "jap": "これは音を消す魔術師の符牒、\r\nある種の暗号さ",
+      "eng": "This is a sign, a cipher employed by sorcerers\r\nwho use quietude to their advantage.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "有了这个，\r\n就算不认识彼此，也不会互相为敌。",
+      "jap": "これがあれば、\r\n俺たちは互いを知らず、だが互いを敵としない",
+      "eng": "With this, you can be sure to tell friend\r\nfrom foe from your very first encounter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "虽然这已经是太久远的老规矩，",
+      "jap": "尤も、もはや古いしきたりに過ぎないが",
+      "eng": "It's a very old practice at this point...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "但是你早就得到认识它的资格，我才会告诉你。",
+      "jap": "お前ももう、知る資格があるだろうからな",
+      "eng": "...but one that you deserve to know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "#0学习法兰快剑/放出声响/密探/致命白雾后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すF",
+      "eng": "#0Menu-Choose \"Talk\"-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 123,
+      "chn": "……我曾是彼海姆的密探。",
+      "jap": "…俺は、ヴィンハイムの隠密だったんだ",
+      "eng": "In Vinheim, I was an assassin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "是披着魔法师的外皮，干着拿钱办事的杀手。",
+      "jap": "名ばかりの魔術師、金で売られる殺し屋さ",
+      "eng": "A sorcerer only in name, a killer for hire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "当时我真是太蠢了，\r\n还坚信有朝一日我能学到正统的魔法。",
+      "jap": "バカだったからな。\r\nそれでも、いつか真っ当な魔術を学べると思っていた",
+      "eng": "What a fool I was,\r\nthinking one day I would learn real sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "结果成了不死人，被逐出学院……",
+      "jap": "そして不死となり、学院を追放され…",
+      "eng": "When I became Undead, I was exiled from the school.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "但在这里，我反而能接触到魔法的奥秘。",
+      "jap": "だがここで、この俺が、魔術の秘に触れている",
+      "eng": "But here I am, now, exploring the depths of sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "都是拜你所赐……",
+      "jap": "すべて、お前のおかげさ…",
+      "eng": "All thanks to you, I might add.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "#0学习全部魔法后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すG・全ての魔術を購入後",
+      "eng": "#0Menu-Choose \"Talk\" after purchasing all spells",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 130,
+      "chn": "#2（男主角）#3……你是个了不起的男人，",
+      "jap": "…お前は、すごい男だな",
+      "eng": "You are no ordinary man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "#2（女主角）#3……你是个了不起的女人，",
+      "jap": "…お前は、すごい女だな",
+      "eng": "You are no ordinary woman.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "居然学会这么多的魔法。",
+      "jap": "あれだけの魔術を、すべて学んじまった",
+      "eng": "All these sorceries, and you've mastered every one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "如果在龙学院，你一定会……",
+      "jap": "ここが竜の学院なら、お前は…",
+      "eng": "If this were the Dragon School, you'd be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "……不，八成会遭到严重排挤，再被学院放逐吧。",
+      "jap": "…いや、きっと酷く疎まれ、追放されちまっただろうな",
+      "eng": "..well, overtly despised, and banished from the place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "哈哈哈。",
+      "jap": "ハッハッハッ",
+      "eng": "(laugh)",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "……不过，嗯，时机也差不多成熟了。",
+      "jap": "…だが、まあ、そろそろ潮時かもしれないな",
+      "eng": "Well, I suppose it's time I packed my bags.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "是我没办法继续履行承诺。",
+      "jap": "何より俺は、もうお前との約束を守れそうにない",
+      "eng": "I would hate to see our agreement end sourly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "我不希望这样。",
+      "jap": "そんなのは嫌なんだよ",
+      "eng": "Better left tucked away, as a pleasant memory.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "#0尤莉雅到达传火祭祀场后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すH・ロンドールのユリアが火継ぎの祭祀場にいる",
+      "eng": "#0Menu-Choose \"Talk\" after Yuria arrived in Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 140,
+      "chn": "……喂，你可不要随便杀人啊。",
+      "jap": "…ああ、お前は、みだりに人を殺すなよ",
+      "eng": "It is folly to claim lives recklessly, friend. Do not be tempted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "不管对方是谁，你又夺走谁的性命，总有一天都会有报应。",
+      "jap": "それが誰であれ、あるいは誰の命であれ、いつか報いがあるものだ",
+      "eng": "No matter the victim's stature, every killing has a consequence.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "我弄脏了双手，却没发觉这个真理。",
+      "jap": "俺は、手を汚しながら、そんなことにも気づかなかったのさ",
+      "eng": "Even as I bloodied my hands, I never realised this simple truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "哼，还真是个蠢蛋……",
+      "jap": "フン、正に愚者よ…",
+      "eng": "Hmph. There I was, the very definition of a fool...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "#0互动列表-选择「交出卷轴」-选择「交出老者卷轴」",
+      "jap": "#0リストから選択:スクロールを渡す(古老のスクロール)",
+      "eng": "#0Menu-Choose \"Give Sorcery Scroll\" & choose \"Give Sage's Scroll\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 145,
+      "chn": "哦，这……真让我吃惊。",
+      "jap": "ほう、これは…驚いたな",
+      "eng": "Oh, my... This is stupendous.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "没想到还有\r\n未知的法兰不死队魔法。",
+      "jap": "ファランの不死隊に、\r\nまだ知らぬ魔術があったとは",
+      "eng": "Then the Undead Legion of Farron\r\npossesses sorceries quite unknown.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "谢谢你，你的确有遵守承诺。",
+      "jap": "ありがとう、お前は約束を守ってくれた",
+      "eng": "Thank you, for upholding your end of the bargain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "就算我在那儿花费再多时间，\r\n也不会知道这个吧。",
+      "jap": "俺があそこで、どれだけ時を費やしても、\r\nこれを知ることはなかったろう",
+      "eng": "I doubt I ever would\r\nhave made this discovery alone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "好了，来解读吧。\r\n新的魔法必定会对你有用处。",
+      "jap": "さあ、解読するぜ。\r\n新しい魔術は、きっとお前の役にも立つはずさ",
+      "eng": "Now, let us unravel the thing,\r\nso you may put these new sorceries to use.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "……",
+      "jap": "フハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "#0互动列表-选择「交出卷轴」-选择「交出罗根卷轴」",
+      "jap": "#0リストから選択:スクロールを渡す(ローガンのスクロール)",
+      "eng": "#0Menu-Choose \"Give Sorcery Scroll\" & choose \"Give Logan's Scroll\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 152,
+      "chn": "……你找到一个不得了的东西啊。",
+      "jap": "…お前、すごいものを見つけたな",
+      "eng": "Oh, my! You've made quite the discovery!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "这是那位大帽子罗根的卷轴，",
+      "jap": "これは、かのビッグハット、ローガンのスクロールだ",
+      "eng": "This is a scroll of the prodigious Big Hat Logan.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "是远古彼海姆失传的伟大魔法。",
+      "jap": "古くヴィンハイムが失った、偉大な魔術",
+      "eng": "A masterful sorcerer, long missed in Vinheim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "没想到像我这种人，也有接触它的一天……",
+      "jap": "まさかこの俺が、それに触れることができるとはな…",
+      "eng": "And now, we have his scroll, right here in my very hands.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "#0互动列表-选择「交出卷轴」-选择「交出结晶卷轴」",
+      "jap": "#0リストから選択:スクロールを渡す(結晶のスクロール)",
+      "eng": "#0Menu-Choose \"Give Sorcery Scroll\" & choose \"Give Crystal Scroll\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 157,
+      "chn": "……真是不敢相信。",
+      "jap": "…信じられん",
+      "eng": "Unfathomable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "这是结晶魔法，\r\n是只存在传说中的白龙力量……",
+      "jap": "これは、結晶の魔術。\r\n伝承の中にしかない、白い竜の力だ…",
+      "eng": "This is a crystal sorcery, created by the pale dragon,\r\nthought only to exist in legend...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "感谢你，这可是神秘啊。",
+      "jap": "お前に、感謝する。これは神秘だ",
+      "eng": "I am ever grateful to you. This is truly sublime. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "我拿不出能报答你的东西……",
+      "jap": "俺には、これに報いる何物もないが…",
+      "eng": "I am afraid this is a debt I cannot repay, only...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "但是我会竭尽全力解读它，你等着吧。",
+      "jap": "だが全力で解読してみせるぜ。待っててくれよ",
+      "eng": "I will be sure to unravel it for you. Just a moment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 162,
+      "chn": "#0互动列表-选择「交出卷轴」-选择「交出黄金卷轴」",
+      "jap": "#0リストから選択:スクロールを渡す(黄金のスクロール)",
+      "eng": "#0Menu-Choose \"Give Sorcery Scroll\" & choose \"Give Golden Scroll\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 163,
+      "chn": "哦，这……可稀奇了，",
+      "jap": "ほう、これは…珍しいな",
+      "eng": "Oh, my... This is very unusual.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "居然是远古的黄金魔法国度──乌拉席露。",
+      "jap": "古い黄金の魔術の国、ウーラシールとは",
+      "eng": "It's from Oolacile, an ancient land of golden sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "八成连龙学院都没有\r\n失传这么久的魔法卷轴。",
+      "jap": "これほどの、失われた魔術のスクロールなど、\r\n竜の学院にもあるまいよ",
+      "eng": "Not even the Dragon School\r\npossesses such a long-lost scroll.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 166,
+      "chn": "黄衣研究者要是看到它，\r\n必定会垂涎三尺",
+      "jap": "黄衣の探究者が見たら、\r\nきっと涎を垂らすだろうな",
+      "eng": "What would the xanthous scholars say,\r\nwith their ridiculous headwear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "……而且戴着那个奇妙的头冠垂涎喔。",
+      "jap": "…あの奇態な頭冠でな",
+      "eng": "They would simply slaver over this find.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 168,
+      "chn": "哈哈哈。",
+      "jap": "ハッハッハッ",
+      "eng": "(laugh)",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "#0互动列表-第1次选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れてA",
+      "eng": "#0Menu-Choose \"Leave\"-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 170,
+      "chn": "再见啦。",
+      "jap": "じゃあな",
+      "eng": "Come again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "#0互动列表-第2次选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れてB",
+      "eng": "#0Menu-Choose \"Leave\"-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 172,
+      "chn": "喂，要记得遵守承诺啊。",
+      "jap": "なあお前、約束を違えるなよ",
+      "eng": "Don't forget what you promised.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "#0互动列表-第3次选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れてC",
+      "eng": "#0Menu-Choose \"Leave\"-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 174,
+      "chn": "祝你顺风。",
+      "jap": "お前、無事でいろよ",
+      "eng": "Promise to stay safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "#0互动列表-第4次选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れてD",
+      "eng": "#0Menu-Choose \"Leave\"-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 176,
+      "chn": "喂，祝你顺风。",
+      "jap": "なあ、お前、無事でいろよ",
+      "eng": "Promise to stay safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "说是模仿学院，我也做得很开心啊……",
+      "jap": "学院の真似事も楽しかったぜ…",
+      "eng": "It's been nice running our own little school.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 179,
+      "chn": "你是怎么了？",
+      "jap": "お前、どうしたんだ？",
+      "eng": "What is this about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 181,
+      "chn": "你疯了吗？",
+      "jap": "おかしくなっちまったのか？",
+      "eng": "Have you lost your wits?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 182,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 183,
+      "chn": "看来没救了。",
+      "jap": "もうだめみたいだな",
+      "eng": "Seems it's too late.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "唉，那就没办法了。",
+      "jap": "まあ、だったら仕方ない",
+      "eng": "Then, there's only one thing to do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 185,
+      "chn": "很可惜，一切到此为止吧！",
+      "jap": "残念だが、ここで終わりにしよう！",
+      "eng": "With regret, I will end this here and now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 186,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 187,
+      "chn": "……啊啊，我还是逃不过这个下场……",
+      "jap": "…ああ、結局こうなるのか、俺は…",
+      "eng": "Gods, what have I done...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 188,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 189,
+      "chn": "……",
+      "jap": "ウアアアアァッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 190,
+      "chn": "你为什么……",
+      "jap": "お前、どうして…",
+      "eng": "But, why...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 191,
+      "chn": "东西用完了，就要丢了是吗……",
+      "jap": "もう、用済みってことかよ…",
+      "eng": "Is that all that I'm worth?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 192,
+      "chn": "#0主角交出所有卷轴后，欧贝克击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した:特殊",
+      "eng": "#0Upon killing the protagonist, after giving him all 4 sorcery scrolls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 193,
+      "chn": "再见了，那些模仿学院的事情，我做得很开心啊……",
+      "jap": "じゃあな。学院の真似事も楽しかったぜ…",
+      "eng": "Farewell. We had a nice little school going.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 194,
+      "chn": "#0主角学习全部魔法后，欧贝克被击杀时",
+      "jap": "#0殺害した:特殊",
+      "eng": "#0Upon dying, after giving him all 4 sorcery scrolls & purchasing all spells",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 195,
+      "chn": "……",
+      "jap": "アアアアアァッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 196,
+      "chn": "也……好……",
+      "jap": "まあ、いい…",
+      "eng": "So be it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 197,
+      "chn": "我的梦也作够了……",
+      "jap": "俺には、十分な幻だったさ…",
+      "eng": "It was nice while it lasted...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 198,
+      "chn": "##……",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 199,
+      "chn": "##……",
+      "jap": "##ンッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 200,
+      "chn": "##可恶，竟然在这种地方……",
+      "jap": "##クソッ、こんなところで…",
+      "eng": "##Curses, how could this...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 201,
+      "chn": "##唉，你实在是很烦！",
+      "jap": "##ああ、お前、本当に煩いな！",
+      "eng": "##Oh, I've had it with you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 202,
+      "chn": "##抱歉，只好让你闭嘴了！",
+      "jap": "##悪いが、静かにしてもらうぜ！",
+      "eng": "##Not another word will come out of your mouth!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 203,
+      "chn": "##就给你个血淋淋的教训，\r\n让你明白不良居心终有报应！",
+      "jap": "##身を持って学ぶんだな！\r\n下らぬ悪意にこそ、報いはあるのだと！",
+      "eng": "##Perhaps this will teach you!\r\nThat petty mischief will not go overlooked!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 204,
+      "chn": "##……死小鬼，终于闭嘴了吧……",
+      "jap": "##…ガキが、やっと静かになったか…",
+      "eng": "##That ought to keep you quiet...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 205,
+      "chn": "##……不过，你也学得真快。",
+      "jap": "##…しかしお前は、よく学ぶな",
+      "eng": "##You've been very studious.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 206,
+      "chn": "##我已经没东西可以教你了。",
+      "jap": "##俺が教えられることも、もう残ってはいない",
+      "eng": "##In fact, I have nothing more to teach.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 207,
+      "chn": "##……时机也差不多成熟了。",
+      "jap": "##…そろそろ潮時かもしれないな",
+      "eng": "##Well, I suppose it's high time to call it quits.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 208,
+      "chn": "##再这么下去，我们之间的承诺就要失效了。",
+      "jap": "##このままでは、お互いに約束を守れそうにない",
+      "eng": "##I would hate to see our agreement end sourly.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 209,
+      "chn": "##我不愿意让这种事情发生。",
+      "jap": "##そんなのは嫌じゃないか",
+      "eng": "##Better left tucked away, as a nice memory.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 210,
+      "chn": "##……",
+      "jap": "##ッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 211,
+      "chn": "##……",
+      "jap": "##ンッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

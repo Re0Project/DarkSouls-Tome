@@ -1,6 +1,143 @@
 {
   "npc": "nest",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/nest.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/nest.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次靠近鸟巢时",
+      "jap": "#0話しかけられた:範囲に入ったA",
+      "eng": "#0After appraching their location for the 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喂喂。",
+      "jap": "ねえ、ねえ",
+      "eng": "You, you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "给我暖暖的。",
+      "jap": "あったかちょうだい",
+      "eng": "Give me, warm.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "给我软软的。",
+      "jap": "ふわふわちょうだい",
+      "eng": "Give me, soft.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次靠近鸟巢时",
+      "jap": "#0話しかけられた:範囲に入ったB",
+      "eng": "#0After appraching their location for the 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "喂！喂！",
+      "jap": "ねえ！ねえ！",
+      "eng": "You! You!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "给我暖暖的！",
+      "jap": "あったかちょうだい！",
+      "eng": "Give me! Warm!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "给我软软的！",
+      "jap": "ふわふわちょうだい！",
+      "eng": "Give me! Soft!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0放置不可交换的物品时",
+      "jap": "#0話しかけられた:交換対象外のアイテムを置いた",
+      "eng": "#0After dropping a non-exchangeable item",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "不对不对。",
+      "jap": "ねえ、ねえ",
+      "eng": "No, no.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "不是这个。",
+      "jap": "それ、ちがうよ",
+      "eng": "That, no.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "这个不温暖。",
+      "jap": "あったかじゃ、ないよ",
+      "eng": "That no warm.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "这个不柔软。",
+      "jap": "ふわふわじゃ、ないよ",
+      "eng": "That no soft.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0放置已交换的物品时",
+      "jap": "#0話しかけられた:既に交換した対象アイテムを置いた",
+      "eng": "#0After dropping a previously exchanged item",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "不对不对。",
+      "jap": "ねえ、ねえ",
+      "eng": "No, no.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "不对啦。",
+      "jap": "それ、ちがうよ",
+      "eng": "Not that one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "我不要了啦。",
+      "jap": "もう、いらないよ",
+      "eng": "Enough, enough.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

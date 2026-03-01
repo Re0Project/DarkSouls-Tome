@@ -1,6 +1,719 @@
 {
   "npc": "benhart",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/benhart.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/benhart.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "找我何事!?",
+      "jap": "某に何用か！？",
+      "eng": "Have you business with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "前面是死路喔！道路被奇妙的石像挡住了！",
+      "jap": "この先は通れぬぞ！妙な石の像が、道をふさいでおる！",
+      "eng": "The way yonder's all blocked up you see. By this god-awful statue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "真是个麻烦……居然会在这种地方！",
+      "jap": "はた迷惑な…このような場所に放り出すとは！",
+      "eng": "Heavens above. Who thought it a good idea to put it there!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我也正为这个感到困扰哇！",
+      "jap": "某もほとほと、困り果てておるところよ！",
+      "eng": "Ohhhh, I'm in quite the pickle now. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "那个诡异的石像，\r\n越看越像活着一样，",
+      "jap": "面妖な石像よ\r\n見れば見る程、まるで生きておるかのようぞ",
+      "eng": "See that statue? Gives me the willies.\r\nStare at it for long enough, it starts to look alive.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "真令人不敢相信，\r\n没想到在这种边境之地，居然有着这样的名匠！",
+      "jap": "俄かには信じられぬわ\r\nこのような辺境に、斯様な名工がおるとは！",
+      "eng": "Ach, It just does nae seem quite right.\r\nThere are no craftsmen round these parts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "彷彿就像是人直接变成了石头般……",
+      "jap": "まるで、人がそのまま石になったかのような…",
+      "eng": "Hey, you don't think a real-life person was turned to stone, do you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第1次说话",
+      "jap": "#0話しかけた:メルヴィアのロザベナの石化を解いたあと",
+      "eng": "#0Talk-1st time, after using a Fragrant Branch of Yore to unpetrify Rosabeth",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "什么!?你处理掉那座石像了？",
+      "jap": "なんと！？あの石像を片づけたと？",
+      "eng": "What?! Clearing the way was your doing, was it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "没想到你居然有办法……",
+      "jap": "見かけによらずとは、このことよの…",
+      "eng": "Haah, didn't think you had it in yer pal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "不！我这么说真是失礼了！\r\n还请你原谅我！",
+      "jap": "いや！これは失言であった！\r\n某としたことが、許されよ！",
+      "eng": "No no no. That's not like it sounds, you know!\r\nIt was a pleasant surprise, that's all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我叫做凡荷特，\r\n因为你的帮忙，让我能继续踏上修行之路，",
+      "jap": "バンホルトと申す\r\n貴公のおかげで、また修行の道を進められるというもの",
+      "eng": "Name's Benhart.\r\nThanks to you, I can resume my journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "如果你也是要继续前进的话，相信我们一定还会相见的。",
+      "jap": "ここより先に進まれるのなら、再び相見えることもござろう",
+      "eng": "If we share the same path, I'm sure that we are gonna meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "有机会我必定会以武艺报答这份恩情，\r\n我以这把苍月之剑起誓。",
+      "jap": "恩は我が武にて、必ずやお返しいたす\r\nこの、蒼月の剣に懸けて",
+      "eng": "I'll repay my debt to you in battle.\r\nAnd I swear it by my sword.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "先前的道路还长，相信我能够帮得上忙喔，\r\n哈哈哈哈！",
+      "jap": "道半ばとは言え、お役に立ちますぞ\r\nワハハハハッ！",
+      "eng": "The road ahead's gonna be long, but I'm here to help.\r\nGah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第2次说话",
+      "jap": "#0話しかけた:メルヴィアのロザベナの石化を解いたあと2",
+      "eng": "#0Talk-2nd time, after using a Fragrant Branch of Yore to unpetrify Rosabeth",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "感谢你的帮忙，",
+      "jap": "世話になり申した",
+      "eng": "I am in yer debt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "受到了恩情就一定要报答，这是男子汉的作风，",
+      "jap": "受けた恩は必ずお返しいたすのが、まことの漢というもの",
+      "eng": "It's a true man who honours his debts. And I'll see mine paid.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "就以我手上这把代代相传的这把苍月之剑起誓。",
+      "jap": "我が伝来の、この蒼月の剣に懸けてお誓いいたす",
+      "eng": "I swear it, by my ancient sword.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0到达王城多兰古雷格后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "喔，是你！好久不见！",
+      "jap": "おお、貴公は！久方ぶりぞ！",
+      "eng": "Ho! Well met, friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "看来彼此都平安无事，\r\n太好了！太好了！",
+      "jap": "お互い息災であったよう\r\n重畳、重畳",
+      "eng": "Good to see you well.\r\nYes, hehh hehh, very good indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0到达王城多兰古雷格后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "我为了探究武艺的极致，\r\n所以从遥远的东方旅行至此，",
+      "jap": "某は、武を究めるべく\r\n遠く東方より、旅をして参った",
+      "eng": "I journeyed from the distant east\r\nto perfect my swordsmanship.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "听说有很多拥有强大力量的能士\r\n都在这个地方出没。",
+      "jap": "この地には、強大な力を宿す者たちが眠っておる\r\nそう伝え聞いておる",
+      "eng": "Legend has it that powerful beings\r\nslumber in this land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "这把剑是我们族人代代相传的古剑，\r\n唯有真正的男子汉才能挥舞它，",
+      "jap": "この剣は、我が一族伝来のもの\r\nこれを使いこなすことこそ、まことの漢の務めに他ならぬ",
+      "eng": "This sword, it's been in my family for generations.\r\nAnd only a real man can wield it true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "无论对方是拥有什么样力量的人，\r\n只要拿起这把苍月之剑……呵呵呵……",
+      "jap": "如何なる力の主であろうと、\r\nこの蒼月の剣をもってすれば…フフフ",
+      "eng": "I may face any manner of man or beast,\r\nbut none shall be a match for my sword. Heh heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0到达王城多兰古雷格后，第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "不过这个国家到底发生了什么事啊？",
+      "jap": "しかしこの国は、どうなっておるのか",
+      "eng": "This land is a right mess, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "既没有王，人民大多数也都是目光诡异的家伙……",
+      "jap": "王はおらず、民もまた何やら異様な目つきの者ばかり…",
+      "eng": "King's gone, and the people have a mad glint in their eyes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "不过就结果来看，满是魔物这点，",
+      "jap": "挙句の果てに、魔物だらけとは",
+      "eng": "The land itself is overrun by terrible beasts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "对我的修行而言，恰巧是件好事，\r\n呵呵呵……",
+      "jap": "我が修行には、ちょうど良いが\r\nフフフ…",
+      "eng": "No better place to test my sword, ey?\r\nHeh heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0到达巨人陨落之森后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "没想到在这个地方又碰到你了!!",
+      "jap": "貴公！貴公！！このようなところで！！",
+      "eng": "Well, we meet again! What you doing here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "我们怎么总是在奇妙的场所碰上，",
+      "jap": "いやはや、斯様な奇妙な場で遭うとは",
+      "eng": "Who'dve thought we'd meet in a place like this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "看来我们彼此应该很有缘喔？\r\n哇哈哈哈哈！",
+      "jap": "お互いよほどの縁がある様子よの？\r\nワハハハハッ！",
+      "eng": "Fate just won't let us stay apart, will she?\r\nGah hah hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0到达巨人陨落之森后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "你对这把剑有兴趣？\r\n没错吧！没错吧！",
+      "jap": "この剣に、関心がおありか？\r\nそうであろう、そうであろう",
+      "eng": "See the old sword's caught your attention?\r\nWell, you've a good eye, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "这是我们一族代代相传的剑，",
+      "jap": "これは我が一族の、伝来の剣",
+      "eng": "Ah, it's been in my family for generations.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "据说这是由除魔的月光\r\n化作的神剑，",
+      "jap": "魔を祓う月光が、形を成したもの\r\nそう伝えられておる",
+      "eng": "They say it is crafted with moonlight,\r\nand we all know what that means, it wards off evil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "无论出多少钱，这把剑都是无价之宝喔。",
+      "jap": "例え千金を積もうと、購えぬ代物よ",
+      "eng": "And I would nae trade her for all the riches in the world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "而且道目前为止，\r\n还没有人能够让这把剑秘藏的真正力量完全发挥出来。",
+      "jap": "しかもいまだ、この剣に秘められし\r\n真の力を引き出したものはおらぬという",
+      "eng": "They say that no man has ever\r\nteased oot the sword's true power.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "如果能够与强者对战，相信一定有机会的，\r\n呵呵呵……",
+      "jap": "力ある者を斬れば、必ずや\r\nフフフ…",
+      "eng": "But in the right hands...\r\nHeh heh heh heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0到达巨人陨落之森后，第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "看来你对这把剑也很有兴趣呢，\r\n如此的慧眼真是令人佩服。",
+      "jap": "貴公、よほどこの剣が気に入ったと見える\r\nその慧眼、流石と申しておこう",
+      "eng": "I see you've taken a liking to the sword.\r\nWell, I applaud you, for you've a sharp eye.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "话虽然此，\r\n唯有这把剑是不能送给任何人的，\r\n抱歉。",
+      "jap": "とは言え、こればかりは\r\n譲るわけにはいかぬ\r\n許されよ",
+      "eng": "But this is one sword\r\npal that I will nae\r\nbe giving up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "不过如果你真的这么想要这把剑……",
+      "jap": "そうよの、もしこの剣を欲するのであれば…",
+      "eng": "If you still insist on having it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "那就只能杀了我然后把它抢走了，\r\n哇哈哈哈哈！",
+      "jap": "某を殺してでも奪い取るしかなかろうな\r\nワハハハハッ！",
+      "eng": "Then you will have to pry it from my cold hands!\r\nGah hah hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0到达巨人陨落之森后，第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "我欠了你一个恩情，\r\n这点我永生难忘。",
+      "jap": "貴公には、いつぞやの借りがある\r\n忘れてはおらぬぞ",
+      "eng": "I've a great debt to you.\r\nAnd I'll never forget it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "我凡荷特可是个堂堂男子汉，\r\n无论你面对什么险境都会出手相救的，\r\n哇哈哈哈哈!!",
+      "jap": "このバンホルト、まことの漢として\r\nいかな窮地でもお役にたとう\r\nフフン",
+      "eng": "I, Benhart,\r\nswear by my honour,\r\nto aid you in your darkest hour! So nae problem pal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0进入巨人洛的回忆后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "喔！吾友!!我们又见面了!!",
+      "jap": "おお！友よ！！また会うたな！！",
+      "eng": "Oh! Look at you! Old friend!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "看来你的旅程也还有一大段路要走，",
+      "jap": "貴公も、まだまだ道半ばと見える",
+      "eng": "I see yer travels weigh upon you yet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "我凡荷特随时都能为你效力喔。",
+      "jap": "このバンホルト、いつでも力になろうぞ",
+      "eng": "Just remember, I'm always ready to help.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0进入巨人洛的回忆后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "我的国家在遥远的东方，\r\n那是个重视武艺和礼节的男子汉国家。",
+      "jap": "遥か東方に、我が国はある\r\n武と礼を重んじる、漢の国よ",
+      "eng": "My homeland is in the far east.\r\nA kingdom of honourable fighting men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "这把剑在等带着值得它的男子汉，",
+      "jap": "この剣は、相応しき漢を待っておる",
+      "eng": "And this sword yet awaits a true man to wield it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "这点我很清楚，\r\n哇哈哈哈哈!!",
+      "jap": "我にはわかるのよ\r\nワハハハハッ！！",
+      "eng": "I know how swords think, you see!\r\nGah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0在3个地点召唤凡荷特完成战斗且存活后，进入巨人洛的回忆后说话",
+      "jap": "#0話しかけた:3回以上白霊として召喚し、生存したままボスを倒している",
+      "eng": "#0Talk-Summoning him as White Phantom & defeating 3 bosses without dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "你真是我出生入死的好友，",
+      "jap": "貴公とは、幾度も死地を超えた仲",
+      "eng": "We have outwitted death a good many times.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "吾友！请你收下这个吧！",
+      "jap": "友よ、これを持っていくがよい",
+      "eng": "Huh huh, My dear friend, take these.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "呜喔！",
+      "jap": "ぐおっ！",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "到此为止！",
+      "jap": "そこまでにせよ！",
+      "eng": "Enough with that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "你这家伙!!",
+      "jap": "貴様は！！",
+      "eng": "What in bloody...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "很好，就让我凡荷特,\r\n来当你的对手吧！",
+      "jap": "良かろう、このバンホルト\r\n相手になろうぞ",
+      "eng": "Very well. I, Benhart,\r\nwill be honoured to chop you to pieces.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "爱惜自己生命不是件坏事……",
+      "jap": "命を惜しめば良いものを…",
+      "eng": "You're a sorry waste of life...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "真是不自量力……",
+      "jap": "身の程知らずめが…",
+      "eng": "You knew this would happen...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "可恶！你别得意!!",
+      "jap": "ええい！猪口才な！！",
+      "eng": "Hey! How dare you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "命数……已尽……",
+      "jap": "無念…なり…",
+      "eng": "What's done...urgh... Is done...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "##男子汉之路的……极致……",
+      "jap": "##漢の道を…究めるまでは…",
+      "eng": "##A man's journey...is never done...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "###2（仅英文语音）嘿，好伙计。能帮忙打开它吗！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hey, kind soul. Would you open this please!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "###2（仅英文语音）我在里面无能为力。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I'm powerless in here.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "###2（仅英文语音）求求你……哦……拜托了！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Please... oh dear me... please!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "###2（仅英文语音）噢，见鬼！我的天啊！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Aw, drat! By the gods!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "###2（仅英文语音）哈……真是尴尬啊！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Huh... what an embarrassment that was!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "###2（仅英文语音）好吧……我欠你个人情！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Okay... I'm in your debt!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "###2（仅英文语音）我太无知了……#3",
+      "jap": "##…",
+      "eng": "##(No caption) How naive I've been...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "###2（仅英文语音）喔，你好！谢谢你好兄弟。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh, hello there! Thanks for helping me pal.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

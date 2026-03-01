@@ -1,6 +1,639 @@
 {
   "npc": "vamos",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/vamos.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/vamos.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0跳下螺旋楼梯后",
+      "jap": "#0螺旋階段から落ちた",
+      "eng": "#0After falling through the hole leading into Vamos' chamber",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……还不快滚出去。",
+      "jap": "…さっさと出ていかんか",
+      "eng": "...Be gone with you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "……别害我分心……",
+      "jap": "…気が散るわい…",
+      "eng": "...You'll spoil my focus.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0攀谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "……什么？要找我冶炼？",
+      "jap": "…なんじゃ？鍛冶仕事か？",
+      "eng": "...What's that, then? Need some smithing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "那还不快点拿出来！",
+      "jap": "だったらさっさと出さんか",
+      "eng": "Then produce me some wares!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "……不是来找我冶炼就滚远一点。",
+      "jap": "…ふん、鍛冶仕事でなければ、用などないわ",
+      "eng": "...Hmph! I'm here to smith, not to chit chat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "……我不是说过不是来找我冶炼就滚远一点吗！",
+      "jap": "…鍛冶仕事でなけりゃ、用などないと言っとろうが！",
+      "eng": "...I've told you, I'm here for the trade, not for the talk!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "不要烦我，我会分心。",
+      "jap": "余計するでないわ。気が散るわい",
+      "eng": "Enough with your presence. It disturbs me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0互动列表-第4次选择「交谈」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "真是的，你也太烦人了吧……",
+      "jap": "まったく、しつこいな、おのれも…",
+      "eng": "Well, you are a persistent one, are you not? ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我什么都不知道，我是个只懂冶炼的老顽固。",
+      "jap": "ワシぁ何も知らん、鍛冶しか知らん頑固者じゃ",
+      "eng": "But I'm afraid I'm a mere blacksmith, it's just me and my trade.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "对你这样的战士而言，我完全派不上用场……",
+      "jap": "おのれのような戦人の、何の役にもたたんぞい…",
+      "eng": "I would be of no help to a righteous warrior such as yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0击杀贪食魔龙后攀谈",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5th time, after defeating the Gaping Dragon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "不是告诉过你，我和你无话可说吗……",
+      "jap": "まったく、話などないと、言っとろうに…",
+      "eng": "I've told you, I have nothing to discuss...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我能帮你的就只有冶炼而已。",
+      "jap": "ワシがおのれの役に立つとすれば、鍛冶だけじゃ",
+      "eng": "If I have anything to offer, it's my smithing, and nothing more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "如果有我在小隆德看过的，那个棒透了的余烬，\r\n就另当别论了，",
+      "jap": "小ロンドで見た、あのすばらしい種火でもあれば、\r\nもっとじゃが",
+      "eng": "I'd be of more help with that ember from New Londo,\r\nof course...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "但那里早已沉没于水中……",
+      "jap": "あの街は、とうに水没してしまったからのう…",
+      "eng": "It's a shame the whole place was flooded...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0击杀克拉格后攀谈",
+      "jap": "#0リストから選択:話すF",
+      "eng": "#0Menu-Choose \"Talk\" 6th time after defeating Chaos Witch Quelaag",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "不是告诉过你，我和你无话可说吗……",
+      "jap": "まったく、話などないと、言っとろうに…",
+      "eng": "I've told you, I have nothing to discuss...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "我能帮你的就只有冶炼而已……",
+      "jap": "ワシがおのれの役に立つとすれば、鍛冶だけじゃが…",
+      "eng": "If I have anything to offer, it's my smithing, and nothing more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "老实说这已经是极限了，\r\n我没有办法再做出更好的了，",
+      "jap": "正直、ワシぁもう限界じゃ。\r\n今以上の仕事など、できやせん",
+      "eng": "Speaking honestly, I must say that I'm at my very limit.\r\nThere's no more work to be done.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "但是如果有传说中的魔女火焰，那就另当别论了。",
+      "jap": "まあ、伝承にある魔女の炎でもあれば、話は別かもしれんが",
+      "eng": "Ahh, unless I had the flame of that legendary witch...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "可是从来没有人到过废都伊札里斯……",
+      "jap": "そもそも、廃都イザリスなど、誰も辿り着けはせんのじゃ…",
+      "eng": "But that would require a visit to Lost Izalith. Impossible...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0持有大块火焰余烬时攀谈",
+      "jap": "#0話しかけた:大きな炎の種火を入手後",
+      "eng": "#0Talk-After finding the Large Flame Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "……咦？这是……",
+      "jap": "…ん？それは…",
+      "eng": "...Hmph? Why, is that...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "……这不是小隆德的余烬吗……",
+      "jap": "…小ロンドの種火じゃな…",
+      "eng": "...An ember from New Londo...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "……好余烬……",
+      "jap": "…よい種火じゃ…",
+      "eng": "...And a fine ember it be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "打个商量，把余烬交给我吧？",
+      "jap": "どうだ？それをワシに預けてみんか？",
+      "eng": "What do you say? Why not leave it with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "我会让你见识一下什么叫用火的精髓。",
+      "jap": "おのれにも、炎の神髄を見せてやるぞい",
+      "eng": "I'll give you a flame to feast your eyes upon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0您要将大块火焰余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:大きな炎の種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Large Flame Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "嗯，嗯，好，好吧……",
+      "jap": "フン、フン、そうか、そうか…",
+      "eng": "Hmm, hmm, yes, yes, I see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "不急，你慢慢儿考虑吧。",
+      "jap": "まあ、ゆっくり考え直すのも、またよかろう…",
+      "eng": "Well, do not hesitate if you should change your mind...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0您要将大块火焰余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:大きな炎の種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Large Flame Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "好，好，这样好，就让你看看我冶炼的功力。",
+      "jap": "よし、よし、それでよい。老骨の仕事を見せてやるわい",
+      "eng": "Yes, yes, very well! We'll get these old bones to work!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "喀喀喀",
+      "jap": "コッコッコッ",
+      "eng": "Keh heh heh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0持有混沌余烬时攀谈",
+      "jap": "#0話しかけた:混沌の炎の種火を入手後",
+      "eng": "#0Talk-After finding the Chaos Flame Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "……嗯？这是……",
+      "jap": "…ん？それは…",
+      "eng": "...Hmph? Why, that's...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "……没看过这种余烬……",
+      "jap": "…見たことのない種火じゃな…",
+      "eng": "...an ember unlike any that I have seen...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "……这纹路还挺有意思的……",
+      "jap": "…興味深い文様じゃ…",
+      "eng": "...a very curious pattern...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "……莫非是传说中的魔女火焰……？",
+      "jap": "…伝承にあった、魔女の炎か…？",
+      "eng": "...Could it be the flame of the legendary witch?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "……打个商量，把余烬交给我吧？",
+      "jap": "…どうだ？それをワシに預けてみんか？",
+      "eng": "...I know! Suppose you left that ember with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "我铁匠巴摩斯绝不会让你后悔的……",
+      "jap": "鍛冶のバモス、後悔はさせんぞぃ…",
+      "eng": "Old Vamos would never let you down, no, not ever!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0您要将混沌余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:混沌の炎の種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Chaos Flame Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "嗯，嗯，好吧……",
+      "jap": "フン、フン…まあよい",
+      "eng": "Hmm, hmm...Fine, then...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "原本……算了，随便你。",
+      "jap": "そもそも…、まあよい、まあよいわ",
+      "eng": "I doubt you'd even...bah, forget it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "反正骨骸死不了，\r\n有一天还会再让我遇到的……",
+      "jap": "どうせずっと骨の身だ。\r\nいつかまた、見えることもあろうて…",
+      "eng": "These bones won't fail me anytime soon.\r\nI'll come across another, eventually...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0您要将混沌余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:混沌の炎の種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Chaos Flame Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "喀喀喀喀喀",
+      "jap": "コッコッコッコッコッ",
+      "eng": "Keh heh heh heh heh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "很好，很好。",
+      "jap": "それでよい、それでよいんじゃ",
+      "eng": "Yes, splendid, splendid indeed!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "……喔，喔，真棒的余烬啊……",
+      "jap": "…ほぅ、ほぅ、これはよい種火じゃわい…",
+      "eng": "...My, oh, my! You precious little thing...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0持有其他余烬时攀谈",
+      "jap": "#0話しかけた:鍛冶屋バモスが扱えない種火を入手後",
+      "eng": "#0Talk-After finding an ember Vamos cannot use",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "……嗯？这是……",
+      "jap": "…ん？それは…",
+      "eng": "...Hmph? Why, you have...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "……余烬吧……？",
+      "jap": "…種火じゃな…？",
+      "eng": "...an ember, do you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "但是我对假的没有兴趣。",
+      "jap": "だが、ダメじゃな。そんなまがい物に興味はない",
+      "eng": "Ahh, forget about it. I don't deal with that kind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "真是的，最近都没什么优质的余烬……",
+      "jap": "まったく、近頃はよい種火も少なくなった…",
+      "eng": "What has gone wrong with embers these days?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "你这样是干什么？",
+      "jap": "なんじゃ、おのれは",
+      "eng": "Well, what was that about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "没事就快滚出去。",
+      "jap": "無用なら、さっさと出て行かんか",
+      "eng": "Don't be coming around here without a good reason!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "好了就快滚出去。",
+      "jap": "用が済んだら、さっさと出ていかんか",
+      "eng": "If that'll be all, then be gone with you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "……别害我分心……",
+      "jap": "…気が散るわい…",
+      "eng": "...You'll spoil my focus.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "你要去哪？",
+      "jap": "どこへいくんじゃ？",
+      "eng": "Now where've you gone?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "……真是个没礼貌的家伙。",
+      "jap": "…まったく、おのれは失礼者じゃ",
+      "eng": "...You've got rotten manners.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "要找我冶炼就快点讲。",
+      "jap": "鍛冶仕事なら、余計せずさっさと出さんか",
+      "eng": "If it be smithing you need, then produce your wares.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "啥？",
+      "jap": "なんじゃ？",
+      "eng": "Bah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "你干什么!",
+      "jap": "なんじゃおのれは！",
+      "eng": "You rotten scoundrel!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "你再烦我的话，小心我出手了！",
+      "jap": "邪魔するなら、相手になるぞ！",
+      "eng": "Trying to cause trouble, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "小鬼，不要看我铁匠巴摩斯只剩骨头就小看我！",
+      "jap": "骨だからとて、鍛冶のバモスをなめるなよ、小僧！",
+      "eng": "I am Vamos the blacksmith, and I'm no bag of bones!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "可恨……",
+      "jap": "無念じゃ…",
+      "eng": "Curses...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

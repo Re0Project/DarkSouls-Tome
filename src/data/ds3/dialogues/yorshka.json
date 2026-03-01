@@ -1,6 +1,887 @@
 {
   "npc": "yorshka",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/yorshka.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/yorshka.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……汝为何人？",
+      "jap": "…どなたでしょうか？",
+      "eng": "Name thyself, stranger.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "吾名幽儿希卡，正是暗月骑士团之长。",
+      "jap": "私はヨルシカ。暗月の騎士団、その総長です",
+      "eng": "I am Yorshka. Captain of the Darkmoon Knights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "而汝为何驻足于此？",
+      "jap": "そして貴方は、何故こんな場所にいらっしゃいましたか？",
+      "eng": "What beckoned thee to such a place?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0选择「什么都不做」",
+      "jap": "#0話しかけた:1回目・選択枝【なにもしない】",
+      "eng": "#0Choose \"Do Nothing\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "……汝若误入此处，\r\n则毋须停驻。",
+      "jap": "…貴方が、もしあやまって迷い込んだのなら、\r\nこの場所を離れた方がよいでしょう",
+      "eng": "If thou'st come stumbling here in error,\r\nI bid thee leave anon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "此处为俘虏之塔，\r\n汝停留于此，必定引起僭越者沙力万不快。",
+      "jap": "ここは虜囚の塔。留まれば貴方も、\r\n僭主サリヴァーンの不興を買ってしまいます",
+      "eng": "This tower is a prison.\r\nThy presence shall invoke the ire of the tyrant, Sulyvahn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "……吾已许久不闻人声，\r\n奇妙之人呀，在此言谢。",
+      "jap": "…けれどずっと久しぶりに、人の声を聞きました。\r\nありがとう、不思議な方",
+      "eng": "Though 'twas a rare delight to converse with another.\r\nMy thanks, strange visitor.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "愿汝时有暗月恩惠随之。",
+      "jap": "貴方に、暗い月の祝福がありますように",
+      "eng": "May the Darkmoon watch over thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0选择「什么都不做」后交谈",
+      "jap": "#0話しかけた:2回目・【なにもしない】選択後",
+      "eng": "#0Talk-After choosing \"Do Nothing\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "啊，汝又现身于此了？",
+      "jap": "ああ、貴方、まだいらっしゃったのですか？",
+      "eng": "Thou think'st to remain?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "然此处为俘虏之塔，汝停留于此，\r\n必定引起僭越者沙力万不快。",
+      "jap": "しかしここは虜囚の塔。\r\n留まれば貴方も、僭主サリヴァーンの不興を買ってしまいます",
+      "eng": "This tower is a prison.\r\nThy presence shall invoke the ire of the tyrant, Sulyvahn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "尽快远离此处为上上之策。",
+      "jap": "すぐにこの場所を離れた方がよいでしょう",
+      "eng": "I bid thee leave, anon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "愿汝时有暗月恩惠随之。",
+      "jap": "貴方に、暗い月の祝福がありますように",
+      "eng": "May the Darkmoon watch over thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0选择「行暗月誓约鞠躬」",
+      "jap": "#0話しかけた:1回目・選択肢【暗月の誓約礼】",
+      "eng": "#0Choose \"Perform Darkmoon Loyalty\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "……汝……",
+      "jap": "…ああ、貴方は…",
+      "eng": "Thou think'st to-",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "……言下之意，吾已明了。虽已是无人的骑士团，吾仍为其之长，",
+      "jap": "…分かりました。いまや騎士無き騎士団でも、私は総長",
+      "eng": "Very well. Captain to this knightless company, I remain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "该当善尽其责。",
+      "jap": "その役目を果たしましょう",
+      "eng": "I will grant thee purpose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……来此听吾言，诚难能可贵。",
+      "jap": "…よくぞここに至り、私の声を聞きました",
+      "eng": "Thou'st journeyed far; hear my voice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "汝若有决心化为暗月之誓约者，以讨逆神贼敌，",
+      "jap": "貴方、暗月の誓約者となり、神の敵を狩る剣となる",
+      "eng": "If thou shalt swear by the Covenant, to become",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "成为吾等之父葛温、吾等之姊葛维艾薇雅之影。",
+      "jap": "我らの父グウィンと、我らの姉グウィネヴィアの陰となり",
+      "eng": "A shadow of Father Gwyn and Sister Gwynevere,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "化身征讨逆神贼敌的剑，",
+      "jap": "神の敵を狩る、剣となる覚悟があるならば",
+      "eng": "A blade that shall hunt the foes of our Lords;",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "吾当守护汝，\r\n并以黯影太阳、暗月之力助汝克敌。",
+      "jap": "私は貴方を守護し、\r\n陰の太陽、暗月の力を、貴方の助けとするでしょう",
+      "eng": "Then I place thee under the aegis,\r\nand the power, of the Darkmoon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "……汝自此便已成暗月之剑，",
+      "jap": "…さあ、これより貴方は暗月の剣",
+      "eng": "Thou'rt now a Blade of the Darkmoon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "为暗月骑士团独一无二的正式骑士。",
+      "jap": "暗月の騎士団、その唯一人の、正式な騎士です",
+      "eng": "The only knight of our company.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "汝须尽骑士之责，且借此纹章铭记于心。",
+      "jap": "この紋章を心に誓い、騎士の務めを果たしてください",
+      "eng": "Swear this oath, and face thy solemn duty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0加入暗月之剑誓约后跪下",
+      "jap": "#0跪く:暗月の剣誓約後",
+      "eng": "#0Kneel-After joining the Blade of the Darkmoon Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "啊，暗月之剑啊，欢迎回来。",
+      "jap": "ああ、暗月の剣よ、よく戻りました",
+      "eng": "Oh, good Blade of the Darkmoon, welcome home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "若吾力之所逮，出口要求便可。",
+      "jap": "私にできることがあれば、何なりと仰ってください",
+      "eng": "If I can provide thee succour, only tell me how.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "过去吾等之父葛温，\r\n心忧火已黯淡，于是投身成为薪王。",
+      "jap": "かつて我らの父グウィンは、\r\n火の陰りを憂い自ら薪の王となり",
+      "eng": "Long ago, our father Gwyn,\r\nlamenting the waning of the fire, became cinder of his own will.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "往后众多的人之子，即英雄们，\r\n接续传承火焰。",
+      "jap": "以来人の子ら、その英雄たちが、\r\n火を継いでいきました",
+      "eng": "Now, the fire is linked by the champions\r\nwho have come in his stead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "此为吾父、神之遗志，\r\n因此暗月为守护传火之人，\r\n将化身为剑。",
+      "jap": "それは父の、神の遺志。\r\n故に暗月は、火を継ぐ人たちを守る、\r\n剣となったのです",
+      "eng": "Such is the will of father, and the gods.\r\nAnd so the Darkmoon knights took arms,\r\nto watch over those who link the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "……然在久远以前，骑士团丧失了正式骑士，",
+      "jap": "…けれどもうずっと前に、騎士団は正式な騎士を失いました",
+      "eng": "But long ago, our company lost its last proper knight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "徒留誓约，\r\n而后汝现身于此……",
+      "jap": "そしてただ誓約だけが、ずっと残り、\r\n貴方がここに現れた…",
+      "eng": "Only its covenant was preserved, to this day,\r\nuntil the time of thy visit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "所谓传承即是如此。",
+      "jap": "継承とは、つまりそういうことなのですね",
+      "eng": "Heirdom taketh many forms, indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "……汝可否回答？",
+      "jap": "…ひとつ、お聞きしてよろしいでしょうか？",
+      "eng": "May I pose thee a question?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "此处为俘虏之塔，高耸孤立，\r\n且往来机关无法动弹，理该无法可至。",
+      "jap": "ここは虜囚の塔。孤立して高く、\r\n下へ続く仕掛けも、ずっと動かぬままであったはずです",
+      "eng": "This tower, this prison, stands tall and solitary,\r\nthe contraption bridging its lower reaches long unmoving.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "而为何，汝却能前来此处？",
+      "jap": "でしたら、貴方はどうやって、ここに参られたのですか？",
+      "eng": "So...by what path didst thou here ascend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "难道汝能飞翔于空？",
+      "jap": "もしかして、貴方は空を飛べるのですか？",
+      "eng": "Art thou a creature of the air, or other winged thing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0选择「不能飞」",
+      "jap": "#0リストから選択:話すB・選択肢【飛べない】",
+      "eng": "#0Choose \"No, I can't fly\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "啊，理当如此啊。",
+      "jap": "ああ、勿論そうですよね",
+      "eng": "No, of course not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "是吾失言，请勿怪罪。",
+      "jap": "おかしなことを申しました。どうか、忘れてください",
+      "eng": "Forgive my prying. Think no more on mine asking.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "说来也是耻辱，吾是井底之蛙啊……",
+      "jap": "お恥ずかしい話ですが、私は知るものが少ないのです…",
+      "eng": "I am ashamed to say, I know very little, of anything...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0选择「能在空中飞翔」",
+      "jap": "#0リストから選択:話すB・選択肢【空を飛べる】",
+      "eng": "#0Choose \"Yes, I can fly\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "哎！果真如此啊。",
+      "jap": "まあ！やはりそうなのですね",
+      "eng": "Oh, my! I imagined it might be so.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "则汝应为龙，亦或是乌鸦之辈？",
+      "jap": "でしたら貴方は竜、あるいはカラスなのでしょうか？",
+      "eng": "Then thou'rt a dragon, or perhaps a crow?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "啊，不论如何，\r\n汝真是使人心生怀念且奇妙啊。",
+      "jap": "ああ、どちらにしても、懐かしくて、\r\nそして不思議な方ですね",
+      "eng": "Well, whatever thou beest, thou'rt wondrous strange,\r\nyet strangely familiar, visitor.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "……",
+      "jap": "フフフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0提升暗月之剑誓约等级后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すC・暗月の剣ランクアップ後",
+      "eng": "#0Menu-Choose \"Talk\" after deeping Blades of Darkmoon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "暗月实则吾之兄长──\r\n黯影太阳葛温德林的骑士团。",
+      "jap": "暗月は、本来私の兄、\r\n陰の太陽グウィンドリンの騎士団でした",
+      "eng": "The Darkmoon Knights were once led by my elder brother,\r\nthe Dark Sun Gwyndolin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "然兄长因病倒下，\r\n因此由吾继承。",
+      "jap": "ですが兄は病に倒れ、\r\n私が騎士団を引き継ぎました",
+      "eng": "But he was stricken by illness,\r\nand leadership of the knights fell to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "而后，吾遭沙力万夺取教宗地位，\r\n落得阶下囚。",
+      "jap": "そしてサリヴァーンが法王を僭称し、\r\n私も虜囚の身となったのです",
+      "eng": "Then Sulyvahn wrongfully proclaimed himself Pontiff,\r\nand took me prisoner.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "……现今兄长究竟身在何处？",
+      "jap": "…今兄は、どこにいるのでしょうか？",
+      "eng": "Oh where could my dear brother be?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "望能有天再见，介绍汝于兄长，",
+      "jap": "いつかまたお会いし、貴方をご紹介したいですね",
+      "eng": "If only he were here, I would be most pleased for ye both to meet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "兄长定会欣喜。",
+      "jap": "きっと、お喜びになると思いますよ",
+      "eng": "As, most assuredly, would he.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "……",
+      "jap": "フフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0提升暗月之剑誓约到等级1后，互动列表-选择「说话」",
+      "jap": "#0誓約のランクが上がった:1回目",
+      "eng": "#0Menu-Choose \"Talk\" after deeping Blades of Darkmoon to rank 1",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "暗月之剑，诚成绩斐然。",
+      "jap": "暗月の剣よ、見事な成果です",
+      "eng": "My Blade of the Darkmoon, thy deeds merit great worship.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "为贡献卓越之骑士赐赏，\r\n乃团长之责。",
+      "jap": "総長には、\r\n貢献著しい騎士を賞する務めがあります",
+      "eng": "As Captain,\r\n'tis my duty to honour knights of great accomplishment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "敬请接受，此为与汝名分相符之物。",
+      "jap": "どうぞ、受け取ってください。貴方にこそ相応しいものです",
+      "eng": "Please, it is thine, and not lightly given.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "汝此后仍续为吾等之父葛温、\r\n吾等之姊葛维艾薇雅之影，",
+      "jap": "これからも、我らの父グウィンと、\r\n我らの姉グウィネヴィアの陰となり",
+      "eng": "As a shade of Father Gwyn\r\nand Sister Gwynevere,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "化身征讨逆神贼敌的剑，\r\n且尽骑士之责。",
+      "jap": "神の敵を狩る剣として、\r\n騎士の務めを果たしてください",
+      "eng": "Persevere in thy knightly duty,\r\nhunting down the gods' would-be foes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0提升暗月之剑誓约到等级2后，互动列表-选择「说话」",
+      "jap": "#0誓約のランクが上がたっ:2回目",
+      "eng": "#0Menu-Choose \"Talk\" after deeping Blades of Darkmoon to rank 2",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "暗月之剑，诚成绩斐然。",
+      "jap": "暗月の剣よ、素晴らしい成果です",
+      "eng": "My Blade of the Darkmoon, thy deeds merit great worship.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "骑士团之长，吾幽儿希卡，将赐赏于汝。",
+      "jap": "騎士団総長ヨルシカが、特別に貴方を賞しましょう",
+      "eng": "I, Yorshka, captain of this company, hereby recognise thy service.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "敬请接受，此为与汝名分相符之物。",
+      "jap": "これは私が、その為に兄から受け継いだ、\r\n暗月の秘儀",
+      "eng": "This is a wonder of the Darkmoon,\r\ninherited from my brother for this very purpose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "吾为此从兄长承继\r\n暗月之秘密仪式，",
+      "jap": "どうぞ、受け取ってください。貴方にこそ相応しいものです",
+      "eng": "Please, take this. Thou'rt most deserving of it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "汝此后仍续为吾等之父葛温、\r\n吾等之姊葛维艾薇雅之影，",
+      "jap": "これからも、我らの父グウィンと、\r\n我らの姉グウィネヴィアの陰となり",
+      "eng": "As a shade of Father Gwyn\r\nand Sister Gwynevere,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "化身征讨逆神贼敌的剑，\r\n且尽骑士之责。",
+      "jap": "神の敵を狩る剣として、\r\n騎士の務めを果たしてください",
+      "eng": "Persevere in thy knightly duty,\r\nhunting down the gods' would-be foes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "……望能有天以骑士团之长身份，向兄长好好夸耀，\r\n有位不可多得的好骑士加入吾等。",
+      "jap": "…いつか兄に、自慢できるとよいのですが。\r\n総長として、騎士団に素晴らしい騎士を得たと",
+      "eng": "...I would speak to my brother of this, one day.\r\nOf the shining new hope that joined our dear company.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "而理所当然，指的是汝。",
+      "jap": "もちろん、貴方のことですよ",
+      "eng": "I speak of thee, of course.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "……",
+      "jap": "フフフフフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "暗月之剑啊，汝要动身了吗？",
+      "jap": "もう行くのですね",
+      "eng": "Off so soon?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "愿汝时有暗月恩惠随之。",
+      "jap": "貴方に、暗い月の祝福がありますように",
+      "eng": "May the Darkmoon watch over thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "……",
+      "jap": "アアッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "……",
+      "jap": "アッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "……",
+      "jap": "アアッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0加入暗月之剑誓约后，幽儿希卡第1次受到攻击时",
+      "jap": "#0攻撃した:暗月の剣誓約後:1回目",
+      "eng": "#0Upon being attacked-1st time, after joining the Blade of the Darkmoon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "……",
+      "jap": "アッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0加入暗月之剑誓约后，幽儿希卡第2次受到攻击时",
+      "jap": "#0攻撃した:暗月の剣誓約後:2回目",
+      "eng": "#0Upon being attacked-2nd time, after joining the Blade of the Darkmoon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "……",
+      "jap": "アアッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0加入暗月之剑誓约后，幽儿希卡第3次受到攻击时",
+      "jap": "#0攻撃した:暗月の剣誓約後:3回目",
+      "eng": "#0Upon being attacked-3rd time, after joining the Blade of the Darkmoon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "请汝住手！",
+      "jap": "やめてください！",
+      "eng": "Please, stop this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0加入暗月之剑誓约后，幽儿希卡第4次受到攻击时",
+      "jap": "#0攻撃した:暗月の剣誓約後:4回目",
+      "eng": "#0Upon being attacked-4th time, after joining the Blade of the Darkmoon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "汝可身为骑士！",
+      "jap": "貴方は騎士なのですよ！",
+      "eng": "Thou'rt no true knight!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "兄长大人，对不起……",
+      "jap": "兄様、ごめんなさい…",
+      "eng": "Dear brother, forgive me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "##啊，汝又现身于此了？",
+      "jap": "##ああ、貴方、またいらっしゃったのですか？",
+      "eng": "##Thou art return'd?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "##然此处为俘虏之塔，汝停留于此，\r\n必定引起僭越者沙力万不快。",
+      "jap": "##しかしここは虜囚の塔。留まれば貴方も、\r\n僭主サリヴァーンの不興を買ってしまいます",
+      "eng": "##This tower is a prison.\r\nThy presence shall invoke the ire of the tyrant, Sulyvahn.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "##尽快远离此处为上上之策。",
+      "jap": "##すぐにこの場所を離れた方がよいでしょう",
+      "eng": "##I bid thee leave, anon.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "##愿汝时有暗月恩惠随之。",
+      "jap": "##貴方に、暗い月の祝福がありますように",
+      "eng": "##May the Darkmoon watch over thee.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "##……",
+      "jap": "##アアッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "##……啊，是兄长的……手指。",
+      "jap": "##…ああ、これは…兄の指ですね",
+      "eng": "##Oh, this is...my brother's...finger.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "##却比以前更形细瘦，也遭到侵蚀……",
+      "jap": "##でもあの頃よりも、ずっと細く、蝕まれていますね…",
+      "eng": "##How it has thinned and withered...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "##啊，感谢汝，\r\n兄长一定是为汝所救。",
+      "jap": "##ああ、貴方、ありがとうございました。\r\nきっと兄は、貴方に救われたのでしょう",
+      "eng": "##Oh, my thanks.\r\nI'm certain thou'st given my brother peace.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "##虽不成敬意，收下此戒指吧。",
+      "jap": "##小さなものですが、この指輪をお持ちください",
+      "eng": "##It is not much, but take this ring.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "##虽不成敬意，请汝收下。",
+      "jap": "##小さなものですが、これをお持ちください",
+      "eng": "##It is not much, but please take this.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "##并非以骑士团之长身份，\r\n而是黯影太阳葛温德林之妹，向汝致上谢意。",
+      "jap": "##騎士団総長としてでなく、\r\n陰の太陽グウィンドリンの妹として、貴方へのお礼です",
+      "eng": "##As my thanks, not as a captain,\r\nbut as sister to the Dark Sun Gwyndolin.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##……而吾也因此能在最后，触碰到兄长。",
+      "jap": "##…それに私も、最後に兄に触れることができました",
+      "eng": "##...Thou'st granted me my brother's touch, one last time...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "##已经没有人留下……",
+      "jap": "##もう誰もおりません…",
+      "eng": "##There is no one left...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "##兄长大人，对不起……",
+      "jap": "##兄様、ごめんなさい…",
+      "eng": "##Dear brother, forgive me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "##吾遭受欺瞒……",
+      "jap": "##私は、欺かれました…",
+      "eng": "##I have been deceived...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "##此人为危险男子……",
+      "jap": "##この男は、危険です…",
+      "eng": "##This man is a grave threat...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "##此人为危险女子……",
+      "jap": "##この女は、危険です…",
+      "eng": "##This woman is a grave threat...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,647 @@
 {
   "npc": "yoel",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/yoel.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/yoel.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近尤埃尔时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……",
+      "jap": "…オオッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "拜托，让我死吧，让我解脱吧……",
+      "jap": "どうか、私に死を。私の枷を外したまえ…",
+      "eng": "Please, grant me death. Undo my shackles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……",
+      "jap": "…オオ…オオオッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "……啊。",
+      "jap": "…おお",
+      "eng": "Ohh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……啊，您是……",
+      "jap": "…おお、貴方は…",
+      "eng": "Ohh, then it's true...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "……您是灰烬英雄大人吧。",
+      "jap": "…灰の英雄様ですな",
+      "eng": "A Champion of Ash, as I live and breathe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "能一睹尊容，实属荣幸。",
+      "jap": "お目にかかれて光栄です",
+      "eng": "To be in your presence is a great honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "我是隆道尔的尤艾尔，如你所见，是个巡礼者。",
+      "jap": "私はロンドールのヨエル、見ての通りの巡礼者ですが",
+      "eng": "I am Yoel of Londor, a pilgrim, as you can see, only...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "看来就只剩下我一个人侥幸活命。",
+      "jap": "どうやら一人、死に損なってしまいましてな",
+      "eng": "Somehow, I've failed to die as was ordained.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "……但这可能也是我的命运。",
+      "jap": "…しかし、これも運命かもしれません",
+      "eng": "Well, perhaps my calling lies elsewhere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "灰烬大人，\r\n您有意让我当您的随从吗？",
+      "jap": "灰の方、\r\n私を従者とする気はありませんかな？",
+      "eng": "Say, Champion of Ash,\r\nhow does the idea of taking me into your service strike you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我原本是魔法师，我想多少可以帮上您的忙。",
+      "jap": "私も、元は魔術師。きっと、貴方をお助けできます",
+      "eng": "I was once a sorcerer. Surely I can be of use.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0选择「拒绝」",
+      "jap": "#0話しかけた:1回目・選択肢【しない】",
+      "eng": "#0Choose \"Decline\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "……也是、也是，我也明白。",
+      "jap": "…ああ、ああ、分かります",
+      "eng": "Ahh, mm, yes, of course.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "身为被诅咒的巡礼者，根本不配成为您的随从。",
+      "jap": "呪われた巡礼者など、貴方の従者に相応しかろうはずもない",
+      "eng": "An accursed pilgrim has no place in your honourable service.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "不过，灰烬大人啊，当侥幸活命的巡礼者遇见了英雄大人后，",
+      "jap": "けれど灰の方、死に損ないの巡礼者が、英雄様に見えるなどと",
+      "eng": "But if a lost soul should encounter a legend such as you,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我不禁思考，这一定是命运。",
+      "jap": "私にはそれが、運命に思えてならないのです",
+      "eng": "could that be anything but a movement of fate?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "……所以，我会一直待在这里，",
+      "jap": "…だから、私はずっと、ここにいるでしょう",
+      "eng": "I will remain in this spot.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "说不定您会回心转意啊。",
+      "jap": "貴方の心が、いつか変わることを祈って",
+      "eng": "Praying solemnly that you might have a change of heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0选择「拒绝」后",
+      "jap": "#0話しかけた:2回目・【しない】選択後",
+      "eng": "#0After choosing \"Decline\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "噢噢，灰烬大人，您改变心意了吗？",
+      "jap": "ああ、灰の方。心が変わられましたかな？",
+      "eng": "Ahh, Champion of Ash. Have you had a change of heart?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "拜托您，让我当您的随从吧。",
+      "jap": "どうか私を、貴方の従者としてくださいませ",
+      "eng": "I beg of you, take me into your service.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0选择「让他成为随从」",
+      "jap": "#0話しかけた:1回目・選択肢【従者にする】",
+      "eng": "#0Choose \"Accept his service\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "……噢，非常感谢您答应我的请求。",
+      "jap": "…おお、お聞き入れありがとうございます",
+      "eng": "Ohh, I am honoured, truly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "您给予了我这侥幸活命的人最后的义务……",
+      "jap": "この死に損ないに、最後の役目をお与えくださって…",
+      "eng": "I should be dead, yet you have granted me purpose anew.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "我隆道尔的尤艾尔，决意成为您的随从。",
+      "jap": "私、ロンドールのヨエルは、貴方の従者となりましょう",
+      "eng": "I, Yoel of Londor, do solemnly swear myself to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "……",
+      "jap": "ウアッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "……",
+      "jap": "アァ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "您在做什么！",
+      "jap": "何をされますか！",
+      "eng": "What's come over you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "杀了不死人值得骄傲吗？被诅咒的英雄啊。",
+      "jap": "不死を殺し誇るか、呪われた英雄よ",
+      "eng": "Killing Undead for sport, accursed champion?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "噢噢，灰烬大人，您回来了啊。",
+      "jap": "おお、灰の方、お戻りになりましたか",
+      "eng": "Oh, our Champion of Ash, welcome home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "我这侥幸活命的巡礼者，\r\n居然能看见那般神秘的火焰，",
+      "jap": "死に損ないの巡礼者が、\r\nあのような神秘の火に見えるなど",
+      "eng": "This pilgrim, with a debt in death,\r\nhardly deserves to behold this divine flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "若不是成为您的随从，这件事根本不可能实现。",
+      "jap": "貴方の従者として頂けなければ、叶うはずもありませんでした",
+      "eng": "And I never would have, had you not taken me into your service.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "非常感谢您……我再次重申，请让我奉侍您。",
+      "jap": "ありがとうございます…改めて、私は貴方に仕えましょう",
+      "eng": "I thank you dearly for this... And assure you of my leal service.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0返回传火祭祀场后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "噢噢，灰烬大人，您回来了啊。",
+      "jap": "おお、灰の方。お戻りになりましたか",
+      "eng": "Oh, our Champion of Ash. Welcome back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "有什么事情，请尽管吩咐。",
+      "jap": "どうぞ、何なりとお申し付けくださいませ",
+      "eng": "By all means, tell me what you desire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0牵引出真正的力量后交谈",
+      "jap": "#0話しかけた:本当の力を引き出した後",
+      "eng": "#0Talk-After hollowing by 1 degree",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "噢噢，灰烬大人，您回来了啊。",
+      "jap": "おお、灰の方。お戻りになりましたか",
+      "eng": "Oh, our Champion of Ash. Welcome back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "不肖随从尤艾尔，任您吩咐。",
+      "jap": "従者ヨエルめに、何なりとお申し付けくださいませ",
+      "eng": "I would do anything for my master, just say the word.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "就如同我先前所说，我原本是魔法师。",
+      "jap": "最初にお話しした通り、私は元は魔術師です",
+      "eng": "As I have said, I was once a sorcerer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "虽说隆道尔的法术\r\n比不上声名远播的彼海姆，",
+      "jap": "ロンドールの魔術は、\r\n名高いヴィンハイムに及ぶものではありませんが",
+      "eng": "Alas, the magic of Londor is a far cry\r\nfrom the wonders of Vinheim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "但只要是我知道的法术，绝对倾囊相授。",
+      "jap": "私の知る限りを、貴方にお教えしましょう",
+      "eng": "But I can teach you what I know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "……接着，还有一件事，",
+      "jap": "…そして、もう1つ",
+      "eng": "Perhaps more importantly...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "我能够将您真正的力量牵引而出。",
+      "jap": "私は、貴方の本当の力を、引き出すことができるでしょう",
+      "eng": "I believe that I can help tease out your true strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "这一点隆道尔的巡礼者早已了然于心：",
+      "jap": "ロンドールの巡礼は知っています",
+      "eng": "We pilgrims of Londor are keenly aware.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "身上有黑暗之环烙印的人，\r\n都拥有暗藏的力量……",
+      "jap": "ダークリングを刻む者は、\r\n誰しも力を秘めているのですよ…",
+      "eng": "That those branded by the Darksign\r\npossess something quite special...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0互动列表-选择「牵引出真正的力量」",
+      "jap": "#0リストから選択:本当の力を引き出す",
+      "eng": "#0Menu-Choose \"Draw Out True Strength\" before attaining 5 Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "那么，我们开始吧。",
+      "jap": "では、はじめましょうか",
+      "eng": "Then, shall we begin?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "受到黑暗之环烙印的人啊，引出您真正的力量……",
+      "jap": "ダークリングを刻む者よ、貴方の本当の力を…",
+      "eng": "Bearer of the Darksign, let your true strength shine...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0获得5个黑暗印记后，互动列表-选择「牵引出真正的力量」",
+      "jap": "#0リストから選択:本当の力を引き出す・暗い穴を5つ所持",
+      "eng": "#0Menu-Choose \"Draw Out True Strength\" after attaining 5 Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "噢噢，您已经得到十足的力量了。",
+      "jap": "ああ、貴方様はもう、十分に力を得ておいでです",
+      "eng": "Ahh, you have attained ample strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "看来见真章的时候近了，我辈之王啊……",
+      "jap": "何れすべてお分かりになる、我らの王よ…",
+      "eng": "All will soon be clear, my good Lord...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "请慢走，灰烬大人。",
+      "jap": "いってらっしゃいませ、灰の方",
+      "eng": "Be safe, Champion of Ash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0获得5个黑暗印记后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて・暗い穴を5つ所持",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly, after attaining 5 Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "请慢走，我辈之王啊……",
+      "jap": "いってらっしゃいませ、我らの王よ…",
+      "eng": "Be safe, our Lord...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "……",
+      "jap": "アァ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "……",
+      "jap": "アッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "您在做什么！",
+      "jap": "何をされますか！",
+      "eng": "What do you intend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "……",
+      "jap": "ウァアアアア……ッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "尤莉雅大人……",
+      "jap": "ユリア様…",
+      "eng": "Lady Yuria...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0主角获得5个黑暗印记后，尤埃尔被击杀时",
+      "jap": "#0殺害した:暗い穴を5つ所持",
+      "eng": "#0Upon dying after attained 5 Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "……噢噢，非常感谢您。",
+      "jap": "…ああ、ありがとうございます",
+      "eng": "Ahh, I thank you kindly...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "我辈之王啊……",
+      "jap": "我らの王よ…",
+      "eng": "Our kindest Lord...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "##……",
+      "jap": "##ウァアアアア……ッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "##这还真的是……值得庆贺啊……",
+      "jap": "##なんと、おめでたいことだ…",
+      "eng": "##And a fool's sport it is...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "##……灰烬大人，为什么……这么做……",
+      "jap": "##…灰の方、なぜ、こんなことを…",
+      "eng": "##Champion of ash, what have you done?",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

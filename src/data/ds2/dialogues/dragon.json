@@ -1,6 +1,79 @@
 {
   "npc": "dragon",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/dragon.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/dragon.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次聊天",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "沉淀蠢动再起",
+      "jap": "淀みが動き始めた…",
+      "eng": "The murk shifts and stirs.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "势将物换星移……",
+      "jap": "また移り行くのか…",
+      "eng": "Yet another stands before us...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "避无可避",
+      "jap": "逃れ得ようはずもない…",
+      "eng": "Then so be it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "若追寻的欲望为生之定律",
+      "jap": "求めようとすることが、生の定めならば…",
+      "eng": "For the curse of life, is the curse of want.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "那么…… ",
+      "jap": "だが、だからこそ… ",
+      "eng": "And so, you peer...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "汝可愿寻求存于雾中的真理？",
+      "jap": "霧の中の答えを求めるのか",
+      "eng": "Into the fog, in hope of answers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次聊天",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "… … … ",
+      "jap": "… … … ",
+      "eng": "......",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

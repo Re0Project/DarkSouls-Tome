@@ -1,6 +1,583 @@
 {
   "npc": "domhnall",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/domhnall.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/domhnall.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "唷，你好啊。",
+      "jap": "やあ、こんにちは",
+      "eng": "Aye, siwmae.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "很高兴见到你。",
+      "jap": "はじめまして",
+      "eng": "And good day to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我是杰纳的德纳尔，",
+      "jap": "私はゼナのドーナル",
+      "eng": "I'm Domhnall of Zena.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "算是……做买卖的吧。",
+      "jap": "なんというか…商い者さ",
+      "eng": "I'm just, well, a peddler, of sorts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我最喜欢珍奇异品，有的话可以卖给我喔。",
+      "jap": "珍品奇品、取引するよ。大好きなんだ",
+      "eng": "I adore trinkets and oddities, so I trade for them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "唷，你好啊。",
+      "jap": "やあ、こんにちは",
+      "eng": "Aye, siwmae.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "我最喜欢珍奇异品，有的话可以卖给我喔。",
+      "jap": "珍品奇品、取引するよ。大好きなんだ",
+      "eng": "I adore trinkets and oddities, so I trade for them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0离开不死镇底层后，返回攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-After leaving & returning to the Depth",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "唷，你好啊。",
+      "jap": "やあ、こんにちは",
+      "eng": "Aye, siwmae.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "又见面啦。",
+      "jap": "また会ったね",
+      "eng": "We meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0返回传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "唷，你好啊。",
+      "jap": "やあ、こんにちは",
+      "eng": "Aye, siwmae.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "真没想到这里会有人来啊。",
+      "jap": "まさか、人が来るとは思わなかったよ",
+      "eng": "I didn't expect to meet anybody here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "这表示我们两个喜好都很特殊，嘿嘿。",
+      "jap": "お互い物好きってことかな。うん、うん",
+      "eng": "I suppose great minds think alike, eh? Heh heh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0离开传火祭祀场后，返回攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-After leaving & returning to the Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "唷，你好啊。",
+      "jap": "やあ、こんにちは",
+      "eng": "Aye, siwmae.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "没想到会在这里遇到你，真是巧遇。",
+      "jap": "こんなところで会うなんて、奇遇だな",
+      "eng": "Never thought I'd see you here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我有预感会有一笔好交易。",
+      "jap": "予感がするよ。いい取引ができそうだ",
+      "eng": "This feels karmaic. Pray tell, what do you have for me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0未完成交易时，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "嗯……",
+      "jap": "ふーむ…",
+      "eng": "Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "没有什么特别的……",
+      "jap": "特に何も無いなあ…",
+      "eng": "I'm afraid I don't see anything here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0第1次完成交易后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "嗯……",
+      "jap": "ふーむ…",
+      "eng": "Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "算了，看在和你应该会有笔不错的交易份上……",
+      "jap": "まあ、君とはいい取引ができそうだからね…",
+      "eng": "Well, I'm certain we will make a good trade eventually...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "我就告诉你吧。",
+      "jap": "色々と教えてあげよう",
+      "eng": "So, I am willing to share some tips.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "如果想要地下墓地里的“注火，”就要用神圣武器。",
+      "jap": "地下墓地の「注ぎ火」が欲しければ、神聖な武器を使うといい",
+      "eng": "If you seek Kindling in the Catacombs, use divine weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "这应该可以制服苏醒的骸骨。",
+      "jap": "よみがえる骸骨をおさえられるだろう",
+      "eng": "That will repel the reassembling skeletons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0第2次完成交易后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "嗯……",
+      "jap": "ふーむ…",
+      "eng": "Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "算了，看在和你应该会有笔不错的交易份上……",
+      "jap": "まあ、君とはいい取引ができそうだからね…",
+      "eng": "Well, I'm certain we will make a good trade eventually...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "我就告诉你吧。",
+      "jap": "色々と教えてあげよう",
+      "eng": "So, I am willing to share some tips.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "小隆德的亡灵受到了诅咒，\r\n一般来说是伤不了他们的，",
+      "jap": "小ロンドの亡霊は、呪われているからね\r\n通常じゃあ手も足も出ない",
+      "eng": "The cursed Ghosts of\r\nNew Londo are formidable foes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "想要伤到他们，就要特殊的武器……或受诅咒的身体。",
+      "jap": "何とかしたければ、特別な武器か…呪われた体が必要なのさ",
+      "eng": "To face them, you will require special arms...Or a cursed body.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "如果想早点受诅咒，\r\n一般是要去下水道找眼珠蜥蜴",
+      "jap": "手っ取り早く呪われたければ、\r\n下水の目玉トカゲがお勧めだな",
+      "eng": "The quickest way to be cursed? \r\nTry the bug-eyed lizards in the sewer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "……但我是不建议啦。",
+      "jap": "…やめた方がいいと思うけどね",
+      "eng": "Desperate measures, to be sure...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0第3次完成交易后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "嗯……",
+      "jap": "ふーむ…",
+      "eng": "Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "算了，你也算是个好顾客……",
+      "jap": "まあ、君はいい取引相手だからね…",
+      "eng": "You are a fine trading partner.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "不知道传说是否属实，\r\n但我听说残存的古龙居住在这个地方的某处。",
+      "jap": "真偽も分からない噂だけど\r\nこの地のどこかに、古い竜の生き残りがいるらしい",
+      "eng": "Rumour it may be, but I have heard of\r\na surviving ancient dragon who resides in this land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "我还听说有几个不死人在服侍古龙，\r\n并为了成为龙而在修行。",
+      "jap": "僅かな不死が古竜に仕え\r\n自らも竜になるために修行しているとも聞くよ",
+      "eng": "A coterie of Undead serves the dragon,\r\nas they train to become dragons themselves.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "如果是真的，还真想见一面看看啊……",
+      "jap": "もし本当なら、是非会ってみたいものだねえ…",
+      "eng": "Sounds unlikely, but you never know, do you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "这次真是遗憾啊。",
+      "jap": "今回は、残念だったね",
+      "eng": "Well, that is a shame, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "没关系，这种事没什么，别放心上。",
+      "jap": "まあ、こんなこともあるさ。うん、うん",
+      "eng": "But no matter. No, not to worry.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "下次看到我，记得和我打个招呼吧，我会等你的。",
+      "jap": "懲りずに声をかけてくれよ、待ってるから",
+      "eng": "Come back again. I'm always available.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "说起来，交易就是看缘分嘛。",
+      "jap": "結局、取引は出会いの運命だからね",
+      "eng": "Not every trade was meant to be.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "有缘的话还是会见面的，\r\n我很期待下次的交易。",
+      "jap": "縁があればどうしたって導かれる\r\nだから、待つのも楽しいものさ",
+      "eng": "There'll be more in store for us,\r\nsomeday, sometime!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "多谢。真棒的交易。",
+      "jap": "ありがとう。いい取引だった",
+      "eng": "Thank you. That was a fine trade.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "很期待下次再遇到你，",
+      "jap": "君とは、また会えたら嬉しいな",
+      "eng": "I have this funny feeling we'll meet again soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "有缘再来笔好交易吧。",
+      "jap": "素晴らしい取引をしようよ",
+      "eng": "And we'll make another fine trade, of course!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "怎么了你！",
+      "jap": "ど、どうした！",
+      "eng": "Hold on, there!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "你做什么！",
+      "jap": "何をするんだ！",
+      "eng": "What's this about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "住手啊！",
+      "jap": "やめてくれ！",
+      "eng": "Now, stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "好痛",
+      "jap": "イタッ",
+      "eng": "Ouch!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0第5次受到攻击时",
+      "jap": "#0攻撃した:5回目",
+      "eng": "#0Upon being attacked-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "啊",
+      "jap": "アウッ",
+      "eng": "Oww!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "你到底是怎么了？",
+      "jap": "どうしたんだ、一体",
+      "eng": "What problem do you have now?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "但是，我并不喜欢争斗。",
+      "jap": "だが、争うのは好きじゃない",
+      "eng": "I'm a man of peace, idiot!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "再见啦。拜拜。",
+      "jap": "さよならだな。バイバイだ",
+      "eng": "Enough of you, I say, farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "这……为什么……",
+      "jap": "そんな…どうして…",
+      "eng": "By the Lords...why...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "我的收藏品啊……",
+      "jap": "私のコレクションが…",
+      "eng": "My precious collection...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "##有没有发现什么珍奇异品啊？",
+      "jap": "##何か珍品でも見つけたのかい？",
+      "eng": "##Found anything special for my good self?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "##有的话就太感谢了。",
+      "jap": "##だったら嬉しいな",
+      "eng": "##Mmm, I certainly hope so!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

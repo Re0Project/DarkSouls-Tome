@@ -1,6 +1,359 @@
 {
   "npc": "gwynevere",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/gwynevere.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/gwynevere.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近葛维艾薇雅的幻象时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching Gwynevere",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "不死人英雄呀，真高兴你能成功克服考验前来此处，",
+      "jap": "よく参りました、試練をこえた、不死の英雄よ",
+      "eng": "Thou hast journey'd far, and overcome much, chosen Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "来吧，到我的身边……",
+      "jap": "さあ、私の側に…",
+      "eng": "Come hither, child...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0第1次跪下",
+      "jap": "#0跪く:1回目",
+      "eng": "#0Kneel-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "不死人英雄啊。",
+      "jap": "不死の英雄よ",
+      "eng": "O chosen Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我的名字是葛维艾薇雅，",
+      "jap": "私の名はグウィネヴィア",
+      "eng": "I am Gwynevere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "亦是葛温大王之女，阳光公主。",
+      "jap": "大王グウィンの娘、太陽の光の王女です",
+      "eng": "Daughter of Lord Gwyn; and Queen of Sunlight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "自从父王躲藏起来后，便一直等待着你，",
+      "jap": "父が隠れてより後、貴方を待っておりました",
+      "eng": "Since the day Father his form did obscureth, I have await'd thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "我要把王器交给你。",
+      "jap": "貴方に、王の器を授けます",
+      "eng": "I bequeath the Lordvessel to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "我恳求你答应一件事。\r\n请你成为葛温大王后继者，传承世界之火吧。",
+      "jap": "お願いです\r\n大王グウィンの後継として、世界の火を継いでください",
+      "eng": "And beseech thee.\r\nSucceed Lord Gwyn, and inheriteth the Fire of our world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "如此一来，相信人世之夜也会划下句点，\r\n而不死人也将不再出现。",
+      "jap": "そうすれば、人の世の夜も終わり\r\n不死の現れもなくなるでしょう",
+      "eng": "Thou shall endeth this eternal twilight,\r\nand avert further Undead sacrifices.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0第2次跪下",
+      "jap": "#0跪く:2回目",
+      "eng": "#0Kneel-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "不死人英雄啊，",
+      "jap": "不死の英雄よ",
+      "eng": "O Chosen Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "真高兴你又来到此处，",
+      "jap": "よく再び参りました",
+      "eng": "Thou hath journey'd far.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "自从父王躲藏起来后，便一直等待着你，",
+      "jap": "父が隠れてより後、貴方を待っておりました",
+      "eng": "Since the day Father his form did obscureth, I have await'd thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "等你以人身成为不死人，再以不死人成为英雄，\r\n担任父王的后继者。",
+      "jap": "すなわち、人として不死となり、不死として英雄となる\r\n父の後継者を",
+      "eng": "Once living, now Undead,\r\nand a fitting heir to father Gwyn thou art,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "即便是身为英雄的你，这应该也会是场艰辛，严苛的考验吧。",
+      "jap": "それは、英雄たる貴方にさえ、辛く、厳しい試練となるでしょう",
+      "eng": "A grave and arduous test of mettle, yea, it shall be.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "但我们已经体会了火的明亮、温暖，\r\n了解如何生生不息。",
+      "jap": "ですが、私たちはもう、火の明るさを知り、熱を知り\r\n生命の営みを知っています",
+      "eng": "Indeed we had felt the warmth of Fire, its radiance,\r\nand the life it sustaineth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "倘若失去了世界之火，\r\n所遗留下来的将只有冰冷的黑暗及恐惧而已。",
+      "jap": "もう、世界の火を失えば\r\n残るのは、冷たい暗闇と、恐ればかりなのです",
+      "eng": "Without Fire,\r\nall shall be a frigid and frightful Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "我想求你答应一件事。\r\n请你成为葛温大王后继者，传承世界之火吧。",
+      "jap": "お願いです\r\n大王グウィンの後継として、世界の火を継いでください",
+      "eng": "Please. Father's role thou should assume,\r\nand inheriteth the Fire of our world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "如此一来，相信人世之夜也会划下句点，\r\n而不死人也将不再出现。",
+      "jap": "そうすれば、人の世の夜も終わり\r\n不死の現れもなくなるでしょう",
+      "eng": "Thou shall endeth this eternal twilight,\r\nand avert further Undead sacrifices.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "世界之蛇──寻找王者的芙拉姆特一定会从旁协助引导你的。",
+      "jap": "世界の蛇、王の探索者フラムトが、貴方を導いてくれるはずです",
+      "eng": "Kingseeker Frampt, the primordial serpent, shall guideth thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0您要订立誓约吗？选择「是」",
+      "jap": "#0リストから選択:誓約を交わす・選択肢【YES】",
+      "eng": "#0Menu-Choose \"Yes\" to joining the Princess Guard Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "自此之后，我就是你的守护者了。",
+      "jap": "これより後、グウィネヴィアは、貴方の守護者です",
+      "eng": "Hereafter, I, Gwynevere, shall serveth as thine guardian.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "如果你有任何请求，我将竭尽一切能力来协助你。",
+      "jap": "貴方が望めば、私のすべてを助けとするでしょう",
+      "eng": "If thou so needest, I shalt devote all to thine safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "愿阳光始终与你同在。",
+      "jap": "貴方が、常に太陽の光と共にあらんことを",
+      "eng": "May thou be one with the sunlight for evermore.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0装满王器后跪下",
+      "jap": "#0跪く:王の器を満たした後",
+      "eng": "#0Kneel-After filling the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "喔……你已经将王器装满了啊……",
+      "jap": "おお…王の器を満たしたのですね…",
+      "eng": "Magnificent...Thou hast filled the Lordvessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "你果然是一位伟大的英雄。",
+      "jap": "やはり、貴方は偉大な英雄です",
+      "eng": "Indeed, a worthy successor, thou shalt be.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "不枉我一直等待你现身……",
+      "jap": "ずっと、待っていたかいがありました…",
+      "eng": "My patience was not for nil...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "我想求你答应一件事。\r\n请你成为葛温大王后继者，传承世界之火吧。",
+      "jap": "お願いです\r\n大王グウィンの後継として、世界の火を継いでください",
+      "eng": "I beg of thee.\r\nSucceed Lord Gwyn, and inheriteth the world's Fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "这是唯有你才办得到的事。",
+      "jap": "それは、貴方にしか、できないことなのです",
+      "eng": "We have only thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "不死人英雄，你要离开了吗？",
+      "jap": "いくのですね、不死の英雄よ",
+      "eng": "Now thou shalt go forth, chosen Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "愿阳光始终与你同在。",
+      "jap": "貴方が、常に太陽の光と共にあらんことを",
+      "eng": "May thou be one with the sunlight for evermore.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0幻象被打破后",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "啊────",
+      "jap": "アーーーーッ",
+      "eng": "Aieegh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "##我已经等你很久了。",
+      "jap": "##貴方を待っていました",
+      "eng": "##I hath long await'd thee.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "##不死人英雄啊，",
+      "jap": "##不死の英雄よ",
+      "eng": "##O chosen Undead.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "##我唯一能做的事就只有在此恳求你。",
+      "jap": "##私には、ただ、貴方に願うことしかできません",
+      "eng": "##Yet I have only thee to ask.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "##另外，不死人英雄啊，",
+      "jap": "##そして、不死の英雄よ",
+      "eng": "##Furthermore, chosen Undead.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "##我是你的守护者，我会竭尽一切能力来协助你。",
+      "jap": "##私は貴方の守護者です　すべてを、貴方の助けとしてください",
+      "eng": "##Mineself art thine guardian. I offer all in thine assistance.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

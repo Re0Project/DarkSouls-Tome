@@ -1,6 +1,1231 @@
 {
   "npc": "laurentius",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/laurentius.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/laurentius.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近不死镇底层关押劳伦迪斯的木桶时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching Laurentius' location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……喂。",
+      "jap": "…おい",
+      "eng": "...You",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "……喂，那边的……",
+      "jap": "…おい、あんた…",
+      "eng": "...Yes, you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……我在这，我在这啊……",
+      "jap": "…こっちだ、こっちだよ…",
+      "eng": "...Here, over here!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……救我……",
+      "jap": "…助けてくれよ…",
+      "eng": "...Please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……拜托……",
+      "jap": "…頼む…",
+      "eng": "...You must help me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0打破木桶前攀谈",
+      "jap": "#0話しかけた:救出前",
+      "eng": "#0Talk-Before breaking the barrel to free him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "……喔，你来了……",
+      "jap": "…おお、あんた…",
+      "eng": "...Oh, there you are...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……拜托救我……",
+      "jap": "…頼む、俺を助けてくれ…",
+      "eng": "...You must help me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "……否则我会被……",
+      "jap": "…でないと、俺はあいつに…",
+      "eng": "...Or else...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "……会被那家伙吃掉……",
+      "jap": "…あいつに、食われちまうんだ…",
+      "eng": "...She'll have me for lunch!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "……喂，拜托你……",
+      "jap": "…なあ、頼むよ、あんた…",
+      "eng": "...You're my only hope...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……求求你……",
+      "jap": "…頼むよ…",
+      "eng": "...Oh, please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0打破木桶后，第1次攀谈",
+      "jap": "#0話しかけた:救出後:1回目",
+      "eng": "#0Talk-1st time after breaking the barrel to free him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "……谢，谢谢你。",
+      "jap": "…あ、ありがとうよ",
+      "eng": "...Th-thank you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "多亏你，我才没被吃了……",
+      "jap": "おかげで、あいつに食われずにすんだ…",
+      "eng": "I would have been her supper without you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "被活活抓去料理，光用想象的就觉得可怕……",
+      "jap": "死ねずに料理されるなんて、考えるだけぞっとすらあ…",
+      "eng": "Being eaten alive! I shudder to think...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "真的非常感谢你。",
+      "jap": "ほんとに、ありがとうよ",
+      "eng": "Thank you, thank you dearly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我是大沼的劳伦迪斯，",
+      "jap": "俺は大沼のラレンティウス",
+      "eng": "I am Laurentius, of the Great Swamp.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "这个恩情我一定会回报你。",
+      "jap": "この借りは、きっと返すぜ",
+      "eng": "I will not forget my debt to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0打破木桶后，第2次攀谈",
+      "jap": "#0話しかけた:救出後:2回目",
+      "eng": "#0Talk-2nd time after breaking the barrel to free him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "喔，是你啊。",
+      "jap": "おお、あんたか",
+      "eng": "Oh, hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "我已经没事了。",
+      "jap": "俺ならもう大丈夫だ",
+      "eng": "I'm fine, thanks to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "哇！",
+      "jap": "うわっ！",
+      "eng": "Whoa!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "你做什么！",
+      "jap": "あんた、何するんだ！",
+      "eng": "It is I, Laurentius!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "是我！劳伦迪斯啊！",
+      "jap": "俺だ！ラレンティウスだ！",
+      "eng": "What are you doing?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "我不是你的敌人！",
+      "jap": "あんたの敵じゃねえ！",
+      "eng": "I have no bone to pick with you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "可恶！为什么会这样！",
+      "jap": "畜生！なんだってんだ！",
+      "eng": "Curse the heavens! Are you mad!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "我一直很感谢你！",
+      "jap": "感謝してたのに！",
+      "eng": "I owe my life to you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "我一直很感谢你的啊！",
+      "jap": "あんたには、感謝してたのに！",
+      "eng": "This is wrong! You were my friend!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "可恶……",
+      "jap": "畜生…",
+      "eng": "Curses...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0返回传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "喔，你人还好吧？",
+      "jap": "おお、あんた、無事だったか",
+      "eng": "Well, I see you made it out!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "嗯，我也好不容易安全了。",
+      "jap": "ああ、こっちもなんとか無事さ",
+      "eng": "Yeah, I made it out safely, too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "我会使用大沼的咒术，\r\n小心一点就还过得去。",
+      "jap": "俺には大沼の呪術があるからな\r\n油断さえしなけりゃ、なんとかなるんだ",
+      "eng": "I have my Pyromancy of the Great Swamp,\r\nso I can usually manage, with a bit of care.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "啊，对了，我可以教你咒术，你想学吗？",
+      "jap": "おお、そうだ。あんたになら、呪術を伝授してやってもいいぜ？",
+      "eng": "Oh, yeah, by the way, er, I can share my spells with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "你有天赋，所以只要有材料就可以办得到。",
+      "jap": "あんたには素質がある。材料さえあれば、何とでもなるからな",
+      "eng": "I think you have a knack for it. All you need are the materials.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "算是我答谢你的一点心意啦。",
+      "jap": "俺の感謝の気持ちだ",
+      "eng": "I'd be pleased to help you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "……还是你也想说，你觉得咒术很恶心？",
+      "jap": "…それとも、あんたも、呪術は気色悪い口か？",
+      "eng": "...Ah, unless you find the magics unsavoury?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "是吗，你不愿意学啊……",
+      "jap": "ああ、そうか…残念だ…",
+      "eng": "Oh, really...Well, that's a shame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "那也没办法……",
+      "jap": "だが、仕方ないな…",
+      "eng": "But it is your choice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "我是异端分子，这我知道。\r\n即使变成不死人，异端还是异端。",
+      "jap": "俺は異端だ、そんなことはわかってる\r\n不死になっても、それは変わらないさ",
+      "eng": "I'm on the fringe; yeah, I know.\r\nUndead or not, that's who I am.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "只是，我没办法帮上你，真的很遗憾……",
+      "jap": "ただ、あんたの役に立てなくて残念だよ…",
+      "eng": "I only wish that I could have repaid you somehow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0选择「是」后攀谈",
+      "jap": "#0話しかけた:2回目・【YES】選択後",
+      "eng": "#0Talk-After choosing \"Yes\" to the 1st query, or \"No\" after \"Yes\" to the 2nd",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "啊，是你啊。",
+      "jap": "おお、あんたか",
+      "eng": "Oh, hello, there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "你没事真是太好了。",
+      "jap": "無事でなによりだ",
+      "eng": "I am pleased to see you safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "那……要是你改变心意，随时都可以和我说。",
+      "jap": "それと…万が一、気が変わったら言ってくれ",
+      "eng": "Oh, and er...if by chance you've had a change of heart,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "我能帮你的，\r\n也只有教你咒术而已了……",
+      "jap": "俺があんたの役に立てるとしたら\r\n呪術しかなさそうだからな…",
+      "eng": "I'll be pleased to assist you\r\nby sharing my spells.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0您打算如何回答？选择「否」，或选择「是」后攀谈后，选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "喔，太好了！",
+      "jap": "おお、そうか！",
+      "eng": "Yeah, wonderful!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "这一定会帮到你的！",
+      "jap": "あんたの役に立てそうだ！",
+      "eng": "I'm sure they'll be of some use, some assistance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "那这个先给你吧。",
+      "jap": "じゃあ、まずこれを渡しておくぜ",
+      "eng": "Here, first, take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "这是大沼之火。\r\n有了这个，你也是咒术师了。",
+      "jap": "大沼の火だ。\r\nこれであんたも、呪術師ってわけだ",
+      "eng": "A flame from the Great Swamp.\r\nNow you're a fully-fledged pyromancer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "那我们就开始啦。",
+      "jap": "じゃあ、早速はじめるとしようか",
+      "eng": "Why, let's get started right now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-After choosing \"No\" to the 1st query, or \"Yes\" after \"No\" to the 2nd",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "啊，是你啊。",
+      "jap": "おお、あんたか",
+      "eng": "Oh, hello, there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "你没事真是太好了。",
+      "jap": "無事でなによりだ",
+      "eng": "I am pleased to see you safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "还是一样，如果你有材料的话，\r\n我就教你咒术。",
+      "jap": "約束どおり、材料があれば、\r\n呪術を伝授するぜ",
+      "eng": "As always, if you provide the materials,\r\nI can teach you pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "咒术是用火的技艺──",
+      "jap": "呪術ってのは、つまり火の業だ",
+      "eng": "Pyromancy is the art of casting fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "是点燃火焰加以利用的原始生命技艺。",
+      "jap": "火を熾し、利用する、原初の命の業だ",
+      "eng": "Produce flame, then channel it; just as our ancestors did.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "所以说到咒术师，就会与自然有所连结，",
+      "jap": "だから呪術師は、自然であろうとする",
+      "eng": "A pyromancer must be in tune with nature herself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "而我的故乡──大沼，也是所谓的自然地。",
+      "jap": "俺のいた大沼も、そういう場所だった",
+      "eng": "My home, the Great Swamp, is an abundant store of nature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "总有一天你也能体会。",
+      "jap": "いつかあんたにも、分かってもらえるだろう",
+      "eng": "You will understand, one day; it only takes time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "咒术有相当原始的一面，",
+      "jap": "呪術には、ある種原初的な面があってな",
+      "eng": "Pyromancy has a, well, rather primitive aspect to it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "因此会有与文明事物完全不兼容的地方，",
+      "jap": "どうしても、文明みたいなものと相容れないことがある",
+      "eng": "It meshes poorly with advanced culture,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "这就是咒术师之所以会惹人嫌的缘故。",
+      "jap": "だから、大抵、呪術師は嫌われ者だ",
+      "eng": "and pyromancers are considered rather unsavoury.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "不过我也不喜欢人，所以正好。",
+      "jap": "まあ、俺は人嫌いだから、ちょうどよかったさ",
+      "eng": "Which is fine, as I never got along with anybody anyway.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "而且成为不死人之后，情况也没改变嘛。",
+      "jap": "不死になっても、何も変わらなかったしな",
+      "eng": "So, for me, turning Undead didn't change a thing!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "哈哈哈哈",
+      "jap": "ハハハハッ",
+      "eng": "Hah hah hah hah.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "咒术之火是咒术师身体的一部分。",
+      "jap": "呪術の火ってのは、呪術師の体の一部なんだ",
+      "eng": "A pyromancer's flame is a part of his own body.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "每个咒术师都会细心培养这团火，来提高自己的咒术能力",
+      "jap": "皆、これを大事に育て、自分の術を高めていく",
+      "eng": "The flame develops right along with his skill.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "所以说，我给你的火也是我身体的一部分，",
+      "jap": "だから、あんたに渡した火は、俺の一部でもある",
+      "eng": "When I gave you that flame, I gave you a part of myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "你要好好珍惜啊。",
+      "jap": "せいぜい大事にしてくれよな",
+      "eng": "Please take good care of it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0互动列表-第3次选择「交谈」，且主角是咒术师出身时",
+      "jap": "#0リストから選択:話すC・主人公が呪術師",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time, if chosen the Pyromancer class",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "咒术之火是咒术师身体的一部分。",
+      "jap": "呪術の火ってのは、呪術師の体の一部なんだ",
+      "eng": "A pyromancer's flame is a part of his own body.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "每个咒术师都会细心培养这团火，来提高自己的咒术能力",
+      "jap": "皆、これを大事に育て、自分の術を高めていく",
+      "eng": "The flame develops right along with his skill.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "……抱歉，你也是咒术师，我讲的你应该都已经知道了。",
+      "jap": "…すまん。あんたも呪術師なんだ、分かりきったことだったな",
+      "eng": "...Sorry. You're a pyromancer yourself. You already know this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0互动列表-第4次选择「交谈」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "我的老师应该还在大沼吧。",
+      "jap": "俺の師匠ってのが、多分今でも大沼にいるんだが",
+      "eng": "My teacher, whom I imagine still resides in the Great Swamp,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "我老师有个口头禅：",
+      "jap": "その師匠の口癖ってのがあってな",
+      "eng": "had a funny way of putting it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "“所谓咒术，说到底就是种对火的憧憬。",
+      "jap": "呪術ってのは、とどのつまり憧憬なんだと",
+      "eng": "He said that \"Pyromancy is the ultimate fantasy....",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "“我们生于黑暗，受到火吸引，\r\n但却不得触碰，",
+      "jap": "闇に生きて、火に惹かれて、\r\nでも触れることすらできなくて",
+      "eng": "\"We are born into Dark, and warmed by Fire,\r\nbut this Fire we cannot touch.\"",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "“正是这种强烈的憧憬，\r\n让我们得以操控一部分的火。”",
+      "jap": "そんな憧れが強いものだけが、\r\n火の力の一端を手にできるんだと",
+      "eng": "\"Those whose fascination with Fire persists,\r\nlearn to hold it in their own hand.\"",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "那个瘦巴巴的老头，\r\n老是在那边装模作样的……",
+      "jap": "干からびたようなジジイの癖に\r\n妙に格好をつけたがるんだよ…",
+      "eng": "He rather had a way with words,\r\nthe old withering frog!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0互动列表-第5次选择「交谈」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "这地方对咒术师来说有特殊的意义。",
+      "jap": "この地は、呪術師には特別な意味があってな",
+      "eng": "In this land, pyromancers earn a certain respect.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "传说中的最初诸王之一──伊札里斯魔女，",
+      "jap": "伝承にある最初の王の1人、イザリスの魔女ってのが",
+      "eng": "The Witch of Izalith, one of the legendary Lords,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "据说就是咒术的始祖。",
+      "jap": "そもそもの呪術の祖だと言われているんだ",
+      "eng": "is the godmother of pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "所以当我变成不死人的时候，就更高兴了。",
+      "jap": "だから、不死になったときは、いっそ嬉しかったもんだ",
+      "eng": "So, the day I became Undead, I was ecstatic.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "我觉得我是万中选一的，可以接触到初始的咒术了。",
+      "jap": "俺は選ばれたんだ、原初の呪術に触れるんだ、ってな",
+      "eng": "I felt as if I'd been chosen to attune myself to the ancient arts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "……不过，事情发展却不如预期……",
+      "jap": "…まあ、そんな甘いものじゃなかったがね…",
+      "eng": "...Of course, it wasn't all that romantic in the end...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "#0除魅惑不死人外，获得劳伦迪斯不会的咒术后攀谈",
+      "jap": "#0話しかけた:ラレンティウスのない呪術を入手後",
+      "eng": "#0Talk-After attained a pyromancy Laurentius don't have",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 102,
+      "chn": "啊，是你啊。",
+      "jap": "おお、あんたか",
+      "eng": "Ah, hello, there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "好久不见……",
+      "jap": "久しぶりじゃない…",
+      "eng": "You've been a stranger these days.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "咦！你怎么会使用那招咒术？",
+      "jap": "！あんた、その呪術はどうしたんだ？",
+      "eng": "Why, what spectacular pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "我没有看过这种咒术！拜托你教我吧！",
+      "jap": "教えてくれ！俺は、そんな呪術見たことがない！",
+      "eng": "Tell me about it. I have never seen anything like it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:ラレンティウスのない呪術を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "……是吗，是我搞错了吗……",
+      "jap": "…そうか。俺の勘違いか…",
+      "eng": "...I see. I suppose I was mistaken.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "……不，你说的肯定不会有错。",
+      "jap": "…いや、あんたがそう言うんだ、そうなんだろう",
+      "eng": "In any case, I definitely trust you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "抱歉啦，和你说了一些乱七八糟的话，",
+      "jap": "変なこと言って、悪かったな",
+      "eng": "Apologies, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "请你忘了吧……",
+      "jap": "忘れてくれ…",
+      "eng": "Forget that I said anything.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:ラレンティウスのない呪術を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "……原来，果然是这样！",
+      "jap": "…そうか。やはりそうか！",
+      "eng": "Why, yes, of course!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "谢谢你教我。",
+      "jap": "教えてくれてありがとう",
+      "eng": "Thank you for sharing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "好歹我也是咒术师，我会靠自己找到她。",
+      "jap": "俺も呪術師のはしくれだ。自力で彼女を見つけてみせる",
+      "eng": "I'm still an able pyromancer. I shall locate her myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "看来我又欠了你一份人情了。",
+      "jap": "あんたには、また借りができちまったな",
+      "eng": "I am in your debt, once again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 117,
+      "chn": "再见啦。",
+      "jap": "じゃあな",
+      "eng": "Good-bye, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "祝你顺风，",
+      "jap": "無事でいろよ、あんた",
+      "eng": "Be safe, friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "不要变成游魂啊。",
+      "jap": "亡者になんてなるんじゃねえぜ",
+      "eng": "Don't you dare go Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 121,
+      "chn": "再见啦。",
+      "jap": "じゃあな",
+      "eng": "Good-bye, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "有找到什么的话，记得再来这找我。",
+      "jap": "何か見つけたら、またこいよ",
+      "eng": "Come back if you find anything new.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "喂！",
+      "jap": "おい、あんた！",
+      "eng": "Wait, friend!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "你要去哪？",
+      "jap": "どこいくんだ？",
+      "eng": "Where are you off to?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻つた ",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 127,
+      "chn": "刚才发生什么事？",
+      "jap": "さっきはどうしたんだ？",
+      "eng": "That was rather abrupt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "你还真是怪人。",
+      "jap": "変な奴だな",
+      "eng": "You are an odd one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "哈哈哈哈",
+      "jap": "ハハハハッ",
+      "eng": "Hah hah hah hah.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 131,
+      "chn": "啊！",
+      "jap": "うわっ！",
+      "eng": "Whoa!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 133,
+      "chn": "你怎么了！",
+      "jap": "あんた、どうしたんだ！",
+      "eng": "What's wrong with you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 135,
+      "chn": "住手啊！",
+      "jap": "やめてくれよ！",
+      "eng": "Stop that, please!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 137,
+      "chn": "因为我是咒术师吗？可恶！",
+      "jap": "呪術師だからか！畜生！",
+      "eng": "You detest my pyromancy! That must be it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "那我也不客气了！",
+      "jap": "だったらやってやる！",
+      "eng": "Then, I'll give you a taste of it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "就算是你，我也不会手下留情！",
+      "jap": "あんただって、容赦しないぞ！",
+      "eng": "And it will not be pleasant, I assure you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 141,
+      "chn": "啊啊啊……",
+      "jap": "あああ…",
+      "eng": "Aaahhhh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "##……呃……呃……",
+      "jap": "##…うう…うう…",
+      "eng": "##...Hrr...rrgg...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "##……有人吗……",
+      "jap": "##…誰か…",
+      "eng": "##...somebody...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "##……救救我……",
+      "jap": "##…助けて、くれ…",
+      "eng": "##...please...help me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "##……不要啊……",
+      "jap": "##…嫌だ…",
+      "eng": "##...please...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "##……我不想被吃掉啊……",
+      "jap": "##…食われるのは、嫌だ…",
+      "eng": "##...before she eats me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "##……把这个壶打坏……",
+      "jap": "##…この壺を壊してくれ…",
+      "eng": "##...Break the urn...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "##我会视情况，再决定要不要回去不死院。",
+      "jap": "##様子をみて、不死院に戻るつもりさ",
+      "eng": "##I'm heading back to the Undead Asylum.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "##啊，是你啊。",
+      "jap": "##おお、あんたか",
+      "eng": "##Oh, hello there.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "##你没事真是太好了。",
+      "jap": "##無事でなによりだ",
+      "eng": "##I'm pleased to see you safe.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "##我决定暂时在这里休息。",
+      "jap": "##俺はしばらくここで休むことにした",
+      "eng": "##I have decided to rest here for a while.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "##反正死也死不了……",
+      "jap": "##どうせ死にもしないのだからな…",
+      "eng": "##It's not as if we'll be dying anytime soon.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,687 @@
 {
   "npc": "gael",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/gael.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/gael.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近盖尔时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching his location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……噢，女神啊，\r\n于世间无处容身的禁忌者之母啊，",
+      "jap": "…ああ、女神よ。\r\n居場所無き忌みものたちの母よ",
+      "eng": "Ahh, merciful goddess,\r\nmother of the Forlorn, who have no place to call their own...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "请您看顾我等的觉悟。",
+      "jap": "我らの覚悟を、どうか見守りたまえ",
+      "eng": "Please, bear witness to our resolve...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "请赐予艾雷德尔火焰、请赐予艾雷德尔火焰，",
+      "jap": "アリアンデルに火を、アリアンデルに火を",
+      "eng": "Fire for Ariandel... Fire for Ariandel...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "赐予能燃起火焰的灰烬。",
+      "jap": "火を起こす灰を",
+      "eng": "And the ash to kindle flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……",
+      "jap": "ウ…グウッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "……啊，你的身上……",
+      "jap": "…ああ、あんた…",
+      "eng": "Wait, you've...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……有和那女的一样的味道……",
+      "jap": "…あんた、あの女と同じ匂いだ…",
+      "eng": "You've the same scent as that woman...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "对了，你是无火的余灰！我没说错吧？",
+      "jap": "そうか、あんた、火の無い灰だな。そうなんだな！",
+      "eng": "Then you must be an Ashen One. You must be!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "……",
+      "jap": "おお…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "我一直在找你啊。",
+      "jap": "儂はあんたを、ずっと探していたんだよ",
+      "eng": "You don't know how long I've searched!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……",
+      "jap": "オォ…オォ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "……哦，哦哦，很抱歉，我乱了方寸。",
+      "jap": "…おお、おお、取り乱してすまなかった",
+      "eng": "Ohh, ohh...don't mind me, didn't mean to fall apart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "我想要拜托无火的余灰，拜托你一件事",
+      "jap": "あんたに、火の無い灰に、お願いがあるんだ",
+      "eng": "Now, Ashen One, I have a kindness to ask of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "……有一个叫作艾雷德尔的寒冷国家，我们大小姐人就在那里，",
+      "jap": "…アリアンデルと呼ばれる、ある冷たい国に、儂のお嬢様がいる",
+      "eng": "My lady lives in the cold land of Ariandel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "想拜托你，让她看见火焰──",
+      "jap": "彼女に、火を見せてあげて欲しいのさ",
+      "eng": "I need you to show her flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "看见燃烧败坏事物的特殊火焰。",
+      "jap": "腐れを焼く、特別な火だ",
+      "eng": "A proper flame, that will burn the rot away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "如果你身为灰烬，肯定会渴求火焰，对吧……？",
+      "jap": "あんた灰なら、きっと火を求めているんだろう…？",
+      "eng": "If you truly are Ash, then it must be fire that you seek?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0选择「拒绝」",
+      "jap": "#0話しかけた:2回目・選択肢【聞かない】",
+      "eng": "#0Choose \"Rufuse\" to either 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "……啊，你是说真的吗？",
+      "jap": "…ああ、あんた、本当かね？",
+      "eng": "Oh. Are you certain of that?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "怎么会、怎么会这样，灰烬竟然不渴求火焰……",
+      "jap": "なんてことだ、なんてことだ。灰が火を求めぬとは…",
+      "eng": "Hogwash, hogwash. What Ash does not seek fire?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "……",
+      "jap": "ウ…グウウゥゥゥ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0选择「拒绝」后交谈",
+      "jap": "#0話しかけた:3回目・【聞かない】選択後",
+      "eng": "#0Talk-After choosing \"Rufuse\" to either 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "啊啊，我想也是啊，",
+      "jap": "ああ、あんた、そうだろうとも",
+      "eng": "Ahh, you again, I knew it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "如果你身为灰烬，还渴求火焰，就答应我的请求吧。",
+      "jap": "灰ならば、火を求めるものならば、儂の願いをきいてくれ",
+      "eng": "As any Ash seeks fire, you will surely help me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "有个叫作艾雷德尔的寒冷国家，我们大小姐人就在那里，",
+      "jap": "アリアンデルと呼ばれる冷たい国に、儂のお嬢様がいる",
+      "eng": "My lady lives in the cold land of Ariandel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "想拜托你，让她看见火焰──",
+      "jap": "彼女に、火を見せてあげて欲しいのさ",
+      "eng": "I need you to show her flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "看见燃烧败坏事物的特殊火焰。",
+      "jap": "腐れを焼く、特別な火だ",
+      "eng": "A proper flame, that will burn the rot away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "况且，这对你来说，也不是件坏事吧……",
+      "jap": "きっとあんたにも、よいものだろう…",
+      "eng": "You will thank me when it's done...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0选择「答应他的请求」",
+      "jap": "#0話しかけた:2回目・選択肢【願いを聞く】",
+      "eng": "#0Choose \"Accept\" to either 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "啊啊，谢谢你，这才配称作无火的余灰啊。",
+      "jap": "ああ、ありがとう。それでこそ、火の無い灰よ",
+      "eng": "Ahh, thank you. They of Ash never fail.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "……稍等一下……",
+      "jap": "…ちょっと、待っていてくれ…",
+      "eng": "...Just a moment, then...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "这是艾雷德尔的绘画，是它破败的一角。",
+      "jap": "これがアリアンデルの絵画。その腐った切れ端さ",
+      "eng": "The painting of Ariandel. Well, rotted scrap of it, that is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "来，伸出你的手，触摸它吧……",
+      "jap": "さあ、手に取ってくれよ…",
+      "eng": "Go on, take it, touch it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "……如此一来，灰烬就成双了。",
+      "jap": "…これで、灰はふたつだ…",
+      "eng": "And then, the Ashes were two.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0初次交谈前，第1次受到攻击时",
+      "jap": "#0攻撃した:初回会話前:1回目",
+      "eng": "#0Upon being attacked before the first talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "住手啊……",
+      "jap": "やめてくれ…",
+      "eng": "Please, stop...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "拜托你了，快点住手……",
+      "jap": "頼む、やめてくれたまえ…",
+      "eng": "I beg of you, please, stop.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0初次交谈前，第2次受到攻击时",
+      "jap": "#0攻撃した:初回会話前:2回目",
+      "eng": "#0Upon being attacked before the first talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "我、我还有该去完成的事情……",
+      "jap": "儂には、儂には、やることがある…",
+      "eng": "My work is not yet done.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "我不是你的敌人……所以，快点住手吧……",
+      "jap": "あんたの敵じゃない…だから、やめてくれ…",
+      "eng": "I am no foe of yours... Please, stop...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0初次交谈前被击杀",
+      "jap": "#0殺害した:初回会話前",
+      "eng": "#0Upon dying before the first talk",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "……啊啊，赐予艾雷德尔火焰吧……",
+      "jap": "…ああ、アリアンデルに火を…",
+      "eng": "Ahh, fire for Ariandel...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "让大小姐……看见火焰……",
+      "jap": "お嬢様に火を…見せて…",
+      "eng": "Show my lady...flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "……",
+      "jap": "ウウ…！　グウゥゥ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0初次交谈前，第1次被击杀后复活",
+      "jap": "#0死亡から復活した:初会話回前に殺害した",
+      "eng": "#0Talk-1st time once he has revived after being killed by the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "……唉，你还真是过分啊……",
+      "jap": "…ああ、あんた、酷いことをするじゃないか…",
+      "eng": "Dear me, why would you do such a thing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "……不过在你身上，有和那女的一样的味道……",
+      "jap": "…だが、あんた、あの女と同じ匂いだ…",
+      "eng": "Oh...the scent of that woman...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "对了，你是无火的余灰！我没说错吧？",
+      "jap": "そうか、あんた、火の無い灰だな。そうなんだな！",
+      "eng": "Then you must be an Ashen One. You must be!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "……",
+      "jap": "おお…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "我一直在找你啊。",
+      "jap": "儂はあんたを、ずっと探していたんだよ",
+      "eng": "You don't know how long I've searched!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "……",
+      "jap": "オォ…オォ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0初次交谈前，第2次被击杀后复活",
+      "jap": "#0再び死亡から復活した:初会回話前に殺害した",
+      "eng": "#0Talk-2nd time once he has revived after being killed by the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "……唉，你还真是过分啊……",
+      "jap": "…ああ、あんた、酷いことをするじゃないか…",
+      "eng": "Dear me, why would you do such a thing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "……不过碰上这种待遇，也是稀松平常的事情了。",
+      "jap": "…まあ、こんな扱いはいつものことだ",
+      "eng": "No matter, it's hardly the first time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "这件事就算了，我有件事想要拜托无火的余灰，也就是你。",
+      "jap": "それよりも、あんたに、火の無い灰に、お願いがあるんだ",
+      "eng": "More importantly, I've a service to ask of you, Ashen One...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "有个叫作艾雷德尔的寒冷国家，我们大小姐人就在那里，",
+      "jap": "アリアンデルと呼ばれる冷たい国に、儂のお嬢様がいる",
+      "eng": "My lady lives in the cold land of Ariandel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "想拜托你，让她看见火焰──",
+      "jap": "彼女に、火を見せてあげて欲しいのさ",
+      "eng": "I need you to show her flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "看见燃烧败坏事物的特殊火焰。",
+      "jap": "腐れを焼く、特別な火だ",
+      "eng": "A proper flame, that will burn the rot away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "况且，这对你来说，也不是件坏事吧……",
+      "jap": "きっとあんたにも、よいものだろう…",
+      "eng": "You will thank me when it's done...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:初回会話後:1回目",
+      "eng": "#0Upon being attacked after talking-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "你这是什么意思……",
+      "jap": "あんた、何のつもりだ…",
+      "eng": "What in blazes...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "还是说，这就是灰烬的真面目吗……",
+      "jap": "それとも、これが灰ということかね…",
+      "eng": "Well, I suppose you are Ash...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:初回会話後:2回目",
+      "eng": "#0Upon being attacked after talking-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "原来是这样啊，这就是灰烬的真面目啊！",
+      "jap": "そうかそうか、これが灰ということかね！",
+      "eng": "Yes, of course, as all Ash should be!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した:初回会話後",
+      "eng": "#0Upon dying after talking",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "……如果你身为灰烬，一定会渴求火焰……",
+      "jap": "…あんたが灰なら、きっと火を求める…",
+      "eng": "If you truly are Ash, you will seek fire...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "燃烧艾雷德尔……",
+      "jap": "アリアンデルを焼く…",
+      "eng": "To set Ariandel ablaze...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "……",
+      "jap": "フハッハッハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0被击杀后复活",
+      "jap": "#0死亡から復活した:初回会話後",
+      "eng": "#0After approaching his location, once he has revived after being killed",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "……唉，你还真是过分啊……",
+      "jap": "…ああ、あんた、酷いことをするじゃないか…",
+      "eng": "Dear me, why would you do such a thing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "……话又说回来，你果然是灰烬。",
+      "jap": "…だが、あんたはやっぱり灰だ",
+      "eng": "Dreadful Ash, through and through...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "有个叫作艾雷德尔的寒冷国家，我们大小姐人就在那里，",
+      "jap": "アリアンデルと呼ばれる冷たい国に、儂のお嬢様がいる",
+      "eng": "My lady lives in the cold land of Ariandel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "想拜托你，让她看见火焰──",
+      "jap": "彼女に、火を見せてあげて欲しいのさ",
+      "eng": "I need you to show her flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "看见燃烧败坏事物的特殊火焰。",
+      "jap": "腐れを焼く、特別な火だ",
+      "eng": "A proper flame, that will burn the rot away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "况且，这对你来说，也不是件坏事吧……",
+      "jap": "きっとあんたにも、よいものだろう…",
+      "eng": "You will thank me when it's done...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0在环印城靠近盖尔时",
+      "jap": "#0戦闘前",
+      "eng": "#0After approaching his location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "你还在啊？",
+      "jap": "まだ、いたのか",
+      "eng": "What, still here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "来，快给我──把你的黑暗灵魂给我。",
+      "jap": "さあ、儂によこせ。お前の、暗い魂を",
+      "eng": "Hand it over. That thing, your dark soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "一切都是为了大小姐的画。",
+      "jap": "お嬢様の画のために",
+      "eng": "For my lady's painting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0攻击至血量低于65%时",
+      "jap": "#0HPが65%以下にした",
+      "eng": "#0After he has reached 65% health or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "啊啊，这就是了吗？",
+      "jap": "ああ、これが血か",
+      "eng": "Ahh, is this the blood?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "这就是黑暗灵魂的血吗？",
+      "jap": "暗い魂の血か",
+      "eng": "The blood of the dark soul?",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

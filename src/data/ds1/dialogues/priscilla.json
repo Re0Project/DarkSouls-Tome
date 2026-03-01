@@ -1,6 +1,167 @@
 {
   "npc": "priscilla",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/priscilla.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/priscilla.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你是谁？",
+      "jap": "あなたは、誰？",
+      "eng": "Who art thou?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你应该不是我们的伙伴吧？",
+      "jap": "私たちの仲間では、ないのでしょう？",
+      "eng": "One of us, thou art not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "如果说你是因为搞错了而迷失到这边的话，",
+      "jap": "もしあやまって、迷い込んだのなら",
+      "eng": "If thou hast misstepped into this world,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "请你从前面向下跳，回到你该去的地方。",
+      "jap": "その先を飛び降りて、戻ってください",
+      "eng": "plunge down from the plank, and hurry home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "倘若你是为了找我而来的话，",
+      "jap": "そしてもし、私を求めてきたのなら",
+      "eng": "If thou seekest I,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "那也是不应该的……",
+      "jap": "それは許されることでは、ないのです…",
+      "eng": "thine desires shall be requited not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "请你回到你的世界吧。",
+      "jap": "あなたは、あなたの世界に戻ってください",
+      "eng": "Thou must returneth whence thou came.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "这边十分宁静，大家也都很和善，\r\n但这并不是你的世界吧。",
+      "jap": "ここは静かで、皆優しげですが\r\nあなたの世界ではないでしょう？",
+      "eng": "This land is peaceful, its inhabitants kind,\r\nbut thou dost not belong.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "请你务必从前面向下跳，回你该去的地方。",
+      "jap": "どうか、その先を飛び降りて、戻ってください",
+      "eng": "I beg of thee, plunge down from the plank, and hurry home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "你果然也和其他人一样吗。",
+      "jap": "あなたも、やはりそうなのですか",
+      "eng": "I expected as much from thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "为什么大家都这么急着赶死呢……？",
+      "jap": "どうして皆、死に急ぐのでしょうか…",
+      "eng": "Why dost thee hurry toward thine death?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "为什么就不能放过我们呢……？",
+      "jap": "なぜ、そっとしておいてくれないのです…",
+      "eng": "Why could thou not let us be?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "这个艾雷米雅斯的世界不就是为此而创的吗？",
+      "jap": "そのための、このエレーミアス世界なのでしょう？",
+      "eng": "Didst thou not see why Ariamis created this world?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "啊……",
+      "jap": "ああ…",
+      "eng": "Ahh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "你为什么要这么做……究竟想得到什么……？",
+      "jap": "あなたは、なぜ…何を望むのですか…",
+      "eng": "But, why...What seeketh thee?",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

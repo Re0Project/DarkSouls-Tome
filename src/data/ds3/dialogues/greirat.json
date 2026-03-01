@@ -1,6 +1,1439 @@
 {
   "npc": "greirat",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/greirat.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/greirat.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0用监牢的钥匙救出葛雷瑞特后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，你好像不是看守人啊？",
+      "jap": "…ああ、あんたは、どうやら牢番じゃあないようだね",
+      "eng": "Ahh, you're no jailer, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "看来是外来的人，而且是在钟响之后才来……",
+      "jap": "おそらくはよそ者、それに、あの鐘の音の後だ…",
+      "eng": "No, no, you're from far away. And judging by the bell...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "你就是那个无火的余灰吗？",
+      "jap": "もしかして、火の無い灰ってやつかね？",
+      "eng": "You must be some of that unkindled ash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "有趣。\r\n要是你真的是，我想拜托你一件事。",
+      "jap": "…驚いたな。\r\nでも、もしあんたが本当にそうなら、ひとつお願いがあるんだ",
+      "eng": "Remarkable.\r\nIf that's true, then I have a favour to ask.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "这道高墙下方有座肮脏的小镇，",
+      "jap": "この高壁の下に、汚い街がある",
+      "eng": "Below the High Wall is a musty little town.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "那里不是王者们的故乡，那是很久以前就存在的……不死镇。",
+      "jap": "王たちの故郷じゃあない、昔からそこにある…不死街さ",
+      "eng": "Not the home of any lord, just a very old settlement of Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "小镇里应该有个叫罗蕾塔的老女人，",
+      "jap": "その街に、ロレッタという、老いた女がいるはずだ",
+      "eng": "An old woman, Loretta, lives there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "希望你把这个戒指交给她。",
+      "jap": "そいつに、この指輪を渡してはもらえんかね",
+      "eng": "Please give her this ring.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "当然，要是你肯帮我完成这件事，我不会让你白忙，",
+      "jap": "ああ、もちろんタダとは言わん。儂の願いを聞いてくれるのなら",
+      "eng": "I-I'm not asking for charity. In fa- in fact, if you do this for me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "我可以帮助你。",
+      "jap": "あんたに協力させてもらうよ",
+      "eng": "I'll be sure to repay you in kind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "虽然我是渺小的小偷，但是我比那些吃得好穿得好的蠢蛋还有用。",
+      "jap": "ケチな盗人だが、育ちのいいバカよりは余程役に立つ",
+      "eng": "I-I may be a petty thief, but I've more wits than most royalty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "这提议还不赖吧？",
+      "jap": "悪い話じゃあないだろう？",
+      "eng": "What do you say, then?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0选择「拒绝」",
+      "jap": "#0話しかけた:1回目・選択肢【聞かない】",
+      "eng": "#0Choose \"Refuse\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "……是吗。哎，没办法了。",
+      "jap": "…そうか。まあ、仕方ないね",
+      "eng": "Yes, well, why should you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "要是你改变心意了，再和我说一声吧。",
+      "jap": "気が変わったら、また声をかけてくれよ",
+      "eng": "But if you change your mind, give me a shout, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "我是渺小的小偷，人会暂时待在这儿。",
+      "jap": "儂はケチな盗人だ。しばらくはここにいる",
+      "eng": "I-I'm only a petty thief. I've nowhere else to go.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "况且就算现在出去，也什么事都做不成啊。",
+      "jap": "今更外に出ても、何ができるでもないからな",
+      "eng": "Not like there's anything calling to me out there...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……",
+      "jap": "フフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0选择「拒绝」后交谈",
+      "jap": "#0話しかけた:2回目・【聞かない】選択後",
+      "eng": "#0Talk-After choosing \"Refuse\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "哦，你怎么了？改变心意了？",
+      "jap": "おう、あんた、どうしたんだい？気が変わったのかい？",
+      "eng": "Oh, what have we here? Changed your mind, perhaps?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "只要你把戒指转交出去，我就愿意帮助你。",
+      "jap": "あんたは指輪を届け、儂はあんたに協力する",
+      "eng": "You deliver the ring, and I offer my co-operation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "这个建议还不错，对吧？",
+      "jap": "そんなに悪い話じゃあないだろう？",
+      "eng": "Hardly a shabby deal, hm?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0选择「答应他的请求」",
+      "jap": "#0話しかけた:1回目・選択肢【願いを聞く】",
+      "eng": "#0Choose \"Grant request\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "……了解了，我相信你。",
+      "jap": "…分かった。あんたを信じよう",
+      "eng": "Very well. I humbly place my faith in you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "我是不死聚落的葛雷瑞特，\r\n愿意帮助你。",
+      "jap": "儂は不死街のグレイラット、\r\nあんたに協力させてもらうよ",
+      "eng": "I am Greirat of the Undead Settlement,\r\nand I promise to assist you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "把这个戒指交给高墙下方的小镇里，\r\n一个叫罗蕾塔的老女人。",
+      "jap": "だからこの指輪を、高壁の下の街、\r\nロレッタという老いた女に渡して欲しい",
+      "eng": "Give this ring to old Loretta\r\nat the base of the High Wall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "……总之，拜托你啦。",
+      "jap": "…まあ、よろしく頼むよ",
+      "eng": "...Do your part, and I'll do mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "……",
+      "jap": "ウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "……",
+      "jap": "ウウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "你搞什么！",
+      "jap": "なにをするかっ！",
+      "eng": "What in buggery!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "混账，你不讲道理吗！",
+      "jap": "クソッ、まともじゃないのかね！",
+      "eng": "Damn it, you've lost it, haven't you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "畜生，你为什么要这么做！",
+      "jap": "畜生、なんだってこんなことに",
+      "eng": "Cold piss, what the devil is it now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "你该不会认为小偷就该被抓吧，",
+      "jap": "やっぱり、盗人は捕まるもんじゃあないよ",
+      "eng": "I get caught once, and now this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "怎么可能被抓！混账！",
+      "jap": "捕まるもんじゃあない！クソッ！",
+      "eng": "One bloody time! Curse the gods!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "……你给我记住，",
+      "jap": "…あんた、覚えとくことだね",
+      "eng": "As they say,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "老鼠被追急了，连猫都敢咬啊……",
+      "jap": "窮鼠は、猫のタマを噛むものだよ",
+      "eng": "\"The cornered rat will lick the balls of a cat.\"",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "抱歉啊，亲爱的……",
+      "jap": "ごめんよ、かあちゃん…",
+      "eng": "Forgive me, dear...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "哦，你人没事吧。",
+      "jap": "おう、あんた、無事だったかね",
+      "eng": "Oh, hello, you're back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "太好了。那，接着就轮到我尽义务了。",
+      "jap": "よかったよ。じゃあ、務めを果たすとしようか",
+      "eng": "And in one piece. Well, now it's time I do my part.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "要是你有想要的东西就说吧，不要客气。",
+      "jap": "欲しいモノがあれば、遠慮なく言ってくれよ",
+      "eng": "Whatever trinket you need, speak up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "嗯，不过，东西的出处就不要过问了啊。",
+      "jap": "もっとも、出所の詮索はなしだけどな",
+      "eng": "Just don't ask me where I got them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "……",
+      "jap": "ハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0返回传火祭祀场后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "哦，你人没事吧。",
+      "jap": "おう、あんた、無事だったかね",
+      "eng": "Oh, hello, you're back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "太好了。那，接着就轮到我尽义务了。",
+      "jap": "よかったよ。じゃあ、務めを果たすとしようか",
+      "eng": "And in one piece. Well, now it's time I do my part.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "约定好的事，你可不要忘了啊。",
+      "jap": "あんた、約束を忘れないでくれよ",
+      "eng": "Do me a favour, and don't forget our promise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "记得要把戒指转交给高墙下方的小镇里，\r\n一个叫作罗蕾塔的老女人啊。",
+      "jap": "渡した指輪を、高壁の下の街、\r\nロレッタという老いた女に渡してくれ",
+      "eng": "Give the ring to old Loretta\r\nat the base of the High Wall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "这请托的确很不怎么样，嗯，只是我有点儿睡不安稳啊……",
+      "jap": "確かにケチな願いだが、まあ、少し寝覚めが悪いものでね…",
+      "eng": "A nuisance, I know, but it'll help me tie up some loose ends.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0互动列表-选择「交出罗蕾塔的骨头」",
+      "jap": "#0リストから選択:ロレッタの骨を渡す",
+      "eng": "#0Menu-Choose \"Give Loretta's Bone\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "……这样啊，那个女人死了啊……",
+      "jap": "…そうか、あの女は死んでいたか…",
+      "eng": "Heavens, she was already dead...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "……谢了，我已经预感到了。",
+      "jap": "…ありがとう。元々、そんなことだろうと思ってたのさ",
+      "eng": "Thank you. I-I'm not surprised, though.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "嗯，感觉轻松多了。",
+      "jap": "ああ、でも、すっきりしたよ",
+      "eng": "Hmm, almost a relief, really.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "那个戒指就给你，你拿着吧。",
+      "jap": "指輪の方は、あんたが持っておいてくれ",
+      "eng": "You can keep the ring.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "哎，就是那个，谢礼了。",
+      "jap": "まあ、あれだ。願いの礼だよ",
+      "eng": "As, well, a little trinket of thanks, I suppose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "……",
+      "jap": "ハハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0交出罗蕾塔的骨头后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・ロレッタの骨を渡した後",
+      "eng": "#0Menu-Choose \"Talk\" after giving him Loretta's Bone",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "那个戒指就给你，你拿着吧。",
+      "jap": "指輪の方は、あんたが持っておいてくれ",
+      "eng": "You can keep the ring.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "哎，就是那个，谢礼了。",
+      "jap": "まあ、あれだ。願いの礼だよ",
+      "eng": "As, well, a little trinket of thanks, I suppose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "……",
+      "jap": "ハハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0交出罗蕾塔的骨头后，主角第1次离开传火祭祀场后，返回交谈",
+      "jap": "#0話しかけた:ロレッタの骨を渡した後:1回目",
+      "eng": "#0Talk-1st time after giving him Loretta's Bone & travels from Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "……这样啊，那个女人死了啊……",
+      "jap": "…そうか、あの女は死んでいたか…",
+      "eng": "Heavens, she was already dead...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0交出罗蕾塔的骨头后，主角第2次离开传火祭祀场后，返回交谈",
+      "jap": "#0話しかけた:ロレッタの骨を渡した後:2回目",
+      "eng": "#0Talk-2nd time after giving him Loretta's Bone & travels from Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "哦，是你啊，我有点儿想法，你能听听看吗？",
+      "jap": "ああ、あんた、少し考えがあるんだ。聞いてくれるかね",
+      "eng": "Ahh, there you are. I was thinking...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "你也知道，我是个渺小的小偷",
+      "jap": "あんたも知っての通り、儂はケチな盗人だ",
+      "eng": "You know I'm a petty thief.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "……所以啊，我想要出发去偷点儿东西。",
+      "jap": "…だから少し、盗みに出ようと思ってな",
+      "eng": "Well, perhaps I'll go on the prowl.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "反正所有人不是死了就是变成游魂，\r\n就这两种吧？",
+      "jap": "どうせ皆、死んじまったか、\r\n亡者になっちまったか、どっちかなんだろう？",
+      "eng": "Everyone's dead or hollowed away anyway,\r\nright, so...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "既然这样，\r\n不如把那些武器防具、宝物拿给你用，还比较值得。",
+      "jap": "だったら、武具でもお宝でも、\r\nあんたが役に立てた方がましってもんだ",
+      "eng": "I might as well fetch\r\nsome weapons or treasure for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "喂，你怎么看？",
+      "jap": "なあ、あんた、どう思うかね？",
+      "eng": "Well, what do you say?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0选择「不让他偷窃」",
+      "jap": "#0話しかけた:ロレッタの骨を渡した後:2回目・選択肢【行かせない】",
+      "eng": "#0Choose \"Refuse\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "……这样啊，我知道了。",
+      "jap": "…そうか、わかったよ",
+      "eng": "All right, fine and well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "是挺可惜的，但既然你都这么说了，我就照做。",
+      "jap": "残念だが、あんたが言うのなら従おう",
+      "eng": "If that's your wish, I can only obey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "不过要是你改变心意了，和我说一声啊，",
+      "jap": "だが、気が変わったら言ってくれよ",
+      "eng": "But, feel free to change your mind later.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "不然再这样下去，我的本领都要生疏了。",
+      "jap": "このままじゃ、腕が鈍っちまうからな",
+      "eng": "I wouldn't want to lose my touch...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "……",
+      "jap": "ヘヘッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0选择「不让他偷窃」后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・ロレッタの骨を渡した後・【行かせない】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"Refuse\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "怎么了？你改变心意了吗？",
+      "jap": "どうした？あんた、気が変わったのかい？",
+      "eng": "What is it? Have you changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "要我去偷就直说吧，\r\n我随时都可以出发。",
+      "jap": "盗みに出てよければ、そう言ってくれ。\r\nいつでも準備はできてるからさ",
+      "eng": "I'm ready to go thieving at a moment's notice.\r\nJust give me the word.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0选择「让他去偷窃」",
+      "jap": "#0話しかけた:ロレッタの骨を渡した後:2回目・選択肢【盗みに行かせる】",
+      "eng": "#0Choose \"Send him to pillage\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "……谢啦，交给我吧。",
+      "jap": "…ありがとう。まあ、任せてくれたまえ",
+      "eng": "Thank you. You will not be disappointed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "小偷葛雷瑞特可是远近驰名啊。",
+      "jap": "盗人グレイラットと言えば、それなりに有名だったものさ",
+      "eng": "Greirat the Thief was once a well-known name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "虽然到后来还是被抓了……",
+      "jap": "もっとも、最後は捕まっちまったけどね…",
+      "eng": "Until I ended up rotting in a cell...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "……",
+      "jap": "ハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "……",
+      "jap": "ハッハッハッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0选择「让他去偷窃」后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・ロレッタの骨を渡した後・【盗みに行かせる】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"Send him to pullage\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "小偷葛雷瑞特可是远近驰名啊。",
+      "jap": "盗人グレイラットと言えば、それなりに有名だったものさ",
+      "eng": "Greirat the Thief was once a well-known name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "虽然到后来还是被抓了……",
+      "jap": "もっとも、最後は捕まっちまったけどね…",
+      "eng": "Until I ended up rotting in a cell...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "……",
+      "jap": "ハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "……",
+      "jap": "ハッハッハッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "#0葛雷瑞特完成偷窃，返回传火祭祀场后交谈",
+      "jap": "#0話しかけた:盗みから帰ってきた",
+      "eng": "#0Talk-After he has made it back from thieving",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 99,
+      "chn": "哦，你回来得正好。",
+      "jap": "おう、あんた、いいところに戻ったね",
+      "eng": "Oh, hello, you've come at a good time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "虽然花了点儿时间，收获还不小啊。",
+      "jap": "遅くなったが、成果は上々さ",
+      "eng": "It took some prowling, but I've finally made a score.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "来，来看看吧。",
+      "jap": "さあ、見てくれよ",
+      "eng": "Go on, have a gander.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#0到达伊鲁席尔后，返回传火祭祀场交谈",
+      "jap": "#0話しかけた:冷たい谷到着後:1回目",
+      "eng": "#0Talk-After protagonist has reached Irithyll of the Boreal Valley",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 103,
+      "chn": "哦，是你啊，我听说过。",
+      "jap": "ああ、あんた、聞いてるよ",
+      "eng": "Ahh, hello, fine work, I say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "你找到冷冽谷的伊鲁席尔了，对吧？",
+      "jap": "あの、冷たい谷のイルシールを、見つけたんだってね？",
+      "eng": "Discovering Irithyll in the Boreal Valley, all in a day's work.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "传说中，那里是古老月之贵族的城镇，\r\n绝对有一堆宝物……",
+      "jap": "伝承の通りなら、古い月の貴族の街さ、\r\nきっとお宝に溢れてる…",
+      "eng": "If the tales are true, it is home to old moon-worshipping nobles,\r\nand should be packed with treasure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "怎么样？要不要再让我去偷点东西啊？",
+      "jap": "どうかね？また儂を、盗みに出してみないかね？",
+      "eng": "What do you think? Shall I go and see what I can find?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0选择「不让他偷窃」",
+      "jap": "#0話しかけた:冷たい谷到着後:1回目・選択肢【行かせない】",
+      "eng": "#0Choose \"Refuse\"  to pillage Irithyll, either the 1st or 2nd query prompted",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "……这样啊，我知道了。",
+      "jap": "…そうか、わかったよ",
+      "eng": "All right, fine and well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "是挺可惜的，但既然你都这么说了，我就照做。",
+      "jap": "残念だが、あんたが言うのなら従おう",
+      "eng": "If that is your wish, I can only obey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "不过要是你改变心意了，和我说一声啊，",
+      "jap": "だが、気が変わったら言ってくれよ",
+      "eng": "But, feel free to change your mind later.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "居然要我放过贵族的城镇，实在是很不甘心啊。",
+      "jap": "貴族の街がお預けなんて、悔しいからな",
+      "eng": "I hate to leave a city of nobles ripe for the picking...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "……",
+      "jap": "ハッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "#0到达伊鲁席尔后，选择「不让他偷窃」后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・冷たい谷到着後・【行かせない】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"Refuse\"  to pillage Irithyll",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 114,
+      "chn": "怎么了？你改变心意了吗？",
+      "jap": "どうした？あんた、気が変わったのかい？",
+      "eng": "What is it? Changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "要我去偷就直说吧，\r\n我随时都可以出发。",
+      "jap": "盗みに出てよければ、そう言ってくれ。\r\nいつでも準備はできてるからさ",
+      "eng": "I'm ready to go thieving at a moment's notice.\r\nJust give me the word.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "#0选择「让他去偷窃」",
+      "jap": "#0話しかけた:冷たい谷到着後:1回目・選択肢【盗みに行かせる】",
+      "eng": "#0Choose \"Send him to pillage\" Irithyll, either the 1st or 2nd query prompted",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 117,
+      "chn": "哦，交给我吧。",
+      "jap": "ああ、任せてくれたまえ",
+      "eng": "Mm, a fine choice!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "我堂堂小偷葛雷瑞特，\r\n你就好好等着看吧。",
+      "jap": "儂も盗人グレイラットさ。\r\n期待して待っててくれよ",
+      "eng": "I am Greirat, the thief.\r\nWhat I bring back will be worthy of that name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "……",
+      "jap": "ハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "#0到达伊鲁席尔后，选择「让他去偷窃」后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・冷たい谷到着後・【盗みに行かせる】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"Send him to pillage\" Irithyll",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 121,
+      "chn": "我堂堂小偷葛雷瑞特，\r\n你就好好等着看吧。",
+      "jap": "儂も盗人グレイラットさ。\r\n期待して待っててくれよ",
+      "eng": "I am Greirat, the thief.\r\nWhat I bring back will be worthy of that name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "……",
+      "jap": "ハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0葛雷瑞特在伊鲁席尔完成偷窃，返回传火祭祀场后交谈",
+      "jap": "#0話しかけた:盗みから帰ってきた",
+      "eng": "#0Talk-After he has made it back from thieving in Irithyll of the Boreal Valley",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "哦，你人也平安啊。",
+      "jap": "おう、あんた、無事だったかね",
+      "eng": "Oh, then, we are both safe and sound.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "太好了。这一次连我自己都挺危险的呢……",
+      "jap": "よかったよ。今回は儂の方も、かなり危なくてね…",
+      "eng": "Thank the gods for that. I don't like cutting things so close.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "要是没有那个奇怪的洋葱大哥，说不定我现在早就没命了。",
+      "jap": "あの変な、玉ねぎの親父がいなけりゃ、死んでたかもしれん",
+      "eng": "I might've died if it wasn't for that peculiar onion knight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "不过，这样也值得啦。",
+      "jap": "だが、その見返りはあったがね",
+      "eng": "But in the end, it all paid off.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "来，来看看吧。我想应该有派得上用场的东西。",
+      "jap": "さあ、見てくれ。あんたの役に立つと思うよ",
+      "eng": "Take a good look. They're sure to be of some use.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "#0到达洛斯里克城后，返回传火祭祀场交谈",
+      "jap": "#0話しかけた:ロスリック城到着後:1回目",
+      "eng": "#0Talk-After protagonist has reached Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 130,
+      "chn": "……喂，听我说吧，",
+      "jap": "…なあ、あんた、聞いてくれ",
+      "eng": "You know, I was thinking...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "我想再去偷点儿东西。",
+      "jap": "儂は、もう一度、盗みに出ようと思う",
+      "eng": "About leaving for another round of thieving.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "洛斯里克城里面，\r\n一定有你能派上用场的东西。",
+      "jap": "ロスリックの城には、きっと、\r\nあんたの役に立つものがあるはずさ",
+      "eng": "There must be something of use\r\nin Lothric Castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "我知道这很危险……那座城会吃人。",
+      "jap": "危険なのは分かってる。…あの城は、人を喰うからな",
+      "eng": "I-I'm aware of the danger. That castle is a deathtrap.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "在那座城还繁荣的时候，\r\n偷溜进去的家伙一个都没回来。",
+      "jap": "まともな頃だって、\r\n忍び込んで戻った奴はいなかった",
+      "eng": "Not a single man has returned from the castle unscathed,\r\neven back in the day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "不过啊，我不想到死都只是卑微的过街老鼠",
+      "jap": "だが儂も、ケチなネズミのまま終わりたくない",
+      "eng": "But I don't want sit around and die a petty rat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "……毕竟我是你的朋友啊。",
+      "jap": "…あんたの友達のつもりだからね",
+      "eng": "And I consider myself your friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "#0选择「不让他偷窃」",
+      "jap": "#0話しかけた:ロスリック城到着後:1回目・選択肢【行かせない】",
+      "eng": "#0Choose \"Refuse\"  to pillage Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 138,
+      "chn": "……这样啊，我知道了，你人真好。",
+      "jap": "…そうか、わかったよ。あんたは優しいな",
+      "eng": "Right, fine. You're very thoughtful, you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "不过要是你改变心意了，和我说一声啊，",
+      "jap": "だが、気が変わったら言ってくれよ",
+      "eng": "But, if you change your mind, do speak up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "因为我刚才说的都是真话啊。",
+      "jap": "さっきの言葉に、嘘はないんだからな",
+      "eng": "I meant every word of what I said.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "#0到达洛斯里克城后，选择「不让他偷窃」后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・ロスリック城到着後・【行かせない】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"Refuse\"  to pillage Lothric Castlel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 142,
+      "chn": "你改变心意了吗？",
+      "jap": "あんた、気が変わったのかい？",
+      "eng": "Changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "是的话就和我说一声吧，\r\n我自己也不想到死都只是个卑微的过街老鼠啊。",
+      "jap": "もしそうなら、言ってくれよ。\r\n儂も、ケチなネズミのまま終わりたくはないのさ…",
+      "eng": "I hope you do.\r\nI lived a petty rat, but would rather not die as one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "#0选择「让他去偷窃」",
+      "jap": "#0話しかけた:ロスリック城到着後:1回目・選択肢【盗みに行かせる】",
+      "eng": "#0Choose \"Send him to pillage\" Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 145,
+      "chn": "……谢啦，谢谢你肯相信我。",
+      "jap": "…ありがとう。儂を信用してくれて",
+      "eng": "Thank you, for placing your trust in me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "没什么啦，不用担心我，\r\n洛斯里克就像我家后院一样。",
+      "jap": "なあに、心配しなくていい。\r\nロスリックなんて、所詮儂の庭みたいなものさ",
+      "eng": "Oh, don't you worry.\r\nI know Lothric like the back of my hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "……",
+      "jap": "ヘヘヘッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "#0到达洛斯里克城后，选择「让他去偷窃」后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・ロスックリ城到着後・【盗みに行かせる】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"Send him to pillage\" Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 149,
+      "chn": "没什么啦，不用担心我，\r\n洛斯里克就像我家后院一样。",
+      "jap": "なあに、心配しなくていい。\r\nロスリックなんて、所詮儂の庭みたいなものさ",
+      "eng": "Oh, don't you worry.\r\nI know Lothric like the back of my hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "……",
+      "jap": "ヘヘヘッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 152,
+      "chn": "再见了，要平安无事啊。",
+      "jap": "行くのかい。無事で戻ってくれよ",
+      "eng": "Goodbye, and stay safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "这里还真是无聊，\r\n就算拿着赃物也没有地方用，对吧？",
+      "jap": "ここは退屈だ。\r\n盗品だって、持ち腐れってもんだろう？",
+      "eng": "Oh, this place is a bore.\r\nWhat good is thievery if you've nowhere to go?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "……",
+      "jap": "イヒヒ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "#0选择「让他去偷窃」后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて・【盗みに行かせる】選択後",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly, after \"Send him to pillage\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 156,
+      "chn": "再见了，我接下来要离开一阵子，暂时告别了。",
+      "jap": "行くのかい。まあ、儂も少しここを離れる、しばしのお別れだな",
+      "eng": "Good-bye. I will leave for some time. So long for now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "你要平安无事啊，不然的话，我就白费力气了。",
+      "jap": "まあ、無事で戻ってくれよ。でないと、儂は無駄骨だ",
+      "eng": "Do stay safe, you hear? Or my efforts will have been for naught.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "……",
+      "jap": "ハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 160,
+      "chn": "……",
+      "jap": "アウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 162,
+      "chn": "……",
+      "jap": "アウッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 164,
+      "chn": "你已经没救了吗……",
+      "jap": "あんた、もうだめなのかね…",
+      "eng": "You're headed for the brink, aren't you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "但是我也不能被干掉啊。",
+      "jap": "だが、儂だってまだ生きてるんだ",
+      "eng": "Well, you won't drag me down.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 166,
+      "chn": "我就陪你打吧！阴森的灰烬混账！",
+      "jap": "やってやるよ！しけた灰野郎め！",
+      "eng": "En guarde, you crusty ash bastard!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 168,
+      "chn": "混账东西，为什么会这样……",
+      "jap": "畜生、なんだってこんなことに…",
+      "eng": "Cold piss, why did it come to this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 170,
+      "chn": "……",
+      "jap": "アア…アァ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "是我已经没有利用价值了吗……",
+      "jap": "もう、用済みってことかね…",
+      "eng": "I've gone and run my course, haven't I?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 172,
+      "chn": "##……",
+      "jap": "##グワアアアァツ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "##畜生，怎么会……",
+      "jap": "##畜生、なんだってこんな…",
+      "eng": "##Curses, how did this...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 174,
+      "chn": "##要是没有那个叫安里的骑士帮忙，说不定我现在早就没命了。",
+      "jap": "##あのアンリって騎士が助けてくれなけりゃ、死んでたかもしれん",
+      "eng": "##I might've died if it wasn't for that little knight Anri.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "##你是怎么了啊？",
+      "jap": "##あんた、どうしたんだい？",
+      "eng": "##What's got into you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "##住手吧，快住手吧！",
+      "jap": "##やめてくれ、やめてくれよ！",
+      "eng": "##Stop that, please, stop!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "##你……还真是过分啊，",
+      "jap": "##酷いじゃないか、あんた…",
+      "eng": "##How could you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "##我以为……我是你的朋友啊……",
+      "jap": "##あんた、友達のつもりだったんだよ…",
+      "eng": "##And I thought we were friends...some friends...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

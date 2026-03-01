@@ -1,6 +1,183 @@
 {
   "npc": "nest",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/nest.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/nest.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近鸟巢时",
+      "jap": "#0話しかけられた:一定範囲内に近づいた",
+      "eng": "#0After approaching their nest",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "#2（德妮）#3喂喂，\r\n给人家亮亮的。",
+      "jap": "うん、うん\r\nつるつるだね",
+      "eng": "You, you,\r\ngive us smooth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#2（提洛）#3喂喂，\r\n给人家滑滑的。",
+      "jap": "うん、うん\r\nスベスベだね",
+      "eng": "Yes, you,\r\ngive us silky!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0放置不可交换的物品时",
+      "jap": "#0話しかけられた:交換できないアイテムを置いた",
+      "eng": "#0After dropping non-tradable item",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "#2（德妮）#3不对不对，\r\n那个，不对。",
+      "jap": "ねえ、ねえ\r\nあれ、ちがうね",
+      "eng": "You, you,\r\nnot like that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#2（提洛）#3不对不对，\r\n不对啦。",
+      "jap": "ねえ、ねえ\r\nちがうね",
+      "eng": "No, you,\r\nnot at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0放置可交换的物品时",
+      "jap": "#0話しかけられた:交換できるアイテムを置いた(つるすべ石など)",
+      "eng": "#0After dropping tradable item",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "#2（德妮）#3嗯嗯，\r\n亮亮的呢。",
+      "jap": "ねえ、ねえ\r\nつるつるちょうだい",
+      "eng": "Yah, yah.\r\nSo nice, so smooth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#2（提洛）#3嗯嗯，\r\n滑滑的呢。",
+      "jap": "ねえ、ねえ\r\nスベスベちょうだい",
+      "eng": "Yah, yah.\r\nSilky smooth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0拾取物品后",
+      "jap": "#0話しかけられた:アイテムを拾った",
+      "eng": "#0After picking up item",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "#2（德妮）#3喂！喂！给人家亮亮的啦！",
+      "jap": "ねえ！ねえ！つるつるちょうだい！",
+      "eng": "You! You! Give us smooth!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#2（提洛）#3喂！喂！给人家滑滑的啦！",
+      "jap": "ねえ！ねえ！スベスベちょうだい！",
+      "eng": "Yes! You! Give us silky!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "##不对不对，\r\n这不是亮亮的。",
+      "jap": "##ねえ、ねえ\r\nつるつるじゃないね",
+      "eng": "##You, you,\r\nthat not smooth.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "##不对不对，\r\n这不是滑滑的。",
+      "jap": "##ねえ、ねえ\r\nスベスベじゃないね",
+      "eng": "##No, you,\r\nthat not silky.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "##人家好失望。",
+      "jap": "##ちょっとがっかり",
+      "eng": "##Oh, pooh.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "##有点点失望。",
+      "jap": "##すこしがっかり",
+      "eng": "##Oh, phoo.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "##喂喂，\r\n那个不需要啦。",
+      "jap": "##ねえ、ねえ\r\nあれ、いらないね",
+      "eng": "##You, you,\r\nno, not that.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "##喂喂，\r\n那个不要了吧。",
+      "jap": "##ねえ、ねえ\r\nもう、いらないね",
+      "eng": "##Yes, you,\r\nNo need, no more.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "##那个那个，\r\n是谢礼喔。",
+      "jap": "##それ、それ\r\nおれいだよ",
+      "eng": "##There, there.\r\nThanks for you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "##那个那个，\r\n是回礼喔。",
+      "jap": "##それ、それ\r\nおかえしだよ",
+      "eng": "##Yes, there.\r\nGift for you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "##全部谢谢你，\r\n好多、非常多。",
+      "jap": "##ぜんぶありがと\r\nたくさん、いっぱい",
+      "eng": "##Thank you.\r\nWe have plenty.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "##嗯嗯\r\n好多、非常多",
+      "jap": "##うん、うん\r\nたくさん、いっぱい",
+      "eng": "##Yah, yah.\r\nWe get many.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

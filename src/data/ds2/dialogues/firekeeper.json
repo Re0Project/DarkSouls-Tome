@@ -1,6 +1,927 @@
 {
   "npc": "firekeeper",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/firekeeper.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/firekeeper.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0开启防火女住处木门后",
+      "jap": "#0火防女たちの住処開く",
+      "eng": "#0After opening to door to their abode",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "#2（斯特洛安）#3嘿嘿，\r\n我说怎么那么吵……",
+      "jap": "ヒェッヒェッ\r\n騒がしいとおもったら…",
+      "eng": "Heh heh heh...\r\nWhat seems to be the ruckus?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#2（格莉安特）#3喔喔、喔喔……那张脸。",
+      "jap": "おお、おお…その顔",
+      "eng": "Ooh, my! Your face.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#2（格莉安特）#3诅咒都显现在脸上啦。",
+      "jap": "呪いが浮き出ておるわ",
+      "eng": "The face of the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#2（摩儿）#3是\"不死人\"啊。",
+      "jap": "\"不死\"だよ",
+      "eng": "It's an Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#2（摩儿）#3不死人来了，\r\n嘿嘿。",
+      "jap": "不死がきおった\r\nヒェッヒェッ",
+      "eng": "An Undead has come to play.\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#2（摩儿）#3像你一样的人，\r\n都会到这里来。",
+      "jap": "皆、ここに来るんだよ\r\nお前さんみたいなのは",
+      "eng": "They all end up here,\r\nall the ones like you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#2（摩儿）#3是那个老太婆鼓吹的吧。\r\n对吧？嘿嘿。",
+      "jap": "あの婆さんに吹き込まれたんだろ\r\nそうだろう ヒェッヒェッ",
+      "eng": "You spoke to that kind old dear, \r\ndidn't you?  Heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#2（格莉安特）#3结束了。",
+      "jap": "おしまいさ",
+      "eng": "You're finished.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#2（斯特洛安）#3\"游魂\"啊。",
+      "jap": "\"亡者\"だよ",
+      "eng": "You'll go Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#2（斯特洛安）#3你成为了游魂。",
+      "jap": "お前さんは、亡者になるのさ",
+      "eng": "Yes, you will become one of them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#2（格莉安特）#3游魂会攻击人。\r\n只是一味追求着\"灵魂\"。",
+      "jap": "亡者は人を襲うものさ\r\nただ、\"ソウル\"のみを求めてね",
+      "eng": "Hollows prey upon men,\r\nfeast upon their souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#2（格莉安特）#3只要那个印记的诅咒还存在……嘿嘿。",
+      "jap": "その印、呪いがある限り…ヒェッヒェッ",
+      "eng": "This is the fate of the cursed. Heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#2（斯特洛安）#3那说说你的名字吧。",
+      "jap": "じゃあ、あんたの名を聞こうか",
+      "eng": "What is your name?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0说出名字后",
+      "jap": "#0名前入力後",
+      "eng": "#0After the protagonist enters their name",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "#2（斯特洛安）#3嘿嘿，看来还能说出自己名字的样子。",
+      "jap": "ヒェッヒェッ、まだ名前ぐらいは言えるみたいだね",
+      "eng": "At least you know your own name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#2（斯特洛安）#3那么来奖励聪明的孩子吧。",
+      "jap": "じゃあ、よくできた子には褒美をあげようか",
+      "eng": "Here's your reward for sharing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#2（斯特洛安）#3那是叫做\"人像\"的东西。",
+      "jap": "それは、\"人の像\" っていうものさ",
+      "eng": "It's a Human Effigy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#2（格莉安特）#3好好看仔细了……",
+      "jap": "さあ、よくご覧…",
+      "eng": "Take a closer look...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#2（摩儿）#3知道是谁的像吗……？",
+      "jap": "誰の像だと思うかね…？",
+      "eng": "Who do you think it's supposed to be?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#2（斯特洛安）#3然后想起来。",
+      "jap": "そして思い出すんだよ",
+      "eng": "Think back, deep into your past.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#2（斯特洛安）#3是的，这是你的样貌。",
+      "jap": "そうさ、これはお前さんの姿だよ",
+      "eng": "Yes, it's an effigy of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0想起样貌后",
+      "jap": "#0キャラクタークリエイト後",
+      "eng": "#0After the protagonist finalizes their true self",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "#2（斯特洛安）#3来到这里的人全都一样。",
+      "jap": "ここに来る連中は、みんな同じさ",
+      "eng": "All people come here for the same reason.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#2（斯特洛安）#3都是为了解除诅咒……",
+      "jap": "呪いを解くためにってね…",
+      "eng": "To break the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#2（格莉安特）#3你也是听到那种说法才来的吧？",
+      "jap": "お前さんも、そう聞いてきたんだろう？",
+      "eng": "You're no different, I should think?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#2（格莉安特）#3那么，\r\n你可以吗？",
+      "jap": "さあて、できるかね\r\nお前さんに",
+      "eng": "Hmm...\r\ndoesn't stand a chance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#2（摩儿）#3可以就好了。",
+      "jap": "できるといいねえ",
+      "eng": "Well, you never know!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#2（摩儿）#3从那扇门出去，马上就会抵达王国。",
+      "jap": "その扉から外に出れば、すぐに王国に辿りつく",
+      "eng": "Go through the door and trot along to the kingdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#2（斯特洛安）#3别失落了你的灵魂……",
+      "jap": "お前さん、ソウルを落っことすんじゃないよ…",
+      "eng": "But remember, hold on to your souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#2（斯特洛安）#3不然你会越来越接近游魂。",
+      "jap": "そのたびに、お前さんは亡者に近づくんだからね",
+      "eng": "They're all that keep you from going Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#2（斯特洛安）#3话说回来……",
+      "jap": "もっとも…",
+      "eng": "Oh, I'll fool you no longer...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#2（斯特洛安）#3你会失落的……数不尽的无数次……",
+      "jap": "落とすじゃろうがの…数えきれんほど、何度も…",
+      "eng": "You'll lose your souls... All of them. Over and over again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "#2（斯特洛安）#3只能踏上求死亦不可得的旅程。",
+      "jap": "行くしかないんだよ、死ぬこともできない旅にね",
+      "eng": "You must go, on a journey without rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#2（斯特洛安）#3只是……这样吧，\r\n如果你再也别无他法……",
+      "jap": "ただ…そうさね、\r\nもしどうすることもできなくなって…",
+      "eng": "Well...I suppose,\r\nif you find yourself at an impasse...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#2（斯特洛安）#3也还是不灰心的话，\r\n就回到这里来吧。",
+      "jap": "それでもまだ心が折れなかったら\r\nここに戻ってくるがいいさ",
+      "eng": "But if your will is yet unbroken,\r\nthen you may return here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#2（斯特洛安）#3如果你想全部重头再来的话。",
+      "jap": "何もかもを、やり直したくなったらね",
+      "eng": "To start again, with a clean slate...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#2（斯特洛安）#3嘿嘿嘿嘿……",
+      "jap": "ヒェッヒェッヒェッ…",
+      "eng": "Hah hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "#2（斯特洛安）#3好了，走吧，\r\n嘿嘿……",
+      "jap": "さあさあ、もうお行きよ\r\nヒェッヒェッ…",
+      "eng": "Now, go along, go along...\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0提升等级后说话",
+      "jap": "#0話しかけた:主人公アップグレードしました",
+      "eng": "#0Talk-After the protagonist has leveled up their character in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "#2（斯特洛安）#3还没有放弃吗？\r\n嘿嘿……",
+      "jap": "まだ諦められないのかい\r\nヒェッヒェッ…",
+      "eng": "Still determined as ever, I see...\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#2（斯特洛安）#3要把一切都重头再来吗？",
+      "jap": "やり直してみるかい、何もかもをさ",
+      "eng": "Do you wish to start all over again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0获得国王戒指后说话",
+      "jap": "#0話しかけた:王の指輪入手後",
+      "eng": "#0Menu-Choose \"Talk\" after acquiring the King's Ring",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "#2（斯特洛安）#3看来你还没有屈服的样子。",
+      "jap": "まだ心は折れてないみたいだね",
+      "eng": "Still holding up, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#2（斯特洛安）#3这个拿去吧，\r\n嘿嘿……",
+      "jap": "これを持っていきな\r\nヒェッヒェッ…",
+      "eng": "Go on, take these.\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0未持有灵魂容器时，互动列表-选择「重新设定状态值」",
+      "jap": "#0リストから選択:ステータス再設定・ウソルの器を持っていなかった",
+      "eng": "#0Menu-Choose \"Reallocate points\" without having acquired a Soul Vessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "#2（斯特洛安）#3你似乎忘掉重要的东西了。",
+      "jap": "お前さん、大事なものを忘れてるみたいだねぇ",
+      "eng": "Oh, but you don't have what's needed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#2（斯特洛安）#3世界上哪有不用付出代价的事。",
+      "jap": "お代もなしにってのは、虫がよすぎるってもんさ",
+      "eng": "Well, that won't do at all!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#2（斯特洛安）#3好了，走吧。\r\n老人家可是很贪心的，嘿嘿……",
+      "jap": "さあ、もうお行き\r\n年寄りは欲張りなんだよ ヒェッヒェッ…",
+      "eng": "Go along, then.\r\nOld hags don't bargain, dearie... Heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "#2（斯特洛安）#3是吗？",
+      "jap": "そうかいそうかい",
+      "eng": "No, of course not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#2（斯特洛安）#3那你可以走了，\r\n嘿嘿……",
+      "jap": "じゃあ、もうお行きよ\r\nヒェッヒェッ…",
+      "eng": "Now, go along then...\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0重新设定状态值后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:ステータス再設定・再設定完了後",
+      "eng": "#0Menu-Choose \"Leave\" after using a Soul Vessel through \"Reallocate points\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "#2（斯特洛安）#3好了，走吧。",
+      "jap": "さあ、もうお行きよ",
+      "eng": "Now, go along.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#2（斯特洛安）#3踏上求死亦不可得的旅程。\r\n嘿嘿……",
+      "jap": "死ぬこともできない旅にね\r\nヒェッヒェッ…",
+      "eng": "On a journey without rest.\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "嘿嘿嘿……",
+      "jap": "ヒェッヒェッヒェッ…",
+      "eng": "Hah hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "嘿嘿嘿……",
+      "jap": "ヒェッヒェッ…",
+      "eng": "Hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "你让老人家费事啰，\r\n嘿嘿……",
+      "jap": "年寄りは労わるもんだよ\r\nヒェッヒェッ…",
+      "eng": "Tisn't easy\r\nbeing old...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "哎呀，看来是已经不行了，\r\n嘿嘿嘿……",
+      "jap": "おやおや、もう駄目みたいだねぇ\r\nヒェッヒェッヒェッ…",
+      "eng": "A touch under the weather,\r\nare we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0After approaching her while hostile, after the protagonist leaves & returns",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "嘿嘿嘿……",
+      "jap": "ヒェッヒェッヒェッ…",
+      "eng": "Hah hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "嘿嘿……",
+      "jap": "ヒェッヒェッヒェッ…",
+      "eng": "Hah hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "##你身体上有印记。",
+      "jap": "##お前さんの身体には、印がある",
+      "eng": "##You've seen the mark upon your flesh.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "##不死人的印记……受诅咒者的证明……嘿嘿。",
+      "jap": "##不死の印…呪われた者の証が…ヒェッヒェッ",
+      "eng": "##The sign of the Undead...symbol of the accursed.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "##身体腐败，失去心，\r\n即使如此也死不了的。",
+      "jap": "##身体は朽ちてゆき、心は失われる\r\nそしてそれでも死ぬことはない",
+      "eng": "##Your flesh will decay, your mind will fade.\r\nBut you won't ever die.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "##你好歹也有名字的吧。",
+      "jap": "##名前ぐらいあるだろうよ、あんただって",
+      "eng": "##Surely you can tell me your name.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "##不过也要你还记得就是了，\r\n嘿嘿。",
+      "jap": "##まだ覚えてたら、だけどね\r\nヒェッヒェッ",
+      "eng": "##If you remember it, that is.\r\nHeh heh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "##是你很熟悉的人喔，\r\n嘿嘿。",
+      "jap": "##お前さんがよく知ってる人間さ\r\nヒェッヒェッ",
+      "eng": "##It's somebody that\r\nyou know very well.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "##好啦，继续看下去。",
+      "jap": "##さあ、もっともっとよく見てごらん",
+      "eng": "##Go on, look closer, closer still.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "##好了……老人家该睡了。",
+      "jap": "##さて…年寄りはもう寝る時間さ",
+      "eng": "##Now, it's just about our bedtime.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "##出去吧。",
+      "jap": "##出ていっておくれ",
+      "eng": "##Go on, out the door.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "##……",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "##哎呀呀……",
+      "jap": "##おやおや…",
+      "eng": "##Be nice...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒェッヒェッヒェッ…",
+      "eng": "##Hah hah hah...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "##……",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "###2（无译文）在来到这里以前的一路上，\r\n有没有见到过地面上浮现什么字？#3",
+      "jap": "##アンタ、ここに来るまでに\r\n地面に浮かぶ言葉を見なかったかい？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "###2（无译文）那是从某个其他世界\r\n超越\"隔阂\"过来的留言。#3",
+      "jap": "##あれは、どこか別の世界から\r\n『ずれ』を超えて届いた伝言のようなものさ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "###2（无译文）这里的时间流动有着滞碍，非常不稳定。\r\n许多事物都有着\"隔阂\"。#3",
+      "jap": "##この地は刻の流れが淀んでおって、ひどく不安定なんじゃ\r\nいろんな物が『ずれ』ちまうんだよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "###2（无译文）不知道是谁留下的愿望或呐喊……\r\n超越\"隔阂\"送了过来。#3",
+      "jap": "##そして誰かが残した願いや叫び…\r\nそれが『ずれ』を越えて届くのさ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "###2（无译文）要是你灰心丧气的话，请试着留下讯息。\r\n那样的话，说不定会有人发现到吧？#3",
+      "jap": "##アンタも心が折れたら伝言を残してみるといい\r\nそうすれば、誰かが気付いてくれるかもしれないよ？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "###2（无译文）也可能没人会发现\r\n哈哈哈哈#3",
+      "jap": "##気付いてもらえないかもしれないけどね\r\nシャシャシャシャ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "###2（无译文）那边的老太婆好像有话对你说。\r\n难得的机会，好好听听吧。#3",
+      "jap": "##そこの婆さんもアンタに話がありそうだよ\r\nせっかくなんだ、聞いておやりよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "###2（无译文）跨越世界传达的想法，\r\n你也留下试试。#3",
+      "jap": "##世界を越えて届いた思いを\r\nアンタも残してみたらどうだい",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "###2（无译文）你…难道说…#3",
+      "jap": "##お前さん…まさか…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "###2（无译文）怎么回事。#3",
+      "jap": "##なんてこったい",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "###2（无译文）什，什么！#3",
+      "jap": "##な、なんだい！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "###2（无译文）到底怎么了！#3",
+      "jap": "##どうしたんだい！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "###2（无译文）快住手！#3",
+      "jap": "##やめておくれよ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "###2（无译文）哎呀…\r\n已经变成游魂了吗！？#3",
+      "jap": "##おやまあ…\r\n既に亡者なのかね！？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "###2（无译文）又回来了吗，\r\n真是麻烦的游魂。#3",
+      "jap": "##戻ってきちまったのかい\r\n困った亡者だねぇ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "###2（无译文）是谁把这家伙招进来的！#3",
+      "jap": "##誰だい、こいつを招き入れたのは！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "###2（无译文）老夫之命已如风中残烛…#3",
+      "jap": "##ワシの命は風前の灯火じゃ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "###2（无译文）没想到会死在这里…#3",
+      "jap": "##ここで死ぬとはのう…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "###2（无译文）浮现在前面地面上的记号，你应该有见到的机会吧？\r\n那是\"召唤\"的徽记……#3",
+      "jap": "##この先、地面に浮かぶ文字を見る機会があるじゃろう。\r\nそれは『召還』の印じゃ…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "###2（无译文）是隔着凝滞的时间流动，从其他世界唤来灵体的徽记……#3",
+      "jap": "##淀んだ刻の流れで生じた『ずれ』を渡る霊を呼び寄せる印…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "###2（无译文）如果不想被游魂吃掉的话，最好去找找\"召唤\"的徽记。\r\n唤出来的灵体，应该会成为你的助力……#3",
+      "jap": "##亡者に食われとうなければ、『召還』の印を探すが良いじゃろう\r\n呼び出した霊は、お前さんの力となってくれるはずじゃからのう…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "###2（无译文）那边的老太婆好像有话对你说。\r\n好好听听吧，没什么损失。#3",
+      "jap": "##そこの婆さんもお前さんに話がありそうだよ\r\n聞いておやり…損はないからのぉ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "###2（无译文）最好去找找\"召唤\"的徽记。\r\n唤出灵体的话，可能会成为你的助力。#3",
+      "jap": "##『召還』の印を探すが良いじゃろう\r\n霊を呼べば、お前さんの力となってくれるだろうよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "###2（无译文）突然，要干什么！#3",
+      "jap": "##突然、なんだい！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "###2（无译文）已、已经疯了吗？#3",
+      "jap": "##しょ、正気じゃないのかい？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "###2（无译文）喂，你这家伙！？#3",
+      "jap": "##ちょっと、お前さん！？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "###2（无译文）啊，你想干什么！#3",
+      "jap": "##な、何のつもりだよ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "###2（无译文）开什么玩笑！#3",
+      "jap": "##ふざけるんじゃないよ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "###2（无译文）怎么…变成游魂了。#3",
+      "jap": "##なんだい…亡者だったのかい。",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "###2（无译文）快滚，呸！#3",
+      "jap": "##あっちへお行き。 シッシッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "###2（无译文）就是说啊…#3",
+      "jap": "##言わんこっちゃない…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "###2（无译文）完了…大家都完了…#3",
+      "jap": "##終わりだよ…みんな終わりだよ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "###2（无译文）真是…遗憾啊…#3",
+      "jap": "##無念…じゃよ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

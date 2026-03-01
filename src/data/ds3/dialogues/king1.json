@@ -1,6 +1,367 @@
 {
   "npc": "king1",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/king1.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/king1.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "嘿，我问你，你是那些家伙带来的？",
+      "jap": "なあ、あんた、あいつらに運ばれてきただろう",
+      "eng": "Hark! They brought thee here, did they not?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你是神的使者？还是说，你只是做做样子罢了？",
+      "jap": "あんた神の使いかい？それとも、そのふりをしただけなのかい？",
+      "eng": "Dost thou the gods serve? Or merely that role affect?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0选择「做做样子罢了」",
+      "jap": "#0話しかけた:1回目・選択肢【そのふりだ】",
+      "eng": "#0Choose \"Just pretending\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "我就说嘛，这就对了，\r\n你这种人哪可能是神的使者？",
+      "jap": "そうだろう、そうだろう。\r\nあんたのようなものが、神の使いであるはずがない",
+      "eng": "Yes, yes, of course.\r\nHow wouldst one such as thee do service to the gods?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "况且你这种角色心里在盘算什么，我老早就知道了",
+      "jap": "そして、あんたのようなものの目的も、分かってるんだ",
+      "eng": "I have intimate knowledge of thy kind. I know thy want.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……你想要黑暗灵魂，对吧？",
+      "jap": "…暗い魂が欲しいんだろう？",
+      "eng": "...The dark soul, is it not?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "要不是这样，谁会想来这种鬼地方？",
+      "jap": "そうでなくて、誰がこんな糞溜めにくるものか",
+      "eng": "Why else wouldst one deign to visit this dung heap?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "别装啦，我和你是一伙的啊。",
+      "jap": "隠すなよ。俺はあんたの味方なんだぜ",
+      "eng": "Give rest to thy falsity, I would be an ally to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "……",
+      "jap": "…ひひひ…ひひひひ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0选择「是神的使者」",
+      "jap": "#0話しかけた:1回目・選択肢【神の使いだ】",
+      "eng": "#0Choose \"I serve the Gods\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "……",
+      "jap": "…ひひ、ひひひ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "说谎，睁眼说瞎话。\r\n你这种人哪可能是神的使者？",
+      "jap": "嘘だな。見え透いた嘘だ。\r\nあんたのようなものが、神の使いであるはずがない",
+      "eng": "A lie, a wretched lie!\r\nHow wouldst one such as thee do service to the gods?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "况且你这种角色心里在盘算什么，我老早就知道了",
+      "jap": "そして、あんたのようなものの目的も、分かってるんだ",
+      "eng": "Thy scheme is known to me, I know what it is thou desirest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "……你想要黑暗灵魂，对吧？",
+      "jap": "…暗い魂が欲しいんだろう？",
+      "eng": "...The dark soul, no?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "要不是这样，谁会想来这种鬼地方？",
+      "jap": "そうでなくて、誰がこんな糞溜めにくるものか",
+      "eng": "Why else wouldst one deign to visit this dung heap?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "别装啦，我和你是一伙的啊。",
+      "jap": "隠すなよ。俺はあんたの味方なんだぜ",
+      "eng": "Give rest to thy falsity, I would be an ally to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "……",
+      "jap": "…ひひひ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "嘿，如果你想把黑暗灵魂拿到手，",
+      "jap": "なあ、あんた、暗い魂が欲しいのなら",
+      "eng": "If it is the dark soul thou desirest...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "就去山崖底下的费莲诺尔教堂，",
+      "jap": "崖下のフィリアノール教会に向かうがいい",
+      "eng": "Then seek Filianore's church, at the base of the cliff.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "那里有个公主，把她叫醒就对了。",
+      "jap": "そしてそこで、王女の眠りを壊すがいい",
+      "eng": "There wilt thou the sleeping Princess waken.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "……她在睡觉是个幌子，",
+      "jap": "…その眠りはまやかし",
+      "eng": "...Her slumber is a deceit...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "那种狗屁手段，\r\n只是为了不让你接近黑暗灵魂罢了。",
+      "jap": "糞溜めの蓋、お前から、\r\n暗い魂を遠ざけるものさ",
+      "eng": "A lid covering an overgrown privy;\r\na prop to keep thee from the dark soul of thine desire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "……",
+      "jap": "…きひひ…きひひひ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "不用怀疑我啦，我和你是一伙的啊。",
+      "jap": "疑うことはない。俺はあんたの味方なんだ",
+      "eng": "Worry not, I am a true friend to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "只要你是人类，就一定能感受得到──",
+      "jap": "あんたも人なら、きっと分かるようになる",
+      "eng": "If thou'rt yet human, the urge will soon begin to swell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "想把这诸神的鬼地方，\r\n搞得一团乱的冲动。",
+      "jap": "滅茶苦茶にしたいんだよ、\r\nこの神共の糞溜めをさ",
+      "eng": "To curse the gods,\r\nand bring ruin upon this accursed heap of dung.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "……",
+      "jap": "…きひ…きひきひひ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0第4次交谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "快去吧，去山崖底下的费莲诺尔教堂，\r\n叫醒公主吧。",
+      "jap": "さあ、崖下のフィリアノール教会に向かい、\r\n王女の眠りを壊すがいい",
+      "eng": "Now, yarely to Filianore's church at the base of the cliff,\r\nto rouse the sleeping Princess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "如果你真的想拿到黑暗灵魂，就该这么做。",
+      "jap": "暗い魂が欲しいのならね",
+      "eng": "If thou yet the dark soul desirest...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "……",
+      "jap": "ぐひひひひ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……",
+      "jap": "ウッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "……",
+      "jap": "アアッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "……",
+      "jap": "ウゥ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "……",
+      "jap": "ウアッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "……",
+      "jap": "…アアァッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "……诸神啊，受深渊诅咒吧……",
+      "jap": "…神共に、深淵の呪いあれ…",
+      "eng": "May the Abyss's curse take the gods....",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

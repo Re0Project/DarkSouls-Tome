@@ -1,6 +1,2999 @@
 {
   "npc": "patches",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/patches.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/patches.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哦，看来你还是正常人嘛。",
+      "jap": "おう、貴公、どうやらまともみたいだな",
+      "eng": "Well, you look reasonably sane.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是卡塔利纳的骑士，",
+      "jap": "私はカタリナの騎士",
+      "eng": "I am a knight of Catarina.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "好不容易才查到这座教堂的宝库，",
+      "jap": "やっとのことで、この聖堂の宝物庫を突き止めたのさ",
+      "eng": "I've managed to track down this cathedral's store of treasure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "宝库就在那条羊肠小道的尽头。",
+      "jap": "宝物庫は、それそこの、細い渡りの先にあるのだが",
+      "eng": "It's right over there, across that narrow part.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "不过，这该怎么过去才好？",
+      "jap": "さて、どうやって近づいたものかと思ってな",
+      "eng": "Treasure...hmm. Always so close, yet so far...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "所以才在这里困扰。",
+      "jap": "ここで難儀しているのさ",
+      "eng": "I'm in quite a pickle, indeed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "嗯……嗯……",
+      "jap": "うーむ…うーむ…",
+      "eng": "Hmm... Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "啊，你也先不要靠近那边喔。",
+      "jap": "ああ貴公も、まだ近づくのではないぞ",
+      "eng": "Just hold your horses a moment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "说起来，的确可能会有不得了的宝藏……",
+      "jap": "確かにあれは、すごいお宝だろうが…",
+      "eng": "I know, I know, treasure is so sorely tempting...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "嗯……嗯……",
+      "jap": "うーむ…うーむ…",
+      "eng": "Hmm... Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "你怎么了！",
+      "jap": "あんた、どうしたんだ！",
+      "eng": "What's happened, friend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "快住手！住手啊！",
+      "jap": "やめろよ！やめろって！",
+      "eng": "Stop this! Stop this at once!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "可恶，你果然不对劲。",
+      "jap": "畜生、やっぱりおかしかったのか",
+      "eng": "Gods' spit, I knew something was wrong!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "那我也不客气了。",
+      "jap": "だったら、やってやるぜ",
+      "eng": "Well, now it's my turn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我名为不屈不挠，决不屈服！",
+      "jap": "俺は不屈、何事にも折れぬ！",
+      "eng": "I'm Unbreakable Patches, nobody can crack me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "去死吧！",
+      "jap": "死に腐れ！",
+      "eng": "Rot in hell!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "呼，还真是危险啊……",
+      "jap": "ふう、危なかったぜ、まったく…",
+      "eng": "Close call, blimey...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "真倒霉……倒霉透顶啊……",
+      "jap": "ついてねえ…ついてねえよ…",
+      "eng": "Why me? Why me?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0机关启动时",
+      "jap": "#0仕掛け解除",
+      "eng": "#0After he betrays the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "#2（男主角）#3嘿嘿，贪心的家伙，瞧瞧你那德性。",
+      "jap": "へへっ、ざまあねえな、欲深野郎め",
+      "eng": "Shame on you, you greedy guts. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#2（女主角）#3嘿嘿，贪心的女人，瞧瞧你那德性。",
+      "jap": "へへっ、ざまあねえな、欲深女め",
+      "eng": "Shame on you, you insatiable wench.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#2（圣职出身男主角）#3嘿嘿，烂秃驴，瞧瞧你那德性。",
+      "jap": "へへっ、ざまあねえな、ど腐れ坊主め",
+      "eng": "Shame on you, you rotten cleric.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#2（圣职出身女主角）#3嘿嘿，烂尼姑，瞧瞧你那德性。",
+      "jap": "へへっ、ざまあねえな、ど腐れ尼め",
+      "eng": "Shame on you, you rotten nun.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "所有人一看到洋葱，都以为他少根筋啊。",
+      "jap": "たまねぎなら、皆間抜けだとも思ったのか",
+      "eng": "Thought you could outwit an onion?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "祝你和巨人玩得开心啊！再见──",
+      "jap": "せいぜい、巨人と仲良くな！さよーならー",
+      "eng": "Well, say hello to the nice giant! He adores visitors.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "……",
+      "jap": "ウヒャヒャヒャッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "……",
+      "jap": "ウヒャヒャヒャヒャッ！！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0击杀下方两个巨人后，机关启动时",
+      "jap": "#0話しかけられた:仕掛け解除後・巨人を倒している",
+      "eng": "#0After he betrays the protagonist if they have already killed the giant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……嗯？巨人上哪儿去了？",
+      "jap": "…うん？巨人はどこなんだ？",
+      "eng": "Huh? Where's the old giant?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "怎么不见啦──！怎么回事？可恶，计划都乱了啊！",
+      "jap": "いないじゃねーか！どういうことだ、クソッ、話が違うぜ！",
+      "eng": "What! Where's the bloody giant!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "是你干的吧！",
+      "jap": "てめえ、やりやがったな！",
+      "eng": "Just what have you done?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "卑鄙的家伙！你还好意思活着喔！",
+      "jap": "卑怯者が！生きてて恥ずかしくないのかよ！",
+      "eng": "How dare you! Have you no shame!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "可恶！可恶！可恶！可恶！！",
+      "jap": "クソッ！クソッ！クソッ！クソッ！！",
+      "eng": "Damn! Damn! Damn!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0在罗莎莉亚寝室前交谈",
+      "jap": "#0話しかけた:移動後:1回目",
+      "eng": "#0Talk-After he betrays the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "呃，嗨，我们是第一次见面吧？",
+      "jap": "よ、よう、あんた、確か、初対面だな",
+      "eng": "Oh, yes, oh, hello, I don't believe we've met.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "我叫帕奇，不屈不挠的帕奇。",
+      "jap": "俺はパッチ、不屈のパッチ",
+      "eng": "I'm Patches. Unbreakable Patches.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "看来你也是无火的余灰吧，",
+      "jap": "見たところ、あんたも火の無い灰のようだが",
+      "eng": "You seem to be Unkindled.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "找我有什么事吗？",
+      "jap": "俺に何か、用でもあるのかい？",
+      "eng": "Do you have business with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0选择「没什么事」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【特に何もない】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "……哦，毕竟我们第一次见面嘛，很正常。",
+      "jap": "…おう、初対面なんだから、そりゃあ当然だな",
+      "eng": "Of course not, we have just met, after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "抱歉啊，讲了一些奇怪的话，忘掉它吧。",
+      "jap": "わりぃ、変なことを聞いちまった。忘れてくれ",
+      "eng": "Sorry, I've been a bit on edge. Forget I even asked.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "……",
+      "jap": "ヘッヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "不过呢，你很走运咧。",
+      "jap": "だが、あんたはついてるぜ",
+      "eng": "Ahh, but this is your lucky day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "其实呢，我是个小小有名的行脚商人。",
+      "jap": "実は俺は、ちったあ名の知られた行商人なのさ",
+      "eng": "I happen to be a world-renowned travelling merchant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "既然你是无火的余灰，\r\n一定有些需求吧？",
+      "jap": "あんた、火の無い灰なら、\r\nきっと何か入り用なんだろう？",
+      "eng": "If you're as Unkindled as you look,\r\nyou'll find many a useful thing here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0选择「不要装傻」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【とぼけるな】",
+      "eng": "#0Choose \"You know who I am\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "……呃，哦，是喔……我想起来了。",
+      "jap": "…お、おう、そうだよな…思い出したぜ",
+      "eng": "Ah, oh, yes, of course...It's coming back to me, now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "哎呀，真是抱歉，与其说那是我做的，\r\n对了，不如说是那副铠甲干的好事。",
+      "jap": "いやあ、すまねえ、あれは俺の所為というか、\r\nそう、むしろあの鎧の仕業でな",
+      "eng": "Oh, I am so sorry. That was my hand, as you know,\r\nbut the deed, well, that was the armour's doing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "如你所见，我也已经脱下来，\r\n有在反省啦。",
+      "jap": "見ての通り反省して、\r\n今はもう脱いでるってわけだ",
+      "eng": "Regrettable, truly.\r\nBut behold, I'm stripped clean of that unruly attire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "而且呢，幸好你平安无事。",
+      "jap": "それに、幸いあんたも無事だったんだ",
+      "eng": "And look at you, not a scratch!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "那就不算数吧。",
+      "jap": "これはもう、ノーカウントってものだろう",
+      "eng": "All's well that ends well, right?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "对，不算数、不算数，\r\n全部都是诅咒的错。",
+      "jap": "そう、ノーカウント、ノーカウント、\r\nすべては呪いのせいってな",
+      "eng": "Yes, we'll be fine, I can tell,\r\nit's that rotten curse, it is, the untidy mess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "……",
+      "jap": "ヘッヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0选择「不要装傻」后，第1次交谈",
+      "jap": "#0話しかけた:移動後:2回目・【とぼけるな】選択後",
+      "eng": "#0Talk-1st time after choosing \"You know who I am\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "嗯，是啦，\r\n就算不是我做的，我还是要有所表示。",
+      "jap": "あ、ああ、\r\nたとえ俺の所為じゃあなくっても、お詫びはもちろんするぜ",
+      "eng": "Oh, ahh, yes,\r\nnow, it wasn't me, but you still deserve an apology.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "这是一点心意，你就收下吧。",
+      "jap": "ほんの気持ちだ。これを、とっておいてくれよ",
+      "eng": "Just a little trinket. Go ahead, it's yours now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "……",
+      "jap": "ヘヘヘヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "还有呢，我其实是个行脚商人。",
+      "jap": "それに、俺は実は行商人なんだ",
+      "eng": "You should know, I'm a kind of traveling merchant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "既然你是无火的余灰，\r\n一定有些需求吧？",
+      "jap": "あんた、火の無い灰なら、\r\nきっと何か入り用なんだろう？",
+      "eng": "If you're as Unkindled as you look,\r\nyou'll find plenty of good stuff.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0选择「不要装傻」后，第2次交谈，或选择「没什么事」后交谈",
+      "jap": "#0話しかけた:移動後:3回目",
+      "eng": "#0Talk-2st time after choosing \"You know who I am\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "哦，是你啊，需要什么吗？",
+      "jap": "おう、あんた、まだ何か入り用かい？",
+      "eng": "Oh, yes, yes, what can I do?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "我挑货的眼光很对你的胃吧？",
+      "jap": "きっと癖になったんだろう？俺の品揃えが",
+      "eng": "Can't resist it, can you? My sumptuous selection.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0击杀幽邃主教群后交谈",
+      "jap": "#0話しかけた:移動後:3回目・深みの主教たち擊破後",
+      "eng": "#0Talk-After the Decons of the Deep have been defeated",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "哦，是你啊，欢迎光临帕奇老店。",
+      "jap": "おう、あんたか。パッチの老舗にようこそ",
+      "eng": "Oh, hello again. Welcome to Patches' boutique of wonders.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "我挑货的眼光很对你的胃吧？",
+      "jap": "きっと癖になったんだろう？俺の品揃えが",
+      "eng": "Can't resist it, can you? My sumptuous selection.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0未完成交易，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて(アイテムを購入しなかった)",
+      "eng": "#0Menu-Choose \"Leave\" or leaving abruptly, without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "……怎么了，你不买吗？",
+      "jap": "…なんだ、買わないのか？",
+      "eng": "Can't find anything you like?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "真受不了你这没眼光的家伙……",
+      "jap": "しょうがねえ、モノの価値の分からない奴だな…",
+      "eng": "Well, you could try looking a little harder...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0完成交易后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて(アイテムを購入した)",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly, after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "#2（男主角）#3感谢惠顾，兄弟。",
+      "jap": "まいどあり、兄弟",
+      "eng": "Thanks, good compeer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#2（女主角）#3感谢惠顾，甜心。",
+      "jap": "まいどあり、ハニー",
+      "eng": "Thanks, sweeting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:【とぼけるな/許さない】選択後:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "你，你冷静点！",
+      "jap": "あんた、落ち着いてくれ！",
+      "eng": "Oi, calm down, please!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:【とぼけるな/許さない】選択後:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "原谅我啦！我这不是道歉了吗！",
+      "jap": "許してくれ！謝ってるじゃないか！",
+      "eng": "Forgive me! I'm on my hands and knees!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "不算数！不算数！",
+      "jap": "ノーカウント！ノーカウント！",
+      "eng": "All's well that ends well, right!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった:【とぼけるな/許さない】選択後",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "#2（男主角）#3可恶，心胸狭窄的无能家伙！",
+      "jap": "畜生、心の狭い不能野郎だな！",
+      "eng": "Damn, you heartless, good-for-nothing oaf!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#2（女主角）#3可恶，心胸狭窄的婊子！",
+      "jap": "畜生、心の狭い売女だな！",
+      "eng": "Damn, you heartless little harlot! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "那我也不客气了。",
+      "jap": "だったら、やってやるぜ",
+      "eng": "Well, now it's my turn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "我名为不屈不挠，决不屈服！",
+      "jap": "俺は不屈、何者にも折れぬ！",
+      "eng": "I'm Unbreakable Patches, nobody can crack me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "去死吧！",
+      "jap": "死に腐れ！",
+      "eng": "Rot in hell!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した:【とぼけるな/許さない】選択後",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "好了，忏悔的时间到啦。",
+      "jap": "さあ、懺悔の時だぜ、あんた",
+      "eng": "Cough 'em up, every last one of 'em.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "好好反省吧……",
+      "jap": "悔い改めろよ…",
+      "eng": "Confess your sins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した:【とぼけるな/許さない】選択後",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "我究竟，做了什么……",
+      "jap": "俺が、何をしたって…",
+      "eng": "What did I ever do, anyway?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0在传火祭祀场钟塔被帕奇锁住时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After he locks the protagonist in the tower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "嘿嘿，不好意思啦。",
+      "jap": "へへっ、すまねえなあ、あんた",
+      "eng": "Sorry, friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "但是你得注意了，好奇心可以杀死一只猫。",
+      "jap": "だけど、気を付けな。好奇心は猫をも殺す",
+      "eng": "Be more careful! By the gods, curiosity is going to kill you kittens.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "这世间还是有不该接近的事物。",
+      "jap": "あるもんだぜ、近づくべきでないってのは",
+      "eng": "Some places are better left alone, you know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "不过，我这忠告给得有点晚了吧？",
+      "jap": "もっとも、少し遅い忠告だったかな？",
+      "eng": "Oh, sorry, am I a tad too late?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "……",
+      "jap": "ウヒャヒャヒャヒャッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0在传火祭祀场钟塔被帕奇锁住后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time after he locks the protagonist in the tower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "你就早点放弃，乖乖待在那等着被榨干吧。",
+      "jap": "もう諦めて、そこで干からびていけよ",
+      "eng": "Have no fear, there's beauty in death.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#2（男主角）#3四周都是女人，这可是男人的心愿啊？",
+      "jap": "周りは女ばかりだ。むしろ男の本望だろう？",
+      "eng": "Besides, you're surrounded by ladies. Every man's dream, right?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "#2（女主角）#3四周都是你的同族，这样就不会寂寞了吧？",
+      "jap": "周りはご同族ばかりだ。寂しいこともないだろう？",
+      "eng": "Besides, you're amongst your own. Plenty of company, right?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#2（圣职出身男主角）#3四周都是女人，\r\n反正你这烂秃驴最爱这套吧？",
+      "jap": "周りは女ばかりだ。\r\nど腐れ坊主が、どうせ大好きなんだろう？",
+      "eng": "Besides, you're surrounded by ladies.\r\nEvery rotten cleric's dream, right?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "……",
+      "jap": "ウヒャヒャヒャヒャッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0在传火祭祀场钟塔被帕奇锁住后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time after he locks the protagonist in the tower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "哦，之后的事你不用担心，",
+      "jap": "ああ、後のことは心配するなよ",
+      "eng": "Oh, no matter, I'll look after things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "你尸体上的所有东西，我都会扒得精光！",
+      "jap": "あんたの死体から、しっかり全部剥いでやるから",
+      "eng": "By stripping every last trinket off your corpse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "敬请多加爱顾帕奇老店。",
+      "jap": "パッチの老舗をご贔屓に願うぜ",
+      "eng": "You're going to make some lucky customer very happy!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "……",
+      "jap": "ウヒャヒャヒャヒャッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:移動後:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "……啊，哦，你没事啊……",
+      "jap": "…あ、ああ、あんた、無事だったのか…",
+      "eng": "Ah, oh, you, you're alive...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "啊，先冷静下来听我说几句话吧。",
+      "jap": "まあ、落ち着いて話をきいてくれ",
+      "eng": "Now, hold your horses, let's have a nice talk about this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "说实在的，是我不对。\r\n不过，我不是故意的。",
+      "jap": "率直に言って、俺が悪かった。\r\n悪気はなかったんだ",
+      "eng": "I'll come clean, I did you wrong.\r\nI didn't mean it, though, not one bit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "只不过有一点……该说是一时鬼迷心窍吧……\r\n因为我是做这种生意的啊……",
+      "jap": "ただ、ちょっと、魔が差したっていうか…\r\nこんな商売しているとさ…",
+      "eng": "You get these...urges...running the business and all...\r\nOh, and I hate myself for it, I do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "对不对？你也可以理解吧？\r\n这事常有啊，就原谅我吧。",
+      "jap": "な、わかるだろ？よくあるだろ？\r\n許してくれよ",
+      "eng": "You know what I mean? Terrible, really.\r\nBut I can see you'll forgive me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "只要你还活着，这事情就不算数啊，\r\n对不对？",
+      "jap": "生きてさえいりゃ、\r\nいつだってノーカウントってもんだろ？",
+      "eng": "You're alive, after all,\r\nand that's what counts, right?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "#0选择「原谅」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【許す】",
+      "eng": "#0Choose \"Forgive him\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 119,
+      "chn": "是吗，太好了！你愿意原谅我啊！",
+      "jap": "おお、そうか！許してくれるか！",
+      "eng": "Oh, fantastic! A wily second chance!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "哎呀，你果然是个讲理的人啊。",
+      "jap": "いやあ、やっぱり話がわかるな、あんたは",
+      "eng": "I knew you'd understand, I just knew it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "哎呀，果然了不起。\r\n这我可学不来呀，今后再一起奋斗吧。",
+      "jap": "いや、さすがだよ。\r\n俺にはまねできねえ。これからも仲良くやろうぜ",
+      "eng": "The heart of a lion.\r\nA model for the rest of us. A true friend, forever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "……",
+      "jap": "ヘヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0选择「不原谅」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【許さない】",
+      "eng": "#0Choose \"Do not forgive him\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "怎么这样？喂，开玩笑也要适可而止啊。",
+      "jap": "そんな、おい、冗談は顔だけにしようぜ",
+      "eng": "Oh, for heaven's sake, no need to jest with a face like that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "你不是还活得好好的，而且我也道过歉了啊？",
+      "jap": "あんたまだ生きてるし、俺だって謝ってるじゃあないか",
+      "eng": "You're still alive, and I'm here grovelling in the dirt, so to speak.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "对了！这是我一点心意啦。你看，我的诚意到了吧？",
+      "jap": "そうだ！これは、俺の気持ちだ。だから、なあ、分かるだろう？",
+      "eng": "Oh, I know! Here, a token of my sincerity. Right and proper, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "既然我们同是孤独同伴，今后也一起奋斗吧！",
+      "jap": "お互い孤独なんだ、これからも仲良くやろうぜ",
+      "eng": "We're just a couple of outcasts, let's make the best of it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "……",
+      "jap": "ウフフフフフ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:移動後:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 130,
+      "chn": "哦，是你啊，需要什么吗？",
+      "jap": "おう、あんた、まだ何か入り用かい？",
+      "eng": "Oh, yes yes, what can I do?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "话说回来，好险当初有原谅我，对吧？",
+      "jap": "だけどまあ、俺を許してよかっただろう？",
+      "eng": "Aren't you glad we made good of things?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "#0第3次交谈",
+      "jap": "#0話しかけた:移動後:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 133,
+      "chn": "哦，是你啊。欢迎光临帕奇老店。",
+      "jap": "ああ、あんたか。パッチの老舗にようこそだ",
+      "eng": "Oh, hello again. Welcome to Patches' boutique of wonders.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "我挑货的眼光很对你的胃吧？",
+      "jap": "きっと癖になったんだろう？俺の品揃えが",
+      "eng": "Can't resist it, can you? My sumptuous selection.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 136,
+      "chn": "既然我们同是孤独同伴，今后也一起奋斗吧！",
+      "jap": "お互い孤独なんだ、これからも仲良くやろうぜ",
+      "eng": "We're just a couple of outcasts, let's make the best of it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "……",
+      "jap": "ウフフフフフ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "#0葛雷瑞特返回传火祭祀场后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すB・グレイラットが火継ぎの祭祀場にいる",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after Greirat has arrived in the Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 139,
+      "chn": "喂，听说你认识葛雷瑞特。",
+      "jap": "なあ、あんた、グレイラットの知り合いだったんだな",
+      "eng": "Ahh, I see you've met Greirat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "……我以前在洛斯里克大牢里，\r\n受过那个鼠老头照顾。",
+      "jap": "…あの鼠ジジイには、\r\n昔ロスリックの牢で世話になってな",
+      "eng": "The slinking rodent.\r\nBut he did me a good turn back in Lothric dungeon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "现在是没什么脸去见他，\r\n唉，毕竟我还欠了无聊人情。",
+      "jap": "今更出せる顔も無いんだが、\r\nまあ、くだらん借りがあるのさ",
+      "eng": "Doubtless I should do something about that little debt,\r\nor...maybe not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "不过他应该还是老样子，人还是很硬朗，对吧？",
+      "jap": "しかし相変わらず、元気なものだぜ、なあ？",
+      "eng": "Well, I can hardly believe he's still standing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "……",
+      "jap": "ウヘッヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "#0葛雷瑞特前往冷冽谷或洛斯里克城偷窃时交谈",
+      "jap": "#0話しかけた:グレイラットが出る:1回目",
+      "eng": "#0Talk-After Greirat has gone thieving",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 145,
+      "chn": "喂，我问你，葛雷瑞特他怎么了？",
+      "jap": "なあ、あんた、グレイラットはどうしたんだ？",
+      "eng": "Hey, what happened to Greirat, anyhow?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "最近都没看到他的人影……",
+      "jap": "しばらく姿が見えないようだが…",
+      "eng": "I haven't seen him at all lately.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "你如果知道那个鼠老头上哪儿去了，告诉我吧。",
+      "jap": "あんた、あの鼠ジジイの行き先を知っていたら、教えてくれよ",
+      "eng": "If you know where he's scurried off to, be sure and tell me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "……没啦，要是他曝死荒野，\r\n还可以顺便补充我的货源啊。",
+      "jap": "…なあに、野垂れ死にでもしていれば、\r\n商品が補充できるからな",
+      "eng": "I need to stock up, and if he's gone and croaked,\r\nhe'll have left a gold mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "……",
+      "jap": "ウヘヘヘヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "#0选择「不告诉他」",
+      "jap": "#0話しかけた:グレイラットが出る:1回目・選択肢【教えない】",
+      "eng": "#0Choose \"Don't tell him\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 151,
+      "chn": "……哦，这样啊。",
+      "jap": "…へえ、そうなのかい",
+      "eng": "Right, yes, I see how it is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "我知道了，就算你在说谎，也就算了，",
+      "jap": "わかったよ。たとえ嘘でも、仕方ないさ",
+      "eng": "Some things can't be divulged. Even between friends.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "看在我们的交情上嘛。",
+      "jap": "あんたと俺の仲だからな",
+      "eng": "It comes with the territory, I know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "不过要是你想起来了，就告诉我吧。",
+      "jap": "だが、もし思い出したら、教えてくれよ",
+      "eng": "But if you happen to recall any details, do be a saint.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "这也是为了你最喜爱的帕奇老店好啊。",
+      "jap": "あんたの愛する、パッチの老舗のためにもな",
+      "eng": "Do it for old Patch's boutique of wonders, at least.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "……",
+      "jap": "ヘヘヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "#0选择「不告诉他」后交谈",
+      "jap": "#0話しかけた:グレイラットが出る:2回目・【教えない】選択後",
+      "eng": "#0Choose \"Don't tell him\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 158,
+      "chn": "怎么了？刚好想起来了吗？",
+      "jap": "どうした？都合よく思い出したのかい？",
+      "eng": "Well? Happen to recall anything important?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "那个鼠老头上哪儿去了？",
+      "jap": "あの鼠ジジイの行き先をさ",
+      "eng": "About where that old rat scurried off to.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "……",
+      "jap": "ヘヘヘヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "#0葛雷瑞特前往冷冽谷偷窃时，选择「告诉他」",
+      "jap": "#0話しかけた:グレイラットが出る:(冷たい谷)1回目・選択肢【教える】",
+      "eng": "#0Choose \"Tell him\" 1st time after Greirat has gone to Irithyll",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 162,
+      "chn": "哦，没想到是那个伊鲁席尔……",
+      "jap": "ほう。まさかあのイルシールとはな…",
+      "eng": "What? Gone all the way to Irithyll, has he?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "什么冷冽谷的都城，那不过是历史的遗物。",
+      "jap": "冷たい谷の都など、どうせ過去の遺物だろうに",
+      "eng": "Well, there can't be much left of that frozen sprawl.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "真是的，那个疯癫的老头……",
+      "jap": "まったく、酔狂なジジイだぜ…",
+      "eng": "The old rat, he's gone off the deep end this time...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "#0葛雷瑞特前往冷冽谷偷窃时，选择「告诉他」后交谈",
+      "jap": "#0話しかけた:グレイラットが出る:(冷たい谷)2回目・【教える】選択後",
+      "eng": "#0Choose \"Tell him\" 2nd time after Greirat has gone to Irithyll",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 166,
+      "chn": "真是个疯癫的老头……",
+      "jap": "まったく、酔狂なジジイだぜ…",
+      "eng": "The old rat, he's gone off the deep end this time...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "#0葛雷瑞特前往洛斯里克城偷窃时，选择「告诉他」",
+      "jap": "#0話しかけた:グレイラットが出る:(ロスリック)1回目・選択岐【教える】",
+      "eng": "#0Choose \"Tell him\" 1st time after Greirat has gone to Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 168,
+      "chn": "哦，偏偏是那个不归的洛斯里克……",
+      "jap": "ほう。よりによって、不帰のロスリックねえ…",
+      "eng": "Hmph. Off to Lothric, the castle of no return...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "错估自己的能力到这种地步，小偷葛雷瑞特也老了啊。",
+      "jap": "身のほどを見失うとは、盗人グレイラットも老いたものだ",
+      "eng": "That old thief's lost it if he thinks he has a chance in there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 170,
+      "chn": "早就不是菜鸟了，兴奋个什么劲啊……",
+      "jap": "初心でもあるまいに、何を興奮していやがる…",
+      "eng": "It's not like he's new to this game, what's gotten into him?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "#0葛雷瑞特前往洛斯里克城偷窃时，选择「告诉他」后交谈",
+      "jap": "#0話しかけた:グレイラットが出る:(ロスリック)2回目・【教える】選択後",
+      "eng": "#0Choose \"Tell him\" 2nd time after Greirat has gone to Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 172,
+      "chn": "真是的，小偷葛雷瑞特也老了啊……",
+      "jap": "まったく、盗人グレイラットも老いたものだ…",
+      "eng": "That old thief, he's really lost it this time...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "#0寻找葛雷瑞特返回后交谈",
+      "jap": "#0話しかけた:火継ぎの祭祀場に帰ってきた",
+      "eng": "#0Came back to Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 174,
+      "chn": "#2（男主角）#3哦，是你啊，你这男人真是好运。",
+      "jap": "おう、あんたか。なんて幸運な男だ",
+      "eng": "Well, look at you. The luckiest man in the world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "#2（女主角）#3哦，是你啊，你这女人真是好运。",
+      "jap": "おう、あんたか。なんて幸運な女だ",
+      "eng": "Well, look at you. The luckiest lass in the world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "我最近正好进了个不得了的宝物，\r\n如果你要买，我就便宜卖吧。",
+      "jap": "丁度、凄いお宝を仕入れたところだ。\r\nあんたになら、格安で譲ってやるぜ",
+      "eng": "I just got hold of some truly fine treasure.\r\nAnd for you, I'll practically give it away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "……",
+      "jap": "ヘヘヘヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "#0未完成交易，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて(アイテムを購入しなかった)",
+      "eng": "#0Menu-Choose \"Leave\" or leaving abruptly, without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 179,
+      "chn": "……怎么了，你不买吗？",
+      "jap": "…なんだ、買わないのか？",
+      "eng": "Can't find anything you like?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "真受不了你这没眼光的家伙……",
+      "jap": "しょうがねえ、モノの価値の分からない奴だな…",
+      "eng": "Well, you could try looking a little harder...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 181,
+      "chn": "#0完成交易后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて(アイテムを購入した)",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly, after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 182,
+      "chn": "#2（男主角）#3感谢惠顾，兄弟。",
+      "jap": "まいどあり、兄弟",
+      "eng": "Thanks, good compeer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 183,
+      "chn": "#2（女主角）#3感谢惠顾，甜心。",
+      "jap": "まいどあり、ハニー",
+      "eng": "Thanks, sweeting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "#0从洛斯里克城返回，未完成交易，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて(凄いお宝を購入しなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing, once he has visited Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 185,
+      "chn": "……喂喂，你该不会不买吧？真吝啬。",
+      "jap": "…おいおい、まさか買わないのかい？しけてるなあ",
+      "eng": "Now, just wait, that's the best you can do? Bloody hell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 186,
+      "chn": "穷会穷成习惯耶，要懂得适可而止啊……\r\n真是的……",
+      "jap": "貧乏は癖になるぜ。\r\nほどほどにしとけよ…まったく…",
+      "eng": "Yeah, keep those purse strings nice and tight.\r\nSo tight they choke you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 187,
+      "chn": "#0从洛斯里克城返回，完成交易后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて(凄いお宝を購入した)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing, once he has visited Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 188,
+      "chn": "如何？很不得了吧？",
+      "jap": "どうだい？凄かったろう？",
+      "eng": "What do you say? Brilliant stuff, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 189,
+      "chn": "快感谢一下本大爷吧。",
+      "jap": "俺様に感謝して欲しいもんだな",
+      "eng": "I won't ask for thanks, but I certainly deserve it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 190,
+      "chn": "……",
+      "jap": "ヘヘヘヘッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 191,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 192,
+      "chn": "你怎么了！",
+      "jap": "あんた、どうしたんだ！",
+      "eng": "What's happened, friend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 193,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 194,
+      "chn": "快住手！住手啊！",
+      "jap": "やめろよ！やめろって！",
+      "eng": "Stop this! Stop this at once!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 195,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 196,
+      "chn": "可恶，你果然不对劲。",
+      "jap": "畜生、やっぱりおかしかったのか",
+      "eng": "Gods' spit, I knew something was wrong!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 197,
+      "chn": "那我也不客气了。",
+      "jap": "だったら、やってやるぜ",
+      "eng": "Well, now it's my turn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 198,
+      "chn": "我名为不屈不挠，决不屈服！",
+      "jap": "俺は不屈、何事にも折れぬ！",
+      "eng": "I'm Unbreakable Patches, nobody can crack me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 199,
+      "chn": "去死吧！",
+      "jap": "死に腐れ！",
+      "eng": "Rot in hell!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 200,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 201,
+      "chn": "呼，还真是危险啊……",
+      "jap": "ふう、危なかったぜ、まったく…",
+      "eng": "Close call, blimey...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 202,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 203,
+      "chn": "真倒霉……倒霉透顶啊……",
+      "jap": "ついてねえ…ついてねえよ…",
+      "eng": "Why me? Why me?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 204,
+      "chn": "#0到达聚集地后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 205,
+      "chn": "哦，看来你人还正常嘛。",
+      "jap": "おう、あんた、どうやらまともそうじゃないか",
+      "eng": "Oh, look at you, you've got your head screwed on correct.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 206,
+      "chn": "太好啦，没想到在这片聚集地里，也会遇见人。",
+      "jap": "嬉しいよ。こんな吹き溜まりでも、どうして出会いはあるものだ",
+      "eng": "Fantastic. To meet a kindred spirit, on this godsforsaken crag.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 207,
+      "chn": "叫我拉普吧，\r\n因为真正的名字我已经忘了。",
+      "jap": "ラップと呼んでくれ。\r\nああ、本当の名前は忘れちまったんだ",
+      "eng": "Call me Lapp.\r\nI can't remember my real name, so let's just go with that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 208,
+      "chn": "之后应该会有互相帮助的机会吧，\r\n到时候再多关照啦。",
+      "jap": "お互い、協力できることもあるだろう。\r\nその時は、よろしく頼むぜ",
+      "eng": "I have a feeling we're going to make a fabulous team.\r\nOh, you'll see, you'll see!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 209,
+      "chn": "……",
+      "jap": "ハハハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 210,
+      "chn": "#0到达聚集地后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 211,
+      "chn": "啊，对了，先和你说一声可能比较好。",
+      "jap": "ああ、あんたには伝えておいた方がいいかもしれないな",
+      "eng": "Ohh, in all honesty there's something I should tell you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 212,
+      "chn": "我其实是游魂。\r\n就算看起来很正常，其实以前的事全不记得了。",
+      "jap": "俺は、亡者なんだ。\r\nまともなふりはできても、昔のことは、もう全部忘れちまった",
+      "eng": "I'm...a Hollow.\r\nYes, I try to play it off, but I haven't a clue about my past.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 213,
+      "chn": "像我是谁，为了什么而活，\r\n还有真正的名字是什么，都不记得了……",
+      "jap": "何者だったのか、何のために生きたのか、\r\n本当の名前も、何もかも…",
+      "eng": "Who I was, or what I lived for.\r\nNot even my own blessed name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 214,
+      "chn": "所以我一直在找，",
+      "jap": "だから俺は、ずっと探しているのさ",
+      "eng": "That's why I've come here, searching.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 215,
+      "chn": "在火出现时，找到黑暗灵魂的#1矮人#3#2小人#3，他们所在的城市──",
+      "jap": "火のはじまりに、暗い魂を見つけた小人たちの街",
+      "eng": "For the Purging Monument, said to be in the Ringed City,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 216,
+      "chn": "环印城，\r\n据说那里有解咒石碑。",
+      "jap": "輪の都。\r\nそこにあるという解呪の碑を",
+      "eng": "where the pygmies,\r\nwho found the Dark Soul at the dawn of fire, reside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 217,
+      "chn": "呃，因为啊，像解咒石那么小的石头，\r\n对我已经没有效啦。",
+      "jap": "まあ、あれだ。\r\nちっぽけな石じゃあ、もう何も思い出せないからな",
+      "eng": "All I can say is... Those little stones\r\naren't doing much to help me remember anymore...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 218,
+      "chn": "……",
+      "jap": "ハハハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 219,
+      "chn": "#0到达聚集地后，第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 220,
+      "chn": "哎，反正就是这么一回事啦。",
+      "jap": "まあ、そういうことさ",
+      "eng": "Well, that's the long and short of it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 221,
+      "chn": "如果我忘了你，你也不要怨我喔。",
+      "jap": "あんたのことを忘れちまっても、恨まないでくれよな",
+      "eng": "So, if I completely forget who you are, don't be wrath with me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 222,
+      "chn": "你也知道嘛，碰上游魂，你又能拿他怎么办？",
+      "jap": "分かるだろう？亡者なら仕方のないことさ",
+      "eng": "C'mon, what else can I say? I'm a bloody Hollow, for heaven's sake.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 223,
+      "chn": "……",
+      "jap": "ハッハッハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 224,
+      "chn": "#0到达堆土塔残骸后，第1次交谈",
+      "jap": "#0話しかけた:移動後:1回目",
+      "eng": "#0Talk-1st time at his 2nd location, after exhausting his dialogue at the 1st ",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 225,
+      "chn": "哦，又碰见你了。",
+      "jap": "おう、あんた。また会ったな",
+      "eng": "Oh, I know who you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 226,
+      "chn": "看来你平安，这样就好。",
+      "jap": "どうやら、無事なようで何よりだ",
+      "eng": "Great to see you still in once piece.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 227,
+      "chn": "话说回来，要说这里是末世之物的聚集地，还真有点样子",
+      "jap": "しかしここは、最果ての吹き溜まりの名に相応しい場所だな",
+      "eng": "Cor, I can see why they call this the dreg-heap at the world's end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 228,
+      "chn": "……可以看到各个时代，各个地方的遗物。",
+      "jap": "…あらゆる時代、そして土地の名残が、ここにはある",
+      "eng": "...Mangled remnants from every age, and every land...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 229,
+      "chn": "所以我才会相信那个传说──",
+      "jap": "だからこそ、信じられるというものさ",
+      "eng": "It actually sort of lends credence to the old rumours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 230,
+      "chn": "环印城就在这片聚集地的底层。",
+      "jap": "輪の都が、この吹き溜まりの底にあるという話を",
+      "eng": "That the Ringed City rests below it all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 231,
+      "chn": "#0到达堆土塔残骸后，第2次交谈",
+      "jap": "#0話しかけた:移動後:2回目",
+      "eng": "#0Talk-2nd time at his 2nd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 232,
+      "chn": "啊，抱歉，说起来这和你不相干吧。",
+      "jap": "ああ、すまん。あんたには関係ない話だったかな",
+      "eng": "Ah, don't mind me. You needn't worry yourself with this nonsense.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 233,
+      "chn": "除了你以外，能攀谈的就只剩下背盖子婆婆，\r\n是我不自觉太多话了。",
+      "jap": "なにせ、あんた以外の話し相手は、蓋の婆さんくらいだからな。\r\n喋りすぎたかもしれん",
+      "eng": "I just wanted to tell someone, and I'm sick of old humpty.\r\nI should stay quiet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 234,
+      "chn": "……算是表示歉意吧，让我告诉你一件好事。",
+      "jap": "…その詫びと言っちゃなんだが、ひとついいことを教えてやるよ",
+      "eng": "Wait, I'll make it up to you, by letting you in on a secret of sorts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 235,
+      "chn": "再往前走，有座剧毒沼泽，\r\n里面有半沉没的巨大堆土塔残骸。",
+      "jap": "この先にある、巨大な土の塔の残骸は、\r\n半ば猛毒の沼に沈んでいる",
+      "eng": "Past here, you'll find the remains of a giant earthen tower\r\nhalf-submerged in a poisonous swamp.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 236,
+      "chn": "一般而言，有那种沼泽是该避开……\r\n不过沼泽的最深处，藏了个珍贵的宝物。",
+      "jap": "普通なら、そんな沼は避けるのが常道だが…\r\nこの沼の一番奥には、貴重なお宝が眠っているのさ",
+      "eng": "Not a very nice place to visit...\r\nOnly, there's precious treasure in the thick of the swamp.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 237,
+      "chn": "……那对我来说，已经是不必要的东西了，\r\n所以我就没特意去拿它，抱歉啦。",
+      "jap": "…あれは、俺にはもう必要のないものだからな。\r\nすまんが、置いてきちまった",
+      "eng": "I didn't have any use for it, you see.\r\nSo sorry, I left the whole package behind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 238,
+      "chn": "下次有机会的话，我会帮你去拿。\r\n如果你等不及，也可以自己先去。",
+      "jap": "また機会があれば、あんたのために取ってくるが、\r\nもし待てなければ、あんた自身でいくといい",
+      "eng": "If I get the chance, I could go fetch it for you,\r\nbut if that's too long to wait, go nab it for yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 239,
+      "chn": "……我很清楚，\r\n你是名杰出的战士，应该也肩负使命。",
+      "jap": "…俺には分かる。\r\nあんたは優秀な戦士だし、使命もあるのだろう",
+      "eng": "...I know who you are.\r\nA righteous warrior, yes? With a solemn duty, to boot. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 240,
+      "chn": "把那宝物好好用在完成你的使命上吧。",
+      "jap": "あれを、あんたの使命に役立ててくれよ",
+      "eng": "Well, grab that treasure, that's as good a duty as any.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 241,
+      "chn": "#0在堆土塔残骸获得楔形石原盘后，第1次交谈",
+      "jap": "#0話しかけた:移動後・沼地の楔石の原盤を回収した",
+      "eng": "#0Talk-At his 2nd location, after retrieving the Titanite Slab",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 242,
+      "chn": "哦哦，你拿到宝物啦？",
+      "jap": "おお、あんた、お宝を手に入れたのか",
+      "eng": "Ohh, look at you, you found the treasure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 243,
+      "chn": "太好了，它一定能帮到你的忙。",
+      "jap": "そりゃあよかった。きっとあんたの力になるだろう",
+      "eng": "Dashing, just dashing. You'll make good use of it, I'm sure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 244,
+      "chn": "……这代表我一点敬意。",
+      "jap": "…これは、ささやかな俺の気持ちさ",
+      "eng": "Now, this is a little toast, from me to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 245,
+      "chn": "微薄心意不足挂齿，我们来举杯庆祝吧。\r\n你果然是很杰出的战士。",
+      "jap": "少しばかりで申し訳ないが、祝杯をあげるといい。\r\nやっぱりあんたは、優秀な戦士だよ",
+      "eng": "Not much to speak of, but bottoms up.\r\nTo the greatest warrior there is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 246,
+      "chn": "……",
+      "jap": "ハッハッハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 247,
+      "chn": "#0未在堆土塔残骸获得楔形石原盘时，第1次交谈",
+      "jap": "#0話しかけた:移動後・沼地の楔石の原盤を回収しなかった",
+      "eng": "#0Talk-After entering the Ringed City without retrieving the Titanite Slab",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 248,
+      "chn": "哦哦，是你啊，来得正好。",
+      "jap": "おお、あんた、丁度よかった",
+      "eng": "Oh, there you are, perfect timing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 249,
+      "chn": "你还记得吗？我之前和你说过的，那个剧毒沼泽里的宝物",
+      "jap": "覚えているだろうかな、猛毒の沼の奥にあるお宝の話を",
+      "eng": "You remember that treasure, in the thick of the poison swamp?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 250,
+      "chn": "……我依照约定，帮你把宝物拿来了。",
+      "jap": "…約束通り、あんたのために取ってきたんだ",
+      "eng": "Well, I fetched it for you, as promised.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 251,
+      "chn": "没什么啦，顺手拿的而已，\r\n毕竟背盖子婆婆一直在啰唆嘛。",
+      "jap": "まあ、ちょっとしたついでさ。\r\nそれに、蓋の婆さんもうるさいことだしな",
+      "eng": "Oh, it was only a hop and a skip.\r\nI needed a rest from old nan over there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 252,
+      "chn": "来，拿去吧，\r\n要好好用在完成你的使命上喔。",
+      "jap": "ほら、持っていってくれ。\r\nあんたの使命に役立ててくれよ",
+      "eng": "Here, go ahead, it's yours.\r\nMaybe it'll help you with that solemn duty of yours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 253,
+      "chn": "……",
+      "jap": "ハハハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 254,
+      "chn": "#0获得楔形石原盘后，第2次交谈",
+      "jap": "#0話しかけた:移動後・いずれかの手段で楔石の原盤を入手した",
+      "eng": "#0Talk-At his 3rd location, after acquiring Titanite Slab either two methods",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 255,
+      "chn": "不过话说回来，说这里是末世之物的聚集地，还真有点样子",
+      "jap": "しかしここは、最果ての吹き溜まりの名に相応しい場所だな",
+      "eng": "This really is a dreg-heap at the world's end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 256,
+      "chn": "……可以看到各个时代，各个地方的遗物。",
+      "jap": "…あらゆる時代、そして土地の名残が、ここにはある",
+      "eng": "...Mangled remnants from every age, and every land...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 257,
+      "chn": "所以我才会相信那个传说──",
+      "jap": "だからこそ、信じられるというものさ",
+      "eng": "It actually sort of lends credence to the old rumours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 258,
+      "chn": "环印城就在这片聚集地的底层。",
+      "jap": "輪の都が、この吹き溜まりの底にあるという話を",
+      "eng": "That the Ringed City rests below it all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 259,
+      "chn": "#0到达环状墙内部后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 260,
+      "chn": "哦，是你啊，没想到会在这里碰见你。",
+      "jap": "おう、あんた、まさかここで会うとはな",
+      "eng": "Oh, well, fancy meeting you here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 261,
+      "chn": "分别往同一个目标前进，\r\n最后都平安抵达，这实在太开心啦。",
+      "jap": "だが、同じ場所を目指し、\r\n共に無事に辿り着くとは、嬉しいことだ",
+      "eng": "A true blessing, that we should seek the same place,\r\nand find ourselves standing here, together.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 262,
+      "chn": "我手上还有最后一批酒，来干一杯吧。",
+      "jap": "最後の酒がある。これで祝杯をあげようじゃないか",
+      "eng": "I've got the last of my brew. Let's have our own little toast with it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 263,
+      "chn": "祝我达成目的，祝你完成使命，再敬我们能再次碰面的幸运。",
+      "jap": "俺の目的と、あんたの使命に。それが目の前にある幸運に",
+      "eng": "To my search, and to your duty. And to the joy that lies before us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 264,
+      "chn": "来，干杯吧。",
+      "jap": "さあ、乾杯だ",
+      "eng": "All right, then. Bottoms up!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 265,
+      "chn": "……",
+      "jap": "フハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 266,
+      "chn": "#0到达环状墙内部后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 267,
+      "chn": "好啦，那我要去找解咒石碑在哪了。",
+      "jap": "さて、俺は解呪の碑を探すとするよ",
+      "eng": "Now, I'm off in search of the Purging Monument.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 268,
+      "chn": "只要找到石碑，一定就可以回想起来──",
+      "jap": "それを見つければ、きっと思い出せるだろう",
+      "eng": "Once I find it, everything will come back to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 269,
+      "chn": "我到底是谁，为了什么而活，还有我真正的名字，",
+      "jap": "俺が何者だったのか、何のために生きたのか、本当の名前も",
+      "eng": "Who I was, what I lived for, what my name was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 270,
+      "chn": "再来就是，我到底一直在恨着什么",
+      "jap": "そして、ずっと何を憎んでいたのかを",
+      "eng": "And... What terrible grudges I held.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 271,
+      "chn": "……不知道为什么，我就是知道，\r\n我一定是这种男人。",
+      "jap": "…何となくは分かるものさ。\r\nきっと俺は、そういう男だったのだろう",
+      "eng": "...I dunno, I just have this feeling.\r\nThat that's the kind of man I was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 272,
+      "chn": "就算我真的是这种人，也请你不要讨厌我喔。",
+      "jap": "あんた、それでも嫌いにはならないでおくれよ",
+      "eng": "Oh, don't hold it against me, I only think I was!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 273,
+      "chn": "……",
+      "jap": "フフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 274,
+      "chn": "#0到达环状墙内部后，第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 275,
+      "chn": "好啦，那我要去找解咒石碑在哪了。",
+      "jap": "さて、俺は解呪の碑を探すとするよ",
+      "eng": "Now, I'm off in search of the Purging Monument.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 276,
+      "chn": "只要找到石碑，我一定能回想起所有事情。",
+      "jap": "それを見つければ、きっとすべて思い出せるだろう",
+      "eng": "Once I find it, everything will come back to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 277,
+      "chn": "#0到达环印城市街后，第1次交谈",
+      "jap": "#0話しかけた:移動後:1回目",
+      "eng": "#0Talk-At his 2nd location after exhausting his dialogue at the 1st",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 278,
+      "chn": "哦哦，是你啊，又遇见你了。",
+      "jap": "ああ、あんた、また会ったな",
+      "eng": "Oh, and here we are again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 279,
+      "chn": "你那边情况如何？我这边不太乐观。",
+      "jap": "調子はどうだい？俺の方は、あまりうまくない",
+      "eng": "How goes things? I'm rather running in circles, I'm afraid.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 280,
+      "chn": "我还是找不到解咒石碑，\r\n亏我一直找那么久了。",
+      "jap": "解呪の碑が見つからないんだ。\r\nもうずっと探しているのに",
+      "eng": "I can't find the Purging Monument.\r\nAnd I've searched high and low...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 281,
+      "chn": "难不成打从一开始，石碑就不存在……",
+      "jap": "もしかして、そんなものは最初から無かったのか…",
+      "eng": "What if it was never here in the first place?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 282,
+      "chn": "可恶，我到底该怎么办啊……",
+      "jap": "クソッ、どうしたらいいってんだ…",
+      "eng": "Ah, bloody hell, what do I know...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 283,
+      "chn": "#0选择「不清楚石碑所在地」，或向解咒石碑祈祷后，选择「不告诉他」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【何も知らない】",
+      "eng": "#0Choose \"I do not know\" to the 1st query, or \"Say nothing\" to the 2nd",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 284,
+      "chn": "……抱歉，我没打算要这样烦你的……",
+      "jap": "…すまん、あんたを困らせたいわけじゃないのに…",
+      "eng": "Sorry, I know it doesn't concern you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 285,
+      "chn": "大概是看到你人没事，\r\n情绪稍微松懈了一下。",
+      "jap": "あんたが無事で、\r\n気が緩んだのかもしれんな",
+      "eng": "Seeing you all good and well,\r\nI...I just sort of spilled my guts to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 286,
+      "chn": "拜托你像游魂一样，忘了我这丑态吧。",
+      "jap": "頼むから忘れてくれよ、亡者のようにさ",
+      "eng": "Just forget it all. Like a good Hollow would!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 287,
+      "chn": "……",
+      "jap": "…ハハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 288,
+      "chn": "#0选择「不清楚石碑所在地」或选择「不告诉他」后，第1次交谈",
+      "jap": "#0話しかけた:移動後:2回目・【何も知らない】選択後、しばらくしてから",
+      "eng": "#0Talk-1st time after choosing \"I do not know\"  or \"Say nothing\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 289,
+      "chn": "……我到底是为了什么，才一直找到这里来啊……",
+      "jap": "…俺はずっと、何を探して、ここにきたんだ…",
+      "eng": "...What did I come here in search of?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 290,
+      "chn": "……可恶，不行，我可是不屈不挠，不屈不挠啊……",
+      "jap": "…クソッ、違う、俺は不屈だ、不屈なんだ…",
+      "eng": "...Damn, stop it, I'm unbreakable, unbreakable...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 291,
+      "chn": "#0选择「不清楚石碑所在地」或选择「不告诉他」后，第2次交谈",
+      "jap": "#0話しかけた:移動後:3回目・【何も知らない】選択後、しばらくしてから",
+      "eng": "#0Talk-2nd time after choosing \"I do not know\"  or \"Say nothing\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 292,
+      "chn": "……啊啊，拜托，谁来告诉我……",
+      "jap": "…ああ、誰か、教えてくれ…",
+      "eng": "...Ahh, please, someone tell me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 293,
+      "chn": "……我到底是为了什么……",
+      "jap": "…俺はいったい、なんのために…",
+      "eng": "..Who am I? Why am I here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 294,
+      "chn": "#0向解咒石碑祈祷后，选择「告知“解咒石碑”的所在地」",
+      "jap": "#0話しかけた:移動後:1回目・選択肢【「解呪の碑」の場所を教える】",
+      "eng": "#0Choose \"Speak of the Purging Monument\", praying at Purging Monument",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 295,
+      "chn": "……你是说真的吗？",
+      "jap": "…あんた、それは本当かい？",
+      "eng": "Are you certain of that?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 296,
+      "chn": "啊，抱歉，你不可能对我说谎。",
+      "jap": "いや、すまん、あんたが嘘を言うはずもない",
+      "eng": "No, sorry, I know you'd never lie to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 297,
+      "chn": "谢谢，谢谢你，我想马上动身去那里。",
+      "jap": "ありがとう、ありがとう、すぐにでもそこに行ってみるよ",
+      "eng": "Thank you, thank you kindly. I'll speed right on over.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 298,
+      "chn": "……我终于能想起来了──",
+      "jap": "…やっと、すべて思い出せる",
+      "eng": "...It won't be long now, before I know everything.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 299,
+      "chn": "我是什么人，为了什么而活，还有我真正的名字。",
+      "jap": "俺が何者だったのか、何のために生きたのか、本当の名前も",
+      "eng": "Who I was, what I lived for, and what my name was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 300,
+      "chn": "全多亏有你帮忙。",
+      "jap": "あんたのおかげさ",
+      "eng": "And I'll have you to thank for it all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 301,
+      "chn": "#0选择「告知“解咒石碑”的所在地」后，第1次交谈",
+      "jap": "#0話しかけた:移動後:2回目・【「解呪の碑」の場所を教える】選択後",
+      "eng": "#0Talk-1st time after choosing \"Speak of the Purging Monument\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 302,
+      "chn": "啊啊，我真的很谢谢你。",
+      "jap": "ああ、あんた、本当にありがとう",
+      "eng": "Ahh, thank you, most sincerely.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 303,
+      "chn": "我以我真正的名字发誓，",
+      "jap": "そして、俺の本当の名前にかけて誓おう",
+      "eng": "I swear upon my birth name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 304,
+      "chn": "不论我想起什么，不论我是谁，\r\n我都会是你的朋友。",
+      "jap": "俺はあんたの友だ。\r\n何を思い出そうとも、何者であっても",
+      "eng": "That I am your friend.\r\nNo matter what might come out, no matter what I was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 305,
+      "chn": "只要你愿意，\r\n我会一直当你的朋友。",
+      "jap": "あんたが許してくれる限り、\r\nあんたの友でいさせてくれ",
+      "eng": "If you would do me the honour,\r\nallow me to be a true friend, always.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 306,
+      "chn": "#0选择「告知“解咒石碑”的所在地」后，第2次交谈",
+      "jap": "#0話しかけた:移動後:3回目・【「解呪の碑」の場所を教える】選択後",
+      "eng": "#0Talk-2nd time after choosing \"Speak of the Purging Monument\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 307,
+      "chn": "……我终于能想起来了──",
+      "jap": "…やっと、すべて思い出せる",
+      "eng": "...It won't be long now, before I know everything.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 308,
+      "chn": "我是什么人，为了什么而活，还有我真正的名字。",
+      "jap": "俺が何者だったのか、何のために生きたのか、本当の名前も",
+      "eng": "Who I was, what I lived for, and what my name was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 309,
+      "chn": "全多亏有你帮忙。",
+      "jap": "あんたのおかげさ",
+      "eng": "And I'll have you to thank for it all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 310,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 311,
+      "chn": "你怎么啦？",
+      "jap": "どうしたんだ、あんた？",
+      "eng": "What's wrong, friend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 312,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 313,
+      "chn": "住手！住手啊！",
+      "jap": "やめろ！やめてくれ！",
+      "eng": "Stop it! Oh, please!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 314,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 315,
+      "chn": "可恶，你已经失去神智了吗？",
+      "jap": "クソッ、心を亡くしたというのか",
+      "eng": "Bloody hell! Lost your mind, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 316,
+      "chn": "那我也别无选择，原谅我吧！",
+      "jap": "ならば仕方ない、許せよ！",
+      "eng": "Then I have no choice! Forgive me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 317,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 318,
+      "chn": "原谅我吧，",
+      "jap": "許してくれよ、あんた",
+      "eng": "Forgive me, friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 319,
+      "chn": "我还有该完成的目标啊。",
+      "jap": "俺には、俺の目的があるんだ",
+      "eng": "I cannot die just yet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 320,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 321,
+      "chn": "……",
+      "jap": "クウッ……！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 322,
+      "chn": "这就是报应吗……",
+      "jap": "これが報いということか…",
+      "eng": "Perhaps...I deserved this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 323,
+      "chn": "#0到达公墓后，第1次交谈",
+      "jap": "#0話しかけた:再移動後:1回目",
+      "eng": "#0Talk-1st time at his 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 324,
+      "chn": "……啊，是你啊，我等你很久了。",
+      "jap": "…ああ、あんた、待っていたぜ",
+      "eng": "Oh, finally, you've come.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 325,
+      "chn": "多亏有你，我才能找回我自己，\r\n这绝对要好好答谢你才行。",
+      "jap": "あんたのおかげで、俺は俺を思い出した。\r\nその礼を、しなければと思ってね",
+      "eng": "Now I know exactly who I was.\r\nAnd for that, I've a little thanks to be giving.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 326,
+      "chn": "……这前面有个断掉的楼梯，\r\n你从那里往前看吧，有一堆很赞的宝物喔。",
+      "jap": "…この先で、壊れた階段の先を覗いてみな。\r\n凄いお宝が転がってるぜ",
+      "eng": "Go this way, and peep past the broken staircase.\r\nSome awfully fine treasure's just sitting there all alone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 327,
+      "chn": "那一定能帮上你的忙……",
+      "jap": "きっとあんたの役に立つ…",
+      "eng": "It'll change your life...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 328,
+      "chn": "#0到达公墓后，第2次交谈",
+      "jap": "#0話しかけた:再移動後:2回目",
+      "eng": "#0Talk-2nd time at his 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 329,
+      "chn": "……毕竟你这么照顾我，要我说几次都行。",
+      "jap": "…あんたには世話になったからな。何度でも言ってやるよ",
+      "eng": "I've much to thank you for, so I'll say it again and again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 330,
+      "chn": "这前面有个断掉的楼梯，\r\n你从那里往前看，会有一堆很赞的宝物喔。",
+      "jap": "この先で、壊れた階段の先を覗いてみな。\r\n凄いお宝が転がってるぜ",
+      "eng": "Go this way, and peep past the broken staircase.\r\nSome awfully fine treasure's just sitting there all alone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 331,
+      "chn": "……难道你不相信我说的话吗？",
+      "jap": "…俺の言葉が信じられないのか？",
+      "eng": "What, don't you believe me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 332,
+      "chn": "#0被帕奇踢下边缘后",
+      "jap": "#0再移動後",
+      "eng": "#0After approaching the ledge, where he shoves the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 333,
+      "chn": "再怎么改朝换代，人类的欲望还是那副老样子。",
+      "jap": "いつの時代も、人の欲とは変わらぬものだな",
+      "eng": "Every age, it seems, is tainted by the greed of men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 334,
+      "chn": "这对无欲无求的我来说，真的很难理解耶。",
+      "jap": "無欲の俺には、とんと分からない話だが",
+      "eng": "Rubbish, to one such as I, devoid of all worldly wants!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 335,
+      "chn": "……",
+      "jap": "ウヒャヒャヒャヒャッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 336,
+      "chn": "……可能这才是人类该走的路吧。",
+      "jap": "…だが、それでこそ人の道なのかもな",
+      "eng": "Hmmm, I dunno, maybe it's just the way we are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 337,
+      "chn": "我会尽力帮你祈祷，希望你能拿到黑暗灵魂。",
+      "jap": "精々祈ってるぜ。あんたに暗黒の魂あれ",
+      "eng": "I'll stick you in my prayers. A fine dark soul, to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 338,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:再移動後:1回目",
+      "eng": "#0Upon being attacked-1st time at his 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 339,
+      "chn": "你怎么了！",
+      "jap": "あんた、どうしたんだ！",
+      "eng": "What in bloody hell?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 340,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:再移動後:2回目",
+      "eng": "#0Upon being attacked-2nd time at his 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 341,
+      "chn": "快住手！住手啊！",
+      "jap": "やめろよ！やめろって！",
+      "eng": "Stop that! Enough of that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 342,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった:再移動後",
+      "eng": "#0Upon being attacked & made hostile at his 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 343,
+      "chn": "可恶，你果然不对劲。",
+      "jap": "畜生、おかしくなっちまったか",
+      "eng": "Bloody hell, you've lost your head, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 344,
+      "chn": "那我也不客气了。",
+      "jap": "だったら、やってやるぜ",
+      "eng": "Then, let's have a go, shall we.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 345,
+      "chn": "我名为不屈不挠，决不屈服！",
+      "jap": "俺は不屈、何事にも折れぬ！",
+      "eng": "I'm unbreakable! You can't crack me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 346,
+      "chn": "去死吧！",
+      "jap": "死に腐れ！",
+      "eng": "I'll rot yer flesh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 347,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した(輸の都):再移動後",
+      "eng": "#0Upon killing the protagonist at his 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 348,
+      "chn": "这到底是怎么搞的啊……",
+      "jap": "なんだって、おかしくなっちまうんだよ…",
+      "eng": "Everything always goes to pot, doesn't it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 349,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した:再移動後",
+      "eng": "#0Upon dying at his 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 350,
+      "chn": "……",
+      "jap": "ウゥッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 351,
+      "chn": "浑蛋，真够倒霉的……",
+      "jap": "畜生、ついてねえよ…",
+      "eng": "Curses, of all the luck...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 352,
+      "chn": "这到底是怎么搞的啊……",
+      "jap": "なんだって、おかしくなっちまうんだよ…",
+      "eng": "Everything always goes to pot, doesn't it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 353,
+      "chn": "##……",
+      "jap": "##アウッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 354,
+      "chn": "##……",
+      "jap": "##アウチッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 355,
+      "chn": "##不算数！不算数啊！",
+      "jap": "##ノーカウント！ノーカウント！",
+      "eng": "##Oh come on, you know it's true!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 356,
+      "chn": "##……",
+      "jap": "##ぐわああああああっ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 357,
+      "chn": "##浑蛋，我可是……",
+      "jap": "##畜生、なんだって俺が…",
+      "eng": "##Gods' piss, just my bloody luck...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 358,
+      "chn": "##……",
+      "jap": "##ウッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 359,
+      "chn": "##……",
+      "jap": "##アウッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 360,
+      "chn": "##……",
+      "jap": "##ウゥ…ウ……！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 361,
+      "chn": "##浑蛋……你是怎么搞的……",
+      "jap": "##畜生が…なんだってんだ…",
+      "eng": "##Gods' spit and piss and blood...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 362,
+      "chn": "##啊，对了，差点忘记告诉你，",
+      "jap": "##ああ、そうだ、ひとつ忠告を忘れていた",
+      "eng": "##Oh, wait, I forgot to give you a wee warning.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 363,
+      "chn": "##你要小心堆土塔里的暗灵喔。",
+      "jap": "##あんた、土の塔の闇霊に注意しておけよ",
+      "eng": "##Watch out for the Dark Spirit lurking at the earthen tower.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 364,
+      "chn": "##我是游魂，被那种东西攻击也不用担心，\r\n可是你就不一定了吧？",
+      "jap": "##俺は亡者だからな、あんなものに襲われる心配はないが、\r\n多分あんたは違うんだろう？",
+      "eng": "##I'm hollow, so it won't bother me,\r\nbut you're still human, I presume?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 365,
+      "chn": "##我也好想担心会被攻击喔。",
+      "jap": "##まったく羨ましいことさ",
+      "eng": "##Hmm, must be nice. Really, must be nice!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 366,
+      "chn": "##……",
+      "jap": "##ハハハ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 367,
+      "chn": "##……",
+      "jap": "##ウッ…！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 368,
+      "chn": "##……",
+      "jap": "##ウッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 369,
+      "chn": "##……",
+      "jap": "##ウゥ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 370,
+      "chn": "##……",
+      "jap": "##……",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 371,
+      "chn": "##……",
+      "jap": "##クッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 372,
+      "chn": "##……",
+      "jap": "##ウッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 373,
+      "chn": "##“我会一直当你的朋友”是吗……",
+      "jap": "##あんたの友でいさせてくれ、か…",
+      "eng": "##True friends, eh?",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

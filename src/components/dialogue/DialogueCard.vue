@@ -46,37 +46,30 @@ const getLineText = (line: DialogueLine) => {
 </script>
 
 <style scoped lang="scss">
-@import '@/assets/styles/variables.scss';
-
 .dialogue-card {
-  background: var(--color-bg-secondary);
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
+  background: #111;
+  border: 1px solid #321;
+  box-shadow: inset 0 0 20px #531;
   overflow: hidden;
-  transition: all 0.3s ease;
-
-  &:hover {
-    border-color: var(--color-accent);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  }
 }
 
 .dialogue-header {
   display: flex;
   align-items: center;
-  gap: 1rem;
-  padding: 1rem;
-  background: rgba(0, 0, 0, 0.3);
-  border-bottom: 1px solid var(--color-border);
+  gap: 1.5rem;
+  padding: 1.5rem;
+  background: #000;
+  border-bottom: 2px solid #321;
 }
 
 .npc-avatar {
-  width: 64px;
-  height: 64px;
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   overflow: hidden;
-  border: 2px solid var(--color-accent);
-  background: rgba(0, 0, 0, 0.5);
+  border: 3px solid #960;
+  background: #000;
+  flex-shrink: 0;
 
   img {
     width: 100%;
@@ -86,43 +79,41 @@ const getLineText = (line: DialogueLine) => {
 }
 
 .npc-name {
-  font-size: 1.3rem;
-  color: var(--color-accent);
+  font-size: 1.8rem;
+  color: #960;
   margin: 0;
-  font-weight: 500;
+  font-family: '仿宋', 'SimSun', serif;
+  font-weight: normal;
 }
 
 .dialogue-lines {
-  padding: 1rem;
-  max-height: 600px;
-  overflow-y: auto;
+  padding: 1.5rem;
 }
 
 .dialogue-line {
   display: flex;
   gap: 1rem;
-  padding: 0.75rem;
-  margin-bottom: 0.5rem;
-  background: rgba(0, 0, 0, 0.2);
-  border-radius: 4px;
-  transition: background 0.2s ease;
+  padding: 1rem 0;
+  border-bottom: 1px solid #321;
 
-  &:hover {
-    background: rgba(0, 0, 0, 0.4);
+  &:last-child {
+    border-bottom: none;
   }
 
   &.is-title {
-    background: rgba(255, 215, 0, 0.1);
-    border-left: 3px solid var(--color-accent);
+    background: rgba(153, 102, 0, 0.1);
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border: 1px solid #430;
 
     .line-text {
-      font-weight: 600;
-      color: var(--color-accent);
+      font-weight: bold;
+      color: #fe6;
     }
   }
 
   &.is-unused {
-    opacity: 0.5;
+    opacity: 0.4;
 
     .line-text {
       text-decoration: line-through;
@@ -133,23 +124,41 @@ const getLineText = (line: DialogueLine) => {
 
 .line-index {
   flex-shrink: 0;
-  width: 40px;
-  color: var(--color-text-secondary);
-  font-size: 0.85rem;
-  font-family: monospace;
+  width: 50px;
+  color: #666;
+  font-size: 0.9rem;
+  font-family: 'Courier New', monospace;
+  text-align: right;
 }
 
 .line-text {
   flex: 1;
-  color: var(--color-text-primary);
-  line-height: 1.6;
+  color: #ccc;
+  line-height: 1.8;
   margin: 0;
+  font-family: '仿宋', 'SimSun', serif;
+  font-size: 1.05rem;
+  white-space: pre-wrap;
 }
 
 @media (max-width: 768px) {
   .dialogue-header {
     flex-direction: column;
     text-align: center;
+    gap: 1rem;
+  }
+
+  .npc-avatar {
+    width: 64px;
+    height: 64px;
+  }
+
+  .npc-name {
+    font-size: 1.4rem;
+  }
+
+  .dialogue-lines {
+    padding: 1rem;
   }
 
   .dialogue-line {
@@ -159,6 +168,11 @@ const getLineText = (line: DialogueLine) => {
 
   .line-index {
     width: auto;
+    text-align: left;
+  }
+
+  .line-text {
+    font-size: 1rem;
   }
 }
 </style>

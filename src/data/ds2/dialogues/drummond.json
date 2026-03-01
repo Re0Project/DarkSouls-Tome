@@ -1,6 +1,415 @@
 {
   "npc": "drummond",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/drummond.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/drummond.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你在这里做什么？",
+      "jap": "ここで何をしている？",
+      "eng": "What are you doing here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你并不是我方士兵……\r\n也不像是雇来的杂工……",
+      "jap": "我が方の兵士ではない…\r\n下働きに雇われた者でもなさそうだが…",
+      "eng": "You are not one of our soldiers.\r\nAnd I don't take you for a mercenary.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我不知道你是谁，不过面对这场战争也不逃，",
+      "jap": "誰かは知らぬが、この戦いのさなか逃げもせぬとは",
+      "eng": "Whoever you are, this is no battle to involve yourself in.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "不是很有胆色，\r\n就只是个单纯的蠢蛋…哈哈。",
+      "jap": "肝が据わっているのか、\r\nそれともただの愚鈍か…フフフッ",
+      "eng": "Whether you are guided by bravery,\r\nor brashness, this is no place for you. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "我的名字是多拉蒙德。\r\n蒙陛下赐以这座碉堡指挥权的人。",
+      "jap": "我が名は、ドラモンド\r\n王より、この砦の指揮を賜った者だ",
+      "eng": "I am Drummond,\r\nand the Lord has placed this fort in my hands.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "不管你是什么人，我原谅你，\r\n尽快离开这座碉堡吧。",
+      "jap": "貴様が何者であろうが構わん、私が許す\r\n急ぎこの砦を離れよ",
+      "eng": "Whoever you are, I forgive your trespass.\r\nBut leave this place immediately.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "只要亮出我的名号就没人会阻挡你。",
+      "jap": "我が名を示せば、止める者はおるまい",
+      "eng": "Just mention my name, and no man will challenge your exit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "当然那也是如果\r\n还留有足够的士兵的状况了……",
+      "jap": "もっとも、そんな余裕のある兵が\r\nまだ残っておればだが…",
+      "eng": "And even if you don't, by now,\r\nmy men have not the will to resist.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "……那些巨人很快就会蜂拥到这里来。",
+      "jap": "…間もなく、ここにもあの巨人どもが押し寄せて来よう",
+      "eng": "Soon, the Giants will descend upon this fort.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "这是报应吧。\r\n因为我们国王的暴政。",
+      "jap": "これは報いなのだ\r\n我が王の為した蛮行のな",
+      "eng": "It is revenge,\r\nfor the Kingdom's misguided barbarism.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "原本明明就是为人民谋福祉，\r\n在这里建国的名君……",
+      "jap": "民の幸福を思い、\r\nこの地に国を築いた名君であったはずが…",
+      "eng": "The venerable Lord built this kingdom\r\nto bring prosperity to His subjects.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "是什么改变了陛下呢……",
+      "jap": "何が、あの方を変えてしまわれたのか…",
+      "eng": "What has transformed him so, I can not imagine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "我们国王以前曾经渡海攻入巨人之国，\r\n然后从那里带了\"什么\"回来。",
+      "jap": "かつて我が王は海を渡り、巨人の国へと攻め入った\r\nそしてそこから\"何か\"を持ち帰った",
+      "eng": "Long ago, the King crossed the seas,\r\npillaged the land of Giants, and brought back a \"prize\".",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "之后听说就诞生了那些\"巨偶\"。",
+      "jap": "以来、この国にあのゴーレムが生まれたと聞く",
+      "eng": "It was then that the golems materialised.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "那些巨人并不只是普通的蛮族，\r\n毫不留情，受愤怒驱动。",
+      "jap": "あの巨人どもは、ただの蛮族ではない\r\n許すことのできぬ、怒りにかられている",
+      "eng": "The Giants are no ordinary barbarians.\r\nA singular rage burns within their hearts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我的父亲跟祖父\r\n都在这里跟那些巨人战斗过。",
+      "jap": "我が父も、祖父も\r\nこの地であの巨人たちと戦ったのだ",
+      "eng": "My father, and his father,\r\nboth fought the Giants on this very land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "那种执着非同寻常。",
+      "jap": "尋常の執念ではない",
+      "eng": "The Giants have wills of steel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "是我们国王做过的事，\r\n让他们无法原谅吧……",
+      "jap": "あの者たちは許すことができんのだろう\r\n我が王の所業を…",
+      "eng": "They cannot find it within themselves...\r\nTo forgive the misdeeds of our lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0第5次说话",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "你也看到了吗？在那些家伙之中有个特别大的怪物。",
+      "jap": "貴様も見たか？あ奴らの中で、一際大きなあの怪物を",
+      "eng": "Did you see him? That towering monster among them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "那肯定就是他们的王。",
+      "jap": "あれこそ、あの者たちの王に他ならぬ",
+      "eng": "That is most certainly their King.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "反正都这样了，\r\n去拼个同归于尽也挺有意思的。哈哈！",
+      "jap": "斯くなる上は、差し違えるのも一興よ\r\nフフフッ",
+      "eng": "He will be a thing to topple,\r\nhah hah hah hah, even if I should die trying!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "即使刀毁箭尽，\r\n但我的意志至今仍然没有受挫。",
+      "jap": "刀折れ、矢尽きるとも\r\n我が心までは、いまだ折れてはおらぬ",
+      "eng": "My blade may break, my arrows fall wide,\r\nbut my will shall never be broken.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "拼上我多拉蒙德出生在武人世家的意气，\r\n好好看着我最后的英姿吧！",
+      "jap": "武門に生まれた者の意地、\r\nこのドラモンド、最期に目にものを見せてくれよう",
+      "eng": "Those who live by the sword will die by it,\r\nand I, Drummond, won't go down without drawing mine!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0第6次说话",
+      "jap": "#0話しかけた:6回目",
+      "eng": "#0Talk-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "快走，这座碉堡已经撑不住了。",
+      "jap": "早く行け、この砦はもう持たぬ",
+      "eng": "Be gone with you, this fort will soon fall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "你最好在那些巨人蜂拥而至以前逃出去。",
+      "jap": "あの巨人どもが押し寄せてくる前に、早く逃げるがよい",
+      "eng": "Be gone, before the Giants are entirely upon us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0击杀巨人王后说话",
+      "jap": "#0話しかけた:巨人オジェイの記憶で巨人の王を倒したあと",
+      "eng": "#0Talk-After defeating the Giant Lord",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "这个你拿去吧。\r\n它应该是你需要的东西。",
+      "jap": "これを持っていくがいい\r\n貴様には必要なものであるはずだ",
+      "eng": "Take these.\r\nI think you may just need them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "我也不知道为什么，\r\n只是有那种感觉而已。",
+      "jap": "何故かはわからぬ\r\nただそんな気がしただけだ",
+      "eng": "Don't ask me why.\r\nI just do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "呜噢！",
+      "jap": "ぐおっ",
+      "eng": "Erg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "你这混蛋……这是什么意思！",
+      "jap": "貴様…何のつもりだ",
+      "eng": "How dare you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "你最好不要再跟我胡闹了……",
+      "jap": "悪ふざけも、そこまでにしておけ…",
+      "eng": "Enough with this madness!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "混帐，你愚弄了我吗……！",
+      "jap": "貴様、我を愚弄するか…！",
+      "eng": "You dare to mock me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "你看起来非常想死的样子……",
+      "jap": "よほど死にたいと見える…",
+      "eng": "Are you determined to die?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "太难看了……",
+      "jap": "無様な…",
+      "eng": "What a waste.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "哈哈，有一套！",
+      "jap": "フフッ、やりおるわ！",
+      "eng": "Hmph! How very sporting!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "太大意了……",
+      "jap": "不覚…",
+      "eng": "I..I am...bested...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "##我已经……尽了我的职责吗……",
+      "jap": "##我が役目は…果たされたのか…",
+      "eng": "##Matters are settled...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

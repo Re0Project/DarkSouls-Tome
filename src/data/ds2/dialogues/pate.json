@@ -1,6 +1,975 @@
 {
   "npc": "pate",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/pate.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/pate.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你好，\r\n难道你是一个人在旅行吗？",
+      "jap": "やぁ、こんにちは\r\nもしかしておひとりで旅を？",
+      "eng": "Hello there.\r\nTravelling all alone in these treacherous times?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "在这样的时代一个人旅行，应该有什么原因吧？",
+      "jap": "このご時世に一人旅とは、何か訳ありなのでしょうねぇ",
+      "eng": "Well, I hope you have a very good reason.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "不过我好像也没资格说别人……哈哈哈……",
+      "jap": "まあ、私も他人のことを言えた立場では…フフフッ…",
+      "eng": "Oh, hogwash, who am I to judge? Hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我的名字叫做培特，",
+      "jap": "私の名前はペイトといいます",
+      "eng": "My name is Pate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我四处东奔西走……\r\n没错……\r\n我是在寻宝。",
+      "jap": "あちこちを巡って…\r\nそうですね…\r\n宝探しをしているのです",
+      "eng": "I journey hither and thither...\r\nOn a sort of...\r\n...treasure hunt, you might call it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "最近我常听到有人在欺骗旅人，\r\n你最好也要多加小心。",
+      "jap": "近頃は旅人を騙すような輩も多いと聞きます\r\nくれぐれも、道中お気を付けて",
+      "eng": "Be careful out there. There's talk of unsavoury bandits\r\nwho prey upon travellers like yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "对了，如果你要去那里的深处，\r\n最好要小心一点。",
+      "jap": "そうそう、そこの奥に行くなら\r\n気をつけた方がいいですよ",
+      "eng": "Oh yes,\r\nyou be cautious if you go any farther.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "虽然听说好像有什么宝物，\r\n但却有着一走进去，门口就会关起来的机关，",
+      "jap": "何やら宝があると聞いてきたのですが\r\n中に入ると、入口が閉まる仕組みになってます",
+      "eng": "There's treasure in there, for certain,\r\nbut the entrance locks from behind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "我以前也曾经看过相同的机关，\r\n所以我知道。",
+      "jap": "前にも、同じような仕掛けを見たことがあるので\r\nわかるんですよ",
+      "eng": "I saw the same design earlier,\r\nand it's the same contraption, I'm sure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "那个时候我和一位像战士的人一起旅行，\r\n结果他居然把我推开，自己走了进去……",
+      "jap": "その時も、戦士風の方と居合わせたのですが\r\n私を押しのけて入っていかれて…",
+      "eng": "I was with this warrior, you see,\r\nand he insisted that he go inside first.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "他好像还说什么宝物都是他的……\r\n幸亏他这么粗暴，反而让我得救了。",
+      "jap": "宝はやらん、とかなんとか言いながら…\r\n乱暴な人でしたが、結果助かりました",
+      "eng": "The rather brusque fellow tried to swipe the loot for himself,\r\nbut it trapped him inside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我手边还有那个人掉落的戒指，\r\n希望他没事就好了……",
+      "jap": "その方が落とした指輪を持っているんです\r\nご無事だといいのですが…",
+      "eng": "I still have the gent's ring.\r\nI do hope he wasn't harmed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "这里就交给你吧，\r\n毕竟我不知道里面到底有什么。",
+      "jap": "私は手を引きますよ\r\n中がどうなっているのか、わからないですから",
+      "eng": "I'll leave this one to you.\r\nI'm worried about what might be inside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0铁门陷阱启动后返回，第1次说话",
+      "jap": "#0話しかけた:トラップ発動後1",
+      "eng": "#0Talk-1st time after the gate trap has been activated",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "看来好像顺利逃出来了，",
+      "jap": "どうやら、うまく抜け出せたようですね",
+      "eng": "Well, I see you managed to escape.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "希望当时的那个人也平安无事，",
+      "jap": "あの時の方も、無事なら良いのですが",
+      "eng": "I hope that brave warrior didn't come a cropper either.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "最近我常听到有人在欺骗旅人，\r\n你最好也要多加小心。",
+      "jap": "近頃は旅人を騙すような輩も多いと聞きます\r\nくれぐれも、道中お気を付けて",
+      "eng": "Be careful out there. There's talk of unsavoury bandits\r\nwho prey upon travellers like yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0初次与培特说话前落入铁门陷阱，返回后第1次说话",
+      "jap": "#0話しかけた:トラップ発動後・ベイトに話を聞く前にトラップにかかった",
+      "eng": "#0Talk-1st time after the gate trap has been activated, before talking to him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "呼……真是千钧一发。",
+      "jap": "いやあ、危ないところでしたね",
+      "eng": "Well, that was a close call! Heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "看你就这样直直地前进，\r\n想说要提醒你在这之前会有陷阱……",
+      "jap": "この先に罠があると教えてさしあげようと思ったら、\r\nあなたが素通りしてしまうものですから…",
+      "eng": "I wanted to warn you of the trap down the way,\r\nbut you walked right past me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "我的名字叫做培特，",
+      "jap": "私の名前はペイトといいます",
+      "eng": "My name is Pate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "我四处东奔西走……\r\n没错……\r\n我是在寻宝。",
+      "jap": "あちこちを巡って…\r\nそうですね…\r\n宝探しをしているのです",
+      "eng": "I journey hither and thither...\r\nOn a sort of...\r\n...treasure hunt, you might call it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "最近我常听到有人在欺骗旅人，\r\n你最好也要多加小心。",
+      "jap": "近頃は旅人を騙すような輩も多いと聞きます\r\nくれぐれも、道中お気を付けて",
+      "eng": "Be careful out there. There's talk of unsavoury bandits\r\nwho prey upon travellers like yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0铁门陷阱启动后返回，第2次说话",
+      "jap": "#0話しかけた:トラップ発動後2",
+      "eng": "#0Talk-2nd time after the gate trap has been activated",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "对了，这个给你吧，",
+      "jap": "そうだ、これを差し上げましょう",
+      "eng": "Oh, but you should take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "这个可以跨越世界的\"隔阂\"，\r\n也是不死者所寻求的救赎之物，",
+      "jap": "これは、世界の\"ずれ\"を越えて、\r\n不死人同士たちが救いを求めるためのもの",
+      "eng": "It allows Undead to call out for help to one another,\r\nacross the fissures between worlds.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "运气好的话，\r\n说不定能够用它来救什么人喔。",
+      "jap": "運が良ければ、誰かが救いの手を\r\n差し伸べてくれるかもしれませんよ",
+      "eng": "With luck,\r\nsomebody will lend you a hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0铁门陷阱启动后返回，第3次说话",
+      "jap": "#0話しかけた:トラップ発動後3",
+      "eng": "#0Talk-3rd time after the gate trap has been activated",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "还好你没事。",
+      "jap": "ご無事で何よりです",
+      "eng": "Good to see you safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0召唤培特击杀最后的巨人且存活时，到达堆土塔后，第1次说话",
+      "jap": "#0話しかけた:最の後巨人戦で白霊とてし召喚し、生存しまたまクリアして",
+      "eng": "#0Talk-Summoning as White Phantom successfully defeating The Last Giant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "就用这个来做为我们之间友好的证明吧，\r\n毕竟我们是互相帮助的同伴",
+      "jap": "私たちの友好の印にこれを差し上げましょう\r\n助け合った仲ですからね",
+      "eng": "We went through a lot together.\r\nTake these, as a token of our friendship.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "别客气喔，\r\n说起来我们也很有缘呢，\r\n呵呵呵……",
+      "jap": "遠慮はいりません\r\nこれも何かのご縁でしょうから\r\nフフフッ…",
+      "eng": "Don't be shy,\r\nthey were meant for you...\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0到达堆土塔后，第1次说话",
+      "jap": "#0話しかけた:1回目・特定の宝を箱開けていない",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "好久不见，没想到会再碰到你。",
+      "jap": "おひさしぶりです、またお会いしましたね",
+      "eng": "Well, we meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "虽然在这前方似乎有着什么宝物……\r\n不过总有一种不好的预感，",
+      "jap": "この先に、なにやら宝があるらしいんですが…\r\nどうにも厭な予感がするんですよ",
+      "eng": "There's treasure this way...\r\nBut I've a bad feeling about it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "因为我是个胆小鬼，呵呵呵……",
+      "jap": "私は臆病者なんです、フフフッ…",
+      "eng": "I don't quite have the guts myself! Hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0获得强力灵魂巨箭后，第1次说话",
+      "jap": "#0話しかけた:1回目・特定の宝箱を開けた",
+      "eng": "#0Talk-1st time after acquiring the Great Heavy Soul Arrow scorcery",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "喔，你没事啊……",
+      "jap": "ああ、無事だったようですね…",
+      "eng": "Well, good to see that you survived.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "看来担心你似乎是多余的，",
+      "jap": "あなたなら心配無用かもしれませんが",
+      "eng": "Perhaps you're more rugged than I thought.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "怎么说宝物都应该是你的，\r\n毕竟你都冒了这么大的危险。",
+      "jap": "いずれにしても、宝はあなたのものですよ\r\n危険を冒したのですからね",
+      "eng": "In any case, the treasure is yours.\r\nSince you went ahead, and took the leap.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0获得强力灵魂巨箭后，第2次说话",
+      "jap": "#0話しかけた:2回目・特定の宝箱を開けた",
+      "eng": "#0Talk-2nd time after acquiring the Great Heavy Soul Arrow scorcery",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "谨慎小心是我的人生哲学，\r\n在这里到处都有着许多奇怪的人。",
+      "jap": "慎重にやるのが、私の主義なんです\r\nここには、どうにもおかしな人が多いですし",
+      "eng": "I prefer a more cautious approach.\r\nIt's hard to know who to even trust these days.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "听说还有人在追杀我，",
+      "jap": "なにやら私を追っている人がいると聞きました",
+      "eng": "For instance, I've heard that a man is out for my life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "我想这其中应该有什么误会吧……",
+      "jap": "何か誤解があるのだと思うのですが…",
+      "eng": "Now, what misunderstanding could have ever led to that?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "真不知道他为何要这样，呵呵呵……",
+      "jap": "どうしてそんなことになったのやら、フフフッ…",
+      "eng": "The poor bloke must have quite an imagination. Heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0获得强力灵魂巨箭后，第3次说话",
+      "jap": "#0話しかけた:3回目・特定の宝箱を開けた",
+      "eng": "#0Talk-3rd time after acquiring the Great Heavy Soul Arrow scorcery",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "你也要多加小心，\r\n不多防备一下他人可是很危险的喔……",
+      "jap": "あなたも気を付けてください\r\nうかつに他人に気を許すと、危険ですよ…",
+      "eng": "You be careful, too, my friend.\r\nFor trust can be a dangerous thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0到达辉石镇盖多勒后，与克雷顿战斗中",
+      "jap": "#0話しかけた:ベイトとクレイトンが戦闘中",
+      "eng": "#0Talk-After approaching him & Creighton while they are fighting",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "怎、怎么突然就砍了过来！帮帮我吧!!",
+      "jap": "い、いきなり斬りかかってきて！手を貸してください！！",
+      "eng": "He swung at me! Please, lend me a hand!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0未帮助培特，克雷顿死后说话",
+      "jap": "#0話しかけた:ベイトに味方せず、クレイトンが死んだ",
+      "eng": "#0Talk-Without having assisting him in killing Creighton",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "这个人到底是怎么回事……",
+      "jap": "なんだったのでしょう、この方は…",
+      "eng": "What was he thinking?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "我也没对他做过什么事……",
+      "jap": "私は何もしていないのですが…",
+      "eng": "I haven't done a thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0帮助培特击杀克雷顿后，第1次说话",
+      "jap": "#0話しかけた:ベイトに味方してクレイトンを倒した",
+      "eng": "#0Talk-1st time after assisting him in killing Creighton",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "看来他似乎有什么严重的误会吧……",
+      "jap": "何か、ひどい勘違いをされていたのでしょうか…",
+      "eng": "What misunderstanding could have caused this?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "总之得救了，\r\n得好好谢谢你才行。",
+      "jap": "ともかく、助かりました\r\nなにかお礼をしなければ",
+      "eng": "Well. Thank you.\r\nI owe you my life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "在这前方有着我的秘密基地，",
+      "jap": "この先に、私の隠れ処があるんです",
+      "eng": "My little pied-à-terre lies beyond here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "我放了一些自己的宝物在那里，\r\n你看到喜欢的东西就请拿走吧，",
+      "jap": "私の宝をいくつか置いてあります\r\n好きなものを持って行ってください",
+      "eng": "You'll find some of my treasures there.\r\nHelp yourself to those that suit you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "请使用这把钥匙。",
+      "jap": "この鍵を使ってください",
+      "eng": "Here, use this key.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0帮助培特击杀克雷顿后，第2次说话",
+      "jap": "#0話しかけた:ベイトに味方してクレイトンを倒した2",
+      "eng": "#0Talk-2nd time after assisting him in killing Creighton",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "路上请多小心……",
+      "jap": "道中、お気をつけて…",
+      "eng": "Be cautious on your travels.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0打开盖多勒隐匿处宝箱后",
+      "jap": "#0輝石街ジェルドラの隠れ家で宝箱を開けた",
+      "eng": "#0After opening the trapped chest",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "居然没死，太可惜了……",
+      "jap": "死ねばよかったのに…",
+      "eng": "Ooh, that'll leave a nice scar!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "呜啊！",
+      "jap": "うわっ！",
+      "eng": "Eek!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "你想怎样!?",
+      "jap": "何をするんです！？",
+      "eng": "What the devil's...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "住、住手！",
+      "jap": "や、やめてください！",
+      "eng": "Now, stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "我可是对自己的技术颇有自信喔。",
+      "jap": "腕に覚えはあるつもりですよ",
+      "eng": "Oh, I can scrimmage, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "又是你……没办法了！",
+      "jap": "また、あなたですか…しかたない",
+      "eng": "You again? Oh, heavens...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "呵呵呵呵呵……",
+      "jap": "フフフフフッ…",
+      "eng": "Heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "蛮厉害的嘛……呵呵呵……",
+      "jap": "なかなかです…フフフッ…",
+      "eng": "Not too shabby... Heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "呜啊啊啊啊啊……",
+      "jap": "ぐわぁああぁあ…",
+      "eng": "Aiieeegh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "##在这前方有着看起来很强的怪物在四处徘徊，\r\n最好提高警觉。",
+      "jap": "##この先は、強そうな化け物がうろついています\r\n気をつけた方がいいですよ",
+      "eng": "##There's a right foul creature lurking this way.\r\nI'd say, why disturb the thing?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "##如果你一定要去的话，我是不会阻止你的。",
+      "jap": "##どうしても進むなら、お引止めはしませんがね",
+      "eng": "##But if you must go on, I'm not one to stop you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "##抱歉，我天生就很胆小……\r\n并不能帮上什么忙，\r\n呵呵呵……",
+      "jap": "##生憎と、私は臆病なたちでしてね…\r\nお役に立てそうにはありませんが\r\nフフフッ…",
+      "eng": "##I wish I were more help myself,\r\nbut I haven't much bravery in me.\r\nHeh heh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "##呵呵呵……",
+      "jap": "##フフフッ…",
+      "eng": "##Heh heh heh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "###2（仅英文语音）喔，真抱歉。你能打开它吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh, very sorry. But could you open this?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "###2（仅英文语音）我真是笨透了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) How silly I am to have let this happen.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "###2（仅英文语音）能拜托你打开它吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Could you please open this?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "###2（仅英文语音）你要是不介意，能把它打开吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) If you don't mind, could you open this?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "###2（仅英文语音）哟，我得救了！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Phew, I'm saved!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "###2（仅英文语音）你人不错嘛。哈哈哈……#3",
+      "jap": "##…",
+      "eng": "##(No caption) You are very kind. Hah hah hah...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "###2（仅英文语音）谢谢你了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Thank you very much.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "###2（仅英文语音）喔，我记得你。哈哈哈……#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh, I remember you. Hah hah hah...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "###2（无译文）哟，你好像是正常人啊。#3",
+      "jap": "##よぉ。　あんた、どうやらまともらしいな",
+      "eng": "##Hey. You haven't lost your mind yet hugh?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "###2（无译文）我是培特。我们都是正常人，那就一起奋斗吧。#3",
+      "jap": "##俺はペイト。　まともな者同士、仲良くしようぜ",
+      "eng": "##I'm Pait. Since we're both sane, why don't we get along?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "###2（无译文）啊，我还在想是谁呢，真是好久不见了。#3",
+      "jap": "##あぁ、誰かと思えばあんたか。　久しぶりだな",
+      "eng": "##Oh, it's you. Long time no see.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "###2（无译文）对了，我来告诉你一件好事吧。\r\n那里的深处，好像藏着什么宝物。#3",
+      "jap": "##そうだ、いいことを教えてやるよ\r\nそこの奥にな、お宝が眠ってるみたいなんだ",
+      "eng": "##Oh, yes. Here, I'll tell you a secret. \r\nThere seem to be a treasure hidden over there. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "###2（无译文）我是真的想把它据为己有，\r\n但总是觉得有危险的味道。#3",
+      "jap": "##本当なら俺のモンにしちまうところだが\r\nどうも、ヤバそうな匂いがしてなぁ…",
+      "eng": "##Of course I want it for my own,\r\nbut I smell something uneasy.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "###2（无译文）大概因为我是个胆小孱弱的男人？\r\n要是有什么厉害的游魂，就插翅难逃了。#3",
+      "jap": "##俺はほれ、小心者の、か弱い男だろう？\r\n強ぇ亡者なんかいたら、チビッてるうちにおだぶつだ",
+      "eng": "##You know? I'm a weak timid man. If there's a strong hollow,\r\nI will be dead before I even wet my pants.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "###2（无译文）你很厉害，什么样的游魂都无所谓吧？\r\n这次就拱手让给你啦。#3",
+      "jap": "##あんたは強ぇんだ、どんな亡者がいても平気だろ？\r\nだから今回は譲ってやるよ",
+      "eng": "##I know you're strong, so you can handle any hollows, right?\r\n So this time, I'll give you the chance. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "###2（无译文）什么，要是有危险的话就逃回来吧。\r\n我也是男人。到时候我会帮你打败它的。#3",
+      "jap": "##なぁに、ヤバイのがいたらこっちに逃げてくりゃいいさ\r\n俺も男だ。　そん時は倒すのを手伝ってやるよ",
+      "eng": "##Come on, If there is something awful, run back here.\r\nI'm a man. In that case, I will help you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "###2（无译文）怎么了？好不容易我才说把宝物让给你的，\r\n叫你快点去啦。#3",
+      "jap": "##どうした？　せっかく俺がお宝を譲ってやるって言ってんだ\r\nさっさと行ってこいって",
+      "eng": "##What are you waiting for? \r\nCome on, I'm giving you the treasure. Now go.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "###2（无译文）啊，喔──是你呀…\r\n怎么了？一脸严肃啊。#3",
+      "jap": "##お、おう、あんたか…\r\nどうした？　ずいぶん険しい顔してるじぇねぇか",
+      "eng": "##Oh…. It's you. \r\nWhat's the matter? You surly look stern.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "###2（无译文）对了，我刚刚不小心碰到了机关…\r\n难、难不成那对你造成了什么麻烦？#3",
+      "jap": "##そういえば、さっき仕掛けに触っちまったんだが…\r\nも、もしかして、それで迷惑かけちまったのか…？",
+      "eng": "##I accidently touched that device. \r\nDid..did it cause you any trouble?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "###2（无译文）不，不是故意的，我不是故意的！#3",
+      "jap": "##いや、わざとじゃねぇ、わざとじゃねぇよ！",
+      "eng": "##No, it wasn't on purpose! Of course not!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "###2（无译文）再说了，你也平安无事地回来了，\r\n反正，也没什么大不了的吧？#3",
+      "jap": "##それにあんただって、こうして無事に戻ってきてるんだ\r\nどうせ、たいしたことなかったんだろ？",
+      "eng": "##In fact, you're here just ok.\r\n It wasn't a big deal right? ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "###2（无译文）对、对了，就用这个来赔礼吧。\r\n在这样的时代，还是来一起奋斗吧。#3",
+      "jap": "##そ、そうだ。　わびの代わりにこれをやるよ\r\nこんなご時世なんだ、仲良くしていこうぜ",
+      "eng": "##Here take this as an apology.  It's such an harsh world,\r\nwe should help each other, don't you think?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "###2（无译文）别露出那么可怕的表情嘛。\r\n在这样的时代，还是来一起奋斗吧。#3",
+      "jap": "##そんなに怖い顔するなって\r\nこんなご時世なんだ、仲良くしていこうぜ",
+      "eng": "##Come on don't give me that face now. \r\nWe're friends, right?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "###2（无译文）嗯？你拿着的…难道是这深处的宝物？#3",
+      "jap": "##ん？　あんたが持ってるのは…もしかして、この奥の宝か！？",
+      "eng": "##Huh? Hey, is that the treasure you have there!?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "###2（无译文）是、是吗！那真是太好了！哈哈哈。#3",
+      "jap": "##そ、そうか！　そりゃよかったな！ハハハッ",
+      "eng": "##W…Well, that's nice! Ha ha ha.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "###2（无译文）怎么了吗？\r\n宝物已经取走了…还留在这里做什么？#3",
+      "jap": "##どうしたよ？\r\n宝も取っちまったんだ…ここに用なんてもうねぇだろ？",
+      "eng": "##What? You already got the treasure,\r\nwhat more are you looking for?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "###2（无译文）来，快点离开吧。#3",
+      "jap": "##ほら、さっさと行けって",
+      "eng": "##Now go already.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "###2（无译文）干什么！会痛耶！#3",
+      "jap": "##なんだっ？ 痛えっ！",
+      "eng": "##What? Ouch!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "###2（无译文）喂！住手！#3",
+      "jap": "##おいっ！ やめろっ！",
+      "eng": "##Hey! Stop that!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "###2（无译文）不是叫你住手吗！#3",
+      "jap": "##やめてくれ！",
+      "eng": "##Stop it!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "###2（无译文）拜、拜托，冷静点！#3",
+      "jap": "##た、頼む、落ち着け！",
+      "eng": "##P…Please, calm down!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "###2（无译文）是喔，给我来这套啊。#3",
+      "jap": "##そうかい、そうかい、そうくるかい",
+      "eng": "##All right, all right, if that is what you want!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "###2（无译文）只能放手一搏了吗！真是倒霉！#3",
+      "jap": "##やるしかねえのか！　ついてねえな！",
+      "eng": "##I have no other choice! God, how unlucky can I be!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "###2（无译文）可恶…快点去死吧！#3",
+      "jap": "##くそっ…とっとと死に腐れ！",
+      "eng": "##Shit, just die already!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "###2（无译文）混蛋……你是怎么搞的……#3",
+      "jap": "##畜生が…なんだってんだ…",
+      "eng": "##Shit, how can it be?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "###2（无译文）呼…好险、好险。#3",
+      "jap": "##ふぅ…あぶねぇ、あぶねぇ",
+      "eng": "##Huh, well that was close.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

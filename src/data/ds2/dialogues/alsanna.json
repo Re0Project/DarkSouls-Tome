@@ -1,6 +1,1191 @@
 {
   "npc": "alsanna",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/alsanna.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/alsanna.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近埃斯‧洛耶斯的大门时",
+      "jap": "#0話しかけられた:凍てついたエス・ロイエスの入口に近づいた",
+      "eng": "#0After approaching the entrance to Eleum Loyce",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "踏入埃斯‧洛耶斯的人啊，",
+      "jap": "エス・ロイエスに踏み入る者",
+      "eng": "You, approaching Eleum Loyce,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "速速离去吧。",
+      "jap": "去りなさい",
+      "eng": "Turn back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "你应敬畏『远古混沌』。",
+      "jap": "『古き混沌』を畏れるのです",
+      "eng": "The old Chaos hungers still.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0靠近厄娃的雾门时",
+      "jap": "#0話しかけられた:王の仔アーヴァの部屋に近づいた",
+      "eng": "#0After approaching the mist gate before Aava, the King's Pet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "速速离去吧。",
+      "jap": "去りなさい",
+      "eng": "Go back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "厄娃已经注意到你。",
+      "jap": "アーヴァは貴方を見ています",
+      "eng": "Aava is watching.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "速速离去吧。",
+      "jap": "去りなさい",
+      "eng": "Go back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0进入雾门，靠近厄娃时",
+      "jap": "#0話しかけられた:王の仔アーヴァとの戦闘時",
+      "eng": "#0After entering the mist gate & approaching Aava, the King's Pet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "悲哀的王之遗孤\r\n厄娃啊。",
+      "jap": "アーヴァよ\r\n哀れな王の遺児よ",
+      "eng": "Poor Aava,\r\ndo you miss your king?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "未持证明者已经到访，",
+      "jap": "証を持たぬ者が訪れた",
+      "eng": "One without the sign has arrived.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "张开你的獠牙\r\n给他一个痛快吧。",
+      "jap": "その牙を振るうがよい\r\nせめて苦しませぬように",
+      "eng": "Do be merciful,\r\nand end things swiftly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0靠近巫女之眼时",
+      "jap": "#0話しかけられた:巫女の瞳が収められた祭壇に近づいた",
+      "eng": "#0After approaching the Eye of the Priestess",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "回去吧。",
+      "jap": "戻るのです",
+      "eng": "Turn away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "并且别再回头。",
+      "jap": "そして二度と振り返らぬこと",
+      "eng": "And never look back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "不得接近\r\n埃斯‧洛耶斯封印之物。",
+      "jap": "エス・ロイエスに封じられたものに\r\n近づいてはなりません",
+      "eng": "No one must ever find that\r\nwhich is sheltered in Eleum Loyce.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0获得巫女之眼后，进入雾门，靠近厄娃时",
+      "jap": "#0話しかけられた:王の仔アーヴァとの戦闘時(巫女の瞳を持っている場合)",
+      "eng": "#0After acquiring the Eye of the Priestess & approaching Aava, the King's Pet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "来此废都，所为何求？",
+      "jap": "この廃都に何を求めるのです",
+      "eng": "This dead city has nothing to offer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "速速离去吧。",
+      "jap": "去りなさい",
+      "eng": "Go back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "勿以扭曲之火\r\n触碰『远古混沌』。",
+      "jap": "『古き混沌』に\r\n歪んだ炎に触れてはなりません",
+      "eng": "Do not seek the old Chaos,\r\nnor its twisted flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0第1次聊天",
+      "jap": "#0話しかけた:1回目・王の仔アーヴァを倒して主聖堂へたどり着いた",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "能够折断厄娃的利牙，",
+      "jap": "アーヴァの牙を折るとは",
+      "eng": "To think Aava could be bested...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "你究竟是何方神圣？",
+      "jap": "貴方は何者なのです",
+      "eng": "Who are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0与亚尔舒娜见面前集结所有洛耶斯骑士时，第1次聊天",
+      "jap": "#0話しかけた:1回目・騎士を全員集めていた場合",
+      "eng": "#0Talk-After restoring all Loyce Knights",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "冰冻的洛耶斯众骑士，",
+      "jap": "凍てついたロイエスの騎士",
+      "eng": "The frozen knights of Eleum Loyce.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "他们任务已失，你却能赋予力量，",
+      "jap": "役目を失った彼らに、再び力を与えるとは",
+      "eng": "You have restored their purpose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "你究竟是何方神圣？",
+      "jap": "貴方は何者なのです",
+      "eng": "Who are you, truly?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0第2次聊天",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "此地，一无所有。",
+      "jap": "この地には、何もありはしません",
+      "eng": "This land is barren,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "『远古混沌』将此地化为诅咒之地。",
+      "jap": "『古き混沌』によって、ここは呪われた地となりました",
+      "eng": "Cursed, by the old Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "混沌产下扭曲的生命，并驱离了一切，",
+      "jap": "混沌は歪んだ命を生み、あらゆるものを遠ざけていたのです",
+      "eng": "It gave birth to atrocities, and the people fled in fear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "直到白王吾君现身。",
+      "jap": "我が君、白の王が現れるまでは",
+      "eng": "Until our lord, the Ivory King, came.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0第3次聊天",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "吾君乃成王之人。",
+      "jap": "我が君こそは、王たるに相応しきお方",
+      "eng": "My dear lord, a most true king.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "王以其伟大之魂\r\n造就了埃斯‧洛耶斯……",
+      "jap": "その大いなるソウルによって\r\n王はエス・ロイエスを造り上げ…",
+      "eng": "It was with his magnificent soul\r\nthat he built Eleum Loyce...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "封混沌之力于其中。",
+      "jap": "混沌の力を封じ込めたのです",
+      "eng": "...and contained the spread of Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "然而，\r\n王却必须将自身灵魂不断奉献给混沌。",
+      "jap": "しかしそれは、自らのソウルを\r\n混沌に捧げ続けることに他なりませんでした",
+      "eng": "But the Chaos would not be sated,\r\nand the King gave his own soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0第4次聊天",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "不久，王失其力，\r\n趁隙投身于混沌之中。",
+      "jap": "王はやがて力を失い、そしてその間際に\r\n混沌の中へ身を投じたのです",
+      "eng": "Inevitably, the King was drained of vigour,\r\nand plunged into the Chaos' heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "埃斯‧洛耶斯失去了王，之后一如所见样貌……",
+      "jap": "エス・ロイエスは王を失い、以来この姿のまま…",
+      "eng": "Eleum Loyce was frozen in time, its leader lost...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "妾身承继王志，继续封印混沌。",
+      "jap": "私は王の志を継ぎ、混沌を封じ続けています",
+      "eng": "I remain here, to contain the Chaos, honouring my Lord's wishes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "无数岁月，等着吾王归来……",
+      "jap": "王が戻られるまで、幾年月のちも…",
+      "eng": "Perhaps one day, he will return...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "无数岁月，直到我身湮泯……",
+      "jap": "この身が果てるまで、幾年月のちも…",
+      "eng": "I will stay here, until I wither away...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "此处已一无所有，\r\n除了那诅咒之火以外……",
+      "jap": "ここには、もう何もありはしないのです\r\nあの、呪われた炎のほかは…",
+      "eng": "There is nothing here,\r\nsave that accursed flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0第5次聊天",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "妾身之愿，无他。",
+      "jap": "私の願いは、ただひとつ",
+      "eng": "I have but one wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "唯解救受混沌\r\n所困的吾君矣。",
+      "jap": "混沌に囚われた我が君を\r\n解き放つことだけです",
+      "eng": "That my dear Lord might be freed\r\nfrom that unspeakable Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "妾身虽无此力量，\r\n但你或许……",
+      "jap": "私には、その力はありません\r\nしかし、貴方ならばもしや…",
+      "eng": "I haven't the strength to help him myself,\r\nbut perhaps one such as you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "未闻汝名的访问者，\r\n可否听从妾身之愿？",
+      "jap": "名も知らぬ訪問者よ\r\n願いを聞き入れてもらえますか？",
+      "eng": "Though I am yet to know your name, stranger,\r\nwill you lend me your strength?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0该怎么做？选择「否」",
+      "jap": "#0話しかけた:6回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "那就速速离去。",
+      "jap": "ならば去りなさい",
+      "eng": "Then be gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "此处一无所有。",
+      "jap": "ここには、もう何もないのですから",
+      "eng": "There is nothing here, nothing at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0选择「否」后聊天",
+      "jap": "#0話しかけた:【NO】を選択したあと",
+      "eng": "#0Talk-After choosing \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "访问者啊。",
+      "jap": "訪問者よ",
+      "eng": "Stranger.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "你欲投身于混沌乎？",
+      "jap": "その身を混沌へ投げ入れようと？",
+      "eng": "Are you now prepared to plunge into Chaos?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0该怎么做？选择「是」",
+      "jap": "#0話しかけた:6回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "感谢你，访问者。",
+      "jap": "訪問者よ、感謝します",
+      "eng": "Kind visitor, I thank you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "为你开启通往混沌之路。",
+      "jap": "混沌への道を開きましょう",
+      "eng": "Let me open the path to Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "还请实现妾身之愿……",
+      "jap": "どうか私の願いを…",
+      "eng": "And please, do all you can...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0选择「是」后聊天",
+      "jap": "#0話しかけた:【YES】を選択し道が開いあたと(騎士がそろっていない)",
+      "eng": "#0Talk-After choosing \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "洛耶斯众骑士中亦有数人\r\n追随王之后前往混沌，",
+      "jap": "ロイエスの騎士たちの幾人かは\r\n王の後を追い、混沌へ向かいました",
+      "eng": "Many of Eleum Loyce's faithful knights\r\nfollowed their Lord into the Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "却无一人归还。",
+      "jap": "ですが、ただ一人として戻る者はありませんでした",
+      "eng": "But not one of them returned.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "而遗留此地等待主上回归的其他人，",
+      "jap": "そして、この地に残され、主の帰還を待ち続けていた者たちも",
+      "eng": "The King's dutiful subjects waited patiently for His homecoming.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "不久后，众人皆陷入沉默……",
+      "jap": "やがて皆、沈黙の中に…",
+      "eng": "But it was too long a wait to bear...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "洛耶斯众骑士，至今应仍期盼着，",
+      "jap": "ロイエスの騎士は、今も待ち望んでいるはずです",
+      "eng": "The knights of Eleum Loyce await a new leader.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "期盼率领他们同赴混沌之人。",
+      "jap": "彼らを率い、共に混沌へと向かう者を",
+      "eng": "One who will guide them into Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0选择「是」后，集结所有洛耶斯骑士后聊天",
+      "jap": "#0話しかけた:【YES】を選択し道が開いあたと(すでに騎士がそろっている)",
+      "eng": "#0Talk-After choosing \"Yes\" to the query & restoring all Loyce Knights",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "洛耶斯众骑士中亦有数人\r\n追随王前往混沌，",
+      "jap": "ロイエスの騎士たちの幾人かは\r\n王の後を追い、混沌へ向かいました",
+      "eng": "Many of Eleum Loyce's faithful knights\r\nfollowed their Lord into the Chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "却无一人归还。",
+      "jap": "ですが、ただ一人として戻る者はありませんでした",
+      "eng": "But not one of them returned.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "而遗留此地等待主上回归的其他人，",
+      "jap": "そして、この地に残され、主の帰還を待ち続けていた者たちも",
+      "eng": "The King's dutiful subjects waited patiently for His homecoming.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "不久后，众人皆陷入沉默……",
+      "jap": "やがて皆、沈黙の中に…",
+      "eng": "But it was too long a wait to bear...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "苏醒的骑士们当跟随你。",
+      "jap": "再起した騎士たちは、貴方に従うでしょう",
+      "eng": "The knights, reborn, will follow your word.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0击杀白王后，第1次聊天",
+      "jap": "#0話しかけた:灼けた白王擊破後",
+      "eng": "#0Talk-1st time after defeating the Burnt Ivory King",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "你肯实现妾身之愿吗。",
+      "jap": "願いを聞き届けてくれたのですね",
+      "eng": "You've granted my one wish...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "如此，妾身将无遗憾。",
+      "jap": "これで、思い残すことはありません",
+      "eng": "Now, I have no regrets.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "妾身生于黑暗之中。",
+      "jap": "私はかつて暗闇の中で生まれました",
+      "eng": "I was born amidst the Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "远古时代，深渊深处的『父亲』灭亡，",
+      "jap": "遥か古、深淵の奥にあった『父』の滅びと共に",
+      "eng": "Long ago, in the depths of the Abyss, my Father perished.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "随之分散无数的暗之碎片其中之一，\r\n即为妾身。",
+      "jap": "無数に分かれた闇の欠片\r\nそのひとつが、私だったのです",
+      "eng": "The Dark shattered into tiny pieces,\r\none of which was me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "妾身十分害怕，害怕暧昧的、\r\n诞生于暗之碎片的自己……",
+      "jap": "私はただ、怖れていました\r\n闇の欠片から生まれた、おぼろげな自分が…",
+      "eng": "How frightened I was. A frail thing,\r\nborn from but a splinter of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "或许有朝一日突然就此消逝。",
+      "jap": "いつの日か、ふと消えてしまうのではないかと",
+      "eng": "I felt that I might simply disappear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "应是父亲之中的「恐怖」\r\n令妾身诞生。",
+      "jap": "父の中にあった「恐怖」こそが\r\n私を生みだしたのでしょう",
+      "eng": "I am, in fact,\r\nthe incarnation of my Father's fears.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "妾身寻求依托，就在此地之王身上。",
+      "jap": "私は寄る辺を求め、この地の王にそれを見出したのです",
+      "eng": "I sought an anchor, and I saw that the King of this land was strong.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "只为此世间存续……埋没这恐怖……",
+      "jap": "ただ、この世にあり続けるため…恐怖を埋めるために…",
+      "eng": "I sought him only to sustain myself, to smother my fears...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "王，或许清楚这一切。",
+      "jap": "王はそれを知っていたのかもしれません",
+      "eng": "Now, I realise that he may have known all along.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "曾是生于「恐怖」的妾身，因吾君而得救。",
+      "jap": "かつて「恐怖」から生まれた私は、我が君によって救われました",
+      "eng": "I was born of fear, and my Lord provided comfort.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "妾身将在此继续封印混沌，\r\n这是吾王的遗志。",
+      "jap": "私はここで、混沌を封じ続けます\r\nそれが、王の遺された役割なのですから",
+      "eng": "And so here I remain, heiress to my Lord's wishes,\r\nwatching over Chaos...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "直到遥远时空之尽头……",
+      "jap": "遥か時が果てるまで…",
+      "eng": "...until the end of time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "直到我身湮泯……",
+      "jap": "この身が果てるまで…",
+      "eng": "...until I wither away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0击杀白王后，第2次聊天",
+      "jap": "#0話しかけた:灼けた白王擊破後:2回目",
+      "eng": "#0Talk-2nd time after defeating the Burnt Ivory King",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "遭到混沌吞噬的洛耶斯众骑士，",
+      "jap": "混沌に呑まれたロイエスの騎士たち",
+      "eng": "The knights of Eleum Loyce were swallowed by the Chaos...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "其魂魄仍位于混沌中……",
+      "jap": "彼らのソウルは、いまも混沌の中に…",
+      "eng": "...where their souls still remain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "会有获得救赎的一天到来吗？",
+      "jap": "いつの日か、彼らにも救いがもたらされるのでしょうか",
+      "eng": "I pray for their deliverance...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0持有5个洛耶斯之魂时，第1次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを5個集めた",
+      "eng": "#0Talk-1st time after giving her 5 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "听得见骑士们的喜悦。",
+      "jap": "騎士の喜びが聞こえます",
+      "eng": "I sense a knight's joyous elation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "访问者\r\n请接受妾身的感谢。",
+      "jap": "訪問者よ\r\n私の感謝を受け取ってください",
+      "eng": "Kind visitor,\r\nplease accept my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0持有5个洛耶斯之魂时，第2次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを5個集めた:2回目",
+      "eng": "#0Talk-2nd time after giving her 5 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "吾君已逝去。",
+      "jap": "我が君は、既に去りました",
+      "eng": "My dear Lord has departed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "妾身只有在此镇压混沌，\r\n以及祈祷，",
+      "jap": "私にできることは、ここで混沌を鎮めること\r\nそして祈ることです",
+      "eng": "I am left only to fend off the Chaos,\r\nand pray with all my heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "为了吾君，为了骑士们。",
+      "jap": "我が君と、騎士たちのために",
+      "eng": "For my dear Lord, and his loyal knights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0持有5个洛耶斯之魂时，第3次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを5個集めた:3回目",
+      "eng": "#0Talk-3rd time after giving her 5 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "为了吾君，为了骑士们。",
+      "jap": "我が君と、騎士たちのために",
+      "eng": "For my dear Lord, and his loyal knights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "#0持有15个洛耶斯之魂时，第1次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを15個集めた",
+      "eng": "#0Talk-1st time after giving her 15 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 102,
+      "chn": "听得见骑士们的喜悦。",
+      "jap": "騎士の喜びが聞こえます",
+      "eng": "I sense a knight's joyous elation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "访问者\r\n请接受妾身的感谢。",
+      "jap": "訪問者よ\r\n私の感謝を受け取ってください",
+      "eng": "Kind visitor,\r\nplease accept my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#0持有15个洛耶斯之魂时，第2次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを15個集めた:2回目",
+      "eng": "#0Talk-2nd time after giving her 15 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 105,
+      "chn": "诞生于暗之碎片的",
+      "jap": "闇の欠片より生まれた者",
+      "eng": "The beings born from shards of Dark...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "不只妾身一人。",
+      "jap": "それは、私ひとりではありません",
+      "eng": "I am not the only one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "黑暗渴望依托，寻求灵魂，",
+      "jap": "闇はその寄る辺を欲し、ソウルを求めるのです",
+      "eng": "Even Dark seeks solace, and more so, souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "寻求强而大的灵魂……如你一般……",
+      "jap": "強く大きなソウル…そう貴方のような…",
+      "eng": "Magnificent souls...like your own...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0持有15个洛耶斯之魂时，第3次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを15個集めた:3回目",
+      "eng": "#0Talk-3rd time after giving her 15 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "或许不久之后，\r\n你也将遇见生于黑暗之人。",
+      "jap": "やがて貴方は、出会うのかもしれません\r\n闇から生まれた者に",
+      "eng": "One day, you may encounter another.\r\nAnother being, born of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0持有35个洛耶斯之魂时，第1次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを35個集めた",
+      "eng": "#0Talk-1st time after giving her 35 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "听得见骑士们的喜悦。",
+      "jap": "騎士の喜びが聞こえます",
+      "eng": "I sense a knight's joyous elation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "访问者\r\n请接受妾身的感谢。",
+      "jap": "訪問者よ\r\n私の感謝を受け取ってください",
+      "eng": "Kind visitor,\r\nplease accept my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "#0持有35个洛耶斯之魂时，第2次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを35個集めた:2回目",
+      "eng": "#0Talk-2nd time after giving her 35 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 115,
+      "chn": "原本是人类的父亲，被黑暗吞噬……",
+      "jap": "かつて人であった父は、やがて闇に呑まれ…",
+      "eng": "My Father, once human, succumbed to Dark...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "曾几何时，更使其失控。",
+      "jap": "いつしか、それを暴走させたのです",
+      "eng": "And later, set in motion its raging advance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "黑暗徘徊，寻求着灵魂。\r\n然而……",
+      "jap": "闇はソウルを求め、彷徨う\r\nしかし…",
+      "eng": "The Dark wanders, guided by its thirst for souls.\r\nBut perhaps...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "或许你也将如此……",
+      "jap": "それはもしや、貴方自身も…",
+      "eng": "...man is no different.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "#0持有35个洛耶斯之魂时，第3次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを35個集めた:3回目",
+      "eng": "#0Talk-3rd time after giving her 35 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 120,
+      "chn": "或许你也将如此……",
+      "jap": "それはもしや、貴方自身も…",
+      "eng": "...man is no different.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "#0持有50个洛耶斯之魂时，第1次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを50個集めた",
+      "eng": "#0Talk-1st time after giving her 50 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 122,
+      "chn": "听得见骑士们的喜悦。",
+      "jap": "訪問者よ",
+      "eng": "I sense a knight's joyous elation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "来，走近点……",
+      "jap": "闇の欠片より生まれた者は、ただひとりではありません",
+      "eng": "Close by, yes, very close...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "#0持有50个洛耶斯之魂时，第2次聊天",
+      "jap": "誰よりも深く濃い、苦難へと向かうお方",
+      "eng": "#0Talk-2nd time after giving her 50 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 125,
+      "chn": "访问者啊。",
+      "jap": "これをお持ちなさい",
+      "eng": "Kind visitor.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "诞生于暗之碎片的，不只一人。",
+      "jap": "彼女らは、ソウルを渇望する深い闇",
+      "eng": "I am not the only being born of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "迎向更加艰涩苦难的你，",
+      "jap": "貴方が彼女たちの情念に呑み込まれぬように…",
+      "eng": "You will face hardship like no other.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "带着这样物品吧。",
+      "jap": "#0話しかけた:ロイエスのソウルを50個集めた:2回目",
+      "eng": "Take this.",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 129,
+      "chn": "她们是渴望灵魂的深邃黑暗。",
+      "jap": "お行きなさい、訪問者よ",
+      "eng": "My sisters are as a thick Dark, their lust for souls insatiable...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "希望你不会被她们的情欲吞没……",
+      "jap": "いつの日か、その旅に終わりが訪れんことを…",
+      "eng": "May you find the will to resist their desires...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "#0持有50个洛耶斯之魂时，第3次聊天",
+      "jap": "#0話しかけた:ロイエスのソウルを50個集めた:3回目",
+      "eng": "#0Talk-3rd time after giving her 50 Loyce Knight Souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 132,
+      "chn": "去吧，访问者。",
+      "jap": "騎士の喜びが聞こえます",
+      "eng": "Go on, kind visitor.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "祈祷你的旅程能有终点……",
+      "jap": "さあ、近くに…",
+      "eng": "May you reach your journey's end, one day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 135,
+      "chn": "啊啊……吾君……",
+      "jap": "##ああ…我が君…",
+      "eng": "Oh...my dear Lord...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "##厄娃找上了你。",
+      "jap": "##アーヴァが貴方を見つけました",
+      "eng": "##It was Aava that found you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "##何其可悲，它至今仍想完成王之使命。",
+      "jap": "##いまもなお、王の命を果たす哀れな子",
+      "eng": "##The King's orders burden the poor thing yet.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##且不会对未持证明者手下留情。",
+      "jap": "##証を持たぬ者に、容赦はないでしょう",
+      "eng": "##But without the sign, you will be repelled.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##离开吧。",
+      "jap": "##去るのです",
+      "eng": "##You must turn back.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##躲过厄娃利牙，造访此封印之地。",
+      "jap": "##アーヴァの牙を逃れ、この封印の地を訪れた",
+      "eng": "##You've escaped Aava's jaws, and reached this forbidden land.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "##你究竟是何方神圣？",
+      "jap": "##貴方は何者なのです",
+      "eng": "##Who are you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "##通向混沌\r\n之路已开……",
+      "jap": "##混沌への道は、開かれました\r\n貴方のすぐ後に…",
+      "eng": "##The path to Chaos\r\nlies behind you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "##通向混沌之路已开……",
+      "jap": "##混沌への道は、開かれました…",
+      "eng": "##The path to Chaos lies behind you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "##怎么……",
+      "jap": "何を…",
+      "eng": "##What are you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "##妾身虽然不愿无谓杀生……",
+      "jap": "無用な殺戮を望むのですか…",
+      "eng": "##What do you seek in murder?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "##大门已开。",
+      "jap": "##大扉は開かれています",
+      "eng": "##The great door is open.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "##埃斯‧洛耶斯之寒\r\n将会笼罩此地。",
+      "jap": "##エス・ロイエスの寒さは\r\nこの地を覆い尽くしているのです",
+      "eng": "##The frigid air of Eleum Loyce\r\nsweeps across the land...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

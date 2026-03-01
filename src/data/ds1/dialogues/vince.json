@@ -1,6 +1,311 @@
 {
   "npc": "vince",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/vince.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/vince.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "嗯？你怎么啦？",
+      "jap": "ん？なんだ君は？",
+      "eng": "Hm? What have we here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "看你浑身上下都脏得要命……",
+      "jap": "随分と汚れた身なりだが…",
+      "eng": "You look awfully raggedy...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "虽然说是因为待在这种地方，但未免也太夸张了吧！",
+      "jap": "こんな場所だからって、あんまりじゃないか",
+      "eng": "Times are grim; the least you can do is look sharp.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "不管怎么样，你不要以这身打扮来接近大小姐喔，",
+      "jap": "少なくとも、そんな形で、お嬢様に近づかないでくれよ",
+      "eng": "Don't you dare meet M'lady like that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "不然大小姐会被吓一大跳的。",
+      "jap": "きっとびっくりしちまうからな",
+      "eng": "You might scare her off for good!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "喔，又是你呀。有何贵干？",
+      "jap": "おう、また君か。何か用でもあるのか？",
+      "eng": "Oh, you again. What business have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "不过，就算你说了，我想应该也帮不上忙吧。",
+      "jap": "だが、多分助けにはなれないぜ",
+      "eng": "I don't suppose we can help, though.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "我们和大小姐共同肩负着同一个使命，",
+      "jap": "俺たちは、お嬢様と使命を共にしている",
+      "eng": "We accompany M'lady on her righteous mission.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "麻烦是麻烦，反正我和大小姐、尼可就是太有缘了嘛。",
+      "jap": "面倒だが、まあ、お嬢様もニコも、腐れ縁だからな",
+      "eng": "It is quite a chore, but I'm stuck with her, and Nico, too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "事到如今，自然也不可能中途抽手了。",
+      "jap": "今更、放り出すわけにもいかないのさ",
+      "eng": "I can't very well abandon them now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0在营火休息后攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time, after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "喔，又是你呀。\r\n你真是出乎意料之外，很纠缠不休耶，哈哈哈。",
+      "jap": "おう、また君か。\r\n意外としつこいな。ハハハ",
+      "eng": "Oh, you yet again.\r\nYou're a persistent one, aren't you? Hah hah hah.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "虽说我自己倒是不讨厌像你这样的人啦，",
+      "jap": "個人的には、君みたいなのも嫌いじゃないんだが",
+      "eng": "Honestly, I don't have a problem with your kind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "不过唯独在这件事上，我说什么都没办法通融。",
+      "jap": "こればかりは、まあ、どうしようもない",
+      "eng": "But there's not very much that I can do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "我是索尔隆德的文斯，",
+      "jap": "俺はソルロンドのヴィンス",
+      "eng": "I am Vince of Thorolund.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "但愿今后我们都能一切平安，",
+      "jap": "お互い、無事を祈ろうぜ",
+      "eng": "Let's say a word, for our safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "一起向我们伟大的神明祈祷吧。",
+      "jap": "俺たちの偉大な神様にさ",
+      "eng": "A prayer to our marvellous Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "愿火指引你……",
+      "jap": "炎の導きを…",
+      "eng": "Vereor Nox",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0与佩特鲁斯完成所有对话后攀谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-After talking with Petrus and exhausting his dialogue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "啊，是你呀。",
+      "jap": "ああ、君か",
+      "eng": "Oh, it's you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "看起来，我们再过不久就要出发了。",
+      "jap": "どうやら、もうすぐ出発らしい",
+      "eng": "We are to leave momentarily.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "不过到地下墓地那种地方，并不是什么令人愉快的事就是了……",
+      "jap": "地下墓地なんて、あんまり愉快な話じゃないが…",
+      "eng": "The Catacombs aren't exactly my idea of a good time, but...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "算了，这也没办法，之后有缘再见啦。",
+      "jap": "まあ、仕方ない。お互い、できればまた会おうぜ",
+      "eng": "What can one do? I do hope we meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "愿火指引你……",
+      "jap": "炎の導きを…",
+      "eng": "Vereor Nox",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "呜哇！",
+      "jap": "うわっ！",
+      "eng": "Egads!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "你干什么！",
+      "jap": "何だ！",
+      "eng": "What the!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "可恶！你是怎么搞的，疯了不成？",
+      "jap": "クソッ！何だってんだ、おかしいのか？",
+      "eng": "Curses! What the devil's wrong with you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "算了，不管怎么说，总之你是大小姐的敌人！",
+      "jap": "まあ、どっちでも、お嬢様の敵！",
+      "eng": "I cannot overlook a threat to M'lady!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "我要把你打得趴在地上！",
+      "jap": "叩きふせるまでだ！",
+      "eng": "I'll grind you into dust!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "怎，怎么会这样……",
+      "jap": "ば、ばかな…",
+      "eng": "By the Gods...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "蕾雅……大小姐……",
+      "jap": "レア…お嬢様…",
+      "eng": "...My...dear lady...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "##看你浑身上下都脏得要命，还好吧？",
+      "jap": "##随分と汚れた身なりだが、大丈夫かい？",
+      "eng": "##You look awfully raggedy; are you all right?",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,967 @@
 {
   "npc": "hawkwood",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/hawkwood.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/hawkwood.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，你也是死不成的家伙啊。",
+      "jap": "…ああ、お前も死に損ないか",
+      "eng": "Ahhh, another one, roused from the sleep of death?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我和你是同类。无火的余灰一事无成，\r\n而且还是连死都死不成的半吊子。",
+      "jap": "俺もそうさ。火の無い灰、何者にもなれず、\r\n死にきることすらできなかった半端者だ",
+      "eng": "Well, you're not alone. We Unkindled are worthless.\r\nCan't even die right.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……真可笑。",
+      "jap": "…まったく、笑わせるよな",
+      "eng": "Gives me conniptions.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "一群死不成的家伙居然要去找薪王，\r\n还想把王带回到发霉的王位上，",
+      "jap": "そんな連中に、薪の王たちを探し、\r\nカビた玉座に連れ戻せなどと",
+      "eng": "And they'd have us seek the Lords of Cinder,\r\nand return them to their moulding thrones.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "那群人都是传火的英雄大人啊！\r\n我们这种货色怎么可能办得到？",
+      "jap": "あいつらは皆、火を継いだ英雄様だぜ。\r\n俺たちに、何ができるものかよ",
+      "eng": "But we're talking true legends with the mettle to link the fire.\r\nWe're not fit to lick their boots.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "你也是这么想的吧？",
+      "jap": "お前もそう思うだろう？",
+      "eng": "Don't you think?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "……",
+      "jap": "フンッ…フッフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "真是笑话。",
+      "jap": "まったく、笑い話さ",
+      "eng": "What a sick joke.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "像我们这种人居然要去找薪王，\r\n还想把王带回到发霉的王位上，",
+      "jap": "俺たちに、薪の王たちを探し、\r\nカビた玉座に連れ戻せなどと",
+      "eng": "Asking us to seek the Lords of Cinder,\r\nand return them to their moulding thrones.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "那群人都是传火的英雄大人啊！\r\n我们这种货色怎么可能办得到？",
+      "jap": "あいつらは皆、火を継いだ英雄様だぜ。\r\n俺たちに、何ができるものかよ",
+      "eng": "We're talking true legends, those who would link the fire.\r\nWe're not fit to lick their boots.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……",
+      "jap": "フンッ…フッフッフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0到达不死聚落后返回，第1次交谈",
+      "jap": "#0話しかけた:不死街到着後:1回目",
+      "eng": "#0Talk-1st time after raising the Small Lothric Banner",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "……哦，看样子你成功脱身啦。",
+      "jap": "…ああ、お前、どうやら足掻いているみたいだな",
+      "eng": "Oooh, yet to give in, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "很好啊，这下子那个防火女一定会很高兴吧。",
+      "jap": "結構なことだ。あの火防女も、さぞ喜んでいるのだろうさ",
+      "eng": "Good. The Fire Keeper must be twitching with delight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "……不过，\r\n你知道那些被称作英雄大人的薪王们的真面目吗？",
+      "jap": "…だが、お前は知っているのか？\r\n英雄様と呼ばれる薪の王たち、その正体を",
+      "eng": "But what do you really know about these Lords of Cinder,\r\nthese supposed legends?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "比如说那个艾尔德利奇，",
+      "jap": "例えば、エルドリッチさ",
+      "eng": "Let's take Aldrich, for one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "以前还是个圣职，\r\n但是却一直吃人，真令人作呕。",
+      "jap": "聖職者だった奴は、\r\n反吐がでるような人喰いを繰り返し",
+      "eng": "A right and proper cleric,\r\nonly, he developed a habit of devouring men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "不只肥得像只溺水猪，\r\n还变成四处乱流的烂泥巴，\r\n最后被幽禁在幽邃教堂。",
+      "jap": "溺れた豚のように膨れ、\r\n蕩けた汚泥となり、\r\n深みの聖堂に幽閉された",
+      "eng": "He ate so many that he bloated like a drowned pig,\r\nthen softened into sludge,\r\nso they stuck him in the Cathedral of the Deep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "……但艾尔德利奇却成为薪王。\r\n这和个人品行无关，只是单看力量强弱而已。",
+      "jap": "…そして、エルドリッチは薪の王となった。\r\n人品など関係ない、ただその力ゆえに",
+      "eng": "And they made him a Lord of Cinder.\r\nNot for virtue, but for might.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "这就是王，\r\n你还打算要挑战吗？",
+      "jap": "王とは、つまりそういうもの。\r\nそんなものに挑もうってのかい？",
+      "eng": "Such is a lord, I suppose.\r\nBut here I ask. Do we have a sodding chance?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "……",
+      "jap": "アッハッハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0到达不死聚落后返回，第2次交谈",
+      "jap": "#0話しかけた:不死街到着後:2回目",
+      "eng": "#0Talk-2nd time after raising the Small Lothric Banner",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "……在洛斯里克城外，不死镇的塔的下层，\r\n听说现在还有路可以走。",
+      "jap": "…ロスリック城下、不死街の塔の下に、\r\n今でも道が続いているという",
+      "eng": "At the foot of Lothric Castle,\r\nan old path still runs below the tower in the Undead Settlement.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "那是运送牺牲品到幽邃教堂的活祭品之路，\r\n你就沿着路走吧。",
+      "jap": "深みの聖堂に犠牲者を運ぶ、生贄の道がな。\r\nそれを辿ってみるがいいさ",
+      "eng": "It was used to transport sacrifices to the Cathedral of the Deep.\r\nYou should see where it leads.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "……只要你不怕会一蹶不振，就去吧。",
+      "jap": "…お前が、心折れるを恐れぬならばな",
+      "eng": "...If you've the stones for it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "……",
+      "jap": "フンッ…フッフッフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0击杀咒蚀大树或结晶老者后，第1次交谈",
+      "jap": "#0話しかけた:呪腹の大樹または結晶の古老撃破後:1回目",
+      "eng": "#0Talk-1st time after defeating the Curse-rotted Greatwood or Crystal Sage",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "#2（男主角）#3……你是认真的吗？\r\n真是不知天高地厚的笨蛋。",
+      "jap": "…お前は、どうやら本気のようだな。\r\n身のほど知らずの馬鹿野郎だ",
+      "eng": "You haven't given up yet?\r\n Then you're a brasher lad than I thought.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#2（女主角）#3……你是认真的吗？\r\n真是不知天高地厚的笨女人。",
+      "jap": "…お前は、どうやら本気のようだな。\r\n身のほど知らずの馬鹿女だ",
+      "eng": "You haven't given up yet?\r\n Then you're a brasher lass than I thought.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "来吧，这个给你。",
+      "jap": "だったら、これをくれてやる",
+      "eng": "You can make better use of this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "这是成为薪王的\r\n法兰不死队的\r\n要塞通行证。",
+      "jap": "薪の王となったファランの不死隊、\r\nその城塞に入るための、\r\n証しさ",
+      "eng": "A medallion to gain entry to the keep\r\nof the Undead Legion of Farron,\r\nLords of Cinder in their own right.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "……我是从那里逃出来的，所以那东西对我已经没有用处了。",
+      "jap": "…逃げ出した俺には、もはや用の無いものだからな",
+      "eng": "I don't need it. Not now I've flown the coop.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "……",
+      "jap": "フン…フフフフ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0击杀咒蚀大树或结晶老者后，第2次交谈",
+      "jap": "#0話しかけた:呪腹の大樹または結晶の古老撃破後:2回目",
+      "eng": "#0Talk-2nd time after defeating the Curse-rotted Greatwood or Crystal Sage",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "……法兰的不死队是不死人的军旅。",
+      "jap": "…ファランの不死隊は、不死人の旅団",
+      "eng": "The Undead Legion of Farron is a caravan of Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "他们对狼血起誓、监视深渊，\r\n只要出现一丁点儿预兆，灭了一个国家也不眨眼。",
+      "jap": "狼の血に誓い、深淵を監視し、\r\nその兆しがあれば一国ですら葬り去る",
+      "eng": "Sworn by wolf's blood to contain the Abyss,\r\nthe Legion will bury a kingdom at the first sign of exposure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "……他们就是这种人。",
+      "jap": "…そんな連中さ",
+      "eng": "Joyous bunch, really.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "他们还有一个独特的入队考验，",
+      "jap": "あいつらには、独特の入隊の試練があってな",
+      "eng": "Gaining admission to the Legion is a matter of some ceremony.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "要是把要塞里的三个祭坛的火熄灭，\r\n通往狼血的门就会开启。",
+      "jap": "城塞の内、3つの祭壇の火を消すことで、\r\n狼の血への扉が開く",
+      "eng": "Inside their keep, snuffing out the flames of\r\nthree altars opens the door to the wolf blood.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "就算是被诅咒的不死人，还是会想相信自己很“特别”。",
+      "jap": "呪われた不死人が、それでも特別であると信じたいのさ",
+      "eng": "Even accursed Undead want to believe they're special, it seems.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "真可悲。",
+      "jap": "憐れなことだ",
+      "eng": "I pity the sorry souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "……",
+      "jap": "フンッ…フフッフッフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0击杀咒蚀大树或结晶老者后，第3次交谈",
+      "jap": "#0話しかけた:呪腹の大樹または結晶の古老撃破後:3回目",
+      "eng": "#0Talk-3rd time after defeating the Curse-rotted Greatwood or Crystal Sage",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "法兰的不死队有个独特的入队考验。",
+      "jap": "ファランの不死隊には、独特の入隊の試練があってな",
+      "eng": "Gaining admission to the Legion is a matter of some ceremony.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "要是把要塞里的三个祭坛的火熄灭，\r\n通往狼血的门就会开启。",
+      "jap": "城塞の内、3つの祭壇の火を消すことで、\r\n狼の血への扉が開く",
+      "eng": "Inside their keep, snuffing out the flames of\r\nthree altars opens the door to the wolf blood.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "就算是被诅咒的不死人，还是会想相信特别的事啊。",
+      "jap": "呪われた不死人が、それでも特別であると信じたいのさ",
+      "eng": "Even accursed Undead want to believe they're special, it seems.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "真可悲。",
+      "jap": "憐れなことだ",
+      "eng": "I pity the sorry souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "……",
+      "jap": "アッハッハッハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "你在干什么！",
+      "jap": "お前、なんのつもりだ！",
+      "eng": "What is it, now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "快点住手！",
+      "jap": "やめやがれ！",
+      "eng": "Enough, you fool!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "你这畜生，你搞什么鬼！",
+      "jap": "畜生、なんなんだお前は！",
+      "eng": "What in bloody hell is wrong with you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "虽然我是逃出来的人，",
+      "jap": "確かに俺は脱走者",
+      "eng": "I'm a deserter, I know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "但是你不要太小看我了……",
+      "jap": "だからと言って、あまり舐めるなよ…",
+      "eng": "But I've still plenty of fight in me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "反正不管是你还是我，都是一事无成……",
+      "jap": "所詮何者にもなれんさ、お前も、俺もな…",
+      "eng": "We'll never amount to anything, not you, not I...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "……",
+      "jap": "グワアアアァツ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "这副德性还敢大摇大摆的……",
+      "jap": "のこのこ出てきて、この様かよ…",
+      "eng": "You crawled out of the ground, for gods' sake...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0击杀深渊监视者后，第1次交谈",
+      "jap": "#0話しかけた:深淵の監視者撃破後:1回目",
+      "eng": "#0Talk-1st time after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "……你把薪王──那个不死队给杀死了……",
+      "jap": "…お前、薪の王を、あの不死隊を殺したのか…",
+      "eng": "You offed the Lords of Cinder, the Undead Legion...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "把王带回王位，指的就是这样啊……",
+      "jap": "王を玉座に連れ戻すとは、つまりそういうことなのか…",
+      "eng": "So that's how they're delivered to their thrones...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "……",
+      "jap": "フンッ…フフッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "真是可悲，这就是王啊。",
+      "jap": "憐れなことだ。それが王というわけか",
+      "eng": "I pity the sorry souls. Is that really lordship's last reward?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "……",
+      "jap": "…ハッハッハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0击杀深渊监视者后，第2次交谈",
+      "jap": "#0話しかけた:深淵の監視者撃破後:2回目",
+      "eng": "#0Talk-2nd time after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "……哦，看来我得谢谢你啊。",
+      "jap": "…ああ、お前には、礼が必要だったな",
+      "eng": "Ah, I failed to thank you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "那些家伙可能也在找葬身的地方吧……",
+      "jap": "あいつらは多分、死に場所を探していたろうから…",
+      "eng": "For helping them find their final resting place...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0击杀深渊监视者后，第3次交谈",
+      "jap": "#0話しかけた:深淵の監視者撃破後:3回目",
+      "eng": "#0Talk-3rd time after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "……",
+      "jap": "ハッハッハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "真是可悲，这就是王啊。",
+      "jap": "憐れなことだ。これが王というわけか",
+      "eng": "I pity the sorry souls. Is that really lordship's last reward?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "……",
+      "jap": "アッハッハッハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0到达传火祭祀场墓地后交谈",
+      "jap": "#0話しかけた:移動後",
+      "eng": "#0Talk-Outside of Firelink Shrine at the Grave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "……那些家伙也怪可怜的，",
+      "jap": "…まったく、あいつらも、憐れじゃあないか",
+      "eng": "The poor, wretched souls...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "管他是王还是英雄，全都是诅咒啊。",
+      "jap": "王だ、英雄だと、こんなものは呪いだよ",
+      "eng": "Be they lord or legend, the curse shows no mercy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "……真够烂的。",
+      "jap": "…糞くらえだ",
+      "eng": "What a sham.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0击杀深渊监视者后，第1次受到攻击时",
+      "jap": "#0攻撃した:深淵の監視者撃破後:1回目",
+      "eng": "#0Upon being attacked-1st time after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "你在干什么？",
+      "jap": "お前、なんのつもりだ",
+      "eng": "What is it, now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0击杀深渊监视者后，第2次受到攻击时",
+      "jap": "#0攻撃した:深淵の監視者撃破後:2回目",
+      "eng": "#0Upon being attacked-2nd time after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "你脑子正常吗？",
+      "jap": "正気なのか",
+      "eng": "Are you mad?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0击杀深渊监视者后，攻击导致敌对时",
+      "jap": "#0敵対状態になった:深淵の監視者撃破後",
+      "eng": "#0Upon being attacked & made hostile after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "原来你已经发疯了。",
+      "jap": "なるほど、既に狂人か",
+      "eng": "Lost your head, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "好，非常好，",
+      "jap": "まあ、丁度よい",
+      "eng": "Then I suppose I'll have to step in.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "正好可以让我替那些家伙报仇……",
+      "jap": "あいつらの仇討といこうじゃないか…",
+      "eng": "And avenge the poor lost souls...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0击杀深渊监视者后，击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した:深淵の監視者撃破後",
+      "eng": "#0Upon killing the protagonist after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "#2（男主角）#3……这也是一种诅咒啊，可悲的男人……",
+      "jap": "…これもまた、呪いか。憐れな男だ…",
+      "eng": "Who can deny the curse? You poor bastard.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "#2（女主角）#3……这也是一种诅咒啊，可悲的女人……",
+      "jap": "…これもまた、呪いか。憐れな女だ…",
+      "eng": "Who can deny the curse? You poor girl.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0击杀深渊监视者后，被击杀时",
+      "jap": "#0殺害した:深淵の監視者撃破後",
+      "eng": "#0Upon dying after defeating the Abyss Watchers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "疯子，好好努力吧，",
+      "jap": "狂人が、せいぜい足掻くといいさ",
+      "eng": "Go on, be as bloody mad as you like.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0到达法兰灵庙后",
+      "jap": "#0話しかけられた",
+      "eng": "#0Approaching in Farron Mausoleum",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "哦，居然是你啊……",
+      "jap": "ああ、まさかお前とは…",
+      "eng": "Ahh, this is unexpected.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "不过我已经决定不再逃避了，",
+      "jap": "だが、俺はもう逃げぬと決めたのだ",
+      "eng": "Well, I've decided to stop running from my fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "要恨我也行，把龙的力量交出来。",
+      "jap": "恨んでいい、竜の力を俺にくれ",
+      "eng": "Loathe me all you like, I shall take what makes you dragon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0在古龙顶召唤霍克伍德后到达法兰灵庙",
+      "jap": "#0話しかけられた:白霊を召喚したことがある",
+      "eng": "#0Approaching in Farron Mausoleum, after previusly summoning him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "哦，果然是你啊……",
+      "jap": "ああ、やはりお前か…",
+      "eng": "Ahh, I should've known.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "不过我已经决定不再逃避了，",
+      "jap": "だが、俺はもう逃げぬと決めたのだ",
+      "eng": "Well, I've decided to stop running from my fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "要恨我也行，把龙的力量交出来。",
+      "jap": "恨んでいい、竜の力を俺にくれ",
+      "eng": "Loathe me all you like, I shall take what makes you dragon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "#0被霍克伍德击杀后，再次靠近时",
+      "jap": "#0人話かけしられた:主人公が死亡後再戦時",
+      "eng": "#0After approaching him & he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 102,
+      "chn": "哦，果然是你啊……",
+      "jap": "ああ、やはりお前か…",
+      "eng": "Ahh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "不过，我没打算用偷鸡摸狗的手段。",
+      "jap": "だが、俺も盗むつもりはない",
+      "eng": "This shall be no petty theft.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "我要你承认，我才配成为龙啊。",
+      "jap": "認めてもらうぞ、ただ俺こそが竜であると",
+      "eng": "As the true dragon, I shall take what is rightfully mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "要恨我就恨吧，因为我才配成为龙啊……",
+      "jap": "恨んでくれ。だが、俺こそが竜なのだ…",
+      "eng": "Loathe me all you like, but I am the true dragon...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "如果你是龙，也好。",
+      "jap": "お前が竜なら、悪くない",
+      "eng": "You are a dragon, more dragon than I.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "##要是把要塞里的四个祭坛的火熄灭，\r\n通往狼血的门就会开启。",
+      "jap": "##城塞の内、4つの祭壇の火を消すことで、\r\n狼の血への扉が開く",
+      "eng": "##Inside their keep, snuffing out the flames of\r\nfour altars opens the door to the wolf blood.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "##要是把要塞里的四个祭坛的火熄灭，\r\n通往狼血的门就会开启。",
+      "jap": "##城塞の内、4つの祭壇の火を消すことで、\r\n狼の血への扉が開く",
+      "eng": "##Inside their keep, snuffing out the flames of\r\nfour altars opens the door to the wolf blood.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "##……",
+      "jap": "##ッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "##……",
+      "jap": "##ウッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "##你这畜生，真是烂……",
+      "jap": "##畜生、下らねえな…",
+      "eng": "##What a bloody joke...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "##……",
+      "jap": "##ウッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "##……",
+      "jap": "##グウッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "##……",
+      "jap": "##グワアアアァツ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "##在烂得要命的诅咒里挣扎吧……",
+      "jap": "##糞ったれな呪いの中でな…",
+      "eng": "##Trapped within your wretched curse.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "##……",
+      "jap": "##グワアアアァツ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "##逃跑的家伙能有这种死法，已经够好了……",
+      "jap": "##脱走者には、過ぎた死に場所だよ…",
+      "eng": "##A deserter could hope for no better place to die.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

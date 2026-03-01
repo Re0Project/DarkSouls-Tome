@@ -1,7 +1,7 @@
 {
   "npc": "bellderrick",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/bellderrick.webp",
+  "avatar": "/icons/ds2/dialogues/bellderrick.webp",
   "lines": [
     {
       "index": 0,

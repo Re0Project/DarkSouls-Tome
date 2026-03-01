@@ -1,6 +1,463 @@
 {
   "npc": "sieglinde",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/sieglinde.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/sieglinde.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0击杀封住吉克琳德的琥珀结晶巨偶后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time after defeating the Amber Crystal Golem imprisoning her",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……是您救了我吗？真是感激不尽。",
+      "jap": "…あなたが、助けてくれたのですか？ありがとうございます",
+      "eng": "It was you who rescued me? Why, thank you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是卡塔利纳的吉克琳德，",
+      "jap": "私は、カタリナのジークリンデ",
+      "eng": "I am Sieglinde of Catarina.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "不知道怎么一回事，我就被困在结晶里……",
+      "jap": "なんだか分からないうちに、結晶に囚われて…",
+      "eng": "I don't know how I ended up in that crystal...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "虽然里面其实还挺舒服的，但却没办法动，实在伤脑筋。",
+      "jap": "意外と快適だけれど、動けないし、困っていたのです",
+      "eng": "It wasn't terrible in there, but I could hardly move.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我一定得好好答谢您才行。",
+      "jap": "あなたには、お礼をしなければいけませんね",
+      "eng": "I must think of some way to repay you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0击杀封住吉克琳德的琥珀结晶巨偶后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time after defeating the Amber Crystal Golem imprisoning her",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "对了！您说不定认识我父亲。",
+      "jap": "そうだ！もしかして、父をご存知じゃありませんか？",
+      "eng": "Oh! Have you seen my father?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "他穿着和我一样的甲冑，我想应该很显眼才对……",
+      "jap": "私と同じ甲冑なので、目立つと思うんですが…",
+      "eng": "You wouldn't miss him. A suit of armour, just like mine?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0您打算如何回答？选择「否」",
+      "jap": "#0話しかけた:2回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "这样啊……那么，如果您看到我父亲的话，还请您告诉他，",
+      "jap": "そうですか…。では、もし父を見かけたら、伝えてください",
+      "eng": "Yes, I see...But if you should happen to bump into him,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "说吉克琳德正在找他，\r\n并和他说因为他总是糊里胡涂的，请他务必好好待着别乱跑。",
+      "jap": "ジークリンデが探していたと\r\nあなたはどこか抜けているので、じっとしていて下さいと",
+      "eng": "tell him that Sieglinde is on her way,\r\nand that he ought to just stay put.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "虽说要麻烦您转达真是很不好意思，但还是拜托您了。",
+      "jap": "すみませんが、よろしくお願いします",
+      "eng": "And again, thank you kindly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:2回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "是这样吗？真是太好了！果然我父亲也来到这个国家了。",
+      "jap": "そうですか！よかった、やはり父も、この国に来ているのですね",
+      "eng": "Thank goodness! I knew he was here somewhere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "好！那事不宜迟，我去找我父亲了。\r\n在此还是要向您再致上深深的感谢。",
+      "jap": "よし！じゃあ、私は父を探します\r\n重ね重ね、ありがとうございました",
+      "eng": "Well then, now I must find him.\r\nThanks again, truly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "……不过，少根筋的父亲总是糊里胡涂的，\r\n希望他能好好待着别乱跑……",
+      "jap": "…でも、父はどこか抜けているので\r\nじっとしていてくれるとよいのですけど…",
+      "eng": "Now if he'll just stay put,\r\nand keep out of trouble.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0返回传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "好久不见了。",
+      "jap": "お久しぶりです",
+      "eng": "Oh, hello again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我们都没事，真是太好了。",
+      "jap": "お互い、まだ無事で何よりですね",
+      "eng": "We're both managing quite well, aren't we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "其实，我还是没有找到父亲的下落，\r\n不知道您有没有什么消息？",
+      "jap": "実は、まだ父を見つけられないのですが\r\n何かご存知じゃありませんか？",
+      "eng": "But I haven't found my father yet.\r\nHave you seen him?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0您打算如何回答？选择「否」",
+      "jap": "#0話しかけた:選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "这样啊……我知道了。",
+      "jap": "そうですか…。わかりました",
+      "eng": "Yes, I see. Well, I had to ask.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "那我就再多找一会吧。多谢您的帮忙。",
+      "jap": "もう少し探してみます。ありがとうございました",
+      "eng": "I will continue searching a bit longer. Thank you so much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "是吗！那我赶紧到那边找找看！",
+      "jap": "そうですか！では、そちらに行ってみます",
+      "eng": "Really! Then I must be off.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "话说回来，这件事竟然还连累到您……\r\n他还真让人头痛啊。明明只要好好待着别乱跑就好了……",
+      "jap": "それにしても、あなたにもご迷惑をかけて…困った人です\r\nじっとしていてくれるとよいのですけど…",
+      "eng": "I'm sorry he's caused you trouble...\r\nHe has a knack for that. If he'd just stay put...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0在伊札里斯帮助杰克麦雅使其存活，返回传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:再度火継ぎの祭祀場に現れた:1回目",
+      "eng": "#0Talk-1st time after helping Siegmeyer defeat & survive the 4 Chaos Eaters",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "好久不见了。我们又不期而遇了呢。",
+      "jap": "お久しぶりです。またお会いできましたね",
+      "eng": "Well, hello again!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "我终于顺利找到我父亲了。",
+      "jap": "やっと、父を見つけました",
+      "eng": "I have finally located my father.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "之前也曾经多次受到您的帮助……\r\n真是感激不尽。",
+      "jap": "あなたにも、何度もお世話になったそうで…\r\nありがとうございます",
+      "eng": "All of your help was invaluable to us...\r\nThank you so much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "托您的福，终于可以把母亲的话转告给他了……",
+      "jap": "おかげさまで、母の言葉を伝えられました…",
+      "eng": "I was finally able to pass on my mother's last words.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0在伊札里斯帮助杰克麦雅使其存活，返回传火祭祀场后，第2次攀谈",
+      "jap": "#0話しかけた:再度火継ぎの祭祀場に現れた:2回目",
+      "eng": "#0Talk-2nd time after helping Siegmeyer defeat & survive the 4 Chaos Eaters",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "我父亲吗？他和我说他要展开最后的探险。",
+      "jap": "父ですか？最後の探索に向かう、と言ってました",
+      "eng": "My father? He went on his final adventure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "别担心。那就是我父亲的作风，\r\n即使成了不死人还是很有他的风格……让我甚至觉得开心呢。",
+      "jap": "いいんです。それが父ですし\r\n不死になっても父らしくて…嬉しいくらいです",
+      "eng": "Don't worry, that's just the way he is.\r\nUndead or no. Sort of reassuring, really.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "就算我父亲成了失去心灵的游魂，\r\n我只要将他杀了就好，无论得杀多少次……",
+      "jap": "もし父が、心を亡くしたら\r\n何度でも、私が殺せばいいんですから…",
+      "eng": "If he goes Hollow,\r\nI'll just have to kill him again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0到达灰烬湖后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "我父……这个游魂……已经不会动了。\r\n再也不会打扰到任何人了。",
+      "jap": "父は…この亡者は…\r\nもう動きません。誰にも迷惑をかけない",
+      "eng": "My father...all Hollow now...\r\nhas been subdued. He will cause no more trouble.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "这样事情也终于告一段落了……我这就回卡塔利纳。",
+      "jap": "これで、やっと終わり…私は、カタリナに帰ります",
+      "eng": "It's finally over...I will return to Catarina.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "先前受到您多番照顾，\r\n以后我没办法再帮上您什么忙了，",
+      "jap": "あなたには、色々とお世話になりました\r\n私はもう、十分なお助けができませんが",
+      "eng": "You assisted us both greatly.\r\nI can hardly return the favour,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "就请您收下这个吧。对我们来说，已经不再需要这东西了。",
+      "jap": "受け取ってください。私たちには、もう不要なものです",
+      "eng": "but please accept this. It's of no use to me now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0到达灰烬湖后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "啊──爸爸……爸爸……",
+      "jap": "ああ、お父様…お父様…",
+      "eng": "Oh, father...dear father...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "呜……",
+      "jap": "ううっ…",
+      "eng": "Sob...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "怎么了！",
+      "jap": "何を！",
+      "eng": "What in the...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "您是怎么了？",
+      "jap": "どうしたんですか！",
+      "eng": "What the devil?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "我知道了，",
+      "jap": "分かりました",
+      "eng": "Yes, now I see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "您是个危险人物。",
+      "jap": "あなたは、危険な人です",
+      "eng": "You are one of the bad ones.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "既然这样，那我也不会手下留情。",
+      "jap": "だったら、容赦しませんよ",
+      "eng": "Then, there's only one thing to do with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "别担心。我会杀了你的，无论得杀多少次……",
+      "jap": "心配しないで。私が殺してあげるわ、何度だって…",
+      "eng": "Rest assured. I will kill you as many times as it takes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "啊──怎么会这样……",
+      "jap": "ああ、そんな…",
+      "eng": "Oh, how can this be...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "爸爸……",
+      "jap": "父さん…",
+      "eng": "...dear Father...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

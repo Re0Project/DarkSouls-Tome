@@ -1,6 +1,1119 @@
 {
   "npc": "carhillion",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/carhillion.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/carhillion.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0智力未达到8时，第1次说话",
+      "jap": "#0話しかけた:1回目:理力8未満",
+      "eng": "#0Talk-1st time with less than 8 Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "嗯……",
+      "jap": "ふむ…",
+      "eng": "Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "看来虽有亮点，却还太弱小……",
+      "jap": "光るものはあるように思えるが、まだ弱いか…",
+      "eng": "I see light, but it remains dim...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我卡里昂对没有魔力之人毫无兴趣。",
+      "jap": "このカリオン、魔の力を持たぬ者に興味はない",
+      "eng": "I am Carhillion, and I've no interest in the magic-impaired.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0智力达到8或更高时，第1次说话",
+      "jap": "#0話しかけた:1回目:理力8以上",
+      "eng": "#0Talk-1st time with 8 or more Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "嗯……感觉到还算可以的力量……",
+      "jap": "ふむ…そこそこは力を感じるか…",
+      "eng": "Hmm...I sense power...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "很好，今天起你就是我的徒弟。",
+      "jap": "よろしい、お主は今日から我が弟子だ",
+      "eng": "Very well. From this day, you shall be my new pupil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "我名叫卡里昂，\r\n\"晦冥的卡里昂\"这个浑名，你可知道？",
+      "jap": "我が名はカリオン\r\n\"晦冥のカリオン\"と聞けば、お主も知っていよう？",
+      "eng": "I am Carhillion. Carhillion of the Fold.\r\nSurely you've heard the name?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "好了好了，别被这个名字吓着了，\r\n让我们一同钻研魔法奥秘吧。",
+      "jap": "よいよい、我が名に臆することはない\r\n共に魔術の深奥を究めようぞ",
+      "eng": "Now, now, do not be afraid.\r\nLet us explore the limits of sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0智力达到8或更高时，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time with 8 or more Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "向我卡里昂求教吗？\r\n很好很好。",
+      "jap": "このカリオンに教えを求めるか\r\nよかろうよかろう",
+      "eng": "Do you seek my teachings?\r\nVery well, very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0智力达到8或更高时，第3次说话",
+      "jap": "#0話しかけた:連続で話しかけた",
+      "eng": "#0Talk-3rd time with 8 or more Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "又是你啊。\r\n热衷研究，不错不错。",
+      "jap": "またお主か\r\n研究熱心で結構結構",
+      "eng": "Back already?\r\nYour diligence is commendable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第1次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "好久不见，\r\n没有疏于钻研吧。",
+      "jap": "久しいの\r\n研鑽を怠ってはおらんだろうな",
+      "eng": "Your visit is welcome.\r\nI trust you've kept up your studies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0第2次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "哦，是你，\r\n又来向我求教了吗？",
+      "jap": "おお、お主\r\nまた我が教えを求めるか",
+      "eng": "Oh, there you are.\r\nDo you seek my teachings?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "此地沉眠着魔之力，灵魂之力。",
+      "jap": "この地には魔の力、ソウルの力が眠っておる",
+      "eng": "The forces of magic, and souls, lie dormant in this land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "乃是提升我魔法的最适之处。",
+      "jap": "我が魔術を高めるには、格好の場所よ",
+      "eng": "It is a fitting place to hone my sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "此地应可修习新的魔法。",
+      "jap": "この地でなら、新たなる魔術を修めることもできよう",
+      "eng": "I suspect that I may even conjure up new spells here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "即便是我卡里昂，距离魔法奥秘依然遥远，\r\n我的徒弟，一起钻研累积吧。",
+      "jap": "このカリオンをしても、魔術の深奥には未だ遠い\r\n共に研鑽を積もうぞ、我が弟子よ",
+      "eng": "Sorcery is yet a mystery, even to me.\r\nLet us mature together, young pupil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "使用封有力量的卷轴，就可施展魔法。",
+      "jap": "力が封じられたスクロールを使えば、魔術を扱うことはできる",
+      "eng": "Use scrolls to unleash the power of sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "然而，\r\n卷轴的力量结果仍要仰赖靠施术者的实力。",
+      "jap": "ただし、スクロールの力も\r\n結局は術者の力に依存しておる",
+      "eng": "But the power of each scroll\r\nis reliant on that of its owner.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "修行不足者，无法解放内中蕴含的原本之力。",
+      "jap": "修練の浅い者には、秘められた本来の力を解き放つことはできん",
+      "eng": "The untrained cannot wield a scroll to its proper potential.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "修行无捷径，\r\n我的徒弟，牢牢记住吧。",
+      "jap": "事を修めるのに近道などない\r\n我が弟子よ、覚えておくがよい",
+      "eng": "Never forget, young pupil...\r\nThere are no shortcuts to mastery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0击杀放逐罪执行者后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:立ち去る(マデューラへの移動時)",
+      "eng": "#0Menu-Choose \"Leave\" after defeating the Flexile Sentry",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "我的徒弟，到了如蜜再会吧。",
+      "jap": "我が弟子よ、再びマデューラで会うとしよう",
+      "eng": "Young pupil, may we meet again, in Majula.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0返回如蜜后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "哦，你终于来了。",
+      "jap": "おお、お主ようやく来たか",
+      "eng": "Oh, so you've finally decided to join us?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "一同钻研魔法奥秘吧。",
+      "jap": "共に魔術の深奥を究めようぞ",
+      "eng": "Let us resume our exploration of sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "此地感到一股莫名的#1昏暗#3#2黑暗#3力量。",
+      "jap": "ここには、何か暗い力を感じるのだ",
+      "eng": "I sense a dark power here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "颇为类似魔法之力，\r\n且是更根源性的……",
+      "jap": "魔術の力とも、どこか似ている\r\n何か根源的な…",
+      "eng": "Something akin to sorcery...\r\nOnly more...primordial...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "就算想要了解，却是荒芜至此。",
+      "jap": "それが何かを知ろうにも、こうも荒れ果てておってはな",
+      "eng": "I wish to find out more about it, but as we see, this place is in ruins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "昔日此地究竟发生了什么……",
+      "jap": "かつてこの地に、何があったのか…",
+      "eng": "Just what happened here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "魔法诞生在遥远的太古。",
+      "jap": "魔術が生み出されたのは、遥か古のことよ",
+      "eng": "Sorcery was created long, long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "巨大#1白色的物体#3#2白者#3，相传魔之力由此而生……",
+      "jap": "大いなる白きもの、それが魔の力を生んだと伝えられておるが…",
+      "eng": "Some say it was originated by the great pale being...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "究竟是真是假，根本无从得知。",
+      "jap": "果たして真実なのか、それを知る術などありはせぬ",
+      "eng": "But we've no way of knowing if such claims are true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "悠久时光当中，据说也有魔法散佚。",
+      "jap": "長き時の間には、失われた魔術もあるとされておる",
+      "eng": "Many sorceries were lost over the ages.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "咒术诞生之前，据说有火之魔法，\r\n而那也是失传的其中一种。",
+      "jap": "呪術が生まれるより以前には、炎の魔術があったという\r\nそれも、失われたもののひとつよ",
+      "eng": "Before pyromancy, there were fire sorceries,\r\nbut they are long forgotten.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0罗莎贝娜返回如蜜前，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・メルヴィアのロザベナがマデューラにいない場合",
+      "eng": "#0Menu-Choose \"Talk\" before encountering Rosabeth of Melfia",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "话说，行来此处之际，\r\n偶而会看到奇特的女孩……",
+      "jap": "そういえば、この地への道すがら\r\n時折おかしな娘を目にしたが…",
+      "eng": "On my trip here,\r\nI met a strange girl once or twice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "曾几何时却不见踪影，\r\n不知他现在是否安好。",
+      "jap": "いつの間にか、姿を見ぬようになった\r\n今頃どうしているのやら",
+      "eng": "After a time, I never saw her again.\r\nI wonder where she went off to.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "曾经说上过两、三次话……\r\n样貌虽美，却是冒失。",
+      "jap": "二、三度、言葉を交わしたが…\r\n器量はよいものの、粗忽そうな娘であった",
+      "eng": "We spoke only a few times, but...\r\nA fair lass, if a bit clumsy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "愿她平安无事。",
+      "jap": "息災であれば良いが",
+      "eng": "I hope that she is safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0罗莎贝娜返回如蜜后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話す・メルヴィアのロザベナがマデューラにいる場合1",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after Rosabeth of Melfia has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "我曾于梅维雅磨练魔法，\r\n据说集合了一切魔法与诅咒的地方。",
+      "jap": "我はかつて、南の国で魔術を磨いておった\r\nあらゆる魔と呪が集うと言われる場所よ",
+      "eng": "Sorcery and pyromancy thrive in Melfia.\r\nI've spent much time there, trying to perfect my art.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "然而我弄错了\r\n那样的地方，\r\n所有人都未曾寻找过真相。",
+      "jap": "だが間違いであった\r\nあのようなところ、\r\n誰も彼も、真実など求めてはおらぬ",
+      "eng": "But staying was a mistake.\r\nThe fools there\r\nhad no interest in truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "己身浅薄的欲望、插科打浑的皮肉笑脸，\r\n直让我厌烦不已。",
+      "jap": "己のちっぽけな欲と、それを誤魔化すための薄笑い\r\nただただ煩わしい",
+      "eng": "Their ambitions were paltry, and their smiles cloying.\r\nI was sick to the back teeth of their petty squabbles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "我的愿望，在那里不见半点。",
+      "jap": "我が望むものは、あそこには欠片もありはせなんだ",
+      "eng": "There was nothing for me in that forsaken land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0罗莎贝娜返回如蜜后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話す・メルヴィアのロザベナがマデューラにいる場合2",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after Rosabeth of Melfia has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "那女孩也到此处来了。",
+      "jap": "あの娘も、ここに来ておったのか",
+      "eng": "So, the girl's been here too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "虽然不认识她，但庆幸她能平安。",
+      "jap": "知らぬ娘とはいえ、無事で何よりであった",
+      "eng": "I'm glad to see her safe, whatever that's worth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0智力达到30或更高时，互动列表-选择「说话」",
+      "jap": "#0話しかけた:理力が30以上",
+      "eng": "#0Menu-Choose \"Talk\" after attaining 30 Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "是了，此物赠与你。",
+      "jap": "そうよ、お主にこれを授けよう",
+      "eng": "Ah, here, a fitting gift for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "追求进一步的真理吧，我的徒弟。\r\n呵呵呵。",
+      "jap": "更なる道を求めよ、我が弟子よ\r\nホッホッホッ",
+      "eng": "Seek higher planes,\r\nyoung pupil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "有朝一日定会需要我的教导。",
+      "jap": "いずれ、我が教えが必要になる時が来よう",
+      "eng": "One day, my teachings will save you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "我的徒弟，别浪费了我的教导。",
+      "jap": "我が弟子よ、教えを無駄にするでないぞ",
+      "eng": "Young pupil, do not take my teachings lightly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "此道绵延无尽头啊，我的徒弟。",
+      "jap": "道に終わりなどないぞ、我が弟子よ",
+      "eng": "The path is yet long, young pupil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "还不住手！",
+      "jap": "よさんか！",
+      "eng": "Stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "你疯了吗！",
+      "jap": "お主、狂ったか！",
+      "eng": "Have you lost your head?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "你被才能冲昏头了吗，蠢蛋！",
+      "jap": "才に溺れたか、愚か者が！",
+      "eng": "The arrogance of the young!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "让你尝尝我魔法的精髓吧！",
+      "jap": "我が魔術の真髄を味わうがよかろう",
+      "eng": "Behold my true power.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "可怜人啊……",
+      "jap": "哀れなものよの…",
+      "eng": "How very tragic...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "你这个狂徒！",
+      "jap": "おのれ、狂人が！",
+      "eng": "Damn, you bloody fool!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "##务必钻研不懈啊，我的徒弟……",
+      "jap": "##研鑽を怠るでないぞ、我が弟子よ…",
+      "eng": "##Do not neglect your studies, dear pupil.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "###2（仅英文语音）你来得正是时候。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh you've come at the perfect time.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "###2（仅英文语音）我犯了致命错误。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I've made a grave error.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "###2（仅英文语音）麻烦你，打开它！#3",
+      "jap": "##…",
+      "eng": "##(No caption) You, open this up, please!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "###2（仅英文语音）我的天！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh by the gods!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "###2（仅英文语音）非常抱歉。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh so very sorry.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "###2（仅英文语音）我惹了这么大麻烦。#3",
+      "jap": "##…",
+      "eng": "##(No caption) What trouble I've caused.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "###2（仅英文语音）这把年纪……搞出这样的事。#3",
+      "jap": "##…",
+      "eng": "##(No caption) To let this happen... and at my age!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "###2（仅英文语音）是你啊。真是谢谢你。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh there you are. I thank you for your help.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "###2（无译文）…哦，客人啊。#3",
+      "jap": "##…ほう、客人か",
+      "eng": "##…Oh, a guest.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "###2（无译文）没错，老夫正是人称“晦冥的卡里昂”的\r\n伟大魔法师。#3",
+      "jap": "##そうじゃ、ワシこそ『晦冥のカリオン』と呼ばれた\r\n偉大なる魔術師じゃ",
+      "eng": "##Indeed. I am the great wizard,\r\nthe Karion of the Darkness",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "###2（无译文）你看起来很有前途。老夫不怎么收徒弟，\r\n就专门来教教你吧。#3",
+      "jap": "##お主はなかなか見所がある。　ワシは滅多に弟子は取らんのじゃが\r\nお主には特別に教えを授けてやろう",
+      "eng": "##You seem talented. I usually don't take disciples, \r\nbut I will specially give you a lesson. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "###2（无译文）能不能利用好这机会…取决于你的努力。\r\n那现在就立刻开始吧。#3",
+      "jap": "##この機会を活かせるかどうかは……お主の努力次第じゃ\r\nではさっそく始めるとしようかのぉ",
+      "eng": "##The result will depend on your effort. \r\nNow let us start.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "###2（无译文）什么？老夫很忙啊。#3",
+      "jap": "##何じゃ？　ワシは忙しいのじゃ",
+      "eng": "##What is it?  Don't you know I'm Busy?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "###2（无译文）想从老夫这学到东西，\r\n要先明白咒文的原理。\r\n但是，对你的头脑来说还为时尚早…#3",
+      "jap": "##ワシから学びを得たいなら、\r\nまずはスペルの理を知ることじゃ\r\nされど、お主の頭にはまだ早いようじゃのう…",
+      "eng": "##If you want to learn from me then first,\r\nyou must understand the reason of the spells.\r\nThough, it seems to be a little early for your head.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "###2（无译文）想要“卷轴”吗？很好。#3",
+      "jap": "##『巻物（スクロール）』が欲しいのか？　よかろう",
+      "eng": "##You want the scroll?  Good.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "###2（无译文）又是你啊。想要新的“卷轴”吗？#3",
+      "jap": "##またお主か。　新しい『巻物（スクロール）』が欲しくなったか？",
+      "eng": "##You again.  Do you want the new scroll?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "###2（无译文）我想你差不多该来了。\r\n是来请教老夫的吗？#3",
+      "jap": "##そろそろ来る頃じゃと思ったわい…\r\nワシの教えを請いにきたのか？",
+      "eng": "##I knew it was about the time you come.\r\nSo, do you want my lesson?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "###2（无译文）是你啊。徒弟的请求不能置之不理。\r\n想要哪个“卷轴”？#3",
+      "jap": "##お主か。　弟子の頼みを無下にするわけにはいかんな\r\nどの『巻物（スクロール）』が欲しいのじゃ？",
+      "eng": "##It's you. Well, I shouldn't turn my disciple down. \r\nWhich scroll do you want?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "###2（无译文）哦，是你啊。#3",
+      "jap": "##おぉ、お主か ",
+      "eng": "##Oh, there you are.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "###2（无译文）在城里多亏你帮忙。\r\n如果被那样抓住，会有什么下场啊…#3",
+      "jap": "##城では世話になったな\r\nあのまま捕まっていたら、どんな目にあっておったか…",
+      "eng": "##Thanks for your help.\r\nWhat will happen if get caught...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "###2（无译文）就当是那时的谢礼吧。老夫不怎么收徒弟，\r\n就专门来教教你吧。#3",
+      "jap": "##あの時の礼じゃ。　ワシは滅多に弟子は取らんのじゃが\r\n特別に教えを授けてやろう",
+      "eng": "##It's a thank you gift. I usually don't take disciples, \r\nbut I will specially give you a lesson. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "###2（无译文）能不能利用好这机会…取决于你的努力。\r\n那现在就立刻开始吧。#3",
+      "jap": "##この機会を活かせるかどうかは、お主の努力次第じゃ\r\nではさっそく始めるとしようかのぉ",
+      "eng": "##The result will depend on your effort. \r\nNow let us start.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "###2（无译文）能否灵活运用新的力量，取决于你自己。\r\n要勤奋啊。#3",
+      "jap": "##新たに得た力を使いこなせるかは、お主次第じゃ\r\n精進するがよい",
+      "eng": "##It will be up to you to control the new power you mastered. \r\nWork hard.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "###2（无译文）等你真的有需要，再过来吧。#3",
+      "jap": "##真に必要となった時、また来るがよい",
+      "eng": "##Come again when you truly need me.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "###2（无译文）下次再见到你，就会在如蜜了吧。\r\n期待新咒文的完成吧。#3",
+      "jap": "##次にお主と会うのは、マデューラとなろう\r\n新たなスペルの完成を楽しみにしておるがよい",
+      "eng": "##The next time we meet, it will be at Madula. \r\nYou should be looking forward for the new spell to be completed.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "###2（无译文）咒文是靠解放封存在文字的力量而释放。#3",
+      "jap": "##スペルは、文字に封じ込めた力を解放することで放たれる",
+      "eng": "##The spell will be released by unsealing the power inside the letters.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "###2（无译文）只要有封存力量的“卷轴”，\r\n释放咒文本身是很容易的。#3",
+      "jap": "##力を封じた『巻物（スクロール）』さえあれば\r\nスペルを放つこと自体は容易いことじゃ",
+      "eng": "##If you have the “scroll” with power sealed in it,\r\n it will be easy to release the spell.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "###2（无译文）但是…如果施术者的实力很差，\r\n它的威力恐怕也微不足道。#3",
+      "jap": "##じゃが…術者の素養が低ければ\r\nその威力は微々たるものにすぎんじゃろう",
+      "eng": "##But its power will be week\r\nif the sourcerer is not grounded.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "###2（无译文）要想更好地使用咒文，就必须提高自身能力。#3",
+      "jap": "##スペルを使いこなしたければ、自らの能力を高めることじゃ",
+      "eng": "##If you want to handle the spell, improve yourself.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "###2（无译文）要想借助咒文的力量，\r\n就要把“卷轴”收录到“魔导书”里。#3",
+      "jap": "##スペルの力を借りたければ、『巻物（スクロール）』を\r\n『魔導書（スペルブック）』に収めねばならん",
+      "eng": "##If you want to use the power of spell,\r\nyou need to store the scrolls in the spell book. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "###2（无译文）“魔导书”是把你的力量\r\n转移到“卷轴”上的物品。#3",
+      "jap": "##『魔導書（スペルブック）』は\r\nお主の力を『巻物（スクロール）』へ媒介する物じゃ",
+      "eng": "##Spell book is an item that\r\nwill meditate your power to the scroll.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "###2（无译文）劣等的书无法使用很多咒文，\r\n要想熟练运用咒文，\r\n也要注意书的性能。#3",
+      "jap": "##不出来な本では、多くのスペルを扱うことはできん\r\nスペルを使いこなすには、\r\n本の性能にも気を配ることじゃな",
+      "eng": "##A poor book won't store that much spells.\r\nIf you want to master the spells,\r\nkeep your eye on the book's quality.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "###2（无译文）…其实，老夫还有一个徒弟。#3",
+      "jap": "##…実はワシにはもう一人、弟子がおってな",
+      "eng": "##Once, I had another disciple. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "###2（无译文）使用咒文的能力并不差，\r\n但她是个容易被吓到的女孩。#3",
+      "jap": "##スペルを扱う腕は悪うなかったが\r\nいつも何かに怯えておるような娘じゃった",
+      "eng": "##She handled the spells well,\r\nbut was always afraid of something.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "###2（无译文）她说想要独立就把她送走了，\r\n从那以后就杳无音信。#3",
+      "jap": "##独り立ちをしたいと言うたので送り出したが\r\nそれっきり音沙汰が無い",
+      "eng": "##She said she wanted to be independent, so I sent her off…\r\nbut never heard from har since then. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "###2（无译文）不知会在哪里做什么啊…#3",
+      "jap": "##どこで何をしておるのやら…",
+      "eng": "##I wander what she is doing now.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "###2（无译文）你也是个谦虚的家伙。明明救了老夫，\r\n却什么都不说…#3",
+      "jap": "##お主も謙虚な奴じゃ。　ワシを助けてくれておったのに\r\n何も言わんでおるとは…",
+      "eng": "##You're a modest one.\r\nYou saved me, and ask for nothing.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "###2（无译文）在城里多亏你帮忙。\r\n如果被那样抓住，会有什么下场啊…#3",
+      "jap": "##城では世話になったな。　あのまま囚われていたら\r\nどんな目にあっておったか…",
+      "eng": "##Thanks for your help.\r\nWhat will happen if get caught...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "###2（无译文）此地是个汇聚魔力的好地方。\r\n也许是古老战争的残渣，赋予了力量。#3",
+      "jap": "##この地は、魔力を集約するにはよき場じゃ\r\n古い戦いの残滓が、力を与えているのかもしれん",
+      "eng": "##This land is a good place for collecting magic. \r\nMaybe the vestige of the old battle is giving the power.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "###2（无译文）老夫利用那力量，封存了新的咒文…\r\n但灵魂有些不足，没法顺利进展。#3",
+      "jap": "##ワシはその力を利用して、新しいスペルを封じておるのじゃが…\r\nわずかにソウルが足りんでのう、どうにも首尾よく進まん",
+      "eng": "##I use the power to seal the new spell… however, \r\nthe souls are slightly lacking, so it is not working well",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "###2（无译文）所以，你愿意提供灵魂吗？#3",
+      "jap": "##…そこでじゃ。 お主、ソウルを供する気はないか？",
+      "eng": "##So… won't you provide some souls for me?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "###2（无译文）完成的“卷轴”，我保证传授给你。\r\n怎么样，不是坏事吧？#3",
+      "jap": "##完成した『巻物（スクロール）』は、お主に伝授すると約束しよう\r\nどうじゃ、悪い話ではなかろう？",
+      "eng": "##I will promise you to present the completed scroll as a return. \r\nWhat do you think? ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "###2（无译文）是吗，是吗…\r\n那我们马上来完成它。#3",
+      "jap": "##そうか、そうか…\r\nでは、さっそく仕上げに取り掛かるとしよう",
+      "eng": "##Good, good…\r\nwell then, let me start finishing it right now. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "###2（无译文）完成这项工作后，老夫就会前往如蜜。\r\n那地方有时候，会产生巨大的力量。#3",
+      "jap": "##この仕事を終えたら、ワシはマデューラに向かう\r\nあの地も時折、大きな力が生ずるのじゃ",
+      "eng": "##After I finish this work, I will head to Madula.　\r\nThat land also generates great power once in a while. ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "###2（无译文）下次再见到你，就会在如蜜了吧。\r\n期待新咒文的完成吧。#3",
+      "jap": "##次にお主と会うのはマデューラとなろう\r\n新たなスペルの完成を楽しみにしておるがよい",
+      "eng": "##The next time we meet, it will be at Madula. \r\nYou should be looking forward for the new spell to be completed.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "###2（无译文）嗯…对陷入困境的老人真是严厉啊。\r\n啊，好吧。#3",
+      "jap": "##ふむ…苦境におる老人に厳しい仕打ちじゃな\r\nまぁ、よかろう",
+      "eng": "##Hmm… well that's a sever treatment for a troubled old man.\r\nWell, fine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "###2（无译文）等你改了主意再来吧#3",
+      "jap": "##気が変わったらまた来るがよい",
+      "eng": "##Come back any time if you change your mind",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "###2（无译文）无论如何，这种程度还不够。#3",
+      "jap": "##いくらなんでも、この程度では足りぬぞ",
+      "eng": "##There is no way this will be enough",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "###2（无译文）能再多收集些灵魂吗？拜托你了。#3",
+      "jap": "##もう少しソウルを集めてきてくれんか？　頼んだぞ",
+      "eng": "##I'm sorry but won't you collect more souls? Thank you",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "###2（无译文）你，住手吧！老夫会用魔法教训你！#3",
+      "jap": "##お主、やめんか！　ワシの魔術で成敗してくれる！",
+      "eng": "##Stop! Let me defeat you with magic!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "###2（无译文）什么，已经结束了？#3",
+      "jap": "##なんじゃ、もう用は済んだか？",
+      "eng": "##What? Done already?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "###2（无译文）什么！？#3",
+      "jap": "##なんじゃと！？",
+      "eng": "##What!? ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "###2（无译文）还不住手！#3",
+      "jap": "##よさんか！",
+      "eng": "##Stop it all ready! ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "###2（无译文）为什么！？#3",
+      "jap": "##なぜじゃ！？",
+      "eng": "##why!? ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "###2（无译文）你疯了吗！#3",
+      "jap": "##お主、狂ったか！",
+      "eng": "##Have you gone insane!?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "###2（无译文）别小瞧人！尝尝老夫的魔法吧！#3",
+      "jap": "##侮りおって！　ワシの魔術を受けるがよい！",
+      "eng": "##How dear you! Take my magic!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "###2（无译文）还来吗！别以为会原谅你！#3",
+      "jap": "##まだやるか！　許されると思うでないぞ！",
+      "eng": "##Not enough? Don't you think that I will forgive you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "###2（无译文）做不到啊…#3",
+      "jap": "##やるではないか…",
+      "eng": "##Not bad…",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "###2（无译文）游戏到此为止！#3",
+      "jap": "##遊びはここまでじゃ！",
+      "eng": "##This is over! ",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "###2（无译文）怎么…回事…#3",
+      "jap": "##なんという…こと、じゃ…",
+      "eng": "##How…. could this happen…",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "###2（无译文）你应该选好对手。#3",
+      "jap": "##相手を選ぶべきじゃったな",
+      "eng": "##How fool of you to fight me.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

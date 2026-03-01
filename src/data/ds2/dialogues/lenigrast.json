@@ -1,6 +1,743 @@
 {
   "npc": "lenigrast",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/lenigrast.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/lenigrast.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你是谁？",
+      "jap": "何だお前は？",
+      "eng": "Who are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "是谁不重要。\r\n帮我开了这个门。",
+      "jap": "誰でも構わんわ\r\nここの扉を開けてくれ",
+      "eng": "Oh, it doesn't matter,\r\njust help me open this door.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "还以为是空房子，就把全套生财道具都放这了。",
+      "jap": "空き家と思い、商売道具を一式置いておったのだが",
+      "eng": "I packed my tools in here, seeing it was vacant...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "没想到居然有人偷空锁上了门。",
+      "jap": "知らぬ間に誰かが鍵などかけていきおって",
+      "eng": "...but now somebody's gone and locked the door.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "我是铁匠，\r\n没了工具就没用。",
+      "jap": "ワシは鍛冶屋だ\r\n道具がなければ、何もできん",
+      "eng": "I'm a blacksmith.\r\nI'm nothing without my tools.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "快拿钥匙来，\r\n快点。",
+      "jap": "鍵を持ってこい\r\n早くしろ",
+      "eng": "Bring me that key.\r\nChop chop!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0用雷尼加兹的钥匙打开旧宅铁门后说话",
+      "jap": "#0話しかけた:レニガッツの鍵を開けた",
+      "eng": "#0Talk-After unlocking the door using Lenigrast's Key",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "好好好，干得好。",
+      "jap": "よしよし、よくやった",
+      "eng": "Ah, yes, very good.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "这样就可以开业了。",
+      "jap": "これで仕事が始められるわ",
+      "eng": "Now I can get to work.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "我还要准备些事情，\r\n晚点再来吧。",
+      "jap": "ワシは準備がある\r\n後でまた来い",
+      "eng": "But first, let me set up.\r\nCome again later.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0在营火休息后，第1次说话",
+      "jap": "#0話しかけた:鍛冶仕事を開始してから",
+      "eng": "#0Talk-After unlocking the door using Lenigrast's Key & resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "喂，别离我太近。\r\n很危险呢。",
+      "jap": "おい、あまり近づくな\r\n危ないだろうが",
+      "eng": "You, stand back.\r\nThis is dangerous work.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我叫做雷尼加兹，\r\n如你所见，就是个铁匠。",
+      "jap": "ワシの名は、レニガッツ\r\n見ての通り、ただの鍛冶屋だ",
+      "eng": "The name's Lenigrast.\r\nJust a simple blacksmith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "你嘛……哼，旅行者啊。\r\n真是不爽。",
+      "jap": "お前は…ふん、旅人か\r\n気に入らんな",
+      "eng": "And you are...hmph!\r\nAnother useless traveller.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "你是之前那个旅行者啊。\r\n我叫做雷尼加兹。",
+      "jap": "お前は、この間の旅人か\r\nワシの名は、レニガッツという",
+      "eng": "Oh, you're that traveller.\r\nThe name's Lenigrast.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "虽然你帮过我的忙……旅行者啊，真是不爽。",
+      "jap": "お前には世話にはなったが…旅人か、気に入らんな",
+      "eng": "I appreciate your help, but... I don't like travellers one bit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "人最重要的，\r\n就是脚踏实地的工作。",
+      "jap": "人間にとって、最も貴いことは\r\n地に足をつけて働くことだ",
+      "eng": "A man ought to labour with his feet\r\nplanted firmly in the earth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "你们却一点都不懂，今天这里、明天这里的晃荡……",
+      "jap": "それをお前たちは、あっちにこっちにフラフラと…",
+      "eng": "Not roam around like you flirtatious vagabonds.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "真是的……哼，给我看看吧。",
+      "jap": "まったく…ほれ、見せてみろ",
+      "eng": "Oh, what does it matter... Go on, show me what you've got.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "我说要看看你的装备，\r\n赶快拿来。",
+      "jap": "お前の装備を見てやろうと言ってるんだ\r\n早くしろ",
+      "eng": "Your equipment. Let me have a look.\r\nBut do it quick.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:連続で話しかけた",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "有什么事？又来了啊。",
+      "jap": "なんだ？また来たのか",
+      "eng": "What? You again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:さらに連続で話しかけた",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "又是你啊。\r\n真是的，我很忙的……",
+      "jap": "またお前か\r\nまったく、ワシは忙しいというのに…",
+      "eng": "You again?\r\nCan't you see that I'm busy?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0第1次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "哼，你还活着啊，\r\n害我担心了你一把。",
+      "jap": "ふん、なんとか生きておったか\r\n心配させおって",
+      "eng": "Hmph, I'd given you up for dead.\r\nAlmost had me worried, really...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0第2次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "想说你也该上门了，\r\n拿来，给我看看。",
+      "jap": "そろそろ来る頃と思ったわ\r\nほれ、見せてみろ",
+      "eng": "I knew you'd be around soon.\r\nGo on, show me what you've got.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "真是的，你也和我那傻丫头一样吗。",
+      "jap": "まったく、お前もあのバカ娘と同じか",
+      "eng": "Drat, you're worse than my reckless daughter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "四处游荡的性子该收收了。",
+      "jap": "フラフラするのも、ほどほどにしておけ",
+      "eng": "Don't spend your whole life in transit, you hear?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "无论修理或是打造装备，\r\n都需要相当量的灵魂。",
+      "jap": "装備を直すにも、鍛えるにも\r\nそれなりのソウルが必要になる",
+      "eng": "You'll need souls to\r\nrepair and improve equipment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "我虽然只懂打铁，\r\n但也晓得灵魂用处很大。",
+      "jap": "ワシには鍛冶のことしかわからんが、\r\nソウルの使い道には、いろいろあるはずだ",
+      "eng": "I know only of smithing,\r\nbut souls have many other uses, as well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "既然如此，用你那颗脑袋好好想想，\r\n不要随便浪费掉。",
+      "jap": "どうせなら、バカな使い道はせんようにな\r\nついてる頭は使うもんだ",
+      "eng": "Don't waste your souls on useless trinkets.\r\nThink before you spend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0克洛亚娜返回如蜜前，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すC・石売りのクロアーナがいない",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time, before Chloanne has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "有上等的矿石，可以让装备更强大，\r\n虽然好东西不容易发掘。",
+      "jap": "優れた鉱石があれば、装備をより強いものにできる\r\nいいものは、そうは見つからんがな",
+      "eng": "Equipment can be strengthened with rare orestone.\r\nBut such orestone won't come easily.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "石头的事情，女儿比我要清楚……\r\n真是的，那个笨蛋到底晃哪儿去了……",
+      "jap": "石のことは娘の方が詳しいが…\r\nまったく、あのバカはどこをフラフラと…",
+      "eng": "My girl knows her stones,\r\nbut she's always out prancing about.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "你听好了，旅行或许不错，\r\n事情办完了记得赶快回家。",
+      "jap": "いいかお前、旅もいいのかもしれんが、\r\n用が済んだら、とっとと帰るんだぞ",
+      "eng": "Now, there's a time for travels,\r\nbut you can't wander the world forever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "你也有些亲朋好友不是吗？\r\n真是的……",
+      "jap": "お前にも親しい者ぐらいおるだろうが\r\nまったく…",
+      "eng": "Even you must have\r\nsomeone waiting back home...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0克洛亚娜返回如蜜后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すE・石売りのクロアーナがマデューラにいる",
+      "eng": "#0Menu-Choose \"Talk\" 1st time, after Chloanne has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "我那傻丫头终于知道要回来了。",
+      "jap": "ウチのバカ娘が、やっと戻ってきおった",
+      "eng": "My witless daughter finally came home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "却还是那股皮样……",
+      "jap": "相変わらずヘラヘラしおって…",
+      "eng": "Just as oblivious as she's always been.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "算了，只要待在我能顾及之处就好……",
+      "jap": "まあ、ワシの目の届くところにいるなら…",
+      "eng": "Well, at least now I can keep an eye on her.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0克洛亚娜返回如蜜后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すF・石売りクのロアーナマがデューラにいる",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time, after Chloanne has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "石头的事情，可以问我女儿。",
+      "jap": "石のことなら、ウチの娘に聞いてみるんだな",
+      "eng": "Stones? Try asking my daughter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "别看那副模样，还算很有智识的。",
+      "jap": "ああ見えて、知識だけはそれなりだ",
+      "eng": "You might be surprised.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0吉里甘返回如蜜后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すG・渡し屋ギリガンがマデューラにいる",
+      "eng": "#0Menu-Choose \"Talk\" 1st time, after Gilligan has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "喂\r\n那个洞穴附近的家伙，\r\n你可千万别接近他。",
+      "jap": "おい\r\nあそこの穴の近くにいる奴には\r\n近づくんじゃないぞ",
+      "eng": "Now,\r\ndon't go near that scum\r\nnear the pit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "那个浪荡子叫做吉里甘，\r\n在我们老家，可是闻名的很。",
+      "jap": "あのロクデナシはギリガンという\r\nワシらの故郷では、そこそこ名の知れた男よ",
+      "eng": "The scoundrel's name is Gilligan,\r\nand he's infamous in our home town.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "当然是恶名昭彰的那种，\r\n碰上他准没好事。",
+      "jap": "もちろん、悪い意味でな\r\n関わるとロクな目に遭わんぞ",
+      "eng": "Yes, everyone's heard of him,\r\nas he always manages to stir up trouble.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0吉里甘返回如蜜后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すH・渡し屋ギリガンがマデューラにいる",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time, after Gilligan has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "吉里甘这人还算有点用处，\r\n就是对金钱太计较。",
+      "jap": "あのギリガンという男、それなりに役には立つのだが\r\nとにかく金にうるさ過ぎる",
+      "eng": "Gilligan can certainly be helpful at times,\r\nbut he's a real conniver when it comes to money.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "就是这样才会落到被人追杀的下场。",
+      "jap": "そんな具合だから、命を狙われるような羽目になるのだ",
+      "eng": "Hah, there are even people out for his life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "真是的，常识个屁……",
+      "jap": "まったく、何が常識だ…",
+      "eng": "And you can bet he brought it on himself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0持有将熄余烬时，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すD・鈍い種火を持っている",
+      "eng": "#0Menu-Choose \"Talk\" after acquiring the Dull Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "你手上的是余烬吧？\r\n哪儿找到的？",
+      "jap": "お前が持っているのは、種火だな\r\nどこで手に入れた？",
+      "eng": "I see that you have an ember.\r\nWhere did you get it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "听说以前余烬被用来\r\n进行武器的特殊强化。",
+      "jap": "かつて種火は、武器に特別な強化を施すために\r\n使われていたと聞く",
+      "eng": "I hear that embers were once used in\r\na special process to fortify weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "然而这份技巧早就失传，\r\n现今世上应该没人会了。",
+      "jap": "だが、その技はとうの昔に失われたものだ\r\n今の世に扱える者はおらんだろう",
+      "eng": "But the whole art was lost long ago.\r\nBlacksmiths can't use embers any more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "可惜，我也没办法，\r\n你就死心吧。",
+      "jap": "あいにくだが、ワシにも無理だ\r\n諦めることだな",
+      "eng": "Including myself, I'm afraid.\r\nJust keep it as a souvenir.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0累计交易8000以上魂量后，互动列表-选择「说话」",
+      "jap": "#0話しかけた:ー定回数鍛冶屋を利用したあと",
+      "eng": "#0Talk-After spending 8000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "旅行还顺利吧？",
+      "jap": "旅は順調なのか？",
+      "eng": "How goes your journey?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "拿去，\r\n多少能帮上点忙。",
+      "jap": "これを持っていけ\r\n少しは足しになるだろう",
+      "eng": "Take these.\r\nThey should help a bit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "哼，没事还不滚蛋。",
+      "jap": "ふん、用がないならとっとと行け",
+      "eng": "Hmph. Don't waste my time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "有空的话可以来找我。",
+      "jap": "また暇があれば相手をしてやろう",
+      "eng": "I'll be around, if you make it back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "喂！最近的家伙真是的……",
+      "jap": "おい！まったく、近頃のは…",
+      "eng": "People these days...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "喂!?　你小心点！",
+      "jap": "おい！？気をつけんか！",
+      "eng": "Now...! Watch it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "你想怎样!?",
+      "jap": "何のつもりだ！？",
+      "eng": "What's that about?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "你既然有心，我就会会你吧！",
+      "jap": "その気なら相手になってやるわ！",
+      "eng": "Well, if that's what you want!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "你居然还敢出现在我面前！",
+      "jap": "よくもワシの前に顔を出せたな！",
+      "eng": "You should have stayed far away!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "哼，猪脑袋……",
+      "jap": "ふん、馬鹿者が…",
+      "eng": "Hmph, the damned fool...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "可别小看我了！",
+      "jap": "ワシを舐めるなよ！",
+      "eng": "The gall of it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "##克洛亚娜……我……",
+      "jap": "##クロアーナ…ワシは…",
+      "eng": "##Chloanne...I...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "###2（仅英文语音）喂，把它打开！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hey, open this thing!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "###2（仅英文语音）这该死的玩意从里面打不开！#3",
+      "jap": "##…",
+      "eng": "##(No caption) The damned thing won't budge from the inside!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "###2（仅英文语音）喂，我知道你能听见！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hey, I know you can hear me!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "###2（仅英文语音）快点啊，听不见吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hurry, can't you hear me?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "###2（仅英文语音）啊……我还以为死定了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh... I thought I was a goner for sure.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "###2（仅英文语音）抱歉麻烦你了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Sorry to trouble you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "###2（仅英文语音）太谢谢你了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I thank you kindly.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "###2（仅英文语音）哦，又见面了！多谢你帮我。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh, hello again! Thanks for helping me.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

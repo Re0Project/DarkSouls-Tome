@@ -1,6 +1,1135 @@
 {
   "npc": "firekeeper",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/firekeeper.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/firekeeper.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "欢迎来到营火，无火的余灰大人。",
+      "jap": "篝火にようこそ、火の無き灰の方",
+      "eng": "Welcome to the bonfire, Unkindled One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我正是防火女──",
+      "jap": "私は火防女",
+      "eng": "I am a Fire Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "专门维护营火，以及服侍您的人。",
+      "jap": "篝火を保ち、貴方に仕える者です",
+      "eng": "I tend to the flame, and tend to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "若您为了找回舍弃王位的王者们而需要帮助，",
+      "jap": "玉座を捨てた王たちを探し、取り戻す",
+      "eng": "The Lords have left their thrones, and must be deliver'd to them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "就请您使唤我吧。",
+      "jap": "そのために、私をお使いください",
+      "eng": "To this end, I am at thy side.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0前往洛斯里克的高墙前交谈",
+      "jap": "#0話しかけた:ロスリックの高壁転送前",
+      "eng": "#0Talk-2nd time, before using the Shrine Bonfire to travel from & return",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "灰烬大人。",
+      "jap": "灰の方",
+      "eng": "Ashen one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "请向营火展示螺旋剑吧。",
+      "jap": "篝火に、螺旋の剣をお示しください",
+      "eng": "Produce the coiled sword at the bonfire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "那把剑是灰烬之证，而它会引导您前往王者之地──",
+      "jap": "それは灰の証。貴方を、王たちの地に導くでしょう",
+      "eng": "The mark of ash will guide thee to the land of the Lords.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "洛斯里克，王者的故乡及漂泊汇流之地。",
+      "jap": "彼らの故郷が流れ着く場所、ロスリックに",
+      "eng": "To Lothric, where the homes of the Lords converge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0主角离开传火祭祀场后，返回交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-After using the Shrine Bonfire to travel from & return",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "欢迎您回来，灰烬大人。",
+      "jap": "お帰りなさい、灰の方",
+      "eng": "Welcome home, ashen one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "有什么事情需要我帮忙呢？",
+      "jap": "何かお手伝いできますでしょうか",
+      "eng": "Speak thine heart's desire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0互动列表-选择「升级」",
+      "jap": "#0リストから選択:レベルアップ",
+      "eng": "#0Menu-Choose \"Leavel Up\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "我明白了。",
+      "jap": "分かりました",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "请您触碰我内在的黑暗吧。",
+      "jap": "それでは、私の中の暗闇に触れてください",
+      "eng": "Then touch the darkness within me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "那无主的灵魂，将会归化成您的力量。",
+      "jap": "主なきソウルを、貴方の力としましょう",
+      "eng": "Take nourishment from these sovereignless souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0升级时",
+      "jap": "#0レベルアップ",
+      "eng": "#0While accessing the Level Up Menu",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "那因火而分化出的力量，\r\n已是无主之魂啊，",
+      "jap": "火によって暴かれた差異の力、\r\nもはや主なきソウルよ",
+      "eng": "Let these souls, withdrawn from their vessels,\r\nmanifestations of disparity, elucidated by fire...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "回归吧，回归至我内在深处，\r\n连火也无法触及的真正黑暗之中。",
+      "jap": "私の中、\r\n火の届かぬ真の暗闇に還りたまえ",
+      "eng": "...burrow deep within me,\r\nretreating to a darkness beyond the reach of flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "再以灰烬作器，成就新主：\r\n化作他的影、雕化他的影。",
+      "jap": "そして新たなる主、灰を器とし、\r\nその有り様に影を刻みたまえ",
+      "eng": "Let them assume a new master,\r\ninhabiting ash, casting themselves upon new forms.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#2（男主角）#3因火黯去而遭弑的王啊、因火黯去而现身的王啊。",
+      "jap": "火の無き故の王殺し、火の無き故の王の姿を",
+      "eng": "An Unkindled slayer of lords; a Lord himself Unkindled.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#2（女主角）#3因火黯去而遭弑的王啊、因火黯去而现身的王啊。",
+      "jap": "火の無き故の王殺し、火の無き故の王の姿を",
+      "eng": "An Unkindled slayer of lords; a Lord herself Unkindled.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "灰烬大人，无火者为灵魂的器皿。",
+      "jap": "灰の方、火の無き者はソウルの器です",
+      "eng": "Ashen one, to be unkindled is to be a vessel for souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "因此您可以将无主的灵魂化为自己的力量，",
+      "jap": "故に貴方は、主なきソウルを力にできる",
+      "eng": "Sovereignless souls will become thy strength.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "而我能为此帮上忙。",
+      "jap": "私が、それをお手伝いします",
+      "eng": "I will show thee how.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "灰烬大人，请您将无主的灵魂带过来吧……",
+      "jap": "灰の方、主なきソウルをお持ちください…",
+      "eng": "Ashen one, bring me souls, plucked from their vessels...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0互动列表-选择「交出被污染的防火女灵魂」-选择「是」",
+      "jap": "#0リストから選択:穢れた火防女の魂を渡す",
+      "eng": "#0Menu-Choose \"Give Fire Keeper Soul\" & choose \"Yes\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "……灰烬大人，这是……",
+      "jap": "…灰の方、これは…",
+      "eng": "...Ashen one, this is...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "……这与我的内在相仿……",
+      "jap": "…私の中に似ています…",
+      "eng": "...much like what lies within me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "正因为如此，才会把她寄托在我身上。",
+      "jap": "そして、だからこそ、これは私に宿ります",
+      "eng": "Then let it find its own place, within my bosom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "她一定不会抗拒吧，\r\n因为我们都是防火女。",
+      "jap": "彼女も、きっと許してくれるでしょう。\r\n私たちは、火防女なのですから",
+      "eng": "She will understand.\r\nWe are both Fire Keepers, after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "对不起，",
+      "jap": "ごめんなさい",
+      "eng": "Forgive me, sister.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "愿火焰会引导你。",
+      "jap": "貴女に炎の導きのあらんことを",
+      "eng": "May the flames guide thy way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0持有防火女的眼眸时，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・火防女の瞳を入手後",
+      "eng": "#0Menu-Choose \"Talk\" after acquiring the Eyes of a Fire Keeper",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "灰烬大人，希望您能告诉我，",
+      "jap": "灰の方、よろしければ教えてください",
+      "eng": "Ashen one, may I pose thee a question?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "王位上的王——矮小的鲁道斯大人，他是否跟您说过些什么？",
+      "jap": "玉座の王、小さなルドレス様は、何か仰っていませんでしたか？",
+      "eng": "Has the little Lord Ludleth spoken to thee of any...curious matters?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "……那位大人，一定都明白：",
+      "jap": "…あの方は、きっとご存知です",
+      "eng": "I sense that he possesseth some knowledge...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "防火女到底失去了什么，\r\n而那又是多么重要，或是多么可怕的事物。",
+      "jap": "火防女が失くした、\r\nとても大切な、あるいは恐ろしい何かを",
+      "eng": "Of a thing once most precious, or most terrible,\r\nnow lost to the Fire Keepers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "我该去探究这件事吗？",
+      "jap": "私はそれを、知るべきなのでしょうか？",
+      "eng": "Pray tell, is it a matter of which I should be apprised?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0互动列表-选择「交出防火女的眼眸」-选择「是」",
+      "jap": "#0リストから選択:火防女の瞳を渡す",
+      "eng": "#0Menu-Choose \"Give Eyes of a Fire Keeper\" & choose \"Yes\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "……灰烬大人，这个是……",
+      "jap": "…灰の方、これは…",
+      "eng": "...Ashen one, are these...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "……是眼眸吗……",
+      "jap": "…瞳、でしょうか…",
+      "eng": "...are these eyes?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "谢谢您，灰烬大人。",
+      "jap": "ありがとうございます、灰の方",
+      "eng": "How gracious of thee, ashen one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "这肯定就是防火女失去的东西吧……",
+      "jap": "きっとこれが、火防女の失くしたものなのですね…",
+      "eng": "The very things we Fire Keepers have been missing...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0交出防火女的眼眸后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・火防女の瞳を渡した後",
+      "eng": "#0Menu-Choose \"Talk\" after giving her the Eyes of a Fire Keeper",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "……灰烬大人，非常感谢您带来的眼眸。",
+      "jap": "…灰の方、瞳をありがとうございました",
+      "eng": "Ashen one, my thanks for the eyes thou'st given.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "但是对防火女而言，保有眼眸是个禁忌。",
+      "jap": "けれど火防女は瞳を持たぬもの。これは、禁忌です",
+      "eng": "But Fire Keepers are not meant to have eyes. It is forbidden.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "若是给予我微弱的光，\r\n我就会看见那可怖的背叛──",
+      "jap": "私に微かな光を与え、\r\n恐ろしい裏切りを見せるのです",
+      "eng": "These will reveal, through a sliver of light,\r\nfrightful images of betrayal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "火已不再的世界。",
+      "jap": "火の消えた世界を",
+      "eng": "A world without fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "灰烬大人啊，这是您所冀望的吗？",
+      "jap": "灰の方、貴方はそれをお望みでしょうか？",
+      "eng": "Ashen one, is this truly thy wish?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0选择「不冀望」",
+      "jap": "#0リストから選択:話すC・選択肢【望まない】",
+      "eng": "#0Choose \"Decline\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "……我明白了。",
+      "jap": "…分かりました",
+      "eng": "Of course not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "那么就请您杀了我，夺去这对眼眸吧。",
+      "jap": "それでは、私を殺し、あの瞳を奪ってください",
+      "eng": "Please, kill me, and take these eyes away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "否则，我一定──",
+      "jap": "でないと、私はきっと惹かれてしまいます",
+      "eng": "Before I am drawn into the darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "会被那微弱的光，还有可怖的背叛吸引。",
+      "jap": "微かな光と、あの恐ろしい裏切りに",
+      "eng": "Seduced by the thin light, and the awful betrayal...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0选择「不冀望」后交谈",
+      "jap": "#0リストから選択:話す【望まない】選択後",
+      "eng": "#0Menu-Choose \"Talk\", after choosing \"Decline\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "灰烬大人，请您杀了我，夺去这对眼眸吧。",
+      "jap": "灰の方、私を殺し、あの瞳を奪ってください",
+      "eng": "Ashen one, kill me, and take these eyes away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "否则，我一定──",
+      "jap": "でないと、私はきっと惹かれてしまいます",
+      "eng": "Before I am drawn into the darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "会被那微弱的光，还有可怖的背叛吸引。",
+      "jap": "微かな光と、あの恐ろしい裏切りに",
+      "eng": "Seduced by the thin light, and the awful betrayal...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0选择「冀望火已不再的世界」",
+      "jap": "#0リストから選択:話す:選択肢・【火の消えた世界を望む】",
+      "eng": "#0Choose \"Wish for a world without flame\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "……我明白了。",
+      "jap": "…分かりました",
+      "eng": "Of course.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "我是您的防火女，会遵从您的指示。",
+      "jap": "私は貴方の火防女。貴方の望みに従いましょう",
+      "eng": "I serve thee, and will do as thou bid'st.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "这件事情就请您深埋心中吧，\r\n请不要让任何人知道。",
+      "jap": "そしてこのことは、固く秘しておきましょう。\r\n誰にも知られてはいけません",
+      "eng": "This will be our private affair.\r\nNo one else may know of this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "您为了寻找传火王者们奔走，\r\n而我只是个无眼的防火女，",
+      "jap": "貴方は火継ぎのため王たちを探し、\r\n私は瞳無き火防女",
+      "eng": "Stay thy path, find lords to link the fire,\r\nand I will blindly tend to the flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "这层认知就等到您背叛一切的那一刻为止。",
+      "jap": "いつか貴方が、すべてを裏切るその時まで",
+      "eng": "Until the day of thy grand betrayal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0选择「冀望火已不再的世界」后，第1次交谈",
+      "jap": "#0リストから選択:話す・【火の消えた世界を望む】選択後",
+      "eng": "#0Menu-Choose \"Talk\" 1st time, after \"Wish for a world without flame\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "灰烬大人，若您改变心意，",
+      "jap": "灰の方、もし貴方の心が変わったら",
+      "eng": "Ashen one, if thine heart should bend...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "就请您杀了我，夺去这对眼眸吧。",
+      "jap": "私を殺し、あの瞳を奪ってください",
+      "eng": "...kill me, and strip these eyes from my person.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "如此一来，我就仍是原本的防火女，",
+      "jap": "それで私は、元通りの火防女",
+      "eng": "I will return as the Fire Keeper I once was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "从那以后，永远如此。",
+      "jap": "ずっとそうであったように",
+      "eng": "As it always has been.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0选择「冀望火已不再的世界」后，第2次交谈",
+      "jap": "#0リストから選択:話す・【火の消えた世界を望む】選択後・特殊",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time, after \"Wish for a world without flame\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "灰烬大人，若我的话说得不得体，请您见谅。",
+      "jap": "灰の方、おかしな話をお許しください",
+      "eng": "Ashen one, forgive me if this soundeth strange.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "那眼眸映照出的绝火世界，存在着无尽黑暗",
+      "jap": "あの瞳の見せる、火の消えた世界は、永遠に続く暗闇です",
+      "eng": "The eyes show a world without fire, a vast stretch of darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "……但是，那与无眼的我们所感受到的并不相同。",
+      "jap": "…けれどそれは、瞳の無い私たちのそれとは異なり",
+      "eng": "But 'tis different to what is seen when stripped of vision.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "我看得见在遥远的前方，有一簇小小的火团，",
+      "jap": "どこかずっと先に、小さな火たちがあるように思えるのです",
+      "eng": "In the far distance, I sense the presence of tiny flames.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "而那就像是王者们传承的火──就像是余火一样。",
+      "jap": "それはまるで、王たちの継いだ火の証、残り火のように",
+      "eng": "Like precious embers, left to us by past Lords, linkers of the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "可能因为如此，那黑暗才会如此地吸引我吧？",
+      "jap": "だからこそ、私はその暗闇に惹かれるのでしょうか？",
+      "eng": "Could this be what draws me to this strangely enticing darkness?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0放置所有薪王柴薪后，第1次交谈",
+      "jap": "#0話しかけた:王の薪をすべて玉座に戻した後:1回目",
+      "eng": "#0Talk-1st time, after offering all Cinders",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "五位王已全部回到王位上了。",
+      "jap": "5つの玉座に、すべての王が戻りました",
+      "eng": "The five lords sit their five thrones.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "全都是您的功劳，而这也正是为王之证。",
+      "jap": "すべて貴方の力、それこそが、王たる者の証です",
+      "eng": "All thanks to thee, most worthy of lords.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "灰烬大人，请对薪王面前，\r\n那营火中的螺旋剑行跪地礼。",
+      "jap": "灰の方、王たちの前で、\r\nあの篝火の螺旋の剣に跪いてください",
+      "eng": "Ashen one, with the Lords as thy witness,\r\nbend thy knee afore the bonfire's coiled sword.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "这个仪式是为了让您继承他们的余火，",
+      "jap": "彼らの残り火、その継承の儀式を行ないましょう",
+      "eng": "And let the Lords' embers acknowledge thee as their true heir.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "也是为了让您成为真正的传火之王。",
+      "jap": "貴方を、本当の火継ぎの王とするために",
+      "eng": "A true lord, fit to link the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0放置所有薪王柴薪后，第2次交谈",
+      "jap": "#0話しかけた:王の薪をすべて玉座に戻した後:2回目",
+      "eng": "#0Talk-2nd time, after offering all Cinders",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "灰烬大人，请对薪王面前，\r\n那营火中的螺旋剑行跪地礼。",
+      "jap": "灰の方、王たちの前で、\r\nあの篝火の螺旋の剣に跪いてください",
+      "eng": "Ashen one, with the Lords as thy witness,\r\nbend thy knee afore the bonfire's coiled sword.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "这个仪式是为了让您继承他们的余火，",
+      "jap": "彼らの残り火、その継承の儀式を行ないましょう",
+      "eng": "And let the Lords' embers acknowledge thee as their true heir.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "也是为了让您成为真正的传火之王。",
+      "jap": "貴方を、本当の火継ぎの王とするために",
+      "eng": "A true lord, fit to link the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "#0放置所有薪王柴薪后，在营火前跪下",
+      "jap": "#0最初の火の炉への転送",
+      "eng": "#0After offering all Cinders & kneeling at the Shrine Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 91,
+      "chn": "伟大的薪王们啊，",
+      "jap": "偉大なる薪の王たちよ",
+      "eng": "Noble Lords of Cinder.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "此刻火已渐熄，",
+      "jap": "いまや火は陰り",
+      "eng": "The fire fades...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "然位不见王影。",
+      "jap": "王たちに玉座なし",
+      "eng": "...and the lords go without thrones.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "诸位啊，将你们的火",
+      "jap": "貴方たちの火を",
+      "eng": "Surrender your fires...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "交予传承者吧。",
+      "jap": "継ぐ者に預けたまえ",
+      "eng": "...to the true heir.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "#2（男主角）#3而他将痛下杀手──",
+      "jap": "そして彼は殺すでしょう",
+      "eng": "Let him grant death...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#2（女主角）#3而她将痛下杀手──",
+      "jap": "そして彼女は殺すでしょう",
+      "eng": "Let her grant death...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "对传承初始之火的古代神明们挥下手中的剑。",
+      "jap": "はじまりの火を継いだ、ロードランの古い神たちを",
+      "eng": "To the old gods of Lordran, deliverers of the First Flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0到达初始之火的火炉后，返回交谈",
+      "jap": "#0話しかけた:最初の火の炉到着後",
+      "eng": "#0Talk-After travelling from Kiln of the First Flame",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "灰烬大人，请您传火吧。",
+      "jap": "灰の方、火をお継ぎください",
+      "eng": "Ashen one, link the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "为了薪王们、诸位灰烬大人们，\r\n以及所有被传火束缚住的人们，",
+      "jap": "薪の王たち、灰の方々、\r\nすべての火継ぎに囚われた者たちのために",
+      "eng": "For the Lords of Cinder, for the ashen prisoners,\r\nfor all those held to preserve the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "请您传承初始之火吧。",
+      "jap": "はじまりの火をお継ぎください",
+      "eng": "Link the First Flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "#0交出防火女的眼眸后，到达初始之火的火炉后，返回交谈",
+      "jap": "#0話しかけた:最初の火の炉到着後・火防女の瞳を渡した後",
+      "eng": "#0Talk-Eyes of a Fire Keeper are given & travelling from Kiln of the First Flame",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 104,
+      "chn": "灰烬大人，假使初始之火已近在您的眼前，",
+      "jap": "灰の方、もし貴方が、はじまりの火を前にして",
+      "eng": "Ashen one, if, when thou peerest upon the First Flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "但是您依旧希望终结传火，\r\n倾心绝火的世界，",
+      "jap": "それでも火継ぎの終わり、\r\n火の消えた世界をお望みであれば",
+      "eng": "...Thou wishest yet, for a world without fire,\r\nfor an end to the linking of the fire...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "届时请您带上我。",
+      "jap": "私をお呼びください",
+      "eng": "Then call upon me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "我身为防火女，看守火到最后一刻是我的责任。",
+      "jap": "私は火防女。火の最後を看取るのも、また私の役目です",
+      "eng": "I am a Fire Keeper, and I tend to the flame, to the very end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "……您授予我的眼眸也是如此表示。",
+      "jap": "…貴方に頂いた瞳が、そう教えてくれましたから",
+      "eng": "Thou'st given me eyes, and such it was they shewed me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて",
+      "eng": "#0Menu-Choose \"Leave\" or leaving abrubtly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "再会了，灰烬大人。",
+      "jap": "さようなら、灰の方",
+      "eng": "Farewell, ashen one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "愿火焰将您引导。",
+      "jap": "貴方に炎の導きのあらんことを",
+      "eng": "May the flames guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "#0交出防火女的眼眸后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて・火防女の瞳を渡した後",
+      "eng": "#0Menu-Choose \"Leave\" or leaving abrubtly after Eyes of a Fire Keeper given",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 113,
+      "chn": "再会了，灰烬大人。",
+      "jap": "さようなら、灰の方",
+      "eng": "Farewell, ashen one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "愿您能找到安歇的港湾。",
+      "jap": "貴方に寄る辺がありますように",
+      "eng": "Mayst thou thy peace discov'r.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "#0到达初始之火的火炉后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて・最初の火の炉到着後",
+      "eng": "#0Menu-Choose \"Leave\" or leaving abrubtly after offering all Cinders",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 116,
+      "chn": "灰烬大人，愿火焰将您引导。",
+      "jap": "灰の方、貴方に炎の導きのあらんことを",
+      "eng": "Ashen one, may the flames guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0交出防火女的眼眸，到达初始之火的火炉，互动列表-选择「离去」，或走开",
+      "jap": "#0リストから選択:立ち去る・最初の火の炉到着後・火防女の瞳を渡した後",
+      "eng": "#0Menu-Choose \"Leave\" offering all Cinders, after Eyes of a Fire Keeper given",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "灰烬大人，愿您能找到安歇的港湾。",
+      "jap": "灰の方、貴方に寄る辺がありますように",
+      "eng": "Mayst thou thy peace discov'r.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 120,
+      "chn": "……",
+      "jap": "アアッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 122,
+      "chn": "……",
+      "jap": "ウッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "……",
+      "jap": "アアアッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "灰烬大人，您是怎么了？",
+      "jap": "灰の方、どうされたのですか？",
+      "eng": "Ashen one, what is wrong?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "#0被击杀后复活",
+      "jap": "#0死亡から復活した",
+      "eng": "#0Upon reviving being killed by the protagonist ",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 127,
+      "chn": "……非常抱歉。",
+      "jap": "…すみません",
+      "eng": "I'm truly sorry.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "我还不能死去。",
+      "jap": "私は、死ぬことはできないのです",
+      "eng": "But, know'st thou not? I cannot die.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "所以灰烬大人，请让我服侍您。",
+      "jap": "だから灰の方、貴方に仕えさせてください",
+      "eng": "So please, ashen one, allow me to serve thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "为了找回舍弃王位的王者们，",
+      "jap": "玉座を捨てた王たちを探し、取り戻す",
+      "eng": "The Lords have left their thrones, and must be delivered to them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "请您使唤我吧。",
+      "jap": "そのために、私をお使いください",
+      "eng": "To this end, I am ever at thy side.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "#0在初始之火的火炉召唤防火女后",
+      "jap": "#0イベントシーン:エンディング",
+      "eng": "#0After summoning her",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 133,
+      "chn": "初始之火已渐渐消逝而去，",
+      "jap": "はじまりの火が、消えていきます",
+      "eng": "The First Flame quickly fades.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "想必不久之后，黑暗将会降临。",
+      "jap": "すぐに暗闇が訪れるでしょう",
+      "eng": "Darkness will shortly settle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "……然而总有一天，黑暗之中一定会出现一簇小小的火团，",
+      "jap": "…そして、いつかきっと暗闇に、小さな火たちが現れます",
+      "eng": "But one day, tiny flames will dance across the darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "就是那王者们传承的余火。",
+      "jap": "王たちの継いだ残り火が",
+      "eng": "Like embers, linked by lords past.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "灰烬大人啊，您还听得见我的声音吗？",
+      "jap": "灰の方、まだ私の声が、聞こえていらっしゃいますか？",
+      "eng": "Ashen one, hearest thou my voice, still?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##灰烬大人，这一切……都是谎言吗？",
+      "jap": "##灰の方、すべて、嘘だったのですか？",
+      "eng": "##Ashen one, was it all a lie?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##您……为什么……",
+      "jap": "##貴方は、どうして…",
+      "eng": "##But why, ashen one...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##黑暗灵魂之王……",
+      "jap": "##暗い魂の王…",
+      "eng": "##Great lord of dark...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

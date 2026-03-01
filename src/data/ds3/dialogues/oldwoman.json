@@ -1,6 +1,543 @@
 {
   "npc": "oldwoman",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/oldwoman.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/oldwoman.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，你神智还清楚吗？",
+      "jap": "…ほう、あんた、まともなのかい",
+      "eng": "Oh, your head's square on your shoulders, is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我以为就到铁块小鬼为止，\r\n怎么人又来了？",
+      "jap": "鉄塊の坊やが最後かと思ったけど、\r\nどうして分からないものさね",
+      "eng": "I thought that clamouring tin can was the last,\r\nbut here we go again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "好吧，找我这背着盖子的老太婆做什么？",
+      "jap": "それで、蓋っかぶりの婆に、何か用かね？",
+      "eng": "What is it you want from this old stone-humped hag?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……话先说明白，我什么都不会帮你。\r\n我只想待在这儿旁观。",
+      "jap": "…何もしちゃあやれないよ。\r\nあたしはここで、ただずっと、眺めているだけだからね",
+      "eng": "I've nothing for you, not a smithereen.\r\nI just like to stand here, and take in the view.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0选择「没事」",
+      "jap": "#0話しかけた:1回目・選択肢【用などない】",
+      "eng": "#0Choose \"No business in particular\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "在我老太婆神智还正常的时候，",
+      "jap": "あんた、まともでいるんだよ",
+      "eng": "Keep your marbles intact, love.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "你也要保持正常啊。",
+      "jap": "少なくとも、この婆がまともな内はねえ",
+      "eng": "At least until I lose mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0选择「没事」后交谈",
+      "jap": "#0話しかけた:2回目・【用などない】選択後",
+      "eng": "#0Talk-After choosing \"No business in particular\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "……话先说明白，我什么都不会帮你。\r\n我只想待在这儿旁观。",
+      "jap": "…何もしちゃあやれないよ。\r\nあたしはここで、ただずっと、眺めているだけだからね",
+      "eng": "I've nothing for you, not a smithereen.\r\nI just like to stand here, and take in the view.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0选择「我有事找你」",
+      "jap": "#0話しかけた:1回目・選択肢【用がある】",
+      "eng": "#0Choose \"I have business with you\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "你说这话还真是怪，",
+      "jap": "あんた、おかしなことを言うものさね",
+      "eng": "Well, that came out of nowhere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "背着盖子的老太婆\r\n哪有什么事让你好找？",
+      "jap": "いったい蓋っかぶりの婆が、\r\nなにを持ってるっていうんだい",
+      "eng": "You think an old stone-humped hag\r\nwould be brimming with goodies?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "……劝你不要过度期待啊。",
+      "jap": "…妙な期待はしないでおくれよ",
+      "eng": "I've none of that, not a smithereen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0选择「我有事找你」后交谈",
+      "jap": "#0話しかけた:2回目・【用がある】選択後",
+      "eng": "#0Talk-After choosing \"I have business with you\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "#2（男主角）#3……你还真是个怪小鬼，",
+      "jap": "…あんた、ほんとにおかしな子さね",
+      "eng": "Strange little lad, you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#2（女主角）#3……你还真是个怪小孩，",
+      "jap": "…あんた、ほんとにおかしな子さね",
+      "eng": "Strange little lass, you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "到底有什么好感兴趣的……",
+      "jap": "一体何が気に入ったのかね…",
+      "eng": "What on earth do you see in me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "在火的时代落幕时，\r\n一切都会聚集到末世所在──",
+      "jap": "火の時代が終わるとき、\r\nすべての地は最果てに吹き溜まる",
+      "eng": "At the close of the Age of Fire,\r\nall lands meet at the end of the earth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "不论是王国也好，贫苦之地也罢，无一幸免。\r\n但说来，人世间就是这个样",
+      "jap": "王の国も、乞食の地も、みんな同じ。\r\n人の営みなど、そんなものさね",
+      "eng": "Great kingdoms and anaemic townships will be one and the same.\r\nThe great tide of human enterprise, all for naught.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "……所以我才会喜欢这片景色。",
+      "jap": "…だからあたしは、この景色が気に入ってるのさ",
+      "eng": "That's why I'm so taken by this grand sight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "这不就是神明的作为吗？",
+      "jap": "まるで神様みたいじゃないか",
+      "eng": "This must be what it's like to be a god.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "……啊，对，你要是好奇心过剩，就要小心了。",
+      "jap": "…ああ、そうだ、もしあんたが物好きなら、注意することだね",
+      "eng": "Oh, if you just can't stop yourself, at least hear this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "从这里更往下走，会有个巨大，阴暗的树洞",
+      "jap": "ここからずっと下に、大きな暗い、木のうろがある",
+      "eng": "Far below, there's a deep, dark hole carved out of a tree.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "……现在偶尔还会听见，\r\n从那树洞传来声音，",
+      "jap": "…あのうろから、\r\n今でもたまに、聞こえてくるのさ",
+      "eng": "...From time to time,\r\nvoices brim from the depths of the cavity even now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "那是洛里安大人曾提及的，\r\n恶魔的声音。",
+      "jap": "あれは、ローリアン様の仰っていた、\r\nデーモンの声さね",
+      "eng": "Mutterings of the very demon that Prince Lorian spoke of,\r\nI'm sure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "是受疾病侵蚀，还不停诅咒人类──怪物的声音啊。",
+      "jap": "病に侵され、それでも人を呪っている。そんな化け物の声さね",
+      "eng": "Horrible sounds, of an afflicted thing yet cursing men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0与拉普对话后，选择「询问“环印城”的详情」",
+      "jap": "#0リストから選択:輪の都について尋ねる",
+      "eng": "#0Menu-Choose \"Inquire of the Ringed City\" after talking with Lapp",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "你从哪里听到那名字的？",
+      "jap": "あんた、どこでその名前を聞いたんだい？",
+      "eng": "Why, where did you hear that name, love?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "……算了，哪里听到的都行。就告诉你，我老太婆知道些什么吧。",
+      "jap": "…まあ、いいさね。婆が知っていることは、教えてあげよう",
+      "eng": "Oh, it doesn't matter. I'll tell you what I know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "根据传说，环印城位于末世所在，",
+      "jap": "伝承によれば、輪の都は最果てにあるという",
+      "eng": "The Ringed City is said to be at world's end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "我记得它在这片聚集地的前方，就在最深处的地方。",
+      "jap": "それは確かに、この吹き溜まりの先。一番深い、その先さね",
+      "eng": "Past this heap of rubbish, as far as one can go.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "……不过，你要仔细想一想：",
+      "jap": "…けれど、考え直すことだね",
+      "eng": "But you'd better think twice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "环印城是神明为#1矮人#3#2小人#3们所造的流放地，\r\n是座围墙耸立的隔离城市",
+      "jap": "輪の都は、神が作り給う、小人たちの流刑地。\r\n壁に囲まれた拒絶の街",
+      "eng": "The forsaken Ringed City was walled off\r\nby the gods to contain the pygmies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "……黑暗灵魂也不是你该接近的东西啊。",
+      "jap": "…闇の魂に、近づくべきじゃあないんだよ",
+      "eng": "...and the dark soul is better left well alone...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0询问“环印城”的详情后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・輪の都について尋ねた後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"Inquire of the Ringed City\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "……你还是要去，对吧？",
+      "jap": "…あんた、どうせ考え直しゃあしないんだろう？",
+      "eng": "You're not willing to reconsider, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "这样也好，使命也不是人人都有，",
+      "jap": "まあ、それもいいさね。使命など、誰にもあるものじゃあない",
+      "eng": "Well, that's just fine. It's a rare thing, to have a true duty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "你要好好珍惜。",
+      "jap": "精々大事にすることさね",
+      "eng": "Don't go and take it for granted, I suppose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "对你，还有对那铁块小鬼来说，这样最好吧。",
+      "jap": "あんたや、鉄塊の坊やには、きっとそれが一番さね",
+      "eng": "Won't do any better than this, not you or that poor tin can.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or after leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "在我老太婆神智还正常的时候，",
+      "jap": "あんた、まともでいるんだよ",
+      "eng": "Keep your marbles intact, love.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "你也要保持正常啊。",
+      "jap": "少なくとも、この婆がまともな内はねえ",
+      "eng": "At least until I lose mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0询问“环印城”的详情后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて・輪の都について尋ねた後",
+      "eng": "#0Menu-Choose \"Leave\",  after choosing \"Inquire of the Ringed City\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "你可别死了喔，",
+      "jap": "あんた、死ぬんじゃないよ",
+      "eng": "Don't run off and die, love.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "我不想让我的景色变得更哀伤。",
+      "jap": "あたしの景色が、悲しくなるのはご免だからね",
+      "eng": "It's a nicer view with you in it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "……",
+      "jap": "アッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "……",
+      "jap": "アアッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "……",
+      "jap": "ウッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "……",
+      "jap": "アアッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "……",
+      "jap": "アアアァッッ……",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "……终于来迎接我了吗？",
+      "jap": "…やっと、お迎えってわけかい",
+      "eng": "My time has come, has it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "希望我也能见到天使……",
+      "jap": "あたしにも、天使が見えるといいねえ…",
+      "eng": "Well, maybe I'll get to see an angel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "##……对，就像你猜的一样，",
+      "jap": "##…ああ、あんたの察しの通りだよ",
+      "eng": "##Ahh, yes, it's just what you'd guess.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "##根据传说，环印城就是末世所在，",
+      "jap": "##伝承によれば、輪の都は最果てにあるという",
+      "eng": "##Legend says that the Ringed City lies at the end of the earth.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "##它也正是末世之物聚集的地方。",
+      "jap": "##それはこの、吹き溜まりの場所そのものさね",
+      "eng": "##This heap of everything, you're looking right at it.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "##……不过，你要仔细想一想：",
+      "jap": "##…けれど、考え直すことだね",
+      "eng": "##But be warned.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "##环印城是矮人的流放地，\r\n黑暗灵魂也不是你该接近的东西啊。",
+      "jap": "##輪の都は、小人の流刑地。\r\n闇の魂に、近づくべきじゃあないんだよ",
+      "eng": "##The pygmies were exiled to the Ringed City.\r\nAnd no one should go near the dark soul.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "##记得帮我转达给铁块小鬼啊，",
+      "jap": "##あんた、鉄塊の坊やに伝えておくれよ",
+      "eng": "##When you see that tin can, pass the word along.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "##因为那小鬼看起来怪有自信的。",
+      "jap": "##なんだかあれは、妙な自信があるようだから",
+      "eng": "##I'm afraid he's a little too brave for his own good.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

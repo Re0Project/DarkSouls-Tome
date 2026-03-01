@@ -1,6 +1,567 @@
 {
   "npc": "alvina",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/alvina.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/alvina.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喔，没见过你耶。",
+      "jap": "ほう、あんた、新顔だね",
+      "eng": "Is it not so that thou art new.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你能找到我，有你的。",
+      "jap": "あたしを見つけるなんて、やるじゃないか",
+      "eng": "Thou fared well to find me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我想你也是听了骑士亚尔特留斯的传闻，\r\n才来到这的吧。",
+      "jap": "まあ、大方あんたも\r\n騎士アルトリウスの噂を聞きつけてきたんだろう？",
+      "eng": "But cometh thee not for\r\nthe grave of Sir Artorias?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "但是，我劝你放弃吧。",
+      "jap": "でも、すっぱりと諦めるんだね",
+      "eng": "My advice true, forget this! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "什么亚尔特留斯的传承，根本是空穴来风",
+      "jap": "アルトリウスの伝承なんて、実際なんでもありゃあしない",
+      "eng": "The legend of Artorias art none but a fabrication.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……那只是童话故事罢了……",
+      "jap": "…ただの御伽話だよ…",
+      "eng": "...Traversing the dark? 'Tis but a fairy tale.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "而且真的对他有敬意，\r\n就不会为了那种东西来糟蹋英雄的墓了，没错吧？",
+      "jap": "礼ってものがあれば\r\nそんなもののために英雄の墓を穢すこともない。そうだろう？",
+      "eng": "Have thine own respect,\r\ngo not yonder knocking for nothing, I say!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "嗯，我知道了。",
+      "jap": "ふうん、そうかい",
+      "eng": "Hmm, I see. A result most heathenish and gross.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "那就没什么好谈的啦。",
+      "jap": "だったら、もう話すことはないね",
+      "eng": "Then there is nothing more to say about this tedious reckoning.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "出去吧，真碍眼。",
+      "jap": "出ていきな。目障りだよ",
+      "eng": "Be gone from here. Pernicious caitiff.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "喔，你还挺有趣的，\r\n我看上你啦。",
+      "jap": "ほう、あんた、面白いね。\r\n気に入ったよ",
+      "eng": "Well indeed, thou art a strange one!\r\nNevertheless, I feel some liking for thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我是黑森林的雅薇娜，",
+      "jap": "あたしは黒い森のアルヴィナ",
+      "eng": "I'm Alvina of the Darkroot Wood.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "是狩猎团团长，\r\n在这森林里猎杀糟蹋墓穴的入侵者。",
+      "jap": "この森で、墓を穢す侵入者を狩る、\r\n狩猟団の長だよ",
+      "eng": "I command a clan of hunters\r\nwho track down defilers of the forest graves.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "如何，你有没有兴趣加入我们啊？",
+      "jap": "どうだい？あんた、あたしたちの仲間にならないかい？",
+      "eng": "What dost thou say? Wilt thou not join us?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "非常欢迎你加入喔。",
+      "jap": "あんたなら大歓迎さ",
+      "eng": "Oh yes, I believe we would suit thee well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0选择「是」后，您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:1回目【YES】選択後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "是吗，真遗憾啊。",
+      "jap": "ああ、そうかい。残念だよ",
+      "eng": "Oh, I see. 'Tis a pity indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "但是，你有选择的自由，\r\n我不能强迫你。",
+      "jap": "けど、あんたの自由だ。\r\n仕方ないね",
+      "eng": "But this is thine stubborn choice alone.\r\nI cannot enforce it upon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "如果你改变了心意，\r\n随时可以和我说。",
+      "jap": "気が変わったら、\r\nまた声をかけておくれよ",
+      "eng": "If thine mind should be alter'd,\r\nforsooth speak to me once more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0选择「是」后，选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目【YES】選択後【NO】選択後",
+      "eng": "#0Talk- After choosing \"No\" to the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "啊，是你啊。",
+      "jap": "おお、あんたかい",
+      "eng": "Oh, thou art here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "你考虑得如何啊，要不要加入我们啊？",
+      "jap": "あたしたちの仲間になる件、考え直してくれたのかい？",
+      "eng": "Tell me thou hast thought on't once more and will join us?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0您打算怎么做？选择「是」，或第1次选择「是」后直接选择「是」",
+      "jap": "#0話しかけた:1回目【YES】選択後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "你愿意加入！",
+      "jap": "おお、そうかい！",
+      "eng": "I am very glad!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "太好了，那就马上来订下誓约吧。",
+      "jap": "だったら決まりだ。早速、誓約を交わそうじゃないか",
+      "eng": "And now thou art one of us! Let us establish a Covenant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "这只戒指给你，",
+      "jap": "それと、指輪を渡しておくよ",
+      "eng": "And here, taketh this ring.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "你戴上这只戒指时，我就可以召唤你。",
+      "jap": "あんたがこの指輪をしていれば、あたしはあんたを召喚できる",
+      "eng": "If thou weareth that ring, it allows for thine summoning.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "感觉有入侵者时，会召唤你出来，",
+      "jap": "侵入者を感じたら召喚するから",
+      "eng": "If mine senses reveal intruders, then I will summon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "之后要如何战斗就随你了，能把入侵者赶走就好。",
+      "jap": "あとは好きなように戦って、そいつを追い返してもらえばいい",
+      "eng": "Fend them off sir, I beseech only this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "我还可能会召唤其他人，\r\n所以你也可以和他们一起合作。",
+      "jap": "他にも、何人か召喚するだろうから、\r\n協力するのもいいだろう",
+      "eng": "I shall summon others,\r\nwho will by their honour work tirelessly with thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "击退入侵者会有报酬，\r\n夺到的物品也都可以全部归自己所有。",
+      "jap": "報酬もあるし、奪ったものは、\r\n全部自分のものにして構わない",
+      "eng": "Thou shalt receive great reward,\r\nand whatsoever ye shall pillage will be thine own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "简单吧？",
+      "jap": "簡単な話だろう？",
+      "eng": "A true agreement, not so?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "……但是有一个规定。",
+      "jap": "…ただ、1つだけ掟がある",
+      "eng": "But thou must heed the golden rule...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "我们整个团就是一家人，绝不允许有人背叛。",
+      "jap": "団は家族だ。裏切りは許されない、絶対にね",
+      "eng": "The clan is thine own family. To thine kinsmen forever stay true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "这点\r\n你一定要记住。",
+      "jap": "それだけは\r\n覚えておきな",
+      "eng": "Dare'st not in any attempt to double-cross.\r\nHave no doubt, such wretchedness, never will we tolerate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0加入森林的狩猎者誓约后攀谈",
+      "jap": "#0話しかけた:森の狩猟者誓約中",
+      "eng": "#0Talk-As A member of the Forest Hunters Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "喔，是你啊，最近如何啊？",
+      "jap": "おお、あんたかい。調子はどうだい？",
+      "eng": "Ah, thou dost cometh. How fares ye?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "我很期待你喔，\r\n努力做啊。",
+      "jap": "あんたには期待してるんだ。\r\nしっかり働いとくれよ",
+      "eng": "My hopes for thee are of the highest.\r\nDo not such a hope shatter with foul disproportion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0受召唤击杀1个森林的入侵者后攀谈",
+      "jap": "#0話しかけた:猫の誓約指輪による召喚ホでストを1回倒した",
+      "eng": "#0Talk-After vanquishing first Forest Invader as a Forest Hunters Member",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "这是给你的饯别礼，拿去吧。",
+      "jap": "ああ、これは餞別だよ。とっておきな",
+      "eng": "Ah yes, here is thine reward. It is for thee, take it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "不要变成游魂了啊。",
+      "jap": "亡者になんかなるんじゃないよ",
+      "eng": "Make no attempt to show thineself as Hollow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0受召唤击杀3个森林的入侵者后攀谈",
+      "jap": "#0話しかけた:猫の誓約指輪による召喚ホでストを3回倒した",
+      "eng": "#0Talk-After vanquishing 3 Forest Invader as a Forest Hunters Member",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "喔，是你啊！",
+      "jap": "おお、あんたかい！",
+      "eng": "Oh, thou art present!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "我从芝那边听说了，你还真是厉害啊。",
+      "jap": "シバからきいたよ。すごいらしいじゃないか",
+      "eng": "Shiva hath spoken of thee. I like that which I hear!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "我听说了，你还真是厉害啊。",
+      "jap": "きいたよ。すごいらしいじゃないか",
+      "eng": "I have heard murmuring about thee. I like that which I hear!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "果然我没有看错人！",
+      "jap": "やっぱりあたしの目利きは確かだったね！",
+      "eng": "I felt of thou indeed as a special one!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "你果然是个厉害的家伙。",
+      "jap": "只者じゃあないと思ってたのさ",
+      "eng": "The very moment mine eyes first set upon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "这是你的特别报酬，拿去吧。",
+      "jap": "これは特別報酬だよ。とっておきな",
+      "eng": "Here's a precious reward. It is for thee, take it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "继续努力啊。",
+      "jap": "もっと活躍しておくれよ",
+      "eng": "May thine skill earn thee many more!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0受召唤击杀4个森林的入侵者后攀谈",
+      "jap": "#0話しかけた:猫の誓約指輪による召喚ホでストを4回倒した",
+      "eng": "#0Talk-After vanquishing 4 Forest Invader as a Forest Hunters Member",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "话说回来……",
+      "jap": "そういえば…",
+      "eng": "Perchance...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "你见过芝了吗？",
+      "jap": "あんた、シバには会ったのかい？",
+      "eng": "Hast thou met Shiva?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "芝好像出身遥远东方，很有能力，\r\n现在是我们团队的核心人物。",
+      "jap": "遠い東の出身らしいけど、すこぶる有能でね\r\n今では団のリーダー格なのさ",
+      "eng": "A lad cometh from the far East, strong of arm;\r\nnow a clan leader of ours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "……但是啊，",
+      "jap": "…だけどね",
+      "eng": "...And yet...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "我总觉得他隐藏了一些事情。",
+      "jap": "ありゃあ、何かを隠してるね。あたしには分かる",
+      "eng": "Still I feel that boy hides something. Of that I am certain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "我想他是不至于背叛团队……\r\n总之你自己也要小心一点。",
+      "jap": "まさか、団を裏切ることはないだろうが…\r\nあんたも、気を抜かないことさ",
+      "eng": "Small fear that he will use us badly...\r\nYet on guard we must stay.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "不管是芝，\r\n或是那个如影随形的男子都要小心……",
+      "jap": "シバにも、\r\n影のように従う、あの男にもね…",
+      "eng": "And that man that clingeth to Shiva like some shadow...\r\nensure thou dost treat him with the same caution.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0主角背叛森林的狩猎者誓约时攀谈",
+      "jap": "#0敵対状態になった",
+      "eng": "#0After becoming hostile after betraying the Forest Hunters Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "啊，原来是你……",
+      "jap": "ああ、あんたかい…",
+      "eng": "Oh, it is thee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "你背叛了家族，有死的觉悟了吗。",
+      "jap": "家族を裏切ったんだ、覚悟はできているね",
+      "eng": "Thine kinsmen are betrayed by thee. This doth bode most badly. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "从现在开始，\r\n你将会一直受到团内同伴袭击，",
+      "jap": "これからずっと、\r\nあんたは仲間に襲われつづける",
+      "eng": "No rest will ease thy rotten soul\r\nwhilst there is one clansman living...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "永远得不到片刻的安宁……",
+      "jap": "気の休まるときなんて、永遠にありはしないよ…",
+      "eng": "Forever tormented thou shalt be by our very howls...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "你背叛了家族……",
+      "jap": "あんたは、家族を裏切ったんだ…",
+      "eng": "Hellish villain, thou hast used us most foully, thine own family...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "我不会手下留情的……",
+      "jap": "容赦しないよ…",
+      "eng": "For thee, no mercy shall be shown.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "嘻嘻嘻，嘻嘻嘻！",
+      "jap": "ひっひっひ、ひーっひっひ！",
+      "eng": "Dee hee hee, dee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "真是愚蠢！真是愚蠢啊！",
+      "jap": "愚かだねえ！愚かだねえ！",
+      "eng": "What a fool we have, what a wretched fool we have!",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

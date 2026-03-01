@@ -1,6 +1,775 @@
 {
   "npc": "elizabeth",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/elizabeth.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/elizabeth.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哎呀，真是稀客。",
+      "jap": "まあ、珍しい",
+      "eng": "Well, look at this one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你是遥远未来的人吧？\r\n而且身上很有人味。",
+      "jap": "あなた、とても先の人ね。\r\nそれに、とっても人臭い",
+      "eng": "From what far-away age hast thou come?\r\nThy scent is very human, indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……不过，看来并不坏……",
+      "jap": "…でも、悪くはないよう…",
+      "eng": "...But, not intolerable...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……你是救出幽暗公主的人吧？\r\n那莫名气质，正如公主所言。",
+      "jap": "…あなた、宵闇様の救い人ね\r\n見えぬもの、宵闇様の仰る通りだもの",
+      "eng": "Ah, Princess Dusk's saviour.\r\nThine aura is precisely as she described.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "谢谢你，我也要感谢你救了幽暗公主。",
+      "jap": "ありがとう。私からも感謝するわ、宵闇様を救ってくれて",
+      "eng": "I thank thee deeply, for rescuing Her Highness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……不过，幽暗公主并不在这里，",
+      "jap": "…でも、宵闇様はもういないわ",
+      "eng": "But Princess Dusk is here no longer...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "公主已经被古代人形怪物，用那可怕的手抓走了。",
+      "jap": "古い人の化け物、そのおそろしい腕に連れ去られたの",
+      "eng": "...snatched away by that horrifying primeval human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "所以……你能不能再一次救出幽暗公主呢？",
+      "jap": "だから、あなた…もう一度、宵闇様を救ってくれませんか",
+      "eng": "And so I must ask... Couldst thou once more play the saviour?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#02次以上召唤幽暗完成所有对话后，第1次攀谈",
+      "jap": "#0話しかけた:1回目・宵闇と会話後",
+      "eng": "#0Talk-1st time, after talking with Dusk and exhausting her dialogue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "哎呀，真是稀客。",
+      "jap": "まあ、珍しい",
+      "eng": "Well, look at this one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "你是遥远未来的人吧？\r\n而且身上很有人味。",
+      "jap": "あなた、とても先の人ね。\r\nそれに、とっても人臭い",
+      "eng": "From what far-away age hast thou come?\r\nThy scent is very human, indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……不过，看来并不坏……",
+      "jap": "…でも、悪くはないよう…",
+      "eng": "...But, not intolerable...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "……你是幽暗公主所思念的人吧？\r\n那莫名气质，正如公主所言。",
+      "jap": "…あなた、宵闇様の想い人ね\r\n見えぬもの、宵闇様の仰る通りだもの",
+      "eng": "Princess Dusk has spoken of thee.\r\nThy aura is precisely as she described.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "谢谢你，我也要感谢你救了幽暗公主。",
+      "jap": "ありがとう。私からも感謝するわ、宵闇様を救ってくれて",
+      "eng": "I thank thee deeply, for rescuing Her Highness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "……不过，幽暗公主并不在这里，",
+      "jap": "…でも、宵闇様はもういないわ",
+      "eng": "But Princess Dusk is here no longer...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "公主已经被古代人形怪物，用那可怕的手抓走了。",
+      "jap": "古い人の化け物、そのおそろしい腕に連れ去られたの",
+      "eng": "...snatched away by that horrifying primeval human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "所以……你能不能再一次救出幽暗公主呢？",
+      "jap": "だから、あなた…もう一度、宵闇様を救ってくれませんか",
+      "eng": "And so I must ask... Couldst thou once more play the saviour?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0您打算如何回答？第1次选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "是吗……我明白了，",
+      "jap": "そう…わかりました",
+      "eng": "Yes, I understand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "就算你再怎么为幽暗公主着想，\r\n这也是我们的私事，",
+      "jap": "いかに宵闇様を思うとて、\r\nそれはこちらの事情",
+      "eng": "We care dearly for Princess Dusk,\r\nand are apt to blur our boundaries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "我竟然还厚着脸皮，请求你再一次出手相救。",
+      "jap": "もう一度など、いかにもあつかましいお願いでしたね",
+      "eng": "I am ashamed to have been so imposing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "不过……如果你改变心意了，请随时告诉我，",
+      "jap": "でも…気を変えられたら、またお声がけください",
+      "eng": "But should thine heart be changed, speak to me again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "我是灵庙的看守者，乌拉席露的魔法与我同在，",
+      "jap": "私は霊廟の守人。ウーラシールの魔術は、私と共にあります",
+      "eng": "This sanctuary, and the sorceries of Oolacile, are my domain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "应该能对于你的旅途有所帮助。",
+      "jap": "あなたの旅に、力添えもできようというものですから",
+      "eng": "My strength could surely assist thee in thy travels.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目・【NO】選択後",
+      "eng": "#0Talk-2nd time after choosing \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "你……改变心意了吗？",
+      "jap": "あなた…気を変えられたのですか？",
+      "eng": "Hast thou reconsidered?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "愿意再次出手拯救幽暗公主吗？",
+      "jap": "もう一度、宵闇様を救ってくださると？",
+      "eng": "Such that thou might rescue dear Dusk?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0您打算如何回答？第2次选择「否」",
+      "jap": "#0話しかけた:2回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 2st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "这样啊，心意不变吗。",
+      "jap": "ああ、やはりそうですか",
+      "eng": "Yes, yes, of course.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "不过……如果你改变心意了，请随时告诉我。",
+      "jap": "でも…気を変えられたら、またお声がけください",
+      "eng": "But shouldst thine heart be changed, speak to me again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "谢谢。",
+      "jap": "ありがとう",
+      "eng": "Thank you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "我是灵庙的看守者──伊丽莎白，",
+      "jap": "私は霊廟の守人、エリザベス",
+      "eng": "I am Elizabeth, guardian of this sanctuary.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "也算是幽暗公主的奶妈。",
+      "jap": "宵闇様の乳母のようなものかしら",
+      "eng": "Something of a godmother to Princess Dusk.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "我会尽我所能协助你，",
+      "jap": "私のできるかぎり、あなたに協力しましょう",
+      "eng": "I shall assist thee, to my utmost.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "因为乌拉席露的魔法与我同在。",
+      "jap": "ウーラシールの魔術は、私と共にありますから",
+      "eng": "For I am one with the sorceries of Oolacile.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0选择「是」后攀谈",
+      "jap": "#0話しかけた:【YES】選択後",
+      "eng": "#0Talk-After accepting the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "很高兴看到你平安。",
+      "jap": "あなた、無事で何よりです",
+      "eng": "Thank goodness thou art safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "怎么了吗？我会尽我所能协助你。",
+      "jap": "どうしましたか？私のできるかぎり、あなたに協力しましょう",
+      "eng": "What is thy wish? I offer thee my all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0游魂状态时，选择「是」后攀谈",
+      "jap": "#0話しかけた:【YES】選択後(亡者状態)",
+      "eng": "#0Talk-After accepting the 1st or 2nd query while the protagonist is hollow",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "看来，你也过得不容易。",
+      "jap": "あなた、苦労されているようですね",
+      "eng": "Struggling, are we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "有什么我能帮忙的，请尽管开口。",
+      "jap": "私にできることがあれば、なんなりと仰ってください",
+      "eng": "If there is anything I can do, never hesitate to ask.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "再往前走，你大概也会了解：",
+      "jap": "あなたも、この先にいけば分かるでしょう",
+      "eng": "Thou shalt see further on.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "乌拉席露正逐渐被\r\n古代人形怪物酝酿的深渊所吞噬，",
+      "jap": "ウーラシールは今、古い人の化け物が生んだ\r\n深淵に飲まれようとしています",
+      "eng": "An abyss was begat of the ancient beast,\r\nand threatens to swallow the whole of Oolacile.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "骑士亚尔特留斯前往阻止，\r\n但英雄仍难抵抗黑暗，",
+      "jap": "騎士アルトリウスが、これを留めに向かいましたが\r\n英雄とて、所詮は闇を持たぬ身",
+      "eng": "Knight Artorias came to stop this,\r\nbut such a hero has nary a murmur of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "早晚还是会被深渊吞噬、\r\n被黑暗侵蚀吧。",
+      "jap": "いずれは深淵に飲まれ、\r\n闇に食われてしまうでしょう",
+      "eng": "Without doubt, he will be swallowed by the Abyss,\r\novercome by its utter blackness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "……也许，要阻止深渊已经是不可能的事情，",
+      "jap": "…もう、深淵を留めることは、できないのかもしれません",
+      "eng": "...Indeed, the Abyss may be unstoppable...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "但我还是希望能力挽狂澜，至少救出幽暗公主也好……",
+      "jap": "私は、それでも救いたいのです。せめて宵闇様だけでも…",
+      "eng": "Still I have faith, that Princess Dusk  may be rescued yet...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0在营火休息后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "你是遥远未来的人吧？",
+      "jap": "あなたは、とても先の人",
+      "eng": "Thou art from a time far, far ahead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "那我有很多事想要请教你",
+      "jap": "とても沢山、聞きたいことがあるのだけど",
+      "eng": "There are many things I wish to ask.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "……不过，这并不是现在该做的事。",
+      "jap": "…でも、やはりそうするべきではありませんね",
+      "eng": "...But I know that I must not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "虽然很可惜，但这个时代的我，知道这个时代的事就好。",
+      "jap": "残念ですが、この時の私は、今この時のことを知るべきです",
+      "eng": "The perils of our time are overwhelming enough.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0在营火休息后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "呵呵……你觉得我很奇妙吗？",
+      "jap": "ふふ…私が不思議かしら",
+      "eng": "Hah hah...Was thine eye, glancing hither?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "没关系的，我自己也觉得很奇妙。",
+      "jap": "大丈夫よ、私も不思議だから",
+      "eng": "Thou needst not hide thy wonder.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "我竟然是朵香菇啊。",
+      "jap": "キノコですものね",
+      "eng": "I am a mushroom, after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "呵呵呵呵",
+      "jap": "ふふふふ",
+      "eng": "Hee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0在营火休息后，互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "话说回来，不久前也有人来访，",
+      "jap": "そういえば、少し前にも来客がありました",
+      "eng": "Not long ago, I had another visitor.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "和你一样很有人味，也是来自遥远的未来。",
+      "jap": "あなたと同じ、とっても人臭い、とても先の人",
+      "eng": "A human like thineself, from a far-away time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "可是……他和你不一样，非常邪恶……",
+      "jap": "でも…あなたと違い、とても悪い…",
+      "eng": "Only, he was dreadfully odious...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "或许他还停留在这个时代，",
+      "jap": "おそらく、まだこの時にあるでしょう",
+      "eng": "And I am afraid that he is still amongst us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "是穿着黑色大衣，戴黑色帽子的男子，请千万小心……",
+      "jap": "黒いコートと、帽子の男です。注意してくださいね…",
+      "eng": "He wore a hat and a long black coat...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0击杀马努斯后攀谈",
+      "jap": "#0話しかけた:ウーラシールの宵闇救出後",
+      "eng": "#0Talk-After defeating Manus",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "等你好久了。你已经救出了幽暗公主吧？",
+      "jap": "お待ちしておりました。宵闇様をお救い頂いたのでしょう",
+      "eng": "I have awaited thee. Thou hast rescued Princess Dusk,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "而且也击败了那古代人形怪物，\r\n更阻止了深渊。",
+      "jap": "それに、あの古い人の化け物も退治し、\r\n深淵すらを留められた",
+      "eng": "...and rid us of that terrible primeval human.\r\nEven halting the spread of the Abyss!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "我很感激你，也感激你肩负的伟大命运。",
+      "jap": "あなたと、あなたの偉大な運命に感謝します",
+      "eng": "I salute the grandeur of thine enterprise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "至少让我向你道声谢，",
+      "jap": "せめてですが、私にお礼をさせてください",
+      "eng": "Please, allow me to express my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "真的……太感谢你了。",
+      "jap": "ほんとうに…ありがとうございました",
+      "eng": "I thank thee... as do we all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0击杀马努斯后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すE・ウーラシールの宵闇救出後",
+      "eng": "#0Menu-Choose \"Talk\" after defeating Manus",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "关于你，今后我只会留在脑海里。",
+      "jap": "あなたのことは、私の記憶にのみ留めておきます",
+      "eng": "I will remember thee, but I will keep thy story to myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "你是遥远未来的人，我想这样做最为适当。",
+      "jap": "あなたは、とても先の人。多分それが、一番よいでしょうから",
+      "eng": "This is the best way, for thou art come from a time far ahead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "不过……即使无人歌颂，\r\n你仍然是伟大的英雄，",
+      "jap": "でも…たとえそれで、誰もあなたを歌わずとも\r\nあなたは偉大な英雄です",
+      "eng": "No-one will sing thy praises,\r\nbut yet thy greatness shall live on.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "知晓此事并永远不忘，将是我今后的使命。",
+      "jap": "それを知り、知り続けるのを、私の使命といたしましょう",
+      "eng": "For it shall be my purpose, to remember all thou hast done for us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "愿你得到火的指引。",
+      "jap": "あなたに炎の導きのあらんことを",
+      "eng": "May the flames guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "啊！",
+      "jap": "アッ！",
+      "eng": "Ah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "呜！",
+      "jap": "ウッ！",
+      "eng": "Ooh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "啊啊！",
+      "jap": "アアッ！",
+      "eng": "Aaah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "快住手！",
+      "jap": "やめなさい！",
+      "eng": "Stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0第5次受到攻击时",
+      "jap": "#0攻撃した:5回目",
+      "eng": "#0Upon being attacked-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "赶快住手！",
+      "jap": "やめてください！",
+      "eng": "Please, no!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0第6次受到攻击时",
+      "jap": "#0攻撃した:6回目",
+      "eng": "#0Upon being attacked-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "不要啊！",
+      "jap": "やめて！",
+      "eng": "Stop!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "呀────！",
+      "jap": "きゃあああああっ！",
+      "eng": "Aiieeek!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "啊────！",
+      "jap": "ぎゃあああああっ！",
+      "eng": "Aiieeegh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "呜，呜呜……",
+      "jap": "う、ううっ…",
+      "eng": "Ooh...aah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "为什么会这样……幽暗公主……",
+      "jap": "なぜ、こんな…宵闇様…",
+      "eng": "But, why... Why... Dear Dusk...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

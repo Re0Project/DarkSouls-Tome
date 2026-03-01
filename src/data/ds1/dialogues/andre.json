@@ -1,6 +1,1143 @@
 {
   "npc": "andre",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/andre.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/andre.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "唷，新来的。",
+      "jap": "よう、新顔だな",
+      "eng": "Well, you must be a new arrival.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是亚斯特拉的安德烈。",
+      "jap": "俺の名はアストラのアンドレイ",
+      "eng": "I'm Andre, of Astora.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我是个铁匠，要冶炼的话可以来找我。",
+      "jap": "見ての通り、鍛冶話なら、力になれると思うぜ",
+      "eng": "If you require smithing, then speak to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "唷，是你啊。",
+      "jap": "よう、あんたか",
+      "eng": "Well, hello again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "你看来没事，真是太好了。",
+      "jap": "まだ無事なようでなによりだ",
+      "eng": "You seem to be doing all right.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "有什么要冶炼的吗？",
+      "jap": "で、何を鍛えたいんだ？",
+      "eng": "Need anything forged?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "武器和防具都是很坚固耐用的没错，",
+      "jap": "武器や防具ってのは、そりゃあ丈夫なもんばっかりだ",
+      "eng": "Most weapons and armour are mighty sturdy indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "但是一直使用而不维修的话，是肯定会坏的，",
+      "jap": "だからって、酷使し続ければ、当然壊れちまう",
+      "eng": "But every hunk of metal has its breaking point.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "所以当武器防具的耐用度降低时，就要勤加修理。",
+      "jap": "だから、耐久度が下がってきたら、まめに修理してやってくれ",
+      "eng": "If you notice durability running low, it's time to repair.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "你可以拿给我这样的铁匠修，\r\n若有工具的话，你也可以自己修。",
+      "jap": "俺のような鍛冶に頼むのもいいし\r\n砥石があれば、自分でやることもできる",
+      "eng": "You can ask a blacksmith like meself,\r\nor do it on your own with a grindstone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "武器防具是你的战友，绝对不会背叛你的，",
+      "jap": "あいつらは戦友だ。決してあんたを裏切らない",
+      "eng": "The nice thing about weapons... they never betray you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "请好好地对待吧。",
+      "jap": "だから…大事にしてやってくれよ",
+      "eng": "So, pay them a little respect, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "武器的冶炼方式大致分为两种，\r\n强化和进化。",
+      "jap": "武器を鍛えるやり方は、大きく2つある。\r\n単純強化と、進化だ",
+      "eng": "There are two types of weapon forging.\r\nThere's reinforcement, and there's ascension.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "强化很简单，\r\n就是不改变武器性质，只强化武器。",
+      "jap": "単純強化は簡単だ。\r\n武器の性質を変えずに、その武器を強くする",
+      "eng": "Reinforcement is simple.\r\nIt strengthens the weapon and nothing more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "你可以拿给我这样的铁匠冶炼，\r\n有打铁箱时也可以自己做。",
+      "jap": "俺のような鍛冶は当然だが\r\n鍛冶箱があれば、自分でやることもできるぜ",
+      "eng": "A simple task for any blacksmith.\r\nHell, you could even do it yourself with a smithbox.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "但是进化就不同了，这会改变武器性质，是高等的冶炼技术。",
+      "jap": "だが、進化は違う。武器の性質を変える、高度な鍛冶だ",
+      "eng": "But ascension's a finer art. It alters a weapon's properties.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "所以进化不能用打铁箱自己搞，\r\n要交给我这种专业的来处理啦。",
+      "jap": "だから進化は、俺のような鍛冶の専売だ\r\n鍛冶箱ていどではどうにもならん",
+      "eng": "Ascension is the territory of we blacksmiths;\r\na smithbox just won't do the trick.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "不过强化会有到极限的时候，\r\n到那时再考虑要不要进化吧。",
+      "jap": "まあ、単純強化は、いずれ限界にぶち当たる\r\nそうしたら、進化を考えればいい",
+      "eng": "Start out with reinforcement.\r\nWhen that loses its charm, you can consider ascension.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "我想你也应该知道了，\r\n这片土地没有人是正常的。",
+      "jap": "あんたももう分かってるだろうが\r\nこの地には、まともの奴なんていやしない",
+      "eng": "As you've noticed,\r\nthis land is flush with the mad and wicked.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "武器一直不去冶炼的话，\r\n终究是会没有办法应付的。",
+      "jap": "尋常な武器のままじゃあ、\r\nとうてい刃が立たなくなっちまうぜ",
+      "eng": "You won't make it through the night\r\nwithout employing my services!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "哈哈哈",
+      "jap": "ウワッハッハッ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "嗯，防具的冶炼方式和武器几乎是相同的。",
+      "jap": "ああ、防具を鍛えるやり方も、武器とほとんど同じだ",
+      "eng": "You can forge armour just like you do weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "因为防具就只有强化，比武器更加简单啊。",
+      "jap": "単純強化だけだから、むしろ武器よりも簡単だな",
+      "eng": "Forging armour is even easier than forging weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "武器和防具，要哪个先冶炼就看你自己啦。",
+      "jap": "武器と防具、どっちを先に鍛えるのかはあんた次第だ",
+      "eng": "Whether you forge weapons or armour first? Well, that's up to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "我可不愿意看到你变成游魂啊，",
+      "jap": "俺だって、あんたの亡者は見たくもねえ",
+      "eng": "But nobody wants to see you go Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "请深思熟虑后再做决定吧。",
+      "jap": "よく考えて判断してくれよ",
+      "eng": "So, whatever you do, you'd better do it well!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "哈哈哈",
+      "jap": "ウワッハッハッ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0在营火休息后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4rd time, after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "这里是古老教堂，",
+      "jap": "ここは古い教会だ",
+      "eng": "This is the old church.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "你之前经过的不死教堂，\r\n是舍弃这里后才建的。",
+      "jap": "あんたの通ってきた不死教会は、\r\nここを棄てて建てられたんだ",
+      "eng": "It was abandoned in favour of\r\nthe church that you passed through.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "不过那不是重点，我要说的是这里通往两个古老禁区，\r\n赛恩古城及黑森林庭院。",
+      "jap": "だから、ってわけでもないが、ここは2つの\r\n古い禁域につながってる。センの古城と、黒い森の庭だ",
+      "eng": "There are paths leading from here to two forbidden planes:\r\nSen's Fortress, and the Darkroot Garden.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "赛恩古城及黑森林庭院，都不是什么正常人会去的地方",
+      "jap": "どっちも、まともな奴が訪れる場所じゃあない",
+      "eng": "They attract all sorts of lunatics, no-one as cultured as yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "……但我也没看过什么正常的不死人就是了。",
+      "jap": "…もっとも、まともな不死など見たこともないけどな",
+      "eng": "It's fine to be Undead, but keep a level head, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "哈哈哈",
+      "jap": "ウワッハッハッ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0在营火休息后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5rd time, after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "赛恩古城是古代神所建造，用来考验人的，",
+      "jap": "センの古城ってのは、古い神々が作った試練の道だ",
+      "eng": "Sen's Fortress is an old proving grounds built by the ancient gods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "传说从那往前走，有神的城堡──\r\n伟大的亚诺尔隆德。",
+      "jap": "その先には、彼らの居城\r\n偉大なるアノール・ロンドがあると言われている",
+      "eng": "It is the only route leading to\r\nthe great Anor Londo.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "话说回来，\r\n大部分的不死人是连进到古城都办不到的，",
+      "jap": "もっとも、古城自体に入ることだって\r\nできやしないのが大半だがな",
+      "eng": "Of course, most fools can't even\r\nfind their way into that fortified deathtrap.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "就像那个洋葱骑士一样。",
+      "jap": "あのタマネギ卿とかな",
+      "eng": "But they won't stop trying! Take that bumbling Sir Onion...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "哈哈哈",
+      "jap": "ウワッハッハッ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0在营火休息后，互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すF",
+      "eng": "#0Menu-Choose \"Talk\" 6rd time, after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "我也不太清楚黑森林庭院的事。",
+      "jap": "黒い森の庭ってのは、俺にもよくわからない",
+      "eng": "I know little of the Darkroot Garden.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "不过听说以前那边\r\n有一位会冶炼的圣职。",
+      "jap": "だが、かつてあそこに、\r\n聖職の鍛冶がいたって噂があってな…",
+      "eng": "Although I've heard rumours of\r\na divine blacksmith who resides there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "在地下墓地一带遇到瓶颈的那些家伙，\r\n因为想要神圣武器，所以常常到这里来。",
+      "jap": "地下墓地あたりでどうにもならなくなったやつらが\r\n神聖の武器欲しさに、よくここを通るのさ",
+      "eng": "Those who get stumped in the Catacombs\r\nseek him for divine weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0开启小隆德水门后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すF・小ロンド遺跡の水門開放後",
+      "eng": "#0Menu-Choose \"Talk\" 6rd time, after opening the floodgates in New Londo",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "啊，对了，还有一件关于黑森林庭院的传闻。",
+      "jap": "ああ、そういえば、黒い森の庭には、もうひとつ話があるんだ",
+      "eng": "Oh, yes, and one other thing about the Darkroot Garden.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "据说那边有“漫步深渊”的骑士，亚尔特留斯的坟墓。",
+      "jap": "なんでも、「深淵歩き」の騎士アルトリウスの墓があるってな",
+      "eng": "It is said to house the grave of Sir Artorias the Abysswalker.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "不过，告诉我传闻的那些到森林去的人，\r\n一个都没回来……",
+      "jap": "もっとも、そう言って森に向かった連中\r\n誰も帰ってきやしないんだがな…",
+      "eng": "Only, of those who ventured into the forest,\r\nnone has returned.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0持有大块余烬时攀谈",
+      "jap": "#0話しかけた:大きな種火を入手後",
+      "eng": "#0Talk-After obtaining the Large Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "喂，你手上有不错的余烬啊。",
+      "jap": "おう、あんた、いい種火を持ってるじゃないか",
+      "eng": "Ahh, why, that's a fine ember you have there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "把余烬交给我吧，怎样？",
+      "jap": "どうだ、その種火、俺に預けてみないか？",
+      "eng": "I could smith some mighty weapons with one of those.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "给我的话，我就可以做出更好的武器喔。",
+      "jap": "そうすれば、もっといい武器を作れると思うぜ",
+      "eng": "Why not lend it to me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0您要将大块余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:大きな種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Large Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "好吧……真可惜……",
+      "jap": "そうか…残念だ…",
+      "eng": "I see...'Tis a pity...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0您要将大块余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:大きな種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Large Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "太好了，就交给我吧。",
+      "jap": "よし、任せてくれ",
+      "eng": "Magnificent! You won't be disappointed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "看我展现铁匠的实力吧。",
+      "jap": "俺の太腕が鳴るぜ…",
+      "eng": "I can hardly wait to get started...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0持有特大块余烬时攀谈",
+      "jap": "#0話しかけた:とても大きな種火を入手後",
+      "eng": "#0Talk-After obtaining the Very Large Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "喂，你手上有很棒的余烬啊！",
+      "jap": "おう、あんた、すごい種火じゃないか！",
+      "eng": "Well, I'll be! That's a brilliant ember you've got there!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "我打铁这行做这么久了，没看过这么棒的！",
+      "jap": "長く鍛冶をやってるが、そんなのは見たこともねえ！",
+      "eng": "For all my years in the trade, that might be the finest!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "把余烬交给我吧，拜托啦？",
+      "jap": "なあ、その種火、俺に預けてくれないか？",
+      "eng": "How's about...you leave that ember with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "我好歹是个打铁的，\r\n看到这么棒的东西，实在是忍不住啊。",
+      "jap": "俺も鍛冶のはしくれだ\r\nそんなもの見せられちゃあ、もう、たまらないんだ",
+      "eng": "I'm just an old smith.\r\nI'd give my left arm for a gem like that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0您要将特大块余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:とても大きな種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Very Large Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "好吧……那真可惜……",
+      "jap": "そうか…それは残念だ…",
+      "eng": "I see...'Tis a pity...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "但是……",
+      "jap": "だが…",
+      "eng": "But perhaps you'd...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "啊，没，没关系……",
+      "jap": "いや、いやいや、仕方ねえ…",
+      "eng": "No, no, it's quite all right...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "没关系……",
+      "jap": "仕方ねえんだ…",
+      "eng": "Quite all right, indeed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0您要将特大块余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:とても大きな種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Very Large Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "是吗！要给我吗！",
+      "jap": "そうか！預けてくれるか！",
+      "eng": "Well! Thank you mightily for that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "太好了，就交给我吧！",
+      "jap": "ようし、だったら任せてくれ！",
+      "eng": "Now, just leave the rest to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "我办事你放心，就交给我亚斯特拉的安德烈吧！",
+      "jap": "アストラのアンドレイ、あんたの期待にこたえて見せるぜ！",
+      "eng": "Andre of Astora gets the job done, you shall see!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0持有圣职余烬时攀谈",
+      "jap": "#0話しかけた:聖職の種火を入手後",
+      "eng": "#0Talk-After obtaining the Divine Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "喂，你有个很少见的余烬啊！",
+      "jap": "おう、あんた、めずらしい種火を持ってるじゃないか",
+      "eng": "My, that's a rare ember you have there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "我有看过一次……\r\n这是圣职冶炼用的余烬啊。",
+      "jap": "一度だけ見たことがある…\r\nそれは、聖職の鍛冶の種火だ",
+      "eng": "I've seen one of those before...\r\nIt's the ember of a divine blacksmith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "把余烬交给我吧，怎样？",
+      "jap": "どうだ、その種火、俺に預けてみないか？",
+      "eng": "Might you consider leaving that with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "搞不好可以制作出神圣武器啊。",
+      "jap": "神聖の武器が鍛えられるかもしれないぜ",
+      "eng": "I could produce divine weapons with a flame such as that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0您要将圣职余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:聖職の種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Divine Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "好吧……那真遗憾……",
+      "jap": "そうか…それは残念だ…",
+      "eng": "I see...'Tis a pity...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0您要将圣职余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:聖職の種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Divine Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "喔，要给我吗！",
+      "jap": "おう、預けてくれるか！",
+      "eng": "Well, thanks for that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "正确的判断！就交给我吧！",
+      "jap": "いい判断だ！まあ、俺に任せときな！",
+      "eng": "You've made a fine decision. You soon shall see!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0持有大块圣职余烬时攀谈",
+      "jap": "#0話しかけた:大きな聖職の種火を入手後",
+      "eng": "#0Talk-After obtaining the Large Divine Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "喂，你手上有很棒的余烬啊……",
+      "jap": "おう、あんた、すごい種火を持ってるじゃないか…",
+      "eng": "Oh, my, what a brilliant ember you have there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "连我都只听过，还没看过……",
+      "jap": "俺も、噂でしかしらないが…",
+      "eng": "I've only heard legends of such specimens...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "这余烬，一定是圣职在秘密仪式用的……",
+      "jap": "そりゃあ、その種火は、聖職の秘儀に違いないぜ…",
+      "eng": "The embers used for the secret rites of divine blacksmiths...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "把余烬交给我吧，拜托啦？",
+      "jap": "なあ、その種火、俺に預けてくれないか？",
+      "eng": "Perhaps you could lend it to me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "这样一来，我就可以实现制作神圣武器的心愿了。",
+      "jap": "こうなったら、神聖の武器を究めてみたいんだ",
+      "eng": "I've long dreamed of forging divine weapons...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0您要将大块圣职余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:大きな聖職の種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Large Divine Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "好吧……那真可惜……",
+      "jap": "そうか…それは残念だ…",
+      "eng": "I see...'Tis a pity...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "没关系，那本来就是你的……",
+      "jap": "だが、そいつはあんたのものだ。仕方ねえな…",
+      "eng": "I can't expect you to give up what's yours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0您要将大块圣职余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:大きな聖職の種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Large Divine Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "喔，要给我吗！太感谢了！",
+      "jap": "おう！預けてくれるか！ありがとよ！",
+      "eng": "Ah-hah! Splendid, splendid! Thank you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "我亚斯特拉的安德烈，绝对不会让你失望的！",
+      "jap": "アストラのアンドレイ、あんたに損はさせないぜ！",
+      "eng": "Andre of Astora never disappoints, I assure you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "#0持有黑暗余烬时攀谈",
+      "jap": "#0話しかけた:暗い種火を入手後",
+      "eng": "#0Talk-After obtaining the Dark Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 99,
+      "chn": "嗯？你拥有的那个余烬……",
+      "jap": "うん？あんた、その種火は…",
+      "eng": "Hrm? Show me that ember of yours...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "黑色的余烬，从来没有听过耶……",
+      "jap": "黒い種火なんて、聞いたこともないぜ…",
+      "eng": "Well, I've never heard of a black ember.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "嗯……",
+      "jap": "むぅ…",
+      "eng": "Hmmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "把余烬交给我看看吧，拜托啦？",
+      "jap": "なあ、その種火、俺に預けてみないか？",
+      "eng": "How about leaving that ember with me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "不知道为什么，就有股诱人的感觉……",
+      "jap": "よく分からないが、何か惹かれるんだ…",
+      "eng": "I find it strangely fascinating..",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#0您要将黑暗余烬交给对方吗？选择「否」",
+      "jap": "#0話しかけた:暗い種火を入手後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to giving the Dark Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 105,
+      "chn": "好吧……没关系。",
+      "jap": "そうか…まあいい",
+      "eng": "Are you sure? Well, fair enough.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "真可惜，我就当做没看过吧。",
+      "jap": "残念だが、忘れることにするさ",
+      "eng": "Tis a pity, but I'll live.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0您要将黑暗余烬交给对方吗？选择「是」",
+      "jap": "#0話しかけた:暗い種火を入手後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to giving the Dark Ember",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "是吗，要给我吗！",
+      "jap": "そうか、預けてくれるか",
+      "eng": "Yes, well! Thank you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "好棒的余烬啊。\r\n实在是很吸引人……",
+      "jap": "これはすごい種火だ。\r\nどうしようもなく惹きこまれる…",
+      "eng": "This ember really is something special.\r\nI'm already under its spell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "我有好预感……",
+      "jap": "いい予感がするぜ…",
+      "eng": "I sense great potential, indeed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0持有其他余烬时攀谈",
+      "jap": "#0話しかけた:アストラの鍛冶屋アンドレイが扱えない種を火入手後",
+      "eng": "#0Talk-While holding an ember he cannot use",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "喂，你手上有个奇怪的余烬耶。",
+      "jap": "おう、あんた、変な種火を持ってるな",
+      "eng": "Hmm, that's an odd ember you have there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "……我知道你想说什么，\r\n但是这已超出我的能力范围，",
+      "jap": "…まあ、言いたいことは分かる\r\nでも、それは、俺の仕事にはあわんぜ",
+      "eng": "Ahh, I know what you're thinking.\r\nBut I'm no good with those.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "抱歉，请你找别人吧。",
+      "jap": "すまんが、他をあたってくれよ",
+      "eng": "It won't be easy, but...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "不过，我想应该没有人会……",
+      "jap": "もっとも、そんなのがいりゃあいいんだがな…",
+      "eng": "I'm afraid you'll have to look for someone else.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 117,
+      "chn": "……可不要死了喔。",
+      "jap": "…死ぬんじゃねえぜ",
+      "eng": "Don't get yourself killed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "我可不想看到你变成游魂的样子。",
+      "jap": "あんたの亡者なんて、見たくもねえ…",
+      "eng": "Neither of us want to see you go Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 120,
+      "chn": "……再会啦。",
+      "jap": "…じゃあな",
+      "eng": "I'll be seeing you, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "可不要太逞强啊……",
+      "jap": "あんまり無理するんじゃねえぜ…",
+      "eng": "Be careful out there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 123,
+      "chn": "喂，你要去哪里啊？",
+      "jap": "おい、どこへ行くんだ？",
+      "eng": "Oi, where're you off to?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 125,
+      "chn": "你刚才是突然怎么了，真是的。",
+      "jap": "突然どうしたんだ、まったく",
+      "eng": "What's going on with you, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "我还以为你变成游魂了呢。",
+      "jap": "亡者になっちまったかと思うじゃないか",
+      "eng": "I thought you'd gone Hollow there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "哈哈哈",
+      "jap": "ウワッハッハッ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 129,
+      "chn": "好痛！",
+      "jap": "イテェッ！",
+      "eng": "Ow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 131,
+      "chn": "会痛的耶！",
+      "jap": "イテェだろうが！",
+      "eng": "Owww, that hurts!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 133,
+      "chn": "好样的，你玩真的！",
+      "jap": "手前、いい度胸だ！",
+      "eng": "Well, you've got some nerve!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "不要给我开玩笑！",
+      "jap": "ふざけた真似しやがって！",
+      "eng": "Coming at me like that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "看我宰了你！臭游魂！",
+      "jap": "ぶっころしてやるぞ！亡者め！",
+      "eng": "I'll tear you to shreds! You bloody Hollow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 137,
+      "chn": "混蛋……",
+      "jap": "くそ野郎が…",
+      "eng": "Curses, you damn backstabber...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##你在烦恼没办法进入不死教堂吗？",
+      "jap": "##不死教会に入れなくて困ってるのか？",
+      "eng": "##Having trouble accessing the Undead Church?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##拿这把钥匙去用吧。",
+      "jap": "##だったら、この鍵をくれてやる",
+      "eng": "##Here, take this key.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##反正我已经用不到了。",
+      "jap": "##どうせ俺には、無用だからな",
+      "eng": "##I won't be needing it anymore.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "##强化不难，有打铁箱就可以自己强化，\r\n进化的话就要交给我这种专业的。",
+      "jap": "##単純強化は簡単で、鍛冶箱があれば自分でやることもできるが\r\n進化は俺のような鍛冶の専売だ",
+      "eng": "##Reinforcement is easy enough. You only need a smithbox.\r\nBut ascension is the territory of we blacksmiths.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,639 @@
 {
   "npc": "grandahl",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/grandahl.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/grandahl.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0在茫然遗迹/黑溪谷/王城多兰古雷格，第1次与格蓝达尔见面时，第1次说话",
+      "jap": "#0話しかけた(候補地1):1回目",
+      "eng": "#0Talk-1st time, at 1st location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喔，这种地方有不死人在啊。",
+      "jap": "おお、不死がおる、こんなところにな",
+      "eng": "Ahh, look how far this Undead has wandered.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "这又是个素质不错的不死人。",
+      "jap": "これまた、よくできた不死だ",
+      "eng": "And a very fit Undead you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "虽然还有些生气勃勃的，但阴影很浓，\r\n身上的黑暗还不至于太深。",
+      "jap": "少し活きとはしているが、影は濃い\r\nだが深い闇を持つには至っていないよう",
+      "eng": "A bit too alive, but with a darkish shadow.\r\nYet still unprepared. For a deeper Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "可是不管怎样，都是没有未来的不死人。",
+      "jap": "しかしながら、いつも通りの、先のない不死人だ",
+      "eng": "And like every Undead, you have no future.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "唔……抱歉。\r\n说笑而已，你当作没听到吧。",
+      "jap": "む…すまない\r\nただの戯言だ、聞き流してくれ",
+      "eng": "Ooh, my, don't mind me.\r\nI'm just talking amongst myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "不死人啊，如果你真的需要黑暗……那我们应该还会再见面。",
+      "jap": "不死よ、お前が本当に闇を必要とする者なら…また会えるだろう",
+      "eng": "But if you find a need for a truer Dark, then meet again, we shall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第1次与格蓝达尔见面时，第2次说话",
+      "jap": "#0話しかけた(候補地1):2回目",
+      "eng": "#0Talk-2nd time, at 1st location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "现在的你，黑暗还不够……\r\n愿黑暗保佑你……",
+      "jap": "今のお前にはまだ闇が足りておらん…\r\n闇あらんことを…",
+      "eng": "The Dark is still nascent within you.\r\nMay the Dark shine your way...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0到达第2个见面地点时，第1次说话",
+      "jap": "#0話しかけた(候補地2):1回目",
+      "eng": "#0Talk-1st time, at 2nd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "不死人啊，你还是一副被诅咒的样子。",
+      "jap": "不死よ、相変わらずの呪われぶり",
+      "eng": "Young Undead, don't let this curse weigh upon you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "既然我们都见过两次了，\r\n也许你会走上黑暗之道。",
+      "jap": "二度も会いまみえたとなれば\r\nお前は闇を歩ける者となるやもしれぬ",
+      "eng": "We meet a second time.\r\nPerhaps you will yet traverse the Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "不死人啊，去追求更深的黑暗，\r\n如果有缘，我们还会见面的。",
+      "jap": "不死よ、より強く闇を望み、我々に縁あれば\r\nまた会うことになるだろう",
+      "eng": "Young Undead, if you truly seek the Dark,\r\nthen we will surely meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0到达第2个见面地点时，第2次说话",
+      "jap": "#0話しかけた(候補地2):2回目",
+      "eng": "#0Talk-2nd time, at 2nd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "再见了，在某一天、某个地方……",
+      "jap": "また会おう、いつか、どこかで…",
+      "eng": "May we meet again, somewhere, some time...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0到达第3个见面地点时说话",
+      "jap": "#0話しかけた(候補地3):1回目",
+      "eng": "#0Talk-1st time, at 3rd location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "喔，又见面了，\r\n不死人。",
+      "jap": "おお、また会えたな\r\n不死よ",
+      "eng": "We meet again,\r\nyoung Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "看来你已有足够实力追寻黑暗了。",
+      "jap": "どうやらお前は闇を追うに足る者のようだ",
+      "eng": "You have the look of a true seeker.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我是潜身黑暗的格蓝达尔。\r\n追求黑暗、给予黑暗者。",
+      "jap": "私は闇潜りのグランダル\r\n闇を求め、闇を与える者",
+      "eng": "I am Darkdiver Grandahl,\r\nseeker of Dark, giver of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "如果你真的想要黑暗，我就给你吧。\r\n不用支付任何代价。",
+      "jap": "お前が真に闇を欲するならば、私は与えよう\r\nただ与えよう",
+      "eng": "If you seek true Dark, I will grant it to you.\r\nAs much as you desire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "怎么样……你想要黑暗吧？",
+      "jap": "さて、不死よ…闇を欲するかね？",
+      "eng": "Well, then... Is Dark what you wish for?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0是否订立暗之朝圣者誓约？选择「否」",
+      "jap": "#0話しかけた(候補地3):1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "唔……我看错人了吗？",
+      "jap": "ふむ…見当違いだったか",
+      "eng": "Hmm... Perhaps I was wrong.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "好好好……忘了这件事。",
+      "jap": "よいよい…忘れるがよい",
+      "eng": "No, no, just ignore me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "不死人啊，愿黑暗关照你要走的这条路……",
+      "jap": "不死よ、お前の進む道に闇あらんことを…",
+      "eng": "Young Undead, may the Dark shine your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0选择「否」后，或撕毁誓约后说话",
+      "jap": "#0話しかけた:【NO】を選択後か、誓約破棄後に話しかけた",
+      "eng": "#0Talk-After choosing \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "又来了吗？\r\n不死人。",
+      "jap": "また来たか\r\n不死よ",
+      "eng": "We meet again,\r\nyoung Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "不死人啊，你想要黑暗的引导吗？",
+      "jap": "不死よ、闇の導きを望むのかね？",
+      "eng": "Do you wish to be guided by Dark?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0是否订立暗之朝圣者誓约？选择「否」",
+      "jap": "#0話しかけた:【NO】を選択後か、誓約破棄後に話しかけた・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "那么你走自己的路就好。",
+      "jap": "ならば、お前はお前の道を歩むがよい",
+      "eng": "Then choose your own path.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0是否订立暗之朝圣者誓约？选择「是」",
+      "jap": "#0話しかけた(候補地3):1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "那么从现在起你就是黑暗的朝圣者。",
+      "jap": "それでは、お前は今から闇の巡礼者だ",
+      "eng": "There you are, you are now a Pilgrim of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "黑暗的深渊会邀请你。",
+      "jap": "闇の穴がお前をいざなうだろう",
+      "eng": "The Dark Chasm beckons you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "被黑暗吸引的人，只能追求黑暗……",
+      "jap": "闇に惹かれた者は、闇を追うしかないのだ…",
+      "eng": "Those drawn to the Dark are destined to seek it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0加入暗之朝圣者誓约后说话，第1次说话",
+      "jap": "#0話しかけた:誓約を結んだあと",
+      "eng": "#0Talk-After choosing \"Yes\" to the 1st query, 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "你来啦，不死者。",
+      "jap": "よく来たな、不死よ",
+      "eng": "Finally, you are here, young Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "来吧，打开最深的黑暗。",
+      "jap": "さあ、闇の底を開けるがよい",
+      "eng": "Now, open the depths of darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "不死人啊，黑暗正在等着你。",
+      "jap": "不死よ、闇はお前を待っている",
+      "eng": "Young Undead, the Dark awaits you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0加入暗之朝圣者誓约后说话，第2次说话",
+      "jap": "#0話しかけた:誓約を結んだあと、2回目",
+      "eng": "#0Talk-After choosing \"Yes\" to the 1st query, 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "不死人啊，找我还有什么事？",
+      "jap": "不死よ、まだ私に何か用か？",
+      "eng": "Young Undead, what do you desire?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0互动列表-选择「交付人像」",
+      "jap": "#0リストから選択:話す・闇の穴が開いていない",
+      "eng": "#0Menu-Choose \"Give Humany Effigy\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "黑暗的洞口并非随时都开启。",
+      "jap": "闇の穴は、いつも開かれるものではない",
+      "eng": "The mouth to the Dark Chasm is not normally open.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "如果你期望黑暗的话，\r\n不死人，就在这里用\"人像\"。",
+      "jap": "闇を望むなら\r\n不死よ\"人の像\"をこれに",
+      "eng": "If you seek the Dark, young Undead,\r\nyou must offer a human effigy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0人像要交付出去吗？选择「否」",
+      "jap": "#0リストから選択:話す・闇の穴が開いていない:選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "好好好……\r\n那样也好……",
+      "jap": "よいよい\r\nそれもよいだろう…",
+      "eng": "Yes, very well,\r\nas you wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0人像要交付出去吗？选择「是」",
+      "jap": "#0リストから選択:話す・闇の穴が開いていない:選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "不死人啊，\r\n愿黑暗保佑你。",
+      "jap": "不死よ\r\nお前に闇あらんことを",
+      "eng": "Young Undead,\r\nmay the Dark shine your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0交付人像后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・闇の穴が開いている",
+      "eng": "#0Menu-Choose \"Talk\" after offering him a Human Effigy",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "黑暗是甜美温柔的，\r\n好得让你忘掉一切、吞噬掉你。",
+      "jap": "闇は甘く優しい\r\n何もかもを忘れ、呑みこまれるほどに",
+      "eng": "The embrace of the Dark is gentle.\r\nLet it absorb your sorrows, forever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0提升暗之朝圣者誓约到等级1后说话",
+      "jap": "#0誓約のランクが1になった",
+      "eng": "#0Talk-After reaching rank +1 as a member of the Pilgrims of Dark Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "不死人啊，\r\n你背负的黑暗比我预料到的更深。",
+      "jap": "不死よ\r\nお前の背負う闇は、私が想像したものより深いようだ",
+      "eng": "Young Undead,\r\nthe Dark beset upon you runs deeper than I had imagined.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "那么我就看着你能够\r\n背负多少黑暗到最后吧。",
+      "jap": "ならば私は、お前がどれほどの闇を背負えるか\r\n見届けるとしよう",
+      "eng": "Let us see just how much\r\nDark you can endure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "环绕着你的黑暗，是从远古时代就存在的。",
+      "jap": "お前が巡った闇は、それはそれは太古から存在するもの",
+      "eng": "You have seen Dark that has existed from times long past.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "过去巨大又空洞的黑暗，曾经一度化为碎片。",
+      "jap": "かつては大いなるうつろであった闇は、一度はかけらとなった",
+      "eng": "What once was a great void of darkness became but fragments.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "但是花费漫长的岁月，它被喂养着，吞噬着一切。",
+      "jap": "しかし長い時をかけ、すべてを飲み込みながら育っている",
+      "eng": "But slowly, the scattered fragments grew, absorbing all things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "去那里朝圣就是我们的职责。",
+      "jap": "そこをめぐるのが、我々の役目なのだ",
+      "eng": "It is we who will be pilgrims to these sacred sites.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0提升暗之朝圣者誓约到等级2后说话",
+      "jap": "#0誓約のランクが2になった",
+      "eng": "#0Talk-After reaching rank +2 as a member of the Pilgrims of Dark Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "我的眼光果然没错。",
+      "jap": "やはり私の目に間違いはなかった",
+      "eng": "I knew that you were special.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "你确实是黑暗的朝圣者。",
+      "jap": "お前こそ闇を巡る者",
+      "eng": "You are a true Pilgrim of Dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "黑暗之中还存在着你不知道的黑暗。",
+      "jap": "闇の中には、まだお前の知らぬ闇がある",
+      "eng": "There is more Dark within you than even you know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "黑暗是世界之母，一切都是诞生自黑暗。",
+      "jap": "闇は世界の母、全ては闇から生まれ出るのだ",
+      "eng": "Dark is the mother of all. All things were born from it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0提升暗之朝圣者誓约到等级3后说话",
+      "jap": "#0誓約のランクが3になった",
+      "eng": "#0Talk-After reaching rank +3 as a member of the Pilgrims of Dark Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "不死人啊，找出你体内真正的黑暗。",
+      "jap": "不死よ、おまえの中に真の闇を見出した",
+      "eng": "Young Undead, you've discovered the truest Dark within you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "深深的黑暗。",
+      "jap": "深い、深い闇だ",
+      "eng": "A deep, deep Dark it is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "那个黑暗就是我们应当对峙的对象。",
+      "jap": "その闇こそ、私たちが対峙すべきもの",
+      "eng": "The Dark that we must all face.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "我们是需要深渊的……",
+      "jap": "私たちには深淵が必要なのだ…",
+      "eng": "We need the Abyss, more now than ever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0击杀黑暗潜伏者后说话",
+      "jap": "#0話しかけた:闇潜みを擊破後",
+      "eng": "#0Menu-Choose \"Talk\" after defeating the Darklurker",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "这个就交给你吧。\r\n交给适合当黑暗朝圣者的你……",
+      "jap": "お前にこれを渡しておこう\r\n闇を巡るにふさわしいお前に…",
+      "eng": "I bequeath these to you.\r\nTake them on your pilgrimage...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "愿黑暗保佑你……",
+      "jap": "お前に闇あらんことを…",
+      "eng": "May the Dark shine your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "好好好……那样也好。",
+      "jap": "よいよい…それもよいだろう",
+      "eng": "As you wish, yes, as you wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "你看我这样子就以为可以轻易杀了我吗？不死人。",
+      "jap": "この姿なら容易く屠れると思ったか、不死よ",
+      "eng": "Young Undead, do you expect me to just keel over?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "你的黑暗还不够……",
+      "jap": "お前には闇が足りぬよ…",
+      "eng": "The Dark within you is faded and pale...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "你……黑暗……",
+      "jap": "そなた…闇を…",
+      "eng": "The Dark...how could you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "##不死人啊，我的职责已经结束了……",
+      "jap": "##不死よ、私の役目は終わった…",
+      "eng": "##Young Undead, my work is done...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

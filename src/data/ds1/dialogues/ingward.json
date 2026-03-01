@@ -1,6 +1,1055 @@
 {
   "npc": "ingward",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/ingward.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/ingward.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喔，真没想到会有人造访这种地方。\r\n除了幽灵外，已经好久没人来了呢。",
+      "jap": "ほう、こんなところに訪問者とは。\r\n幽霊以外は久しぶりじゃ",
+      "eng": "Well, this is a surprise.\r\nI don't get many visitors, except for ghosts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你有何贵干呢？",
+      "jap": "何か用かの？",
+      "eng": "Do you have some business here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我名叫英果德，",
+      "jap": "わしの名はイングウァード",
+      "eng": "My name is Ingward.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "是个因为某种原因，动弹不得的老头子……",
+      "jap": "わけあって、この場も動けぬ老いぼれじゃが…",
+      "eng": "I'm an old man, bound to these parts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "好久没人陪我聊天了，只要我能力所及，自当尽力帮忙。",
+      "jap": "久しぶりの話し相手じゃ。できることなら協力するぞ",
+      "eng": "But I don't mind a chat. I may even be of some help.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0初次攀谈前被诅咒时，第1次攀谈",
+      "jap": "#0話しかけた:1回目・呪われている",
+      "eng": "#0Talk-1st time while Cursed",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "喔，真没想到会有人造访这种地方。\r\n除了幽灵外，已经好久没人来了……",
+      "jap": "ほう、こんなところに訪問者とは。\r\n幽霊以外は久しぶりじゃが…",
+      "eng": "Well, this is a surprise.\r\nI don't get many visitors, except ghosts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "你……应该是遭到咒死的吧？所以才来这里找我。",
+      "jap": "お前さん…呪死したのじゃな？だからわしを訪ねてきたか",
+      "eng": "Oh, cursed, are you? Is that what brings you to me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "吃了不少苦吧？不过，你可以放心了。",
+      "jap": "苦労じゃったのう。じゃが、もう大丈夫じゃ",
+      "eng": "It is a wise choice. Your troubles will soon be over.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "我名叫英果德，",
+      "jap": "わしの名はイングウァード",
+      "eng": "My name is Ingward.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "是个因为某种原因，动弹不得的老头子……",
+      "jap": "わけあって、この場も動けぬ老いぼれじゃが…",
+      "eng": "I'm an old man, bound to these parts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "解除你的诅咒这点事，我还办得到。",
+      "jap": "お前さんの呪いを解くことくらいはできるじゃろう",
+      "eng": "But cleansing your curses; that I can do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "不过，解咒原本是神的技艺，\r\n你得做好付出相对牺牲的觉悟……",
+      "jap": "じゃが、解呪は本来神の業じゃ\r\n相応の犠牲は、覚悟するのじゃぞ…",
+      "eng": "The breaking of curses is the territory of deities.\r\nYou must be prepared to give some of yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "我是封印的守护者。",
+      "jap": "わしは、封印の番じゃ",
+      "eng": "I am the Guardian of the Seal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "这个封印，封住了吸魂鬼的主人──小隆德四王。",
+      "jap": "ダークレイスの主、四人の小王を封じておる",
+      "eng": "I watch over the Four Kings, the masters of the Darkwraiths.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "吸魂鬼是人和所有\r\n具灵魂生物的敌人。",
+      "jap": "ダークレイスは、\r\n人と、ソウルで生きる全ての敵",
+      "eng": "The Darkwraiths are the enemies of man,\r\nand any living thing that has a soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "那群家伙就是生自小隆德，\r\n而光是为了封印他们，便导致了此地毁灭。",
+      "jap": "この小ロンドは、奴らを生み\r\nただそれを封じるために、滅びたのじゃ",
+      "eng": "They were born in New Londo, and that is where they perished;\r\nthe entire city was sacrificed to contain them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "……他们就是一群如此恐怖的家伙……",
+      "jap": "…それほどに、あれは恐ろしい存在なのじゃよ…",
+      "eng": "...For that is how great a threat they were...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0初次攀谈前获得王器时，第1次攀谈",
+      "jap": "#0話しかけた:1回目・王の器を入手している",
+      "eng": "#0Talk-Meeting after receiving the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "喔，真没想到会有人造访这种地方。\r\n除了幽灵外，已经好久没人来了……",
+      "jap": "ほう、こんなところに訪問者とは。\r\n幽霊以外は久しぶりじゃが…",
+      "eng": "Well, this is a surprise.\r\nI get few visitors, save for ghosts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "你……拥有王器……？",
+      "jap": "お前さん…王の器をもっとるのか…",
+      "eng": "You have...the Lordvessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "我了解你想做什么了。",
+      "jap": "お前さんの目的は、分かっちょる",
+      "eng": "I know exactly what your intentions are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "你想找我封印的小隆德四王，对吧？",
+      "jap": "わしの封印しとる、四人の小王に用があるのじゃろう",
+      "eng": "You seek the Four Kings whom I guard over.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "这把就是封印钥匙。",
+      "jap": "これが、封印の鍵じゃ",
+      "eng": "This is the key to the seal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "小隆德四王便待在这座遗迹的最深处。",
+      "jap": "四人の小王は、この遺跡の最深部におる",
+      "eng": "The Four Kings slumber in the deepest chamber of the ruins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "你只要用这把钥匙解开封印……打开水门并向前走就可以了。",
+      "jap": "この鍵で、封印を解き…水門を開いて、進むがよい",
+      "eng": "Use this key to break the seal and open the floodgates.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "……对了，我还要给你一个忠告。",
+      "jap": "…ああ、それから、ひとつ忠告じゃ",
+      "eng": "...Oh, and do not forget...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "那群家伙居住在叫作深渊的黑暗中，",
+      "jap": "奴らは、深淵と呼ばれる、闇に住んでおる",
+      "eng": "The Darkwraiths reside in a dark void called the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "那是个寻常人所无法前往的场所……",
+      "jap": "そこは、尋常な人の赴ける場所ではないが…",
+      "eng": "But the Abyss is no place for ordinary mortals.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "但据说在很久以前，有个骑士亚尔特留斯曾走进深渊。",
+      "jap": "はるか昔、騎士アルトリウスだけが、深淵を歩いたという",
+      "eng": "Although long ago, the knight Artorias traversed the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "如果找到他并借助他的力量，\r\n说不定就能成功地进入深渊……",
+      "jap": "彼を探し、力を借りれば\r\nあるいは、深淵に入れるかもしれぬぞ…",
+      "eng": "If you can find him, and learn from him,\r\nthe Abyss may prove surmountable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0初次攀谈前获得王器时，第2次攀谈",
+      "jap": "#0話しかけた:2回目・王の器を入手している",
+      "eng": "#0Talk-2nd time after receiving the Lordvessel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "是你呀，你怎么啦？",
+      "jap": "お前さんか。どうしたのじゃ？",
+      "eng": "Hello there. What is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "我将封印钥匙托付给你了。\r\n有什么问题就说吧，我会尽力帮忙。",
+      "jap": "封印の鍵を託したのじゃ\r\nわしにできることなら、なんでも協力するぞ",
+      "eng": "The key to the seal is now in your hands.\r\nI will help you in any way possible.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "又是你呀，你怎么啦？",
+      "jap": "またお前さんか。どうしたのじゃ？",
+      "eng": "Hello again. How are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0初次攀谈前被诅咒时，第3次攀谈",
+      "jap": "#0話しかけた:初回会話時に呪われていた",
+      "eng": "#0Talk-3nd time after meeting while Cursed",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "喔，是你呀。你怎么啦？",
+      "jap": "おお、お前さんか。どうしたのじゃ？",
+      "eng": "Oh, hello there. How are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "好久没人陪我聊天了，只要我能力所及，自当尽力帮忙。",
+      "jap": "久しぶりの話し相手じゃ。できることなら協力するぞ",
+      "eng": "I don't mind a chat. I may even be of some help.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0主角离开小隆德后，返回攀谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-After leaving the New Londo Ruins and returning",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "喔，真是好久没看到你啦。看来你还没事呢。",
+      "jap": "ほう、お前さん、久しぶりじゃな。まだ無事じゃったか",
+      "eng": "Hello, there. Where have you been? I'm glad to see you well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "那，你找我有何贵干呢？",
+      "jap": "それで、わしに何か用かの？",
+      "eng": "How can I be of assistance?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "光是为了封印吸魂鬼，便使这个小隆德陷入毁灭。",
+      "jap": "この小ロンドは、ただダークレイスを封じるために、滅びた",
+      "eng": "New Londo was sacrificed to contain the Darkwraiths.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "你得要谨记在心呀。\r\n吸魂鬼乃是人与所有具灵魂生物的敌人。",
+      "jap": "心するのじゃぞ\r\nダークレイスは、人と、ソウルで生きる全ての敵じゃ",
+      "eng": "Mark my words. The Darkwraiths are the enemies of man,\r\nand any living thing that has a soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "绝对不能再一次放他们到这个世上肆虐了。",
+      "jap": "もう二度と、この世に放ってはならんのじゃと…",
+      "eng": "They were never meant to roam again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0初次攀谈后，第1次被诅咒后攀谈",
+      "jap": "#0話しかけた:呪われている:1回目",
+      "eng": "#0Talk-While Cursed for the 1st time after meeting previously",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "喔……难不成你遭到咒死？",
+      "jap": "ほう、お前さん…もしや、呪死したのか？",
+      "eng": "Well, hello there. Have you been cursed?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "那可真辛苦你啦。不过，你可以放心了，",
+      "jap": "それは苦労じゃったのう。じゃが、もう大丈夫じゃ",
+      "eng": "That can be quite onerous. But not to worry.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "我来解除你所受到的诅咒吧。",
+      "jap": "わしが、お前さんの呪いを解いてやろう",
+      "eng": "Such cleansing, I am happy to administer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "不过，解咒原本是神的技艺，\r\n你得做好付出相对牺牲的觉悟……",
+      "jap": "じゃが、解呪は本来神の業じゃ\r\n相応の犠牲は、覚悟するのじゃぞ…",
+      "eng": "But the breaking of curses is the territory of deities.\r\nYou must be prepared for sacrifice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0初次攀谈后，第2次被诅咒后攀谈",
+      "jap": "#0話しかけた:呪われている:2回目",
+      "eng": "#0Talk-While Cursed a 2nd time after meeting previously",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "喔……难不成你又遭到咒死？",
+      "jap": "ほう、お前さん…もしや、また呪死したのか？",
+      "eng": "Hello, there. Cursed again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "该说你逞英雄，还是胡来呢……\r\n总而言之，就是个老爱惹麻烦的家伙啊……",
+      "jap": "英雄の気か、それともただ無茶なのか…\r\nどちらにしろ、何度も難儀な奴じゃのう…",
+      "eng": "I do not know whether you are brave, or just foolish,\r\nbut you do seem to find your share of trouble.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0获得王器后攀谈",
+      "jap": "#0話しかけた:王の器を入手後",
+      "eng": "#0Talk-After receiving the Lordvessel from the illusion of Gwynevere",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "喔……你已经取得了王器啦……",
+      "jap": "ほう、お前さん…王の器を手に入れたのか…",
+      "eng": "Oh, hello. You've acquired the Lordvessel, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "这样啊，你居然……",
+      "jap": "そうか、お前さんが…",
+      "eng": "Very impressive.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "我了解你想做什么了。",
+      "jap": "お前さんの目的は、分かっちょる",
+      "eng": "I know exactly what your intentions are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "你想找我封印的小隆德四王，对吧？",
+      "jap": "わしの封印しとる、四人の小王に用があるのじゃろう",
+      "eng": "You seek the Four Kings whom I guard over.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "这把就是封印钥匙。",
+      "jap": "これが、封印の鍵じゃ",
+      "eng": "This is the key to the seal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "小隆德四王便待在这座遗迹的最深处。",
+      "jap": "四人の小王は、この遺跡の最深部におる",
+      "eng": "The Four Kings slumber in the deepest chamber of the ruins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "你只要用这把钥匙解开封印……打开水门并向前走就可以了。",
+      "jap": "この鍵で、封印を解き…水門を開いて、進むがよい",
+      "eng": "Use this key to break the seal and open the floodgates.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "……对了，我还要给你一个忠告。",
+      "jap": "…ああ、それから、ひとつ忠告じゃ",
+      "eng": "...Oh, and do not forget...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "那群家伙居住在叫作深渊的黑暗中，",
+      "jap": "奴らは、深淵と呼ばれる、闇に住んでおる",
+      "eng": "The Darkwraiths reside in a dark void called the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "那是个寻常人所无法前往的场所……",
+      "jap": "そこは、尋常な人の赴ける場所ではないが…",
+      "eng": "But the Abyss is no place for ordinary mortals.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "但据说在很久以前，有个骑士亚尔特留斯曾走进深渊。",
+      "jap": "はるか昔、騎士アルトリウスだけが、深淵を歩いたという",
+      "eng": "Although long ago, the knight Artorias traversed the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "如果找到他并借助他的力量，\r\n说不定就能成功地进入深渊……",
+      "jap": "彼を探し、力を借りれば\r\nあるいは、深淵に入れるかもしれぬぞ…",
+      "eng": "If you can find him, and learn from him,\r\nthe Abyss may prove surmountable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0被芙拉姆特引导放置王器后，开启小隆德水门后，互动列表-选择「交谈」",
+      "jap": "#0話しかけた:水門開放後・フラムートと一緒に王の器を置きます",
+      "eng": "#0Talk-After opening the Seal, after placing the Lordvessel in Frampt's presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "……你解除了封印啦……？",
+      "jap": "…お前さん、封印を解いたか…",
+      "eng": "...You've broken the seal, have you?...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "不，我并不后悔。\r\n我很信任你和芙拉姆特。",
+      "jap": "いや、後悔はしちょらんよ\r\nわしはフラムトと、お前さんを信じとる",
+      "eng": "No, I have no regrets.\r\nMy trust lies with you, and Frampt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "不过，不能进到深渊这一点，我就无计可施啦。",
+      "jap": "だが、深淵に入れぬことには、どうしようもないのじゃぞ",
+      "eng": "But you cannot proceed without being able to traverse the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0未被芙拉姆特引导放置王器，开启小隆德水门后，互动列表-选择「交谈」",
+      "jap": "#0話しかけた:水門開放後・フラムートと一緒に王の器を置かなかった",
+      "eng": "#0Talk-After opening the Seal, if Lordvessel wasn't placed  in Frampt's presence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "……你解除了封印啦……？",
+      "jap": "…お前さん、封印を解いたか…",
+      "eng": "...You've broken the seal, have you?...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "不，我并不后悔。我很信任你。",
+      "jap": "いや、後悔はしちょらんよ。わしはお前さんを信じとる",
+      "eng": "No, I have no regrets. For I trust in you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "不过，不能进到深渊这一点，我就无计可施啦。",
+      "jap": "だが、深淵に入れぬことには、どうしようもないのじゃぞ",
+      "eng": "But you cannot proceed without being able to traverse the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0开启小隆德水门后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA・小ロンド遺跡の水門開放後",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after opening the Seal",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "……以前，小隆德四王也只是……\r\n弱小的一般人而已。",
+      "jap": "…四人の小王も、昔はただの…\r\n弱い人じゃった",
+      "eng": "Long ago, the Four Kings were powerful men.\r\nOnly, their hearts were weak.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "然而，有一天黑暗之蛇却趁隙对他们下手，\r\n赋予小隆德四王吞噬灵魂的能力，",
+      "jap": "だが、あるとき、闇の蛇が彼らの隙につけこみ\r\n生命喰いの力を与え",
+      "eng": "When an evil serpent dangled\r\nthe art of Lifedrain before them,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "带他们堕落了……",
+      "jap": "彼らを、悪にしてしまったのじゃ…",
+      "eng": "they were unable to resist, and became pawns of evil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0开启小隆德水门后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB・小ロンド適跡の水門開放後",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after opening the Seal",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "我知道得也不多……",
+      "jap": "わしも、多くを知っているわけではないのだが…",
+      "eng": "According to legend,\r\nthe knight Artorias crossed the Abyss,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "就只有听说骑士亚尔特留斯曾经漫步深渊，\r\n猎杀了吸魂鬼。",
+      "jap": "ただ、かつて騎士アルトリウスは\r\n深淵を歩き、ダークレイスを狩ったと言う",
+      "eng": "and annihilatedthe atrocious Darkwraiths.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "如果找到他并借助他的力量，\r\n说不定就能成功地进入深渊……",
+      "jap": "彼を探し、力を借りれば\r\nあるいは、深淵に入れるかもしれぬぞ…",
+      "eng": "If you can find him, and learn from him,\r\nthe Abyss may prove surmountable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0击杀小隆德四王后攀谈",
+      "jap": "#0話しかけた:四人の公王撃破後",
+      "eng": "#0Talk-After defeating the Four Kings",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "……这样呀，你已经打倒了小隆德四王啦。",
+      "jap": "…そうか。四人の小王を倒したか",
+      "eng": "...Magnificent. You defeated the Four Kings.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "真不愧是王器的勇者。",
+      "jap": "さすがはお前さん、王の器の勇者じゃ",
+      "eng": "Impressive, even for a bearer of the Lordvessel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "这么一来，我的工作也就告一段落了……",
+      "jap": "これで、わしの役目も終わりじゃな…",
+      "eng": "And with this, my purpose is exhausted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "我正开始有些怀念起太阳了呢……",
+      "jap": "少しばかり、太陽が懐かしくなってきたところじゃ…",
+      "eng": "I have not seen the sun for a long time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "这样正好啊……",
+      "jap": "丁度よいわ…",
+      "eng": "Perhaps I could do with a change...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0返回传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "喔，是你呀。",
+      "jap": "おお、お前さんか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "一直以来都窝在这么暗的地方，\r\n让我对暌违许久的太阳感到有些吃不消呢。",
+      "jap": "久しぶりの太陽はちときつくてな\r\nこんな暗がりに引っ込んでおるんじゃ",
+      "eng": "The sunlight made me wince,\r\nand now I've come back to this dark hole!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "言归正传，你有何贵干？有什么问题就说吧，我会尽力帮忙。",
+      "jap": "で、何の用じゃ？わしにできることなら、なんでも協力するぞ",
+      "eng": "So, what brings you here? I will help you in any way I can.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0返回传火祭祀场后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "喔，是你呀。",
+      "jap": "おお、お前さんか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "你怎么啦？有什么问题就说吧，我会尽力帮忙。",
+      "jap": "どうしたのじゃ？わしにできることなら、なんでも協力するぞ",
+      "eng": "What is it? I will help you in any way that I can.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "你，你干什么！",
+      "jap": "な！なにを！",
+      "eng": "What! No!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 103,
+      "chn": "你究竟在干什么！",
+      "jap": "なにをする！",
+      "eng": "What are you doing!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 105,
+      "chn": "住手！",
+      "jap": "やめろ！",
+      "eng": "Cease!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "还不住手！",
+      "jap": "やめんか！",
+      "eng": "Stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 109,
+      "chn": "唉……",
+      "jap": "ふう…",
+      "eng": "Sigh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "你也和那些家伙没两样呀……",
+      "jap": "お前さんも、奴らと同じか…",
+      "eng": "You are no different from the rest...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "既然如此！我英果德身为封印守护者……",
+      "jap": "よろしい！ならば、封印の番として…",
+      "eng": "So be it! I am Ingward, the guardian of the seal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "将送你上西天！",
+      "jap": "イングウァードが引導を渡してやるわい！",
+      "eng": "Prepare to meet your doom!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 114,
+      "chn": "喔，喔──我竟然会……",
+      "jap": "お、おおお…わしとしたことが…",
+      "eng": "Ohh...ogghh...How could I allow this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "对不起了……我的伙伴……",
+      "jap": "すまん…皆の衆…",
+      "eng": "Forgive me...my countrymen...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "##又是你这个老爱惹麻烦的家伙啊……",
+      "jap": "##また、何度も難儀な奴じゃのう…",
+      "eng": "##How do you manage to find so much trouble?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "##……的确，封印钥匙是在我的身上。",
+      "jap": "##…確かに、封印の鍵は、わしが持っておる",
+      "eng": "##And yes, I do have the key to the seal.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "##不过，在交给你之前，可以麻烦你帮我完成一件事吗？",
+      "jap": "##じゃが、それを渡す前に、ひとつ頼まれてくれんか",
+      "eng": "##But before I give it up, there is something I must ask.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "##你有看到前面那间大饭厅吧？",
+      "jap": "##目の前に、大きな食堂があるじゃろう？",
+      "eng": "##Do you see the great hall that stands before you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "##在屋顶上，\r\n栖息着一只小隆德四王手下的吸魂鬼。",
+      "jap": "##その屋上に、四人の小王の眷属、ダークレイスが\r\n一匹棲みついておる",
+      "eng": "##Atop it, you will find a Darkwraith,\r\na servant of the Four Kings.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "##……可以麻烦你帮我打倒那家伙吗？",
+      "jap": "##…お前さん、そいつを退治してくれんかの",
+      "eng": "##Show me that you can defeat it.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "##打算向小隆德四王挑战的人，如果连手下也打不倒就说不过去了。",
+      "jap": "##四人の小王に挑もうという者が、その眷属も倒せんようでは",
+      "eng": "##As guardian of the seal, it behoves me to test your strength.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "##身为封印的守护者，\r\n我可不能随随便便就相信你。",
+      "jap": "##封印の番として、\r\nお主を信用するわけにはいかんでな",
+      "eng": "##For if you cannot defeat the Darkwraith,\r\nyou will be no match for the Four Kings.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "##即便你是芙拉姆特挑选出来的人……",
+      "jap": "##いかにお前さんが、フラムトの選んだ者だとしてもじゃ…",
+      "eng": "##Even if Frampt has chosen you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "##即便你是拥有王器的人……",
+      "jap": "##いかにお前さんが、王の器を持つ者だとしてもじゃ…",
+      "eng": "##Even if you are the bearer of the Lordvessel.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "##真是对你过意不去啊……",
+      "jap": "##すまんのう…お前さん…",
+      "eng": "##Hate to ask, really.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "##不过，我是封印的守护者。\r\n为了不白费那些以前牺牲性命的人所费苦心，",
+      "jap": "##じゃが、わしは封印の番じゃ\r\n遥か昔、犠牲になった者たちのためにも",
+      "eng": "##But I am the Guardian of the Seal.\r\nI have seen too many lives wasted over the eons.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "##无论如何，还是得要先考验一下你的实力才行。",
+      "jap": "##どうしても、お前さんを試さなければならないのじゃよ",
+      "eng": "##So, I had no choice but to test your mettle.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "##喔！你已经成功打倒吸魂鬼啦！",
+      "jap": "##おお、お前さん、ダークレイスを倒したのじゃな！",
+      "eng": "##You, you have defeated the Darkwraith!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "##真是干得好……这样我也可以相信你了。",
+      "jap": "##よくやった。…わしも、お前さんを信用しよう",
+      "eng": "##Very good, indeed. I can certainly trust you.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

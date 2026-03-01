@@ -1,6 +1,639 @@
 {
   "npc": "bellkeeper",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/bellkeeper.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/bellkeeper.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "不死人来了！不死人来了!!",
+      "jap": "不死がきた！不死がきた！！",
+      "eng": "Undead! Undead!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#2（月亮钟楼）#3雅肯之钟！不准靠近雅肯之钟!!",
+      "jap": "アーケンの鐘！アーケンの鐘にちかよるな！！",
+      "eng": "Keep your hands off our bell, the great Bell of Alken!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#2（太阳钟楼）#3韦因之钟！不准靠近韦因之钟!!",
+      "jap": "ヴェインの鐘！ヴェインの鐘にちかよるな！！",
+      "eng": "Keep your hands off our bell, the great Bell of Venn!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#2（月亮钟楼）#3不准靠近公主的钟！",
+      "jap": "姫さまの鐘に、ちかよるな！",
+      "eng": "The bell belongs! To the Princess, it do!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#2（太阳钟楼）#3不准靠近王子的钟!!",
+      "jap": "王子さまの鐘に、ちかよるな！",
+      "eng": "The bell belongs! To the Prince, it do!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "不听话的家伙，我们可是会狠狠修理人喔！\r\n我和我的同伴会狠狠修理人喔!!",
+      "jap": "いうことをきかないやつは、バラバラにしてやるぞ！\r\nおれとなかまが、バラバラにしてやるぞ！！",
+      "eng": "Stay back, or we slice! Slice you to bits!\r\nMe and my chums, we shan't be miffed!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "不听话的家伙，会狠狠修理人喔！哈哈哈哈!!",
+      "jap": "いうことをきかないやつは、バラバラだ！ギャハハハ！！",
+      "eng": "Stay back, or you're pieces! Tiniest pieces! Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "#2（月亮钟楼）#3公主可是在\r\n很久很久以前创造了我！",
+      "jap": "ずっとずっと、ずっーとまえに、\r\n姫さまは、おれをつくった！",
+      "eng": "A long, long, long time ago, the Princess,\r\nshe made me, yes, just like so!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#2（太阳钟楼）#3王子可是在\r\n很久很久以前创造了我！",
+      "jap": "ずっとずっと、ずっーとまえに、\r\n王子さまは、おれをつくった！",
+      "eng": "A long, long, long time ago, the Prince,\r\nhe made me, yes, just like so!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#2（月亮钟楼）#3为了保护钟！为了王子!!",
+      "jap": "鐘をまもるために！王子さまのために！！",
+      "eng": "To guard this bell! For the prince's honour!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#2（太阳钟楼）#3为了保护钟！为了公主!!",
+      "jap": "鐘をまもるために！姫さまのために！！",
+      "eng": "To guard this bell! Princess's honour!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "不准靠近钟！你这个肮脏的不死人!!哈哈哈哈哈！",
+      "jap": "鐘にちかよるな！きたならしい不死め！！ギャハハハハ！",
+      "eng": "Stay away, foul Undead, or you'll be a goner! Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#2（月亮钟楼）#3不准靠近公主的钟！",
+      "jap": "姫さまの鐘！ちかよるな！！",
+      "eng": "Stay back! It belongs, to the Princess, it do!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#2（太阳钟楼）#3不准靠近王子的钟!!",
+      "jap": "王子さまの鐘！ちかよるな！！",
+      "eng": "Stay back! It belongs to the Prince, yes it do!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "哈哈哈哈哈！",
+      "jap": "ギャハハハハ！",
+      "eng": "Mwah hah hah, ooh hoo hoo!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time, or after choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "哈哈哈哈哈！",
+      "jap": "ギャハハハハ！",
+      "eng": "Hah hah hah, ooh hoo hoo!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "你也要保护钟吗？",
+      "jap": "おまえも、鐘をまもるか！？",
+      "eng": "You wish to guard the bell, you do?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#2（月亮钟楼）#3你要和我一起来保护钟吗!?\r\n为了公主和王子!?",
+      "jap": "おれといっしょに、鐘をまもるか！？\r\n姫さまと、王子さまのために！？",
+      "eng": "For the Prince, and the Princess,\r\nforever, for true?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#2（太阳钟楼）#3你要和我一起来保护钟吗!?\r\n为了公主和王子!?",
+      "jap": "おれといっしょに、鐘をまもるか！？\r\n王子さまと、姫さまのために！？",
+      "eng": "For the Princess, and Prince?\r\nForever, for true?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0是否订立钟卫誓约？选择「否」",
+      "jap": "#0話しかけた:3回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！！",
+      "eng": "Gah hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "死气沉沉的不死人！脏兮兮的不死人!!",
+      "jap": "やるきのない不死！きたならしい不死！！",
+      "eng": "Useless fool! Filthy Undead!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "快滚！快滚!!哈哈哈哈哈!!",
+      "jap": "かえれ！かえれ！！ギャハハハハ！！",
+      "eng": "Be gone, right now, or it's off with your head! Ah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0选择「否」后说话",
+      "jap": "#0話しかけた:【NO】を選択後",
+      "eng": "#0Talk-After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "你也要保护钟吗!?",
+      "jap": "おまえも、鐘をまもるか！？",
+      "eng": "You want to guard the bell, do you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#2（月亮钟楼）#3你要和我一起来保护钟吗!?\r\n为了公主和王子!?",
+      "jap": "おれといっしょに、鐘をまもるか！？\r\n姫さまと、王子さまのために！？",
+      "eng": "For the Prince and the Princess,\r\nforever, for true?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#2（太阳钟楼）#3你要和我一起来保护钟吗!?\r\n为了公主和王子!?",
+      "jap": "おれといっしょに、鐘をまもるか！？\r\n王子さまと、姫さまのために！？",
+      "eng": "For the Princess, and Prince,\r\nforever, for true?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0是否订立钟卫誓约？选择「是」",
+      "jap": "#0話しかけた:3回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "哈哈哈哈哈！这个给你！",
+      "jap": "ギャハハハハ！これやるぞ！",
+      "eng": "Hah hah, heh! Here, for you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "只要你待在钟的附近，就会直接把你带过来!!",
+      "jap": "おまえが鐘のちかくにいれば、かってにおまえをつれてくる！！",
+      "eng": "When you're 'round the bell, you'll be brought near!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "只要有人靠近钟，戒指就会直接把你带过来!!",
+      "jap": "だれかが鐘にちかよると、指輪がおまえをつれてくる！",
+      "eng": "When the bell is in trouble, the ring brings you here!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "有人胆敢靠近钟的话，就狠狠修理他一顿！\r\n你可要狠狠修理那个家伙一顿喔!!",
+      "jap": "ちかよるやつは、バラバラにしろ！\r\nおまえがそいつを、バラバラにしろ！！",
+      "eng": "Slice 'em to shreds, whoever they are! \r\nWherever, whoever, be they near, be they far!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#2（月亮钟楼）#3为了公主，要狠狠地修理!!",
+      "jap": "姫さまのために、バラバラだ！！",
+      "eng": "Slice 'em to pieces! For the Princess!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#2（太阳钟楼）#3为了王子，要狠狠地修理!!",
+      "jap": "王子さまのために、バラバラだ！！",
+      "eng": "Slice 'em to pieces! For the Prince, yes!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！！",
+      "eng": "Hah hah hah! Oh, ah, hoo...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハハハハハ！！",
+      "eng": "Bwah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0加入钟卫誓约后说话",
+      "jap": "#0話しかけた:誓約を結んだあと",
+      "eng": "#0Talk-After choosing \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "#2（月亮钟楼）#3公主创造了我！\r\n为了要保护雅肯之钟!!",
+      "jap": "おれをつくったのは、姫さま！ギャハハ！\r\nアーケンの鐘をまもるために！！",
+      "eng": "Ah hah hah! The Princess made me!\r\nTo guard the Bell of Alken!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#2（太阳钟楼）#3王子创造了我！\r\n为了要保护韦因之钟!!",
+      "jap": "おれをつくったのは、王子さま！\r\nギャハハ！ヴェインの鐘をまもるために！！",
+      "eng": "The Prince made me!\r\nTo guard the Bell of Venn!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#2（月亮钟楼）#3公主的钟在雅肯！\r\n王子的钟在韦因！",
+      "jap": "姫さまの鐘は、アーケンに！\r\n王子さまの鐘は、ヴェインに！！",
+      "eng": "In Alken! The bell! Of the princess! \r\nIn Venn! The bell! Of the prince, yes!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#2（太阳钟楼）#3王子的钟在韦因！\r\n公主的钟在雅肯!!",
+      "jap": "王子さまの鐘は、ヴェインに！\r\n姫さまの鐘は、アーケンに！！",
+      "eng": "In Venn! The bell! Of the fine prince!\r\nIn Alken! The bell! Of the princess!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "有人胆敢靠近钟的话，就狠狠修理他一顿！\r\n然后我和同伴一起来把钟敲响!!",
+      "jap": "ちかよるやつは、バラバラだ！\r\nそしておれとなかまは、鐘をならす！！",
+      "eng": "Tear 'em to shreds, tear 'em to bits!\r\nGather around, and ring the bell swift!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "从很久很久很～久以前，\r\n我就和同伴一起来把钟敲响!!哈哈哈哈哈!!",
+      "jap": "ずっとずっと、ずっーとまえから\r\nおれとなかまは、鐘をならす！！ギャハハハ！！",
+      "eng": "We've been ringing this bell forever, we have!\r\nAh hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0第1次击杀踏入钟楼者后说话",
+      "jap": "#0話しかけた:初めてホストの殺害に成功したあと",
+      "eng": "#0Talk-After vanquishing first Bell Invader as a member of the Bell Keepers",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！",
+      "eng": "Hah hah hah, ooh hoo, ohh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "这个给你！这个给你!!",
+      "jap": "これやるよ！これやるよ！！",
+      "eng": "Take these! Take 'em! Take 'em for you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！",
+      "eng": "Hmmgg.... Mwah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0提升钟卫誓约到等级1后说话",
+      "jap": "#0誓約のランクが1になった",
+      "eng": "#0Talk-After reaching rank +1 as a member of the Bell Keepers Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！！",
+      "eng": "Gah hah! Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "很好很好！再修理惨一点!!",
+      "jap": "いいぞいいぞ！もっとバラバラにしろ！！",
+      "eng": "That's it! Bravo! Tear 'em to shreds!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "狠狠修理！哈哈哈哈哈!!",
+      "jap": "バラバラにしろ！ギャハハハ！！",
+      "eng": "Slice 'em and dice 'em, and bring me their heads! Ah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0提升钟卫誓约到等级2后说话",
+      "jap": "#0誓約のランクが2になった",
+      "eng": "#0Talk-After reaching rank +2 as a member of the Bell Keepers Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "哈哈哈哈哈!!你很不赖嘛!!",
+      "jap": "ギャハハハハ！おまえやるな！！",
+      "eng": "Bravo, my friend, look how they've bled!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "用力狠狠地修理！继续狠狠地修理!!",
+      "jap": "どんどんバラバラにしろ！もっともっとバラバラにしろ！！",
+      "eng": "Keep slicin'! And dicin'! Till they're all little shreds, heh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！！",
+      "eng": "Hah hah, ooh hoo!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0提升钟卫誓约到等级3后说话",
+      "jap": "#0誓約のランクが3になった",
+      "eng": "#0Talk-After reaching rank +3 as a member of the Bell Keepers Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！！",
+      "eng": "Hah! Haaaah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "太棒了！你真是太棒了!!",
+      "jap": "いちばんだ！おまえがいちばんだ！！",
+      "eng": "You are the best! The absolute best!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！！",
+      "eng": "Heh, hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！",
+      "eng": "Agh hoo hoo, hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！",
+      "eng": "Ooh hoo hoo, ah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハ！",
+      "eng": "Hah hah hah, gah hah hah, ooh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "你马上就要被我狠狠修理了!!",
+      "jap": "おまえ、いますぐバラバラだ！！",
+      "eng": "Bah! I'll slice you to shreds!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "不死人来了！愚蠢的不死人来了!!",
+      "jap": "不死がきた！ばかな不死がきた！",
+      "eng": "The Undead is back! That silly Undead!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "哈哈哈哈哈哈哈哈哈!!",
+      "jap": "ギャハハハハハハハ！！",
+      "eng": "Aggh hah hah hah hah, dee hee, hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "哈哈哈哈哈!!看我怎么修理你！看我的!!",
+      "jap": "ギャハハハハ！バラバラだ！バラバラだ！！",
+      "eng": "Slice you to pieces, miniature pieces...arrgh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "哈哈哈哈哈!!",
+      "jap": "ギャハハハハハハハ！！",
+      "eng": "Yarghh hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "##哈哈哈哈哈!!",
+      "jap": "##ギャハハハハハハハ！！",
+      "eng": "##Forever...for true!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

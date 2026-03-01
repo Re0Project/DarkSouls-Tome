@@ -1,6 +1,1543 @@
 {
   "npc": "shalquoir",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/shalquoir.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/shalquoir.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "唉呀……你是不死人吧？",
+      "jap": "あら…あなた、不死なのね",
+      "eng": "Oh...Undead, are we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "而且，你的时间似乎不太多了耶。",
+      "jap": "しかも、もうあんまり時間がないみたいじゃない",
+      "eng": "And one without much time remaining.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "几乎快要爆炸了。",
+      "jap": "バクハツ寸前ってところね",
+      "eng": "Just about ready to fall apart, I'd say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "还有时间和猫说话吗？呵呵呵……",
+      "jap": "猫と話してる余裕なんて、あるのかしら？ウフフ…",
+      "eng": "Not exactly the time to be chatting with a cat!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "嗯，算了。",
+      "jap": "まあ、いいわ",
+      "eng": "Well, suit yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "我呢，这样吧。\r\n就称呼我做夏拉格儿。",
+      "jap": "私は、そうね\r\nシャラゴアって呼んでいいわ",
+      "eng": "Oh, yes, you may call me Shalquoir.\r\nEnchanté.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "然后呢？你想要什么？",
+      "jap": "それで？何が欲しいの？",
+      "eng": "So, what did you want, anyway?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "你身上有股好味道呢。\r\n呵呵呵……",
+      "jap": "あなた、いい匂いがするわね\r\nウフフ…",
+      "eng": "Ooh, you smell wonderful.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "唉呀……你是哪位啊？",
+      "jap": "あら…あなた、誰だったかしら？",
+      "eng": "Oh...Who were you again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "呵呵呵，开玩笑啦。",
+      "jap": "ウフフ、冗談よ",
+      "eng": "Hoh hoh... Oh, I'm not serious.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "你身上有股好味道呢。",
+      "jap": "あなたは、いい匂いがするわ",
+      "eng": "You do have a rather pleasant scent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "是我喜欢的味道。\r\n呵呵呵。",
+      "jap": "好きな匂いよ\r\nウフフ",
+      "eng": "The type I'm quite fond of.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0死亡或被诅咒5次，到达游魂化第2阶段时说话",
+      "jap": "#0話しかけた:亡者化が進んでいる状態",
+      "eng": "#0Talk-As a 2nd stage Hollow",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "呵呵呵，怎么了吗？",
+      "jap": "ウフフッ、どうしたのかしら？",
+      "eng": "Hoh hoh! What's happened to you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "好冷的眼神。",
+      "jap": "随分、殺伐とした目をしてる",
+      "eng": "You have that glint in your eyes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "对了，这个是……罪上加罪的味道，\r\n多不胜数呢……",
+      "jap": "そうね、これは…罪を重ねたにおい\r\nいくつもいくつも…",
+      "eng": "And the scent...\r\nof one with quite the catalogue of sins...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "随你高兴啰。\r\n这样的你也不坏嘛。\r\n呵呵呵……",
+      "jap": "好きにすればいいわ\r\nそんなあなたも嫌いじゃないわよ\r\nウフフッ…",
+      "eng": "Oh, don't feel bad.\r\nI'm sure your mother's still proud...\r\nHee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "这里已经是\"结束了\"的场所。",
+      "jap": "ここはもう\"終わった\"場所なの",
+      "eng": "This place is already dead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "一切都将毁坏、崩溃，\r\n变成另外的模样。",
+      "jap": "何もかもが壊れて、崩れて、\r\n姿を変えていこうとしているところ",
+      "eng": "Everything will crumble and waste away,\r\nso that something new may be born.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "很棒的地方，不是吗？呵呵呵……",
+      "jap": "ステキなところでしょう？ウフフ…",
+      "eng": "Isn't it wonderful? Hee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "这里可是很愉快的地方。",
+      "jap": "ここは楽しいところよ",
+      "eng": "This place is fascinating.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "虽然不多，但总有形形色色的人前来，\r\n就像你一样。",
+      "jap": "数は少ないけど、いろんなのがやってくる\r\nあなたみたいなね",
+      "eng": "We receive only the most peculiar visitors.\r\nFolk like yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "我最讨厌无聊了。\r\n因为我是猫。\r\n呵呵呵……",
+      "jap": "退屈は大キライなの\r\n猫だから\r\nウフフ…",
+      "eng": "It's enough to\r\nkeep even a cat\r\namused!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "你准备去找那些家伙吧？",
+      "jap": "あなた、あいつらに会いに行くんでしょ？",
+      "eng": "Are you going to see the Old Ones?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "四个很古老、很古老的家伙。",
+      "jap": "ずっとずっと古い、4つのもの",
+      "eng": "Those four who have grown so incredibly ancient.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "一群发了霉的无聊家伙。\r\n每个都是。",
+      "jap": "カビの生えた退屈な連中よ\r\nどれもこれもね",
+      "eng": "They must have sprouted\r\nquite a thick coat of moss by now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "因为啊，连他们的名字都没人记得啊。",
+      "jap": "だって、誰もあいつらの名前さえ憶えてないのよ",
+      "eng": "For heaven's sake, no-one even knows their names anymore!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "很怪吧？呵呵呵。",
+      "jap": "おかしいでしょ？フフフッ",
+      "eng": "Imagine that! Hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "真的……和你真的差很多。",
+      "jap": "ホント…あなたとは大違い",
+      "eng": "Yes...nothing like yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "因为啊，你有着很香的味道，\r\n而且是越来越浓……呵呵呵。",
+      "jap": "だってあなたは、とてもいい匂いがする\r\nしかも、どんどん大きくなるのよ…フフフッ",
+      "eng": "For you...have a most pleasant scent,\r\nthat grows nicer with each passing day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "位于海那边的男子，你和他成为好友了吗？",
+      "jap": "海の方にいる男とは、もうお友達になった？",
+      "eng": "Have you made friends with the man by the sea?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "他是个一事无成的人呢。\r\n呵呵阿……",
+      "jap": "もう何もかもダメになっちゃった人\r\nウフフ…",
+      "eng": "He's lost everything, absolutely everything.\r\nHee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "如果有他可以帮上忙的话……就只有誓约的话题了。",
+      "jap": "あの人が役に立ちそうなことって言えば…誓約の話ぐらいかしら",
+      "eng": "The only thing he's good for now... Is a few tidbits on covenants.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "誓约嘛，怎么说呢，\r\n就像是约定一样。",
+      "jap": "誓約っていうのは、そうね\r\n例えば約束のようなものよ",
+      "eng": "Covenants are a type of, well,\r\ncontract, you might say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "你给他一些、他给你一些……\r\n人不就是这样活下去的吗？",
+      "jap": "何かを与えたり、与えられたり…\r\nそうやって人間は生きていくんでしょ？",
+      "eng": "You give something, to gain something.\r\nThat's the way humans like it, right?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "对于你的旅程而言或许有必要呢。\r\n但对猫来说是无关的话题了。\r\n呵呵呵……",
+      "jap": "あなたの旅にも、必要なものかもしれないわ\r\n猫には無縁な話だけど\r\nウフフ…",
+      "eng": "It might be just the thing you need.\r\nBut what does a cat know?\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0互动列表-第5次选择「说话」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "这儿的后面，有个形状奇特的岩石吧。",
+      "jap": "ここの裏に、変な形をした岩があるでしょう",
+      "eng": "Did you see that oddly-formed rock behind here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "以前好像称它叫什么\"霸者之石\"。",
+      "jap": "昔は、\"覇者の石\"とか、そんな名前で呼ばれてたの",
+      "eng": "Long ago, they called it Victor's Stone, as I recall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "如果你想要寻求更多的苦难，\r\n可以和石头说说话。",
+      "jap": "もしあなたが、更なる苦難を望むのなら、\r\n石に話しかけてごらんなさい",
+      "eng": "If you wish to face greater challenges,\r\nspeak to the rock.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "虽然我不太建议啦。\r\n呵呵呵……",
+      "jap": "おすすめはしないけどね\r\nウフフッ…",
+      "eng": "Although you'd just as well not.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0击杀四巨物后说话",
+      "jap": "#0話しかけた:古の者を4体撃破後",
+      "eng": "#0Talk-After defeating 4 Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "唉呀，你啊。\r\n怎么变得这么大了。",
+      "jap": "あらあら、あなた\r\nずいぶん大きくなったのね",
+      "eng": "Well, you've grown quite a bit,\r\nhaven't you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "身上的味道又更香浓了。\r\n呵呵呵。",
+      "jap": "前よりもずっと、いい匂いがするわ\r\nフフフッ",
+      "eng": "Your scent is lovelier than it's ever been.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "好了，那么，\r\n去一趟王宫吧。",
+      "jap": "さあ、じゃあ\r\nお城にいきなさいな",
+      "eng": "Why not trot along\r\nto the castle?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "去见见国王。",
+      "jap": "そして王様に会うの",
+      "eng": "And meet the King.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "那个男的，和你一样很好闻，\r\n以前是这样。",
+      "jap": "あの男も、あなたと同じいい匂いがしてたわ\r\n昔は",
+      "eng": "Long ago,\r\nHe smelled just like you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "是啊，而现在，\r\n已经不是了。",
+      "jap": "そうね、いまは\r\n違っちゃったけど",
+      "eng": "Not so much anymore,\r\nthough.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "又酸又腐的味道……",
+      "jap": "すえて腐った臭い…",
+      "eng": "He's quite rancid by now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "但我并不很讨厌喔。\r\n猫可是美食家呢。\r\n呵呵呵。",
+      "jap": "それはそれで、嫌いじゃないわ\r\n猫はグルメだから\r\nフフフッ",
+      "eng": "But we cats love that.\r\nIt's an\r\nacquired taste!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0击杀四巨物后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すF・古の者を4体撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 1st time, after defeating 4 Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "以前，有位仁兄，\r\n想将像你这样的不死人全部封住。",
+      "jap": "昔ね、あなたみたいな不死を\r\n封じ込めようとした人間がいたわ",
+      "eng": "Once, people tried to round up the Undead\r\nand hide them away from the world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "或许他以为全部\r\n封起来就没事了。",
+      "jap": "全部閉じ込めてしまえば、\r\nそれで済むとでも思ったのかしらね",
+      "eng": "They thought that imprisoning the Undead\r\nwould solve the problem.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "还弄了好大一座监牢……\r\n但最后一切都是徒劳。",
+      "jap": "大きな牢獄を作って…\r\nでも結局、何もかもムダだったんだけど",
+      "eng": "They created a towering bastille to contain them,\r\nbut in the end, it did no good.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "那座监牢的最深处，有着\"被遗忘的罪人\"。",
+      "jap": "その牢獄のずっと奥に\"忘れられた罪人\"がいるのよ",
+      "eng": "The Lost Sinner lives deep within the bastille.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "想要酝酿出#1始源之火#3#2初始之火#3的愚蠢罪人。",
+      "jap": "はじまりの火を生みだそうとした、バカな罪人がね",
+      "eng": "The fool. Trying to light the First Flame...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0击杀四巨物后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すG・古の者を4体撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time, after defeating 4 Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "人都想要变得更美吗？",
+      "jap": "人間はみんな、美しくなりたいと思うの？",
+      "eng": "Why do people try so hard to be beautiful?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "猫一生下来就很美。\r\n呵呵呵。",
+      "jap": "猫は最初から美しいけど\r\nフフフッ",
+      "eng": "We cats are born beautiful, of course.\r\nHee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "想要夸示自己……所以才会建造那么丑陋的钢铁之城。",
+      "jap": "自分を誇示したい…だからあんな無様な鉄の城を作ったり",
+      "eng": "The human ego...how many ugly iron castles has it erected?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "却从未察觉行为之丑陋。",
+      "jap": "その行いの醜さには気づかないまんま",
+      "eng": "And they don't even see the folly of their ways.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "不过，那也是他可爱的地方啦。\r\n呵呵呵。",
+      "jap": "でも、そういうところが可愛いんだけど\r\nフフフッ",
+      "eng": "But that's what makes watching\r\nhumankind so delightful.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "对了，记得以前有种人。",
+      "jap": "そういえば、昔もそんなのがいたわ",
+      "eng": "It reminds me of someone who lived long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "爱面子好撒谎，最后让自己陷身火海。",
+      "jap": "見栄っ張りの嘘つきで、最後は自分を火の中に放り込んだ",
+      "eng": "A vainglorious liar who ended up hurling himself into the flames.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "没记错的话，现在好像变成了\"熔融之土\"。",
+      "jap": "確かそうね、いまは\"熔けた土\"になってるはずよ",
+      "eng": "Now he's Ichorous Earth, if I'm not mistaken.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0击杀四巨物后，互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すH・古の者を4体撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time, after defeating 4 Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "这里有个大坑吧。",
+      "jap": "ここには、大きな穴があるでしょ",
+      "eng": "You've seen that gaping hole here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "坑底有老鼠，很嚣张的老鼠。",
+      "jap": "穴の下にはネズミがいるの、小生意気なね",
+      "eng": "Well, there's nasty little vermin down there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "不过你要寻找的，则是在更深之处。",
+      "jap": "でも、あなたが探してるものは、その更に下",
+      "eng": "Although who you seek is even further below.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "从远古就在地底，至今依然不变。",
+      "jap": "ずっと昔から地の底にいて、いまもそこにいる",
+      "eng": "And has been down there for a very, very long time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "早就已经变得\"腐败\"了呢。\r\n呵呵呵。",
+      "jap": "もう\"腐れ\"になっちゃってるのよ\r\nフフフッ",
+      "eng": "He's plumb Rotten by now, I'm sure!\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0击杀四巨物后，互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すI・古の者を4体撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 4th time, after defeating 4 Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "人就爱奇奇怪怪的东西。",
+      "jap": "人間って、変なものを好きになるわよね",
+      "eng": "Men develop the most peculiar fascinations.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "彷彿被什么上了身似的。",
+      "jap": "何かに憑りつかれたみたいに",
+      "eng": "Sometimes their fascinations seem to take control.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "或者该说是想要#1抓紧什么#3#2附身别处#3呢。\r\n呵呵呵。",
+      "jap": "それとも、憑りついてるのかしら\r\nフフフッ",
+      "eng": "Till there's very little man left.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "那个丑陋的背叛者也是如此。",
+      "jap": "あの、醜い裏切り者もそうだったわ",
+      "eng": "Oh, it's like that awful traitor long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "无可救药地渴望着不是自己的#1人#3事物……",
+      "jap": "他人のものが欲しくて欲しくて、しょうがなくて…",
+      "eng": "He coveted what he did not have, and it drove him mad.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "真是滑稽呢。\r\n呵呵呵。",
+      "jap": "滑稽なこと\r\nフフフッ",
+      "eng": "What a curious conundrum.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "那个\"爬虫\"到现在都还在寻找。",
+      "jap": "あの\"這う蟲\"は、いまも探してるの",
+      "eng": "The Writhing Ruin keeps searching as we speak.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "寻找着想要的东西。",
+      "jap": "自分が欲しいものをね",
+      "eng": "Searching for its heart's desire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0与杜娜湘卓说话后说话",
+      "jap": "#0話しかけた:・デュナシャンドラと会話後",
+      "eng": "#0Talk-After encountering Nashandra in Drangleic Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "唉呀，你啊。",
+      "jap": "あら、あなた",
+      "eng": "Oh, it's you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "在这里做什么呢？",
+      "jap": "こんなところで、何をしてるの？",
+      "eng": "What're you doing here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "该不会是迷了路吧。\r\n呵呵呵……",
+      "jap": "迷子になっちゃったのかしら\r\nウフフッ…",
+      "eng": "Have you lost your way?\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "你应该正在找国王吧。",
+      "jap": "あなたは王様を探してるはずよ",
+      "eng": "I believe you're in search of the King.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "那个待在死尸累累之处的人。",
+      "jap": "あの、死人だらけの場所にいる人をね",
+      "eng": "Well, he's keeping company with the dead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0获得国王戒指后说话",
+      "jap": "#0話しかけた:王の指輪入手後",
+      "eng": "#0Talk-After acquiring the King's Ring",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "那家伙在东边的尽头。",
+      "jap": "東の果てに、そいつはいるわ",
+      "eng": "You'll find a great creature far to the east.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "有很大很大的身躯，且更拥有如同身躯那么强大的力量。",
+      "jap": "大きな大きな者、そしてそれに相応しい強い力を持つ者",
+      "eng": "A colossal thing, with the strength to match its size.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "……的类似者。",
+      "jap": "それのまがい物がね",
+      "eng": "Or something playing the part at least.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "打开门\r\n再往前走，\r\n你的味道应该会更加迷人。\r\n呵呵呵……",
+      "jap": "扉を開けるの\r\nその先にいけば\r\nあなたはもっといい匂いがするはずよ\r\nウフフッ…",
+      "eng": "Open the door,\r\nand venture inside,\r\nand you'll soon smell\r\neven lovelier.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0获得灰雾核心后说话",
+      "jap": "#0話しかけた:灰の霧の核入手後",
+      "eng": "#0Talk-After acquiring the Ashen Mist Heart",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "你要入梦境了吧。",
+      "jap": "夢を見に行くのね",
+      "eng": "Trespassing into their dreams?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "由海之尽头来到此处，\r\n破坏了一切的人。",
+      "jap": "海の果てから、ここにやってきて\r\n何もかもを壊した者",
+      "eng": "Of the ones who crossed the sea,\r\nlavishing ruin upon the land?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "到现在依然在做着梦，\r\n崇高而勇猛的战争梦。",
+      "jap": "あれは今も夢を見ているの\r\n誇り高く、猛々しい戦いの夢",
+      "eng": "How they savour their visions...\r\nOf glorious deeds in battle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "呵呵呵……呵呵呵呵呵……",
+      "jap": "ウフフッ…ウフフフフ…",
+      "eng": "Hee hee hee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#0击杀巨人王后说话",
+      "jap": "#0話しかけた:巨人の王撃破後",
+      "eng": "#0Talk-After acquiring the Giant's Kinship",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 103,
+      "chn": "看来差不多是告别的时候了。",
+      "jap": "そろそろ、お別れの時がきたみたいね",
+      "eng": "It seems that we must now part.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "为什么？你问得笨了。",
+      "jap": "何故かって？そんなの、聞いても仕方ないわ",
+      "eng": "Why now? I don't see how it should matter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "因为，我是猫啊。\r\n呵呵呵呵呵……",
+      "jap": "私が、猫だからよ\r\nウフフフフ…",
+      "eng": "Just because, because I'm a cat.\r\nHee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0击杀巨人王后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・巨人の王撃破後",
+      "eng": "#0Menu-Choose \"Talk\" after acquiring the Giant's Kinship",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "#1国#3王，\r\n请登王座。",
+      "jap": "王よ\r\n玉座へ",
+      "eng": "Honourable Sovereign,\r\ntake your throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "并且完成一切，\r\n如您所愿。",
+      "jap": "そして、事を為されよ\r\nその望みのままに",
+      "eng": "And do great things,\r\nif it please.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "唉呀，这不合你的意吗？",
+      "jap": "あら、お気に召さなかったってこと？",
+      "eng": "Nothing suited you, I presume?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "真是可惜。\r\n呵呵呵……",
+      "jap": "残念だわ\r\nウフフ…",
+      "eng": "Well, that's dismaying.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 113,
+      "chn": "满足了吗？",
+      "jap": "満足したかしら？",
+      "eng": "Satisfied?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "下次可以再陪陪你喔。\r\n如果我有空的话啦。",
+      "jap": "また相手をしてあげてもいいわ\r\n気が向いたらね",
+      "eng": "I'll be around,\r\nif you ever come back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼女から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 116,
+      "chn": "唉呀，急性子会惹人嫌喔。\r\n呵呵呵……",
+      "jap": "あら、せっかちは嫌われるわよ\r\nウフフ…",
+      "eng": "Oh my, haste makes waste.\r\nHee hee hee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "什么事啊？呵呵呵呵呵……",
+      "jap": "なあに？ウフフフフ…",
+      "eng": "Oh what now? Hmph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 120,
+      "chn": "唉呀唉呀，真拼命呢。\r\n呵呵呵呵呵……",
+      "jap": "あらあら、必死ね\r\nウフフフフ…",
+      "eng": "Ooh,\r\nkeep trying. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 122,
+      "chn": "唉呀，我要被杀了耶。\r\n呵呵呵呵呵……",
+      "jap": "大変、殺されちゃう\r\nウフフフフ…",
+      "eng": "Oh,\r\nspare me, please. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "##呵呵呵呵呵……",
+      "jap": "##ウフフフフ…",
+      "eng": "##Tee hee! Tee hee hee...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "###2（无译文）喵…#3",
+      "jap": "##ニャア…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "###2（无译文）呜～#3",
+      "jap": "##ウゥ～",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "###2（无译文）嘶！！#3",
+      "jap": "##シャー！！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "###2（无译文）喵！喵！喵！呜喵！#3",
+      "jap": "##ニャア！ ニャア！ ニャア！ウニャア！！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "###2（无译文）…！\r\n竟然和猫说话，真是个怪人。#3",
+      "jap": "##…！\r\n猫に話しかけるなんて、おかしな人間ね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "###2（无译文）嗯，至少，可以陪你说说话。#3",
+      "jap": "##まぁ、少しくらいなら、話し相手になってあげても良いわよ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "###2（无译文）…！\r\n唉呀，你，能听懂我说话？#3",
+      "jap": "##…！\r\nあら、貴方、アタシの言葉が解るの？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "###2（无译文）明明是个人类，还真是奇怪呢。\r\n嗯，至少，可以陪你说说话。#3",
+      "jap": "##人間くせに、おかしな人ね\r\nまぁ、少しくらいなら、話し相手になってあげても良いわよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "###2（无译文）你能听懂我的话，是因为那只戒指吧？\r\n这是从远古时代就存在的，连结语言的戒指。#3",
+      "jap": "##私の言葉が分かるのは、その指輪のせいね？\r\n太古からある、言葉を繋ぐ指輪だわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "###2（无译文）没想到，能留存到现在。#3",
+      "jap": "##まさか、まだ残っていたなんて…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "###2（无译文）在锅里，真的很舒服…\r\n你能明白吗？#3",
+      "jap": "##鍋の中ってね、とても心地いいの…\r\n貴方にわかる？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "###2（无译文）哼，动不动就讨好对方，人类真是讨厌。#3",
+      "jap": "##…ふん、そうやってすぐ相手に媚びるから、人間は嫌いよ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "###2（无译文）是啊，人类是不会明白的。\r\n真可怜…呵呵呵。#3",
+      "jap": "##そうね、人間にはわからないでしょうね\r\n可哀想に…フフフッ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "###2（无译文）现在，这个国家已经变得荒凉…#3",
+      "jap": "##今は、この国も荒んでしまっているけど…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "###2（无译文）但比起古代龙族统治世界的时代，\r\n你们人类还真是繁荣得多。#3",
+      "jap": "##古の龍がこの世を支配していた時代から比べると\r\n貴方たち人間はずいぶん栄えたものね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "###2（无译文）嗯，对我来说，\r\n现在更容易过活，所以还好。#3",
+      "jap": "##まあ、アタシにとっては\r\n今の方が暮らしやすいから、良いんだけれど",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "###2（无译文）人类的国王汎克拉德，\r\n好像在暗中秘密研究，回溯时间的办法。#3",
+      "jap": "##人間たちのヴァンクラッド王は\r\n刻を遡る方法について、密かに研究させていたようね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "###2（无译文）现在城里面，好像还留存着古老的机关…#3",
+      "jap": "##城には今でも、古い仕掛けが残っているみたいだけど…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "###2（无译文）就算回到过去，也没什么有趣的。\r\n你们的想法，还真是奇特。#3",
+      "jap": "##過去になんか行っても、何も面白いことなんてないのに\r\n貴方たちの考えることは、いつも奇妙だわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "###2（无译文）国王的城，越过森林就在前面。#3",
+      "jap": "##王の城は、森を抜けた先にあるわ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "###2（无译文）穿过道路前的那座森林后，就能抵达王城了。#3",
+      "jap": "##街道の先にある森を抜ければ、王の城に行けるわ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "###2（无译文）我以前，在城里也住过那么一阵喔？\r\n被艾米丽贝格…这样的侍女喜欢上了。#3",
+      "jap": "##アタシも昔、ちょっとだけ城に居たことがあるのよ？\r\nエムリーベグ…とかいう侍女に気に入られてね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "###2（无译文）现在已经完全冷清了，\r\n一个有趣的地方就这么消失了。#3",
+      "jap": "##でも今はすっかり寂れてしまって\r\n面白い場所では無くなってしまったわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "###2（无译文）城周围遍布的森林，\r\n以前和现在大不相同。#3",
+      "jap": "##城の周りに広がっている森だけど\r\n昔は今とはだいぶん様子が違ったわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "###2（无译文）树根没有像现在这样蔓延，\r\n古老的遗迹也没有被掩埋。#3",
+      "jap": "##木々の根が今ほど蔓延っていなくて\r\n古い遺跡も埋もれてはいなかった",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "###2（无译文）树根没有像现在这样蔓延，\r\n被称作兽人族的遗迹也没有被掩埋。#3",
+      "jap": "##木々の根が今ほど蔓延っていなくて\r\n獣人と呼ばれる種の遺跡も埋もれてはいなかった",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "###2（无译文）不过，湿漉漉的阴森感觉倒是没变。#3",
+      "jap": "##まあ、ジメジメした薄気味悪さに変わりはないけどね",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "###2（无译文）我可不想去那毛骨悚然的地方\r\n…连锅都没有。#3",
+      "jap": "##ああいう身の毛がよだつ場所には行きたくないわ\r\n…鍋もないしね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "###2（无译文）以前在“滨海边防”，人类和巨人有场战争。#3",
+      "jap": "##『海辺の護り』では昔、人間と巨人たちの戦いがあったの",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "###2（无译文）巨人们很野蛮，一看就知道脑袋很笨，\r\n但威胁不是一星半点。#3",
+      "jap": "##巨人たちは粗暴で、見るからに頭が悪そうだったけど\r\nその脅威は半端なものではなかったわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "###2（无译文）建造宏伟的碉堡，便是如此。#3",
+      "jap": "##築かれた立派な砦が、それを物語っているわね",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "###2（无译文）我因为讨厌战争，\r\n并不想靠近那座碉堡。#3",
+      "jap": "##アタシは争いごとが嫌いだから\r\n砦には近づかないようにしていたけどね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "###2（无译文）“古老森林”真的很阴森喔，\r\n森林深处的“神木枝条”，连结着恶魔的头部。#3",
+      "jap": "##『古き森』が薄気味悪いのわね\r\n森の奥の『神木の枝』が、デーモンの頭部と繋がっているからなの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "###2（无译文）因此…整个神木都化作了恶魔。#3",
+      "jap": "##そのため…森全体がデーモンと化しているわけ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "###2（无译文）现在已经被树木遮挡，没法进到森林的深处。#3",
+      "jap": "##今は木々に遮られ、森の奥には行けないんだけど…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "###2（无译文）你去过森林的深处吗？#3",
+      "jap": "##貴方は森の奥には行ったことがあるのかしら？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "###2（无译文）那里湿漉漉的，实在很阴森喔。\r\n最近好像有奇怪的怪物在徘徊。#3",
+      "jap": "##あそこはジメジメしていて、本当に気味が悪いわ\r\n最近は妙な怪物がウロウロしているみたいだし…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "###2（无译文）连锅都没有，这种地方有什么意思？#3",
+      "jap": "##鍋もないし、面白い場所じゃないわよ？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 162,
+      "chn": "###2（无译文）“多兰城下街”已经被封锁了，\r\n是以前被蛮族侵袭的缘故。#3",
+      "jap": "##『ドラン城下街』が閉鎖されちゃっているのはね\r\n昔、蛮族に襲われたことが原因なの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "###2（无译文）国王失踪导致城内混乱的时机，被他们盯上了。#3",
+      "jap": "##王の失踪で城が混乱した隙を狙われたのね",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "###2（无译文）因为军师封锁了正门，才阻止他们攻入城内，\r\n城下街的人们就都被抛弃了。#3",
+      "jap": "##軍師が正門を封鎖したから、城への侵入は防げたんだけど\r\n城下街の人たちは見捨てられてしまったの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "###2（无译文）明明还有等着搭救的人，却做了这么可悲的事…#3",
+      "jap": "##助けを待つ人もいたでしょうに、可哀そうなことをするのね…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 166,
+      "chn": "###2（无译文）森林深处的“龙卵祭祀场”里，\r\n人们供奉着“龙卵化石”。#3",
+      "jap": "##森の奥にある『卵の祭祀場』には\r\n人間たちによって、『龍の卵の化石』が祀られているわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "###2（无译文）现在很少能看到古老的龙族了，\r\n这是证明它们不是传说的，唯一的证据。#3",
+      "jap": "##今では滅多に目にしない古の龍が\r\n伝説ではないことを示す、たった一つの証ね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 168,
+      "chn": "###2（无译文）你知道被称作不朽者的种族吗？#3",
+      "jap": "##貴方、イモータルと呼ばれる種族のことを知っている？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "###2（无译文）它们喜欢黑暗，\r\n把自己的城，建到阳光照不到的地方。#3",
+      "jap": "##彼らは暗闇を好むから\r\n自分たちの城を、陽の当たらない場所に作ったの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 170,
+      "chn": "###2（无译文）因此，被雨水和地下水淹没了…#3",
+      "jap": "##そのせいで、雨水やら地下水やらで水浸し…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "###2（无译文）现在，已经沉入深处的水底，\r\n以前那城里我也能进去的喔？#3",
+      "jap": "##今では、深い水の底に沈んでいるけれど\r\n昔は私でも城の中に入ることができたのよ？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 172,
+      "chn": "###2（无译文）在“聚魂之洞”里，\r\n好像修建了让国家和外界相连的通道。#3",
+      "jap": "##『ソウルの吹き溜まりの洞』には\r\n国と外界と結ぶために作った通り道があるみたいね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "###2（无译文）那附近有很多灵魂涌入，\r\n好像很容易把恶魔养大。#3",
+      "jap": "##その辺りには沢山のソウルが流れ込んでいて\r\nデーモンが育ちやすいみたい",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 174,
+      "chn": "###2（无译文）王妃也想在那里孵化“龙蛋”，\r\n是从王妃的侍女那里听来的喔。#3",
+      "jap": "##王妃が『龍の卵』を孵そうとしていたのもその場所だって\r\n王妃の侍女から聞いたことがあるわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "###2（无译文）城下镇的人们热闹非凡，已经是很久以前的事了。\r\n住在那的人们，几乎都成了游魂。#3",
+      "jap": "##城下町が人々で賑わっていたのは、もう昔のこと…\r\n住んでいた人々は、みな亡者になってしまったわ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "###2（无译文）人和人之间互相残杀…愚不可及喔，人类…#3",
+      "jap": "##人同士で殺しあうなんて…愚かよね、人間って…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "###2（无译文）城下镇的人们虽然几乎都成了游魂，\r\n但偶尔还是会有人到镇上来。#3",
+      "jap": "##城下町の人々はほとんど亡者になってしまったけど…\r\nそれでも町を訪れる人がたまにいるそうよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "###2（无译文）里面也有从“聚魂之洞”来的人。#3",
+      "jap": "##中には『ソウルの吹き溜まりの洞』の方から来る人もいるみたい",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 179,
+      "chn": "###2（无译文）说到“聚魂之洞”，\r\n那里也住着些凶残的人…不是很可怕吗？#3",
+      "jap": "##『ソウルの吹き溜まりの洞』といえば…\r\n凶暴な輩も居るでしょうに…怖くないのかしら？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "###2（无译文）在王城的地下，有矮小种族居住的村落。\r\n他们为城里的人建造了排污的出水口。#3",
+      "jap": "##王城の地下には、小柄な種族が住む村があって\r\n城の人々のために、下水を流すはけ口を作っていたそうよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 181,
+      "chn": "###2（无译文）但那个种族…“盖鲁姆”…我之前提到过吗，\r\n他们有着很重的臭味。国王把村子的入口给堵住了。#3",
+      "jap": "##だけどその種族…『ゲルム』…とか言ったかしら\r\n彼らは悪臭が酷くてね。　王は村の入口を塞いでしまったの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 182,
+      "chn": "###2（无译文）剩下的盖鲁姆人们怎么样了…？#3",
+      "jap": "##残されたゲルムたちはどうなったのかしら…？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 183,
+      "chn": "###2（无译文）沉入冰冷水底的“不死城郭”…\r\n住在那里的不朽族，和你们一样是不死的存在。#3",
+      "jap": "##冷たい水の底に沈んだ『不死城郭』…\r\nそこに住むイモータル族は、貴方たちと同じように不死の存在",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "###2（无译文）所以虽然已经脱离了死亡，\r\n毕竟是在深水里，已经动弹不得。#3",
+      "jap": "##だから死とは無関係だけれど\r\nさすがに深い水の中では、身動きが取れないみたい",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 185,
+      "chn": "###2（无译文）王城地下居住的矮小种族“盖鲁姆”…#3",
+      "jap": "##王城の地下に住む小柄な種族『ゲルム』…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 186,
+      "chn": "###2（无译文）他们瞒着国王，\r\n打通了去往“不死城郭”的通道。#3",
+      "jap": "##彼らは、王に黙ってこっそり『不死城郭』への通路を\r\n作ってしまったらしいの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 187,
+      "chn": "###2（无译文）盖鲁姆是诚实又勤劳的种族，\r\n但是反复无常，人类好像很难对付它们。#3",
+      "jap": "##ゲルムは誠実でとても勤勉な種族だけど\r\n気ままだから、人間たちには扱いにくかったみたいね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 188,
+      "chn": "###2（无译文）呵呵，我可没办法被打倒喔？#3",
+      "jap": "##うふふ、あたしは倒せないわよ？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 189,
+      "chn": "###2（无译文）…奇怪的好奇心不会让你幸福的，\r\n不是吗？#3",
+      "jap": "##…妙な好奇心は貴方を幸せにしないと思うわ\r\n違うかしら？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 190,
+      "chn": "###2（无译文）我讨厌的不是和你说话…\r\n我讨厌纠缠不休的人。再见了…#3",
+      "jap": "##貴方と話すのは嫌いじゃなかったのだけれど…\r\nしつこい人は嫌いなの。　さようなら…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 191,
+      "chn": "###2（无译文）唉呀，又来了？\r\n呵呵，我和你们是不一样的喔…？#3",
+      "jap": "##あら、また来たの？\r\nうふふ、私は貴方たちとは違うのよ…？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

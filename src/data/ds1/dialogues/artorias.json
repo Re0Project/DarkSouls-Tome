@@ -1,7 +1,7 @@
 {
   "npc": "artorias",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/artorias.webp",
+  "avatar": "/icons/ds1/dialogues/artorias.webp",
   "lines": [
     {
       "index": 0,

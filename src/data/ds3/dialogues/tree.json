@@ -1,7 +1,7 @@
 {
   "npc": "tree",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/tree.webp",
+  "avatar": "/icons/ds3/dialogues/tree.webp",
   "lines": [
     {
       "index": 0,

@@ -1,6 +1,359 @@
 {
   "npc": "gavlan",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/gavlan.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/gavlan.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你、谁？",
+      "jap": "ダレ オマエ？",
+      "eng": "Who you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "名字、葛瓦蓝。",
+      "jap": "ガヴァラン ナマエ",
+      "eng": "I Gavlan.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "葛瓦蓝、啊……\r\n买买？买卖？",
+      "jap": "ガヴァラン アー…\r\nショウダイ？ショウバイ？",
+      "eng": "Gavlan wheel?\r\nGavlan deal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "葛瓦蓝、想要、灵魂。\r\n想要、好多、好多。\r\n。",
+      "jap": "ソウル ガヴァラン ホシイ\r\nイッパイ イッパイ ホシイ\r\nグハハハッ！",
+      "eng": "Gavlan want soul.\r\nMany many soul.\r\nGah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "你、想要、东西？",
+      "jap": "オマエ ホシイ アル？",
+      "eng": "What you want?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "你、葛瓦蓝、买卖？\r\n……买卖！",
+      "jap": "オマエ ガヴァラン ショウダイ？\r\n…ショウバイ！グハハハッ！",
+      "eng": "With Gavlan, you wheel?\r\nYou deal! Gah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:連で続話しかけた",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "想要、什么？",
+      "jap": "ナニ？ホシイ？",
+      "eng": "What? You want?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:さらに連続で話しかけた",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "啊……你、\r\n想要、什么？",
+      "jap": "アー…オマエ\r\nナニ？ホシイ？",
+      "eng": "Umm...You want?\r\nWant what?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0第1次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "知道、葛瓦蓝、你。",
+      "jap": "ワカル ガヴァラン オマエ",
+      "eng": "Umm...Gavlan know you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第2次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "你、葛瓦蓝、买卖？",
+      "jap": "オマエ ガヴァラン ショウダイ？",
+      "eng": "Make deal with Gavlan?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0第3次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたC",
+      "eng": "#0Talk-3rd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "葛瓦蓝、想、你。\r\n你、想要、东西？",
+      "jap": "ガヴァラン オマエ ミル アル\r\nオマエ ホシイ アル？",
+      "eng": "Oh Gavlan, know you.\r\nWhat you want?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0第4次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたD",
+      "eng": "#0Talk-4th time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "再、见。\r\n葛瓦蓝、想、你。",
+      "jap": "マタ ミル\r\nガヴァラン オマエ ミル",
+      "eng": "You, again.\r\nGavlan, meet you again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "葛瓦蓝、\r\n啊……买买？买卖？",
+      "jap": "ガヴァラン\r\nアー…ショウダイ？ショウバイ？",
+      "eng": "Gavlan wheel?\r\nGavlan deal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "葛瓦蓝、想要、灵魂。\r\n想要、好多、好多。\r\n。",
+      "jap": "ソウル ガヴァラン ホシイ\r\nイッパイ イッパイ ホシイ\r\nグハハハッ！",
+      "eng": "Gavlan want soul.\r\nMany many soul.\r\nGah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "你、想要、东西？",
+      "jap": "オマエ ホシイ アル？",
+      "eng": "What you want?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "你、葛瓦蓝、买卖？\r\n……买卖！",
+      "jap": "オマエ ガヴァラン ショウダイ？\r\n…ショウバイ！グハハハッ！",
+      "eng": "With Gavlan, you wheel?\r\nYou deal! Gah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0累计交易16000以上魂量后，互动列表-选择「说话」",
+      "jap": "#0話しかけた:合計16000ソウル以上の買い物をした",
+      "eng": "#0Menu-Choose \"Talk\" after spending 16000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "你、葛瓦蓝、买卖。\r\n好多、买卖。",
+      "jap": "オマエ ガヴァラン ショウバイ\r\nイッパイ ショウバイ",
+      "eng": "With Gavlan, you deal.\r\nMuch, much deal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "这个、给。\r\n给、你。",
+      "jap": "コレ ヤル\r\nオマエ ヤル",
+      "eng": "These, you take,\r\nah For you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "你、回去？",
+      "jap": "カエル？オマエ",
+      "eng": "You? Go home?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "谢谢……光顾！",
+      "jap": "マイダ…マイドアリ！グハハハッ",
+      "eng": "Many deal...many thanks! Gah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "啊……",
+      "jap": "アー…",
+      "eng": "Umm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "啊？……",
+      "jap": "アー…？",
+      "eng": "Umm?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "你、来……",
+      "jap": "オマエ キタ…",
+      "eng": "Umm...You strong.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "你、死！",
+      "jap": "オマエ シヌ！",
+      "eng": "You die!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "##你……什么……",
+      "jap": "##オマエ…ナニ…",
+      "eng": "##Wheel...deal...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "###2（仅英文语音）你、打开……葛瓦蓝、自由！#3",
+      "jap": "##…",
+      "eng": "##(No caption) You, you open... Gavlan, free!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "###2（仅英文语音）你、人……真好！#3",
+      "jap": "##…",
+      "eng": "##(No caption) You kind... so nice!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "###2（仅英文语音）葛瓦蓝……谢……谢谢！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Gavlan... th... th... thank!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "###2（仅英文语音）谢……谢谢！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Thank! ... Thank!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

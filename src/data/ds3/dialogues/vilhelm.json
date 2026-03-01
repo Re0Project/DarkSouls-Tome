@@ -1,6 +1,415 @@
 {
   "npc": "vilhelm",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/vilhelm.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/vilhelm.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，你是……",
+      "jap": "…ほう、貴公…",
+      "eng": "Well...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "……是无火的余灰啊。",
+      "jap": "…火の無い灰だな",
+      "eng": "You look to be Unkindled.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "明明钟也没响，为什么闯进绘画里来了？",
+      "jap": "鐘の音もなかろうに、なぜ、絵画に迷い込んだ？",
+      "eng": "No bell tolls, and yet, you've slipped into the painting?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……算了，我不深究。",
+      "jap": "…まあ、いい",
+      "eng": "Oh, no matter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "如果你不知道该往哪里去，想必芙莉德大人的金言能为你指路。",
+      "jap": "道に迷っているのなら、フリーデ様の言葉が導きとなろう",
+      "eng": "If you've lost your way, the words of Lady Friede will guide you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "来，进去里头吧，好好地洗耳恭听。",
+      "jap": "さあ、中に入れ。そして、謹んでその耳を澄ますがいい",
+      "eng": "Now, go on inside. Show respect, and listen carefully.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0持有5个或更多黑暗印记时，第1次交谈",
+      "jap": "#0話しかけた:1回目:暗い穴を5つ以上所持",
+      "eng": "#0Talk-1st time, after attaining 5 or more Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "……哦，你是……",
+      "jap": "…ほう、貴公…",
+      "eng": "Well, well...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "……是尤莉雅大人的游魂之王吧。",
+      "jap": "…ユリア様の、亡者の王だな",
+      "eng": "You're Lady Yuria's Lord of Hollows.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "明明钟也没响，为什么闯进绘画里来了？",
+      "jap": "鐘の音もなかろうに、なぜ、絵画に迷い込んだ？",
+      "eng": "No bell tolls, and yet, you've slipped into the painting?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "……算了，我不深究。",
+      "jap": "…まあ、いい",
+      "eng": "Oh, no matter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "如果你不知道该往哪里去，想必芙莉德大人的金言能为你指路。",
+      "jap": "道に迷っているのなら、フリーデ様の言葉が導きとなろう",
+      "eng": "If you've lost your way, the words of Lady Friede will guide you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "来，进去里头吧，好好地洗耳恭听。",
+      "jap": "さあ、中に入れ。そして、謹んでその耳を澄ますがいい",
+      "eng": "Now, go on inside. Show respect, and listen carefully.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "怎么了？不要再拖延时间，进去里头吧。",
+      "jap": "どうした？愚図愚図せず、中に入れ",
+      "eng": "What's keeping you? Go on, right inside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "仔细听取芙莉德大人的金言就对了。",
+      "jap": "そして謹んで、フリーデ様の言葉に耳を澄ますがいい",
+      "eng": "Show respect, and let Lady Friede speak to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0和芙莉德交谈后，第1次交谈",
+      "jap": "#0話しかけた:修道女フリーデと会話後:1回目",
+      "eng": "#0Talk-1st time after talking to Sister Friede",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "……你听过芙莉德大人的指引了？",
+      "jap": "…貴公、フリーデ様の言葉を聞いたのだろう？",
+      "eng": "Lady Friede has spoken, has she not?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "那么不须犹豫，快点离开吧。",
+      "jap": "ならば迷わず、消えてしまえよ",
+      "eng": "Then tarry no longer and begone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0和芙莉德交谈后，第2次交谈",
+      "jap": "#0話しかけた:修道女フリーデと会話後:2回目",
+      "eng": "#0Talk-2nd time after talking to Sister Friede",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "……啊，对了，我要警告你一件事。",
+      "jap": "…ああ、貴公、ひとつ警告しておこう",
+      "eng": "There is one thing you should know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "在这寒冷的绘画里，好奇心过剩是要不得的事。",
+      "jap": "冷たい絵画で、好奇心はやめておくことだ",
+      "eng": "Inside the cold painting, curiosity could be your cross...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "只要你一离开那干枯的火焰，\r\n就会在雪中迷失方向，横死路边吧。",
+      "jap": "萎びた火を離れれば、\r\n雪に迷い、野垂れ死ぬだろうよ",
+      "eng": "Stray from the withering flame,\r\nand the snow will swallow you whole.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "……",
+      "jap": "クックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0持有5个或更多黑暗印记时，和芙莉德交谈后，第1次交谈",
+      "jap": "#0話しかけた:修道女フリーデと会話後:1回目・暗い穴を5つ以上所持",
+      "eng": "#0Talk-1st time after talking to Sister Friede, attaining 5 or more Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "……你听过芙莉德大人的指引了？",
+      "jap": "…貴公、フリーデ様の言葉を聞いたのだろう？",
+      "eng": "Lady Friede has spoken, has she not?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "那么不须犹豫，快点离开吧",
+      "jap": "ならば迷わず、消えてしまえよ",
+      "eng": "Then tarry no longer and begone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "……和尤莉雅大人，以及隆道尔一起走下去就对了。",
+      "jap": "…そしてユリア様と、ロンドールと共に歩むがいい",
+      "eng": "Carry on, for Lady Yuria, and for Londor.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "没想到你已经是失去神智的游魂了。",
+      "jap": "貴公、もはや正気なき亡者とはな",
+      "eng": "Why you miserable, mad Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "不是钟唤来的，到头来就只有这点本事吧。",
+      "jap": "鐘が呼ばねば、所詮その程度ということか",
+      "eng": "You're nothing, without a bell to guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0主角持有5个或更多黑暗印记时，维赫勒受到攻击时",
+      "jap": "#0攻撃した:暗い穴を5つ以上所持",
+      "eng": "#0Upon being attacked, after the protagonist has attained 5 or more Dark Sigils",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "没想到你已经是失去神智的游魂了。",
+      "jap": "貴公、もはや正気なき亡者とはな",
+      "eng": "Why you miserable, mad Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "尤莉雅大人也真是的，到底是有什么打算……",
+      "jap": "ユリア様も、何をお考えなものか…",
+      "eng": "What is Lady Yuria thinking...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0在鸦村书库靠近维赫勒时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon appearing after being approached & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "……物换星移，但历史依旧重演：",
+      "jap": "…いつも、どこにでもいる",
+      "eng": "I've seen your kind, time and time again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "狂人自恃正义而捉拿逃亡者，\r\n揭露见不得光的事物，",
+      "jap": "逃げる者を追い、隠されたものを暴き、\r\n正義を誇る狂人が",
+      "eng": "Every fleeing man must be caught. Every secret must be unearthed.\r\nSuch is the conceit of the self-proclaimed seeker of truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "但是他们通常不会有所觉悟──",
+      "jap": "そして往々に、覚悟だけは足りぬものだ",
+      "eng": "But in the end, you lack the stomach.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "不知何时会降下报应……",
+      "jap": "いつか報いがあることのな…",
+      "eng": "For the agony that you'll bring upon yourself...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "你应该早就心知肚明了，",
+      "jap": "貴公もよく分かっただろう",
+      "eng": "I trust you've learned your lesson...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "在这寒冷的绘画里，好奇心过剩是要不得的事……",
+      "jap": "冷たい絵画で、好奇心はやめておくことだ…",
+      "eng": "Inside the cold painting, curiosity could be your cross...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……万分抱歉……",
+      "jap": "…申し訳ございません…",
+      "eng": "Forgive me, my Lady...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "我身为您的骑士，竟然如此……",
+      "jap": "貴女の騎士でありながら…",
+      "eng": "I swore an oath, but I have failed you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "……艾尔芙莉德，大人……",
+      "jap": "…エルフリーデ、様…",
+      "eng": "...Lady Elfriede...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "##来，往前走吧，好好地洗耳恭听。",
+      "jap": "##さあ、先に行け。そして、謹んでその耳を澄ますがいい",
+      "eng": "##Now, go on ahead. Show respect, and listen carefully.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "##怎么了？不要再拖延时间，往前走吧。",
+      "jap": "##どうした？愚図愚図せず、先に行け",
+      "eng": "##What's keeping you? Go on, straight ahead.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "##来，往前走吧，好好地洗耳恭听。",
+      "jap": "##さあ、先に行け。そして、謹んでその耳を澄ますがいい",
+      "eng": "##Now, go on ahead. Show respect, and listen carefully.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

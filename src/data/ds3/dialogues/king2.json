@@ -1,6 +1,111 @@
 {
   "npc": "king2",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/king2.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/king2.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近小人王时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching his location",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……啊啊，费莲诺尔，救命……",
+      "jap": "…ああ、フィリアノール、助けてくれ…",
+      "eng": "Ohh, Filianore, help me, please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "被红头巾吃了……",
+      "jap": "赤頭巾が、我らを喰らう…",
+      "eng": "The Red-hood is come to eat us...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我们的黑暗灵魂，被吃了……",
+      "jap": "我らの暗い魂を…",
+      "eng": "To eat our dark souls...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0爬行靠近费莲诺尔教堂，或被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying, after being killed by the protagonist, or crawling too far",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "……救命啊，费莲诺尔……",
+      "jap": "…助けてくれ、フィリアノール…",
+      "eng": "Filianore...help me, please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "##……啊啊，救命……",
+      "jap": "##…ああ、あんた、助けてくれ…",
+      "eng": "##Ahh, I prithee help...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "##被红头巾吃了……",
+      "jap": "##赤頭巾が、我らを喰らう…",
+      "eng": "##The Red-hood is come to eat us...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "##我们的黑暗灵魂，被吃了……",
+      "jap": "##我らの暗い魂を…",
+      "eng": "##To eat our dark souls...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "##……",
+      "jap": "##ウッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "##……",
+      "jap": "##アアッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "##……",
+      "jap": "##ウゥ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "##……",
+      "jap": "##ウアッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

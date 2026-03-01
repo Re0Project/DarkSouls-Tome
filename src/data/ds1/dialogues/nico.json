@@ -1,6 +1,135 @@
 {
   "npc": "nico",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/nico.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/nico.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "嗯──",
+      "jap": "むーん…",
+      "eng": "Mnnn?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0在营火休息后攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2rd time, after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "#1嗯──#3#2（仅英文语音）我不是在那来着？呃……不好说…#3",
+      "jap": "むーん…",
+      "eng": "(No caption) What if I was there? Well...but I'm not sure...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0与佩特鲁斯完成所有对话后攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-After talking with Petrus and exhausting his dialogue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "#1嗯──#3#2（仅英文语音）还回得去家么？呃怎么？#3",
+      "jap": "むーん…",
+      "eng": "(No caption) There will has a way home? Well what's happend?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "#1嗯──#3#2（仅英文语音）搞不明白嚯…#3",
+      "jap": "むーん…",
+      "eng": "(No caption) Whatever is now on...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "#1嗯──#3#2（仅英文语音）你是故意找茬是不是？动手了哦…#3",
+      "jap": "むーん…",
+      "eng": "(No caption) You will come with us fool? But I'll move...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "嗯──",
+      "jap": "むーん…",
+      "eng": "Mnnn...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "##嗯──#2（仅英文语音）我还能撑到家吗？#3",
+      "jap": "##むーん…",
+      "eng": "##(No caption) If I still can get myself home?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "##嗯──#2（仅英文语音）你还觉着有人认得你吗？#3",
+      "jap": "##むーん…",
+      "eng": "##(No caption) Now will you think anyway one knew you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "##嗯──#2（仅英文语音）我我……嗯嗯……啊啊……#3",
+      "jap": "##むーん…",
+      "eng": "##(No caption) Me me...mnnn mnnn...ah ah...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "##嗯──#2（仅英文语音）最好是往家去……#3",
+      "jap": "##むーん…",
+      "eng": "##(No caption) It's advised that move home...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

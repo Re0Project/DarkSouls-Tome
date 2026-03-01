@@ -1,6 +1,543 @@
 {
   "npc": "wellager",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/wellager.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/wellager.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你是何人……",
+      "jap": "そなた、何者だ…",
+      "eng": "Who are you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "是得到谁的允许进入这里……",
+      "jap": "誰の許可を得て、ここに立ち入っておる…",
+      "eng": "And by whose permission do you stand before me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "这里是我的主君汎克拉德王的住处……\r\n知道还乱来吗……",
+      "jap": "我が主、ヴァンクラッド王の居城である…\r\nそれを知っての狼藉か…",
+      "eng": "This castle is the domain of King Vendrick.\r\nIs your trespass intentional?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……",
+      "jap": "……",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我的主君……陛下在何处……？",
+      "jap": "我が主…陛下は何処におられる…？",
+      "eng": "His Highness...Where has he gone?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "访客啊，欢迎来我们的城……\r\n我是这个国家的宰相，名叫贝拉格……",
+      "jap": "客人よ、我らが城へようこそ…\r\n私はこの国の宰相、ベラガーと申す者…",
+      "eng": "You are a guest of our castle.\r\nI am the Chancellor, Wellager.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "你想要……谒见汎克拉德王吗？……",
+      "jap": "我が主…ヴァンクラッド王への謁見をお望みか…？",
+      "eng": "Do you seek an audience with my Lord, King Vendrick?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "真不巧，陛下不在这里……",
+      "jap": "生憎と、陛下はここにはおられぬ…",
+      "eng": "Unfortunately, His Highness is absent.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "我的主君……陛下……",
+      "jap": "我が主…陛下は…",
+      "eng": "My Lord...The King has...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "殿下……王妃……",
+      "jap": "あのお方…妃殿下の手に…",
+      "eng": "The Queen...Has taken him...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "我的主君，以前曾经钻研过灵魂的奥秘……\r\n他是位伟大的人……",
+      "jap": "我が主は、かつてソウルの深奥を究められた…\r\n偉大なるお方である…",
+      "eng": "My Lord made magnificent findings on souls...\r\nAn accomplishment for the ages...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "陛下讨伐了四个巨物……\r\n运用那些灵魂的力量，建立了这个国家……",
+      "jap": "4つの大いなる者を討ち…\r\nそのソウルの力をもって、陛下はこの国を築かれた…",
+      "eng": "He vanquished the Four Great Ones...\r\nAnd built this kingdom upon their souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "从很久以前的时代起……\r\n陛下就一直守护着这个国家……",
+      "jap": "遥か遠い時代から…\r\n陛下はこの国を守り続けてこられたのだ…",
+      "eng": "Our King has watched over this land...\r\nSince ages long, long ago...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "汎克拉德王……再这样下去……\r\n我国会被那些巨人……",
+      "jap": "ヴァンクラッド王…このままでは…\r\n我が国は、あの巨人に…",
+      "eng": "King Vendrick...We must fight back...\r\nOr the Giants will take Drangleic...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "陛下有位王妃……她美极了……",
+      "jap": "陛下には、妃がおられた…それはそれは、お美しい…",
+      "eng": "The King had a dear Queen, a woman of unparalleled beauty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "王妃来自异国……只身一人……",
+      "jap": "妃殿下は、かつて異国より参られた…ただおひとりで…",
+      "eng": "Long ago, the Queen came to us, alone, from a faraway land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "为了告知陛下……直扑而来的危机……\r\n大海的另一边……巨人之国……",
+      "jap": "海の向こう…巨人の国…\r\n迫りくる危機を、王に伝えられた…",
+      "eng": "She warned our Lord of the looming threat\r\nacross the seas...of the Giants.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "陛下渡海而去……\r\n战胜巨人……与王妃一起……",
+      "jap": "王は海を渡り…\r\n巨人に勝利された…妃殿下と共に…",
+      "eng": "The King crossed the ocean...\r\nAnd defeated the Giants, with the Queen at his side.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0第5次说话",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "巨偶……那是陛下转化巨人的力量制造出来的东西……",
+      "jap": "ゴーレム…巨人の力を持ちかえり、生み出されたもの…",
+      "eng": "The King commandeered their power... And created the Golems.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "陛下利用巨偶的力量建造了这座城……",
+      "jap": "王はゴーレムの力によって、この城を作られた…",
+      "eng": "With the Golems, the king created this castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "作为胜利的证明……\r\n同时也是对王妃感激与爱情的证明……",
+      "jap": "勝利の証として…\r\nそして、妃殿下への感謝と愛情の証として…",
+      "eng": "To celebrate victory...\r\nAnd to show his love, his gratitude to his Queen...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0第6次说话",
+      "jap": "#0話しかけた:6回目",
+      "eng": "#0Talk-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "王妃她……为这个国家……为陛下带来了和平……",
+      "jap": "あのお方は…この国に…陛下に、安らぎをもたらされた…",
+      "eng": "The Queen...brought peace... to this land, and to her King.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "犹如……是的……",
+      "jap": "まるで…そう…",
+      "eng": "A peace so deep...it was like...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "犹如黑暗一般……",
+      "jap": "闇のように…",
+      "eng": "The Dark...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0第7次说话",
+      "jap": "#0話しかけた:7回目",
+      "eng": "#0Talk-7th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "我……这是在作梦吗……",
+      "jap": "私は…夢を見ているのか…",
+      "eng": "Is this...some sort of a dream?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "……",
+      "jap": "……",
+      "eng": "......",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "这里是……我们的城，怎会颓败成这样……",
+      "jap": "ここは…我が城の、この荒れ果てた様は…",
+      "eng": "Where am I? What has happened to our castle...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "你是何人……",
+      "jap": "そなた、何者だ…",
+      "eng": "Who are you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "是得到谁的允许进入这里……",
+      "jap": "誰の許しを得て、ここに立ち入っておる…",
+      "eng": "And by whose permission do you stand before me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0第8次说话",
+      "jap": "#0話しかけた:8回目",
+      "eng": "#0Talk-8th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "欢迎，访客……",
+      "jap": "ようこそ、客人よ…",
+      "eng": "Welcome, visitor...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "送访客礼物……那是我们这里的习惯……",
+      "jap": "客人には礼をもってあたる…それが我が城の習い…",
+      "eng": "Our guests are treated with honour. This is the way of our castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "有什么需要的，尽管说吧。",
+      "jap": "何か入り用なものがあれば、用立てよう…",
+      "eng": "Tell me if you should require anything.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0击杀巨人王后说话",
+      "jap": "#0話しかけた:巨人オジェイの記憶で巨人の王を倒したあと",
+      "eng": "#0Talk-After defeating the Giant Lord",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "什么，打倒那个巨人之王的……竟然是你吗……",
+      "jap": "なんと、あの巨人の王を…そなたが倒したのか…",
+      "eng": "The King of Giants... How did you slay that behemoth?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "辛苦你了……这个赏你……",
+      "jap": "大儀であった…これをとらせよう…",
+      "eng": "Incredible... Now, take these...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "要动身了吗？访客……",
+      "jap": "お立ちか、客人よ…",
+      "eng": "Gone so soon?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "祝你旅途平安……",
+      "jap": "旅路に幸運を…",
+      "eng": "Be safe on your travels...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "如果你有需要的东西，可以再过来……",
+      "jap": "入り用なものがあれば、また来るがよかろう…",
+      "eng": "Come back if you should require anything.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "祝你旅途平安……",
+      "jap": "旅路に幸運を…",
+      "eng": "Be safe on your travels...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "陛下在何处……",
+      "jap": "陛下はいずこに…",
+      "eng": "Where has His Royal Highness gone...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "##你这混帐……！所以是刺客吗……!?",
+      "jap": "##貴様…！さては間者か…！？",
+      "eng": "##Why, you! A traitor, have we?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "##访客啊……死吧……",
+      "jap": "##客人よ…死ぬがよい…",
+      "eng": "##Guest right only goes so far...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "##祝你旅途平安……",
+      "jap": "##旅路に幸運を…",
+      "eng": "##Be safe on your travels...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "##…………",
+      "jap": "##……",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "##…………",
+      "jap": "##……",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "##…………",
+      "jap": "##……",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "##你是何人……",
+      "jap": "##そなた、何者だ…",
+      "eng": "##Who are you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "##陛下……",
+      "jap": "##陛下…",
+      "eng": "##Forgive me, Your Highness...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "##我……这是在作梦吗……",
+      "jap": "##私は…夢を見ているのか…",
+      "eng": "##Is this...some sort of a dream?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "###2（仅英文语音）你能帮我打开它吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Could you open that for me?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "###2（仅英文语音）我必须回去工作！#3",
+      "jap": "##…",
+      "eng": "##(No caption) I must resume my work!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "###2（仅英文语音）你好……有人吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hello... is anyone there?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "###2（仅英文语音）听不到吗？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Can't you hear me?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "###2（仅英文语音）谢谢，麻烦你了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Thank you, for your trouble.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "###2（仅英文语音）我得抓紧了，去找国王陛下。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I must hurry, and join his majesty.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "###2（仅英文语音）是你啊！没错，我记得……#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh you! Yes, I remember...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

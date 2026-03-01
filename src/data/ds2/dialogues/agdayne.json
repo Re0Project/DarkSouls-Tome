@@ -1,6 +1,511 @@
 {
   "npc": "agdayne",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/agdayne.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/agdayne.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近亚格德蓝的房间",
+      "jap": "#0話しかけられた:部屋に近づいた",
+      "eng": "#0After approaching his location for the 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "站住。",
+      "jap": "止まれ",
+      "eng": "Halt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "人类啊，\r\n把你手上的光源熄了吧。",
+      "jap": "人間よ\r\nその明かりを、消せ",
+      "eng": "Human.\r\nPut that light out.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "人类啊，\r\n绝对不可以燃起任何光源。",
+      "jap": "人間よ\r\nけして明かりはつけるな",
+      "eng": "Human.\r\nDo not produce light.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "这只是警告。\r\n这里不容许任何人带来光明。",
+      "jap": "これは警告だ\r\nここに光をもたらす者は、誰であろうと許さん",
+      "eng": "Light, and all those who bear it,\r\nare unwelcome in this place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0举着火把时，靠近亚格德蓝的房间",
+      "jap": "#0話しかけられた:たいまつなどを灯して近づいた",
+      "eng": "#0After approaching his location for the 1st time with an ignited torch",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "我已经警告过你了。",
+      "jap": "警告はしたな",
+      "eng": "I warned you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "冒渎死者之人啊，\r\n你也在这里长眠吧！",
+      "jap": "死を冒涜する者よ\r\n貴様もここで眠ってもらおう",
+      "eng": "You offend the dead.\r\nAnd now, you will join them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "我是亚格德蓝，\r\n这座灵庙的守护者。",
+      "jap": "我はアガドゥラン\r\nこの廟の守り手",
+      "eng": "I am Agdayne.\r\nGuardian of the crypt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "这里是无数死者安息之处，\r\n被所谓\"黑暗\"的安宁所笼罩。",
+      "jap": "ここは無数の死者の安息の場所\r\n闇という安息に包まれている",
+      "eng": "Countless dead rest here in peace.\r\nCradled by the comfort of dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "光会让这里的一切完全暴露，\r\n这里不需要那种放肆的东西。",
+      "jap": "光は何もかもを暴き立てる\r\nそんな無遠慮なものは、ここには不要だ",
+      "eng": "Light only agitates.\r\nWe have no need for it here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "我是法倪特，\r\n编织死亡并保护它的人。",
+      "jap": "我はファニト\r\n死を紡ぎ、護る者",
+      "eng": "I am a Fenito.\r\nWe weave death, and watch over the dead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "过去曾经为这个世界\r\n\"带来死亡的人\"赋予我这项使命。",
+      "jap": "かつてこの世界に\"死をもたらした者\"から、\r\nこの役目を授かった",
+      "eng": "This task was granted to me\r\nby the one who gave us the first death.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "从久远的太古时代起，\r\n这里就是所有人的长眠之处。",
+      "jap": "この地はあらゆる者が眠っている\r\n遥か遠い遠い、昔から",
+      "eng": "Countless souls rest here.\r\nSome of them from ages long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "不论是富翁还是贫民、智者还是蠢货，\r\n面临死亡时，所有人都是平等的。",
+      "jap": "富める者も貧しい者も、\r\n賢者も愚者も、死の前には皆同じよ",
+      "eng": "Some were rich, others poor.\r\nSome wise, some dull, but now, they are all just dead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "你也是来见那个人的吗？\r\n那个叫什么汎克拉德的家伙。",
+      "jap": "貴様も、あの男に会いに来たのか？\r\nあの、ヴァンクラッドとかいう者に",
+      "eng": "Did you come for him?\r\nThe one called Vendrick. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "如果是他的话，他人就在这里面。",
+      "jap": "あの者なら、この奥にいる",
+      "eng": "You will find him deeper inside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "到目前为止，\r\n自称是城里的使者已经不知道来过几次想带那个人走了。",
+      "jap": "これまでにも、城の使いとやらが\r\n何度かあの者を連れにきたが",
+      "eng": "Many castle servants and the like\r\nhave come to fetch their lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "如今所有人都已经被沉眠在这块黄土下，\r\n由那个人安排的守卫给杀害。",
+      "jap": "いまは皆、ここの土の下に眠っている\r\nあの者が仕掛けた守り手に殺されたのだ",
+      "eng": "But they rest here now,\r\nput to death by the King's own guards.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "看样子他几乎不想再见任何人了。",
+      "jap": "よほど誰にも会いたくないと見える",
+      "eng": "Perhaps he's not in the mood for company.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "你们人类应该站在黑暗这边才对。",
+      "jap": "貴様たち人間は、闇の側にあったはず",
+      "eng": "In the past, humans were one with the dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "过去的光之王……\r\n我听说他很害怕人类，\r\n他说人类迟早会缔造黑暗时代。",
+      "jap": "かつての光の王…\r\nかの者は人間を恐れていたと聞く\r\n人間こそが、いつか闇の時代をもたらすのだと",
+      "eng": "The former King of Light...\r\nHe feared humans.\r\nFeared that they would usher in an age of dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "这还真可笑啊，\r\n从来没人告诉你们真相是什么吧。",
+      "jap": "滑稽なものだ\r\n何が真実なのか、そなたらは知ろうともせず",
+      "eng": "How queer, you humans.\r\nHow you go on, never separating truth from fiction.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0第5次说话",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "只要人在这里，就得付出该有的敬意；\r\n若能办到，那么这里就会接受任何人。",
+      "jap": "ここにいる限りは、相応の敬意を払うことだ\r\nならば、この地は誰をも受け入れるだろう",
+      "eng": "This place is welcome to all,\r\nprovided due reverence is shown.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "死亡是既宽容又平等的事。\r\n因为所有人迟早都会回到它的怀抱。",
+      "jap": "死は、寛容で平等なもの\r\nあらゆる者は、いずれその懐に抱かれるのだから",
+      "eng": "Death is equitable, accepting.\r\nWe will all, one day, be welcomed by her embrace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "如果有什么要求就说吧。\r\n若是你遵守礼节，那么要我帮你也未尝不可。",
+      "jap": "望むものがあるなら、言うがいい\r\n礼を示すなら、手を貸してやらんでもない",
+      "eng": "Tell me what you desire.\r\nShow me reverence, and I will lend you my hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0第6次说话",
+      "jap": "#0話しかけた:6回目",
+      "eng": "#0Talk-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "人类，你来做什么？",
+      "jap": "何が入り用だ、人間よ",
+      "eng": "What do you require, human?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0获得国王戒指后说话",
+      "jap": "#0話しかけた:王の指輪入手後",
+      "eng": "#0Menu-Choose \"Talk\" after acquiring King's Ring",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "人类啊，你是来见那个人的吧。",
+      "jap": "あの男に会って来たのだな、人間よ",
+      "eng": "You've met the King, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "活着是一件处处都不合理、又很残忍的事。\r\n你走的路就更特别了。",
+      "jap": "生とは常に不当で、無慈悲なもの\r\n貴様の行く道は殊更に",
+      "eng": "Life is never easy, never fair.\r\nEven more so, on this path you've chosen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "你总有一天也会安息吧。",
+      "jap": "いつの日か、そなたにも安らぎが訪れよう",
+      "eng": "May you find your peace one day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "把这个拿去吧，\r\n当成你总有一天会再到这里来的证明。",
+      "jap": "これを持っていくがいい\r\nいつか貴様がここに来た時の印のために",
+      "eng": "Take these with you.\r\nYou may need them, as proof of your visit here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "人类啊，你就尽其所能地挣扎吧。",
+      "jap": "人間よ、せいぜいあがくがよかろう",
+      "eng": "Crude human, do as you please.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "别了，人类。",
+      "jap": "さらばだ、人間よ",
+      "eng": "Farewell, human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "你还不走吗？",
+      "jap": "去るのか",
+      "eng": "Going so soon?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "我们后会有期，后会有期啊。",
+      "jap": "いずれまた会おう、いずれな",
+      "eng": "We will meet again, eventually.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "嗯哼……",
+      "jap": "ふむ…",
+      "eng": "Hmph...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "你想干嘛？",
+      "jap": "何のつもりだ",
+      "eng": "What are you doing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "人类啊，你是认真的吗？",
+      "jap": "気は確かか、人間よ",
+      "eng": "Are you mad, human?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "人类啊，你要有点自知之明！……",
+      "jap": "人間よ、身の程を知るがいい…！",
+      "eng": "Crude human, know your place!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "不懂礼貌的家伙罪不可赦！",
+      "jap": "礼をわきまえぬ者に、容赦はせん",
+      "eng": "The insolent will be punished.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "好吧，该把这家伙埋在哪里呢……",
+      "jap": "さて、この者は何処に埋めるか…",
+      "eng": "Now, where shall we bury this one?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "失礼的家伙啊……",
+      "jap": "無礼者が…",
+      "eng": "The impunity...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "哼哼…愚蠢的家伙啊……",
+      "jap": "ふふ…愚かなものよ…",
+      "eng": "Hah hah... You fool.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "##……",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "##安息之时终于到了……\r\n永别了，人类。",
+      "jap": "##安らぎの時が来た…\r\nさらばだ、人間よ…",
+      "eng": "##A long rest awaits me.\r\nFarewell, human.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

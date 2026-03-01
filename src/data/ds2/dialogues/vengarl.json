@@ -1,6 +1,591 @@
 {
   "npc": "vengarl",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/vengarl.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/vengarl.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……你走吧。",
+      "jap": "…去れ",
+      "eng": "Leave me be.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我只想平静地过日子，\r\n你走吧。",
+      "jap": "私は静寂が欲しいだけだ\r\n去れ",
+      "eng": "I like it quiet.\r\nLeave me be.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "旅人啊，你来这里做什么？",
+      "jap": "旅の者か、こんな場所に何用だ",
+      "eng": "What business have you here, traveller?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "我名叫温格。\r\n现在我人都这样了，这个名字也已经没什么意义了。",
+      "jap": "我が名はヴァンガル\r\nこのありさまでは、その名に最早意味などないが",
+      "eng": "You may call me Vengarl.\r\nIf I deserve a name, in this sorry state.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "我已经有多久没跟人交谈了？\r\n或许偶尔来一次也不错。",
+      "jap": "他人と口を利くことなど、いつ以来であろうか\r\nたまにはよいものかもしれん",
+      "eng": "'Tis rare to flap these gums.\r\nThis is pleasant. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "我过去曾是这个国家雇用的战士。",
+      "jap": "我はかつて、この国に雇われた戦士であった",
+      "eng": "Long ago, I was hired to defend the kingdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "在漫长严苛的战争最后，\r\n我应该是被某人杀掉了才对，然而…",
+      "jap": "長く厳しい戦いの果て、我は何者かの手によって殺された\r\nそのはずであったのだが…",
+      "eng": "I remember a long, brutal fight, and then...\r\nSomebody killed me. Or so I thought...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "当我醒过来时就变成这个模样了。",
+      "jap": "気付いた時には、この有様であった",
+      "eng": "I came to, and found myself like this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "我不知道自己身上岀了什么事，\r\n不过就这样似乎也不错。",
+      "jap": "我が身に何が起きたのかは知らぬ\r\nだがこれはこれで、悪くはないのだ",
+      "eng": "I don't know what explains it,\r\nbut it's not so bad, really.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "在经年累月的战争中，\r\n有很多我根本没发现的宝贵事物。",
+      "jap": "日の移ろいと、幾多の星々のもと\r\n戦いの中にあっては気づかぬ、多くの尊いものたち",
+      "eng": "And now I watch the days go by, and gaze at the night sky,\r\nthinking of the finer things, far removed from war.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我已经厌倦打仗了。\r\n一直到变成这副模样才第一次发现这回事。",
+      "jap": "我は戦いに疲れていた\r\nこの姿になって初めて、それに気づいたのだ",
+      "eng": "I'd grown weary of battle,\r\nbut did not realise it until now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "我不知道你在旅行中想要追寻什么，\r\n而且我也不想过问。",
+      "jap": "そなたの旅が、何を求めてのものかは知らぬ\r\nそれを尋ねる気もない",
+      "eng": "I know not what brings you on this journey,\r\nnor will I deign to ask.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "所有人都被某种东西束缚着。\r\n我已经不想和那些扯上关系了。",
+      "jap": "人は皆、何かに囚われておる\r\n我はもう、それに関わりたくないのだ",
+      "eng": "You may bear a great burden, but don't we all?\r\nI prefer to stay my distance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "不过我得给你个忠告。\r\n事关我的身体。",
+      "jap": "だがひとつ、忠告をしておこう\r\n我の身体のことよ",
+      "eng": "But I want to warn you of something.\r\nMy body.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "今后你应该会偶尔梦见我的身体。\r\n我那无头的身体会在你的梦里不断战斗。",
+      "jap": "時折、夢を見る\r\n首のない我の身体が、戦いを続けている夢を",
+      "eng": "I see visions; my body, headless,\r\nraging without me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我的剑法是战场用的杀招。\r\n那是只为了打倒敌人、杀掉敌人而创造的技巧。",
+      "jap": "我の剣は、戦場の剣\r\nただ倒し、殺すためだけの技",
+      "eng": "My body, wielding my sword,\r\na sword forged only to kill.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "那不是一般人打得赢的对手。\r\n就算找到我身体，也别出手比较好。",
+      "jap": "尋常に勝てる相手ではない\r\n見かけても手を出さぬがよかろう",
+      "eng": "My body will show no mercy.\r\nIf you see the wretched thing, stay far away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0第5次说话",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "我每天都在不断学习。\r\n我学的就是那些在战斗中学不到的一大堆东西。",
+      "jap": "日々我は学び続けておる\r\n戦いの中では知りえなかった多くのことをな",
+      "eng": "I learn new things every day.\r\nThings never learned in battle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "不过托你的福，\r\n隔了这么久终于能和人交谈，让我很高兴啊。",
+      "jap": "だが、そなたのおかげで、\r\n久しぶりに人と語り合う喜びを味わった",
+      "eng": "And, thanks to you,\r\nI've recalled the joy of conversation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "有什么要求，不妨说说看。\r\n或许我能够帮上忙。",
+      "jap": "望むものがあれば言うがよい\r\n力になれるやもしれぬ",
+      "eng": "If I can help you,\r\nif you require something, do speak up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0第6次说话",
+      "jap": "#0話しかけた:6回目以降",
+      "eng": "#0Talk-6th time and above",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "我们又见面了。\r\n你还真是个喜欢没事找事的家伙啊。",
+      "jap": "また来たのか\r\nそなたも物好きなものだ",
+      "eng": "Back again?\r\nWell, this is a pleasant surprise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "如果说我完全不在乎这个国家会变成怎样，\r\n那是骗人的。",
+      "jap": "この国がどのようになったのか、\r\n気にならぬと言えば、嘘になる",
+      "eng": "I cannot lie.\r\nSometimes I wonder what's become of the kingdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "虽然我只是个佣兵，\r\n但这里曾有和我一起出生入死的同伴。",
+      "jap": "雇われの身ではあったが、\r\n共に死線をくぐった仲間もいた",
+      "eng": "I was a hired hand, yes,\r\nbut we soldiers stared death in the eye together.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "还有那位国王…\r\n跟那个人……",
+      "jap": "そして、あの王…\r\nあの御仁は…",
+      "eng": "And for His Highness...\r\nI am afraid...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "但是我觉得这样肯定是最好的。\r\n至少我们知道自己是为何而战……",
+      "jap": "だがきっと、これでよかったのだ\r\n戦いの果てに、何があったというのか…",
+      "eng": "But, perhaps it is for the best.\r\nWe knew not what we fought for.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "我是在位于遥远的东方，\r\n一个名叫佛罗札的国家出生的。",
+      "jap": "我は遠く、遥か東の地\r\nフォローザという国に生まれた",
+      "eng": "I was born in Forossa.\r\nIt's a land in the distant east.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "该国常常和邻国爆发纷争，\r\n而且在我懂事之前就一直是这样了。",
+      "jap": "国は、常に隣国との争いを繰り返していた\r\n我が物心つく以前から、ずっと",
+      "eng": "When I was born,\r\nwe were already mired in prolonged conflict with our neighbours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "后来该国被灭了，民众也流离失所。",
+      "jap": "あげく国は亡び、民は散り散りになった",
+      "eng": "Eventually, our kingdom fell, and our people scattered. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "从那时以来，我就以一介佣兵的身分讨生活。",
+      "jap": "以来、我は傭われの兵として生きてきたのだ",
+      "eng": "I've been a sellsword ever since.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "只懂打仗的我完全不知道还有别的生存之道。",
+      "jap": "戦いしか知らぬ我は、他に道があることすら気づかなかった",
+      "eng": "All I ever knew was war, and I can imagine no other way to live.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "现在看来那真是蠢到极点啊。",
+      "jap": "何と愚かなことよ",
+      "eng": "What a fool I was.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "我热爱现在这种平静的生活。",
+      "jap": "我はこの、今の穏やかな生を愛している",
+      "eng": "I am grateful for these peaceful days.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "可是这种想法本身不就表示我被\"现在\"所束缚了吗？",
+      "jap": "だが、その想いそのものが\"今\"に囚われていることに他ならぬ",
+      "eng": "But such contentment lies only in the here and now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "所谓\"活着\"就是这么麻烦的事啊。",
+      "jap": "生きるとは、中々に厄介なものよ",
+      "eng": "Why must life be so confounding...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0完成所有对话后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・すべての雜談を聞いた",
+      "eng": "#0Menu-Choose \"Talk\" after exhausting his dialogue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "让你听我扯了一堆无聊的话，我很感谢你。",
+      "jap": "つまらぬ話に付き合ってくれたこと、感謝したい",
+      "eng": "Thank you, for lending an ear to my ramblings.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "这个就交给你吧，反正我已经不需要它了。",
+      "jap": "これを授けよう、最早我には不要だ",
+      "eng": "Here, take these. I have no use for them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "你就走你自己的路吧。",
+      "jap": "そなたの道を行くがよい",
+      "eng": "Go along, and resume your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0击杀温格的身体后说话",
+      "jap": "#0リストから選択:話す・ヴァンガルの身体を倒したあと",
+      "eng": "#0Menu-Choose \"Talk\" after defeating Vengarl's body",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "摧毁我身体的人，\r\n是你吧。",
+      "jap": "そなたか\r\n我の身体を撃ち滅ぼしたのだな",
+      "eng": "Ah, it was you,\r\nwho vanquished my body.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "那个和我是有联系的，\r\n不用说我也知道。",
+      "jap": "あれと我はつながっていた\r\n言わずともわかる",
+      "eng": "It is my body, you see,\r\nand I can sense what happens to it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "这样我就没什么好担心的了，\r\n非常感谢你。",
+      "jap": "最早憂いはない\r\n感謝するぞ",
+      "eng": "I do not mourn for it.\r\nGood riddance! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "如果有事找我就叫一声吧。\r\n如果不问世事的我帮得上忙，那么乐意效劳。",
+      "jap": "そなたが求めるのなら呼ぶがいい\r\n争いから引いた身でよければ、参じよう",
+      "eng": "If you wish for help, summon me.\r\nI am rusty in battle, but will fight by your side.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "再见。\r\n我这里要再次恢复宁静了。",
+      "jap": "さらばだ\r\n我は再び静寂に浸るとしよう",
+      "eng": "Farewell.\r\nI will retire to my silence.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "再见。\r\n希望我们后会有期。",
+      "jap": "さらばだ\r\nまた会える日を待っておるぞ",
+      "eng": "Farewell.\r\nMay we meet again, one day soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "祝你旅途愉快…",
+      "jap": "良き旅をな…",
+      "eng": "Safe travels, then...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "呜哇!!",
+      "jap": "ぐおっ！！",
+      "eng": "Hrgoah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "你在做什么!?",
+      "jap": "何をするか！？",
+      "eng": "How dare you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "你现在已经沉迷于杀戮了吗…",
+      "jap": "貴様、殺しに魅入られたか…",
+      "eng": "A murderer now, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "你这家伙…！",
+      "jap": "貴様…！",
+      "eng": "You fiend!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0After approaching him while hostiled, after the protagonist leaves & returns",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "是你啊…",
+      "jap": "貴様か…",
+      "eng": "There you are...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "想做就做吧…",
+      "jap": "やるならやればよい…",
+      "eng": "As you wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "人生无常啊…",
+      "jap": "無常よ…",
+      "eng": "Life goes on...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "##我只是想平静地过日子而已…",
+      "jap": "##我はただ、静寂を欲しておるだけよ…",
+      "eng": "##I like quiet. It's all I ever wished for.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

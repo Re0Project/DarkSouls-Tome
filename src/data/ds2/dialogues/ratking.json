@@ -1,6 +1,727 @@
 {
   "npc": "ratking",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/ratking.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/ratking.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "离去吧，人类。",
+      "jap": "立ち去るがよい、人間よ",
+      "eng": "Leave this place, human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "朕无意与你们来往。",
+      "jap": "余は、汝らのような者と交わる気はない",
+      "eng": "We have no time for thy kind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "污秽的人类，离去吧。",
+      "jap": "穢らわしい人間よ、去るがよい",
+      "eng": "Humans bring nothing but filth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "朕曾说过无意与你来往。",
+      "jap": "交わる気はないと申したはず",
+      "eng": "Thy welcome wearest thin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "离去吧。",
+      "jap": "去るがよい",
+      "eng": "Leave this place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0持有老鼠尾巴时说话",
+      "jap": "#0話しかけた:ネズミのしっぽを持っている",
+      "eng": "#0Talk-1st time, after acquiring a Rat Tail",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "人类，\r\n那是老鼠尾巴吧。",
+      "jap": "人間よ\r\nそれはネズミのしっぽだな",
+      "eng": "Is that a Rat Tail,\r\nhuman?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "表示你已征服朕治下的鼠之领域啰，\r\n看不出你如此好手段。",
+      "jap": "余の配下たるネズミの領域を征した、ということか\r\n見かけによらず、やるものよ",
+      "eng": "Thou'st one of mine rat burrows conquered.\r\nThis will not go unnoticed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "高兴吧。\r\n你获得了侍奉朕的资格。",
+      "jap": "喜ぶがよい\r\n汝は余に仕える資格を手にした",
+      "eng": "Rejoice,\r\nfor the right to serve me is now thine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "然而，你不过是区区人类。",
+      "jap": "されど、汝は所詮人間に過ぎぬ",
+      "eng": "Since thou'rt human still...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "人类、朕问你，\r\n是否愿舍人类魂魄，向朕输诚。",
+      "jap": "人間よ、汝に問おう\r\n人の魂を捨て、余に忠誠を誓うか",
+      "eng": "Permit me ask. Wilt thou thy human soul surrender,\r\nand pledge thyself to me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "是否以无比温暖亲切的\r\n地底污泥起誓输诚。",
+      "jap": "何よりも温かく優しい\r\n地の汚泥に懸けて、忠誠を誓うか",
+      "eng": "Swearest thou by the sweet-tempered sludge\r\nthat laps at our bosoms?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0是否订立鼠王誓约？选择「否」",
+      "jap": "#0話しかけた:ネズミのしっぽを持っている・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "何必多言，\r\n不过是污秽人类的妄语。",
+      "jap": "是非もなし\r\n所詮穢れた人間の戯れ事か",
+      "eng": "Of course.\r\nHumans are all alike.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "离去吧。\r\n你身恶臭难以忍受。",
+      "jap": "去るがよい\r\n汝の臭いには耐えられぬ",
+      "eng": "Get thee gone.\r\nWe will tolerate thy stench no longer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0选择「否」后说话",
+      "jap": "#0話しかけた:選択肢【NO】を選んだあと",
+      "eng": "#0Talk-After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "又是你。",
+      "jap": "また汝か",
+      "eng": "Thou return'st?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "朕的心胸广阔，\r\n你愿回心转意，朕可听之。",
+      "jap": "余は寛容である\r\n汝が考えを改めるというのなら、聞いてやろう",
+      "eng": "I am not unkind. Shouldst thou forbear thy ways,\r\naudience shall be thine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "人类，你言愿侍朕为主？",
+      "jap": "人間よ、汝は余に仕えたいと申すか？",
+      "eng": "Swearest thou to serve me true?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0选择「否」后，是否订立鼠王誓约？选择「否」",
+      "jap": "#0話しかけた:選択肢【NO】を選んだあと・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "如此，无须再作交往。",
+      "jap": "なれば、これ以上の交らいは不要",
+      "eng": "Then we need consort no longer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0是否订立鼠王誓约？选择「是」",
+      "jap": "#0話しかけた:ネズミのしっぽを持っている・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "你为美之真谛的理解者。",
+      "jap": "汝は、まことの美しさがわかる者のよう",
+      "eng": "Thou hast the eyes of one who perceiveth true beauty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "人类，朕准你入侍。",
+      "jap": "人間よ、余に仕えることを許そうぞ",
+      "eng": "Human, thou mayest serve.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "此戒指授予你，\r\n由曾与鼠族同在的人类所打造。",
+      "jap": "この指輪を授ける\r\nかつて、ネズミと共にあった人間の手によるものよ",
+      "eng": "Take this ring.\r\nIt was forged by a human who was once among us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "蕴含将入侵朕领域者召唤至你领域内的力量。",
+      "jap": "余の領域を侵す者を、汝のもとへと招く力を宿しておる",
+      "eng": "The ring draws to thee those who would defile our burrow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "在此地，可先穿戴于身。",
+      "jap": "この地では、それを身につけておくがよい",
+      "eng": "Wear the ring whenever thou'rt near.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "为朕除诛不法人类，乃你的使命。",
+      "jap": "不埒な人間を、余のために誅することが汝の使命",
+      "eng": "And destroy those who would dare provoke our ire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "有任何需要，自当颁下。",
+      "jap": "入用のものがあれば与えよう",
+      "eng": "I will grant unto thee all thou should so desire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "期望你建功立业，光耀鼠族之名。",
+      "jap": "ネズミの名に恥じぬ働き、期待しておるぞ",
+      "eng": "I prithee serve with a true rat's honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0加入鼠王誓约后",
+      "jap": "#0話しかけた:誓約を結んだあと",
+      "eng": "#0Talk-After joining the Rat King Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "仆人，何事来奏。",
+      "jap": "何用か、わがしもべよ",
+      "eng": "Speak thy mind, servant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "仆人，其后处置结果如何。",
+      "jap": "しもべよ、その後の首尾はどうか",
+      "eng": "My servant, tell me the way of things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "你虽为人类，\r\n朕许你侍奉之荣耀。",
+      "jap": "汝は人間でありながら、\r\n余に仕える栄誉を許された",
+      "eng": "There has been much honour in thy service,\r\ndespite the human blood coursing thy veins.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "你应上体天心，\r\n尽忠奉公。",
+      "jap": "余の寛容さを知るがいい\r\nそして期待に応えよ",
+      "eng": "I am merciful,\r\nand trust in thee as I would any rat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "入侵朕领域的狂妄之辈，接二连三。",
+      "jap": "余の領域を侵す不貞の輩は、後を絶たぬ",
+      "eng": "The insolent fools line up to trample upon our burrows.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "仆人，诛除那些愚昧，\r\n朕将予你回报。",
+      "jap": "しもべよ、愚か者を誅するのだ\r\nさすれば余はそれに報いよう",
+      "eng": "My servant, dispatch these invaders,\r\nand thy reward will be handsome indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "听过\"法洛斯之石\"否？\r\n乃是人类创造的奇妙机关。",
+      "jap": "\"ファロスの石\"を知っておるか\r\nかつて人間が作り上げた、奇妙なからくりよ",
+      "eng": "Knowest thee of the Lockstones?\r\nThose odd contraptions fashioned by human hand long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "你为人类，应可操持自如。",
+      "jap": "人間である汝ならば、使いこなせよう",
+      "eng": "Thou art human, and thence able.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "你等人类均有奸智，\r\n可以此诛除侵犯朕领域者。",
+      "jap": "汝ら人間には、小賢しい知恵がある\r\nそれを使い、余の領域を侵す者を誅せよ",
+      "eng": "I know thy kind, base plotters and schemers all.\r\nPut these contraptions to thy employ 'gainst thy foe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0撕毁誓约后说话",
+      "jap": "#0話しかけた:誓約を破棄したあと",
+      "eng": "#0Talk-After leaving the Rat King Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "何以来此，\r\n人类。",
+      "jap": "何をしにここへ来た\r\n人間よ",
+      "eng": "Why comest thou here,\r\nhuman?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "你的背信，岂能轻饶。",
+      "jap": "汝の背信、許されると思うな",
+      "eng": "Thy treason will not go unpunished.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "离去吧。\r\n离开朕眼光所及之处。",
+      "jap": "失せよ\r\n余の前から立ち去るがよい",
+      "eng": "Be gone.\r\nI will gaze upon thee no longer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0撕毁誓约后，是否订立鼠王誓约？选择「否」",
+      "jap": "#0話しかけた:誓約を破棄したあと・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 3rd query, after previously leaving Rat King Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "为人王者岂容他人离叛，\r\n离去吧。",
+      "jap": "王たる者、裏切りを許すことはない\r\n去るがよい",
+      "eng": "Traitors will not be forgiven.\r\nGet thee gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0撕毁誓约后，是否订立鼠王誓约？选择「是」",
+      "jap": "#0話しかけた:誓約を破棄したあと・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 3rd query, after previously leaving Rat King Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "仆人，朕之期望，切勿自负。",
+      "jap": "しもべよ、余の期待を裏切るでないぞ",
+      "eng": "My servant, do not disappoint me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0提升鼠王誓约到等级1后说话",
+      "jap": "#0誓約のランクが1になった",
+      "eng": "#0Talk-After gaining rank +1 as a member of the Rat King Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "你的功劳朕已知悉，相当不错。",
+      "jap": "汝の働きは見ておるぞ、なかなかのものよ",
+      "eng": "I am aware of thine accomplishments, and they are not few.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "远古之时，朕曾与人类之首订盟。",
+      "jap": "遥か古、余と人間の長とは盟約を結んでおった",
+      "eng": "Long ago, I struck an accord with a human chieftain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "人类居日光所及处，鼠族居地之下，\r\n此乃双方之约誓。",
+      "jap": "人間は日の光あるところに、ネズミは地の下に\r\nそれが約定であった",
+      "eng": "'Twas agreed, Humans would rule the lands\r\nlapped by the sun's rays, and rats, all that was below.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "人类爱说话又狡诈。",
+      "jap": "人間は嘘をつく、小賢しいことよ",
+      "eng": "But humans are liars all, schemers and cheats.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "你亦为此类乎？\r\n千万别背叛朕。",
+      "jap": "汝はそのような者ではなかろう\r\n余を裏切るでないぞ",
+      "eng": "Thou art from a different cloth cut.\r\nDo not disappoint me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0提升鼠王誓约到等级2后说话",
+      "jap": "#0誓約のランクが2になった",
+      "eng": "#0Talk-After gaining rank +2 as a member of the Rat King Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "仆人，你的功劳朕已知悉，\r\n但还不够。",
+      "jap": "活躍は聞いておるぞ、しもべよ\r\nだが、まだ足りぬ",
+      "eng": "Thy deeds are known to me.\r\nStill, there is ever more work to be done.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "人类的欲望强烈，甚至欲撕毁盟约，\r\n将吾族赶尽杀绝。",
+      "jap": "人間は強欲なものよ\r\nかつての盟約を破り、我らを狩り立てようとしおる",
+      "eng": "Humans are creatures of greed.\r\nThe time came they broke their word, and hunted us down.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "日照未及、地下之处乃吾等所有，\r\n你等人类切勿忘记。",
+      "jap": "日の当たらぬ場所、地の下は我らのもの\r\n汝ら人間は、それを忘れた",
+      "eng": "I had their word the underworld was ours to rule,\r\nuntouched as it is, by the rays of the sun.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "越想追求一切，\r\n越是一无所获啊。",
+      "jap": "何もかもを求めようとすればするほど\r\n何をも得ることはできぬというのに",
+      "eng": "The more humans coveted,\r\nthe more blinded they became as to what truly mattered.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "因此朕谓人类愚昧，\r\n同情他们。",
+      "jap": "それ故よ\r\n余が人間を愚かと呼び、哀れむのは",
+      "eng": "And that is why I pity\r\nthe fools called humans.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "仆人啊，\r\n你尚残存着人味。",
+      "jap": "しもべよ\r\n汝はまだ、人間の臭いを残しておる",
+      "eng": "My servant,\r\nhuman scent lingers upon thee yet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "舍得否？",
+      "jap": "さて、それを捨てられるものか",
+      "eng": "Rid thyself of it, if thou canst.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0提升鼠王誓约到等级3后说话",
+      "jap": "#0誓約のランクが3になった",
+      "eng": "#0Talk-After gaining rank +3 as a member of the Rat King Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "仆人，你已证明了自己。",
+      "jap": "しもべよ、汝はその身の証を立てた",
+      "eng": "My servant, well met indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "即使身受日光荼毒，\r\n也有值得信任之人。",
+      "jap": "日の光に毒された者とて\r\n信ずるに値するものはおるようだ",
+      "eng": "'Twould seem some sunlight-poisoned creatures\r\nare worthy of great honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "让朕有梦，\r\n能有迎向人类与吾族同声庆太平的一天。",
+      "jap": "余は夢見ておこう\r\nいつか人間と我らが、共に平和を謳歌する時を",
+      "eng": "Thou'st permitted me to dream. One day,\r\nrats and humans may yet live and die together, in peace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "仆人，朕之期望，切勿自负。",
+      "jap": "しもべよ、余の期待を裏切るでないぞ",
+      "eng": "My servant, do not disappoint me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "仆人，尽诛朕之敌吧。",
+      "jap": "しもべよ、余の敵を誅せよ",
+      "eng": "My servant, destroy my enemies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "去吧，仆人。",
+      "jap": "行くがよい、しもべよ",
+      "eng": "Go then, my servant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "你欲何为？",
+      "jap": "何が望みか",
+      "eng": "What is thy purpose?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "玩笑适可而止了。",
+      "jap": "戯れもそこまでにせよ",
+      "eng": "Enough of thy baseness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "……",
+      "jap": "次は許さぬぞ…",
+      "eng": "I've had quite enough.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "俗人，\r\n让你知道厉害！",
+      "jap": "思い知らせてくれようぞ\r\n下郎！",
+      "eng": "I will destroy thee,\r\nfilthy human!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "没想到还敢回来，愚不可及。",
+      "jap": "戻ってくるとは、とびきりの愚か者よの",
+      "eng": "Thou art a fool to show thy face here!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "卑鄙下作……",
+      "jap": "きたならしい…",
+      "eng": "Disgusting creature...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "##再来容不得你放肆了……",
+      "jap": "##…",
+      "eng": "##Adieu sweet burrow.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

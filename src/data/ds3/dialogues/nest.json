@@ -1,6 +1,191 @@
 {
   "npc": "nest",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/nest.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/nest.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次靠近鸟巢时",
+      "jap": "#0話しかけられた:範囲に入った",
+      "eng": "#0After approaching their location for the 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喂、喂，",
+      "jap": "ねえ、ねえ",
+      "eng": "You, you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "给人家哔哔的。",
+      "jap": "ぴゅーぴゅーちょうだい",
+      "eng": "Me, me, pickle-pee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "给人家咚咚的。",
+      "jap": "ぽこぽこちょうだい",
+      "eng": "Me, me, pump-a-rum.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次靠近鸟巢时",
+      "jap": "#0話しかけられた:範囲に入って一定時間経過",
+      "eng": "#0After approaching their location for the 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "喂！喂！",
+      "jap": "ねえ！ねえ！",
+      "eng": "You! You!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "给人家哔哔的！",
+      "jap": "ぴゅーぴゅーちょうだい！",
+      "eng": "Me, me, pickle pee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "给人家咚咚的！",
+      "jap": "ぽこぽこちょうだい！",
+      "eng": "Me, me, pump-a-rum!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0放置不可交换的物品时",
+      "jap": "#0話しかけられた:交換対象外のアイテムを置いた",
+      "eng": "#0After dropping a non-exchangable item",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "喂、喂，",
+      "jap": "ねえ、ねえ",
+      "eng": "You, you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "不是这个啦。",
+      "jap": "それ、ちがうよ",
+      "eng": "No, no.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "这个不会哔哔啊。",
+      "jap": "ぴゅーぴゅーじゃ、ないよ",
+      "eng": "That no pickle pee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "这个不会咚咚啊。",
+      "jap": "ぽこぽこじゃ、ないよ",
+      "eng": "That no pump-a-rum.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第1次放置可交换的物品时",
+      "jap": "#0話しかけられた:交換対象のアイテムを置いたA",
+      "eng": "#0After dropping an exchangable item-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "哔哔！",
+      "jap": "ぴゅーぴゅー！",
+      "eng": "Pickle pee, pickle pee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "哔哔！",
+      "jap": "ぴゅーぴゅー！",
+      "eng": "Pickle pee, pickle pee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0第2次放置可交换的物品时",
+      "jap": "#0話しかけられた:交換対象のアイテムを置いたB",
+      "eng": "#0After dropping an exchangable item-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "咚咚！",
+      "jap": "ぽこぽこ！",
+      "eng": "Pump-a-rum, pump-a-rum!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "咚咚！",
+      "jap": "ぽこぽこ！",
+      "eng": "Pump-a-rum, pump-a-rum!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0放置已交换的物品时",
+      "jap": "#0話しかけられた:既に交換した対象アイテムを置いた",
+      "eng": "#0After dropping a previously exchanged item",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "喂、喂，",
+      "jap": "ねえ、ねえ",
+      "eng": "You, you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "不是这个啦。",
+      "jap": "それ、ちがうよ",
+      "eng": "Not that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "人家不要这个。",
+      "jap": "もう、いらないよ",
+      "eng": "Enough, enough.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

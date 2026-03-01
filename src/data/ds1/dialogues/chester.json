@@ -1,6 +1,815 @@
 {
   "npc": "chester",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/chester.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/chester.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "嗯？你是……难道和我一样吗？",
+      "jap": "ん？貴様は…もしや、私と同じか？",
+      "eng": "Hm...Oh, let me guess...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "被黑色大手抓住，来到了过去……",
+      "jap": "黒い腕に引きずり込まれ、過去にいたった…",
+      "eng": "Snatched by a shadowy limb, and dragged off to the past?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "#0您打算如何回答？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to his query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 4,
+      "chn": "哦，是喔……",
+      "jap": "ほう、そうか…",
+      "eng": "Oh, well, my mistake...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "没关系，总是出外旅行之人，",
+      "jap": "まあいい、旅人であるのは変わるまい",
+      "eng": "But we are both travellers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "就让我们彼此互助吧。",
+      "jap": "お互い、助け合っていこうじゃあないか",
+      "eng": "We ought to help one another out.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to his query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "果然如此啊……我们彼此都碰上这么诡异的体验。",
+      "jap": "やはりそうか。…お互い、不思議なこともあるものだ",
+      "eng": "Yes, of course. Exactly what happened to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "在这不熟悉的时代，多少会有不便，",
+      "jap": "慣れぬ時代だ、不便もあるだろう",
+      "eng": "We are both strangers in this strange land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "就让我们彼此互助吧。",
+      "jap": "お互い、助け合っていこうじゃあないか",
+      "eng": "But, at least now there are two of us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "喂，你还活着啊",
+      "jap": "おう、貴様、まだ生きていたか",
+      "eng": "Oh, still alive, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "怎么了？难道有了什么想要的东西吗？",
+      "jap": "で、どうした？欲しいものでもできたのかな？",
+      "eng": "Think of anything that you might need?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "喂，你是怎么了？",
+      "jap": "おう、貴様、どうしたんだ？",
+      "eng": "Oh, for Juniper's sake.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "看起来有点无精打采耶？",
+      "jap": "妙にしょぼくれているじゃないか",
+      "eng": "Put some spring into your step!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "哼哼哼",
+      "jap": "クックックッ",
+      "eng": "Mwah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0击杀亚尔特留斯前，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すA・騎士アルトリウス撃破前",
+      "eng": "#0Menu-Choose \"Talk\" before defeating Artorias",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "你碰上骑士亚尔特留斯了吗？",
+      "jap": "貴様、騎士アルトリウスに会っているか？",
+      "eng": "Did you happen across Knight Artorias?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "就是原本时代里，那个传说中狩猎深渊的英雄啊。",
+      "jap": "元の時代の伝承にあった、深淵狩りの英雄さ",
+      "eng": "The legendary Abysswalker, from the old tales.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "……没碰上的话就算了",
+      "jap": "…まあ、会っていないのなら、それでいい",
+      "eng": "...Well, if you haven't, it's just as well...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "反正也没什么趣味……",
+      "jap": "所詮つまらん話さ…",
+      "eng": "He's a colourless sort, if you ask me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "咕咕咕",
+      "jap": "クックックッ",
+      "eng": "Mwah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0接受伊丽莎白的请求后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" after accepting Elizabeth's query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "哦，你答应那朵香菇的拜托了？",
+      "jap": "ほう、貴様、あのキノコの願いを聞いたのか",
+      "eng": "So, what did that giant mushroom make you do?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "那可真是……真是妙得很。",
+      "jap": "それはそれは…なんとも物好きなことだ",
+      "eng": "Not that I care. It's none of my business.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "不过，这样啊，没想到她会施展魔法啊……",
+      "jap": "だが、そうか、まさかあれが魔術をねえ…",
+      "eng": "But I do wonder about those sorceries of hers...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "哼哼哼",
+      "jap": "クックックッ",
+      "eng": "Heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "嗯？也没什么好说，",
+      "jap": "うん？話など、特にはないなあ",
+      "eng": "Hm? I've little to talk about, really.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "抱歉啦，我什么都不清楚啊……",
+      "jap": "すまんが、何も知らぬものでなあ…",
+      "eng": "Oh, you know me. What do I know?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "哼哼哼",
+      "jap": "クックックッ",
+      "eng": "Heh heh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0击杀亚尔特留斯后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すD・騎士アルトリウス撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after defeating Artorias",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "哦，你打倒那个骑士亚尔特留斯啦？",
+      "jap": "ほう、貴様、騎士アルトリウスを倒したのか",
+      "eng": "Did you really slay Knight Artorias?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "虽说被深渊给侵蚀，不过竟然能打倒那位英雄……",
+      "jap": "深淵に飲まれたとは言え、あの英雄をなあ…",
+      "eng": "I'd heard the Abyss found him first, but even still...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "哎，这很了不起的耶。",
+      "jap": "いや、それはすばらしいことだ",
+      "eng": "That's absolutely treacherous.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "真的很了不起……",
+      "jap": "とてもすばらしいことだよ…",
+      "eng": "Yes, magnificently so!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "哼哼哼",
+      "jap": "クックックッ",
+      "eng": "Mwah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0击杀亚尔特留斯后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すE・騎士アルトリウス撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after defeating Artorias",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "话说回来，你的好奇心也真是旺盛，",
+      "jap": "それにしても、貴様も物好きなことだ",
+      "eng": "Believe it or not,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "深渊那档子事情，本来就是乌拉席露自作自受。",
+      "jap": "深淵など、まさにウーラシールの自業自得",
+      "eng": "Oolacile has brought the Abyss upon itself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "被那匹暴牙大蛇骗去挖坟，\r\n侮辱先人遗骸──",
+      "jap": "出っ歯の大蛇に謀られ、墓を掘り、\r\n古人の躯を辱めるなど",
+      "eng": "Fooled by that toothy serpent, they upturned the grave\r\nof primeval man, and incited his ornery wrath.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "简直就是不要脸的愚蠢行为。",
+      "jap": "まさに恥知らず、愚者ではないか",
+      "eng": "What could they have been thinking?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "而且对我们来说，不过是以前发生的故事，",
+      "jap": "それに、所詮私たちには昔の話だ",
+      "eng": "But to you and I, it's all ancient history.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "你大可以袖手旁观，不是吗？",
+      "jap": "貴様の知ったことでもないだろうに",
+      "eng": "You have to ask yourself. Does it really matter?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "哼哼哼",
+      "jap": "クックックッ",
+      "eng": "Heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0在乌拉席露市镇受到暗灵切斯特入侵后攀谈",
+      "jap": "#0話しかけた:ウーラシール市街で侵入戦後",
+      "eng": "#0Talk-After he invades the protagonist in the Oolacile Township",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "……哦，是你啊……",
+      "jap": "…ほう、貴様か…",
+      "eng": "Oh, you again...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "怎么了？看你那副神色不豫的尊容，有事找我吧？",
+      "jap": "どうした？妙な顔を妙にして、俺に用があるのだろう？",
+      "eng": "What ever's the matter? No, I can tell. You need me more than ever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "哼哼哼哼哼",
+      "jap": "クックックックックッ",
+      "eng": "Mwah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0在乌拉席露市镇击杀暗灵切斯特后攀谈",
+      "jap": "#0話しかけた:ウーラシール市街で撃退後",
+      "eng": "#0Talk-After vanquishing his Dark Phantom in the Oolacile Township",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "……哦，是你啊……",
+      "jap": "…ほう、貴様…",
+      "eng": "...Oh, you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "竟然还敢现身……该说你迟钝，还是脸皮够厚……",
+      "jap": "よくもまあ…鈍いのか、それとも厚顔か…",
+      "eng": "You have quite some nerve. Or are you just thick?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "……算了，你有事找我，对吧？",
+      "jap": "…まあいい。俺に用があるのだろう？",
+      "eng": "Fine, then. What is it that you need?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0在乌拉席露市镇受到暗灵切斯特入侵后攀谈，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すF・ウーラシール市街で侵入戦後",
+      "eng": "#0Menu-Choose \"Talk\" after he invaded as Dark Phantom, but not vanquished",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "有什么事？有话就直说啊？",
+      "jap": "なんだ？言いたいことがあれば、言えばよかろう？",
+      "eng": "What? If you've something to say, then say it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "不过，后果如何你可要想清楚……",
+      "jap": "それでどうなるのか、十分に考えた上でなあ…",
+      "eng": "Just don't say the wrong thing...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "哼哼哼哼哼",
+      "jap": "クックックックックッ",
+      "eng": "Heh heh heh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0在乌拉席露市镇击杀暗灵切斯特后攀谈，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すG・ウーラシール市街で撃退後",
+      "eng": "#0Menu-Choose \"Talk\" after vanquishing his Dark Phantom",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "……你……竟然还敢来……",
+      "jap": "…貴様…よくもまあ…",
+      "eng": "...Well, you've quite the nerve!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "……我们之间哪有什么话好讲的……",
+      "jap": "…話など、そんなもの、あるものかよ…",
+      "eng": "I've had enough of you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "再见啦",
+      "jap": "じゃあな",
+      "eng": "So long.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0在乌拉席露市镇受到暗灵切斯特入侵后攀谈，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る・ウーラシール市街で侵入戦後",
+      "eng": "#0Menu-Choose \"Leave\" after he invaded as Dark Phantom, but not vanquished",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "再见啦",
+      "jap": "じゃあな",
+      "eng": "So long.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "……期待下次再相会……",
+      "jap": "…また会えるのを、楽しみにしているよ…",
+      "eng": "...We'll be seeing each other...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "哼哼哼哼哼",
+      "jap": "クックックックックッ",
+      "eng": "Gee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0在乌拉席露市镇击杀暗灵切斯特后攀谈，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る・ウーラシール市街で撃退後",
+      "eng": "#0Menu-Choose \"Leave\" after vanquishing his Dark Phantom",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "……再见啦，",
+      "jap": "…じゃあな",
+      "eng": "I'll be seeing you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "旅行一路上，记得小心一点啊……",
+      "jap": "気をつけて旅をするがいいさ…",
+      "eng": "If you survive your travels...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "呜",
+      "jap": "ウッ",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "咕",
+      "jap": "グッ",
+      "eng": "Erg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "好痛！",
+      "jap": "いてえ！",
+      "eng": "Oww!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "痛死我了啦！",
+      "jap": "いてえだろうが！",
+      "eng": "That bloody hurts!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "哦，想打一架是吧？",
+      "jap": "ほう、貴様、やるつもりか",
+      "eng": "Oh! It's come to blows, has it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "这样也好，蠢人就是无药可救啊！",
+      "jap": "それもよかろう。阿呆は阿呆だからな！",
+      "eng": "Fine, then. I've had enough of you, anyway!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0在乌拉席露市镇受到暗灵切斯特入侵后，返回攻击切斯特导致敌对时",
+      "jap": "#0敵対状態になった・ウーラシール市街で侵入戦後",
+      "eng": "#0Upon being attacked & made hostile, after he invaded in Oolacile Township",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "你想怎么样？恼羞成怒了吗？",
+      "jap": "なんだ、貴様？逆恨みか？",
+      "eng": "What now? You think this my fault?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "这样很不好，非常不好！",
+      "jap": "よくない、よくないなあ！",
+      "eng": "How very, very petty of you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "你这样做很不好啊！",
+      "jap": "そういうのはよくないぞお！",
+      "eng": "Very petty, indeed!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0攻击主角时",
+      "jap": "#0主人公を攻撃する",
+      "eng": "#0While attacking the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "看招",
+      "jap": "そうら",
+      "eng": "There!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "看招看招看招",
+      "jap": "そうら、そうら",
+      "eng": "Ah-hah, there!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0攻击使得主角血量低于11%时",
+      "jap": "#0主人公のHPが11%以下",
+      "eng": "#0After reducing the protagonist's health to below 11%",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "怎么了？快挂了吗？",
+      "jap": "どうした？死にそうか？",
+      "eng": "What? Now you're feeling the heat?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "说你蠢就是蠢！",
+      "jap": "所詮阿呆などそんなものか！",
+      "eng": "You should have thought long and hard...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "嘻──哈哈哈哈",
+      "jap": "ウエーハッハッハッハッハッ",
+      "eng": "Nyah hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist in his hostile, non-Dark Phantom state",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "哼，愚蠢……",
+      "jap": "フン、阿呆が…",
+      "eng": "You damn fool.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "就这点本事，以为打得过“伟哉”切斯特吗……",
+      "jap": "貴様ごときが、素晴らしいチェスターに敵うと思ったか…",
+      "eng": "I am Marvellous Chester! What did you expect?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 97,
+      "chn": "呜……",
+      "jap": "グウッ…",
+      "eng": "Hrrg...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "我服了，饶、饶了我吧……",
+      "jap": "参った、助けて、くれ…",
+      "eng": "You win...please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "求你……大发慈悲啊……",
+      "jap": "頼む…神の慈悲を…",
+      "eng": "Oh, please...have mercy...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "##为了那个小东西报仇，笑死人了！",
+      "jap": "##あんなものの仇など、大笑いさせるなよ！",
+      "eng": "##Before you sided with a bloody mushroom!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

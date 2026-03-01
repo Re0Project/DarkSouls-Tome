@@ -1,6 +1,167 @@
 {
   "npc": "aside",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/aside.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/aside.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0序幕",
+      "jap": "#0Prologue",
+      "eng": "#0Prologue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "没错。",
+      "jap": "そうさね",
+      "eng": "Yes, indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "那里是洛斯里克。",
+      "jap": "そこはロスリック",
+      "eng": "It is called Lothric,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "是历代传火薪王们的故乡，也是漂泊汇流之地。",
+      "jap": "火を継いだ、薪の王たちの故郷が、流れ着く場所さね",
+      "eng": "where the transitory lands of the Lords of Cinder converge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "因此巡礼者们皆向北而行，",
+      "jap": "だから巡礼者たちは北に向かい",
+      "eng": "In venturing north,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "并且了解了预言的含意──",
+      "jap": "そして、予言の意味を知るのさ",
+      "eng": "the pilgrims discover the truth of the old words.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "“火已渐熄，",
+      "jap": "\"火は陰り\"",
+      "eng": "\"The fire fades,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "位不见王影。”",
+      "jap": "\"王たちに玉座なし\"",
+      "eng": "and the lords go without thrones.\"",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "当传承火焰熄灭之时，钟声将响彻四周，",
+      "jap": "継ぎ火が絶えるとき、鐘が響きわたり",
+      "eng": "When the link of fire is threatened, the bell tolls,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "进而唤醒棺木中的古老薪王们。",
+      "jap": "古い薪の王たちが、棺より呼び起こされるだろう",
+      "eng": "unearthing the old Lords of Cinder from their graves.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "幽邃圣者──艾尔德利奇、",
+      "jap": "深みの聖者、エルドリッチ",
+      "eng": "Aldrich, Saint of the Deep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "深渊的监视者们──法兰的不死队，",
+      "jap": "ファランの不死隊、深淵の監視者たち",
+      "eng": "Farron's Undead Legion, the Abyss Watchers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "以及罪业之都的孤独王者──",
+      "jap": "そして、罪の都の孤独な王",
+      "eng": "And the reclusive lord of the Profaned Capital,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "巨人尤姆。",
+      "jap": "巨人のヨーム",
+      "eng": "Yhorm the Giant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "不过啊，",
+      "jap": "けれどね",
+      "eng": "Only, in truth...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "王者们一定会舍弃王位吧，",
+      "jap": "きっと王たちは、玉座を捨てるだろう",
+      "eng": "The Lords will abandon their thrones,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "而无火的余灰们将纷沓而至。",
+      "jap": "そして、火の無き灰たちがやってくる",
+      "eng": "and the Unkindled will rise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "那是无名、成不了薪，且被诅咒的不死人，",
+      "jap": "名も無く、薪にもなれなんだ、呪われた不死",
+      "eng": "Nameless, accursed Undead, unfit even to be cinder.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "但正因为如此，",
+      "jap": "けれど、だからこそ",
+      "eng": "And so it is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "灰烬才会如此渴求余火吧。",
+      "jap": "灰は残り火を求めるのさね",
+      "eng": "That ash seeketh embers.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,863 @@
 {
   "npc": "rosabeth",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/rosabeth.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/rosabeth.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第1次说话",
+      "jap": "#0話しかけた:1回目、石化を解いて助けた",
+      "eng": "#0Talk-1st time, after using a Fragrant Branch of Yore to unpetrity her",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "咳！咳！咳咳咳!!",
+      "jap": "ごほっ！げはっ！ごほっごほっ！！",
+      "eng": "Cough! Cough cough!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "谢、谢谢……谢谢、您……",
+      "jap": "あ、あり…ありがとう、ござい、ます…",
+      "eng": "Th-th...Thank...thank you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "咳、咳咳！",
+      "jap": "ごほっ、ごほっごほっ！",
+      "eng": "Cough cough!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我一直……都被石化……舌头还不灵光……",
+      "jap": "ずっと…石になって…うまく、しゃべれな…",
+      "eng": "I've been...petrified...hard to...speak...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "咳咳！呜……",
+      "jap": "ごほっごほっ！うー…",
+      "eng": "Cough! Oww...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "等我……等我一下子就好……！",
+      "jap": "すこし…すこしだけ待ってください…！",
+      "eng": "Give me...a moment, please!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time, on the path to the Shaded Woods",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "已、已经不要紧了……咳！",
+      "jap": "も、もう大丈夫みたいで…げふっ！",
+      "eng": "I'm fine, I think. Hrgg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "不、不要紧的！我不要紧！",
+      "jap": "だ、大丈夫！大丈夫です！",
+      "eng": "No no no, I'm fine! Really, I am!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "那个，我叫做罗莎贝娜。",
+      "jap": "あの、私は、ロザベナと言います",
+      "eng": "Um, my name is Rosabeth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "多谢您的搭救。\r\n呼——",
+      "jap": "助けていただいて、ありがとうございます\r\nふーっ",
+      "eng": "Thank you so much for rescuing me.\r\nPhew...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time, on the path to the Shaded Woods",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "请问！您是旅行者对吧!?",
+      "jap": "あの！旅の方ですよね？",
+      "eng": "Oh, you're that traveller!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我想报答这份恩情！我坚持!!",
+      "jap": "なにか、お礼をしたいんです、ぜひ",
+      "eng": "I still haven't thanked you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "那个，我很擅长咒术！",
+      "jap": "その、私、呪術なら得意なので",
+      "eng": "Well, I'm quite a hand at pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "嗯，所以……这不知道算不算是报恩？……",
+      "jap": "ええと、なので…これで、お礼になるでしょうか…？",
+      "eng": "So, perhaps... You could consider this my thanks?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time, on the path to the Shaded Woods",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "我被人突袭，之后就变成了石头……应该吧。",
+      "jap": "いきなり襲われて、それで石にされたんです…たぶん",
+      "eng": "I was attacked, and turned to stone...I think...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "你是我的恩人！\r\n要是一直变石头，我……",
+      "jap": "あなたは恩人です\r\nあのままだと、私は…",
+      "eng": "I owe you my life!\r\nIf you had not come...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "这个样子……好丢人……",
+      "jap": "この格好…恥ずかしい…",
+      "eng": "I feel shameful...wearing these rags...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第5次说话",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time, on the path to the Shaded Woods",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "那个……您救了我，\r\n可是……要厚颜拜托您另一件事，请勿见怪……",
+      "jap": "あの…助けていただいた上に、こんなことをいうのは…\r\nずうずうしいと思われるでしょうが…",
+      "eng": "Um...I hate to burden you further,\r\nas you've already saved my life...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "那个……如您所见，我身上的衣服七穿八孔的……",
+      "jap": "その…ご覧の通り、服がボロボロになっていて…",
+      "eng": "But...just look at me, my clothes are in tatters.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "有没有什么衣服可以借用呢？……",
+      "jap": "何か、身につけるものを譲っていただけませんか…？",
+      "eng": "Do you have any clothing that you could spare?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "您、您用不着的衣服就行了！\r\n打扮怪没关系，我本来就不太重视穿着！",
+      "jap": "い、いらなくなったものでいいんです\r\n変な格好でも、私、全然そういうの無頓着なので",
+      "eng": "I'll take anything, whatever you don't need.\r\nI'm not particular when it comes to apparel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "什、什么衣服都好……",
+      "jap": "な、なんでも構いませんので…",
+      "eng": "Anything at all will do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "您放这里就好……我自己会换上的……",
+      "jap": "ここに置いといていただければ…勝手に着替えますので…",
+      "eng": "Just put it on the ground, and I'll change into it later.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0用怀念香木救出石化的罗莎贝娜后，第6次说话",
+      "jap": "#0話しかけた:6回目",
+      "eng": "#0Talk-6th time, on the path to the Shaded Woods",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "那个……有没有什么衣服可以借用呢？……",
+      "jap": "あの…身につけるものを譲っていただけませんか…？",
+      "eng": "Er...could you spare me something to wear?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "您放这里就好……我自己会换上的……",
+      "jap": "ここに置いといていただければ…勝手に着替えますので…",
+      "eng": "Just put it here, and I'll change into it later.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0互动列表-选择「交付装备」",
+      "jap": "#0話しかけた:装備品を渡した",
+      "eng": "#0Menu-Choose \"Give equipment\" & providing her with any equipment",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "很感谢您！\r\n您愿意借这件衣服让我穿！",
+      "jap": "ありがとうございます\r\nこれを譲っていただけるんですね",
+      "eng": "Thank you so much!\r\nI'm very happy for this gift.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "换完衣服，我想前往如蜜。",
+      "jap": "これに着替えたら、マデューラに行こうと思います",
+      "eng": "After I change into this, I'm heading for Majula.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "虽然不知道老师上哪儿去了……",
+      "jap": "師が何処に行ったのかは、わかりませんが…",
+      "eng": "I'm not sure where I might find Milord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "我又没别的地方可去……",
+      "jap": "他に、あてもないですから…",
+      "eng": "But perhaps Majula is my best chance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0交付装备后说话",
+      "jap": "#0話しかけた:装備品を渡したあと",
+      "eng": "#0Talk-After giving her any equipment",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "我要返回如蜜。",
+      "jap": "私はマデューラに戻ります",
+      "eng": "I'm going back to Majula.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "希望还能与您见面！",
+      "jap": "また、お会いできるといいですね",
+      "eng": "I hope we can meet again!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話す1回目",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "我有一位老师。",
+      "jap": "私には、師がいるんです",
+      "eng": "I have my very own teacher.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "老师的尊号是\"晦冥的卡里昂\"，\r\n在我的故乡，是极富盛名的魔法师。",
+      "jap": "師は\"晦冥のカリオン\"\r\n私の故郷メルヴィアでは、高名な魔術師です",
+      "eng": "His name is Carhillion of the Fold,\r\na famed sorcerer in Melfia, our home town.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "而我也向往魔法！\r\n……所以才会！……老师人虽然有点怪！",
+      "jap": "私も、魔術に憧れてて\r\nそれでその…ちょっと変な人ですけど",
+      "eng": "I was fascinated by sorcery!\r\nAnd so...! Well, he's so unique, you see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "但我听说他要出游，就硬是跟了出来……",
+      "jap": "旅に出られると聞いて、ムリヤリついてきたんです…",
+      "eng": "When he set out for Drangleic, I couldn't let him go alone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "但结果和老师走散……\r\n不知道过了多久呢……",
+      "jap": "でも結局、はぐれてしまって…\r\nあれから、どれぐらい経ったのか…",
+      "eng": "But we were separated...\r\nquite early on, I'm afraid...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話す2回目",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "我、其实，没有天分……老师大概是放弃了我……",
+      "jap": "私、全然、才能がなくて…きっと置いていかれたんです…",
+      "eng": "I'm rather unskilled... Milord probably ditched me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "但是，我很容易记住咒术……",
+      "jap": "何故か、呪術はすぐ覚えられるんですが…",
+      "eng": "But oddly, I'm a fast learner when it comes to pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "看来，喜好与擅长似乎不太相同呢\r\n这是为什么呢……",
+      "jap": "好きなことと、向いてることって、違うんですよね\r\nなんでなんだろう…",
+      "eng": "What we're fascinated by, and we're skilled at,\r\nare not always the same thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "要是能活着做自己想做的事，有多好呢……",
+      "jap": "やりたいことだけやって、生きていけたらいいのに…",
+      "eng": "Why can't I just focus on what I truly enjoy?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "啊，都是这么说话，才会不成的吧！",
+      "jap": "こ、こんなこと言ってるから、ダメなんですよね",
+      "eng": "Ooh, dear, I shouldn't be so choosy!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "我心里也明白……",
+      "jap": "わかってるんですけど…",
+      "eng": "It's hardly my place...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0返回如蜜后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "啊！你不是!!……",
+      "jap": "あ、あなたは！",
+      "eng": "Oh! There you are!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "多亏了您，我才能回到如蜜。",
+      "jap": "マデューラに戻れたのは、あなたのおかげです",
+      "eng": "I'm here in Majula thanks entirely to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "还承蒙您给了我衣物蔽体……\r\n真的，很感谢您。",
+      "jap": "身につけるものまで、いただいてしまって…\r\n本当にありがとうございました",
+      "eng": "You even were kind enough to clothe me.\r\nThank you so very much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "我只懂得咒术，\r\n但只要帮得上忙，尽管找我不用客气！",
+      "jap": "私には呪術しかできませんが、\r\nお力になれるんだったら、いつでも声をかけてください！",
+      "eng": "The only thing I can offer is pyromancy,\r\nbut if that might help you, come to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0返回如蜜后，第2次说话",
+      "jap": "#0話しかけた:連続で話しかけた",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "是！您有事吩咐吗!?",
+      "jap": "はい、何のご用でしょう？",
+      "eng": "Yes! How may I help you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0返回如蜜后，第3次说话",
+      "jap": "#0話しかけた:さらに連続で話しかけた",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "你好！您需要咒术之力吗？",
+      "jap": "こんにちは、呪術の力が必要でしょうか？",
+      "eng": "Hello! Do you require pyromancy?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0在营火休息后，第1次说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "好久不见了！最近好吗？",
+      "jap": "お久しぶりです、お元気でしたか？",
+      "eng": "Hello again! How have you been?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0在营火休息后，第2次说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "你没事真是太好了！",
+      "jap": "ご無事でなによりです",
+      "eng": "I'm glad to see you're well!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "翻山越岭还真的很累……",
+      "jap": "山を越えてくるのは、大変でした…",
+      "eng": "It was a perilous trek across the mountains.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "又遇到好多危险……",
+      "jap": "いろいろ怖い目にも遭って…",
+      "eng": "I faced the most frightful things...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "不止一次遇到\"啊，这下完蛋了\"的场面……呵呵呵。",
+      "jap": "あ、これ死んじゃうな、って何度も…ウフフッ",
+      "eng": "The number of times I nearly died! Tee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0卡里昂到达如蜜后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すB・晦冥のカリオンがマデューラにいる",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after Carhillion has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "我终于和老师重逢了。",
+      "jap": "やっと、師に再会することができました",
+      "eng": "I finally tracked down my teacher.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "不过，暂时想一个人试试看。",
+      "jap": "でも、しばらくはひとりでやってみようと思っています",
+      "eng": "But I've decided to keep at it alone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "我到底能做些什么……会好好想想的。",
+      "jap": "私に、何ができるのか…考えてみようと思って",
+      "eng": "I need to see what I can achieve by myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0卡里昂到达如蜜后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すC・晦冥のカリオンがマデューラにいる",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after Carhillion has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "老师和我从南方的梅维雅来到这里，\r\n那是魔法与咒术兴盛之地。",
+      "jap": "私と師は、南の国メルヴィアからここに来ました\r\n魔術と呪術の栄える地です",
+      "eng": "Master Carhillion and I are from Melfia, to the south.\r\nA land lush with sorcery and pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "有好几座魔法大学，\r\n老师卡里昂就在大学中钻研魔法。",
+      "jap": "幾つかの魔法の大学があり、\r\n師カリオンは、そこで魔術を磨いていらっしゃいました",
+      "eng": "Master Carhillion polished his art at\r\none of our renowned magic academies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "然而，老师却说那里太下作，\r\n不适合探究术法的奥秘……",
+      "jap": "ですが、術の深奥を究めるには、\r\nここは下卑たところだとおっしゃって…",
+      "eng": "But he argued that the academies\r\nwere terrible places to learn magic...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "就和我原本的老师古罗肯大吵一架……",
+      "jap": "私のもともとの師であった、グロッケンと大喧嘩に…",
+      "eng": "This quite angered Master Glocken, my previous teacher...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0卡里昂到达如蜜后，互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すD・晦冥のカリオンがマデューラにいる",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time after Carhillion has arrived in Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "老师对于此地似乎有种特别的感受。",
+      "jap": "師はこの地に、何か特別なものを感じてらっしゃるようでした",
+      "eng": "Once, Master Carhillion spoke excitedly of this land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "感到很强的……强大力量的残渣，\r\n以及环绕着的深渊……",
+      "jap": "強い…強い力の残滓と、\r\nそれを包み込む深淵を感じると…",
+      "eng": "He made talk of the remnants...of some great power,\r\nand the deep abyss that surrounds it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "那时老师并不是看着我……\r\n但却没有继续说下去了……",
+      "jap": "私の方を見るでもなく…\r\nそれ以上のことは、お話になりませんでした…",
+      "eng": "I tried to ask more...\r\nBut he didn't seem to hear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "唉……果然我这人……",
+      "jap": "はー…やっぱり、私なんか…",
+      "eng": "...I'll never be good enough, will I...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "一路请小心。",
+      "jap": "お気をつけて",
+      "eng": "Be safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "下次路过时记得打声招呼唷，\r\n我会等着您的！",
+      "jap": "ここに来たら、声をかけてください\r\n待ってますから",
+      "eng": "I'm always here,\r\nso come and see me when you're in town!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼女から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "那个！\r\n请您等一……\r\n咳!!",
+      "jap": "あの\r\nちょっとお待ちく\r\nげふっ！！",
+      "eng": "Wait!\r\nWhere are you...\r\ncough...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "赶快住手！",
+      "jap": "やめてください！",
+      "eng": "Please, stop this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "你、你冷静点！",
+      "jap": "お、落ち着いて！",
+      "eng": "C-calm...calm yourself!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "为什么要这样……",
+      "jap": "どうして、こんなことに…",
+      "eng": "How could you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching her, after she has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "我也不能白白等死……",
+      "jap": "私だって、ただやられるわけには…",
+      "eng": "I won't let you do this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "好痛!!",
+      "jap": "いたっ！！",
+      "eng": "Goodness, are you alright?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing her health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "为、为什么!?",
+      "jap": "な、なぜです！？",
+      "eng": "B-but why?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 102,
+      "chn": "呀————",
+      "jap": "きゃああああぁあぁ…",
+      "eng": "Eeeek!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "##没想到您这次愿意借我这身衣服！",
+      "jap": "##こんどは、これをいただけるんですね",
+      "eng": "##What a wonderful choice!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##我……我是……",
+      "jap": "##わたし…私は…",
+      "eng": "##Master... Carhillion...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "##对了！这样东西送给您!!",
+      "jap": "##そうだ、これを差し上げます",
+      "eng": "##Oh, yes! These are for you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "##千万不要客气！请收下!!",
+      "jap": "##遠慮なさらずに、どうぞ",
+      "eng": "##Please, take them!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

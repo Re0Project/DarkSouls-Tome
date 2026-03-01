@@ -1,6 +1,1127 @@
 {
   "npc": "irina",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/irina.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/irina.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……是哪位？",
+      "jap": "…どなたですか？",
+      "eng": "Ahh, who's there?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "有谁在那里吗？",
+      "jap": "誰かそこに、いらっしゃるのですか？",
+      "eng": "Is someone there, anyone?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "啊，若您在那里的话，请过来触碰我。",
+      "jap": "ああ、もしいらっしゃるのなら、どうか私に触れてください",
+      "eng": "Ahh, please, whoever you are, touch me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "好暗，我什么都看不见，黑暗已经咬住我了。",
+      "jap": "暗く、何も見えず、闇が私を噛むのです",
+      "eng": "The dark surrounds me, nibbles at my flesh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "虫子们一直不停地、不停地咬我、折磨我。",
+      "jap": "ずっと、ずっと、虫たちが、私を噛み苛むのです",
+      "eng": "Little creatures, they never stop biting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "所以拜托您，请来触碰我吧。",
+      "jap": "だから、どうか私に触れてください",
+      "eng": "So please, hold out your hand, and touch me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0选择「触碰」",
+      "jap": "#0話しかけた:1回目・選択肢【触れる】",
+      "eng": "#0Choose \"Touch\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "啊，您人在那里啊。",
+      "jap": "ああ、貴方はそこに、いらっしゃるのですね",
+      "eng": "Ahh, yes, there you are, so close, indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "原来我还不是孤独一人啊。",
+      "jap": "まだ、一人きりではなかったのですね",
+      "eng": "Then I am not entirely alone, just yet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "神啊，感谢您……",
+      "jap": "ありがとうございます、神よ…",
+      "eng": "Praise the merciful gods above...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0选择「触碰」后交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-After choosing \"Touch\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "啊，恕我失礼了。",
+      "jap": "ああ、失礼いたしました",
+      "eng": "Oh, forgive me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我是卡利姆的伊莉娜。",
+      "jap": "私の名は、カリムのイリーナ",
+      "eng": "I am Irina of Carim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "为了要成为防火女，才来到这里。",
+      "jap": "火防女となるため、この地に参りました",
+      "eng": "I came to this land so that I might be a Fire Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "那么，触碰我、让我从黑暗中解放出来的您，\r\n肯定是英雄大人对吧？",
+      "jap": "そして私に触れ、暗闇から救って下さった貴方は、\r\nきっと英雄様なのでしょう？",
+      "eng": "Your touch has freed me from the darkness.\r\nYou are a Champion, then?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "我太软弱了，所以我想，我一定没办法成为防火女。",
+      "jap": "私は弱く、だからきっと、火防女にはなれませんでした",
+      "eng": "I am weak, and unfit to tend the flames,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "就算如此，英雄大人，\r\n您还愿意让我来侍奉您吗？",
+      "jap": "それでも英雄様、私を、\r\n貴方に仕えさせてはもらえませんか？",
+      "eng": "But if it would not trouble you,\r\nmight I enter into your service, instead?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0选择「拒绝」",
+      "jap": "#0話しかけた:2回目・選択肢【させない】",
+      "eng": "#0Choose \"Decline\" to either the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "……是，我知道了，英雄大人。",
+      "jap": "…ああ、分かりました、英雄様",
+      "eng": "Ahh, yes, of course, I understand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "还有，非常感谢您触碰我。",
+      "jap": "そして、ありがとうございました。私に触れてくださって",
+      "eng": "Even so, I thank you deeply. For your touch.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "我一定不会忘记……",
+      "jap": "きっと、ずっと忘れません…",
+      "eng": "I will never forget it, not ever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0选择「拒绝」后交谈",
+      "jap": "#0話しかけた:3回目・【させない】選択後",
+      "eng": "#0Talk-After choosing \"Decline\" to either the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "啊，英雄大人，您又和我搭话了啊。",
+      "jap": "ああ、英雄様。まだお声をかけて頂けるのですね",
+      "eng": "Oh, sweet Champion. You still wish to converse?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "我没事的。这黑暗本来就是我该肩负的使命啊。",
+      "jap": "私は、大丈夫です。元よりこの闇は、私の使命なのですから",
+      "eng": "Don't worry about me. I've long dealt in dark. It is my calling.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "……",
+      "jap": "フフフ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0选择「答应她的侍奉」",
+      "jap": "#0話しかけた:2回目・選択肢【仕えさせる】",
+      "eng": "#0Choose \"Accept her service\" to either the 2nd or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "啊，非常感谢您，英雄大人。",
+      "jap": "ああ、ありがとうございます、英雄様",
+      "eng": "Oh, thank you, sweet Champion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "那么，要建立契约……",
+      "jap": "それでは、契約を…",
+      "eng": "I shall take my vows.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "我是卡利姆的伊莉娜，愿意侍奉您。",
+      "jap": "私、カリムのイリーナは、貴方にお仕えいたします",
+      "eng": "I, Irina of Carim, solemnly swear to serve you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "请原谅我！",
+      "jap": "許してください！",
+      "eng": "Have mercy!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "拜托您，请住手……",
+      "jap": "お願いです、やめてください…",
+      "eng": "Please, stop this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "啊，神啊，请原谅我……",
+      "jap": "ああ神よ、お許しください…",
+      "eng": "Ohh, great gods, forgive me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "啊，英雄大人，欢迎回来。",
+      "jap": "ああ、英雄様。お帰りなさいませ",
+      "eng": "Oh, Champion of Ash. Welcome back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "成不了防火女的我，\r\n竟能在营火旁边侍奉您……",
+      "jap": "火防女になれなかった私が、\r\n篝火の側で貴方にお仕えできるなんて…",
+      "eng": "I was not meant to be a Fire Keeper,\r\nbut I am honoured to serve you beside the Bonfire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "真的是上天垂怜，\r\n我很感谢神和您。",
+      "jap": "慈悲深いことです。\r\n神と、貴方に感謝を",
+      "eng": "The gods are ever-merciful.\r\nMy gratitude lies with them, and with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "我已经是您的人了，不管有什么事，请您尽管吩咐。",
+      "jap": "もう、私は貴方のものです。なんなりとお申し付けくださいませ",
+      "eng": "I am yours now. Your wish is my command.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0返回传火祭祀场后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "啊，英雄大人，欢迎回来。",
+      "jap": "ああ、英雄様。お帰りなさいませ",
+      "eng": "Oh, Champion of Ash. Welcome back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "您想听故事吗？不管有什么事，请您尽管吩咐。",
+      "jap": "物語をお望みでしょうか？なんなりとお申し付けくださいませ",
+      "eng": "Do you wish to hear a tale? You only have to ask.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……英雄大人，我在故乡卡利姆的时候，是位修女。",
+      "jap": "…英雄様、故郷カリムで、私は修道女でした",
+      "eng": "You know, in my home of Carim, I was a nun.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "所以我能够让您听到关于奇迹的故事。",
+      "jap": "ですから貴方に、奇跡の物語をお聞かせできます",
+      "eng": "I would be pleased to share the tales of miracles with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "只是，我知道的故事其实也不算多，",
+      "jap": "ただ、私の知っている物語は、あまり多くはないのですが",
+      "eng": "Although to be honest, I only know a few.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "若是我手上有圣典，就可以让您听更多的故事了。",
+      "jap": "聖典があれば、もっと沢山の物語をお聞かせできると思います",
+      "eng": "But if I had a divine tome, I could tell you many tales and more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "……啊，不过，我的眼睛已经看不见了。",
+      "jap": "…ああ、ですが、私はもう目が見えません",
+      "eng": "Ahh, only I cannot see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "真的很不好意思，只能请您找点字圣典了。",
+      "jap": "申し訳ありませんが、点字聖典をお持ちくださいませ",
+      "eng": "Terribly sorry, but you'll have to find me a Divine Tome in braille.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0互动列表-选择「交出圣典」-选择「交出卡利姆/洛斯里克点字圣典」",
+      "jap": "#0リストから選択:聖書を渡す(カリムの点字聖書/ロスリックの点字聖書)",
+      "eng": "#0Menu-Choose \"Give Divine Tome\" & \"Braille Tome of Carim / Lothric\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "啊，您把点字圣典拿来了啊。",
+      "jap": "ああ、点字聖典をお持ち頂けたのですね",
+      "eng": "Ahh, you've brought me a braille Divine Tome.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "那我就可以读新的故事给您听了。",
+      "jap": "これで、貴方に新しい物語をお聞かせできます",
+      "eng": "Now I can tell new tales of miracles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "是开阔壮大的奇迹故事呢，说不定会比较长啊……",
+      "jap": "偉大な奇跡の物語は、少し長いかもしれませんが…",
+      "eng": "Tales of the greater miracles can be quite the epics...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "好期待啊。",
+      "jap": "楽しみですね",
+      "eng": "What fun we will have.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "……",
+      "jap": "フフフフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/離れる",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "请您一路小心，英雄大人。",
+      "jap": "いってらっしゃいませ、英雄様",
+      "eng": "Have a pleasant journey, Champion of Ash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "我会为您的平安祷告。",
+      "jap": "貴方の無事を祈っております",
+      "eng": "I pray for your safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0学习所有非黑暗奇迹后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/離れる・闇の奇跡以外の奇跡をすべて購入後",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly, purchased all Miracles",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "非常谢谢您，英雄大人。",
+      "jap": "ありがとうございました、英雄様",
+      "eng": "Thank you ever so much, sweet Champion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "请完成您伟大的使命。",
+      "jap": "偉大な使命を、お果たし下さい",
+      "eng": "May your solemn duty conclude in triumph.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0放置所有薪王柴薪后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/離れる・王の薪をすべて玉座に戻した後",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly, after offering all Cinders",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "请您一路小心，英雄大人。",
+      "jap": "いってらっしゃいませ、英雄様",
+      "eng": "Godspeed, Champion of Ash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "请完成您伟大的使命。",
+      "jap": "偉大な使命を、お果たし下さい",
+      "eng": "May your solemn duty conclude in triumph.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "请原谅我！",
+      "jap": "お許しください！",
+      "eng": "Have mercy, please!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "英雄大人，请您住手……",
+      "jap": "やめてください、英雄様…",
+      "eng": "Please, stop this, sweet Champion!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "英雄大人，您为什么……",
+      "jap": "英雄様、なぜでしょうか…",
+      "eng": "What have you done, sweet Champion of Ash...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "我……是您的……",
+      "jap": "私は、貴方の…",
+      "eng": "I only wanted to...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0互动列表-选择「交出圣典」-选择「交出隆道尔/幽邃点字圣典」",
+      "jap": "#0リストから選択:聖書を渡す(深みの点字聖書/ロンドールの点字聖書)",
+      "eng": "#0Menu-Choose \"Give Divine Tome\" & \"Deep / Londor Braille Divine Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "……啊，这个是……",
+      "jap": "…ああ、これは…",
+      "eng": "Oh, what's this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "英雄大人，这是本禁忌的圣典。",
+      "jap": "英雄様、この聖典は禁忌です",
+      "eng": "Champion of Ash, this Divine Tome is forbidden...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "是描述潜藏在人心中深沉黑暗的故事……\r\n我想这并不适合您听。",
+      "jap": "人の内に潜む、暗い闇の物語…\r\n貴方に相応しいものとは思えません",
+      "eng": "These are dark tales of things that lurk deep within men...\r\nThese stories would not please you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "不过，若是您要求，我当然还是会读给您听。",
+      "jap": "もちろん、貴方が望めば、私はこの物語をお聞かせします",
+      "eng": "Of course, if you insist, I will read them for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "……可是……啊、啊啊，我好怕。",
+      "jap": "…ですが…ああ、ああ、私は怖いのです",
+      "eng": "Only, ahh, ahh, they frighten me so.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "那些虫子们透着黑暗啃噬、折磨着我啊。",
+      "jap": "暗闇で私を噛み苛む、あの虫たちが",
+      "eng": "The little creatures that nibble at me in the darkness...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0学习所有黑暗奇迹后交谈",
+      "jap": "#0話しかけた:闇の奇跡をすべて購入後",
+      "eng": "#0Talk-After purchasing all Dark Miracles",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "啊、啊啊，英雄大人，我等您很久了。",
+      "jap": "ああ、ああ、英雄様。お待ちしておりました",
+      "eng": "Ahh, ahh, sweet Champion. Where have you been?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "拜托您，请您触碰我吧。",
+      "jap": "お願いです、私に触れてください",
+      "eng": "Please, your touch...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "那些虫子们又开始在折磨我了。",
+      "jap": "あの虫たちが、また私を苛むのです",
+      "eng": "The little creatures, how they nip and bite...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0学习所有黑暗奇迹后，选择「交出卡利姆/洛斯里克点字圣典」",
+      "jap": "#0リストから選択:カリム/ロスリックの点字聖書・闇の奇跡をすべて購入後",
+      "eng": "#0Menu-Choose \"Braille Tome of Carim / Lothric\" purchased all Dark Miracles",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "啊，您把点字圣典拿来了啊。",
+      "jap": "ああ、点字聖典をお持ち頂けたのですね",
+      "eng": "Ahh, you've brought me a braille Divine Tome.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "这么说，我可以一直、一直读故事给您听了吧……",
+      "jap": "これでずっと、ずっと貴方に、物語をお聞かせできますね…",
+      "eng": "Now I can tell you tales of miracles, forever and ever...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "……",
+      "jap": "フフフフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0学习所有黑暗奇迹后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/離れる・闇の奇跡をすべて購入後",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly, purchased all Dark Miracles",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "啊，英雄大人，您准备要出发了吗？",
+      "jap": "ああ、英雄様。行ってしまわれるのですか",
+      "eng": "Ahh, sweet Champion. Leaving so soon?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "拜托您，请您早点儿回来吧。",
+      "jap": "お願いです、お早くお戻りください",
+      "eng": "Please, come back in good time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "我好怕，我好怕那个折磨我的黑暗。",
+      "jap": "怖いのです。私を苛む暗闇が",
+      "eng": "I am frightened. Of the dark that gnaws away at me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0学习所有黑暗奇迹后，击杀伊果后，第1次交谈",
+      "jap": "#0話しかけた:イーゴン撃破後A",
+      "eng": "#0Talk-1st time after killed Eygon in the Firelink Shrine gravesite",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "……是哪位？",
+      "jap": "…どなたですか？",
+      "eng": "Ahh, who's there?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "有谁在那里吗？",
+      "jap": "誰かそこに、いらっしゃるのですか？",
+      "eng": "Is someone there, anyone?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0学习所有黑暗奇迹后，击杀伊果后，第2次交谈",
+      "jap": "#0話しかけた:イーゴン撃破後B",
+      "eng": "#0Talk-2nd time after killed Eygon in the Firelink Shrine gravesite",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "啊、啊啊，英雄大人，我等您很久了。",
+      "jap": "ああ、ああ、英雄様。お待ちしておりました",
+      "eng": "Ahh, ahh, sweet Champion. Where have you been?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "拜托您，请您触碰我吧。",
+      "jap": "お願いです、私に触れてください",
+      "eng": "Please, your touch...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "那些虫子们又开始在折磨我了。",
+      "jap": "あの虫たちが、また私を苛むのです",
+      "eng": "The little creatures, how they nip and bite...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0击杀伊果后，返回传火祭祀场交谈",
+      "jap": "#0話しかけた:イーゴン撃破後・移動後",
+      "eng": "#0Talk-After killed Eygon & back to Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "啊、啊啊，拜托，不管是谁，请快点儿触碰我，",
+      "jap": "ああ、ああ、誰か、私に触れてください",
+      "eng": "Ahh, ahh, someone, please, touch me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "好暗，我什么都看不见，黑暗已经咬住我了。",
+      "jap": "暗く、何も見えず、闇が私を噛むのです",
+      "eng": "The dark, surrounds me, nibbles at my flesh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "虫子们一直不停地、不停地咬我、折磨我。",
+      "jap": "ずっと、ずっと、虫たちが、私を噛み苛むのです",
+      "eng": "Little creatures, they never stop biting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "所以拜托，请来触碰我吧……",
+      "jap": "だから、どうか私に触れてください…",
+      "eng": "So please, hold out your hand, and touch me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#0选择「触碰」",
+      "jap": "#0話しかけた:イーゴン撃破後:選択肢【触れる】",
+      "eng": "#0Choose \"Touch\" to the query without Morne's Gauntlets equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 105,
+      "chn": "……啊啊，为什么都没有人来触碰我呢？",
+      "jap": "…ああ、どうして誰も、触れてくださらないのですか",
+      "eng": "Ohh, is there no one near to touch me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "就只剩下虫子们咬我、折磨我了？",
+      "jap": "虫だけが、私を噛み苛むのですか",
+      "eng": "Keep these things from eating away at me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0学习所有黑暗奇迹后，击杀伊果后，伊莉娜被击杀时",
+      "jap": "#0殺害した:イーゴン撃破後",
+      "eng": "#0Upon dying after the protagonist has purchased all of the Dark Miracles",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "啊啊，非常谢谢您……",
+      "jap": "ああ、ありがとうございます…",
+      "eng": "Ahh, thank you ever so much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "谢谢您触碰我……",
+      "jap": "私に触れてくださって…",
+      "eng": "For your touch...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "#0装备摩恩臂甲时，选择「触碰」",
+      "jap": "#0話しかけた:イーゴン撃破後:モーンの手甲裝備時・選択肢【触れる】",
+      "eng": "#0Choose \"Touch\" to the query with Morne's Gauntlets equipped",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 111,
+      "chn": "……啊，您又再一次触碰我了。",
+      "jap": "…ああ、貴方は、もう一度私に触れ",
+      "eng": "Ohh, you again, touch me, one last time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "那么，这次终于能依照约定杀了我吧？",
+      "jap": "そして今度は、約束通り、私を殺してくださるのでしょう？",
+      "eng": "And kill me, as you promised you would.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "#0装备摩恩臂甲时，选择「触碰」后，伊莉娜第1次受到攻击时",
+      "jap": "#0攻撃した:イーゴン撃破後・モーンの手甲裝備・【触れる】選択後:1回目",
+      "eng": "#0Upon being attacked-1st time after \"Touch\" wearing Morne's Gauntlets",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 114,
+      "chn": "……",
+      "jap": "アァッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "#0装备摩恩臂甲时，选择「触碰」后，伊莉娜第2次受到攻击时",
+      "jap": "#0攻撃した:イーゴン撃破後・モーンの手甲裝備・【触れる】選択後:2回目",
+      "eng": "#0Upon being attacked-2nd time after \"Touch\" wearing Morne's Gauntlets",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 116,
+      "chn": "……",
+      "jap": "アアァッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0装备摩恩臂甲时，选择「触碰」后，伊莉娜被击杀时",
+      "jap": "#0殺害した:イーゴン撃破後・モーンの手甲裝備・【触れる】選択後",
+      "eng": "#0Upon dying after \"Touch\" wearing Morne's Gauntlets",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "啊啊，果然，",
+      "jap": "ああ、やはりカリムの騎士は",
+      "eng": "Ohh, a knight of Carim...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "卡利姆的骑士都很遵守约定……",
+      "jap": "約束を守るものですね…",
+      "eng": "...is always true to his word...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "#0伊莉娜成为防火女，到达钟塔后交谈",
+      "jap": "#0話しかけた:移動後",
+      "eng": "#0Talk-After Irina become Firekeeper",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 121,
+      "chn": "啊，是英雄大人吧……",
+      "jap": "ああ、英雄様ですね…",
+      "eng": "Ohh, sweet Champion of Ash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "请过来吧，让灵魂成为您的力量……",
+      "jap": "どうぞ、ソウルを貴方の力としてください…",
+      "eng": "Let souls be your strength...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:移動後:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "……",
+      "jap": "アァッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:移動後:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 126,
+      "chn": "……",
+      "jap": "アッ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した:移動後",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 128,
+      "chn": "……",
+      "jap": "キャアアアアアッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "##……",
+      "jap": "##キャアアアアアッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "##呵呵呵。",
+      "jap": "##フフフッ",
+      "eng": "##(giggle)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "##呵呵呵呵呵。",
+      "jap": "##フフフフフッ",
+      "eng": "##(giggle - longer)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "##……",
+      "jap": "##キャアアアアアッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "##……",
+      "jap": "##キャアアアアアッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "##……",
+      "jap": "##フフフッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "##……",
+      "jap": "##やはり貴方は、灰の英雄様だったのですね",
+      "eng": "##You truly are all the tales said you would be.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "##啊，您把点字圣典拿来了啊。",
+      "jap": "##ああ、点字聖典をお持ち頂けたのですね",
+      "eng": "##Ahh, you've brought me a braille Divine Tome.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "##那我就可以读新的故事给您听了。",
+      "jap": "##これで、貴方に新しい物語をお聞かせできます",
+      "eng": "##Now I can tell you new tales of miracles.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##是关于猎龙英雄的古老故事……",
+      "jap": "##古い、竜狩りの英雄たちの物語…",
+      "eng": "##Tales of the old dragon hunters.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##说不定这故事很适合您听呢。",
+      "jap": "##貴方にこそ、相応しいのかもしれませんね",
+      "eng": "##Perhaps the kind you might enjoy...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

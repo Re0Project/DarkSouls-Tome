@@ -1,6 +1,711 @@
 {
   "npc": "licia",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/licia.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/licia.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "您是居住此地的人吗？",
+      "jap": "この地にお住いの方でしょうか？",
+      "eng": "Are you from these parts?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我的名字叫做莉絮。",
+      "jap": "わたくしの名は、リーシュと申します",
+      "eng": "My name is Licia.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我是奇迹之力的仆人，\r\n为了传播这份美妙的力量而来到这里。",
+      "jap": "わたくしは奇跡の力のしもべ\r\nこの素晴らしき力を、この地に伝えに参りました",
+      "eng": "I have come to spread the art of miracles,\r\na practice of which I am a disciple.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "奇迹之力的美妙之处，\r\n深信您一定能够体会。",
+      "jap": "奇跡の力の素晴らしさ、\r\nあなたならお分かりいただけると信じますわ",
+      "eng": "I can see that you are well suited\r\nto comprehend their wondrous power.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "代价呢，是了，就看您的心意……",
+      "jap": "お代は、そう、あなたのお心を示していただければ…",
+      "eng": "But the cost of it? That's for your heart to decide.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "虽曾听说过此地的谣传，\r\n没想到居然如此……",
+      "jap": "この地の噂は耳にしておりましたが\r\nまさかこれほどとは…",
+      "eng": "I'd heard awful rumours about this place,\r\nand I'm afraid they were all true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "国王不在、荒凉寂寥……\r\n实在令人心疼。",
+      "jap": "王もおらず、荒れ寂れて…\r\n痛ましい限りですわ",
+      "eng": "The king, gone. The earth, ravaged.\r\nThe burden on the people weighs heavy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "这么一来，寻求我的力量的人，\r\n怕没有我想得那么多……",
+      "jap": "これではわたくしの力を求める方も、\r\n思うほど集められない…",
+      "eng": "I fear that by now,\r\nthey may have scarce room in their hearts for miracles...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "您问来到此地的目的吗？……这个……",
+      "jap": "この地を訪れた訳ですか…？ええと…",
+      "eng": "Why did I come here? Well...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "当然是为了宣扬奇迹之力的美好，\r\n除此之外还能有什么目的呢？",
+      "jap": "もちろん、この奇跡の力の素晴らしさを\r\n知っていただくため、それ以外にあるでしょうか",
+      "eng": "Do I need any other reason,\r\nthan to spread the gospel of miracles?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我的导师曾经吩咐，\r\n要将这份力量传道给更多的人。",
+      "jap": "我が師は、この力をより多くの人たちに\r\n広めるよう、おっしゃいました",
+      "eng": "My preceptor always said this art\r\nshould be shared with the world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我的愿望，也就是如此。",
+      "jap": "わたくしの望みは、それだけですわ",
+      "eng": "And such is my only wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "我岂能这么轻易地\r\n空手而回。",
+      "jap": "わたくしは、そう簡単に\r\n帰るわけにはいかないのです",
+      "eng": "Sometimes I fight the urge\r\nto pack up and go back home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "那个……总之就是这样。",
+      "jap": "その…とにかくそうなのです",
+      "eng": "It is, well...I must do this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "在这里，没有半个认得我的人，\r\n这样的地方，才能够升华自我。",
+      "jap": "この地には、わたくしを知る方は誰もおりません\r\nそういう場所でこそ、己を高められるのです",
+      "eng": "And being out here all alone only\r\nmakes this a more fitting test of my fortitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "听说这是间圣堂，\r\n但却没有半点人烟呢……",
+      "jap": "聖堂と聞いてきたのですが、\r\nここにはどなたもいらっしゃらない様子…",
+      "eng": "I expected this cathedral to be bustling,\r\nbut there's hardly a soul to be found here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "待在这里不是办法，\r\n我打算赶快换个地点。",
+      "jap": "ここにいても、しかたありません\r\nじきに場所を移すつもりです",
+      "eng": "Without any goings-on,\r\nI'll have to move soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "希望更多人能购买……",
+      "jap": "多くの方に、この力を買って…",
+      "eng": "To a place I could gull the...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "不是！能获得传授这份力量！",
+      "jap": "いえ！この力をお授けせねばなりません！",
+      "eng": "Sorry, help the gullible by teaching the good word... Hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0返回如蜜后，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "哦，您是……能够重逢，甚感荣幸。",
+      "jap": "おや、あなたは…またお会いできて、光栄ですわ",
+      "eng": "Oh, hello there... An honour to see you again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "这里似乎有个奇怪的机关，\r\n两条路通往同一个房间。",
+      "jap": "ここには、何やら変わった仕掛けがあるのです\r\nふたつの道が、ひとつの部屋でつながっています",
+      "eng": "This room is not as it seems.\r\nThere are two, not one, pathways leading out.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "打开这条路，需要这项道具。",
+      "jap": "道を開くには、この道具が必要なようです",
+      "eng": "And only this lovely thing reveals the other path.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "而且……这项道具是借由奇迹之力运作！",
+      "jap": "そして、その…この道具は、奇跡の力で動くのですよ！",
+      "eng": "And this, you lovely thing... Only runs on miracles!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "您若有意愿，我可以替您驱动喔？",
+      "jap": "お望みなら、わたくしが回して差し上げましょうか？",
+      "eng": "Shall I provide you with one?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0返回如蜜后，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "当您需要奇迹之力时，欢迎随时来找我。",
+      "jap": "奇跡の力をお望みであれば、いつでもおっしゃってください",
+      "eng": "Just speak up if you're in need of miracles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "我正是为此而来的。",
+      "jap": "わたくしは、そのためにここに来たのですから",
+      "eng": "That's why I'm here, after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "形成奇迹，需要对于诸神的信奉之力。",
+      "jap": "奇跡を成すには、神々への信仰の力が欠かせません",
+      "eng": "To cast miracles, you must have strong faith in the gods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "因为，奇迹原本就是诸神的故事。",
+      "jap": "奇跡とは、元来神々の物語なのですから",
+      "eng": "Miracles began as tales told by gods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "而我们不过是透过代代口耳相传，\r\n祈求祝祷，接受恩惠。",
+      "jap": "わたくしたちは、それを語り継ぎ、\r\n祈ることで、恩恵を受けるにすぎません",
+      "eng": "We preserve their will with lore, pray to their greatness,\r\nand are blessed in return.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "您也应该提升信仰。",
+      "jap": "あなたも、信仰を高めるのです",
+      "eng": "You must nourish your faith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "据说奇迹乃是从\"火之起源\"起\r\n一直传承下来的。",
+      "jap": "奇跡は\"火のはじまり\"の頃から\r\n受け継がれているものといわれています",
+      "eng": "Miracles have been passed down through us\r\nsince the First Flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "换言之就是世界起源之力，\r\n这是多么的美妙！",
+      "jap": "いわば世界の始まりの力なのです\r\nなんと素晴らしいことでしょう！",
+      "eng": "Isn't it extraordinary to think they've existed\r\nsince the very origins of the world?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "来吧，您也一起追求奇迹之力，\r\n才能通往受到祝福的道路。",
+      "jap": "さあ、あなたも奇跡の力をお求めなさい\r\nそれこそが祝福の道ですわ",
+      "eng": "And now, you can have this power for yourself.\r\nDon't miss out on the road to enlightenment!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "您问\"火之起源\"为何吗？……",
+      "jap": "火のはじまりとは何か、ですか…？",
+      "eng": "What is the First Flame?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "那个，就是……",
+      "jap": "それは、その…",
+      "eng": "Well, it's...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "现、现在就算向您说明，\r\n您也无法理解啦！",
+      "jap": "い、いまのあなたにお伝えしても\r\n理解することなど、できませんわ！",
+      "eng": "Hmm, you're not ready to comprehend it,\r\nI'm afraid!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "提升您的信仰！必须更努力的修行奇迹！",
+      "jap": "信仰を高めなさい！もっと奇跡を修めることが必要なのです！",
+      "eng": "You require more faith! And more miracles. Many more miracles!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0互动列表-选择「移动道路」",
+      "jap": "#0リストから選択:道を変える",
+      "eng": "#0Menu-Choose \"Change the path\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "好了，您请通行吧。",
+      "jap": "さあ、どうぞお通りください",
+      "eng": "Go ahead, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0击杀第3个四巨物后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・古の者を3体以上倒している",
+      "eng": "#0Menu-Choose \"Talk\" after defeating three of four Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "您似乎很习惯旅行……",
+      "jap": "貴方は随分と旅慣れているご様子…",
+      "eng": "You've had quite a journey, I can see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "那么，一定积累了不少灵魂吧。",
+      "jap": "さぞ多くのソウルを集められたのでしょう",
+      "eng": "You must have a glorious number of souls by now...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "让我十分的羡慕。\r\n呵呵呵……",
+      "jap": "うらやましい限りですわ\r\nウフフ…",
+      "eng": "What a wonderful feeling that must be...\r\nHeh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0信仰达到30或更高时，互动列表-选择「说话」",
+      "jap": "#0話しかけた:信仰が30以上",
+      "eng": "#0Talk-After attaining 30 Faith",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "此物献赠于您，\r\n因为您的信仰似已达到相当的高度。",
+      "jap": "貴方には、これを差し上げましょう\r\n信仰も十分に高まったご様子ですから",
+      "eng": "You deserve to have these.\r\nFor your faith has truly deepened.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "您应追求更进一步的\r\n与信仰能够契合的奇迹才是\r\n呵呵呵……",
+      "jap": "さらなる奇跡を求めるべきですよ\r\nその信仰に見合うだけの\r\nホホホ…",
+      "eng": "Go on, and seek greater miracles.\r\nWith your faith,\r\nyou deserve no less!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "您说无须奇迹之力？……",
+      "jap": "奇跡の力が必要ないと…？",
+      "eng": "No need for miracles?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "吝惜那一丁点的灵魂，\r\n你将无法获得祝福！",
+      "jap": "僅かなソウルを惜しんでいては\r\n祝福は得られませんよ！",
+      "eng": "The gods frown upon\r\nsuch soul scrimpers!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "愿您受到奇迹的庇佑。",
+      "jap": "貴方に奇跡の加護があらんことを",
+      "eng": "May the power of miracles be with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "为了诸天众神，需要奉献灵魂。",
+      "jap": "神々のために、ソウルを供するのです",
+      "eng": "Offer your souls to the gods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼女から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "啊，您上哪儿去!?",
+      "jap": "あ、どちらに！？",
+      "eng": "Oh? Done so soon?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "您想干什么！",
+      "jap": "何をなさるのです！",
+      "eng": "What are you doing!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "快住手!!",
+      "jap": "お止めを！！",
+      "eng": "Please, stop this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "信仰……啊……",
+      "jap": "信仰を…",
+      "eng": "Have faith...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "哼！既然如此!!",
+      "jap": "ええい！こうなっては！！",
+      "eng": "Hyahh! I've no choice, now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching her, after she has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "没想到你还敢回来……",
+      "jap": "戻ってくるとは…",
+      "eng": "Back again, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "呀！",
+      "jap": "きゃあ！",
+      "eng": "Argh... Aargh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0使用无神眼眸宝珠入侵后",
+      "jap": "#0潰れた瞳のオーブを使用した",
+      "eng": "#0After invading her with the Crushed Eye Orb",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "可恶……居然被你发觉……",
+      "jap": "おのれ…気づかれたかよ…",
+      "eng": "Curses... Puzzled me out, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "正好给了我一个杀人的好借口。\r\n哈哈哈！",
+      "jap": "却って遠慮なく殺れるというものか\r\nハハハッ！",
+      "eng": "At least now I can finish you off, guilt-free!\r\nHah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "##世人当……寻求奇迹……",
+      "jap": "##奇跡を…求めなさい…",
+      "eng": "##Seek...miracles...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "###2（仅英文语音）求求你，打开它！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh please, open that up!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "###2（仅英文语音）求你帮帮我。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Please I need your help.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "###2（仅英文语音）我知道你听得见，放我出去！#3",
+      "jap": "##…",
+      "eng": "##(No caption) I know you can hear me, let me out!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "###2（仅英文语音）我被困住了！#3",
+      "jap": "##…",
+      "eng": "##(No caption) I'm trapped!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "###2（仅英文语音）谢谢你。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Thank you very much.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "###2（仅英文语音）很抱歉麻烦你。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I am very sorry, to cause you trouble.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "###2（仅英文语音）谁知道会出事啊？#3",
+      "jap": "##…",
+      "eng": "##(No caption) Who knows what would have happened?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "###2（仅英文语音）啊，我认得你！谢谢你救了我。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh, I know you! Thank you for saving me.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

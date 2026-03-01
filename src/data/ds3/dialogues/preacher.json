@@ -1,6 +1,455 @@
 {
   "npc": "preacher",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/preacher.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/preacher.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近环印墙外的白脸虫时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching his location, or talking a 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "不受火冀望的，比比皆是──",
+      "jap": "火に望まれぬ者がいる",
+      "eng": "Many of us are by the fire forsaken.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你们人类不消说，我们亦是如此。",
+      "jap": "君たちのこと、そして私たちのことだ",
+      "eng": "I speak of thine kind, and mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "放眼看看这座城市吧！\r\n互为同道中人的事实，显而易见。",
+      "jap": "この街を見よ！\r\n我らは同朋、瞳を覗くように明らかに",
+      "eng": "Behold this city!\r\nWe are kindred, belike two eyes which gaze upon the other.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "因此，你毋须畏惧黑暗，",
+      "jap": "だから君、闇を恐れるなかれ",
+      "eng": "Fear not, the dark, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "And let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0交谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk-1st time ",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "流浪骑士探寻禁忌，永无止尽地旅行，",
+      "jap": "放浪の騎士、終わりなき忌み探しの旅",
+      "eng": "One was a wayfaring knight, on an endless, forbidden search.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "而他旅行的终点只能在深渊寻得──\r\n即使她不可能现身深渊，也是一样。",
+      "jap": "その終わりは深淵にのみあった。\r\nたとえ彼女が訪れぬとも",
+      "eng": "Only the Abyss granted closure,\r\nif not reunion with his beloved.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "因此，你毋须畏惧黑暗，",
+      "jap": "だから君、闇を恐れるなかれ",
+      "eng": "Fear not, the dark, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "And let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0靠近解咒石碑下的白脸虫时",
+      "jap": "#0話しかけられた:沼地A",
+      "eng": "#0After approaching his location, or talking a 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "有人以为知晓一切，挺身对抗黑暗；\r\n然直到最后，才理解自身无知。",
+      "jap": "知をもって、闇に対する者がいた。\r\nそして最後に、無知を知った",
+      "eng": "One met the dark with learning.\r\nBut in the end, learned his knowledge was wanting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "世界始于无知，\r\n而终也归于无──",
+      "jap": "世界のはじまりにそれは無く、\r\n終わりにもそれは無いだろう",
+      "eng": "The world began without knowledge,\r\nand without knowledge will it end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "这不是理所当然吗？",
+      "jap": "あたりまえのことじゃあないか",
+      "eng": "Dost not this ring clear and true?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "因此，你毋须畏惧黑暗，",
+      "jap": "だから君、闇を恐れるなかれ",
+      "eng": "Fear not, the dark, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "And let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0交谈",
+      "jap": "#0話しかけた:沼地A",
+      "eng": "#0Talk-1st time ",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "那杀害血亲的可怜女孩也接受深渊的怀抱，\r\n融于其中──",
+      "jap": "肉親を殺めた憐れな娘も、\r\n深淵に溶けてその腕に抱かれた",
+      "eng": "One poor girl slew her own kin,\r\nbut even so, was embraced, enveloped by the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "就是因为薄暮、月亮，\r\n都没办法给予她如此安稳的感受。",
+      "jap": "薄暮も月も、\r\n決してそれを与えなかった",
+      "eng": "Twas a comfort that neither\r\nmoon nor sunless sky afforded her before.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "因此，你毋须畏惧黑暗，",
+      "jap": "だから君、闇を恐れるなかれ",
+      "eng": "Fear not, the dark, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "And let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0靠近环印城市街的白脸虫时",
+      "jap": "#0話しかけられた:沼地B",
+      "eng": "#0After approaching his location, or talking a 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "那女人怕得很──\r\n怕那栖身黑暗，不停咬啮、折磨她的虫子。",
+      "jap": "女は恐れた。\r\n闇に潜み、噛み苛む虫たちを",
+      "eng": "And so, she lived in fear. Of the dark,\r\nof the things that gnawed at her flesh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "但是那又如何！深渊里不会有那种东西！",
+      "jap": "けれど、どうだ！そんなものが、深淵のどこにいたろうか！",
+      "eng": "And yet! The Abyss hath yet to produce any such creature!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "因此，你毋须畏惧黑暗，",
+      "jap": "だから君、闇を恐れるなかれ",
+      "eng": "Fear not, the dark, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "And let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0交谈",
+      "jap": "#0話しかけた:沼地B",
+      "eng": "#0Talk-1st time ",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "那男人心怀恐惧──穿戴坚固铠甲，竟然会怕柔弱的女人，\r\n这是什么闹剧呢？",
+      "jap": "男は恐れた。\r\n固い鎧を身に着けて、弱い女を、まるで児戯のように",
+      "eng": "And so, despite his weighty armour, he lived in fear.\r\nOf a delicate thing, little more than a girl.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "待在火旁，就会产生扭曲黑影──\r\n然而深渊不存在黑影。",
+      "jap": "火の側では、影が歪む者もいる。\r\n深淵に影はない",
+      "eng": "Where fire resideth, shadows twist and shrivel.\r\nBut in the Abyss, there are shadows none.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "因此，你毋须畏惧黑暗，",
+      "jap": "だから君、闇を恐れるなかれ",
+      "eng": "Fear not, the dark, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "And let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "……",
+      "jap": "アア…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……",
+      "jap": "ウゥ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "……",
+      "jap": "ウッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "……",
+      "jap": "ウァ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "啊，没错，我想起来了。",
+      "jap": "ああ、そうだ、思い出した",
+      "eng": "Ahh, yes, yes, I remember now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "Let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "Let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0发动攻击时",
+      "jap": "#0攻撃された",
+      "eng": "#0Upon initiating a feasting grab attack",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "进食的时刻到了！",
+      "jap": "いただきます！",
+      "eng": "I shall partake!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "啊啊，毋须畏惧黑暗，",
+      "jap": "ああ君よ、闇を恐れるなかれ",
+      "eng": "Search thine own self. Fear not the dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "大啖食粮之刻已到。",
+      "jap": "我ら食餌の時だ",
+      "eng": "And let the feast begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "……",
+      "jap": "ウゥ…アァァッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "##在那些指头里，只有那男人与深渊相融。",
+      "jap": "##指たちの中で、その男だけが深淵に溶けた",
+      "eng": "##Of all the Fingers, he alone was embraced by the Abyss.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "##这也是因为他属于人族，并非蛆类。",
+      "jap": "##それは人のもの、蛆のものではない故に",
+      "eng": "##For he was human, and ne'er a grub.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "##因此，你毋须畏惧黑暗，",
+      "jap": "##だから君、闇を恐れるなかれ",
+      "eng": "##Fear not, the dark, my friend.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "##大啖食粮之刻已到。",
+      "jap": "##我ら食餌の時だ",
+      "eng": "##And let the feast begin.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "##……",
+      "jap": "##アァッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

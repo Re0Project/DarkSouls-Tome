@@ -1,6 +1,647 @@
 {
   "npc": "aldia",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/aldia.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/aldia.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0点燃第4个始源营火后，第1次聊天",
+      "jap": "#0話しかけた(4つ目のはじまりの篝火):1回目",
+      "eng": "#0Talk-1st time after lighting a Primal Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "没想到竟有人能抵达这里，\r\n曾几何时啊。",
+      "jap": "ここに辿り着く者が現れるのは\r\nいつ以来だろうか",
+      "eng": "No one has come this far,\r\nnot for a very long while.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "游魂啊\r\n你希望打破诅咒吗？",
+      "jap": "亡者よ\r\n呪いを超えようと望むのか",
+      "eng": "Young Hollow,\r\ndo you wish to shed this curse?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "挑战试炼，正是游魂不得不为的使命。",
+      "jap": "試練に挑むこと、それこそ亡者に課せられた使命",
+      "eng": "Then accept the fate of your ilk, and face the trials that await you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "除了放弃一切、心志尽挫者之外。",
+      "jap": "全てを諦め、心折れた者以外はな",
+      "eng": "Unless, you have already joined the crestfallen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0点燃第4个始源营火后，第2次聊天",
+      "jap": "#0話しかけた(4つ目のはじまりの篝火):2回目",
+      "eng": "#0Talk-2nd time after lighting a Primal Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "游魂啊\r\n可选之路有二。\r\n继承这世间的道理，或是加以毁坏",
+      "jap": "亡者よ\r\n道はふたつ\r\n世の理を継ぐか、あるいは壊すか",
+      "eng": "Young Hollow,\r\nthere are but two paths.\r\nInherit the order of this world, or destroy it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "而能引领前行者，唯真王不可。",
+      "jap": "そしてそれを導くのは、真の王のみ",
+      "eng": "But only a true monarch can make such a choice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "未能抵达此处者，不知凡几。",
+      "jap": "幾多の者が、この場にすら辿り着けず",
+      "eng": "Very few, indeed, have come even this far.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "此处却仅为半途。",
+      "jap": "そしてここですら、道半ばに過ぎない",
+      "eng": "And yet your journey is far from over.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "游魂啊\r\n你是走得完另一半路的那人吗？",
+      "jap": "亡者よ\r\nお前はそれに足る者かな",
+      "eng": "Half-grown Hollow,\r\nhave you what it takes, truly?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0点燃第4个始源营火后，第3次聊天",
+      "jap": "#0話しかけた(4つ目のはじまりの篝火):3回目",
+      "eng": "#0Talk-3rd time after lighting a Primal Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "游魂啊\r\n去见汎克拉德吧。",
+      "jap": "亡者よ\r\nヴァンクラッドに会うがいい",
+      "eng": "Young Hollow,\r\nseek after Vendrick.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "那个曾经最接近王的人，",
+      "jap": "かつて王に最も近付いた者",
+      "eng": "He who almost became a true monarch.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "或许能够成为指路明灯吧。",
+      "jap": "道を示す標となるだろう",
+      "eng": "Vendrick is certain to guide your way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "游魂啊\r\n希望有朝一日能与你再会。",
+      "jap": "亡者よ\r\nまたいずれ、出会えることを",
+      "eng": "Fledgeling Hollow,\r\nmay we meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0点燃不死灵庙营火后，第1次聊天",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "呵呵呵，我见过你。",
+      "jap": "フフフ、見知った顔だ",
+      "eng": "Heheh, I believe we've been acquainted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "游魂啊\r\n挑战苦难之人。",
+      "jap": "亡者よ\r\n苦難に挑む者よ",
+      "eng": "Young Hollow,\r\nconqueror of fear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "何以如此渴望打破诅咒？",
+      "jap": "何故そうまで、呪いを乗り越えようと望む",
+      "eng": "What drives you so, to overcome this supposed curse?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0点燃不死灵庙营火后，第2次聊天",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "生命灿烂而美丽，\r\n却也困住了所有的人。",
+      "jap": "生は眩く、美しい\r\nそして誰もが、それに囚われている",
+      "eng": "Life is brilliant. Beautiful.\r\nIt enchants us, to the point of obsession.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "身已飘渺，\r\n却未忘使命之人。",
+      "jap": "虚ろと化してなお、\r\n使命を忘れぬ者",
+      "eng": "Some are true to their purpose,\r\nthough they are but shells, flesh and mind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "躯干已灭，仅剩头颅存活之人。",
+      "jap": "身体を失い、首だけと成り果てた者",
+      "eng": "One man lost his own body, but lingered on, as a head.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "追求无缘之爱的人。",
+      "jap": "得られなかった愛を求める者",
+      "eng": "Others chase the charms of love, however elusive.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "而你本身也……？",
+      "jap": "そして、お前自身も…？",
+      "eng": "What is it that drives you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0点燃不死灵庙营火后，第3次聊天",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "曾为光之王者，\r\n将人之名封入黑暗……",
+      "jap": "かつて光の王となった者は、\r\n人という名の闇を封じ込め…",
+      "eng": "Once, the Lord of Light banished Dark,\r\nand all that stemmed from humanity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "人因此获得虚伪的模样。",
+      "jap": "そして人は、仮初の姿を得た",
+      "eng": "And men assumed a fleeting form.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "这正是这个世间道理的滥觞。",
+      "jap": "それこそが、この世の理のはじまり",
+      "eng": "These are the roots of our world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "人皆活在虚伪之生当中，\r\n无论其何等温馨、何其美丽，",
+      "jap": "人は皆、偽りの生のなかにある\r\n例えいかに優しく、美しくとも",
+      "eng": "Men are props on the stage of life,\r\nand no matter how tender, how exquisite...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "谎言只不过是谎言。",
+      "jap": "嘘は所詮、嘘にしか過ぎない",
+      "eng": "A lie will remain a lie.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "游魂啊\r\n即便如此，你仍期望安宁吗？",
+      "jap": "亡者よ\r\nそれでもなお、お前は安寧を望むのか？",
+      "eng": "Young Hollow,\r\nknowing this, do you still desire peace?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0该怎么做？选择「是」或「否」",
+      "jap": "#0話しかけた:3回目・選択肢【YES】もくしは【NO】",
+      "eng": "#0Choose \"Yes\" or \"No\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "最接近王的位汎克拉德，\r\n来到此地。",
+      "jap": "かつて王に近づいた者、\r\nヴァンクラッドは、この地に",
+      "eng": "Vendrick, the near-true monarch,\r\nis here, and not far off.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "何为王者？",
+      "jap": "王とは何か",
+      "eng": "But what is a king?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "既非天赋之才，亦非命中注定……",
+      "jap": "生まれ持つ器でもなく、定められた運命でもなく…",
+      "eng": "You, neither born with greatness, nor granted it by the fates.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "你求的是什么？",
+      "jap": "お前が何を望むのか",
+      "eng": "What is it that you seek?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "或许，连你自己都尚未可知。",
+      "jap": "それはお前自身すら、未だ知らぬ",
+      "eng": "You cannot even say yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "游魂啊\r\n期待再相会。",
+      "jap": "またいずれ\r\n亡者よ",
+      "eng": "We shall meet again,\r\nyoung Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0点燃龙祭坛营火后，第1次聊天",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "游魂啊。",
+      "jap": "亡者よ",
+      "eng": "Young Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "在这扭曲无比的世界\r\n不断挣扎的人啊。",
+      "jap": "この捻じ曲げられた世界で\r\nあがき続ける者よ",
+      "eng": "How you grapple, without falter,\r\nwith this dreadfully twisted world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0点燃龙祭坛营火后，第2次聊天",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "人被允许在安宁中活着，",
+      "jap": "人は安寧のなかで、生かされている",
+      "eng": "Peace grants men the illusion of life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "并相信、疼惜那虚伪的牢笼，\r\n即使一切都是谎言。",
+      "jap": "そして偽りの檻を信じ、愛おしむ\r\n例え全てが嘘であろうと",
+      "eng": "Shackled by falsehoods, they yearn for love,\r\nunaware of its grand illusion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "直到其身发生诅咒为止。",
+      "jap": "やがてその身に呪いを現す時まで",
+      "eng": "Until, the curse touches their flesh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "那是赋予我们的辔。",
+      "jap": "それは我らに課せられた軛",
+      "eng": "We are bound by this yoke.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "因为黑暗才是人们体内蕴含的真实。",
+      "jap": "闇こそが、人の内に宿る真実であるが故に",
+      "eng": "As true as the Dark that churns within men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0点燃龙祭坛营火后，第3次聊天",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "人皆活在虚伪之生当中，",
+      "jap": "人は皆、偽りの生のなかにある",
+      "eng": "All men trust fully the illusion of life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "但是，那是恶吗？",
+      "jap": "だが、それは果たして悪だろうか",
+      "eng": "But is this so wrong?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "虚构、他人所造的生\r\n然而……",
+      "jap": "作られた、偽りの生\r\nだが…",
+      "eng": "A construction,\r\na façade, and yet...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "那却是无可比喻的温馨、甜美的世界。",
+      "jap": "それは例えようもなく優しく、甘やかな世界",
+      "eng": "A world full of warmth and resplendence.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "游魂啊\r\n即便如此，你仍想脱去辔头，\r\n打破这片虚伪吗？",
+      "jap": "亡者よ\r\nそれでもなお、軛を解き放ち、\r\n偽りを打ち破ることを望むのか",
+      "eng": "Young Hollow,\r\nare you intent on shattering the yoke,\r\nspoiling this wonderful falsehood?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0该怎么做？选择「是」或「否」",
+      "jap": "#0話しかけた:3回目・選択肢【YES】もくしは【NO】",
+      "eng": "#0Choose \"Yes\" or \"No\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "我名安第尔。",
+      "jap": "私は、アン・ディール",
+      "eng": "I am Aldia.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "曾挑战因果，却未成功，",
+      "jap": "かつて因果に挑み、果たされず",
+      "eng": "I sought to shed the yoke of fate, but failed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "只是个等待答案的人。",
+      "jap": "ただ、答えを待つ者",
+      "eng": "Now, I only await an answer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "追求王座吧。",
+      "jap": "玉座を求めよ",
+      "eng": "Seek the throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "无论是光或暗\r\n直到尽头……",
+      "jap": "光も、そして闇も\r\nその果てに…",
+      "eng": "Seek light, Dark,\r\nand what lies beyond...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0在龙祭坛选择「是」后，击杀杜娜湘卓后",
+      "jap": "#0デュナシャンドラ擊破後",
+      "eng": "#0After choosing \"Yes\" to the query in Dragon Shrine & defeating Nashandra",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "过去曾出现无数的王。",
+      "jap": "かつて、幾多の王が現れた",
+      "eng": "Many monarchs have come and gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "有人被毒吞噬，有人没顶于火焰，",
+      "jap": "ある者は毒に呑まれ、ある者は炎に沈み、",
+      "eng": "One drowned in poison, another succumbed to flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "也有人沉眠于冰冻之地，",
+      "jap": "そしてある者は、凍てついた地に眠る",
+      "eng": "Still another slumbers in a realm of ice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "无一人曾到达此地。",
+      "jap": "ひとりとして、この場に辿り着くことなく",
+      "eng": "Not one of them stood here, as you do now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "通过试炼之人啊。",
+      "jap": "試練を越えた者よ",
+      "eng": "You, conqueror of adversities.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "是揭开答案的时候了。",
+      "jap": "答えを示す時だ",
+      "eng": "Give us your answer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0击败安第尔后",
+      "jap": "#0アン・ディール擊破後",
+      "eng": "#0After defeating Aldia, Scholar of the First Sin",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "我失去了一切，不断的等待。",
+      "jap": "私は全てを失い、そして待ち続けた",
+      "eng": "I lost everything, but remained here, patiently.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "王座应会接纳你。",
+      "jap": "玉座は、お前を迎え入れるだろう",
+      "eng": "The throne will certainly receive you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "但那因果……",
+      "jap": "だが、因果は…",
+      "eng": "But the question remains...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "你求的是什么？",
+      "jap": "お前は何を望む",
+      "eng": "What do you want, truly?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "是光、是暗……还是……",
+      "jap": "光か、闇か…あるいは…",
+      "eng": "Light? Dark? Or something else entirely...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0选择「离开王座」后",
+      "jap": "#0玉座を去る",
+      "eng": "#0After exiting Throne of Want by choosing \"Leave Throne\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "无路可走啊。",
+      "jap": "道など、ありはしない",
+      "eng": "There is no path.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "没有光的照耀、更失去黑暗的前路，",
+      "jap": "光すら届かず、闇さえも失われた先に",
+      "eng": "Beyond the scope of light, beyond the reach of Dark...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "你究竟有何求？",
+      "jap": "何があるというのか",
+      "eng": "...what could possibly await us?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "但是，这种追求",
+      "jap": "だが、それを求めることこそが",
+      "eng": "And yet, we seek it, insatiably...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "才是赋予我们的试炼……",
+      "jap": "我らに課せられた試練…",
+      "eng": "Such is our fate.",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

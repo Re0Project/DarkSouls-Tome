@@ -1,6 +1,783 @@
 {
   "npc": "undeadman",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/undeadman.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/undeadman.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喔，你好。",
+      "jap": "おう、あんた",
+      "eng": "Well, now...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "看来你还正常啊……？",
+      "jap": "どうやら、まともみたいだな…？",
+      "eng": "You seem to have your wits about you, hmm?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "那就是我的客人了。",
+      "jap": "だったら、俺のお客様だ",
+      "eng": "Then you are a welcome customer!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "用灵魂来交换吧，我这里有不错的东西喔。",
+      "jap": "ソウルと交換だ。いいものを揃えてるぜ",
+      "eng": "I trade for souls. Everything's for sale!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "喔，你又来了。",
+      "jap": "おう、またあんたか",
+      "eng": "Oh, you again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "灵魂有存够吗？",
+      "jap": "ソウルはしっかり貯めてきたか？",
+      "eng": "I hope you've brought plenty of souls?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0在营火休息后攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-After resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "喔，是你啊。",
+      "jap": "おう、あんたか",
+      "eng": "Oh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "你还正常啊……？",
+      "jap": "まだ、まともみたいだな…？",
+      "eng": "Still keeping your marbles all together?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "那就买点东西回去吧。",
+      "jap": "だったら、買ってくんな",
+      "eng": "Then, go ahead, don't be a nitwit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "反正你也撑不了多久了，就不要太小气了吧？",
+      "jap": "どうせ長くないんだ、ケチしてもしょうがないだろう？",
+      "eng": "Never hurts to splurge when your days are numbered!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0离开城外不死镇后，返回攀谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-After leaving & returning to Undead Burg",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "喔，是你啊。",
+      "jap": "おう、あんたか",
+      "eng": "Oh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "好久不见。",
+      "jap": "ひさしぶりだな",
+      "eng": "Where have you been hiding?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我还以为你玩完了，",
+      "jap": "てっきり終わったと思ってたが",
+      "eng": "I guessed you'd hopped the twig for certain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "真令人意想不到啊。",
+      "jap": "分からないものだな",
+      "eng": "Bah, shows what I know!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "最近这附近不是很安全，",
+      "jap": "ここらへんも、最近は物騒でなあ",
+      "eng": "Things are getting treacherous in these parts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "先前这下面\r\n住了一只山羊头的恶魔，",
+      "jap": "この下にゃあ\r\nちょっと前から、山羊頭のデーモンが住みついてやがるし",
+      "eng": "A horrible goat demon\r\nhas moved in below.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "上面也不安宁，有只大飞龙，\r\n最近好像连牛头的恶魔都出现了，",
+      "jap": "上は上で、でっかい飛竜やら\r\n最近では牛頭のデーモンまで現れるらしい",
+      "eng": "And up above, there's that humungous drake,\r\nand a bull demon, too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "你要死最好也选个好地方再死啊。",
+      "jap": "あんたも、せいぜい死に場所を選んでおいた方がいいぜ",
+      "eng": "If you stick around this place, it might end up being your grave!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "啊？我没什么和你好聊的，",
+      "jap": "あん？話なんざねえよ",
+      "eng": "Eh? I'm not here to chit-chat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "不买的话就快滚。",
+      "jap": "用がないなら、とっとと帰ってくんな",
+      "eng": "We talk business, or we talk nothing at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "喔，这家伙啊，很可爱吧？",
+      "jap": "ああ、こいつか。可愛いだろう？",
+      "eng": "Ah, this one? Ain't she lovely?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "这是尤莉亚，和我在一起很久了。",
+      "jap": "名前はユリア。もうずっと一緒だ",
+      "eng": "Her name is Yulia. She's plumb in love with me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "这家伙很黏我的……",
+      "jap": "こいつは俺に惚れちまってるのさ…",
+      "eng": "You'd never leave my side, now would you, Yulia?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0互动列表-第4次选择「交谈」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "啊，没有用的。",
+      "jap": "ああ、無駄だよ、無駄",
+      "eng": "Ah, you can forget it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "这家伙只听我的。",
+      "jap": "こいつには俺だけだ",
+      "eng": "I'm all that she needs.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "小心被咬喔，",
+      "jap": "下手に手を出すと噛まれるぜ",
+      "eng": "Careful, she'll bite your little fingers off!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "对不对啊，尤莉亚？",
+      "jap": "なあ、ユリア？",
+      "eng": "Be kind, Yulia, be kind!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0互动列表-第5次选择「交谈」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "不要再讲那么多了，",
+      "jap": "ささ、話なんてどうでもいいじゃないか",
+      "eng": "Now, don't squander your time chatting!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "快买吧，买多一点啊。",
+      "jap": "どんどん買ってくれ、買ってくれよ",
+      "eng": "You need to look over my wares!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0互动列表-第6次选择「交谈」",
+      "jap": "#0リストから選択:話すF",
+      "eng": "#0Menu-Choose \"Talk\" 6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……其实这里也不错啊，",
+      "jap": "…実際、ここは結構快適さ",
+      "eng": "It's actually quite nice here, you know?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "游魂好像也不太在意像我这样瘦弱的家伙，",
+      "jap": "亡者どもは、俺みたいに枯れたのはどうでもいいらしいし",
+      "eng": "The Hollows don't care for a skinny old twig like me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "而且又有这家伙在……也不会有人丢我石头。",
+      "jap": "それに、こいつもいるし…誰も、石を投げたりしねえ",
+      "eng": "I've got Yulia...And nobody pelts me with stones anymore.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "你也是不死人，应该能了解吧？",
+      "jap": "あんたも不死なら、分かるだろう？",
+      "eng": "You're Undead, you know how it is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "故乡才是地狱，不是吗……",
+      "jap": "故郷は地獄だったじゃないか…",
+      "eng": "I was treated worse back at home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0互动列表-第7次选择「交谈」",
+      "jap": "#0リストから選択:話すG",
+      "eng": "#0Menu-Choose \"Talk\" 7th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "啊？我卖的东西？",
+      "jap": "あん？俺の売り物？",
+      "eng": "Eh? My wares?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "当然是赃物啊，你有啥意见啊？",
+      "jap": "勿論盗品だぜ、何か文句あんのか？",
+      "eng": "Of course they're stolen; what did you think?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "如果你怎么了，",
+      "jap": "せいぜいあんたがおかしくなったら",
+      "eng": "And when you lose your head,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "我也会好好把你的遗物拿来卖的。",
+      "jap": "遺品は有効活用してやるぜ",
+      "eng": "I'll sell it all again!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0第1次未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった):A",
+      "eng": "#0Menu-Choose \"Leave\" 1st time without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "啧",
+      "jap": "ちぇ",
+      "eng": "Hmph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "真小气。",
+      "jap": "けちくさいねぇ",
+      "eng": "Cheap bastard.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "对不对啊，尤莉亚？",
+      "jap": "なあ、ユリア？",
+      "eng": "Right, Yulia?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0第2次未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった):B",
+      "eng": "#0Menu-Choose \"Leave\" 2nd time without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "呿",
+      "jap": "ケッ",
+      "eng": "Tsk!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "真吝啬。",
+      "jap": "しけてるねぇ",
+      "eng": "Throw me a bone, will you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "你也撑不了多久啦，",
+      "jap": "あんた、もう長くないぜ",
+      "eng": "You haven't got much time anyway.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "对不对啊，尤莉亚？",
+      "jap": "なあ、ユリア？",
+      "eng": "Right, Yulia?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0第3次未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった):C",
+      "eng": "#0Menu-Choose \"Leave\" 3rd time without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "哼",
+      "jap": "フン",
+      "eng": "Hmph.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "怎么，消遗我啊？",
+      "jap": "なんだ、ひやかしかよ",
+      "eng": "What a waste of time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "去死吧，垃圾。",
+      "jap": "終わっちまえ、屑が",
+      "eng": "Go and fall off a cliff. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0第1次完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした):A",
+      "eng": "#0Menu-Choose \"Leave\" 1st time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "谢谢光临。",
+      "jap": "まいどあり",
+      "eng": "Thank you kindly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0第2次完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした):B",
+      "eng": "#0Menu-Choose \"Leave\" 2nd time after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "谢谢惠顾。",
+      "jap": "ありがとうごぜえました",
+      "eng": "Ah, thank you, very much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "欢迎再度光临……",
+      "jap": "今後ともご贔屓に…",
+      "eng": "Come back soon!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "嘻嘻嘻",
+      "jap": "イヒヒヒヒヒッ",
+      "eng": "Nee hee hee hee hee!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "欸，怎么了，你要去哪？",
+      "jap": "あん、なんだ？どうした？",
+      "eng": "Hey, what! What's the matter?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "刚发生了什么事啊？",
+      "jap": "さっきは、どうしたってんだい？",
+      "eng": "What was that about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "算了，反正与我无关。",
+      "jap": "まあ、どうでもいいがな",
+      "eng": "Oh, nevermind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "哇！",
+      "jap": "うわっ！",
+      "eng": "Eeg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "好痛！",
+      "jap": "いてえっ！",
+      "eng": "Yeowch!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "喂，你干么打我！",
+      "jap": "おい、何するんだ？",
+      "eng": "Oi, what's this about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "是我啊，不要打了！",
+      "jap": "俺だよ！やめてくれよ！",
+      "eng": "It's me! Stop it, I tell you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "小子，你玩完了吗！",
+      "jap": "てめえ、終わっちまったか！",
+      "eng": "You've gone mad, have you!?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "我不会放过你的！我要宰了你！",
+      "jap": "やってやるよ！ゆるさねえぞ！",
+      "eng": "I'll teach you! You lousy rat!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "尤莉亚！尤莉亚！",
+      "jap": "ユリアッ！ユリアッ！",
+      "eng": "Yulia! Yulia!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "为什么是我……",
+      "jap": "何で俺が…",
+      "eng": "Why, me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "尤莉亚……",
+      "jap": "ユリアよう…",
+      "eng": "Little Yulia...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "##做人做成这样就没救了。",
+      "jap": "##人間、こうなっちゃおしまいだ",
+      "eng": "##If you're looking for a lot, you have to give a little.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

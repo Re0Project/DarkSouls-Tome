@@ -1,7 +1,7 @@
 {
   "npc": "quelaag",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/quelaag.webp",
+  "avatar": "/icons/ds1/dialogues/quelaag.webp",
   "lines": [
     {
       "index": 0,

@@ -1,6 +1,399 @@
 {
   "npc": "nashandra",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/nashandra.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/nashandra.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "通过考验，顺利来到这里的，\r\n被诅咒的不死人啊！",
+      "jap": "試練を乗り越え、よくぞここまで来られました\r\n呪われた不死よ",
+      "eng": "You have fought admirably on your journey,\r\ncursed Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是杜娜湘卓，\r\n多兰古雷格的王妃。",
+      "jap": "我が名は、デュナシャンドラ\r\nこのドラングレイグの王妃",
+      "eng": "I am Nashandra,\r\nQueen of Drangleic.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "那可是承受灵魂因果的人呀。",
+      "jap": "王とは、ソウルの因果を引き受ける者",
+      "eng": "A true monarch carries the weight of their souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "过去这个国家的国王，没错，就是那位名叫汎克拉德的人。",
+      "jap": "かつてのこの国の王、そう、名はヴァンクラッドと言いました",
+      "eng": "The last king of this land, King Vendrick, as he was called...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "他得到了力量而成为人间之王，\r\n而且还为了与天生受诅咒者对抗……",
+      "jap": "力を手に入れ、人の王となり、\r\n生まれ来る呪い人と対峙すべく…",
+      "eng": "He found the strength to rule his people,\r\nand when the Undead were born, cursed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "而追求更强大的力量，为此他做过各种尝试。",
+      "jap": "さらなる力を求めて、様々な試みを成した",
+      "eng": "He found more strength, to face them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "不过他终究没能抵达\r\n\"王座\"所在的位置。",
+      "jap": "ですが、\"玉座\"に\r\nたどり着くことはありませんでした",
+      "eng": "But in the end,\r\nhe never took the true throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "请你到汎克拉德那里去吧。",
+      "jap": "ヴァンクラッドの元に赴きなさい",
+      "eng": "Visit Vendrick.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "因为不需要两个王者。",
+      "jap": "王はふたりとは要らぬのですから",
+      "eng": "We have no need for two rulers...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0获得国王戒指后，第1次说话",
+      "jap": "#0話しかけた:王の指輪入手後",
+      "eng": "#0Talk-1st time after acquiring the King's Ring",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "多兰古雷格已经就此亡国了。",
+      "jap": "いまここに、ドラングレイグは滅びました",
+      "eng": "Drangleic is no longer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0获得国王戒指后，第2次说话",
+      "jap": "#0話しかけた:王の指輪入手後:2回目",
+      "eng": "#0Talk-2nd time after acquiring the King's Ring",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "不死人啊，\r\n快去找\"王座\"吧。",
+      "jap": "不死よ\r\n\"玉座\"を求めなさい",
+      "eng": "Brave Undead,\r\nseek the throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "遵从王者证明的指引，做你该做的事。",
+      "jap": "王の証に従い、為すべきを為すのです",
+      "eng": "Follow the symbol of the monarch, and do what must be done.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0获得灰雾核心后，第1次说话",
+      "jap": "#0話しかけた:祭祀場で灰の雾の核を入手後",
+      "eng": "#0Talk-1st time after acquiring the Ashen Mist Heart",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "不死人啊，\r\n你向那条龙打听了什么？",
+      "jap": "不死よ\r\nあの竜に何を聞いたのです？",
+      "eng": "Brave Undead,\r\nwhat did that dragon tell you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "那只是虚假的东西，\r\n是伪神。\r\n不死人啊，你千万别被骗了！",
+      "jap": "あれは偽りのもの\r\n偽りの神\r\nたぶらかされてはいけません",
+      "eng": "That thing is a prop,\r\na false deity.\r\nDon't be fooled, my Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0获得灰雾核心后，第1次说话",
+      "jap": "#0話しかけた:祭祀場で灰の雾の核を入手後、2回目",
+      "eng": "#0Talk-2nd time after acquiring the Ashen Mist Heart",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "不死人啊，到森林里去吧。\r\n到那个丑陋巨人沉眠的地方去。",
+      "jap": "森へ行くのです\r\nあの醜い巨人の眠る地へ",
+      "eng": "Seek the forest, you,\r\nwhere those wretched Giants slumber.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0击杀王座监视者和王座守护者后",
+      "jap": "#0玉座の監視者と玉座の守護者撃破後",
+      "eng": "#0After defeating the Throne Defender & Throne Watcher",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "不死者。",
+      "jap": "不死よ",
+      "eng": "Brave Undead,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "通过考验的不死者啊！",
+      "jap": "試練を越えし不死よ",
+      "eng": "you have proven yourself to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "现在就是和黑暗融合之时……",
+      "jap": "いまこそ、闇とひとつに…",
+      "eng": "Now, be one, with the Dark...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "##不死人啊，\r\n这里有项对到达这里的\r\n你来说应该遵守的规定。",
+      "jap": "##不死よ\r\nここにたどり着いたそなたには\r\n為すべき定めがあるのです",
+      "eng": "##Brave Undead,\r\nyour arrival here\r\nforeshadows your fate.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "##真正的王者与只会统治国家的庸才可是大不相同。",
+      "jap": "##まことの王とは、ただ国を統べる俗物にあらず",
+      "eng": "##A true monarch is much more than a ruler of men.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "##就成为真正王者的器量来说，他其实还不够格。",
+      "jap": "##あれは、まことの王たるには足りぬ器でした",
+      "eng": "##He was less of a king than you might imagine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "##现在他只能在不死灵庙里等待自己油尽灯枯的那一天吧。",
+      "jap": "##今は不死の廟にて、立ち枯れているのでしょう",
+      "eng": "##And now he lies in the Undead Crypt, wasting away.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "##不死人啊，\r\n或许你才是够格成为王者的人。",
+      "jap": "##不死よ\r\nそなたこそは王となるべき者やもしれません",
+      "eng": "##Brave Undead,\r\nperhaps you are the true monarch.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "##我会在这里\r\n等你掌握因果。",
+      "jap": "##私は、ここで待っています\r\nそなたが因果を手にすることを",
+      "eng": "##I will wait here.\r\nFor you to settle things.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "##不死人啊，\r\n你得追求更强的诅咒。",
+      "jap": "##不死よ\r\nより強き呪いを求めるのです",
+      "eng": "##Brave Undead,\r\nseek a fiercer curse.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "##王者是独一无二的。\r\n如果那就是你……",
+      "jap": "##王はただひとり\r\nそれがそなたであるならば…",
+      "eng": "##Only one may rule.\r\nAnd that one may well be you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "##不死人啊，\r\n去打倒那个人！\r\n打倒汎克拉德夺取王者证明吧，不死人！",
+      "jap": "##不死よ\r\nあの者を、ヴァンクラッドを倒し\r\n王の証を手にした不死よ",
+      "eng": "##Brave Undead,\r\nvanquisher of King Vendrick,\r\nand bearer of the symbol of the monarch.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "##然而即便如此，也不知道你是否够格当王……",
+      "jap": "##しかしそれでも、そなたが王たるか否か…",
+      "eng": "##But to know if you are the true king...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "##若想知道这个，你就非得拿到\"王座\"不可。",
+      "jap": "##それを知るには、\"玉座\"を得なければなりません",
+      "eng": "##...we will require the throne.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "##不死人啊，请遵从王者证明的指引吧。\r\n如果是你，或许真的能成功吧。",
+      "jap": "##不死よ、王の証に従いなさい\r\nそなたであれば、成し遂げられるやもしれぬ",
+      "eng": "##Brave Undead, follow the symbol of the monarch.\r\nSurely you have it in you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "##这才是你被赋予的使命……",
+      "jap": "##それこそが、そなたに課せられた道…",
+      "eng": "##For this is your true purpose...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "##不死人啊，\r\n你见到龙了吧？\r\n那个仿造品。",
+      "jap": "##不死よ\r\n竜に会ったか\r\nあのまがい物に",
+      "eng": "##Brave Undead,\r\nyou've met that dragon?\r\nThat living, breathing sham.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "##那终究只是伪神，\r\n对你来说帮不上什么忙。",
+      "jap": "##あれは所詮、偽りの神\r\n何の役にも立ちはせぬ",
+      "eng": "##A false deity,\r\noffering nothing.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "##只要你有那条龙的印记，就能引动那些游离的思念。",
+      "jap": "##その竜のしるしを以って、漂う思念を手繰るのです",
+      "eng": "##Use the symbol of the dragon to delve into their thoughts.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "##不死人啊，\r\n到森林里去吧。\r\n到那座巨人之森去看看。",
+      "jap": "##不死よ\r\n森へ\r\nあの巨人の森へ行くのです",
+      "eng": "##Brave Undead,\r\nto the forest.\r\nThe Forest of Giants.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "##越快越好……",
+      "jap": "##早く、早く…",
+      "eng": "##Before it's too late...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "##喔……火焰……火焰……",
+      "jap": "##おお…火が…火が…",
+      "eng": "##Ohh...The flame...the flame...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "##灵魂……灵魂……",
+      "jap": "##ソウル…ソウルを…",
+      "eng": "##Souls...more souls...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "##你做什么……",
+      "jap": "##何を…",
+      "eng": "##How very dare you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "##呵呵呵……",
+      "jap": "##フフフ…",
+      "eng": "##Tee hee...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "##…",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

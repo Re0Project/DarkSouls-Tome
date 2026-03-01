@@ -1,6 +1,847 @@
 {
   "npc": "sirris",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/sirris.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/sirris.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……噢，你也是无火的余灰啊。",
+      "jap": "…ああ、貴方は、火の無き灰の方ですね",
+      "eng": "Mm, you're an Unkindled, aren't you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是薄暮之国的希里丝，曾是奉神之人。",
+      "jap": "私は薄暮の国のシーリス。かつて神に、仕えた者です",
+      "eng": "I am Sirris, of the Sunless Realms, former servant of the Divinity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我们都各自肩负使命，而使命则使人孤独，",
+      "jap": "お互いに使命のある身、そして、使命とは孤独なもの",
+      "eng": "Duties we each bear, but one's duty is a solitary affair.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "恐怕我们最好不要有牵扯。",
+      "jap": "おそらく私たちは、あまり関わるべきではないのでしょう",
+      "eng": "I doubt we've much to gain from fraternisation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "祈望你的旅途一路有月的庇佑。",
+      "jap": "貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "恐怕我们最好不要有牵扯。",
+      "jap": "おそらく私たちは、あまり関わるべきではないのでしょう",
+      "eng": "I doubt we've much to gain from fraternisation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "祈望你的旅途一路有月的庇佑。",
+      "jap": "貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0交出逐梦者骨灰后，第1次交谈",
+      "jap": "#0話しかけた:祭祀場の侍女に夢追い人の遺灰を渡した後:1回目",
+      "eng": "#0Talk-1st time after obtaining the Dreamchaser's Ashes",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "……噢，又遇见你了。",
+      "jap": "…ああ、貴方、またお会いしましたね",
+      "eng": "Hello again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "从那次分别之后，我好几次听过关于你的消息",
+      "jap": "あれから、私は何度も、貴方の話をお聞きしました",
+      "eng": "I have since heard a great deal about you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……听说你是个好心人。",
+      "jap": "…とても、優しき方だと",
+      "eng": "For one, that you are most gentle of heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我也是肩负使命之人，但是我可以留下记号。",
+      "jap": "私も使命がある身ですが、サインくらいは書けると思います",
+      "eng": "I, too, am bound by duty, but can offer you my sign.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "人说“通往余火之路需牺牲奉献”。",
+      "jap": "献身は残り火の道であると聞きました",
+      "eng": "I hear that cordial intrusion lays the path to embers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "如果能帮到你，就召唤我吧。",
+      "jap": "もしそれが、貴方を助けるのなら、お使いください",
+      "eng": "If I can be of help, by all means, do call upon me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "祈望你的旅途一路有月的庇佑。",
+      "jap": "貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0交出逐梦者骨灰后，第2次交谈",
+      "jap": "#0話しかけた:祭祀場の侍女に夢追い人の遺灰を渡した後:2回目",
+      "eng": "#0Talk-2nd time after obtaining the Dreamchaser's Ashes",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "如果能帮到你，就触碰我的记号吧。",
+      "jap": "もし貴方を助けるのなら、私のサインをお使いください",
+      "eng": "If you should require assistance, use my sign.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "祈望你的旅途一路有月的庇佑。",
+      "jap": "貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0被召唤击杀暗灵克雷顿后",
+      "jap": "#0話しかけられた:放浪のクレイトン擊破後",
+      "eng": "#0After helping her defeat Creighton the Wanderer",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "非常感谢你拔刀相助。",
+      "jap": "ご助力、ありがとうございました",
+      "eng": "Thank you for your kind assistance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "祈望你有月的庇佑。",
+      "jap": "貴方に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0被召唤击杀暗灵克雷顿后，返回传火祭祀场后交谈",
+      "jap": "#0話しかけた:放浪のクレイトン擊破後",
+      "eng": "#0Talk-After helping her defeat Creighton the Wanderer",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "噢，感谢你前一阵子的拔刀相助。",
+      "jap": "ああ、貴方、先日はご助力いただき、ありがとうございました",
+      "eng": "Mm, I have not thanked you, for your generous rescue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "那个暗灵是罗莎莉亚的指头，\r\n是聚集在暗处的卑鄙、堕落之子。",
+      "jap": "あの闇霊は、ロザリアの指の者。\r\n暗室に集う、卑しい落とし子",
+      "eng": "That Dark Spirit was one of Rosaria's Fingers.\r\nVile bastard offspring who lurk in the darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "也是我的敌人。",
+      "jap": "私の敵です",
+      "eng": "My sworn enemies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "……话虽如此，那却是可怖的入侵者。",
+      "jap": "…しかしあれらはまた、恐ろしい侵入者",
+      "eng": "Fearsome invaders, to say the least.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "如果我独自对付，一定会为时已晚。我再次向你道谢。",
+      "jap": "私だけでは、遅れをとっていたでしょう。改めて、感謝します",
+      "eng": "I would not have made it alone. You have my deepest gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "还有，如果我能在你的旅途中有所帮助，\r\n就碰触我的记号吧。",
+      "jap": "そしてもし、貴方の旅を助けるのなら、\r\n私のサインもお使いください",
+      "eng": "If you require help on your travels,\r\nI offer you my sign.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "祈望你的旅途一路有月的庇佑。",
+      "jap": "貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0被召唤与佛多林克战斗时",
+      "jap": "#0話しかけられた:フォドリック戦開闘始",
+      "eng": "#0While helping her against Holy Knight Hodrick",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "终于找到你了，爷爷。",
+      "jap": "やっと見つけたよ、お爺ちゃん",
+      "eng": "I finally found you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "因为我们约好了啊。",
+      "jap": "約束だからね",
+      "eng": "Just as I promised, grandad, remember?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0被召唤击杀佛多林克后",
+      "jap": "#0話しかけられた:フォドリック撃破後",
+      "eng": "#0After helping her against Holy Knight Hodrick",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "晚安了，爷爷……",
+      "jap": "おやすみなさい、お爺ちゃん…",
+      "eng": "Good night, grandad...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0被召唤击杀佛多林克后，返回传火祭祀场后交谈",
+      "jap": "#0話しかけた:フォドリック撃破後:1回目",
+      "eng": "#0Talk-After helping her against Holy Knight Hodrick",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "……噢，我正在等你。",
+      "jap": "…ああ、貴方を待っていました",
+      "eng": "Oh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "把你牵扯进我的使命，\r\n不，我微不足道的约定里，真的非常抱歉。",
+      "jap": "私の使命に、いえ、小さな約束に、\r\n貴方を巻き込んでしまい、本当に、すみませんでした",
+      "eng": "I'm afraid I've involved you in my affairs,\r\nover a little promise, at that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "……还有，非常谢谢你。",
+      "jap": "…そして、ありがとうございました",
+      "eng": "My sincerest thanks for your assistance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "如此一来，我的爷爷终于能够长眠，而我也能够死去了。",
+      "jap": "祖父もやっと眠れ、私も、ようやく死ぬことができます",
+      "eng": "At last, my grandfather will rest in peace, and I can die.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "不过……在这之前，我有一事相求。",
+      "jap": "ですが、その前に…お願いがあります",
+      "eng": "But there is...one last thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "请允许我发誓──以骑士的身份追随在你身旁。",
+      "jap": "どうか私に、誓いを許してください。貴方に仕える、騎士としての",
+      "eng": "May I take a vow? To serve you, as a knight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0选择「不接受」",
+      "jap": "#0話しかけた:フォドリック撃破後:1回目・選択肢【許さない】",
+      "eng": "#0Choose \"Refuse\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "……噢，我明白了。",
+      "jap": "…ああ、わかりました",
+      "eng": "Yes, of course.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "看来我踰矩了……",
+      "jap": "出すぎた真似を、いたしました…",
+      "eng": "I am afraid I have overstepped my bounds.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "不过，\r\n如果有一天你能接受我的誓言，",
+      "jap": "けれどいつか、\r\n私に誓いを許して頂けるのなら",
+      "eng": "But if you might ever reconsider,\r\nand allow me to avow myself to you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "届时请和我说一声。",
+      "jap": "その時はまた、声をおかけください",
+      "eng": "Do not hesitate to speak up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "……祈望你的旅途一路有月的庇佑。",
+      "jap": "…貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0选择「不接受」后交谈",
+      "jap": "#0話しかけた:フォドリック撃破後:2回目・【許さない】選択後",
+      "eng": "#0Talk-After choosing \"Refuse\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "噢，是你。你愿意接受我的誓言了？",
+      "jap": "ああ、貴方。私に誓いを、許して頂けるのですか？",
+      "eng": "Oh, hello again. May I avow myself to you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "我将以骑士的身份追随在你身旁。",
+      "jap": "貴方に仕える、騎士としての",
+      "eng": "As a faithful knight, yours and true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0选择「接受骑士的誓言」",
+      "jap": "#0話しかけた:フォドリック撃破後:1回目・選択肢【騎士の誓いを許す】",
+      "eng": "#0Choose \"Accept her knightly vow\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "噢，感谢你。",
+      "jap": "ああ、感謝します",
+      "eng": "Oh, I am most grateful.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "……希里丝于此时开始，成为你的骑士。",
+      "jap": "…シーリスは、今この時より貴方の騎士",
+      "eng": "I, Sirris, do hereby serve as your faithful knight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "不论何时、不论何处，\r\n就算与众人为敌，",
+      "jap": "如何なる時、如何なる場所、\r\n諸人ひとしく敵となるも",
+      "eng": "Wherever, whenever, I am needed,\r\nand even if all should turn against you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "我的忠诚决不动摇。",
+      "jap": "我が忠誠に揺ぎ無し",
+      "eng": "My loyalty shall never waver.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "……祈望你的旅途一路有月的庇佑。",
+      "jap": "…貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0选择「接受骑士的誓言」后交谈",
+      "jap": "#0話しかけた:フォドリック撃破後:2回目・【騎士の誓いを許す】選択後",
+      "eng": "#0Talk-After choosing \"Accept her knightly vow\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "如果能帮到你，不论是什么事，请告诉我。",
+      "jap": "貴方の助けになるのならば、いつでも、私をお呼びください",
+      "eng": "If I may ever be of assistance, call upon me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "因为我已经是你的骑士了。",
+      "jap": "もうずっと、私は貴方の騎士なのですから",
+      "eng": "I am your knight, forever and true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "祈望你的旅途一路有月的庇佑。",
+      "jap": "貴方の旅に、月の加護がありますよう",
+      "eng": "Blessing of the moon upon your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "……",
+      "jap": "アァッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "……",
+      "jap": "アァ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "你这家伙已经变成游魂了吗？",
+      "jap": "貴様、既に亡者というわけか",
+      "eng": "You've been clean Hollowed, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "要是如此，我不会手下留情。",
+      "jap": "であれば、容赦はせんぞ",
+      "eng": "Then I will show no mercy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "因为我还不能死啊。",
+      "jap": "まだ、死ぬわけにはいかないんだ",
+      "eng": "This is not my time to die.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "……游魂啊，安静沉眠便是……",
+      "jap": "…亡者よ。静かに眠るがいい…",
+      "eng": "Wretched Hollow. Your long sleep begins...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害たし",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "对不起，爷爷……",
+      "jap": "ごめんね、お爺ちゃん…",
+      "eng": "Forgive me, grandad...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0接受骑士的誓言后，第1次受到攻击时",
+      "jap": "#0攻撃した:【騎士の誓いを許す】選択後:1回目",
+      "eng": "#0Upon being attacked if the protagonist accepted her knightly vow-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "……",
+      "jap": "アア…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0接受骑士的誓言后，第2次受到攻击时",
+      "jap": "#0攻撃した:【騎士の誓いを許す】選択後:2回目",
+      "eng": "#0Upon being attacked if the protagonist accepted her knightly vow-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "……",
+      "jap": "アァッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0接受骑士的誓言后，第3次受到攻击时",
+      "jap": "#0攻撃した:【騎士の誓いを許す】選択後:3回目",
+      "eng": "#0Upon being attacked if the protagonist accepted her knightly vow-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "你是怎么了！",
+      "jap": "貴方、どうしたのですか！",
+      "eng": "What's come over you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0接受骑士的誓言后，第4次受到攻击时",
+      "jap": "#0攻撃した:【騎士の誓いを許す】選択後:4回目",
+      "eng": "#0Upon being attacked if the protagonist accepted her knightly vow-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "啊啊，请你住手！",
+      "jap": "ああ、やめてください！",
+      "eng": "Please, stop this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0接受骑士的誓言后，被击杀时",
+      "jap": "#0殺害した:【騎士の誓いを許す】選択後",
+      "eng": "#0Upon dying if the protagonist accepted her knightly vow",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "……",
+      "jap": "アア…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "我只是……想要为你……",
+      "jap": "私はただ、貴方に…",
+      "eng": "My vows...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0向罗莎莉亚献上发青舌头后，第1次交谈",
+      "jap": "#0話しかけた:ロザリアに青ざめた舌を捧げた後:1回目",
+      "eng": "#0Talk-1st time after offering a Pale Tongue to Rosaria",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "……噢，你变成罗莎莉亚的指头了。",
+      "jap": "…ああ、貴方は、ロザリアの指となったのですね",
+      "eng": "Mm, I see that you are now a Finger of Rosaria.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "你肯定有什么缘由，但如此一来，我们已经不是同路人了。",
+      "jap": "きっと理由があるとしても、それはもう異なる道",
+      "eng": "Your path is wholly different to mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "永别了，好心人啊",
+      "jap": "さようなら、優しかった方",
+      "eng": "Gentle Unkindled, I bid you farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "……让我们以敌人的身份再会吧。",
+      "jap": "…あるいは敵として、またお会いしましょう",
+      "eng": "If we meet again, it will be as adversaries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "#0向罗莎莉亚献上发青舌头后，第2次交谈",
+      "jap": "#0話しかけた:ロザリアに青ざめた舌を捧げた後:2回目",
+      "eng": "#0Talk-2nd time after offering a Pale Tongue to Rosaria",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 91,
+      "chn": "永别了，好心人啊",
+      "jap": "さようなら、優しかった方",
+      "eng": "Gentle Unkindled, I bid you farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "……让我们以敌人的身份再会吧。",
+      "jap": "…あるいは敵として、またお会いしましょう",
+      "eng": "If we meet again, it will be as adversaries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0主角向罗莎莉亚献上发青舌头后，攻击希里丝导致敌对时",
+      "jap": "#0敵対状態になった:ロザリアに青ざめた舌を捧げた後",
+      "eng": "#0Upon being attacked & made hostile if a Pale Tongue was offered to Rosaria",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "原来如此，你已经是个名副其实的指头了。",
+      "jap": "なるほど、貴様もう、立派な指というわけだ",
+      "eng": "Yes, I see, an arrant Finger you've become.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "那么，正好。",
+      "jap": "であれば、丁度よい",
+      "eng": "Very well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "我本来就不会原谅你们这些指头，一根都不原谅！",
+      "jap": "元より、貴様らの一本たりともの、許すつもりはないのだからな！",
+      "eng": "I will cut each Finger from the hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0主角向罗莎莉亚献上发青舌头后，希里丝击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した:ロザリアに青ざめた舌を捧げた後",
+      "eng": "#0Upon killing the protagonist if a Pale Tongue was offered to Rosaria",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "……堕落之子啊，安静沉眠便是……",
+      "jap": "…落とし子よ。静かに眠るがいい…",
+      "eng": "You poor bastard. May you rest soundly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "##你打算做什么！",
+      "jap": "##なんのつもりだ！",
+      "eng": "##What are you doing?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "##还不住手！",
+      "jap": "##やめないか！",
+      "eng": "##Cease this, at once!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "##……",
+      "jap": "##アアッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "##啊，居然败在这里……",
+      "jap": "##ああ、こんなところで…",
+      "eng": "##How could this be...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "##这就是……你的回报吗……",
+      "jap": "##これが、報いでしょうか…",
+      "eng": "##What have I done...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##终于能帮上忙了啊，婆婆",
+      "jap": "##やっと役に立てるね、お婆ちゃん",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

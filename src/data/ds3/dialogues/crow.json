@@ -1,6 +1,279 @@
 {
   "npc": "crow",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/crow.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/crow.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0到达艾雷德尔的绘画世界时",
+      "jap": "#0話しかけられた",
+      "eng": "#01st time stepped into The Painted World of Ariandel",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……",
+      "jap": "あう～ん…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "……",
+      "jap": "…ああ、ああ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……啊，你是新来的人吧？",
+      "jap": "…ああ、君は、新入りかね？",
+      "eng": "Ahh, have you just arrived?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "真稀奇啊，好久没有新人了。",
+      "jap": "珍しいことだ。随分と久しぶりのことだ",
+      "eng": "How very unusual. Just how long has it been!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "我说你啊，开心点吧，\r\n这里正是我们禁忌者求之不得的安眠地──",
+      "jap": "けれど君、喜びたまえ。\r\n此処こそが、我ら忌み人が探し求めた安息地",
+      "eng": "Rejoice, my new friend!\r\nFor this is a true haven of the Forlorn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "冰冷又温和的绘画世界──艾雷德尔。",
+      "jap": "冷たく優しい絵画の世界、アリアンデルさ",
+      "eng": "The cold and gentle painted world of Ariandel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……你也快点去找一找吧，",
+      "jap": "…だから君も、はやく探すといい",
+      "eng": "Quick, go along, find one for yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "哪里才是那甜美，带你步上衰败的摇篮啊……",
+      "jap": "ずっと甘く腐っていく、君の寝床をね…",
+      "eng": "A sweetly rotting bed to lie upon...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "……啊，啊啊，说得没错，",
+      "jap": "…ああ、ああ、そうだろう",
+      "eng": "Ahh, ahh, yes, of course.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "我们都一样，全都遭遇过惨事。",
+      "jap": "皆同じさ。酷い目にあってきたんだろう",
+      "eng": "You're no exception. We've all seen terrible things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "所以没关系，你放心吧，",
+      "jap": "だが、大丈夫だよ。安心したまえ",
+      "eng": "But you're safe now. Let it ease your burden.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "在这艾雷德尔里头，一定会有让你安身的地方。",
+      "jap": "きっとアリアンデルが、君の居場所なのだから",
+      "eng": "Ariandel will make a fine home for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "……你也快点去找一找吧，",
+      "jap": "…だから君も、はやく探すといい",
+      "eng": "So, go on ahead, find one for yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "哪里才是那甜美，带你步上衰败的摇篮啊……",
+      "jap": "ずっと甘く腐っていく、君の寝床をね…",
+      "eng": "A sweetly rotting bed to lie upon...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "……快吧，快去找吧，",
+      "jap": "…さあ、はやく探すといい",
+      "eng": "Quick! Go along, find one for yourself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "哪里才是那甜美，带你步上衰败的摇篮啊……",
+      "jap": "ずっと甘く腐っていく、君の寝床をね…",
+      "eng": "A sweetly rotting bed to lie upon...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0主角离开艾雷德尔的绘画世界后，返回交谈",
+      "jap": "#0話しかけた:しばらくしてから",
+      "eng": "#0Talk-After the protagonist leaves & returns",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "……这里是我的容身之处啊……",
+      "jap": "…ここが私の居場所なのですね…",
+      "eng": "My very own home, now...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "……",
+      "jap": "…ん～…おぉぉ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "……",
+      "jap": "ああ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "……",
+      "jap": "うごぉ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "……",
+      "jap": "んあ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "……",
+      "jap": "なっ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "……",
+      "jap": "おおぁぁぁぁ！！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "##……啊啊，芙莉德大人，所以才会这么温暖吧……",
+      "jap": "##…ああ、フリーデ様。だから温かいのですね…",
+      "eng": "##Ahh, Lady Friede, such is why it's warm...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

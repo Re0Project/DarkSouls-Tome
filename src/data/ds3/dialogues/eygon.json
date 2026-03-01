@@ -1,6 +1,855 @@
 {
   "npc": "eygon",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/eygon.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/eygon.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦……你也是那个无火的余灰啊……",
+      "jap": "…ほう…お前も、火の無い灰というやつか…",
+      "eng": "Hmm... Another one of those Unkindled, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "不过是些无名的不死人还这么厚脸皮，会错意了吧。",
+      "jap": "名も無き不死どもがのこのこと、何を勘違いしたのやら",
+      "eng": "All you faceless Undead, behaving as if you deserve respect.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……哼，管它呢。给你一个忠告。",
+      "jap": "…フン、まあいい。忠告してやる",
+      "eng": "Hmph. No matter. Heed my words.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "你要是头脑正常，就乖乖待在棺木里吧。",
+      "jap": "お前がまともなら、棺桶にでも籠っているがいい",
+      "eng": "If you've any sense, you'll go find a coffin to huddle up inside.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "这里是游魂的出没地，\r\n头脑正常的家伙跑到这儿来，就和女人上战场一样。",
+      "jap": "ここは亡者の地、\r\nまともな奴など、戦場の女のようなものだ",
+      "eng": "You here, in this land of Hollows,\r\nyou're like a frail maiden on the front lines.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……但是，要是你也和那些笨蛋一样想逞英雄，",
+      "jap": "…だが、もしお前が、奴らと同じ英雄気取りのバカだと言うなら",
+      "eng": "If like the others, you're fool enough to play the champion...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "就去那里，进入那个废弃教会吧。",
+      "jap": "そら、そこの廃教会から先に進むといい",
+      "eng": "Then go on ahead, traipse right past the abandoned church.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "接着凄惨地死去吧，",
+      "jap": "そして悲惨に死ぬがいいさ",
+      "eng": "You'll face death, and it won't be pretty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "在挫折受尽之前多死几次吧。",
+      "jap": "心折れるまで、何度でもな",
+      "eng": "Enough death to leave you broken, time after time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "……要是你也和那些笨蛋一样想逞英雄，",
+      "jap": "…もしお前が、奴らと同じ英雄気取りのバカだと言うなら",
+      "eng": "If like the others, you're fool enough to play the champion...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "就去那里，进入那个废弃教会吧。",
+      "jap": "そら、そこの廃教会から先に進むといい",
+      "eng": "Then go on ahead, traipse right past the abandoned church.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "不过你们啊，真可怜呢，\r\n根本是飞蛾扑火啊。",
+      "jap": "だがお前ら、哀れだよ。\r\nまるで、炎に向かう蛾のようだ",
+      "eng": "Hopeless, the whole lot of you.\r\nLike little moths, flittering toward a flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "……",
+      "jap": "クッ…クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0遇到伊莉娜后，第1次交谈",
+      "jap": "#0話しかけた:牢を見た:1回目",
+      "eng": "#0Talk-1st time after seeing Irina in the cell & having already talked to him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "……你有偷窥监牢的癖好啊。",
+      "jap": "…お前、牢を覗く趣味があるのだな",
+      "eng": "You like poking around in cells, do you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "还真是高雅的兴趣啊。",
+      "jap": "なんとも高貴なことだ",
+      "eng": "How very genteel!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0遇到伊莉娜后，第2次交谈",
+      "jap": "#0話しかけた:牢を見た:2回目",
+      "eng": "#0Talk-2nd time after seeing Irina in the cell & having already talked to him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "……哦，你对那个女的有兴趣啊？",
+      "jap": "…ほう、お前、あの女が気になるのか？",
+      "eng": "Ah-hah, taken an interest in her, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "我劝你放弃吧，\r\n那个女的连防火女都当不了，根本一无是处。",
+      "jap": "だが、やめておきな。\r\nあの女は、火防女にすらなれなかった、役立たずさ",
+      "eng": "Well, she's a lost cause.\r\nCouldn't even become a Fire Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "亏我还把她带到这里，\r\n准备都准备好了，居然那付德性。",
+      "jap": "俺がここまで連れてきて、\r\n準備までしてやったというのに、あの様だ",
+      "eng": "After I brought her all this way,\r\nand got her all ready.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "看那样子，她已经是废人了吧。",
+      "jap": "あれはもう、壊れているのだよ",
+      "eng": "She's beyond repair, I tell you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "……",
+      "jap": "クククッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0遇到伊莉娜后，第3次交谈",
+      "jap": "#0話しかけた:牢を見た:3回目",
+      "eng": "#0Talk-3rd time after seeing Irina in the cell & having already talked to him",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "我劝你不要和那个女的牵扯太深啦。",
+      "jap": "あの女は、やめておきな",
+      "eng": "The woman's a lost cause.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "她连防火女都当不了，根本一无是处。",
+      "jap": "あれは火防女にすらなれなかった、役立たずさ",
+      "eng": "Couldn't even become a Fire Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "已经是个废人了。",
+      "jap": "もう壊れているのだよ",
+      "eng": "She's beyond repair, I tell you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "……",
+      "jap": "クククッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0与伊果交谈前遇到伊莉娜后，第1次交谈",
+      "jap": "#0話しかけた:1回目・初回会話前に牢を見た",
+      "eng": "#0Talk-1st time after visiting Irina's cell before speaking to Eygon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "……哦……你也是那个无火的余灰啊……",
+      "jap": "…ほう…お前も、火の無い灰というやつか…",
+      "eng": "Hmm... Another one of those Unkindled, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "不过是些无名的不死人还这么厚脸皮，会错意了吧。",
+      "jap": "名も無き不死どもがのこのこと、何を勘違いしたのやら",
+      "eng": "All you faceless Undead, behaving as if you deserve respect.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "……而且还有偷窥监牢的癖好。",
+      "jap": "…それに、牢を覗く趣味まであるのだからな",
+      "eng": "Now you're poking around in peoples' cells.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "真是高雅的兴趣啊。",
+      "jap": "なんとも高貴なことだ",
+      "eng": "How very noble!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "……",
+      "jap": "クックックックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0答应伊莉娜的侍奉后，第1次交谈",
+      "jap": "#0話しかけた:カリムのイリーナを仕えさせた:1回目",
+      "eng": "#0Talk-1st time after accepting Irina's service",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "……你救了那个女的啦。",
+      "jap": "…お前、あの女を助けたのだな",
+      "eng": "You've gone and rescued her, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "你真是怪人，居然肯去同情变成废人的女人。",
+      "jap": "あんな壊れた女に情けをかけるなど、物好きなことだ",
+      "eng": "How very quaint, pitying creatures that are beyond help.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "……",
+      "jap": "クワッハッハッハッハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "……哼，算了，我本来就监视得烦了。",
+      "jap": "…フン、まあいい。元より、監視にも飽きていたところだ",
+      "eng": "Very well. I'm sick of looking after her at any rate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "我是卡利姆的骑士，叫伊果。",
+      "jap": "俺はカリムの騎士、イーゴン",
+      "eng": "I am Eygon, a knight of Carim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "只要你还在保护那个女的，我就是你的同伴。",
+      "jap": "お前があの女を庇護する限り、俺はお前の味方だ",
+      "eng": "I am allied to you as long as you assure the girl's safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "……就只有那段时间啊……",
+      "jap": "…お前が、あの女を庇護する限りはな…",
+      "eng": "And only for that long...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0答应伊莉娜的侍奉后，第2次交谈",
+      "jap": "#0話しかけた:カリムのイリーナを仕えさせた:2回目",
+      "eng": "#0Talk-2nd time after accepting Irina's service",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "干嘛？很简单好懂吧。",
+      "jap": "どうした？単純な話じゃあないか",
+      "eng": "What's the matter? My terms are very simple.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "只要你还在保护那个女的，我就是你的同伴。",
+      "jap": "お前があの女を庇護する限り、俺はお前の味方だ",
+      "eng": "I am allied to you for as long as you assure the girl's safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "……就只有那段时间啊……",
+      "jap": "…お前が、あの女を庇護する限りはな…",
+      "eng": "And only for that long...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "……",
+      "jap": "クククッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0与伊果交谈前答应伊莉娜的侍奉后，第1次交谈",
+      "jap": "#0話しかけた:1回目・初回会話前カリムのイリーナを仕えさせた",
+      "eng": "#0Talk-After accepting Irina's service before speaking to Eygon",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "……哦……你也是那个无火的余灰啊……",
+      "jap": "…ほう…お前も、火の無い灰というやつか…",
+      "eng": "Hmm... Another one of those Unkindled, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "不过是些无名的不死人还这么厚脸皮，会错意了吧。",
+      "jap": "名も無き不死どもがのこのこと、何を勘違いしたのやら",
+      "eng": "All you faceless Undead, behaving as if you deserve respect.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "……而且你救了那个女的啊。",
+      "jap": "…それに、あの女を助けるとは",
+      "eng": "Now you've gone and rescued the wench...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "你真是怪人，居然肯去同情变成废人的女人。",
+      "jap": "あんな壊れた女に情けをかけるなど、物好きなことだ",
+      "eng": "How very quaint, pitying creatures that are beyond help.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "……",
+      "jap": "クワッハッハッハッハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "……哼，算了，我本来就监视得烦了。",
+      "jap": "…フン、まあいい。元より、監視にも飽きていたところだ",
+      "eng": "Hmph, very well. I'm sick of looking after her at any rate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "我是卡利姆的骑士，叫伊果。",
+      "jap": "俺はカリムの騎士、イーゴン",
+      "eng": "I am Eygon, a knight of Carim.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "只要你还在保护那个女的，我就是你的同伴。",
+      "jap": "お前があの女を庇護する限り、俺はお前の味方だ",
+      "eng": "I am allied to you for as long as you assure the girl's safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "……就只有那段时间啊……",
+      "jap": "…お前が、あの女を庇護する限りはな…",
+      "eng": "And only for that long...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0未召唤伊果的灵体，返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "……哦，是你啊，好久不见。",
+      "jap": "…ああ、お前か。久しぶりだな",
+      "eng": "Ahh, I know you. Been some time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "没事的，我只是想看看那女的现在怎么样而已。",
+      "jap": "なあに、あの女の現状を、見ておこうと思ってな",
+      "eng": "I just dropped in to see how she's getting on.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "不过看起来很惨嘛，",
+      "jap": "だが、ここは酷いものじゃあないか",
+      "eng": "Now, what are you playing at with this circus?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "和头脑有问题的老头子、老太婆，\r\n还有一堆阴沉落后家伙的棺材在一起啊。",
+      "jap": "頭のおかしい爺婆と、\r\n陰気な落伍者たちの、棺桶だ",
+      "eng": "This cesspool of\r\ndoddering oldfolk and degenerates.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "我放心了，这地方非常适合那个女的嘛。",
+      "jap": "安心したよ。いかにも、あの女に相応しい場所じゃあないか",
+      "eng": "Couldn't be better. She must fit in perfectly here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "……",
+      "jap": "クワッハッハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0召唤伊果的灵体后，返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目・白霊を召喚したことがある",
+      "eng": "#0Talk-1st time after summoning him as a White Phantom",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "……哦，是你啊，好久没碰到面了。",
+      "jap": "…ああ、お前か。直接会うのは久しぶりだな",
+      "eng": "Ahh, I know you. Been some time, since we met in person.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "没事的，我只是想看看那女的现在怎么样而已。",
+      "jap": "なあに、あの女の現状を、見ておこうと思ってな",
+      "eng": "I just dropped in to see how she's getting on.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "不过看起来很惨嘛，",
+      "jap": "だが、ここは酷いものじゃあないか",
+      "eng": "Now, what are you playing at with this circus?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "和头脑有问题的老头子、老太婆，\r\n还有一堆阴沉落后家伙的棺材在一起啊。",
+      "jap": "頭のおかしい爺婆と、\r\n陰気な落伍者たちの、棺桶だ",
+      "eng": "This cesspool of\r\ndoddering oldfolk and degenerates.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "我放心了，这地方非常适合那个女的嘛。",
+      "jap": "安心したよ。いかにも、あの女に相応しい場所じゃあないか",
+      "eng": "Couldn't be better. She must fit in perfectly here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "……",
+      "jap": "クワッハッハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0返回传火祭祀场后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "和头脑有问题的老头子、老太婆，\r\n还有一堆阴沉落后家伙的棺材在一起啊。",
+      "jap": "頭のおかしい爺婆と、\r\n陰気な落伍者たちの、棺桶とは",
+      "eng": "This place is a cesspool of\r\ndoddering oldfolk and degenerates.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "我放心了，这地方非常适合那个女的嘛。",
+      "jap": "安心したよ。いかにも、あの女に相応しい場所じゃあないか",
+      "eng": "Couldn't hope for better. She must fit in perfectly here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "……",
+      "jap": "クックックックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "你干什么！",
+      "jap": "お前、何をしやがる！",
+      "eng": "What is it now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "快住手啊！",
+      "jap": "やめやがれよ！",
+      "eng": "Curse you, damn fool!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "哼，你也开始不正常了吗。",
+      "jap": "フン、お前、もうまともじゃあないか",
+      "eng": "Lost it, have you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "那就由我动手，",
+      "jap": "だったら、俺が潰してやる",
+      "eng": "Then I'll take care of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "让你挫折受尽之前，多死几次！",
+      "jap": "心折れるまで、何度でもな！",
+      "eng": "As many times as it takes!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "哼，安分点儿去死吧……",
+      "jap": "フン、そのまま死んでいろよ…",
+      "eng": "Stay dead this time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "你这自以为英雄的游魂畜生……",
+      "jap": "畜生、英雄気取りの亡者めが…",
+      "eng": "Deluded Hollow bastard...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "#2（仅英文语音）伊莉娜……#3",
+      "jap": "……",
+      "eng": "(No caption) Irina...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0学习所有黑暗奇迹后，在祭祀场外墓地靠近伊莉娜时",
+      "jap": "#0話しかけられた:カリムのイリーナから闇の奇跡をすべて購入後・移動後",
+      "eng": "#0Upon approaching him after Irina has moved to the Firelink Shrine gravesite",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "……我说过吧。",
+      "jap": "…言ったはずだな",
+      "eng": "I made myself very clear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "只要你还在保护那个女的，\r\n我就是你的同伴。",
+      "jap": "お前があの女を庇護する限り、\r\n俺はお前の味方だと",
+      "eng": "My allegiance remained only\r\nas long as you assured the girl's safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "我们卡利姆的骑士不会原谅烂到骨子里的背叛",
+      "jap": "カリムの騎士は、腐った裏切りを許さぬ",
+      "eng": "This knight of Carim does not forgive betrayal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "……就算守约对象是变成废人的女人也一样。",
+      "jap": "…その相手が、ただの壊れた女でもな",
+      "eng": "Even a broken woman deserves her dignity... ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した:カリムのイリーナ殺害後",
+      "eng": "#0Upon killing the protagonist in the Firelink Shrine gravesite",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 97,
+      "chn": "好好记住，我们卡利姆的骑士不会原谅烂到骨子里的背叛。",
+      "jap": "覚えておけ。カリムの騎士は、腐った裏切りを許さぬ",
+      "eng": "Remember. A knight of Carim does not forgive betrayal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "没有例外啊……",
+      "jap": "決してな…",
+      "eng": "Not ever.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した:カリムのイリーナから闇の奇跡をすべて購入後・移動後",
+      "eng": "#0Upon dying in the Firelink Shrine gravesite",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "……",
+      "jap": "ウウウッ……ウッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "#2（仅英文语音）伊莉娜……#3",
+      "jap": "……",
+      "eng": "(No caption) Irina...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "##……",
+      "jap": "##オウッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "##……",
+      "jap": "##アアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##……",
+      "jap": "##ウウウッ……ウッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "##你这怪物，到底吃了多少灵魂进去？",
+      "jap": "##化け物め。お前は一体、どれほどのソウルを喰った？",
+      "eng": "##You monster. Just how many souls have you eaten?",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,1487 @@
 {
   "npc": "griggs",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/griggs.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/griggs.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0靠近不死镇下层关押古利古斯的民宅时",
+      "jap": "#0話しかけられた",
+      "eng": "#0After approaching the door of the building he is trapped in",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "有人能放我出去吗？",
+      "jap": "誰か！ここから出してくれ！",
+      "eng": "Somebody! Please, let me out of here!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "有人吗？",
+      "jap": "誰かいないか！",
+      "eng": "Somebody, anybody!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "帮帮忙，帮我把门打开！",
+      "jap": "助けてくれ！鍵を開けてくれ！",
+      "eng": "Help me! Unlock the door!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……可恶",
+      "jap": "…くそっ",
+      "eng": "...Damn...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……都没人在吗？",
+      "jap": "…誰もいないのか",
+      "eng": "...I'm finished...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "为什么会这样……",
+      "jap": "なんだってこんなことに…",
+      "eng": "How did this ever happen...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0用民宅钥匙开门后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time after using the Residence Key to open the door he is locked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "太棒了！你帮我打开了那扇门！",
+      "jap": "おお、あの扉を開けてくれたのか！",
+      "eng": "Brilliant! You opened the door for me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "谢谢你帮我，被关在这里，让我好烦恼。",
+      "jap": "ありがとう、助かったよ。閉じこめられて、困っていたんだ",
+      "eng": "Thank you; I am saved. I thought I might never escape.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "我是彼海姆的古利古斯，是学院的魔法师。",
+      "jap": "私はヴィンハイムのグリッグス。学院の魔術師だ",
+      "eng": "I am Griggs of Vinheim. A sorcerer of the school.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "非常感谢你。",
+      "jap": "君には感謝するよ",
+      "eng": "I am much obliged for your assistance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "这样我就可以继续旅行了。",
+      "jap": "どうやらこれで、旅を続けることができそうだ",
+      "eng": "Thanks to you, I may now resume my travels.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0用民宅钥匙开门后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time after using the Residence Key to open the door he is locked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "喔，是你啊。",
+      "jap": "おお、君か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "我很好。稍微休息一下，就要回去祭祀场了。",
+      "jap": "私なら大丈夫。少し休んで、祭祀場に戻るつもりだ",
+      "eng": "I am fine. I will rest a while, then return to Firelink Shrine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "我有魔法，下次不会失败了。",
+      "jap": "魔術もある。今度はへまはしないさ",
+      "eng": "I have my sorcery. And I will be more cautious next time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "我还有要去完成的使命。",
+      "jap": "大切な使命もあることだしな",
+      "eng": "Besides, I have an important task at hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "呜！",
+      "jap": "うおっ！",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "哇！",
+      "jap": "うわっ！",
+      "eng": "Eeg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "你干什么！",
+      "jap": "何をするんだ！",
+      "eng": "What on Earth are you...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "你住手啊！",
+      "jap": "やめたまえ！君！",
+      "eng": "Cease! I implore you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "可恶……你逼我的……",
+      "jap": "くそっ、仕方ないな",
+      "eng": "Curses, you leave me no choice!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "你已经疯了啊",
+      "jap": "もうダメか",
+      "eng": "You aren't yourself any more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "不要恨我！",
+      "jap": "恨むなよ！",
+      "eng": "Forgive me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "呜……",
+      "jap": "うう…",
+      "eng": "Rrrg...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "早知道就……",
+      "jap": "こんなことなら…",
+      "eng": "How could this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0返回传火祭祀场后，智力未达到10时攀谈",
+      "jap": "#0話しかけた:1回目・理力が10未満",
+      "eng": "#0Talk-With less than 10 Intelligence",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "喔，是你啊。",
+      "jap": "おお、君か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "真高兴我们都平安。",
+      "jap": "お互い無事でなによりだ",
+      "eng": "Terrific to see us both in one piece.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "我可不希望我的恩人变成游魂啊。",
+      "jap": "恩人の亡者など、出会いたくもないからなあ",
+      "eng": "And pray that you never go Hollow! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0返回传火祭祀场后，智力达到10或更高时攀谈",
+      "jap": "#0話しかけた:1回目・理力が10以上",
+      "eng": "#0Talk-1st time with 10 Intelligence or more",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "喔！是你啊。",
+      "jap": "おお、君か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "那个时候真是太丢脸了，",
+      "jap": "あのときは不甲斐ないところを見せてしまったな",
+      "eng": "I regret meeting you under such compromising circumstances.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "不过至少我们都平安无事。",
+      "jap": "まあ、お互い無事でなによりだ",
+      "eng": "At least we both made it back unscathed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "顺便问一下，你有意愿学魔法吗？",
+      "jap": "それはそうと、君、魔術を学ぶ気はないか？",
+      "eng": "Incidentally, would you care to learn any sorceries?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "我看你有魔法的天赋，而且我也想报答你。",
+      "jap": "才能もあるようだし、助けられた恩も返しておきたい",
+      "eng": "You're clearly talented, and besides, I owe you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "当然，我们需要一些材料，\r\n但我要教你一些基本的魔法还不成问题。有兴趣吗？",
+      "jap": "もちろんそれなりの素材は必要だが\r\n簡単なものなら、私にも教えられる。興味はないかい？",
+      "eng": "Of course, we will require some materials, but I am happy to\r\nteach you some elementary spells. Are you interested?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:1回目・理力が10以上・選択肢【NO】",
+      "eng": "#0Choose \"No\" after talking with 10 Intelligence or more",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "这样啊……",
+      "jap": "そうか…",
+      "eng": "Yes, I see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "唉，这真的是看你自己了。",
+      "jap": "まあ、こればかりは個人の問題だからな",
+      "eng": "It is regrettable, but to each his own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "如果你改变心意，就和我说吧。",
+      "jap": "考えが変わったら言ってくれ",
+      "eng": "If you change your mind, do not be bashful.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目・理力が10以上・【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "喔，是你啊。",
+      "jap": "おお、君か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "如何，心意变了吗？",
+      "jap": "どうしたんだ？考えが変わったのかい？",
+      "eng": "What is it? Have you changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "如果想学就马上和我讲。你是我的恩人啊。",
+      "jap": "もしそうなら大歓迎さ。君は恩人だからな",
+      "eng": "I am praying that you will. For, I owe you my life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:1回目・理力が10以上・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" after talking with 10 Intelligence or more",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "太好了，",
+      "jap": "そうか、よかった",
+      "eng": "Splendid! Very well!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "我很高兴有机会可以报恩。",
+      "jap": "なんとか恩を返せるよ",
+      "eng": "I am pleased to have a chance to give something back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "那我们快点开始吧。",
+      "jap": "じゃあ、すぐにでもはじめてみようじゃないか",
+      "eng": "Well, then let's get started straight away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0选择「是」后攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-After choosing \"Yes\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "喔，是你啊。",
+      "jap": "おお、君か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "还挺认真在学的嘛。",
+      "jap": "随分と熱心じゃないか",
+      "eng": "Well, you certainly are keeping at it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "我没问题，我们马上开始吧。",
+      "jap": "私のほうは大丈夫だ。すぐにでもはじめようじゃないか",
+      "eng": "Myself? I am fine. Let's get started straight away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "你有没有听说过“大帽子”罗根？",
+      "jap": "「ビッグハット」ローガンの名を聞いたことはあるか？",
+      "eng": "Have you heard of Big Hat Logan?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "他是伟大的魔法师，也是我的老师。",
+      "jap": "偉大な魔術師であり、私の師でもある方だ",
+      "eng": "Master Logan is a great sorcerer, and my teacher.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "我们都是不死人，一起来到了这里，",
+      "jap": "不死として、共にこの地にやってきたのだが",
+      "eng": "Both of us came to this land, as Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "但是有一天，他留下一张纸条后，就独自离开了",
+      "jap": "あるとき、書置きだけを残して、1人で行ってしまった",
+      "eng": "But one day, he departed, leaving only a note.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "……他可能是不想让我这不成材的徒弟冒险吧……",
+      "jap": "…未熟な私を危険に伴わない、配慮だったのだろう",
+      "eng": "...I suppose he wished to keep me out of harm's way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "这对我来说，实在是太丢脸了。",
+      "jap": "だが、それではあまりに不甲斐ないじゃないか",
+      "eng": "But where does that leave me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "就算不成材如我，还是一直努力学魔法，",
+      "jap": "これでも私は、ずっと、必死で魔術を学んできた",
+      "eng": "I have dedicated myself to sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "却帮不上老师的忙……",
+      "jap": "それなのに、師の役にも立たないなんて…",
+      "eng": "But Master Logan could find no use for me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "哦，你问老师留下的纸条内容吗？",
+      "jap": "ああ、師の書置きの話か",
+      "eng": "Ahh, yes, the note that Master Logan left?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "上面只写说，\r\n他会从赛恩古城前往亚诺尔隆德。",
+      "jap": "センの古城から、アノール・ロンドを目指す、\r\nとだけあった",
+      "eng": "It only said he would travel to Anor Londo,\r\nby way of Sen's Fortress.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "亚诺尔隆德有神的书库，\r\n我想那里是老师想去的地方。",
+      "jap": "アノール・ロンドには、神の書庫があるというから\r\n目的はそこだろう",
+      "eng": "I can only guess that\r\nhe seeks the Regal Archives.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "老师的求知心很重，",
+      "jap": "師は探究心のかたまりだ",
+      "eng": "For Master Logan is a tireless pursuer of wisdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "知识对他来说重于一切，知识之外的事他几乎不感兴趣。",
+      "jap": "知がなにより優先され、それ以外に興味を示さない",
+      "eng": "Wisdom trumps all; everything else is hogwash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "受到诅咒成为不死人，再来到这片土地──\r\n我想这正合老师的心愿。",
+      "jap": "呪われて不死となり、この地にいたるのも\r\nきっと本望なのだろう",
+      "eng": "When the curse turned him Undead, I am certain that he only felt\r\nit was the perfect chance to visit this land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "……我很想效法，但实在办不到。",
+      "jap": "…残念だが、私には真似のできないことさ",
+      "eng": "I only wish that I had his courage...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "使用魔法之前，要做一些准备工作。",
+      "jap": "魔術を使うには、幾つか準備が必要だ",
+      "eng": "Two things are required for sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "首先，要装备好媒介，",
+      "jap": "まず、触媒を装備する",
+      "eng": "First, you must equip a wand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "并记忆魔法，",
+      "jap": "それから、魔術を記憶する",
+      "eng": "Second, you must attune a sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "然后才可以使用魔法。",
+      "jap": "そうしてはじめて、魔術が使えるんだ",
+      "eng": "Then you will be ready to fire away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "要好好记住啊。",
+      "jap": "よく覚えておいてくれよ",
+      "eng": "Oh and don't forget to aim!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0在营火休息后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "……我一直想追随老师的脚步，",
+      "jap": "…私は、師の後を追おうと思っているんだ",
+      "eng": "I wish to do what I can to locate Master Logan.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "我知道自己不成材，\r\n但这样下去我好不甘心啊。",
+      "jap": "力不足は分かっているが、\r\nやはりこのままでは悔しいんだ",
+      "eng": "I am aware of my shortcomings,\r\nbut I cannot very well just sit around here and rot.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "喔，别担心。我不会给你添麻烦的。",
+      "jap": "ああ、大丈夫。君に迷惑をかけるつもりはない",
+      "eng": "Oh, do not worry. I have considered our relationship.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "我打算把魔法都教你之后，\r\n再出去旅行。",
+      "jap": "君に、私のすべての魔術を伝えたら、\r\nそのとき旅立つつもりさ",
+      "eng": "I will only leave after I have taught you\r\nall the sorceries that I know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "因为我想应该没办法再见到老师，\r\n也不可能等到他回来了……",
+      "jap": "師に会えるも、また帰れるも、\r\n多分叶わぬのだろうからな…",
+      "eng": "I shall count myself lucky if I manage to locate Logan,\r\nor even return here in one piece.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0蕾亚到达传火祭祀场后攀谈",
+      "jap": "#0話しかけた:聖女レアが火継ぎの祭祀場にいる",
+      "eng": "#0Talk-After Rhea & company have arrived in Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "对了，你也看到了吧？",
+      "jap": "そういえば、君もみただろう？",
+      "eng": "Did you see them?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "刚才有三位年轻的圣职来到这里，",
+      "jap": "ついさっき、若い聖職者が三人もやってきたんだ",
+      "eng": "The three young clerics...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "好像是佩特鲁斯的好友，\r\n为了“注火”而往地下墓地去了。",
+      "jap": "ペトルス殿の知己らしく\r\n「注ぎ火」を求めて、地下墓地に向かうとか",
+      "eng": "headed for the Catacombs,\r\nto seek Kindling.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "听说那是兴旺营火的手段……",
+      "jap": "なんでも、篝火を育てる業らしいが…",
+      "eng": "Kindling is the art of feeding bonfires.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "不过女孩还真可怜，那么年轻就要去坟地，",
+      "jap": "かわいそうに、まだ若いお嬢さんに墓場とは",
+      "eng": "The poor young girl, sent down into a tomb.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "真是残酷的使命啊……",
+      "jap": "いかにも酷な使命じゃあないか…",
+      "eng": "What a terrible mission she is burdened with.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "#0罗根到达传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:ローガンが火継ぎの祭祀場にいる:1回目",
+      "eng": "#0Talk-1st time after Logan has arrived at Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 97,
+      "chn": "喔，是你啊！",
+      "jap": "おお、君か！",
+      "eng": "Oh, hello again!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "我等你一阵子了，刚刚老师回来了！",
+      "jap": "待っていたよ！先ほど、師が戻られたのだ！",
+      "eng": "I was waiting to tell you...Master Logan has returned!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "我听他说，你帮了不少的忙呢。",
+      "jap": "聞けば、尽力してくれたそうじゃないか",
+      "eng": "And he tells me that he has you to thank!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "我也要感谢你才行，真是谢谢。",
+      "jap": "私からも礼を言うよ。ありがとう",
+      "eng": "Well, we are both in your debt, now. Thank you, sincerely.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "老师就在那边，还请去和老师打声招呼。",
+      "jap": "師はあちらにおられる。是非、話してみてくれ",
+      "eng": "He's just over there. Go along and have a chat.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#0罗根到达传火祭祀场后，第2次攀谈",
+      "jap": "#0括しかけた:ローガンが火継ぎの祭祀場にいる:2回目",
+      "eng": "#0Talk-2nd time after Logan has arrived at Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 103,
+      "chn": "喔，是你啊。",
+      "jap": "おお、君か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "很高兴你来找我，\r\n不过与其找我，你还是去找罗根老师吧。",
+      "jap": "話しかけてくれて嬉しいが\r\n私などより、老ローガンの話をきいてくれ",
+      "eng": "I appreciate the attention,\r\nbut you really should speak to Master Logan.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "这样对你比较好。",
+      "jap": "その方が、君のためというものだ",
+      "eng": "That will certainly do you more good.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0向罗根学习魔法前，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すE・ローガンの魔術を買っていない",
+      "eng": "#0Menu-Choose \"Talk\" before buying sorceries from Logan",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "你和老师讲过话了？",
+      "jap": "師とはもう話したか？",
+      "eng": "Have you spoken to Master Logan?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "老师是个伟大的魔法师。\r\n如果没有老师，魔法就不会有进步，",
+      "jap": "師は偉大な方だ。\r\n魔術の進歩は、あの方なくしては考えられない",
+      "eng": "He is an accomplished scholar. The arts of sorcery\r\nwould never have come this far without his contributions.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "但是老师根本毫不在意，常常冒险，\r\n真是伤脑筋呢。",
+      "jap": "にも関わらず無茶をされるからな。\r\nまったく困ったお人だよ",
+      "eng": "And he has the nerve to go risking life and limb!\r\nWhat a stubborn old fellow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "哈哈哈哈",
+      "jap": "ハハハハッ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0向罗根学习魔法后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すF・ローガンの魔術を買った",
+      "eng": "#0Menu-Choose \"Talk\" after buying sorceries from Logan",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "你试过老师的魔法了吗？",
+      "jap": "君は、師の魔術を体験したかい？",
+      "eng": "Have you ever cast one of Logan's spells?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "很厉害对吧！",
+      "jap": "すばらしいだろう！",
+      "eng": "Isn't it exhilarating?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "世上没有神，也没有不可解的事物，\r\n只有真理，只有知识可以说明一切……",
+      "jap": "世に神はなく、神秘もなく\r\n真理があり、知だけがそれを明らかにする…",
+      "eng": "As he sees it, there are no gods, no transcendence,\r\nonly truth, and Logan only wishes to elucidate it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "老师就是借由这种异端的做法，\r\n将魔法推展到如此境界。",
+      "jap": "師は、そういう異端のやり方で\r\n魔術をあそこまで押し上げたんだ",
+      "eng": "It is this heretical methodology that\r\nallowed Logan to advance sorcery to the point that he has.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "不管谣言有多难听，我还是认为他是一位英雄。",
+      "jap": "英雄だよ。悪く言う向きも多いが、私はそう思っているし",
+      "eng": "In a word, he is a hero. Despite the awful rumours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "我相信以后的人一定会如此认同他。",
+      "jap": "歴史も何れ、それを追認するだろうさ",
+      "eng": "Time will tell. The annals of history will prove dispassionate!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "#0罗根前往公爵的书库后，第1次攀谈",
+      "jap": "#0話しかけた:ローガンが公爵の書庫に向かった後",
+      "eng": "#0Talk-After Logan has left for the Duke's Archives",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 119,
+      "chn": "啊，是你啊！你听我说！",
+      "jap": "ああ、君か！聞いてくれ！",
+      "eng": "Oh, there you are! Just so you know...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "老师又一个人跑掉了。",
+      "jap": "師が、また、1人で行ってしまったんだ",
+      "eng": "Master Logan has left on his own again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "我想老师大概是放不下\r\n在亚诺尔隆德的那座神的书库吧。",
+      "jap": "アノール・ロンドにあると言う\r\n神の書庫を諦められなかったのだろう",
+      "eng": "It seems that he is still determined\r\nto find the famed Regal Archives in Anor Londo.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "我打算去找他。",
+      "jap": "私も後を追うつもりだ",
+      "eng": "And I have decided that I must search for him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0罗根前往公爵的书库后，智力达到15或更高时，第1次攀谈",
+      "jap": "#0話しかけた:ローガンが公爵の書庫に向かった後・理力が15以上:1回目",
+      "eng": "#0Talk-1st time with 15 Intelligence or more after Logan has left",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "我打算去找他。\r\n只是在我离开之前，还有一件事情必须做。",
+      "jap": "私も後を追うつもりだが、\r\nその前に1つ、やり残しがあってな",
+      "eng": "I intend to search for him.\r\nOnly, before I leave, there is one thing I wish to do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "这次罗根老师几乎把他的藏书都留下了，",
+      "jap": "今回、老ローガンは、蔵書のほとんどを置いていかれた",
+      "eng": "You see, Master Logan has left most of his books.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "有了这些书，我也可以教你老师的魔法。",
+      "jap": "それがあれば、私でも、師の魔術を教えることができる",
+      "eng": "With them, I could teach you Logan's sorcery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "……你帮过我太多忙了，",
+      "jap": "…君には色々と助けられているからな",
+      "eng": "...You have done much to assist me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "我会把老师的魔法全部教给你之后，\r\n再启程上路。",
+      "jap": "君に師の魔術をすべて伝えてから、\r\n私は旅立つことにするよ",
+      "eng": "Before I leave on this journey,\r\nI will teach you all that Logan has to share.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "#0罗根前往公爵的书库后，智力达到15或更高时，第2次攀谈",
+      "jap": "#0話しかけた:ローガンが公爵の書庫に向かった後・理力が15以上:2回目",
+      "eng": "#0Talk-2nd time with 15 Intelligence or more after Logan has left",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 130,
+      "chn": "喔，是你啊，回来得好。",
+      "jap": "おお、君か。よく戻ったな",
+      "eng": "Oh, hello, you made it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "那我们开始吧。",
+      "jap": "では、はじめようか",
+      "eng": "Then, let us begin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "按照承诺，我会传授你老师的魔法。",
+      "jap": "約束どおり、師ののアイテムを買ったを君に教えよう",
+      "eng": "As promised, I shall bequeath Master Logan's sorcery to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "#0罗根前往公爵的书库后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すG・ローガンが公爵の書庫に向かった後",
+      "eng": "#0Menu-Choose \"Talk\" after Logan has left for the Duke's Archives",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 134,
+      "chn": "我其实不担心老师的安危，",
+      "jap": "私は、老ローガンの身を案じているわけじゃあないんだ",
+      "eng": "It's not that I am concerned for Master Logan's welfare.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "这地方虽然危险，但老师的魔法出类拔萃，\r\n他是如假包换的英雄。",
+      "jap": "この地は危険だが、それでも、師の魔術はずぬけている\r\n本物の英雄だ",
+      "eng": "Even in this treacherous land, Logan's skills are unmatched.\r\nHe is a true hero.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "……我之所以会想追在老师后头，",
+      "jap": "…だから、私が師の後を追おうと思うのは",
+      "eng": "...No, the reason I seek Logan is...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "根本就只是自己不服输而已。",
+      "jap": "結局のところ、単に私の意地なんだよ",
+      "eng": "...Well, it's really my own conceit, now isn't it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "#0在书库塔牢房救出罗根后，第1次攀谈",
+      "jap": "#0話しかけた:書庫塔ローガンを救出後:1回目",
+      "eng": "#0Talk-1st time after freeing Logan from Archive Tower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 139,
+      "chn": "喔喔！罗根老师在书库啊！",
+      "jap": "おお！老ローガンは書庫にいるのか！",
+      "eng": "Ohh! Master Logan is at the Archives?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "太好了，他终于实现了多年来的愿望。",
+      "jap": "よかった、積年の思いが叶ったのだな",
+      "eng": "Thank the heavens; finally his wish has been granted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "老师一定会像疯了一样，不眠不休地看书，",
+      "jap": "きっと、狂ったように読みふけっているのだろう",
+      "eng": "I suppose he has his head buried in those tomes?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "这对老师来说，是最大的幸福了。",
+      "jap": "それが、師の至福なのだから",
+      "eng": "That is always what made Master Logan happiest...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "啊，我已经可以想象到了……",
+      "jap": "ああ、目に浮かぶようだ…",
+      "eng": "Ahh, I can just imagine him now!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "#0在书库塔牢房救出罗根后，第2次攀谈",
+      "jap": "#0話しかけた:書庫塔ローガンを救出後:2回目",
+      "eng": "#0Talk-2nd time after freeing Logan from Archive Tower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 145,
+      "chn": "喔，是你啊。",
+      "jap": "おお、君か",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "我当然不介意传授你魔法，",
+      "jap": "もちろん、魔術を教えるのは構わないが",
+      "eng": "Why, of course I don't mind teaching you sorceries...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "不过，既然你已经知道罗根老师的行踪了，",
+      "jap": "折角、老ローガンの居所が分かったんだ",
+      "eng": "But now that you've located Master Logan,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "也用不着由我来教你了吧……",
+      "jap": "もう、私など用なしのはずだぞ…",
+      "eng": "I can't imagine that I can be of much help.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "#0在书库塔牢房救出罗根后，购买古利古斯的两个戒指并学习全部魔法后攀谈",
+      "jap": "#0話しかけた:書庫塔ローガンを救出後:3回目・すべてのアイテムを買った",
+      "eng": "#0Talk-3rd time after freeing Logan from Archive Tower purchased all Griggs' items",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 150,
+      "chn": "……我还是去一趟书库吧。",
+      "jap": "…やはり、私は、書庫に向かうよ",
+      "eng": "I have decided to seek the Regal Archives.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "我知道那不是我到得了的地方，",
+      "jap": "私に辿り着けない場所であることは、分かっている",
+      "eng": "I realize that I may never make it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "但是如果我放弃了，我的人生还有什么意义？",
+      "jap": "でも、そうしなければ、私に何の価値があると言うんだ",
+      "eng": "But I would feel worthless if I did not at least try.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "而且不这样做，我就得不到老师的认同……",
+      "jap": "そうでなければ、師も、私など一顧だになさるまい…",
+      "eng": "What other choice do I have to earn Logan's recognition?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 155,
+      "chn": "要走了吗？",
+      "jap": "いくのか",
+      "eng": "Good-bye, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "希望能和你平安再会。",
+      "jap": "また、無事で会おう",
+      "eng": "Do stay safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 158,
+      "chn": "好啦，结束了。",
+      "jap": "よし、これで終わりだな",
+      "eng": "All right. That'll do it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "你要在旅途中好好活用喔，",
+      "jap": "君の旅に役立ててくれよ",
+      "eng": "That should help you on your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "希望能和你平安再会。",
+      "jap": "また、無事で会おう",
+      "eng": "May we meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 162,
+      "chn": "嗯？怎么啦？",
+      "jap": "ん？どうした？",
+      "eng": "Hm? What's that?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻った",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 164,
+      "chn": "……算啦，我们继续吧。",
+      "jap": "…まあいい。続けようか",
+      "eng": "No matter. Let us continue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 166,
+      "chn": "啊！",
+      "jap": "うわあっ！",
+      "eng": "Uwwah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 168,
+      "chn": "你怎么了！",
+      "jap": "どうした！",
+      "eng": "Heavens!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 170,
+      "chn": "你干什么？",
+      "jap": "何をする！",
+      "eng": "In the name of sanity!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 172,
+      "chn": "住手！我得罪你了吗？",
+      "jap": "やめろ！気が触れたか！",
+      "eng": "Cease! Have you gone mad!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 174,
+      "chn": "可恶，你已经不正常了，",
+      "jap": "くそっ、正気じゃないな",
+      "eng": "Damn...you've lost it, haven't you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "那就没办法了，",
+      "jap": "だったら仕方ない",
+      "eng": "Then I have no choice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "觉悟吧！",
+      "jap": "覚悟しろ！",
+      "eng": "Prepare yourself!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 178,
+      "chn": "呜……",
+      "jap": "うう…",
+      "eng": "Rrrg...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 179,
+      "chn": "老师……",
+      "jap": "師よ…",
+      "eng": "Master Logan...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "##喂──喂──",
+      "jap": "##おーい、おーい",
+      "eng": "##Hello! Hello!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 181,
+      "chn": "##那位朋友，看这里，看这里。",
+      "jap": "##そこの君、こっちだ、こっちだ",
+      "eng": "##You, yes! You! I'm here, here!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 182,
+      "chn": "##我被关起来了，没办法出去。",
+      "jap": "##閉じこめられて、ここから動けないんだ",
+      "eng": "##I'm trapped! Please! I require assistance!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 183,
+      "chn": "##你可不可绕到那边，帮我开门？",
+      "jap": "##あっちに回って、扉を開けてくれないか",
+      "eng": "##Try and open the door!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "##我想从外面就可以打开门了！",
+      "jap": "##外側からなら、開くと思うのだが！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

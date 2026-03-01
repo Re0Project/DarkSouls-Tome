@@ -1,6 +1,1015 @@
 {
   "npc": "saulden",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/saulden.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/saulden.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "你……是不死人吧。",
+      "jap": "あなた…不死ですね",
+      "eng": "You're Undead...aren't you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我闻气味就知道了。\r\n算是临死前的气味吧……",
+      "jap": "わかります、臭いがしますから\r\n最期の臭いとでもいいますか…",
+      "eng": "You have that distinct scent.\r\nThe smell of irreversible fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "这里是叫做如蜜的地方。",
+      "jap": "ここは、マデューラという場所です",
+      "eng": "This is Majula.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "不知道能不能算是聚落……勉强也是有人生活的地方。",
+      "jap": "集落と言っていいのか…かろうじて、人の営みがあるところです",
+      "eng": "It is a kind of settlement...A place where life is almost normal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "但是在这个国家，\r\n就连这样的地方也不多了……",
+      "jap": "この国では、それすらももう\r\n数少なくなってしまったようですが…",
+      "eng": "And in Drangleic these days,\r\nthere are very few places like that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "我的名字是索丹。\r\n和你一样……失去了一切来到这里。",
+      "jap": "私の名はソダン\r\nあなたと同じ…すべてを失って、ここへ来ました",
+      "eng": "I am Saulden. And like you...\r\nI lost everything, and now I'm here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "你是听说来这里可以\r\n解除诅咒才过来的吧？",
+      "jap": "ここに来れば、呪いを解くことができる、\r\nそう聞いてきたんでしょう？",
+      "eng": "You probably heard that\r\nit was possible to break the curse here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "全都是骗人的。",
+      "jap": "嘘っぱちなんです、全部",
+      "eng": "Well, that's not true at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "已经一无所有了。\r\n无论是我或是你……",
+      "jap": "もう何もないんですよ\r\n私にも、あなたにもね…",
+      "eng": "There's nothing here,\r\nfor you, me, or anybody...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "知道叫做\"灵魂\"的东西吗？",
+      "jap": "ソウルというものをご存知ですか",
+      "eng": "Do you know much about souls?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我也不清楚详情。",
+      "jap": "私も詳しくは知りません",
+      "eng": "Even I'm not certain, but...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "只是听说\"灵魂\"是接近生命根源的东西。",
+      "jap": "ただ、ソウルとは、命の根源に近いものであると聞きます",
+      "eng": "I'm told that the soul is the essence of life itself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "生命的一切行为都是基于灵魂……",
+      "jap": "生きるもの、その営みのすべてにソウルがあると…",
+      "eng": "Anything living, sentient or no, supposedly has one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "我们称作\"诅咒\"的东西，\r\n它的根源就在那个灵魂。",
+      "jap": "私たちが\"呪い\"と呼んでいるもの、\r\nそれの源は、そのソウルにあるのです",
+      "eng": "What we call the curse\r\nis traceable to the soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "知道吗？",
+      "jap": "わかりますか？",
+      "eng": "Do you see what that means?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "生存……活着……那不是别的，\r\n就是诅咒的真面目。",
+      "jap": "生きること…生きていること…\r\nそれが即ち、呪いの正体に他ならないのです",
+      "eng": "To be alive...to walk this earth...\r\nThat's the real curse right there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "我们是不死人，无法死去。",
+      "jap": "私たちは不死、死ぬことのできない存在",
+      "eng": "We Undead will never die.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "已经没有任何办法了……",
+      "jap": "どうしようもないんですよ、もう…",
+      "eng": "And that's quite a predicament, really...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "此地有着拥有巨大灵魂的\"四物\"。",
+      "jap": "この地には、巨大なソウルを持った\"4つのもの\"がいます",
+      "eng": "There are four beings in this land with giant souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "今后不管你要去哪里，\r\n应该都会与那四物对上吧。",
+      "jap": "ここからどこに向かおうと、\r\n貴方はそのものたちと向き合うことになるでしょう",
+      "eng": "And wherever you go from here,\r\nyou'll sooner or later come up against them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "和那四个拥有强大灵魂、强大诅咒的物种……",
+      "jap": "強大なソウル、強大な呪いを持つものたちと…",
+      "eng": "Each has a powerful soul, and a terrible curse...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "如果不希望那样，唯一的方法就是在这里放弃一切。\r\n就像我一样，\r\n哈哈。",
+      "jap": "それが嫌なら、ここで全てを諦めるほかありません\r\n私のようにね\r\nフフッ",
+      "eng": "If that frightens you, then you ought to just give up right now.\r\nLike I have.\r\nHah hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0第5次说话",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "你……不需要救赎吗？",
+      "jap": "あなた…救いは必要ではありませんか",
+      "eng": "Do you ever cry out for help?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "不死人的旅程苦难重重。",
+      "jap": "不死として旅することは、苦難の連続",
+      "eng": "The journey of an Undead is long and treacherous.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "在旅途中应该会有不少来自其他世界的侵略者去找你，\r\n让你陷入困境。",
+      "jap": "旅の途中、他の世界からの侵入者が、\r\nあなたを陥れようとするでしょう",
+      "eng": "You'll face invaders\r\nfrom other worlds at every turn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "如果你需要救赎的话……\r\n要不要成为青之诸神的信徒？",
+      "jap": "あなたが救いを必要としているなら…\r\n青の神々を信ずる人となりますか？",
+      "eng": "If you need help...\r\nWhy not proclaim faith in the Blue Sentinels?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "当你陷入苦难的时候，\r\n身为青之诸神使徒的朝圣者，应该会成为你的助力。",
+      "jap": "苦難に陥った時、青の神々のしもべたる巡礼者が\r\nあなたの助けとなるはずです",
+      "eng": "When you face danger,\r\nthe Blue Sentinels will come to your aid.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "如果你希望的话，我就把保佑分给你。\r\n然后让保佑守护你。",
+      "jap": "望むのなら、加護を分かちましょう\r\nそして、あなたを包み込みましょう",
+      "eng": "Protection is yours, if you wish.\r\nYou need only accept their kind embrace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0是否订立青教誓约？选择「否」",
+      "jap": "#0話しかけた:5回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "是吗？\r\n那靠你自己的力量\r\n寻找自我道路也好。",
+      "jap": "そうですか\r\nならば、あなた自身の力で\r\n道を求められるのもよいでしょう",
+      "eng": "I see.\r\nThen, you'll have to brave this\r\ntreacherous journey on your own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "如果有一天你又需要救赎了，随时都欢迎回来。",
+      "jap": "救いが必要になったのなら、いつでも戻ってきてください",
+      "eng": "If you ever require help, come back any time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "我会在这里祈祷你平安。",
+      "jap": "私は、ここであなたの無事を祈ります",
+      "eng": "I will stay here, and pray for your safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0是否订立青教誓约？选择「是」",
+      "jap": "#0話しかけた:5回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "你做了明智的决定。",
+      "jap": "賢明な決断をされました",
+      "eng": "That is a wise decision.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "人都是脆弱的……\r\n不管是谁，青之诸神都会接纳、保佑。",
+      "jap": "人は皆、弱いもの…\r\n青の神々は、どなたでも受け入れ、見守ります",
+      "eng": "People are weak...\r\nbut the Blue Sentinels watch over us in their benevolence.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "你也受到青之诸神的保佑了。",
+      "jap": "あなたも、青の神々に包まれているのです",
+      "eng": "Let the Sentinels cradle you in their embrace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0第6次说话",
+      "jap": "#0話しかけた:6回目",
+      "eng": "#0Talk-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "你需要……我的帮助吗？",
+      "jap": "私の…助けが必要ですか",
+      "eng": "You...need my help, do you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0第7次说话",
+      "jap": "#0話しかけた:7回目",
+      "eng": "#0Talk-7th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "我随时都照看着你……保佑着你。",
+      "jap": "私はいつでもあなたを見守り…包み込みます",
+      "eng": "I will always be here...watching over you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0第8次说话",
+      "jap": "#0話しかけた:8回目",
+      "eng": "#0Talk-8th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "人生是一场旅程……然后旅行也就是归乡之道。",
+      "jap": "人生は旅…そして旅は故郷への帰路に他ならないのです",
+      "eng": "Life is a journey...and ever journey eventually leads to home.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "看得到营火对面那条路吗？\r\n那条路通往一个叫做\"巨人之森\"的地方。",
+      "jap": "篝火の向こうの、道が見えますか？\r\nあの道の先には、\"巨人の森\"という土地があります",
+      "eng": "Do you see the way beyond the bonfire?\r\nThat will take you to the Forest of the Giants.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "虽然现在已经完全看不出来了，不过以前是座碉堡的样子。",
+      "jap": "いまは見る影もありませんが、昔は砦だったようです",
+      "eng": "There was once a great fort, but little of it remains.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "说不定那里还残留了\r\n一些对你有帮助的东西。",
+      "jap": "ひょっとしたら、あなたの旅に役立つものが\r\nまだ残っているかもしれません",
+      "eng": "You may just find something there\r\nthat will be of use on your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "虽说如此，还是别太深入，\r\n不然会回不来喔……",
+      "jap": "とはいえ、あまり奥までは行かないことです\r\n戻れなくなりますよ…",
+      "eng": "But don't venture too far inside,\r\nor you might not come back...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "对面那扇门可以通往\"海德巨火塔\"。",
+      "jap": "向こうに見える門からは、\"ハイデの大火塔\"に行くことができます",
+      "eng": "Heide's Tower of Flame lies beyond the far gate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "圣堂里应该有引导我们青教信徒的修道者。",
+      "jap": "聖堂には、我ら青の徒を導く修道者達がいるはすです",
+      "eng": "In the cathedral, the apostles of blue gather.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "不过要去那里的路并不好走……",
+      "jap": "そこまでの道は、容易くはありませんがね…",
+      "eng": "But the road leading there is perilous.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "在门那边好像有什么机关的样子……",
+      "jap": "門のあたりには、何か仕掛けがあるようなのですが…",
+      "eng": "The gate is rigged with some contraption...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "要怎么做才好……",
+      "jap": "どうすればいいのかは…",
+      "eng": "But how it works, I just don't know...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "你见过那个大洞了吗？\r\n在这个地方的地面上，开了一个又大又深的洞。",
+      "jap": "穴は見ましたか？\r\nここの地面にあいている、巨大で、深い穴です",
+      "eng": "Have you seen that pit?\r\nThat gaping hole in the earth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "不知道下面是什么状况，\r\n不要靠近比较好。",
+      "jap": "下がどうなっているのかは知りませんが、\r\n近寄らないほうがいいですよ",
+      "eng": "I don't know what it's like down below,\r\nbut I wouldn't suggest trying to find out.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "反正只要没有梯子，\r\n就没有可以安全下去的方法。",
+      "jap": "もっとも、梯子でもない限り、\r\n無事に下りる方法はなさそうですが",
+      "eng": "Besides, you'll never make it down there,\r\nnot without a ladder of some sort.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "那边的火叫做\"营火\"。",
+      "jap": "あそこに見える火は“篝火”と呼ばれているもの",
+      "eng": "The flame you see there is a bonfire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "存在于这个国家各处，是我们不死之民的路标。",
+      "jap": "この国のあちこちに存在する、私たち不死の民の道標です",
+      "eng": "They exist all across the land... beacons to we Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "要是累了的话，\r\n可以去火边休息。",
+      "jap": "もしお疲れなのでしたら、\r\n火のそばで休まれていくといいでしょう",
+      "eng": "If you are tired,\r\ntry resting beside the flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "那个火会治愈我们。",
+      "jap": "あの火は、私たちを癒してくれるのです",
+      "eng": "The flame heals us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0互动列表-第5次选择「说话」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "以前好像会有一群叫做\r\n\"防火女\"的女性守在\"营火\"旁边。",
+      "jap": "昔は\"火防女\"と呼ばれる女達が\r\n篝火のそばにいたそうです",
+      "eng": "Long ago, a woman called a Fire Keeper\r\nwatched over each bonfire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "听说防火女要确保火势旺盛，\r\n要是出现企图灭火的人，会献身保护火……",
+      "jap": "火防女たちは火を熾し、\r\nその火を消そうとする者が現れれば、身を呈して守ったとか…",
+      "eng": "She kept the flame lit,\r\nand guarded it from those who would extinguish it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "她们现在到哪里去了呢……",
+      "jap": "今はどこに行ってしまったのでしょうか…",
+      "eng": "I wonder where the Fire Keepers went...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0互动列表-第6次选择「说话」",
+      "jap": "#0リストから選択:話すF",
+      "eng": "#0Menu-Choose \"Talk\" 6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "在来到这里以前的一路上，\r\n有没有见到过地面上浮现什么字？",
+      "jap": "ここに来るまでに\r\n地面に浮かぶ言葉を見ませんでしたか",
+      "eng": "Did you notice any letters\r\non the ground on the way here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "那是从某个其他世界\r\n超越\"隔阂\"过来的留言。",
+      "jap": "あれは、どこか別の世界から\r\n\"ずれ\"を超えて届いた伝言のようなもの",
+      "eng": "These are messages that have\r\njumped the fissures between worlds.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "这里的时间流动有着滞碍。\r\n许多事物都有着\"隔阂\"。",
+      "jap": "この地は刻の流れが淀んでいます\r\nいろんな物が、\"ずれ\"ているのです",
+      "eng": "In Drangleic, the flow of time is convoluted.\r\nThings shift and waver, twist and turn.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "不知道是谁留下的愿望或呐喊……\r\n超越\"隔阂\"送了过来。",
+      "jap": "誰かが遺した願いや叫び…\r\nそれが\"ずれ\"を越えて届くのだそうです",
+      "eng": "Poignant wishes, dashed dreams...\r\nThe messages convey our very inner thoughts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "要是你灰心丧气的话，请试着留下讯息。\r\n那样的话，说不定会有人发现到。",
+      "jap": "あなたの心が折れそうになったら、言葉を残してみてください\r\nそうすれば、誰かが気付いてくれるかもしれない",
+      "eng": "If your will to soldier on falters, try leaving a message.\r\nSomebody out there is sure to listen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0互动列表-第7次选择「说话」",
+      "jap": "#0リストから選択:話すG",
+      "eng": "#0Menu-Choose \"Talk\" 7th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "浮现在前面地面上的记号，你应该有见到的机会吧？",
+      "jap": "この先、地面に浮かぶサインを見る機会があるでしょう",
+      "eng": "You may notice symbols that appear upon the ground.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "那是\"召唤\"的徽记……是隔着凝滞的时间流动，\r\n从其他世界唤来灵体的徽记……",
+      "jap": "それは\"召喚\"の印…\r\n淀んだ刻の流れを越えて、別の世界から霊を呼び寄せる印です…",
+      "eng": "These are summon signatures...they call upon spirits\r\nfrom other worlds through the schisms in time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "如果不想被游魂吃掉的话，最好去找找\"召唤\"的徽记。\r\n唤出来的灵体，应该会成为你的助力……",
+      "jap": "亡者に食われたくなければ、\"召喚\"の印を探すといいでしょう\r\n呼び出した霊は、力となってくれるはず…",
+      "eng": "If you fear Hollows,\r\nfind summon signatures to call upon spirits to help you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0第1次有人返回如蜜后说话",
+      "jap": "#0話しかけた:マデューラの人数が一定以上1",
+      "eng": "#0Talk-After the 1st threshold of NPCs have relocated to Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "这里是个寂寞的地方吧……",
+      "jap": "ここは、寂しいところでしょう…",
+      "eng": "Do you feel lonely here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "很适合我的地方……什么感觉都没有的我……",
+      "jap": "私には、似合いの場所です…何もない私には…",
+      "eng": "It suits me just fine, as I've nothing left anyway...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "我想你很快就会喜欢上这里了……很快……",
+      "jap": "貴方もじきにここが気に入ると思いますよ…じきにね…",
+      "eng": "It will grow on you, this place... Give it some time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0第2次有人返回如蜜后说话",
+      "jap": "#0話しかけた:マデューラの人数が一定以上2",
+      "eng": "#0Talk-After the 2nd threshold of NPCs have relocated to Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "人变多了一点耶……",
+      "jap": "少し人が増えてきましたね…",
+      "eng": "Look at our new neighbours...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "心情像是有些复杂……有些怀念……",
+      "jap": "騒がしいような…懐かしいような…",
+      "eng": "How they fret over all and sundry... Oh, those were better days.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "我也还留有那样的感情啊……",
+      "jap": "私にもまだ、そんな気持ちが残っているんですね…",
+      "eng": "Oh dear me, it really takes me back.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0第3次有人返回如蜜后说话",
+      "jap": "#0話しかけた:マデューラの人数が一定以上3",
+      "eng": "#0Talk-After the 3rd threshold of NPCs have relocated to Majula",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "聚集到这里来的人也变多了。",
+      "jap": "ここも、多くの人が集う場所になりました",
+      "eng": "Quite a hive of activity we are, these days.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "没想到别人的存在这种事，会让我感到这么安心……",
+      "jap": "人の存在があるということが、こんなに安心することだとは…",
+      "eng": "I'd forgotten how much comfort a little companionship can bring.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "本以为我已经什么感觉都没有了……",
+      "jap": "私にはもう何もない、そう思っていたのですが…",
+      "eng": "Once, I'd lost everything, but now...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "感谢你。\r\n是你教会我那件事的。",
+      "jap": "感謝します\r\n貴方がそれを教えてくれたのですから",
+      "eng": "I am grateful.\r\nFor what you have taught me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "虽是微不足道的东西，不过请收下这个。",
+      "jap": "ささやかなものですが、これを持って行ってください",
+      "eng": "It is very little, but please, take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0主角死亡100次后说话",
+      "jap": "#0話しかけた:100回死んだあと",
+      "eng": "#0Talk-After the protagonist has died 100 times",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "你已经经历过许多死亡了吧，我懂……",
+      "jap": "多くの死を経たのですね、わかります…",
+      "eng": "You have died many times, yes, I understand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "这个送给你吧。",
+      "jap": "あなたに、これを差し上げましょう",
+      "eng": "Here, these are for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "希望能在你的旅程中帮上一点忙……",
+      "jap": "少しでも、旅のお役に立てば…",
+      "eng": "May they help you on your travels.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "愿你的旅途中得到救赎……",
+      "jap": "あなたの旅路に救いがあるよう…",
+      "eng": "May you find peace on your journey...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 102,
+      "chn": "有急事吗……",
+      "jap": "急がれるのですか…",
+      "eng": "In a rush, are we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 104,
+      "chn": "呜哇！",
+      "jap": "うわっ！",
+      "eng": "Ohgghh...ah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "请住手！",
+      "jap": "止めてください！",
+      "eng": "Really now, stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "你做什么！",
+      "jap": "何をするのです！",
+      "eng": "What on earth are you doing!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "错乱了吗……",
+      "jap": "錯乱されたのですか…",
+      "eng": "Have you come unhinged?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "看来还没有清醒过来……",
+      "jap": "まだ目が覚めないようですね…",
+      "eng": "Still flirting with madness?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 114,
+      "chn": "为何事情会这样……",
+      "jap": "何故、こんなことに…",
+      "eng": "How did this happen...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 116,
+      "chn": "做这种事有什么好处!?",
+      "jap": "こんなことが、何になると！？",
+      "eng": "What could possibly come of this?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "这样我就解放了……",
+      "jap": "これで、楽に…",
+      "eng": "Finally, I will have peace...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "##在山丘后方有座森林。",
+      "jap": "##丘の奥には森があります",
+      "eng": "##There lies a forest beyond the hills.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "##我也几乎没去过那边，\r\n实在是太危险了……",
+      "jap": "##そちらの方には私もあまり行ったことがありません\r\nあまりに危険なので…",
+      "eng": "##But I've never been out that way.\r\n...It's far too perilous.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "##听说再往前走有这个国家的王城……",
+      "jap": "##その先には、この国の王城があるという話ですが…",
+      "eng": "##I am told the palace lies beyond the forest.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "##看看这个国家的惨状，\r\n也就不难想像那里怎么样了。",
+      "jap": "##この国の有様をみれば、\r\nどうなっているかは想像がつくというものです",
+      "eng": "##If there is any palace left at all,\r\nafter such a period of neglect.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "##只能祈祷像你一样的人旅途平安。",
+      "jap": "##ただ、あなたのような方の、旅の無事を祈るばかりです",
+      "eng": "##Content to pray for the safety of brave travellers, like yourself.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "##我……已经无处……",
+      "jap": "##私は…もうどこにも…",
+      "eng": "##I'll be moving on... I suppose...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "###2（仅英文语音）我会……留在这里。#3",
+      "jap": "##…",
+      "eng": "##(No caption) I shall remain... on this spot.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

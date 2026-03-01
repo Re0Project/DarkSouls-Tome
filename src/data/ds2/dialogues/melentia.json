@@ -1,6 +1,519 @@
 {
   "npc": "melentia",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/melentia.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/melentia.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "买吧……买点什么吧……",
+      "jap": "買っておくれ…何か買っておくれよ…",
+      "eng": "Buy something, anything... ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "就当是帮助我这个老人家……买点什么吧……",
+      "jap": "年寄りじゃ…助けると思うて…何か買っておくれよ…",
+      "eng": "Come, now...help an old woman... And buy something...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "嘻嘻嘻……",
+      "jap": "ヒヒヒッ…",
+      "eng": "Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:連続で話しかけた",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "买吧……买点什么吧……",
+      "jap": "買っておくれ…何か買っておくれよ…",
+      "eng": "Buy something, anything...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:さらに連続で話しかけた",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "帮帮我这个老人吧……嘻嘻嘻……",
+      "jap": "年寄りを見捨てんでおくれよ…ヒヒヒッ…",
+      "eng": "Don't abandon a poor old woman...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0第1次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "我就知道你还会来……嘻嘻嘻……",
+      "jap": "また来ると思ったよ…ヒヒヒッ…",
+      "eng": "I knew you'd be back...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第2次在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2nd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "是你啊……嘻嘻嘻……",
+      "jap": "あんたかい…ヒヒヒッ…",
+      "eng": "You again? Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "我的名字就叫做梅伦提拉，",
+      "jap": "あたしの名前は、メレンティラっていうのさ",
+      "eng": "My name is Melentia.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "你是远道而来的旅人吧？",
+      "jap": "あんた、遠くからきなすったね？",
+      "eng": "You a stranger to this land?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "现在会来这的都是陌生人，其他人早就全都跑光了，\r\n嘻嘻……\r\n嘻嘻嘻……",
+      "jap": "ここに残ってる土地のもんなんて、とんと見やしないからね\r\nヒヒッ\r\nヒヒヒッ…",
+      "eng": "All we get is strangers these days.\r\nEverybody's gone\r\nand run off! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "这个国家啊，在很久很久以前的战争后，\r\n就变成了这个残破不堪的模样，",
+      "jap": "この国はね、ずっとずっと前の戦で\r\nボロボロになっちまったんだよ",
+      "eng": "Drangleic's been a pile o' rubble\r\nsince the war fought long, long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "都是因为来自大海的\"巨人\"。",
+      "jap": "海から来た\"巨人\"とかのせいでね",
+      "eng": "When the Giants crossed the sea.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "这里一直一直都在征战，",
+      "jap": "ずっとずっと、戦いが続いたんだよ",
+      "eng": "Seemed like the battles would never end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "对贫穷人来说，连睡觉的地方都没有了，",
+      "jap": "貧乏人には、まともに寝る場所もなくなった",
+      "eng": "Poor folk like myself had nary a place to sleep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "所以我才会像这样，把所有家当全都背着走。",
+      "jap": "だからこんな風に、自分のもんは全部背負って歩くのさ",
+      "eng": "That's why I keep all me things right with me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "你……\r\n看起来好像也在背负着什么东西吧，\r\n嘻嘻嘻……",
+      "jap": "あんたは…どうやら違うものを\r\n背負ってるみたいだけどねぇ\r\nヒヒヒッ…",
+      "eng": "You may travel light,\r\nbut methinks you bear a burden\r\nof your own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "生长在这里的树木，\r\n都是那些巨人倒下的地方，",
+      "jap": "ここらに生えてる木は\r\nその巨人ってやつの、なれの果てなんだとさ",
+      "eng": "They say these trees grew\r\nfrom the remains of the Giants.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "从死亡的巨人身上会长出树木，\r\n结果就如你所看到这样。",
+      "jap": "死んだ巨人から、やがて木が生えて\r\nこんな風になった",
+      "eng": "From each carcass sprouted new life,\r\ngrowing into what you see now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "反正是我这老太婆讲的话，\r\n要不要相信随便你了，\r\n嘻嘻嘻……",
+      "jap": "まあ、こんな婆の言うことさね\r\n信じるも信じないも、あんたの勝手だよ\r\nヒヒヒッ…",
+      "eng": "But you know what they also say.\r\nDon't believe what\r\nan old hag says!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD(マデューラへの移動時)",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "我想你差不多要去别的地方了吧……",
+      "jap": "そろそろ、別のところへ行こうかと思ってね…",
+      "eng": "It's high time that I pick up and move.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "有机会再来啊，我会算你便宜的，\r\n嘻嘻嘻……",
+      "jap": "また来ておくれよ、安くしとくからさ\r\nヒヒヒッ…",
+      "eng": "I've a bargain for you,\r\nnext time we meet, my love. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0返回如蜜后说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "我们又碰面了……嘻嘻嘻……",
+      "jap": "また会ったねぇ…",
+      "eng": "Oh, you again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "买点什么吧……我会算便宜点喔……",
+      "jap": "何か買っておくれよ…安くしとくよ…",
+      "eng": "Go on...it's on the cheap for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "嘻嘻嘻……",
+      "jap": "ヒヒヒッ…",
+      "eng": "Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0返回如蜜后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "这里的人还真是小气，\r\n嘻嘻嘻……",
+      "jap": "しみったれたところだろう\r\nヒヒヒッ…",
+      "eng": "Everyone's so stingy\r\naround here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "不过走到哪好像都是一样的，",
+      "jap": "まあ、どこに行ったって同じだけどね",
+      "eng": "Everyone's so stingy everywhere! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "称得上是客人的也只有你了，\r\n所以买点什么吧，嘻嘻嘻……",
+      "jap": "客はあんたぐらいさ\r\nだから、なんか買っておくれよ",
+      "eng": "You're my only customer.\r\nDon't make me beg, now, buy something! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0返回如蜜后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "这里是如蜜，",
+      "jap": "ここは、マデューラっていうのさ",
+      "eng": "We call this place Majula.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "是一个没什么特别的平凡之地，",
+      "jap": "別に何があるってわけじゃないところだよ",
+      "eng": "Not too special, if you ask me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "不过倒是聚集了\r\n不少流浪人士，\r\n嘻嘻嘻……",
+      "jap": "ただ、行く当てがない奴が\r\n吹き溜まってるってだけさ\r\nヒヒヒッ…",
+      "eng": "It's just the place...\r\nwhere everyone\r\nseems to end up.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0累计交易10000以上魂量后，互动列表-选择「说话」",
+      "jap": "#0話しかけた:10000ソウル以上購入したあと",
+      "eng": "#0Menu-Choose \"Talk\" after spending 10000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "这个东西给你……",
+      "jap": "アンタには、これをやろうかねぇ…",
+      "eng": "Take these, if you want them. Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "嘻嘻嘻……嘻嘻嘻……",
+      "jap": "ヒヒヒッ…ヒヒヒッ…",
+      "eng": "Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "真是小气啊……嘻嘻嘻……",
+      "jap": "世知辛いねぇ…",
+      "eng": "Lowly times, these are...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "真是抱歉啊……嘻嘻嘻……",
+      "jap": "すまないねぇ…ヒヒヒッ…",
+      "eng": "Thank you kindly. Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼女から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "嘻嘻嘻……",
+      "jap": "ヒヒヒッ…",
+      "eng": "Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "嘻嘻嘻……",
+      "jap": "ヒヒヒッ…",
+      "eng": "Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "嘻嘻嘻……嘻嘻嘻……",
+      "jap": "ヒヒヒッ…ヒヒヒッ…",
+      "eng": "Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "藐视老年人的家伙，去死吧！",
+      "jap": "年寄りをバカにする奴は、死んじまいな！",
+      "eng": "You've no respect! Die, you rotten lout!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching her, after she has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "我要杀了你呀，\r\n嘻嘻嘻！",
+      "jap": "殺してやるよ\r\nヒヒヒッ！",
+      "eng": "I'll have your guts\r\nfor garters! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "真是个残酷的世界吧……嘻嘻嘻……",
+      "jap": "やな世の中だよ、まったく…ヒヒヒッ…",
+      "eng": "Cruel, cruel world, this is... Keh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing her health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "难道要死在你手下了吗……",
+      "jap": "あんたには仕置きがいるよ…",
+      "eng": "That's not very nice, is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "##嘻嘻嘻……嘻嘻嘻……",
+      "jap": "##ヒヒヒッ…ヒヒヒッ…",
+      "eng": "##Keh heh heh...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

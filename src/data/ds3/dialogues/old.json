@@ -1,6 +1,975 @@
 {
   "npc": "old",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/old.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/old.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0在传火祭祀场第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哎呀、哎呀，来了个灰烬大人啊。",
+      "jap": "これはこれは、灰のお方",
+      "eng": "A pleasure to make thine acquaintance, Ashen One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我老太婆是这个祭祀场的侍女。",
+      "jap": "婆めは、この祭祀場の侍女",
+      "eng": "I am but a humble handmaid of the shrine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "不管是武器、防具、道具，还是法术类的东西……",
+      "jap": "武器や防具、道具や魔法の類…",
+      "eng": "Weapons, armour, trinkets, and spells...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "只要是能帮助您完成使命的必备物品，都准备好了。",
+      "jap": "貴方様の使命、そのために必要な諸々を、用立てますのじゃ",
+      "eng": "I've lots of little things to ease the burden of a weary traveller.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……当然了，我这老太婆也是不死人，\r\n但我不是做慈善事业啊。",
+      "jap": "…もちろん、婆めも不死。\r\n只ではありませんがの",
+      "eng": "...And yes, I'm Undead, too,\r\nbut not so charitable as to give my goods away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "灰烬大人啊，去夺取灵魂，再拿过来吧。",
+      "jap": "灰のお方、ソウルを奪い、お持ち下さりませ",
+      "eng": "Ashen One, fetch souls, and bring them to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "说到底，这才是大人，您赖以维生的方式吧？",
+      "jap": "それこそが、貴方様の生業ですじゃろう？",
+      "eng": "As is thy wont, no?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……",
+      "jap": "イッヒッヒッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0初次交谈前在无火祭祀场交谈后返回，第1次交谈",
+      "jap": "#0話しかけた:1回目:先に無縁墓地の侍女と話している",
+      "eng": "#0Talk-1st time without talking before talking in the Dark Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "……噢噢，这位大人……",
+      "jap": "…ほう、貴方様は…",
+      "eng": "Oh thou'rt...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "……哎呀，没事，灰烬大人。",
+      "jap": "…ああ、なんでもありませんですじゃ、灰のお方",
+      "eng": "Oh, no, 'tisn't anything, Ashen One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "我老太婆是这个祭祀场的侍女。",
+      "jap": "婆めは、この祭祀場の侍女",
+      "eng": "I am but a humble handmaid of the shrine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "不管是武器、防具、道具，还是法术类的东西……",
+      "jap": "武器や防具、道具や魔法の類…",
+      "eng": "Weapons, armour, trinkets, and spells...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "只要是能帮助您完成使命的必备物品，都准备好了。",
+      "jap": "貴方様の使命、そのために必要な諸々を、用立てますのじゃ",
+      "eng": "I've lots of little things to ease the burden of a weary traveller.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "……当然了，我这老太婆也是不死人，\r\n但我不是做慈善事业啊。",
+      "jap": "…もちろん、婆めも不死。\r\n只ではありませんがの",
+      "eng": "...And yes, I'm Undead, too,\r\nbut not so charitable as to give my goods away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "灰烬大人啊，去夺取灵魂，再拿过来吧。",
+      "jap": "灰のお方、ソウルを奪い、お持ち下さりませ",
+      "eng": "Ashen One, fetch souls, and bring them to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "说到底，这才是大人，您赖以维生的方式吧？",
+      "jap": "それこそが、貴方様の生業ですじゃろう？",
+      "eng": "As is thy wont, no?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……",
+      "jap": "イッヒッヒッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "噢噢，灰烬大人，欢迎您啊。",
+      "jap": "ああ、ようこそ灰のお方",
+      "eng": "Ahh, well met, Ashen One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "找我这个老太婆，有什么事啊？",
+      "jap": "婆めに、何か入り用ですかのう？",
+      "eng": "How may I be of service?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "……灰烬大人，如果您嫌我老太婆的东西卖得不全，",
+      "jap": "…灰のお方、もし婆めの品が足りなければ",
+      "eng": "Ashen One, if my wares are not to thy satisfaction,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "麻烦您，拿骨灰过来吧。",
+      "jap": "どうぞ、遺灰をお持ち下さりませ",
+      "eng": "bring me umbral ash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "如此一来，老太婆我就能用骨灰变点儿新东西出来了。",
+      "jap": "さすれば、この婆めが、遺灰から新たな品を用立てますじゃ",
+      "eng": "With ash, I'll fashion new wares.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "靠死亡吃饭，不就是我们的诅咒吗？",
+      "jap": "死を糧に、それが我らの呪いですじゃろう？",
+      "eng": "Is it not our sorry fate, to sup on death?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "……",
+      "jap": "アハハハハ…ッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "……您听过这句不成熟的话语吗？",
+      "jap": "…幼い言葉を知っておりますかの？",
+      "eng": "Knowest thou of that soppy gossip?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "所谓「通往余火之路需牺牲奉献」。",
+      "jap": "献身は残り火の道と申しますじゃ",
+      "eng": "That cordial intrusion layeth the path to embers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "所以啊，灰烬大人，您方便的话，去寻找蜡石吧。",
+      "jap": "ですから、灰のお方。よろしければ、ろう石をお求めなされ",
+      "eng": "And so thou art in need of a soapstone, ashen one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "接着再拿点灵魂来，赏给我这个老太婆吧。",
+      "jap": "婆めに、ソウルをお恵みくだされよ",
+      "eng": "Then thy pockets will o'erflow with souls to trade to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "……",
+      "jap": "…アハハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0互动列表-选择「交出骨灰」-选择除逐梦者和NPC外的任意骨灰",
+      "jap": "#0リストから選択:遺灰を渡す",
+      "eng": "#0Menu-Give Ashes, excluding the Dreamchaser's Ashes & all NPC Ashes",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……哎呀、哎呀，您把骨灰拿来了啊。",
+      "jap": "…これはこれは、遺灰をお持ち下さりましたか",
+      "eng": "Gracious. Passing fine ash thou'st given.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "那么，就把这骨灰当成我老太婆的粮食吧。",
+      "jap": "ではこれを、婆めの糧といたしましょう",
+      "eng": "Let this ash bestow nourishment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "还希望新商品会讨您喜欢啊。",
+      "jap": "新たな品が、貴方様のお気に召さんことを",
+      "eng": "I only hope these new wares content thee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "……",
+      "jap": "アハハハハ…ッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0互动列表-选择「交出骨灰」-选择「逐梦者骨灰」",
+      "jap": "#0リストから選択:遺灰を渡す(夢追い人の遺灰)",
+      "eng": "#0Menu-Give Dreamchaser's Ashes",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "……灰烬大人，您又拿来一份可怜虫的骨灰了啊。",
+      "jap": "…灰のお方、また憐れな遺灰をお持ち下さりました",
+      "eng": "Ashen One, what woeful umbral ash is this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "这是份愚人的骨灰……可以换得的物品也少得很吧。",
+      "jap": "これは愚か者の遺灰…得られる品も僅かじゃろうて",
+      "eng": "This barren dust, stuff of a fool, won't yield aught.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "那么，这是在哪里捡到的呢？\r\n只是觉得好玩才问问，告诉我这个老太婆吧。",
+      "jap": "ときに、どこで拾われましたかの？\r\n戯れに、婆めに聞かせて下さりませ",
+      "eng": "Where did'st thou happen upon the stuff?\r\nTell me, for the sport.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0选择「不让她询问」",
+      "jap": "#0リストから選択:夢追い人の遺灰・選択肢【聞かせない】",
+      "eng": "#0Choose \"Say Nothing\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "……不愧是灰烬大人。",
+      "jap": "…さすがは灰のお方",
+      "eng": "As the Ashen One ought be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "正所谓轻浮为不智之举吧。",
+      "jap": "まさに、戯れこそ愚行ですじゃな",
+      "eng": "Little time for japery, mm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0选择「让她询问骨灰详情」",
+      "jap": "#0リストから選択:夢追い人の遺灰・選択肢【遺灰の話を聞かせる】",
+      "eng": "#0Choose \"Tell her where you found the ash\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "……哦，原来如此……",
+      "jap": "…ほう、それはそれは…",
+      "eng": "Oh, yes, I see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "真是可怜虫，居然在这衰亡之世里做梦……",
+      "jap": "憐れじゃ、滅びの世に夢などと…",
+      "eng": "Clinging to lofty dreams in this dying world...more's the pity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "果然如此，这是份愚人的骨灰啊。",
+      "jap": "やはりこれは、愚か者の遺灰ですじゃ",
+      "eng": "It must come from one most foolish indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "大人也这么觉得吧？",
+      "jap": "貴方様も、そう思いますじゃろう？",
+      "eng": "Would'st thou not agree?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "……",
+      "jap": "アッハハハハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0互动列表-选择「交出骨灰」-第1次选择NPC骨灰",
+      "jap": "#0リストから選択:遺灰を渡す(NPCの遺灰):1回目",
+      "eng": "#0Menu-Give NPC Ashes, 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "……哎呀、哎呀，您把骨灰拿来了啊。",
+      "jap": "…これはこれは、遺灰をお持ち下さりましたか",
+      "eng": "Gracious. Passing fine ash thou'st given.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "不过，这骨灰怎么还是温的啊？",
+      "jap": "しかしこれは、また温かい遺灰ですじゃのう",
+      "eng": "And awfully warm, at that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "暖得像这人刚刚还活着一样……",
+      "jap": "まるで、ついさっきまで生きていたような…",
+      "eng": "Almost as if it had lived, mere moments ago...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "哎呀，不好意思，我多嘴了啊。",
+      "jap": "ああ、すみません。余計な詮索でしたじゃ",
+      "eng": "Oh, forgive an old woman's idle prate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "灰烬大人怎么可能\r\n做这么残忍的事情……",
+      "jap": "灰のお方に限って、\r\nそんな酷いことをなさるはずもない…",
+      "eng": "I'm sure an ashen one such as thee\r\nwould never indulge such base contrivances...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "……",
+      "jap": "アッハハハハ…ッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0互动列表-选择「交出骨灰」-第2次选择NPC骨灰",
+      "jap": "#0リストから選択:遺灰を渡す(NPCの遺灰):2回目",
+      "eng": "#0Menu-Give NPC Ashes, 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "……哎呀、哎呀，您又拿来了一份温热的骨灰啊。",
+      "jap": "…これはこれは、また、温かい遺灰ですじゃのう",
+      "eng": "Well, well, what warm umbral ash have we here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "说起来，大人跟死亡似乎有特别的缘分……",
+      "jap": "貴方様は、死に奇妙なご縁があるようじゃ…",
+      "eng": "It's as if thy fate were with death entwined...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "哎呀，不好意思，我多嘴了啊。",
+      "jap": "ああ、すみません。余計な詮索でしたじゃ",
+      "eng": "But take no note of me, thy business is thine own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "不过话说回来，大人，您也明白，",
+      "jap": "何より、貴方様はもうご存じだ",
+      "eng": "As by now thou surely knowest,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "我这老太婆可是很贪心的……",
+      "jap": "この婆めの、ごうつくばりを…",
+      "eng": "there is little I love more than a gratuity of souls...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "……",
+      "jap": "…アハハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "……",
+      "jap": "ハァ…ハハハハハハハッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "灰烬大人，欢迎再拿点儿灵魂过来啊。",
+      "jap": "灰のお方、またソウルをお持ち下さりませ",
+      "eng": "Ashen One, be sure to bring more souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "……",
+      "jap": "アハハ…ッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "……",
+      "jap": "アァ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "……",
+      "jap": "アァ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "快住手啊！",
+      "jap": "やめるのじゃ！",
+      "eng": "Stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 77,
+      "chn": "居然对我这老太婆……做出这么残忍的事……",
+      "jap": "酷いことをなさる、こんな婆めに…",
+      "eng": "Vile brute. I'm but a poor old woman...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0被击杀后复活",
+      "jap": "#0死亡から複活した",
+      "eng": "#0Talk-Once she's been revived after dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "……",
+      "jap": "…ハッハハハハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "大人您也挺过分的。",
+      "jap": "貴方様は、酷いお人じゃ",
+      "eng": "A malicious sort, thou art.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "不过很遗憾……因为一直被传火的诅咒束缚，",
+      "jap": "けれど、残念でしたな。婆めはこの通り、不死",
+      "eng": "But, marvel on. Remember well, I am Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "我老太婆就是这样，不会死。",
+      "jap": "…ずっと、火継ぎの呪いに囚われていますからの",
+      "eng": "Bound forever by the shrine's curse...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "与其关心这件事，您不如好好后悔吧，",
+      "jap": "それよりも、後悔なさいますな",
+      "eng": "Well, little sense in timidity now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "我这老太婆可是贪得无厌，到死了也无所谓啊。",
+      "jap": "婆めは死ぬほどに、ごうつくばりになるのですじゃ",
+      "eng": "I'll have thee for all thou'rt worth...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "……",
+      "jap": "ハハ…アハハハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "……",
+      "jap": "アハハハハ…ッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0在无火祭祀场第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "哎呀、哎呀，还真是稀奇，",
+      "jap": "これはこれは、珍しいこともあるものじゃ",
+      "eng": "Well, fancy that. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "钟没响，却有迷路的人出现。",
+      "jap": "鐘も鳴らぬに、迷い人とはの",
+      "eng": "A lost lamb wandereth in, with nary a peep from the bell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "……不过，看样子您很明白我老太婆是做什么的。",
+      "jap": "…だが、どうやら貴方様は、婆めが役目を知っていなさる",
+      "eng": "Well, thou shouldst my purpose know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "找我这个老太婆，有什么事啊？",
+      "jap": "婆めに、何か入り用ですかのう？",
+      "eng": "What can this old handmaid provide thee?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "哦，这可不是那欲望强烈、迷路的人吗。",
+      "jap": "ほう、これは欲深い迷い人じゃのう",
+      "eng": "Well, thou'rt exceeding lost indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "找我这个老太婆，有什么事啊？",
+      "jap": "婆めに、何か入り用ですかのう？",
+      "eng": "What can this old handmaid provide thee?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "您如果不是被诅咒束缚的话，",
+      "jap": "貴方様、呪いに囚われたくなければ",
+      "eng": "To skirt the curse's grasp...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "待再久也没有意义。",
+      "jap": "あまり長居は無用ですじゃ",
+      "eng": "...tarry not for long.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "现在已经暗下来，空无一人，\r\n火会静静地消逝。",
+      "jap": "今は暗く、誰もなくとも、\r\n火は静かに消えるもの",
+      "eng": "Tis dark for now, and not a soul stirs.\r\nBut remember, fires are known to fade in quiet. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "……还是您也为时已晚了呢？",
+      "jap": "…それとも、貴方様、もはや手遅れですかのう？",
+      "eng": "Or perhaps thou'rt captive already.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "就像那个女孩儿一样。",
+      "jap": "丁度あの娘のように",
+      "eng": "Like the poor girl.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "……",
+      "jap": "フフフッ…フフ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼女から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 103,
+      "chn": "您待再久也没有意义啊。",
+      "jap": "貴方様、あまり長居は無用ですじゃよ",
+      "eng": "Best not tarry long.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "……",
+      "jap": "ハ…ハ…ハハハハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "……",
+      "jap": "アァ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "……",
+      "jap": "アァ…！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "快住手啊！",
+      "jap": "やめるのじゃ！",
+      "eng": "Stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "……",
+      "jap": "ギャアアアアアアアア！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "##不过话说回来，您也明白，",
+      "jap": "##何より、貴方様はもうご存じだ",
+      "eng": "##And even temptation were to prevail...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "##我这老太婆\r\n可是很贪心的……",
+      "jap": "##この婆めの、\r\nごうつくばりを…",
+      "eng": "##I'd overlook a little mischief\r\nif thou would'st but thy purse-strings loosen...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "##嘻嘻、嘻嘻嘻……",
+      "jap": "##ヒヒッ、ヒヒヒッ…",
+      "eng": "##Kee hee hee...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "##咿嘻嘻……",
+      "jap": "##イッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "##噢噢，灰烬大人，欢迎您啊。",
+      "jap": "##ああ、ようこそ灰のお方",
+      "eng": "##Oh, you've picked a fine time to visit.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "##我老太婆刚准备好新商品，",
+      "jap": "##婆めが、ちょうど新たな品を用立てましたのじゃ",
+      "eng": "##I've just come upon some fine new wares.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "##您的直觉还真灵啊。",
+      "jap": "##貴方は、まこと勘のよろしい方じゃのう",
+      "eng": "##How is it thou seem'st privy to this knowledge?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "##……",
+      "jap": "##ハ…ハ…ハハハハ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

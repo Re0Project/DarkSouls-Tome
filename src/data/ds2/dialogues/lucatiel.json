@@ -1,6 +1,1047 @@
 {
   "npc": "lucatiel",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/lucatiel.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/lucatiel.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0在密港/遗忘囚笼/堆土塔/黑溪谷，第1次与鲁卡提耶见面时，第1次说话",
+      "jap": "#0話しかけた:候補地1:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……有事吗？",
+      "jap": "…何か用か",
+      "eng": "What is it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "虽然我不知道你是谁，不过最好别跟我扯上关系，",
+      "jap": "誰かは知らんが、あまり私に関わらぬ方がいい",
+      "eng": "I don't know you, and you don't know me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……这可是为你好。",
+      "jap": "…そのほうが身のためだ",
+      "eng": "Things are better that way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第1次与鲁卡提耶见面时，第2次说话",
+      "jap": "#0話しかけた:候補地1:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "呼……",
+      "jap": "ふー…",
+      "eng": "Phew...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "呵呵，真是奇怪的家伙，",
+      "jap": "フフッ、奇特な奴だな",
+      "eng": "Heh heh. You are an odd one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "看到戴着这么奇怪面具的人，\r\n居然还不怕危险地接近我。",
+      "jap": "こんな、怪しげな仮面をつけた者に、\r\n危ぶみもせず近づいてくるとは",
+      "eng": "Normally, people keep a safe distance\r\nwhen they see this mask. But you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "我的名字是鲁卡提耶，",
+      "jap": "私の名は、ルカティエルという",
+      "eng": "I am called Lucatiel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "我的出生地并非在此，\r\n而是必须从遥远东方的米勒越过山脉才能到达，",
+      "jap": "この地の生まれではない\r\n遠い東の地、ミラから山岳を越えてきた",
+      "eng": "From the land of Mirrah,\r\nto the far east. across the mountains.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "听说这里有着名为灵魂的特殊力量，",
+      "jap": "この地にはソウルという、特別な力があるという",
+      "eng": "They say Drangleic brims with powerful souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "我是为了探求它而来到此地。",
+      "jap": "私はそれを求めて、ここにやってきたのだ…",
+      "eng": "And so I came to claim my share.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "多兰古雷格……真是个奇妙的地方……",
+      "jap": "ドラングレイグ…噂以上に、奇妙な場所だ…",
+      "eng": "But what a strange place...Even the rumours did not prepare me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第1次与鲁卡提耶见面时，第3次说话",
+      "jap": "#0話しかけた:候補地1:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "你还真是个不可思议的家伙，\r\n亏我还一直刻意避开其他的人，",
+      "jap": "不思議な奴だな、お前は\r\n私は、ずっと人を避けてきたというのに",
+      "eng": "You are an odd one, indeed.\r\nI've always made a point of avoiding people.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "好久没有像这样跟人讲话了……",
+      "jap": "こんなに人と話したのは、久しぶりだ…",
+      "eng": "While you've made a point of engaging me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "看来你也是在旅行的途中，\r\n有需要的话我可以助你一臂之力，",
+      "jap": "お前も、旅の途中のようだな\r\nもし必要であれば、手を貸そう",
+      "eng": "I can see that you are mid-journey.\r\nIf you require assistance, I will help you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "我的国家米勒是一个骑士之国，\r\n我自己也有成为一名骑士的觉悟。",
+      "jap": "我が国ミラは、騎士の国\r\n私も、それなりの覚えはあるつもりだ",
+      "eng": "I come from Mirrah, a land of knights.\r\nMy sword is always ready.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "不需要客气，\r\n反正我的身体……呵呵呵……",
+      "jap": "遠慮する必要はない\r\nどうせ私の身など…フフフッ…",
+      "eng": "Don't hesitate to call upon me.\r\nWhatever happens, I won't be missed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0到达第2个见面地点时，第1次说话",
+      "jap": "#0話しかけた:候補地2:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "我还以为是谁呢，原来是你……\r\n你还是老样子，呵呵。",
+      "jap": "誰かと思えば、お前か…\r\n相変わらずのようだ、フフッ",
+      "eng": "I thought that might be you.\r\nYou haven't changed a bit, have you? Heh heh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "越往前迈进，在这个国家出现的尽是奇妙的东西……",
+      "jap": "進めば進むほど、この国は奇妙なものばかり現れる…",
+      "eng": "The longer I am here, the more madness I discover.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "虽然是个很惨的国家，\r\n不过随处可以看到过去繁华的踪影，",
+      "jap": "ひどい国だが、\r\nかつての栄華はそこかしこに見られる",
+      "eng": "A wretched place, indeed,\r\nbut not without traces of its former glory.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "在这块大地上，过去到底发生何事……",
+      "jap": "この地で、かつて何があったのか…",
+      "eng": "What could have caused such degradation?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0到达第2个见面地点时，第2次说话",
+      "jap": "#0話しかけた:候補地2:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "对了，我听说前些日子的事了，\r\n必须谢谢你才行，",
+      "jap": "そうだ、先日の話を聞いてくれた\r\n礼をしなければな",
+      "eng": "Ah, yes, I have not thanked you\r\nfor humouring me the other day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "这个给你吧。",
+      "jap": "これをお前にやろう",
+      "eng": "This is for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "话虽如此，其实我也完全不知道那个是什么，\r\n呵呵呵。",
+      "jap": "とは言え、それが何なのか、私にはさっぱりだがな\r\nフフフッ",
+      "eng": "Of course, I've no idea what it is.\r\nHeh heh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0到达第2个见面地点时，第3次说话",
+      "jap": "#0話しかけた:候補地2:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "我的国家米勒被各个国家所包围，\r\n是个经常身陷战乱的国家，",
+      "jap": "我が国、ミラは諸国に囲まれ、\r\n常に戦乱のただなかにある国",
+      "eng": "Our land of Mirrah is surrounded by enemies,\r\nand constantly at war.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "唯有加入骑士团在战场上立功，\r\n这才能称得上是独当一面。",
+      "jap": "騎士団に加わり、戦場で功をあげてこそ\r\n一人前として認められるのだ",
+      "eng": "There is only one way up in Mirrah.\r\nJoin the Order, and prove yourself in battle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "我并不是个幸福家庭出生的人，\r\n所以只能靠自己的力量来开拓一条道路，",
+      "jap": "私は、決して恵まれた身分ではない\r\nだからこそ、自らの力でしか世を切り拓く術はなかった",
+      "eng": "My family had little fortune, and no name.\r\nI had to carve out a piece of the world for myself...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "对主君的忠诚与剑技，\r\n这就是我的一切。",
+      "jap": "主への忠節と、剣の技\r\nそれが、私の全てだったのだ",
+      "eng": "...with two things.\r\nMy sword, and my loyalty to my Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0到达第2个见面地点时，第4次说话",
+      "jap": "#0話しかけた:候補地2:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "自幼开始，剑道就是我人生的一切，",
+      "jap": "幼い頃から、私には剣の道しか与えられなかった",
+      "eng": "I was raised to wield a sword from birth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "虽然过程很艰辛，\r\n不过我从来没有抱持任何疑问，",
+      "jap": "辛くはあった\r\nだが、それを疑問に思ったことはなかった",
+      "eng": "Life was hard,\r\nbut I never gave it a second thought.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "随着剑技修练和数度的参战……\r\n终于得到了我应有的地位。",
+      "jap": "技を修め、幾度かの戦にも出向き…\r\nおかげで、過分な地位を手に入れることもできた",
+      "eng": "I had swift success on the battlefield,\r\nand quickly attained respectable stature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "后来……我……",
+      "jap": "それが…私は…",
+      "eng": "And then I...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "我……为何会……",
+      "jap": "私は…何故こんなことに…",
+      "eng": "And then I came here...to...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0到达第2个见面地点时，第5次说话",
+      "jap": "#0話しかけた:候補地2:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "……你知道所谓的不死人吗？\r\n就是身躯被诅咒的人。",
+      "jap": "…お前は、不死というものを知っているか\r\nその身に呪いを得た者だ",
+      "eng": "Have you heard of the Undead?\r\nThese poor souls affected by the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "变成不死人的人，本身已经不是人类，\r\n随着诅咒会逐渐丧失理性和记忆，",
+      "jap": "不死となった者は、人ではなくなる\r\n次第に理性を、記憶を失っていく",
+      "eng": "An Undead gradually loses his humanity,\r\nuntil his wits degrade completely.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "到头来……会变成游魂并袭击他人，",
+      "jap": "そしてやがて…亡者となって他人を襲う",
+      "eng": "Finally, he turns Hollow, and preys upon others.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "若是到这个地步，就没任何办法能变回人类了。",
+      "jap": "そうなれば、もはや人に戻る術はない",
+      "eng": "And a Hollow can never be human again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "若想逃离这样的命运，就只有一个方法，\r\n那就是在这片大地上的灵魂之力……",
+      "jap": "だがそれを逃れうる力が、ただ一つだけあるという\r\nそれが、この地にあるというソウルの力だと…",
+      "eng": "One can skirt this wicked fate\r\nonly with the help of the souls found here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "虽然这只是个真假未明的传说……",
+      "jap": "真実かどうかもしれぬ、儚い噂話よ…",
+      "eng": "Assuming, of course, that the legends are true.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "即使如此……我也只能相信这个线索了……",
+      "jap": "それでも…私はもう、それにすがる他ないのだ…",
+      "eng": "I can only hope...that they are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0到达第2个见面地点时，第6次说话",
+      "jap": "#0話しかけた:候補地2:6回目",
+      "eng": "#0Talk-6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "抱歉……我本来没打算说这些的……",
+      "jap": "すまない…言うつもりではなかったのに…",
+      "eng": "I'm sorry...to burden you with talk of my fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "只是……我觉得有点累了……",
+      "jap": "ただ…私は、少し疲れたのだ…",
+      "eng": "I suppose I've grown weary these days.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0到达第3个见面地点时，第1次说话",
+      "jap": "#0話しかけた:候補地3:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "你还要继续你的旅程吗？",
+      "jap": "お前も、まだ旅を続けているのか",
+      "eng": "Still on the road, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "前些日子抱歉了，让你看到了我的丑态……",
+      "jap": "先日はすまなかった、醜いものを見せてしまった…",
+      "eng": "Sorry to have burdened you so.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "这是我的歉意，\r\n请你收下。",
+      "jap": "これは詫びだ\r\n取っておいてくれ",
+      "eng": "This is for you,\r\nby way of an apology.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0到达第3个见面地点时，第2次说话",
+      "jap": "#0話しかけた:候補地3:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "仔细想想，我晃神的情形似乎增加了，",
+      "jap": "気が付くと、ぼんやりしていることが増えた",
+      "eng": "I've found my thoughts growing hazy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "往昔的事物似乎也慢慢在脑海中淡去……",
+      "jap": "少しずつ、昔のことが薄れていくような…",
+      "eng": "My memories are fading, oldest first.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "这难道就是诅咒之力吗……",
+      "jap": "これが、呪いの力なのか…",
+      "eng": "The curse is doing its work upon me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "好恐怖……我……很害怕……",
+      "jap": "恐ろしい…私は…恐ろしいのだ…",
+      "eng": "I am frightened... Terribly so...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "如果一切都忘记的话……我……",
+      "jap": "何もかもが消えてしまったら…私は…",
+      "eng": "If everything should fade... What will be left of me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0到达第3个见面地点时，第3次说话",
+      "jap": "#0話しかけた:候補地3:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "我有一位哥哥，\r\n我们两个人一起学习剑技，",
+      "jap": "私には兄がいた\r\nふたりで共に剣を学んでいた",
+      "eng": "I had an older brother.\r\nWe learned to fence together.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "哥哥他即使在我的国家，\r\n也是一名剑术出类拔萃的高手，",
+      "jap": "兄はな、我が国でも\r\n随一の剣の腕の持ち主だったのだ",
+      "eng": "He became the most decorated swordsman\r\nin all of Mirrah.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "我完全比不上他，",
+      "jap": "私など、とても敵わない",
+      "eng": "I never even compared to him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "从以前到现在，我从未赢过他。",
+      "jap": "ついに一度も、勝ったことはなかったな",
+      "eng": "In fact, I never beat him, not once.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "不过……不过哥哥他有一天突然消失了，\r\n无论我怎么找，都不见他的身影，",
+      "jap": "しかし…しかし兄は、ある時急にいなくなった\r\nどこを探しても、見つからなかった",
+      "eng": "But then, one day...\r\nhe was gone, lost without a trace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "现在的我终于知道了，哥哥一定也是被诅咒……",
+      "jap": "今ならわかる、兄もきっと呪いに…",
+      "eng": "Now I'm certain. That he was taken, by the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0到达第3个见面地点时，第4次说话",
+      "jap": "#0話しかけた:候補地3:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "我希望有人能听听我的故事，",
+      "jap": "誰かに、聞いておいて欲しかったのだ",
+      "eng": "If only someone would hear my tale...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "相信哥哥他一定也曾造访这个国家，",
+      "jap": "兄もまた、この国を訪れているに違いない",
+      "eng": "My brother must have come here, too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "不过，我真不知道自己是否还能记得住这件事……",
+      "jap": "だが私は、それをもう覚えていられるか…",
+      "eng": "Soon, I may forget even about him...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0到达第4个见面地点时，第1次说话",
+      "jap": "#0話しかけた:候補地4:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "啊……是你啊……",
+      "jap": "ああ…お前か…",
+      "eng": "Oh... You...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "感觉脑袋好像一直很不清楚，\r\n哈哈哈……",
+      "jap": "何だか、頭がはっきりしないんだ\r\nハハハ…",
+      "eng": "My thoughts...are very...\r\nscattered...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0到达第4个见面地点时，第2次说话",
+      "jap": "#0話しかけた:候補地4:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "那个诅咒到底是什么呢……",
+      "jap": "呪いとは、何なのだろうな…",
+      "eng": "What is this curse?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "我最近一直在想诅咒的事情，\r\n虽然应该很快就会忘光了……",
+      "jap": "最近は、そればかりを考えている\r\nもっとも、すぐに忘れてしまうのだがな…",
+      "eng": "The question rings in my mind,\r\nbut I haven't the focus to answer it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0到达第4个见面地点时，第3次说话",
+      "jap": "#0話しかけた:候補地4:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "我很害怕失去\r\n自己的记忆和自我，",
+      "jap": "私は、失うことを恐れている\r\n記憶を、私自身を",
+      "eng": "Loss frightens me no end.\r\nLoss of memory, loss of self.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "假使有人说只要杀了你，\r\n就能够解开这个诅咒的话……",
+      "jap": "もし、お前を殺せば\r\nこの呪いが解けると言われたら…",
+      "eng": "If I were told that by killing you,\r\nI would be freed of this curse...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "我应该会毫不犹豫地拔出我的剑吧。",
+      "jap": "私はためらうことなく、剣を抜くのだろう",
+      "eng": "Then I would draw my sword without hesitation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "我希望活下去，\r\n希望有自我的活下去，",
+      "jap": "私は、生き続けたい\r\n私であり続けたいのだ",
+      "eng": "I don't want to die,\r\nI want to exist.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "为了这点……无论什么样的牺牲都……",
+      "jap": "そのためなら…何を犠牲にしても…",
+      "eng": "I would sacrifice anything, anything at all for this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "感觉真是丑恶和肤浅……",
+      "jap": "何と醜く、浅ましいことか…",
+      "eng": "It shames me, but it is the truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0到达第4个见面地点时，第4次说话",
+      "jap": "#0話しかけた:候補地4:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "我彷彿像是被囚禁了，\r\n被这个微小的自己囚禁了，",
+      "jap": "私は、囚われているのだ\r\nこのちっぽけな、自分自身に",
+      "eng": "Sometimes, I feel obsessed...\r\nwith this insignificant thing called \"self\".",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "即便如此，我还是不想失去自我。",
+      "jap": "だがそれでも、私は私を失いたくない",
+      "eng": "But even so, I am compelled to preserve it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "对吧！如果你是我的话，一定！……",
+      "jap": "そうだろう？もしお前が私と同じ立場なら、きっと…",
+      "eng": "Am I wrong to feel so? Surely you'd do the same, in my shoes?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "………………",
+      "jap": "…………",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "或许我们每一个人都被诅咒也不一定……",
+      "jap": "誰もが皆、呪われているのかもしれない…",
+      "eng": "Maybe we're all cursed...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "打从一出生开始……",
+      "jap": "生まれながらに…",
+      "eng": "From the moment we're born...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0到达安第尔之馆时，第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "你是……",
+      "jap": "お前は…",
+      "eng": "Who are you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "嗯……啊！抱歉，\r\n没错，你是……对吧……",
+      "jap": "あ…ああ、すまない\r\nそうだ、お前は…そうだったな…",
+      "eng": "Oh...No, forgive me...\r\nI know you... Yes, of course.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0到达安第尔之馆时，第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "旅途顺利吗？",
+      "jap": "旅は順調か？",
+      "eng": "How goes your journey?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "虽然我不知道你为了探求什么\r\n而来到这样的边境之地，",
+      "jap": "このような辺境の地に、何を求めてきたのか\r\n私が知る由もないが",
+      "eng": "I know not what you seek\r\nin this far-away land...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "不过希望你能一路平安。",
+      "jap": "お前の旅の無事を祈っているよ",
+      "eng": "But I pray for your safety.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "#0到达安第尔之馆时，第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 99,
+      "chn": "我的名字是鲁卡提耶，",
+      "jap": "私の名は、ルカティエル",
+      "eng": "My name is Lucatiel.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "希望你能记住我的名字，",
+      "jap": "お前に、私の名を覚えておいてほしい",
+      "eng": "I beg of you, remember my name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "假使我……",
+      "jap": "それすらも、いずれ私は…",
+      "eng": "For I may not myself...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#0在3个地点召唤鲁卡提耶完成战斗且存活后说话",
+      "jap": "#0話しかけた:3回以上白靈として召喚し、生存したままボスを倒している",
+      "eng": "#0Talk-Summoning her as White Phantom & defeating 3 bosses without dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 103,
+      "chn": "我希望你能收下这个，",
+      "jap": "お前に、これを受け取って欲しい",
+      "eng": "Please take these.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "我之所以还能保持清醒，\r\n全都是靠你的帮忙……",
+      "jap": "私がまだ、正気でいられるのは\r\nお前のおかげだからな…",
+      "eng": "Consider this thanks,\r\nfor keeping me sane...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "呜啊！",
+      "jap": "うわっ！",
+      "eng": "Eek!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "你想怎样！",
+      "jap": "なんのつもりだ！",
+      "eng": "What's become of you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "可恶！你给我安分点!!",
+      "jap": "貴様、いい加減にしろ！！",
+      "eng": "That will be quite enough!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "既然你想这样，没办法了……",
+      "jap": "貴様がその気なら、やむをえまい…",
+      "eng": "If this is your wish, so be it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 114,
+      "chn": "真是不怕教训……",
+      "jap": "性懲りもなく…",
+      "eng": "If you really insist...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 116,
+      "chn": "呜……感觉真不舒服……",
+      "jap": "くっ…後味の悪い…",
+      "eng": "Hmph... How sickening...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing her health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "没、没想到在这种地方……！",
+      "jap": "こ、このようなところで！",
+      "eng": "I won't die in this foul place!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 120,
+      "chn": "哥……哥哥……",
+      "jap": "あ…兄うえ…",
+      "eng": "Oh...my dear brother...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "##拜托你……哥哥他……",
+      "jap": "##頼む…兄を…",
+      "eng": "##Please...find my brother...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "###2（仅英文语音）你介意把它打开吗？#3",
+      "jap": "##…",
+      "eng": "##(No Caption) Would you mind opening this up?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "###2（仅英文语音）我从里面没办法打开！#3",
+      "jap": "##…",
+      "eng": "##(No Caption) I can't open it from the inside!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "###2（仅英文语音）那边的！能听到吗？#3",
+      "jap": "##…",
+      "eng": "##(No Caption) You there! Can you hear me!?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "###2（仅英文语音）我被困住了！#3",
+      "jap": "##…",
+      "eng": "##(No Caption) I'm trapped in here!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "###2（仅英文语音）抱歉麻烦你。#3",
+      "jap": "##…",
+      "eng": "##(No Caption) Sorry to trouble you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "###2（仅英文语音）我得防微杜渐了。#3",
+      "jap": "##…",
+      "eng": "##(No Caption) I should have taken further precautions.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "###2（仅英文语音）我这该死的天真。#3",
+      "jap": "##…",
+      "eng": "##(No Caption) I curse my naivete.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "###2（仅英文语音）哦，你好。感谢你的协助。#3",
+      "jap": "##…",
+      "eng": "##(No Caption) Oh, hello again. Thank you for your assistance.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

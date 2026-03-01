@@ -1,6 +1,1047 @@
 {
   "npc": "leonhard",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/leonhard.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/leonhard.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，你就是无火的余灰啊……",
+      "jap": "…ほう、貴公、火の無き灰だな…",
+      "eng": "Mm, Unkindled, are we...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你还打算老实地去找舍弃王位的薪王们，没错吧？",
+      "jap": "そして律儀にも、玉座を捨てた王を探している、そうだろう？",
+      "eng": "And fast on the trail of the Lords absconded?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……那么，这血红眼眸给你。",
+      "jap": "…だったら、赤い瞳をくれてやる",
+      "eng": "Then these red eyes are for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "为了使命、为了取得暂时的力量，\r\n去夺取余火吧。",
+      "jap": "使命のため、一時の力を手にするために、\r\n残り火を奪うがいい",
+      "eng": "Use them to pillage embers,\r\nand briefly heighten your strength, for your duty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "这才够称为无火的余灰啊。",
+      "jap": "それでこそ、火の無い灰というものよ",
+      "eng": "What else are unkindled ashes good for?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "为了取得暂时的力量，去夺取余火吧。",
+      "jap": "貴公、一時の力を手にするために、残り火を奪うがいい",
+      "eng": "Pillage embers, for briefly heightened strength, for your duty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "这才够称为无火的余灰啊。",
+      "jap": "それでこそ、火の無い灰というものよ",
+      "eng": "What else are unkindled ashes good for?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0获得发青舌头后，第1次交谈",
+      "jap": "#0話しかけた:青ざめた舌入手後:1回目",
+      "eng": "#0Talk-1st time after obtaning a Pale Tongue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "……好久不见了。",
+      "jap": "…貴公、久しぶりだな",
+      "eng": "Well, hasn't it been some time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我是无名指的李奥纳德。",
+      "jap": "俺は薬指のレオナール",
+      "eng": "I'm Leonhard, the Ringfinger.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "你还记得吗？我是之前在这里，交给你血红眼眸的人。",
+      "jap": "覚えているかな？先にこの場所で、赤い瞳を渡した者だ",
+      "eng": "Remember me? I slipped you those red eyes some time ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "……看来你很热衷此道，\r\n那我再告诉你一件事。",
+      "jap": "…励んでいるようだからな。\r\n教えてやろうと思ったのさ",
+      "eng": "You're making quite an effort of it.\r\nSo I thought you might like to know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "如果你想要完整的血红眼眸，",
+      "jap": "貴公、完全な赤い瞳、ひび割れぬそれが欲しいのなら",
+      "eng": "If you yearn for a proper red eye orb, one that is uncracked...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "就去把毁灭于黑暗的古老小国的幸存者──\r\n“吸魂鬼”杀了吧。",
+      "jap": "闇に滅んだ古い小国の生き残り、\r\nダークレイスを殺したまえ",
+      "eng": "Then kill the Darkwraith,\r\nsurvivor of the land swallowed by darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "那个人一直被囚禁在洛斯里克\r\n最深处的地下监牢……",
+      "jap": "奴は、ずっと囚われている。\r\nロスリックの、最も深い地下牢にな…",
+      "eng": "He has been a prisoner, for many ages.\r\nIn the deepest cell in all Lothric...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "喂，我明白你在想什么。\r\n你渴望入侵、渴望抢夺吧？",
+      "jap": "なあ、貴公、俺には分かる。\r\n侵入し、奪いたいのだろう？",
+      "eng": "I can see it in your eyes.\r\nIf you didn't invade, didn't pillage, whatever would you do?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0获得发青舌头后，第2次交谈",
+      "jap": "#0話しかけた:青ざめた舌入手後:2回目",
+      "eng": "#0Talk-2nd time after obtaning a Pale Tongue",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "如果你想要完整的血红眼眸，",
+      "jap": "貴公、完全な赤い瞳、ひび割れぬそれが欲しいのなら",
+      "eng": "If you fancy a proper red eye orb, one uncracked, untainted...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "就去把毁灭于黑暗的古老小国的幸存者──\r\n“吸魂鬼”杀了吧。",
+      "jap": "闇に滅んだ古い小国の生き残り、\r\nダークレイスを殺したまえ",
+      "eng": "Then kill the Darkwraith,\r\nsurvivor of the land swallowed by darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "那个人一直被囚禁在洛斯里克\r\n最深处的地下监牢……",
+      "jap": "奴は、ずっと囚われている。\r\nロスリックの、最も深い地下牢にな…",
+      "eng": "He has been a prisoner, for many ages.\r\nIn the deepest cell in all Lothric...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "喂，我明白你在想什么。\r\n你渴望入侵、渴望抢夺吧？",
+      "jap": "なあ、貴公、俺には分かる。\r\n侵入し、奪いたいのだろう？",
+      "eng": "I can see it in your eyes.\r\nIf you didn't invade, didn't pillage, whatever would you do?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0获得血红眼眸宝珠后，第1次交谈",
+      "jap": "#0話しかけた:赤い瞳のオープ入手後:1回目",
+      "eng": "#0Talk-1st time after obtaning a Red Eye Orb",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "……哦，你拿到真正的血红眼眸了。",
+      "jap": "…ほう、真の赤い瞳を手に入れたか",
+      "eng": "Ah-hah, you've found a proper red eye...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "太棒了，我果然没看错，你就是这种男人。",
+      "jap": "嬉しいよ。俺の見た通り、貴公はそういう男だ",
+      "eng": "Brilliant. I knew you were no ordinary man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "太棒了，我果然没看错，你就是这种了不得的女人。",
+      "jap": "嬉しいよ。俺の見た通り、貴公はそういう、堪らない女だ",
+      "eng": "Brilliant. I knew you were a dangerous woman.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "尽情入侵、尽情抢夺吧。",
+      "jap": "存分に侵入し、奪いたまえよ",
+      "eng": "Now invade and pillage all you like.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "……如果比起无聊的使命，你更好此道，\r\n就来成为指头吧。",
+      "jap": "…そしてもし、退屈な使命より、\r\nそれを望むようなら、貴公も指となりたまえ",
+      "eng": "And if you grow weary of your duty,\r\nyou, too, may become a Finger.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "来侍奉幽邃教堂的罗莎莉亚吧。",
+      "jap": "深みの聖堂で、ロザリアに仕えたまえよ",
+      "eng": "Come on, give yourself to Rosaria, of the Cathedral of the Deep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0获得血红眼眸宝珠后，第2次交谈",
+      "jap": "#0話しかけた:赤い瞳のオープ入手後:2回目",
+      "eng": "#0Talk-2nd time after obtaning a Red Eye Orb",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "你就尽情入侵、尽情抢夺吧。",
+      "jap": "貴公、存分に侵入し、奪いたまえよ",
+      "eng": "Now invade and pillage all you like.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "……如果比起无聊的使命，你更好此道，\r\n就来成为指头吧。",
+      "jap": "…そしてもし、退屈な使命より、\r\nそれを望むようなら、貴公も指となりたまえ",
+      "eng": "And if you grow weary of your duty,\r\nyou, too, may become a Finger.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "来侍奉幽邃教堂的罗莎莉亚吧。",
+      "jap": "深みの聖堂で、ロザリアに仕えたまえよ",
+      "eng": "Come on, give yourself to Rosaria of the Cathedral of the Deep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "……",
+      "jap": "ハハハハハ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "哦，你是怎么了？",
+      "jap": "ほう、貴公どうしたのだ？",
+      "eng": "What's wrong with you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "你听得到吗？听得到的话，就快住手。",
+      "jap": "聞こえているか？聞こえていたら、やめたまえよ",
+      "eng": "Can you even hear me? If you can, cease this at once.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "现在我还能原谅你。",
+      "jap": "今ならまだ、許してやるぞ",
+      "eng": "Before it's too late.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "……我终于明白了。",
+      "jap": "…貴公、よくわかったよ",
+      "eng": "I see, I see, as clear as day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "你仅仅是头饥饿的禽兽，",
+      "jap": "お前はただの飢えた獣",
+      "eng": "You are a vile, starved beast.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "还是个会危及她安全的东西！",
+      "jap": "彼女には、危険すぎるシロモノだ！",
+      "eng": "Much too dangerous for her!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "你这禽兽，搞清楚你龇牙相向的对象。",
+      "jap": "獣めが。噛みつく相手を間違えたな",
+      "eng": "You beast. You've trifled with the wrong knight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "……",
+      "jap": "クックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "怎么会，我……怎么可能……",
+      "jap": "バカな、この俺が…こんなところで…",
+      "eng": "Curses, I can't...die here...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "女神啊……",
+      "jap": "女神よ…",
+      "eng": "My dear Goddess...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0到达罗莎莉亚的寝室后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "……哦，你已经侍奉罗莎莉亚了啊。",
+      "jap": "…ああ、やはりロザリアに仕えたのだな",
+      "eng": "Ahh, so you've chosen to serve Rosaria after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "那你也是她的指头，而我的评价也会随之提升。",
+      "jap": "ならば貴公も彼女の指、俺の評価も高まるだろうさ",
+      "eng": "She will be pleased with me for finding her another Finger...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "……",
+      "jap": "ククク…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "……那么，我给你一个忠告：",
+      "jap": "…そして貴公、ひとつ忠告しておこう",
+      "eng": "But be warned, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "罗莎莉亚的指头，是为她献上舌头的家伙，",
+      "jap": "ロザリアの指は、ただ彼女に舌を捧げる者たち",
+      "eng": "Rosaria's Fingers need only fetch tongues for their mistress.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "并不被其他事物束缚。",
+      "jap": "それ以外は、何物にも縛られぬ",
+      "eng": "Otherwise, we are free, unchained.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "你要像黄指头一样认定别人是同伴，\r\n也随你高兴，",
+      "jap": "黄色指のように、\r\n互いを仲間と思いこむのは勝手だが",
+      "eng": "Like Yellowfinger,\r\nyou can choose to believe that all Fingers share camaraderie.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "但别要求他人配合你的想法。",
+      "jap": "それを信じ、また押し付けぬことだ",
+      "eng": "But do not force your romance upon the rest of us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "……",
+      "jap": "クックックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0到达罗莎莉亚的寝室后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "……所谓罗莎莉亚的指头，是指为她献上舌头的家伙，",
+      "jap": "…ロザリアの指は、ただ彼女に舌を捧げる者たち",
+      "eng": "Rosaria's Fingers need only fetch tongues for their mistress.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "并不被其他事物束缚。",
+      "jap": "それ以外は、何物にも縛られぬ",
+      "eng": "Otherwise, we are free, unchained.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "你要认定别人是同伴，也随你高兴，",
+      "jap": "互いを仲間と思いこむのは勝手だが",
+      "eng": "You are free to believe that all Fingers share camaraderie.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "但别要求他人配合你的想法。",
+      "jap": "それを信じ、また押し付けぬことだ",
+      "eng": "But do not force your romance upon the rest of us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "……",
+      "jap": "クックックックッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "你这东西，居然是她的指头啊。",
+      "jap": "貴公など、彼女の指であるものかよ",
+      "eng": "You are unbecoming of a Finger.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "不可饶恕，你这污秽的禽兽……",
+      "jap": "俺が許さん。穢らわしい獣めが…",
+      "eng": "Neither she, nor I, will have you, vile beast...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "你这禽兽，好好记在心里……",
+      "jap": "獣どもめ、心に刻んでおけよ…",
+      "eng": "You rotten beasts, don't you ever forget...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "你们到底……污蔑了什么……",
+      "jap": "お前たちが何を、穢しているのかを…",
+      "eng": "Just what it is you're ravaging...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0用漆黑眼眸宝珠入侵，靠近李奥纳德后",
+      "jap": "#0話しかけられた",
+      "eng": "#0After invading him as a Dark Phantom",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "……哦，没想到会看到你，真是吓人。",
+      "jap": "…ほう、まさか貴公がやってくるとは、驚きだな",
+      "eng": "Well, well, never expected to see you here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "对那种发烂的东西，你居然会有所欲望啊。",
+      "jap": "あの爛れきった何かに、欲情でもしていたものか",
+      "eng": "Couldn't resist her any longer, in all her festering glory?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "对那种发烂的东西，你居然会有所同情啊。",
+      "jap": "あの爛れきった何かに、同情でもしていたものか",
+      "eng": "Felt sorry for the poor thing, in all her festering glory?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "你真是不知满足，连她的灵魂都想污蔑。",
+      "jap": "飽き足らず、魂すらも、穢そうとは",
+      "eng": "And now you want to ravage her soul, as well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "……不过，既然是我播下的种，是该自己好好收拾。",
+      "jap": "…だが、これも俺が撒いた種。きっちりと刈り取るべきだろうな",
+      "eng": "I sowed the seeds. I'll prune the mess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "我以女神骑士李奥纳德之名在此发誓。",
+      "jap": "女神の騎士レオナールの、誓いにかけて",
+      "eng": "I, Leonhard, swear so upon my vows to the goddess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0被李奥纳德击杀后，再次用漆黑眼眸宝珠入侵，靠近李奥纳德时",
+      "jap": "#0話しかけられた:主人公が死亡後再戦時",
+      "eng": "#0After invading him as a Dark Phantom, after previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "……哦，你还不放弃啊。",
+      "jap": "…ほう、まだ諦めていなかったのか",
+      "eng": "Well, well, back for more, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "你就是这种男人，我果然没看错。",
+      "jap": "やはり貴公はそういう男だ。俺が見た通りにな",
+      "eng": "No ordinary man, are you. I knew it all along.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "你就是这种了不得的女人，我果然没看错。",
+      "jap": "やはり貴公はそういう、堪らない女だ。俺が見た通りにな",
+      "eng": "Vicious one, aren't you. I knew it all along.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "你真是不知满足，连灵魂都满是污秽。",
+      "jap": "飽き足らず、魂すらも、穢そうとは",
+      "eng": "And now you want to ravage her soul, as well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "……那时还能网开一面，但现在我就不能放过你。",
+      "jap": "…あの時は、それでよかった。だが今は、俺は貴公を看過できぬ",
+      "eng": "You are no longer of use. You'll run free no more.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "我以女神骑士李奥纳德之名在此发誓。",
+      "jap": "女神の騎士レオナールの、誓いにかけて",
+      "eng": "I, Leonhard, swear so upon my vows to the goddess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0攻击至血量低于60%时",
+      "jap": "#0攻撃した:HPが60%以下にした",
+      "eng": "#0After his health has dropped below 60%",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "她的灵魂决不会被任何人污蔑，",
+      "jap": "魂だけは、もう誰にも穢させぬ",
+      "eng": "No one will despoil her soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "更不用谈像你这种披了人皮的禽兽！",
+      "jap": "まして貴公のような、人皮の獣にはな！",
+      "eng": "Certainly no beast wrapped in human skin!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0攻击至血量低于30%时",
+      "jap": "#0攻撃した:HPが30%以下にした",
+      "eng": "#0After his health has dropped below 30%",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "你为什么如此渴求她的灵魂！",
+      "jap": "貴公、なぜ、魂までも求める！",
+      "eng": "What do you want with her soul?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "禽兽有肉体就该知足了吧！",
+      "jap": "獣どもには、肉体だけで十分だろう！",
+      "eng": "Isn't flesh enough for a sick beast!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "……快快放弃吧。",
+      "jap": "…諦めることだな、貴公",
+      "eng": "Enough with you, my friend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "女神的骑士永不败阵。",
+      "jap": "女神の騎士は、決して敗れぬ",
+      "eng": "A knight of the goddess does not die.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "#2（仅英文语音）赞美罗莎莉亚……#3",
+      "jap": "グワアアアァツ！",
+      "eng": "(No caption) Blessed Rosaira...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "##你还记得吗？我是之前在洛斯里克，交给你血红眼眸的人。",
+      "jap": "##覚えているかな？先にロスリックで、赤い瞳を渡した者だ",
+      "eng": "##Remember me? I slipped you those red eyes back in Lothric.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "##那个人一直被囚禁在\r\n这栋建筑物后方的塔中，最深处……",
+      "jap": "##奴は、ずっと囚われている。\r\nこの建物の裏手の塔、その最深にな…",
+      "eng": "##He has been a prisoner, for many ages.\r\nDeep below the tower, just behind us now...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##那个人一直被囚禁在\r\n这栋建筑物后方的塔中，最深处……",
+      "jap": "##奴は、ずっと囚われている。\r\nこの建物の裏手の塔、その最深にな…",
+      "eng": "##He has been a prisoner, for many ages.\r\nDeep below the tower, just behind us now...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "##……不过，那家伙居然会甘于待在这儿……",
+      "jap": "##…しかし、あ奴がこんなところにな…",
+      "eng": "##The stones on that bastard, to show his face round here...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "##这羊皮披得真是漂亮啊。",
+      "jap": "##よくもまあ、うまく猫を被るものだ",
+      "eng": "##Though he does well to hide his claws...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "##……",
+      "jap": "##クックックッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "##……那个浑蛋，还想得寸进尺到什么地步……",
+      "jap": "##…あの野郎、どこまで調子づくつもりだ…",
+      "eng": "##That bastard, who does he think he is?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "##那只猪……非得让他好好解释清楚。",
+      "jap": "##弁えさせねばならんな。豚の分というものを…",
+      "eng": "##He needs to be reminded. Of the grovelling pig that he is...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "##你不要多管闲事！",
+      "jap": "##貴公！余計な手出しはするなよ！",
+      "eng": "##Wait! Stay out of this!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "##这只猪做了该被宰的事！",
+      "jap": "##この豚は、殺されるだけの事をやった！",
+      "eng": "##This pig deserves his death!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "##如果你打算妨碍骑士处私刑，\r\n那连你也是我的敌人！",
+      "jap": "##騎士の私刑を邪魔だてするのなら、\r\n貴公とて俺の敵だ！",
+      "eng": "##If you dare question this knight's justice,\r\nan enemy of mine you shall be!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "##死在堆肥里吧！污秽的臭猪！",
+      "jap": "##肥溜めで眠れ！穢れた豚野郎め！",
+      "eng": "##Drown in your trough! You filthy pig!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "##……我应该跟你说过了。",
+      "jap": "##…貴公、言ったはずだな",
+      "eng": "##Didn't I tell you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "##罗莎莉亚的指头们，彼此并不是同伴。",
+      "jap": "##ロザリアの指は、互いに仲間などではない",
+      "eng": "##Rosaria's Fingers take no allegiance with one another.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "##而这只猪做了该被宰的事",
+      "jap": "##この豚は、殺されるだけの事をやったのだ",
+      "eng": "##And this pig fully deserved his death.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "##……至少我是这么认为的。",
+      "jap": "##…少なくとも、俺にとってはな",
+      "eng": "##At least, as far as I see it.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "##这样理由就很充分了吧？",
+      "jap": "##貴公、それで十分だろう？",
+      "eng": "##Isn't that enough for you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "##呵呵呵……",
+      "jap": "##クックックッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "##这只猪做了该被宰的事",
+      "jap": "##この豚は、殺されるだけの事をやったのだ",
+      "eng": "##This pig fully deserved his death.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "##……至少我是这么认为的。",
+      "jap": "##…少なくとも、俺にとってはな",
+      "eng": "##At least, as far as I see it.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "##这样理由就很充分了吧？",
+      "jap": "##貴公、それで十分だろう？",
+      "eng": "##Isn't that enough for you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "##……",
+      "jap": "##クックックッ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "##……",
+      "jap": "##アァア…ッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "##……",
+      "jap": "##グワアアアァツ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "##……你这恐怖的、贪心的禽兽……",
+      "jap": "##…貴公、恐ろしい、貪欲な獣め…",
+      "eng": "##You are a vile, rapacious beast...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "##我是千不该、万不该让你接触她……",
+      "jap": "##決して、近づけるべきではなかった…",
+      "eng": "##I should have never let you near her...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "##……",
+      "jap": "##ウッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "##……",
+      "jap": "##クッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

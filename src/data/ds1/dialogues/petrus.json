@@ -1,6 +1,1335 @@
 {
   "npc": "petrus",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/petrus.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/petrus.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "啊，您好啊，我们应该是第一次见面吧。",
+      "jap": "ああ、こんにちは。はじめまして、ですな",
+      "eng": "Hello there. I believe we are not acquainted?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是索尔隆德的佩特鲁斯，不知有何贵干？",
+      "jap": "ソルロンドのペトルスと申しますが、何か御用ですかな？",
+      "eng": "I am Petrus of Thorolund. Have you business with us?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……倘若没什么要事的话，我想我们之间最好还是井水不犯河水吧。",
+      "jap": "…御用がなければ　お互い、あまり関わらない方が宜しいでしょう",
+      "eng": "...If not, I'd prefer to keep a distance, if possible.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "啊，是您啊。",
+      "jap": "ああ、貴方ですか",
+      "eng": "Hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "我先前应该已经和您说过，我们最好是井水不犯河水……",
+      "jap": "関わらない方が宜しいと、申し上げたはずですが…",
+      "eng": "I realize that I have requested that we retain our distance,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "……算了，我能了解您的想法。\r\n我也不想太绝情。",
+      "jap": "…まあ、貴方のお気持ちも分かります\r\n私としても、無碍は好きではありません",
+      "eng": "But I also want you to know that\r\nit is not meant in ill-will.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "这是我的一点小心意。请您无论如何都要收下。",
+      "jap": "これは、私の気持ちです。どうか、とっておいてください",
+      "eng": "Here, take this. As a token of peace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "请收下，没关系的。完全不必客气。",
+      "jap": "さあ、いいのです。遠慮なんてなさらずに",
+      "eng": "No, go ahead. It's for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "啊，是您啊。",
+      "jap": "ああ、貴方ですか",
+      "eng": "Oh, hello...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "啊，对了！这样好了。",
+      "jap": "ああ、そうです。こうしましょう",
+      "eng": "Oh, I know. How about this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "我得在这边等伙伴前来会合，",
+      "jap": "私は、ここで少し人を待たなければならないのですが",
+      "eng": "I have to await my companions here anyway,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "不介意的话，我就趁着这段时间教您如何使用奇迹吧。",
+      "jap": "宜しければ、その間、貴方に奇跡をお教えしましょう",
+      "eng": "so, what if I were to teach you some miracles?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "您觉得如何呢？",
+      "jap": "どうですか？",
+      "eng": "Would that please you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0您打算怎么做？选择「否」，或选择「是」后选择「否」",
+      "jap": "#0話しかけた:3回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "那还真是遗憾，但这也是强求不来的事。",
+      "jap": "それは残念だ。でも仕方ありませんね",
+      "eng": "That is a shame. But each to their own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "如果您改变心意的话，请和我说一声。",
+      "jap": "気が変わったら声をかけてください",
+      "eng": "Speak to me if you have a change of heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:4回目・【NO】選択後",
+      "eng": "#0After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "啊，是您啊。",
+      "jap": "ああ、貴方ですか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "怎么了？您改变心意了吗？",
+      "jap": "どうしました？気が変わったのですか？",
+      "eng": "What is it? Have you changed your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:3回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "很好，既然如此，就请您先与神订下誓约……",
+      "jap": "宜しい。それでは、まず神の誓約を…",
+      "eng": "Very well. Then first, a Covenant with the Gods.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0您要订立誓约吗？选择「是」，或主角是圣职或骑士出身且保持白教誓约",
+      "jap": "#0話しかけた:3回目・【YES】選択後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 2nd query, or already belongs to the Way of White",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "那么，就来教导您如何使用奇迹吧。",
+      "jap": "では、貴方に奇跡をお教えしましょう",
+      "eng": "Now, let me share my Miracles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "不过……\r\n成果主要还是取决于您的努力和诚意。",
+      "jap": "もっとも…\r\n成果は、貴方の努力と、誠意次第ですよ",
+      "eng": "Only, their ultimate effectiveness\r\nwill be determined by your efforts, and your faith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0加入白教誓约后，第1次攀谈",
+      "jap": "#0話しかけた:白教誓約後1回目",
+      "eng": "#0Talk-1st time after joining or already belonging to the Way of White",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "啊，是您啊。",
+      "jap": "ああ、貴方ですか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "当然，我一定会教您如何使用奇迹。毕竟已经约定好了嘛。",
+      "jap": "勿論、奇跡をお教えしますよ。約束ですからね",
+      "eng": "I will teach you Miracles. A promise is a promise, after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0加入白教誓约后，第2次攀谈",
+      "jap": "#0話しかけた:白教誓約後2回目",
+      "eng": "#0Talk-2nd time after joining or already belonging to the Way of White",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "啊，是您啊。",
+      "jap": "ああ、貴方ですか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "您是想来学奇迹的吧？我看得出来。",
+      "jap": "奇跡ですね。分かっていますよ",
+      "eng": "Miracles, I presume? Yes, I know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "我在等的同伴，是我家大小姐，\r\n大小姐是我的主人，还有另外两位年轻的骑士。",
+      "jap": "待ち人は、私の主人の、\r\nお嬢様と、若い騎士たちなのです",
+      "eng": "My companions are M'lady\r\nand her young knights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "他们不但年轻，身上还背负着不死人的使命，",
+      "jap": "若くして、不死の使命を背負っていらっしゃる",
+      "eng": "She is young, but burdened by an Undead mission.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "而我的职责，便是保护并监督他们。",
+      "jap": "私は、彼らの守護、お目付け役というわけです",
+      "eng": "We are her defences, to keep her from harm.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "不死人的使命？",
+      "jap": "不死の使命、ですか？",
+      "eng": "An Undead mission?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "很遗憾，我无法向您透露那究竟是什么使命。",
+      "jap": "残念ですが、それは、申し上げられません",
+      "eng": "Regrettably, I cannot share that with you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "不过，您毕竟算是我的学生，倘若你的诚意够……",
+      "jap": "ただ、貴方は、私の教え子ですから、誠意次第では…",
+      "eng": "But you are my pupil, perhaps if you show your faith...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0您要展现出诚意吗？选择「否」",
+      "jap": "#0リストから選択:話すB・選択肢【NO】",
+      "eng": "#0Choose \"No\" to spending souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "唉，我很难启齿呢，毕竟我要守住使命的秘密……",
+      "jap": "まあ、でも、難しいですね。使命は秘匿されるべきですから…",
+      "eng": "I am afraid that may be difficult. For our missions are sacred.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0您要展现出诚意吗？选择「是」",
+      "jap": "#0リストから選択:話すB・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to spending souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "也是啦，毕竟您都开口了，我就告诉您吧。",
+      "jap": "そうですね、他ならぬ貴方です。お話しましょう",
+      "eng": "Very well. I can surely tell you, of all people...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "对圣职而言，不死人的使命主要便是探索“注火，”",
+      "jap": "聖職における不死の使命とは、まず「注ぎ火」の探索です",
+      "eng": "Undead clerics are given a mission to seek Kindling.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "“注火”就是借由人性，\r\n让不死营火烧得更旺的技艺。",
+      "jap": "「注ぎ火」は、人間性により、\r\n不死の篝火を育てる業",
+      "eng": "Kindling is the art of\r\nfeeding bonfires with humanity.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "这样会让我们\r\n获得英雄的能力。",
+      "jap": "それにより、\r\n我らは英雄の力を得るのです",
+      "eng": "Through Kindling,\r\nwe shall one day be granted magnificent powers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0蕾亚到达传火祭祀场后，第1次攀谈",
+      "jap": "#0話しかけた:聖女レアと合流後:1回目",
+      "eng": "#0Talk-1st time after Rhea arrived in Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "啊，是您啊。",
+      "jap": "ああ、貴方ですか",
+      "eng": "Oh, hello.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "我在等的同伴终于来了，",
+      "jap": "やっと、待ち人たちがきました",
+      "eng": "My guests have finally arrived.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "想必不久之后，应该就会和他们一起动身出发了吧。",
+      "jap": "もうすぐ、彼らと旅立つでしょう",
+      "eng": "I will be departing with them shortly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "能够再待在这边教您奇迹的日子，也所剩无几了。",
+      "jap": "貴方とも、もう、あまり長くはありませんね",
+      "eng": "So, I'm afraid I will be saying good-bye soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "真是令人遗憾。",
+      "jap": "残念です",
+      "eng": "It was a pleasure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0蕾亚到达传火祭祀场后，第2次攀谈",
+      "jap": "#0話しかけた:聖女レアと合流後:2回目",
+      "eng": "#0Talk-2nd time after Rhea arrived in Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "啊，又是您啊。",
+      "jap": "ああ、また貴方ですか",
+      "eng": "Oh, my... you again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "即使是怜悯，过度也会成为一种罪恶。",
+      "jap": "憐れみも、過ぎれば罪悪となります",
+      "eng": "Empathy, in excess, becomes a sin.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "您是个聪明人，相信你应该了解这道理吧？",
+      "jap": "貴方は賢いお方だ。お分かりになるでしょう？",
+      "eng": "But you already knew that...I should hope?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0蕾亚到达传火祭祀场后，第3次攀谈",
+      "jap": "#0話しかけた:聖女レアと合流後:3回目",
+      "eng": "#0Talk-3rd time after Rhea arrived in Firelink Shrine",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "啊，是您啊。",
+      "jap": "ああ、貴方ですか",
+      "eng": "Oh, you yet again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "再过不久，我们就要启程去完成使命了。",
+      "jap": "私どもは、もうすぐ使命に旅立ちます",
+      "eng": "We shall depart on our mission soon,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "大小姐终于下定了决心。",
+      "jap": "やっと、お嬢様が決心なされたのです",
+      "eng": "for M'lady has made her final decision.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "在此也要和您道别了，真是令人感到依依不舍呀。",
+      "jap": "貴方とも、お別れですね。ほんとうに、名残惜しいことです",
+      "eng": "So, I must say farewell, although with great regret.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "愿火指引您……",
+      "jap": "炎の導きを…",
+      "eng": "Vereor Nox",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0蕾亚到达传火祭祀场后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC・ソルロンドの聖女レアと合流後",
+      "eng": "#0Menu-Choose \"Talk\" after meeting Rhea",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "蕾雅大小姐是索尔隆德豪门家族的千金，",
+      "jap": "レア様は、ソルロンドの名家のご息女です",
+      "eng": "Reah is the youngest daughter of the good house of Thorolund.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "而那两位年轻的骑士可说是他的同学……",
+      "jap": "若い騎士たちは、いわゆるご学友ですか…",
+      "eng": "Those young knights are her old schoolmates,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "不过，说句实在的，",
+      "jap": "でも、どうなんでしょうね",
+      "eng": "But I'm not sure what to make of them...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "从我这样的人来看，他们并不是什么好的朋友就是了……",
+      "jap": "私などから見ると、あまりよい友人には思えませんねえ…",
+      "eng": "I'm afraid they may be a bad influence...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0从巨人墓地救出蕾亚前，第1次攀谈",
+      "jap": "#0話しかけた:聖女レア救出前:1回目",
+      "eng": "#0Talk-1st time before saving Rhea",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "……啊，啊啊，是您呀……",
+      "jap": "…あ、ああ、貴方でしたか",
+      "eng": "Uh, oh, you again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "呃，其实啊，我和大小姐走散了……",
+      "jap": "いや、それが、お嬢様とはぐれてしまいまして…",
+      "eng": "Me? Er, I've become separated from M'lady.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "虽然已经尽我一切所能，但还是找不到大小姐的踪影。",
+      "jap": "八方手を尽くしているのですが、見つかりません",
+      "eng": "I've scoured near and far, but no sight of her...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "大小姐究竟去哪里了……？",
+      "jap": "どこにいってしまったのか…",
+      "eng": "Where could she have gone?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "大小姐她……\r\n是我曾发誓，要拼上自身性命来保护的人……",
+      "jap": "お嬢様…\r\n私が命をかけてお守りすると、誓っておりましたものを…",
+      "eng": "M'lady...\r\nTo think I swore to protect you with my life...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0从巨人墓地救出蕾亚前，第2次攀谈",
+      "jap": "#0話しかけた:聖女レア救出前:2回目",
+      "eng": "#0Talk-2nd time before saving Rhea",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "啊啊，大小姐……您究竟去哪里了……？",
+      "jap": "ああ、お嬢様…どこにいってしまったのか…",
+      "eng": "Your Highness...where have you gone?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "没想到我紧紧跟着大小姐，竟然还会发生这种事……",
+      "jap": "私がついていながら、こんなことになるなんて…",
+      "eng": "I am entirely to blame for this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "啊，真是丢脸。我佩特鲁斯真是太不应该……",
+      "jap": "ああっ、情けない。すべてこのペトルスの不徳なのです…",
+      "eng": "Oh woe is me. I am unworthy, deathly so...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0从巨人墓地救出蕾亚前，第3次攀谈",
+      "jap": "#0話しかけた:聖女レア救出前:3回目",
+      "eng": "#0Talk-3rd time before saving Rhea",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "……啊，啊啊，您认识我所服侍的大小姐吗？",
+      "jap": "…あ、ああ、貴方。私のお嬢様を存じませんか？",
+      "eng": "...Ah, oh, you. Have you seen M'lady?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "啊啊，真不知道她人如今身在何处，一切平安与否……？",
+      "jap": "ああ、今頃、どこでどうしていらっしゃるのか…",
+      "eng": "Oh, blast, where might she be, and would she be safe...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0从巨人墓地救出蕾亚前，在营火休息后攀谈",
+      "jap": "#0話しかけた:聖女レア救出前:4回目",
+      "eng": "#0Talk-4th time before saving Rhea & resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "啊，真是不好意思。还是回到正题来教您奇迹吧。",
+      "jap": "ああ、すみません。奇跡ですね",
+      "eng": "Oh, I'm sorry. Miracles, was it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "……只能在这干著急，还真是丢脸。",
+      "jap": "…気が焦るばかりで、お恥ずかしい",
+      "eng": "...Sometimes I lose myself; pay me no mind!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0蕾亚在巨人墓地死亡后，第1次攀谈",
+      "jap": "#0話しかけた:聖女レア死亡後:1回目",
+      "eng": "#0Talk-3rd time killed Rhea in the Tomb of the Giants",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "您，您说什么！那，那么大小姐已经……",
+      "jap": "な、なんですと！で、では、お嬢様は、もう…",
+      "eng": "Are, are you sure?! Then M'lady...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "这究竟是怎么一回事！大小姐实在是太可怜了……",
+      "jap": "なんということでしょう！おいたわしいことです…",
+      "eng": "What terrifying news! What am I to do...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "都是因为我力有未逮……才发生这种事……",
+      "jap": "私の力が及ばないばかりに…こんなことに…",
+      "eng": "All because of my shortcomings...it is my fault...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "呜──",
+      "jap": "ククーッ",
+      "eng": "Sob...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "#0蕾亚在巨人墓地死亡后，第2次攀谈",
+      "jap": "#0話しかけた:聖女レア死亡後:2回目",
+      "eng": "#0Talk-4th time killed Rhea in the Tomb of the Giants",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 91,
+      "chn": "啊，真是不好意思。还是回到正题来教您奇迹吧。",
+      "jap": "ああ、すみません。奇跡ですね",
+      "eng": "Oh, I'm sorry. Miracles, was it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "……只能在这悲伤难过，还真是丢脸。",
+      "jap": "…悲しんでいるばかりで、お恥ずかしい",
+      "eng": "...I'm distracted by grief; pay me no mind!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0向罗特雷克购买情报后，从巨人墓地救出蕾亚前，第1次攀谈",
+      "jap": "#0話しかけた:聖女レア救出前・ロートレクから情報を聞いた:1回目",
+      "eng": "#0Talk-1st time after buying the tip from Lautrec, but before saving Rhea",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "……啊，是您啊。",
+      "jap": "…ああ、貴方ですか",
+      "eng": "Oh, hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "您应该是罗特雷克的同伴，对吧？",
+      "jap": "ロートレク殿の、お仲間なのでしょう？",
+      "eng": "Have you spoken with Sir Lautrec?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "那事情就好办了。大小姐现在就待在地下墓地深处的地下室，\r\n从巨人石棺往下滑就到了。",
+      "jap": "でしたら話は早い。お嬢様は、地下墓地の奥\r\n巨人の棺を滑り降りた先にある、穴倉の中にいます",
+      "eng": "Splendid. In the depths of the Catacombs,\r\nM'lady slipped off the giant's coffin and into a hole.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "她的两名随侍现在已经不再是人，\r\n想必正不知所措地独自哭泣吧？",
+      "jap": "お供の2人も今や人でなく\r\nお1人で泣いていらっしゃるでしょう",
+      "eng": "Her two companions are no longer human;\r\nand the lass weeps in solitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "您绝对可以轻松下手的。\r\n那只靠血统的小姑娘，肯定什么都不会……",
+      "jap": "貴方なら、簡単に自由にできますよ\r\n血筋ばかりの小娘に、何ができるはずもありませんからねえ…",
+      "eng": "Right now, you could do as you please with her.\r\nThe poor little purebred is entirely helpless.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "哼哼哼哼……",
+      "jap": "クックックックッ…",
+      "eng": "Keh heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0向罗特雷克购买情报后，从巨人墓地救出蕾亚前，第2次攀谈",
+      "jap": "#0話しかけた:聖女レア救出前・ロートレクから情報を聞いた:2回目",
+      "eng": "#0Talk-2nd time after buying the tip from Lautrec, but before saving Rhea",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "大小姐现在就待在地下墓地深处的地下室，\r\n从巨人石棺往下滑就到了。",
+      "jap": "お嬢様は、地下墓地の奥\r\n巨人の棺を滑り降りた先にある、穴倉の中にいます",
+      "eng": "In the depths of the Catacombs,\r\nM'lady slipped off the giant's coffin and into a hole.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "她的两名随侍现在已经不再是人，\r\n想必正不知所措地独自哭泣吧？",
+      "jap": "お供の2人も今や人でなく\r\nお1人で泣いていらっしゃるでしょう",
+      "eng": "Her two companions are no longer human;\r\nand the lady weeps in solitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "哼哼哼哼……",
+      "jap": "クックックックッ…",
+      "eng": "Keh heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#0向罗特雷克购买情报后，从巨人墓地救出蕾亚后攀谈",
+      "jap": "#0話しかけた:聖女レア救出後・ロートレクから情報を聞いた",
+      "eng": "#0Talk-After buying the tip from Lautrec & saving Rhea",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 105,
+      "chn": "……啊，是您啊。",
+      "jap": "…ああ、貴方ですか",
+      "eng": "...Oh, it's you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "……您救出大小姐啦。",
+      "jap": "…お嬢様を、助けられたのですな",
+      "eng": "...You rescued M'lady?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "虽然说我不知道您在打什么主意，但这全是白费力气。",
+      "jap": "何のつもりか分かりませんが、無駄なことでしたな",
+      "eng": "Well, a pity that is, for it will amount to nothing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "毕竟如果没有家世背景，\r\n那位小姑娘可就没有半点活着的价值了……",
+      "jap": "あんな小娘、家柄でもなければ\r\n生きて役立つこともありませんからねえ…",
+      "eng": "For the little madam is not worth her salt\r\nwithout her family name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "哼哼哼哼……",
+      "jap": "クックックックッ…",
+      "eng": "Keh heh heh heh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "#0互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 111,
+      "chn": "欢迎您再来。",
+      "jap": "またいらっしゃい",
+      "eng": "Come again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "学习的成果如何，关键是在诚意多寡喔。",
+      "jap": "教えの成果は、なにより誠意次第ですよ",
+      "eng": "The effectiveness of the teachings depend upon your faith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 114,
+      "chn": "呃！",
+      "jap": "グッ！",
+      "eng": "Hrg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 116,
+      "chn": "呜！",
+      "jap": "ウッ！",
+      "eng": "Ooh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "呜！",
+      "jap": "ムウッ！",
+      "eng": "Mrgm!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 120,
+      "chn": "哇！",
+      "jap": "グワッ！",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 122,
+      "chn": "想干什么，愚昧之徒！",
+      "jap": "何のつもりだ、ばか者が！",
+      "eng": "By the Lords! You damn fool!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "我再也容忍不了你了！让你见识见识神力！",
+      "jap": "もう許さんぞ！神の威を知るがいい！",
+      "eng": "Enough of you! Feel the wrath of the gods!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 125,
+      "chn": "怎，怎么会……我不要死……",
+      "jap": "そ、そんな…いやだ…",
+      "eng": "N...no...this can't be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "我怎么可能会在这种地方……",
+      "jap": "なんだって、こんなところで…",
+      "eng": "It can't end like this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "#0向罗特雷克购买情报后，第1次受到攻击时",
+      "jap": "#0攻撃した:1回目・ロートレクから情報を聞いた",
+      "eng": "#0Upon being attacked-1st time, after buying the tip from Lautrec",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 128,
+      "chn": "呃！",
+      "jap": "グッ！",
+      "eng": "Hrgkt!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "#0向罗特雷克购买情报后，第2次受到攻击时",
+      "jap": "#0攻撃した:2回目・ロートレクから情報を聞いた",
+      "eng": "#0Upon being attacked-2nd time, after buying the tip from Lautrec",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 130,
+      "chn": "呜！",
+      "jap": "ウッ！",
+      "eng": "Ooph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "#0向罗特雷克购买情报后，第3次受到攻击时",
+      "jap": "#0攻撃した:3回目・ロートレクから情報を聞いた",
+      "eng": "#0Upon being attacked-3rd time, after buying the tip from Lautrec",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 132,
+      "chn": "呜！",
+      "jap": "ムウッ！",
+      "eng": "Mnph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "#0向罗特雷克购买情报后，第4次受到攻击时",
+      "jap": "#0攻撃した:4回目・ロートレクから情報を聞いた",
+      "eng": "#0Upon being attacked-4th time, after buying the tip from Lautrec",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 134,
+      "chn": "哇！",
+      "jap": "グワッ！",
+      "eng": "Argh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "#0向罗特雷克购买情报后，攻击罗特雷克导致敌对时",
+      "jap": "#0敵対状態になった:ロートレクから情報を聞いた",
+      "eng": "#0Upon being attacked & made hostile, after buying the tip from Lautrec",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 136,
+      "chn": "你这愚蠢之徒究竟打算做什么？牵挂着那些无聊的感情吗？",
+      "jap": "何のつもりだ、愚か者が。下らん情にでも絆されたか",
+      "eng": "What is it, fool? Driven to madness by emotion?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "无所谓，那我就让你也沦落为游魂吧！",
+      "jap": "まあいい。貴様も亡者に落としてやる！",
+      "eng": "So be it. You'll make a fine Hollow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "你就和他们一起快乐地大跳腐烂之舞吧！",
+      "jap": "仲良く腐れダンスでも踊るがいい！",
+      "eng": "You can waltz in the infernal depths together!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "#0向罗特雷克购买情报后被佩特鲁斯击杀时",
+      "jap": "#0敵対状態で主人公が死亡した:レア救出後・ロートレクから情報を聞いた",
+      "eng": "#0Upon killing the protagonist, after buying the tip from Lautrec",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 140,
+      "chn": "白痴……究竟打算做什么蠢事……",
+      "jap": "阿呆が…なんのつもりだったのか…",
+      "eng": "Fool...What were you thinking?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "狼就藏身于羊群之中，\r\n游魂可得多加留心呀……",
+      "jap": "狼は羊の中にいる。\r\n亡者では、気をつけることだな…",
+      "eng": "Too bad for you, I'm a wolf in sheep's clothing.\r\nBest of luck as a Hollow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "哇──哈哈哈！",
+      "jap": "ウェーハッハッハッ！",
+      "eng": "Gah hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "#0向罗特雷克购买情报后击杀佩特鲁斯时",
+      "jap": "#0殺害した:ロートレクから情報を聞いた",
+      "eng": "#0Upon dying after spending souls on the tip from Lautrec",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 144,
+      "chn": "呃，为什么……为什么我会……",
+      "jap": "クッ、なぜだ…なぜ私が…",
+      "eng": "Rrk! Why...how could I...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "我究竟……做错了什么……",
+      "jap": "私が何をしたって…いうんだ…",
+      "eng": "What the...what did I do wrong...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "##救命呀！",
+      "jap": "##助けてください！",
+      "eng": "##Help me!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "##谁来救救我！",
+      "jap": "##誰か！助けてください！",
+      "eng": "##Somebody! Help me!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "##我动弹不得了！",
+      "jap": "##動けないんです！",
+      "eng": "##I am trapped!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "##啊……请您救救我吧……",
+      "jap": "##ああ、貴方…助けてください…",
+      "eng": "##You there, please, help me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "##正如您所看到的，我中了陷阱动弹不得。",
+      "jap": "##見ての通り捕らわれて、動けないんです",
+      "eng": "##As you can see I am captured, immobilized.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "##再这样下去，我就会被当成尸术的祭品。",
+      "jap": "##このままでは、屍術の贄にされてしまいます",
+      "eng": "##Soon to be a sacrifice to necromancy.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "##求求您……请救我出去吧……",
+      "jap": "##お願いです…助けてください…",
+      "eng": "##I implore you...please help...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "##呜……",
+      "jap": "##ウッ…",
+      "eng": "##Ooh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "##呼……得救了。",
+      "jap": "##ふう…助かりました",
+      "eng": "##Phew...I am saved.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "##真是感激不尽，您是我的救命恩人。",
+      "jap": "##ありがとう。貴方は恩人です",
+      "eng": "##Thank you. I owe you my life.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "##我的名字是索尔隆德的佩特鲁斯，",
+      "jap": "##私はソルロンドのペトルスと申します",
+      "eng": "##I am Petrus of Thorolund.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "##等回到祭祀场之后，我一定要好好地答谢您一番。",
+      "jap": "##祭祀場に戻ったら、是非、お礼をしましょう",
+      "eng": "##I will be sure to repay you, back at Firelink Shrine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "##请您千万不要推却。",
+      "jap": "##遠慮なんて必要ありませんよ",
+      "eng": "##Please, no, it's the least that I can do.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "##请您别着急，",
+      "jap": "##焦らないでください",
+      "eng": "##Please, rest assured.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "##等回到祭祀场之后，我自然会好好答谢您的恩情。",
+      "jap": "##お礼は、祭祀場に戻ってからです",
+      "eng": "##I shall repay you, but back at Firelink Shrine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "##贪婪可是天神严禁的罪孽啊。",
+      "jap": "##貪欲は、神が厳に戒めるところですよ",
+      "eng": "##The Gods do not look favourably upon haste!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 162,
+      "chn": "##我们和您一样，\r\n也肩负着使命呢。",
+      "jap": "##あるいは、貴方もそうであるように\r\n私どもも、使命を帯びているのですよ",
+      "eng": "##We are on a mission, as you likely are too.\r\nA very important one at that.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "##对于我们大小姐来说，那是十分重要的使命。\r\n相信您应该也能了解吧？",
+      "jap": "##お嬢様にとっては、大事な使命です\r\n貴方もお分かりになるでしょう？",
+      "eng": "##Especially for M'lady.\r\nSurely you can understand?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "##不用说，我一定会送您谢礼。毕竟我们约定好了嘛。",
+      "jap": "##勿論、お礼は差し上げますよ。約束ですからね",
+      "eng": "##Of course I will repay you. I gave you my word.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "##不过，究竟要送什么才好呢……",
+      "jap": "##でも、何がよろしいでしょうか…",
+      "eng": "##I'm just not sure what would do...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

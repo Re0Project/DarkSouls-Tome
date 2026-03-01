@@ -1,6 +1,1135 @@
 {
   "npc": "cornyx",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/cornyx.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/cornyx.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哦，你是……无火的余灰啊。",
+      "jap": "ほう、君は…火の無い灰だね",
+      "eng": "Ah-hah, Unkindled are we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "欢迎来到我家。",
+      "jap": "我が家へようこそ",
+      "eng": "Welcome to my abode.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我是柯弭库斯，是位老咒术师。",
+      "jap": "私はコルニクス。古い呪術師だ",
+      "eng": "I am Cornyx, an old pyromancer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "现在就像你看到的──是个笼中老鸦……",
+      "jap": "そして今はこの通り、籠の鴉というわけだが…",
+      "eng": "A crow in his cage, as you see, now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "不过总有几次有趣的邂逅嘛。",
+      "jap": "どうして、面白い出会いもあったものだ",
+      "eng": "But here we are, an encounter for the ages!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……",
+      "jap": "ハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "喂，我问你，我听说无火的余灰是接纳事物的容器，",
+      "jap": "なあ、君、火の無い灰は器と聞く",
+      "eng": "I hear the Unkindled make for fine vessels.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "怎么样？想不想跟着我这老头子，学习咒术啊？",
+      "jap": "どうかね？この老人から、呪術の業を学ぶ気はないかね？",
+      "eng": "Care to learn some pyromancies from this old man?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0玩家是咒术师出身时，第1次交谈",
+      "jap": "#0話しかけた:1回目・主人公が呪術師",
+      "eng": "#0Talk-1st time if chosen the Pyromancer class",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "哦，你是……无火的余灰啊。",
+      "jap": "ほう、君は…火の無い灰だね",
+      "eng": "Ah-hah, Unkindled are we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "欢迎来到我家。",
+      "jap": "我が家へようこそ",
+      "eng": "Welcome to my abode.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "我是柯弭库斯，是位老咒术师。",
+      "jap": "私はコルニクス。古い呪術師だ",
+      "eng": "I am Cornyx, an old pyromancer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "现在就像你看到的──是个笼中老鸦……",
+      "jap": "そして今はこの通り、籠の鴉というわけだが…",
+      "eng": "A crow in his cage, as you see, now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "不过总有几次有趣的邂逅嘛。",
+      "jap": "どうして、面白い出会いもあったものだ",
+      "eng": "But here we are, an encounter for the ages!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "……",
+      "jap": "ハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "喂，我问你，我听说无火的余灰是接纳事物的容器，",
+      "jap": "なあ、君、火の無い灰は器と聞く",
+      "eng": "I hear the Unkindled make for fine vessels.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "而且啊，你身为咒术师，还是个半吊子吧？",
+      "jap": "それに君も、どうやら呪術師の端くれだろう？",
+      "eng": "You've been dabbling in pyromancies, it seems?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "怎么样？想不想跟着我这老头子，把咒术学得更精一点儿啊？",
+      "jap": "どうかね？この老人から、更なる呪術を学ぶ気はないかね？",
+      "eng": "Well then, care to learn some pyromancies from this old man?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0选择「不学习」",
+      "jap": "#0話しかけた:1回目・選択肢【学ばない】",
+      "eng": "#0Choose \"Decline\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "……",
+      "jap": "フッフッフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "你还真笨，\r\n人说老乌鸦才有这般智慧啊。",
+      "jap": "君は愚かだ。\r\n老いた鴉は、それなりの知恵を持つものだよ",
+      "eng": "Most foolish.\r\nThis old crow has a little knowledge of his own, you know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "唉，不了解也罢。",
+      "jap": "まあ、分からずとも仕方ない",
+      "eng": "Bah. No sense in spelling it out.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "这事情也急不得，如果你脑袋变聪明了，再过来吧。",
+      "jap": "急ぐ話でもなかろうて。賢くなったら、またきたまえよ",
+      "eng": "I will not rush you. You will return, once you are enlightened.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "毕竟我们俩都是不死人，\r\n虽然也是因为这样被束缚了。",
+      "jap": "互いに不死、\r\nそして囚われてもいるのだからな",
+      "eng": "We are, after all, both Undead.\r\nAnd both prisoners, in our own ways.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "……",
+      "jap": "フッフッフッフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0选择「不学习」后交谈",
+      "jap": "#0話しかけた:2回・目【学ばない】選択後",
+      "eng": "#0Talk-2nd time after choosing \"Decline\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "哦，是你啊，真快啊。",
+      "jap": "ほう、君か。早かったな",
+      "eng": "Well, hello, That was certainly quick.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "然后呢？有没有稍微变聪明点儿？",
+      "jap": "それで、少しは賢くなったのかね？",
+      "eng": "Are you any more enlightened on this occasion?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0选择「不学习」，主角离开不死聚落后，返回交谈",
+      "jap": "#0話しかけた:2回・目【学ばない】選択後、しばらくしてから",
+      "eng": "#0Talk-2nd time after choosing \"Decline\", after the protagonist leaves & returns",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "哦，是你啊，真慢啊。",
+      "jap": "ほう、君か。遅かったな",
+      "eng": "Well, hello. You certainly took your time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "然后呢？有没有稍微变聪明点儿？",
+      "jap": "それで、少しは賢くなったのかね？",
+      "eng": "Are you any more enlightened on this occasion?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0选择「学习咒术」",
+      "jap": "#0話しかけた:1回目・選択肢【呪術を学ぶ】",
+      "eng": "#0Choose \"Ask to learn pyromancy\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "……",
+      "jap": "ハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "你很聪明，懂得所谓奇货可居。",
+      "jap": "君は賢い。出会いは奇貨、故におくべしというものだ",
+      "eng": "Most wise. A chance encounter should not be squandered.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "那么，我是大沼的柯弭库斯，",
+      "jap": "改めて、私は大沼のコルニクス",
+      "eng": "To reiterate, I am Cornyx, of the Great Swamp.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "请多指教了。",
+      "jap": "よろしく頼むよ",
+      "eng": "The pleasure is mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "……",
+      "jap": "フッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "……",
+      "jap": "ハァッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "……",
+      "jap": "ホゥッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "你想干什么？",
+      "jap": "君、なんのつもりだ？",
+      "eng": "What are you doing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0被击杀时",
+      "jap": "#0攻撃されて死亡した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "你做这种事，到底有什么好处？",
+      "jap": "それで君、これで何か益があるのかね？",
+      "eng": "Little bird, what's to be gained?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0返回传火祭祀场后，第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "哎呀，回来了，无火的余灰啊。",
+      "jap": "やあ、戻ったな。火の無い灰よ",
+      "eng": "Ahh, there you are, Unkindled One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "首先，我先感谢你。",
+      "jap": "まず、君に感謝をしておこう",
+      "eng": "I wish to express my gratitude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "我身为咒术师也是敬陪末座，听人说是营火──\r\n能看到那么神秘的火焰，真是三生有幸。",
+      "jap": "私も呪術師の端くれ。話に聞く篝火、\r\nあの神秘の火に見えるのは、まさに僥倖というものだ",
+      "eng": "For trusting a lowly pyromancer,\r\nand allowing me to gaze upon this majestic flame.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "……就如同我答应你的，我要教你咒术。",
+      "jap": "…そして約束通り、君に呪術を教えよう",
+      "eng": "As promised, I will impart pyromancies to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "首先，对你来说，火也是不可或缺的。",
+      "jap": "まずは君にも、火が必要だな",
+      "eng": "But first, you'll need a flame of your own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "小心点儿，不要害得自己被火烧光了。",
+      "jap": "自分が焼き尽くされぬよう、注意したまえよ",
+      "eng": "Careful you don't burn yourself with it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "……",
+      "jap": "フッフッフッフッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0返回传火祭祀场后，第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "哎呀，回来了，无火的余灰啊。",
+      "jap": "やあ、戻ったな。火の無い灰よ",
+      "eng": "Ahh, there you are, Unkindled One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "师父最喜欢勤奋学习的弟子了。",
+      "jap": "師としても、熱心な弟子は歓迎だぞ",
+      "eng": "I am pleased to have a pupil as dedicated as you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "……",
+      "jap": "ハッハッハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0未交出咒术书时，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA・呪術書を渡す前",
+      "eng": "#0Menu-Choose \"Talk\" 1st time before giving him a Pyromancy Tome",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "说到学习咒术，我是师父，而你是弟子。",
+      "jap": "君が呪術を学ぶなら、私は師、君は弟子だ",
+      "eng": "To learn pyromancies, you must vow to become my pupil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "就是这么一回事，\r\n哎呀，就当作是卖给我这老头面子吧。",
+      "jap": "昔からそういうものなのだよ。\r\nその気がなくても、まあ、老人をたてておきたまえ",
+      "eng": "I know, I know, but such is the way of the world.\r\nRespect your elders, and so on.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "不讲咒术，在这世上做人处事就是这样。",
+      "jap": "呪術ならずとも、それが処世というものだぞ",
+      "eng": "And pyromancy, of course, is no exception.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "……",
+      "jap": "ハハハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0未交出咒术书时，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB・呪術書を渡す前",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time before giving him a Pyromancy Tome",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "对了，如果你想要学习更高阶的咒术，\r\n那你需要有咒术书。",
+      "jap": "ああ、君がもし、より上位の呪術を学ぼうと思うなら、\r\n呪術書が必要だ",
+      "eng": "Oh, we'll need a pyromancy tome\r\nto learn more advanced pyromancies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "虽然这是旁门左道，\r\n不过是条最快的捷径。",
+      "jap": "異端だが、\r\nそれが一番の早道だろう",
+      "eng": "Though unorthodox,\r\nthat would be the most expedient way to make progress.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "如果这里是大沼，我就会说\r\n“你有那个时间找书，还不如去做些严酷的修行”啊。",
+      "jap": "ここが大沼で、君にその時間があるのなら、\r\n厳しい修行もよいのだがな",
+      "eng": "If this were the Great Swamp, and you had the luxury of time,\r\nwe could have trained you the hard way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "……",
+      "jap": "ハハハハハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0互动列表-选择「交出咒术书」-选择「交出大沼咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(大沼の呪術書)",
+      "eng": "#0Menu-Choose \"Give Pyromancy Tome\" & \"Great Swamp Pyromancy Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "哦，就是这个，好怀念啊。",
+      "jap": "おう、これだこれだ。懐かしい",
+      "eng": "Yes, here we are. It's been long indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "只要有这本，我就能教你高阶咒术了。",
+      "jap": "これがあれば、君に上位の呪術を教えられる",
+      "eng": "With this, I can teach you more sophisticated pyromancies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "太好了，这下子我暂时能以师父的高姿态好好照顾你了。",
+      "jap": "よかったよ。これでまた暫くは、師として偉ぶれるというものだ",
+      "eng": "Splendid. I can boast I am your tutor a little longer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "……",
+      "jap": "ハッハッハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0互动列表-选择「交出咒术书」-选择「交出卡萨斯咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(カーサスの呪術書)",
+      "eng": "#0Menu-Choose \"Give Pyromancy Tome\" & \"Carthus Pyromancy Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "哦，这个……我还是第一次看到。",
+      "jap": "ほう、これは…初めて見る",
+      "eng": "Well, well...I've never seen anything like this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "这名字……是地下墓地的咒术书啊……",
+      "jap": "この銘は…地下墓の呪術書か…",
+      "eng": "This inscription...this tome is from the Catacombs.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "真有趣，这就是教学相长的乐趣吧。",
+      "jap": "面白い。共に学ぶのも、師弟の興というものだろう",
+      "eng": "Fascinating. On this day, the teacher learns alongside the pupil.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "……",
+      "jap": "ハッハッハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0互动列表-选择「交出咒术书」-选择「交出伊札里斯咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(イザリスの呪術書)",
+      "eng": "#0Menu-Choose \"Give Pyromancy Tome\" & \"Izalith Pyromancy Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "哦哦，这不是！这不是伊札里斯的咒术书吗！",
+      "jap": "おお、これは！イザリスの呪術書か！",
+      "eng": "Ah, what have we here! A pyromancy tome from Izalith!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "你找到咒术的故乡了吗？",
+      "jap": "君は見つけたのだな、呪術の故郷を",
+      "eng": "Then you've found the home of pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "太棒了，想想我既是个老头又是不死人，真是件好事。",
+      "jap": "素晴らしい。老いてなお不死、悪くないというものだ",
+      "eng": "Brilliant. I will never curse being old and Undead again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "来吧，快点让我瞧瞧，然后再一起好好学习切磋吧。",
+      "jap": "さあ、早く私に見せてくれ。そして、共に触れようではないか",
+      "eng": "Now, now, show it here, quickly. Let us channel them together.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "这是只有远古的札拉曼先师才通晓的原始咒术啊！",
+      "jap": "古くザラマン師のみが知り得たという、原初の呪術に！",
+      "eng": "The primal pyromancies known only to old Master Salaman!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0互动列表-选择「交出咒术书」-选择「交出克拉娜的咒术书」",
+      "jap": "#0リストから選択:呪術書を渡す(クラーナの呪術書)",
+      "eng": "#0Menu-Choose \"Give Pyromancy Tome\" & \"Quelana Pyromancy Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "哦哦，这个是……",
+      "jap": "おお、これは…",
+      "eng": "Ahh, what have we here...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "真不敢相信，作者名克拉娜，\r\n是古代神明、伊札里斯魔女中的一人……",
+      "jap": "信じられん。この銘はクラーナ、\r\n古い神、イザリスの魔女の一人だ…",
+      "eng": "By the gods. This inscription reads Quelana,\r\nthe ancient deity, one of the witches of Izalith...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "是最后的魔女，也是流浪者。\r\n到最后一刻，她还是回到故乡了吗",
+      "jap": "最後の魔女、放浪者。\r\n最後には故郷に戻っていたか",
+      "eng": "The last of them, who wandered the lands.\r\nThen she must have returned to Izalith, after all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "……不过很可惜，这本书我没办法收下。",
+      "jap": "…だが、残念だよ。私はこれを受け取れない",
+      "eng": "But I regret to say, I cannot accept this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "克拉娜所用的是魔女的咒术，\r\n只有女师父才能教。",
+      "jap": "クラーナの呪術は、魔女のもの。\r\n女を師としてしか、学ぶことはできないのだ",
+      "eng": "Quelana's pyromancies are for witches,\r\nand must be learned from a mistress.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "不过你啊，你还真是找到了好东西。",
+      "jap": "だが、君よ。よいものを見せてくれた",
+      "eng": "But thank you, for allowing me to peer upon such a thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "还有，很抱歉我不是女人啊。",
+      "jap": "そして、私が女でなくすまなかったな",
+      "eng": "If only I were a woman.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "……",
+      "jap": "ハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0互动列表-选择「交出咒术书」-选择「交出守墓人咒术书」",
+      "jap": "#0リストから選択:呪和書を渡す(墓守の呪術書)",
+      "eng": "#0Menu-Choose \"Give Pyromancy Tome\" & \"Grave Warden Pyromancy Tome\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "……我不能收下这本书。",
+      "jap": "…君、これは、受け取れんよ",
+      "eng": "I'm afraid I cannot accept this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "这本咒术书是黑暗──是以人心底层\r\n不可触碰的火焰催生而成的。",
+      "jap": "この呪術書は闇、人の奥底、\r\n触れざる火を熾すものだ",
+      "eng": "This pyromancy tome is dark, and delves into the depths of men,\r\nwhere an untouchable flame resides.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "真是抱歉，我没办法教你，\r\n应该说我没办法认同这个咒术啊。",
+      "jap": "すまんが、私には教えられん。\r\nそもそも、理解もできぬだろう",
+      "eng": "I cannot comprehend this myself,\r\nlet alone teach it to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "在大沼，不，\r\n恐怕不管在哪里，都是禁忌的咒术。",
+      "jap": "大沼では、いやおそらくどこであっても、\r\nこれは禁術",
+      "eng": "It is a spell forbidden in the Great Swamp,\r\nand nearly everywhere else, too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "非要愚蠢非常之人，\r\n或是悲哀之人才能认同吧。",
+      "jap": "おぞましい者、あるいは悲しい者のみが、\r\nこれを理解するのだろう",
+      "eng": "Only one terribly afflicted, or burdened by deep sorrow,\r\ncould begin to understand this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "#0交出咒术书后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すC・呪術書を渡した後",
+      "eng": "#0Menu-Choose \"Talk\" after giving him the Great Swamp Pyromancy Tome",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 100,
+      "chn": "如果你打算找咒术书的话，那我要告诉你一件事。",
+      "jap": "もし君が、呪術書を探すのなら、ひとつ伝えておこう",
+      "eng": "If you seek pyromancy tomes, take this sage advice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "王的故乡与漂泊汇流之地──洛斯里克。",
+      "jap": "王の故郷が流れ着く場所、ロスリック",
+      "eng": "The lands of the Lords converge upon Lothric.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "这块土地是咒术的故乡，也可以说是漂流后聚集的地方。",
+      "jap": "この地には、呪術の故郷もまた、流れ着いているという",
+      "eng": "The home of pyromancies drifts comparatively close, as well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "……大沼的咒术师之间有此传说：",
+      "jap": "…大沼の呪術師には、そういう伝承があるのさ",
+      "eng": "At least, that is what pyromancers of the Great Swamp believe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "故乡之名为伊札里斯。\r\n说真的，我还真想见识原始的咒术。",
+      "jap": "故郷の名は、イザリス。\r\n本当なら、原初の術に触れてみたいものだ",
+      "eng": "The place is called Izalith.\r\nOh, how I wish to behold a primal pyromancy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "哎呀，不过这也只是传说，\r\n是不是真的就不保证了。",
+      "jap": "まあ、昔の話さ。\r\n碌なものである保証はないがな",
+      "eng": "Well, these are old tales.\r\nNo one knows where the truth begins, or ends.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "……",
+      "jap": "ハッハッハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0交出卡萨斯咒术书后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すD・カーサスの呪術書を渡した後",
+      "eng": "#0Menu-Choose \"Talk\" after giving him the Carthus Pyromancy Tome",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "对了，关于你找到的那本地下墓地的咒术书啊……",
+      "jap": "ああ、君が見つけた、地下墓の呪術書だがな…",
+      "eng": "Ahh, you found this tome in the Catacombs...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "书里的咒术特性很接近混沌。",
+      "jap": "あれらの呪術は、性質が混沌に近い",
+      "eng": "This spell is akin to chaos.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "说不定真的和咒术的故乡──伊札里斯有所关联……",
+      "jap": "あるいは、繋がるものかもしれん。呪術の故郷、イザリスに…",
+      "eng": "It may even serve as a link to Izalith, home of pyromancies...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0交出伊札里斯咒术书后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すE・イザリスの呪術書を渡した後",
+      "eng": "#0Menu-Choose \"Talk\" after giving him the Izalith Pyromancy Tome",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "……我说啊，无火的余灰啊。",
+      "jap": "…なあ、君。火の無き灰よ",
+      "eng": "Heed my words, Unkindled One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "要对火心存敬畏。",
+      "jap": "火を恐れたまえよ",
+      "eng": "Fear the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "过去咒术的始源──伊札里斯，\r\n曾被自身产生的火焰毁灭。",
+      "jap": "かつて呪術の祖、イザリスは、\r\n己が生んだ炎に焼かれ滅びた",
+      "eng": "The home of pyromancy, Izalith,\r\nwas scorched by the very fire it created.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "那很有可能是混沌，也就是魔女扭曲的火焰所为。",
+      "jap": "それは確かに混沌、魔女の歪んだ炎だったのかもしれない",
+      "eng": "Undoubtedly, it was a flame of chaos, tangled by a witch's hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "话又说回来，那火焰和营火的差异，谁又能分辨得出来啊？",
+      "jap": "だが、あの篝火がそうでないと、誰に分かるものかね？",
+      "eng": "But who's to say that this Bonfire's flame is any different?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\" or after leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 118,
+      "chn": "记得再回来啊。",
+      "jap": "また戻りたまえよ",
+      "eng": "Do not be gone for long.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "没了弟子的师父可是不象样啊。",
+      "jap": "弟子なき師は空しいものだからな",
+      "eng": "What is a teacher without a pupil?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "……",
+      "jap": "ハッハッハッハ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 122,
+      "chn": "你？为什么？",
+      "jap": "なぜだ？君？",
+      "eng": "Why? What's the matter?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 124,
+      "chn": "住手吧，住手啊！",
+      "jap": "やめるんだ、やめたまえよ！",
+      "eng": "Stop this, stop this at once!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 126,
+      "chn": "好吧，这也是无奈。",
+      "jap": "いいだろう、もう仕方ない",
+      "eng": "Fine, fine, I see how it is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "弟子发狂，收拾残局也是师父的责任。",
+      "jap": "弟子が狂えば、始末は師の役目",
+      "eng": "When a pupil strays from the path, the master must intrude.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "我上了，小鸦啊，",
+      "jap": "いくぞ、ひよっこ",
+      "eng": "Prepare yourself, hatchling.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "敢小看老鸦的咒术，你可是会吃瘪啊！",
+      "jap": "老いた鴉の呪術、甘く見るなよ！",
+      "eng": "Behold, the pyromancy of an old crow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 131,
+      "chn": "……弟子发狂，收拾残局也是师父的责任啊。",
+      "jap": "…弟子が狂えば、始末は師の役目よ",
+      "eng": "Spare the rod and spoil the child...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 133,
+      "chn": "唉，也好……对垂老的鬼影来说，是段不错的时间啊……",
+      "jap": "まあ、よい…老いた幻とて、面白い時間であったわ…",
+      "eng": "I can't complain... This old reverie...had to end...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "##还不快住手。",
+      "jap": "##やめたまえよ",
+      "eng": "##Cease this foolishness.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "##……",
+      "jap": "##アァ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "##……",
+      "jap": "##カッカッカッカッカッ",
+      "eng": "##Hah hah hah hah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "##……",
+      "jap": "##ハァッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##……",
+      "jap": "##ホゥッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##……",
+      "jap": "##グワアアアッ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##你人虽年少，但为什么如此轻狂……",
+      "jap": "##君、若さとは、なんと愚かなものだな…",
+      "eng": "##Oh, the eternal folly of youth...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

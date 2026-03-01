@@ -1,6 +1,1799 @@
 {
   "npc": "shanalotte",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/shanalotte.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/shanalotte.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "您是……继承之人吗？",
+      "jap": "貴方は…継ぐ者ですか？",
+      "eng": "Are you...the next monarch?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "或者……您只是个屈从于命运，随波逐流的人呢？",
+      "jap": "それとも…ただ運命に流されるだけの…？",
+      "eng": "Or...Merely a pawn of fate?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "被诅咒缠身的人啊，",
+      "jap": "呪いをまとうお方",
+      "eng": "Bearer of the curse...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我就在您身边，\r\n直到这渺小的希望沉沦为止……",
+      "jap": "私はいつでもそばにいます\r\nその小さな、希望が折れてしまうまで…",
+      "eng": "I will remain by your side.\r\nTill this frail hope shatters...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "请把这个带走吧！\r\n我想这对您的旅途应该会有帮助。",
+      "jap": "これをお持ちなさい\r\n貴方の旅の助けになるでしょう",
+      "eng": "Take this with you.\r\nMay it ease your journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "请您去见国王一面吧。",
+      "jap": "力を得て、王に会いなさい",
+      "eng": "Go on, and see the King.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "他是过去振兴了多兰古雷格，\r\n还曾经接近灵魂根源的人。",
+      "jap": "かつてこのドラングレイグを興し、\r\nソウルの根源へと近づいた者",
+      "eng": "He who made Drangleic what it once was;\r\nhe who peered at the essence of the soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "去见汎克拉德王吧……",
+      "jap": "ヴァンクラッド王に",
+      "eng": "King Vendrick.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "被诅咒缠身之人啊，请您去寻求苦难吧。",
+      "jap": "呪いをまとうお方、苦難を求めなさい",
+      "eng": "Bearer of the curse, seek misery.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "唯有跨越苦难的考验，才能获得更强悍，更庞大的灵魂。",
+      "jap": "大きな力…それは苦難の果てにあるのです",
+      "eng": "For misery will lead you to greater, stronger souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "眼下您那脆弱又纤细的灵魂\r\n根本无法让您见到国王。",
+      "jap": "消えかかるソウルのまま\r\n王に会うことは叶いません",
+      "eng": "You will never meet the King\r\nwith a soul so frail and pallid.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "请去和名字被视为禁忌者见面吧！\r\n就是拥有强悍灵魂的那四者。",
+      "jap": "名を禁じられたものを目指すのです\r\n強いソウルを持つ、4つのものに",
+      "eng": "Seek those whose names are unutterable,\r\nthe four endowed with immense souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "他们将会成为您在旅途上的路标吧。",
+      "jap": "それが貴方の旅の道標となるでしょう",
+      "eng": "Their souls will serve as beacons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "如果您能完成这个任务，\r\n请您再回到这里来……",
+      "jap": "もしそれが叶えられたならば\r\nここに戻ってきてください…",
+      "eng": "Once you have found them,\r\nreturn here to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "但愿您心中的希望永恆不灭……",
+      "jap": "貴方の中の、希望を絶やさぬように",
+      "eng": "So that hope will not fade away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0前往王城多兰古雷格前说话",
+      "jap": "#0話しかけた:王城ドラングレイグ到達まで",
+      "eng": "#0Talk-4th time, before approaching Drangleic Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "被诅咒缠身的人啊，",
+      "jap": "呪いをまとうお方",
+      "eng": "Bearer of the curse...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "请您去寻求灵魂吧！\r\n找出那些更强悍，更庞大的灵魂，",
+      "jap": "ソウルを求めなさい\r\nより強く、大きなソウルを",
+      "eng": "Seek souls. Larger,\r\nmore powerful souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "然后去和国王见面。\r\n这是您唯一的选择。",
+      "jap": "そして王の元へ\r\nそれだけがただひとつの道です",
+      "eng": "Seek the King,\r\nthat is the only way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "不然的话，您将会被这块土地吞噬，\r\n没有任何侥幸的可能。",
+      "jap": "でなければ、この地は貴方を飲み込むでしょう\r\n一切の容赦なく",
+      "eng": "Lest this land swallow you whole...\r\nAs it has so many others. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "当您通过山丘对面那座森林后，就能抵达王城了。",
+      "jap": "丘の向こう、森を越えた先に、王の城はあります",
+      "eng": "Over the hill and past the forest is the King's castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "过去那里曾经有位接近灵魂根源的人。",
+      "jap": "かつてそこには、ソウルの根源に近づいた者がいました",
+      "eng": "Where a man peered straight into the essence of the soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "然而现在他也已经……",
+      "jap": "ですが、それも今はもう…",
+      "eng": "But what ever came of it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "为了寻求希望而来到这里的人，\r\n没过多久都会绝望而变成游魂。",
+      "jap": "希望を求め、この地を訪れる者は、\r\nやがてその希望を失い、亡者となる",
+      "eng": "Those who come to Drangleic seeking salvation\r\nsoon lose hope, and turn Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "只是迟早的差别而已……\r\n所有人都是这样。",
+      "jap": "遅かれ、早かれ…\r\n皆そうなるのです",
+      "eng": "It happens to them all,\r\nsooner or later.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "在那座塔下的青衣骑士\r\n也是个已经灰心的人。",
+      "jap": "あの塔のたもとにいる青の騎士も、\r\n既に心折れたひとり",
+      "eng": "That blue knight at the base of the tower...\r\nHis spirit is already broken.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "和他交谈应该对您有帮助吧。",
+      "jap": "あの者の話は、貴方のお役に立つでしょう",
+      "eng": "Although he does offer sound advice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "因为他或许是您未来的投影……",
+      "jap": "貴方の未来の投影かもしれませんから…",
+      "eng": "Perhaps he is a foreshadowing of your own future?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "坐在那栋废屋里的小生物…",
+      "jap": "廃屋に坐する小さきもの…",
+      "eng": "That tiny thing inside the ruins...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "那可是远古生物哦！\r\n对方肯定会嘲笑您吧。",
+      "jap": "あれは、遠い古のもの\r\nきっと貴方をあざ笑うでしょう",
+      "eng": "An ancient being that will\r\nmock your very existence.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "然而即便如此，其智慧应该对您有帮助吧。",
+      "jap": "それでも、その叡智は貴方の助けとなるはず",
+      "eng": "She imparts sound wisdom. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "此生物反复无常，如果您能让此生物看得顺眼……",
+      "jap": "あのものの気まぐれが、貴方を気に入ればですが…",
+      "eng": "Provided you find her on a good day...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "您身上被烙下的刻印\r\n很快就会吸光您的灵魂……",
+      "jap": "貴方に刻まれた刻印は\r\nやがてソウルを吸い尽くし…",
+      "eng": "The sign you bear will\r\ndrain your very souls...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "失去灵魂的人就会变成游魂。",
+      "jap": "ソウルを失った人は亡者となる",
+      "eng": "And without souls, you will turn Hollow.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "但愿您心中的希望绝对不会熄灭……",
+      "jap": "決して心を、希望を折られないように",
+      "eng": "Stay strong, do not lose hope.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "那怕只剩一点点时间……",
+      "jap": "例え、残された時がわずかでも…",
+      "eng": "Even when you have precious little time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0互动列表-第5次选择「说话」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" 5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "不死人绝对不会死，\r\n不过他们会在反覆死亡的过程中越来越近似游魂。",
+      "jap": "不死は決して死ぬことはありません\r\nただ死を繰り返すことで、亡者へと近づいていくのです",
+      "eng": "For when the Undead dies, it is never truly dead,\r\nbut only one step closer to Hollowing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "游魂并非和不死人背道而驰，\r\n而是后者的其中一部分。",
+      "jap": "亡者は不死の対極にあるのではなく、\r\nその一部なのですから",
+      "eng": "Not all Undead are Hollows,\r\nbut all Hollows were once Undead.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0互动列表-第6次选择「说话」",
+      "jap": "#0リストから選択:話すF",
+      "eng": "#0Menu-Choose \"Talk\" 6th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "当您发现\"原素碎片\"时，请带来给我吧。",
+      "jap": "\"エストの欠片\"を見つけたら、話しかけてください",
+      "eng": "If you find an Estus Shard, bring it to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "它应该会成为您的助力。",
+      "jap": "貴方の力になれるでしょう",
+      "eng": "So that I may ease your burden.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0持有原素碎片时说话",
+      "jap": "#0話しかけた:エストのかけらを持っていた場合",
+      "eng": "#0Talk-After acquireing an Estus Shard",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "看来您似乎拿到力量的碎片了。",
+      "jap": "力の欠片をお持ちのようですね",
+      "eng": "Is that a shard you've found?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "请把它交给我，\r\n这样它就会成为您的力量了。",
+      "jap": "こちらへお渡しください\r\n貴方の力になれるでしょう",
+      "eng": "Here, let me see it.\r\nSo that I may help you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "希望可是多多益善啊……",
+      "jap": "希望は多い方がよいでしょうから…",
+      "eng": "To see light, to see hope...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "那怕只是细如微丝……",
+      "jap": "たとえ僅かでも…",
+      "eng": "However faint it might be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0击杀1个四巨物后说话",
+      "jap": "#0話しかけた:古の者を1体擊破後",
+      "eng": "#0Talk-After defeating one of four Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "被诅咒缠身之人啊，\r\n您是从古人手上拿到那个灵魂的吧。",
+      "jap": "古の者から、そのソウルを得たのですね\r\n呪いをまとうお方",
+      "eng": "You have acquired\r\nthe soul of an Old One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "有很多人都是还没抵达那里就死了。",
+      "jap": "多くの者はそこへ行きつくこともなく果てました",
+      "eng": "That is more than most Undead can say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0击杀2个四巨物后说话",
+      "jap": "#0話しかけた:古の者を2体擊破後",
+      "eng": "#0Talk-After defeating two of four Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "灵魂和诅咒其实是同类。",
+      "jap": "ソウルと呪いは、同一のもの",
+      "eng": "The soul and the curse are one and the same.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "您的灵魂又变强了。",
+      "jap": "貴方のソウルは、また強くなりました",
+      "eng": "Your soul has grown stronger still.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "那到底是不是您想要的呢……",
+      "jap": "それが果たして、貴方の望むものなのか…",
+      "eng": "I only hope it brings you what you wish.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0击杀3个四巨物后说话",
+      "jap": "#0話しかけた:古の者を3体擊破後",
+      "eng": "#0Talk-After defeating three of four Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "请继续前进吧，\r\n被诅咒缠身的人。",
+      "jap": "進みなさい\r\n呪いをまとうお方",
+      "eng": "Proceed,\r\nbearer of the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "因为您已经别无选择了。",
+      "jap": "他に道などありはしないのですから",
+      "eng": "It is the only choice left to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0击杀4个四巨物后说话",
+      "jap": "#0話しかけた:古の者を4体すべて擊破後",
+      "eng": "#0Talk-After defeating all four Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "请您尽可能收集更多灵魂。",
+      "jap": "貴方のもとには、多くのソウルが集っている",
+      "eng": "You are blessed with a myriad of souls.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "请您前往王城吧，\r\n被诅咒缠身的人。",
+      "jap": "王の城に向かいなさい\r\n呪いをまとうお方",
+      "eng": "Bearer of the curse,\r\nmake your way to the castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0未击杀全部四巨物，靠近王城多兰古雷格时说话",
+      "jap": "#0話しかけた:古の者を4体倒していない",
+      "eng": "#0Talk-Approaching Drangleic Castle before defeating all four Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "您的灵魂还很脆弱、纤细……",
+      "jap": "貴方のソウルは、まだ弱く、か細い…",
+      "eng": "Your soul is still frail and pallid...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "如果这样您还要继续前进的话，\r\n那么接下来您要走的将是一条超越生死的险峻道路。",
+      "jap": "それでもなお、この先に進まれるのなら\r\n生よりも、死よりも、険しい道が貴方を待つでしょう",
+      "eng": "If you proceed regardless,\r\nyour fate will be more terrible than mere life or death.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "若那是您的期望，\r\n我不会阻止您。",
+      "jap": "止めはしません\r\nそれが貴方の望みであるならば",
+      "eng": "But I will not stop you,\r\nif that is your heart's desire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0已击杀全部四巨物，靠近王城多兰古雷格时说话",
+      "jap": "#0話しかけた:古の者を4体倒している",
+      "eng": "#0Talk-Approaching Drangleic Castle after defeating all four Old Ones",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "这座城已经被封锁了。",
+      "jap": "この城は、既に閉ざされた場所",
+      "eng": "This castle is isolated.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "但是您要走的路\r\n就在这前面。",
+      "jap": "しかし、あなたの進むべき道は\r\nこの先にこそあるのです",
+      "eng": "But nonetheless,\r\nyou must forge on.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "然后请您……结束我的旅程吧。",
+      "jap": "そして貴方の…私の旅に終わりを",
+      "eng": "To bring an end to your journey...and mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0靠近王城多兰古雷格后，返回如蜜说话",
+      "jap": "#0話しかけた:王城ドラングレイグ到達後",
+      "eng": "#0Talk-After approaching Drangleic Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "被诅咒缠身的人啊，\r\n我就在您身边。",
+      "jap": "呪いをまとうお方\r\n私は貴方のそばにいます",
+      "eng": "Bearer of the curse.\r\nI will always be at your side.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "直到您的希望熄灭为止……",
+      "jap": "貴方の希望が尽きるまで…",
+      "eng": "Until hope has fully withered...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0到达不死灵庙，获得国王戒指后说话",
+      "jap": "#0話しかけた:王の指輪入手後",
+      "eng": "#0Talk-After acquiring the King's Ring",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "那只戒指就是王者证明。",
+      "jap": "その指輪は、王の証",
+      "eng": "This ring is the symbol of the King.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "如果有了这个王者证明，\r\n您就能通过王之门，抵达最后的目的地。",
+      "jap": "その証があれば、王の扉を抜け、\r\n辿りつくことができるでしょう",
+      "eng": "Use it to gain passage,\r\nthrough the King's Gate...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "在东方尽头的那个地方……",
+      "jap": "東の果て、あの場所に…",
+      "eng": "...and venture to the far east...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "您是被诅咒缠身的人。\r\n如果您是能成为王者的人……",
+      "jap": "貴方は呪いをまとうお方\r\n貴方が継ぐ者であれば…",
+      "eng": "Bearer of the curse,\r\nif you are to be the next monarch,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "那么总有一天会抵达那里吧。",
+      "jap": "いずれ、そこに辿りつくのです",
+      "eng": "Then, one day, you will walk those grounds...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "不管您愿不愿意。",
+      "jap": "望もうが望むまいが",
+      "eng": "...without really knowing why.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0到达卫龙巢穴后说话",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "被诅咒缠身的人啊，",
+      "jap": "呪いをまとうお方",
+      "eng": "Bearer of the curse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "我一直在等待拥有能跨越\r\n因果之力的不死人来到这里。",
+      "jap": "因果を乗り越える力を持った不死を\r\n私はここで待ち続けていました",
+      "eng": "Long have I awaited one such as you,\r\none who might shatter the shackles of fate.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "我等的就是那个来解放我的人。",
+      "jap": "私を解き放ってくれる方を",
+      "eng": "One who can set me free.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "被诅咒缠身之人啊，\r\n在我的分身指引下来到这里的人。",
+      "jap": "呪いをまとうお方\r\n我が分身によって、この地に導かれたお方",
+      "eng": "Bearer of the curse,\r\nit was my own manifestation that led you here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "从古代存活至今的龙，一直都在旁观这个世界。",
+      "jap": "古より在りし竜は、世界を傍観し続けています",
+      "eng": "The ancient dragon has watched over the world for aeons past.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "请把这个带走吧。",
+      "jap": "これをお持ちなさい",
+      "eng": "Take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "不可以引发纷争。\r\n龙应该能接受您吧。",
+      "jap": "争ってはいけません\r\n竜は貴方を受け入れるでしょう",
+      "eng": "Do not resist.\r\nThe dragon welcomes you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0靠近渴望王座时说话",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "我的旅程已经结束了。",
+      "jap": "私の旅は、既に終わりました",
+      "eng": "My journey is already complete.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "我的名字叫做夏娜洛特。",
+      "jap": "私の名は、シャナロット",
+      "eng": "My name is Shanalotte.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "这是那条龙，\r\n替出生后就没有名字的我取的名字。",
+      "jap": "それは、名を持たずに生みだされた私に\r\nあの竜がくれた名前",
+      "eng": "The dragon gave me this name,\r\nfor I was born with none.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "我是由人所生出来的龙之子。",
+      "jap": "私は人によって生み出された竜の子",
+      "eng": "I was born of dragons, contrived by men.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "过去曾经打破既定因果循环的人们……\r\n他们创造了我。",
+      "jap": "かつて定められた因果を越えようとした者たち…\r\nその者たちが私を生みました",
+      "eng": "By ones who would cozen fate herself...\r\nThey are the ones who created me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "然而他们的企图失败了。",
+      "jap": "しかし、その思惑は頓挫しました",
+      "eng": "But they failed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "我只是个失败作。",
+      "jap": "私は、失敗作だったのです",
+      "eng": "I did not come out as intended.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "因果至今依然在循环，人们也一直都被束缚。",
+      "jap": "因果は今もめぐり、人は囚われ続けています",
+      "eng": "Fate would not be bested, and men were cursed once again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "如果您要继续前进，湘卓就会袭击您吧。",
+      "jap": "この先に進めば、デュナシャンドラが貴方を襲うでしょう",
+      "eng": "If you proceed, Nashandra will come after you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "当您抵达王座后，就能成为火之继承者了。",
+      "jap": "あの王の座に着き、継ぐ者となること",
+      "eng": "Knowing that you will take the throne, and link the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "因为她正希望您能获得\r\n原初之火的伟大灵魂。",
+      "jap": "始まりの火の、大いなるソウルを手にすることが\r\n彼女の望みなのですから",
+      "eng": "She covets the First Flame,\r\nand the Great Soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "请您让杜娜湘卓安息吧。",
+      "jap": "デュナシャンドラを鎮めてください",
+      "eng": "Put Nashandra to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "您想做什么？……",
+      "jap": "なにを…？",
+      "eng": "What are you...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing her health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 109,
+      "chn": "如果这是您的意志……",
+      "jap": "それがあなたのご意志ならば…",
+      "eng": "If that is your wish...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "#0击败安第尔后，选择「前往王座」后",
+      "jap": "#0玉座に進む",
+      "eng": "#0After choosing \"Proceed to throne\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 111,
+      "chn": "火之继承者，承受它诅咒的人啊……",
+      "jap": "火を継ぐ者、呪いをその身に引き受ける者…",
+      "eng": "You, who link the fire, you, who bear the curse...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "如果您继承了火，您的灵魂将再度充实，\r\n并且这样的情形会一再重覆。",
+      "jap": "貴方が火を継げば、再びソウルは充ち、\r\n同じことが繰り返される",
+      "eng": "Once the fire is linked, souls will flourish anew,\r\nand all of this will play out again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "至于要拥抱它还是捐弃它……全由您决定。",
+      "jap": "それを望むも、拒むも…貴方が決めることです",
+      "eng": "It is your choice...to embrace, or renounce this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "具备王者资格的人，\r\n请您登上王座吧。",
+      "jap": "王たる者よ\r\n玉座へ",
+      "eng": "Great Sovereign,\r\ntake your throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "之后会发生什么事，就只有您看得到了。",
+      "jap": "その先は、貴方にしか見えないのです",
+      "eng": "What lies ahead, only you can see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "##这道诅咒会和您共生，\r\n不论是谁都无法消除它。",
+      "jap": "##呪いは生と共にあるもの\r\nそれを消すことなど、誰にもできないのです",
+      "eng": "##The curse is a part of life itself.\r\nNo one will ever be rid of it.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "##除非能承受一切的人，\r\n也就是人称王者的人出现……",
+      "jap": "##全てを引き受けるもの\r\n王と呼ばれる者が現れることだけが…",
+      "eng": "##And so there is only one choice.\r\nTo await a worthy monarch.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "##这是唯一的办法。",
+      "jap": "##それだけが、ただひとつの道なのです",
+      "eng": "##A monarch who can shoulder your burden.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "##不然的话，您将会被这块土地吞噬，\r\n没有任何侥幸的可能。",
+      "jap": "##でなければ、この地は貴方を飲み込むでしょう\r\n一切の容赦なく",
+      "eng": "##Lest this land swallow you whole...\r\nAs it has so many others.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "##被诅咒缠身之人啊，",
+      "jap": "##呪いをまとうお方",
+      "eng": "##Bearer of the curse...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "##营火另一边的目的地就是\"巨人之森\"。\r\n那里是导致这个国家灭亡的战争遗迹。",
+      "jap": "##篝火の向こう、道の先の地は\"巨人の森\"\r\nこの国が亡びる源となった、戦いの跡",
+      "eng": "##Beyond the bonfire lies the Forest of the Giants,\r\nwhere a great battle precipitated the kingdom's downfall.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "##早就战死的战士仍然手持长剑。",
+      "jap": "##死した戦士たちは、いまもその手に剣を握っています",
+      "eng": "##The warriors who fell there still clutch their swords.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "##或许那里还留下了能在您的旅途中派上用场的东西。",
+      "jap": "##貴方の旅の役に立つものが、残されているかもしれません",
+      "eng": "##Perhaps something there will ease your journey.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "##没什么好怕的，\r\n因为您已经从战争中解放了。",
+      "jap": "##臆する必要はありません\r\n彼らはもう、戦いから解き放たれたのですから",
+      "eng": "##You need not be afraid.\r\nFor the battle is done; the combatants, freed forever.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "##对面那扇门就是\"海德巨火塔\"的入口。",
+      "jap": "##向こうにある門、あれは\"ハイデの大火塔\"への入り口",
+      "eng": "##The far gate is the entrance to Heide's Tower of Flame.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "##在塔内深处有座圣殿，\r\n那里没有半个人。",
+      "jap": "##その奥には聖堂があります\r\nもう誰もいない場所です",
+      "eng": "##Deep inside the tower is the cathedral,\r\nwhich is today quite desolate.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "##然后还有另一条路……\r\n不过那条路通往的地方已经被封锁很久了。",
+      "jap": "##そしてもうひとつの道は…\r\nその先は、長く閉ざされたままです",
+      "eng": "##The other path...\r\nleads to a long-forbidden place.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "##在巨大的洞穴下方……",
+      "jap": "##巨大な穴の下…",
+      "eng": "##Inside the giant pit...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "##那里是古人之友，小生物的栖息地。",
+      "jap": "##かつて人の友であった、小さきものたちの場所",
+      "eng": "##Live the tiny beings that were once man's friends.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "##而若您想继续前进，\r\n就得有足够的觉悟和力量。",
+      "jap": "##そしてその先に進むには、\r\n余程の覚悟が、力が必要です",
+      "eng": "##To face what is beyond the pit...\r\nOne must have both strength and courage.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "##至少得能让您不被死亡吞噬……",
+      "jap": "##死に呑み込まれぬほどの…",
+      "eng": "##Enough to deny death itself...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "##或许您就是能成为王者的人吧……",
+      "jap": "##貴方は、王となる者なのか…",
+      "eng": "##Perhaps you will be the next to rule...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "##被诅咒缠身的人啊，\r\n如果您能拿到所有的灵魂……",
+      "jap": "##呪いをまとうお方\r\nもしも貴方が、全てのソウルを手に入れたなら",
+      "eng": "##Bearer of the curse...\r\nIf you acquire all four souls,",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "##那么或许您才是配得上它的人吧。",
+      "jap": "##貴方こそが相応しいのかもしれません",
+      "eng": "##then you will have proved yourself deserving.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "##您才够格坐上城里的那个王座…",
+      "jap": "##城にある、あの王の座に",
+      "eng": "##Deserving of the king's throne in the castle.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "##请您拿到那三个古代灵魂吧……",
+      "jap": "##3つの古のソウルが、貴方のもとに…",
+      "eng": "##The three old souls are now yours...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "##若您能让那个王座承认您，\r\n那时您的旅程才算真正结束了。",
+      "jap": "##あの王の座が、貴方を迎え入れるのなら\r\nその時にこそ、貴方の旅は終わるでしょう",
+      "eng": "##There, you will find the throne.\r\nAnd your journey will end.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##请您……结束我的旅程吧。",
+      "jap": "##貴方の…私の旅に終わりを",
+      "eng": "##End your journey...and mine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##在东方尽头，龙的栖息处……",
+      "jap": "##東の果て、竜の棲まう場所に…",
+      "eng": "##...and seek the home of the dragon, to the far east...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##您是被诅咒缠身的人吧，\r\n请您向东走。",
+      "jap": "##貴方は呪いをまとうお方\r\n東に向かいなさい",
+      "eng": "##Bearer of the curse.\r\nGo to the east.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "##前往王门另一边的那个地方……",
+      "jap": "##王の扉の向こう、あの場所に…",
+      "eng": "##To the place, beyond the King's Gate.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "##正因为您持续接近王座，\r\n龙应该会和您交谈吧。",
+      "jap": "##玉座に近づきつつあるあなたにこそ\r\n竜は語りかけるはずです",
+      "eng": "##Now the throne lies within your grasp,\r\nsurely the dragon will speak to you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "##请您去听听龙要说什么。",
+      "jap": "##竜の言葉を聞きなさい",
+      "eng": "##Listen to what the dragon says.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "##只要有人持续接近王座，\r\n龙应该就会和那个人交谈。",
+      "jap": "##玉座に近づきつつある者にこそ、\r\n竜は語りかけるはずです",
+      "eng": "##With the throne so close at hand,\r\nthe dragon is sure to speak.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "##而在那之后……",
+      "jap": "##そしてその後は…",
+      "eng": "##And then...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "##…",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "##请您……结束我的旅程吧。",
+      "jap": "##貴方の…私の旅に終わりを",
+      "eng": "##Bring an end to your journey...and mine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "##…",
+      "jap": "##…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "###2（无译文）那气息…\r\n你也被黑暗之环选中了啊。#3",
+      "jap": "##その気配…\r\nあなたもダークリングに選ばれてしまったのですね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "###2（无译文）受诅咒的证明…正侵蚀着你的灵魂。#3",
+      "jap": "##呪われた証…あなたのソウルを蝕んでゆく",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "###2（无译文）是啊…就像那个人一样。#3",
+      "jap": "##そう…あの方のように",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "###2（无译文）在有限的时间里，渺小的希望都已沉沦。\r\n真是不祥的诅咒啊。#3",
+      "jap": "##限られた刻の中で、小さな希望すら打ち砕いてしまう\r\n忌まわしい呪いなのです",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "###2（无译文）你迟早会变得像他一样吧…#3",
+      "jap": "##あなたもいずれ彼のようになっていくでしょう…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "###2（无译文）啊！？…你是！？\r\n难道是那时的！？#3",
+      "jap": "##あ！？　…あなたは！？\r\nひょっとしてあの時の！？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "###2（无译文）你不记得我了吗？\r\n啊…你看，请好好看看这张脸。#3",
+      "jap": "##私を覚えていませんか？\r\nあ…ほら、この顔を見てください",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "###2（无译文）唔～嗯…那这个你不记得了吗？\r\n哦…就是这个！#3",
+      "jap": "##う～ん…なら、これは覚えてないですか？\r\nえっと…これです！",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "###2（无译文）看了这个…也想不起来吗？#3",
+      "jap": "##これを見ても…思い出せない？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "###2（无译文）这样啊…那就给你看看那个吧。#3",
+      "jap": "##そうかぁ…なら、あれを見せようかな",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "###2（无译文）请跪在我的面前，\r\n试着委身于我的力量。#3",
+      "jap": "##私の前にひざまずいて\r\n私の力に身を委ねてみて",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "###2（无译文）聚集于人心的彷徨灵魂们…\r\n流淌于人身的根源灵魂们…#3",
+      "jap": "##人の心に集った、彷徨えるソウル達よ…\r\n人の体の流れに乗った、根源のソウル達よ…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "###2（无译文）以栖于我血的古老不死之力为源，\r\n请将力量借予此受诅咒之人…#3",
+      "jap": "##我が血に住まう古と不死の力を源に\r\nこの呪われし者に力を貸し与えよ…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 162,
+      "chn": "###2（无译文）汝，接受我的力量吧…#3",
+      "jap": "##汝、我がこの力を受け入れよ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "###2（无译文）啊，要去哪…？#3",
+      "jap": "##あっ、どちらへ…？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "###2（无译文）好累啊…我…\r\n走了好多路…不想再走了啊…#3",
+      "jap": "##疲れちゃったなぁ…あたし…\r\nいーっぱい歩いたし…もう歩きたくないなぁ…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "###2（无译文）啊，大哥哥！？#3",
+      "jap": "##あっ、お兄ちゃん！？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 166,
+      "chn": "###2（无译文）啊，大姐姐！？#3",
+      "jap": "##あっ、お姉ちゃん！？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "###2（无译文）啊～终于来了啊～！#3",
+      "jap": "##あぁ～、やっと来たぁ～！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 168,
+      "chn": "###2（无译文）真是的！来得太晚了喔！#3",
+      "jap": "##もう！　来るのが遅いよぉ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "###2（无译文）大哥哥，怎么啦？#3",
+      "jap": "##お兄ちゃん、なぁに？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 170,
+      "chn": "###2（无译文）大姐姐，怎么啦？#3",
+      "jap": "##お姉ちゃん、なぁに？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "###2（无译文）这次又怎么啦？#3",
+      "jap": "##今度はなぁに？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 172,
+      "chn": "###2（无译文）啊哈。又来了吗？#3",
+      "jap": "##あはっ　また、来てくれたの？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "###2（无译文）已经没事了吗？\r\n那，下次再来喔！#3",
+      "jap": "##もうおしまい？\r\nじゃあ、また来てね！",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 174,
+      "chn": "###2（无译文）欸？已经走了吗？\r\n啧…好无聊啊～#3",
+      "jap": "##あれ？　もう行っちゃうの？\r\nちぇ…つまんないなぁ～",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "###2（无译文）做那种事的人真讨厌。\r\n不——要——#3",
+      "jap": "##あんなことする人嫌い\r\nイーーーっだ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "###2（无译文）让人痛的人真讨厌！#3",
+      "jap": "##痛いことする人は嫌！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "###2（无译文）但是那种羽毛如果有更多，也可以原谅你喔。#3",
+      "jap": "##でもあの羽がもっとあったら、許してあげてもいいよ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "###2（无译文）啊！是艾斯登提亚羽毛！#3",
+      "jap": "##あぁ！　エスティンティアの羽だっ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 179,
+      "chn": "###2（无译文）给我的？太棒啦！#3",
+      "jap": "##くれるの？　やったぁ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "###2（无译文）已经原谅你啦！再让人痛的话就讨厌你喔。#3",
+      "jap": "##もう、許してあげる！痛いことしたら嫌だよ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 181,
+      "chn": "###2（无译文）嘁…什么嘛！#3",
+      "jap": "##チェッ…なぁーんだ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 182,
+      "chn": "###2（无译文）…嗯？怎么啦？\r\n已经不生气了喔。#3",
+      "jap": "##…ん？　なあに？\r\nもう怒ってなんかいないよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 183,
+      "chn": "###2（无译文）下次，还聊聊吗？#3",
+      "jap": "##また、お話してね？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "###2（无译文）喂，喂。我决定了！\r\n要一直呆在这个村子里！#3",
+      "jap": "##ねぇ、ねぇ。　私決めたの！\r\nこの村にずぅっといるって！",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 185,
+      "chn": "###2（无译文）我啊，就算不再旅行也没关系了。#3",
+      "jap": "##私ね、もう旅をしなくても平気みたい",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 186,
+      "chn": "###2（无译文）所以呢…如果你能来这里…还会再见面喔。\r\n和我！啊哈。#3",
+      "jap": "##だからね…ここに来てくれれば…また会えるよ\r\n私と！　あはっ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 187,
+      "chn": "###2（无译文）我啊，有很多漂亮的东西！\r\n但只有这种羽毛，根本找不到。#3",
+      "jap": "##私ね、綺麗なものをたくさん持ってるんだ！\r\nでもこの羽根だけは、ちっとも見つけられなかったの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 188,
+      "chn": "###2（无译文）所以，终于找到了好高兴！\r\n我会一直好好带着它。#3",
+      "jap": "##だから、やっと見つかってすっごくうれしい！\r\nずぅっと大切に持っているからね",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 189,
+      "chn": "###2（无译文）每次我到镇上，人们马上就围过来。\r\n所以，无论到了哪都很受欢迎！哼哼。#3",
+      "jap": "##私が町に行くと、人がすぐにいーっぱい集まるの\r\nだから、どこにいっても人気者！　ふふっ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 190,
+      "chn": "###2（无译文）但是，这个村子大家都不过来…\r\n难道，我在这不受欢迎吗？？#3",
+      "jap": "##でも、この村のみんなは来ないみたい…\r\n私、ここでは人気者じゃないのかなぁ？？",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 191,
+      "chn": "###2（无译文）到现在为止…我…已经和各种各样的人旅行过了…\r\n所以这次我想和你一起旅行。#3",
+      "jap": "##いままで…いろんな人と旅をしてきたんだ…私\r\nだから今度はあなたと一緒に旅をするんだと思ったの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 192,
+      "chn": "###2（无译文）因为，刚刚的大叔已经不见了。#3",
+      "jap": "##だって、さっきのおじさんがいなくなっちゃったから",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 193,
+      "chn": "###2（无译文）如果旅行的人不见了，\r\n总是会有新的人来，再继续旅行。#3",
+      "jap": "##旅していた人がいなくなっちゃうとね\r\nいっつも新しい人がやってきて、また旅をするの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 194,
+      "chn": "###2（无译文）但是，大哥哥好奇怪欸？#3",
+      "jap": "##でも、お兄ちゃんは変だよね？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 195,
+      "chn": "###2（无译文）但是，大姐姐好奇怪欸？#3",
+      "jap": "##でも、お姉ちゃんは変だよね？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 196,
+      "chn": "###2（无译文）可以不用一起旅行…真的好奇怪。#3",
+      "jap": "##一緒に旅をしなくていいなんて…ほんとに変",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 197,
+      "chn": "###2（无译文）那个咒语…很厉害吧？\r\n但是呢，被告诫过不可以给陌生人看。#3",
+      "jap": "##あのおまじない…すごいでしょ？\r\nでもね、知らない人に見せちゃダメって言われたの",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 198,
+      "chn": "###2（无译文）所以，这是和我的秘密喔！\r\n一定的喔！#3",
+      "jap": "##だから、私との秘密だよ！\r\n絶対だからねっ！",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 199,
+      "chn": "###2（无译文）欸？要去哪里？#3",
+      "jap": "##あれっ？　どこにいっちゃうの？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 200,
+      "chn": "###2（无译文）啊…那个，叫做艾斯登提亚羽毛喔。\r\n听说捡到它的人幸福的时刻就会降临…#3",
+      "jap": "##あっ…それ、エスティンティアの羽って言うんだよ\r\n拾った人には幸せの刻が舞い降りるんだって…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 201,
+      "chn": "###2（无译文）欸？给我的？#3",
+      "jap": "##えっ！？　あたしに！？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 202,
+      "chn": "###2（无译文）…好开心。#3",
+      "jap": "##…うれしい",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 203,
+      "chn": "###2（无译文）作为回礼，我会一直一直一直记得你的，\r\n约好了呢！#3",
+      "jap": "##お返しにあなたのことずぅぅぅぅぅっと覚えておく\r\n約束ね！",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 204,
+      "chn": "###2（无译文）呀！？#3",
+      "jap": "##キャッ！？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 205,
+      "chn": "###2（无译文）哼！我才不是工具！#3",
+      "jap": "##ふん！　私は道具じゃないもん！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 206,
+      "chn": "###2（无译文）呀！？#3",
+      "jap": "##キャッ！？",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 207,
+      "chn": "###2（无译文）不要再拉了喔！#3",
+      "jap": "##引っ張らないでよ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 208,
+      "chn": "###2（无译文）已经，不想再走了！#3",
+      "jap": "##もう、歩きたくないの！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 209,
+      "chn": "###2（无译文）呀啊！#3",
+      "jap": "##いやぁー！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 210,
+      "chn": "###2（无译文）不要哇！#3",
+      "jap": "##やめてぇー！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 211,
+      "chn": "###2（无译文）因为你救了我…\r\n我秘藏的咒语，只给你一个人。#3",
+      "jap": "##あたしのことを助けてくれたから…\r\nあなたにだけ、とっておきのおまじないをしてあげる",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 212,
+      "chn": "###2（无译文）对谁都要保密喔。#3",
+      "jap": "##これは誰にも内緒だよ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 213,
+      "chn": "###2（无译文）坐下来看着我的眼睛。#3",
+      "jap": "##あたしの目が見えるように座って",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 214,
+      "chn": "###2（无译文）然后，闭上眼…#3",
+      "jap": "##じゃぁ、目を瞑って…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 215,
+      "chn": "###2（无译文）不要把眼睛睁开。\r\n可以吗？开始了喔。#3",
+      "jap": "##開けてちゃ、だめだよ\r\nいい？　やるよ",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 216,
+      "chn": "###2（无译文）聚集于人心的彷徨灵魂们…\r\n流淌于人身的根源灵魂们…#3",
+      "jap": "##人の心に集った、彷徨えるソウル達よ…\r\n人の体の流れに乗った、根源のソウル達よ…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 217,
+      "chn": "###2（无译文）以栖于我血的古老不死之力为源，\r\n请将力量借予此拯救我之人…#3",
+      "jap": "##我が血に住まう古と不死の力を源に\r\nこの我を救いし者に力を貸し与えよ…",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 218,
+      "chn": "###2（无译文）汝，接受我的力量吧…#3",
+      "jap": "##汝、我がこの力を受け入れよ…",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 219,
+      "chn": "###2（无译文）好痛。#3",
+      "jap": "##いたいっ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 220,
+      "chn": "###2（无译文）呀。#3",
+      "jap": "##きゃあ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 221,
+      "chn": "###2（无译文）干什么！#3",
+      "jap": "##何するの！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 222,
+      "chn": "###2（无译文）呀啊！#3",
+      "jap": "##いやー！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 223,
+      "chn": "###2（无译文）真是的，不理你了！#3",
+      "jap": "##もう、知らないっ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

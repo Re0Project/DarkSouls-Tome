@@ -1,6 +1,855 @@
 {
   "npc": "shira",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/shira.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/shira.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "……请说出神的名讳。",
+      "jap": "…神の名を、言ってください",
+      "eng": "Speak thee the name of God.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "倘若您还记得，请告诉我。您所信仰的神明之名为何？",
+      "jap": "もしも覚えているのなら、貴方の神の名を",
+      "eng": "Thine own god, if thou canst recall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0选择「不知道」",
+      "jap": "#0話しかけた:2回目・選択肢【知らない】",
+      "eng": "#0Choose \"I do not know\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "……说来也是正常。人类早在许久以前，就已不记得神明之名。",
+      "jap": "…そうでしょう。人々はずっと前に、それを忘れてしまいました",
+      "eng": "As I thought. Such memories were lost by thy kind, long ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "这也正是人会渴求黑暗的原因。",
+      "jap": "だからこそ、皆が闇を渇望するのです",
+      "eng": "And so it is ye...who yearn for darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0选择「不知道」后交谈",
+      "jap": "#0話しかけた:3回目・【知らない】選択後",
+      "eng": "#0Talk-After choosing \"I do not know\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "……如果您回想起来了，就请说出口吧。",
+      "jap": "…もしも思い出したのなら、言ってください",
+      "eng": "Give thy memory a nudge.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "您所信仰的神明之名为何？",
+      "jap": "貴方の神の名を",
+      "eng": "And name thee thy God.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0选择「葛温」",
+      "jap": "#0話しかけた:2回目・選択肢【グウィン】",
+      "eng": "#0Choose \"Gwyn\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "……嗯，看来您还记得呢。",
+      "jap": "…ああ、貴方はまだ覚えているのですね",
+      "eng": "Ahh, then thou'st not forgotten.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "大概多亏如此，我们才能在此交谈。",
+      "jap": "だからこそ、こうして言葉も交わせるのでしょう",
+      "eng": "Perhaps 'tis why we may converse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我名为希拉，\r\n为侍奉教堂之长──费莲诺尔公主之人。",
+      "jap": "私はシラ。\r\n教会の主、王女フィリアノールに仕える者です",
+      "eng": "I am known as Shira,\r\nservant to the Princess Filianore, matriarch of the church.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "既然您知晓神的名讳，\r\n也明白黑暗如何可畏，",
+      "jap": "貴方が、神の名を知り、\r\n闇の恐ろしさを知る人ならば",
+      "eng": "They who are ken to God's name\r\nare surely ken to the terrors of the dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "就请万万不得侵扰公主安眠──",
+      "jap": "どうか、王女の眠りを侵さないでください",
+      "eng": "Please, I bid thee take not from the Princess her peace or rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "公主在火迈向终结时，位距黑暗咫尺之遥，也都是为了人类。",
+      "jap": "火の終わりに、闇の傍で、それはただ人のためなのです",
+      "eng": "As the fire waneth, does she lie by the dark, all for the sake of Man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0选择「葛温」后，第1次交谈",
+      "jap": "#0話しかけた:3回目・【グウィン】選択後",
+      "eng": "#0Talk-2nd time after choosing \"Gwyn\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "……您为人很善良呢。",
+      "jap": "…貴方は、優しい方ですね",
+      "eng": "Thou'st a kind heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "我如此无能，又受困于此，您竟然还愿意和我交谈。",
+      "jap": "何もできない、囚われの私に、声をかけてくれるのですから",
+      "eng": "To speak to a captive such as I.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "是因为您为人如此，才会记得神的名讳吗？",
+      "jap": "だからこそ、神の名を覚えているのでしょうか",
+      "eng": "It is no surprise thou rememb'rest our God.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "#0选择「葛温」后，第2次交谈",
+      "jap": "#0話しかけた:4回目・【グウィン】選択後",
+      "eng": "#0Talk-3rd time after choosing \"Gwyn\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 23,
+      "chn": "……我可以拜托您一件事情吗？",
+      "jap": "…貴方に、お願いをしてもいいでしょうか",
+      "eng": "May I ask thee a kindness?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "这座城市里有一只龙在此栖息，\r\n说不定您已经见过了。",
+      "jap": "もしやもう、目にされたかもしれませんが、\r\nこの街には一体の竜がいます",
+      "eng": "Perhaps thou'st beheld the lone dragon\r\nthat inhabiteth this city?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "它是古龙的后裔──米狄尔。",
+      "jap": "古い竜の末裔、ミディール",
+      "eng": "Midir is his name, and the Archdragons are his forebears.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "那只龙吞噬黑暗，黑暗也因此侵蚀着它。",
+      "jap": "闇を喰らうその竜は、それ故に闇に侵され、\r\n最後にこの街に戻ってきました",
+      "eng": "He once railed against the dark, but was by dark afflicted.\r\nNow here, returned, he remaineth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "它为了履行古老约定──\r\n守护公主的安眠，而回到这座城市。",
+      "jap": "古い約束に従い、王女の眠りを守るために",
+      "eng": "To watch over the sleeping Princess, true to the old accord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "……我希望您打倒那只龙。",
+      "jap": "…貴方に、その竜を倒して欲しいのです",
+      "eng": "...And yet, I would have thee put the dragon to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "赶在它被黑暗侵蚀殆尽，完全遗忘约定之前打倒它。",
+      "jap": "彼のすべてが闇に侵され、約束すらも忘れてしまう、その前に",
+      "eng": "Afore the dark consumeth him, and his vows are forgot.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0选择「拒绝」，或选择「拒绝」-「没事」",
+      "jap": "#0話しかけた:4回目・選択肢【聞かない】",
+      "eng": "#0Choose \"Refuse\" to the 3rd query, or \"No, it's nothing\" to the 4th",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "……我明白了，请您继续踏上旅程吧。",
+      "jap": "…分かりました。貴方の旅を続けてください",
+      "eng": "Very well. Then hasten on thy journey.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "还有，千万不得侵扰公主的安眠──",
+      "jap": "そしてどうか、王女の眠りを侵さないでください",
+      "eng": "Only, disturb not the sleeping Princess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "公主在火迈向终结时，位距黑暗咫尺之遥，也都是为了人类。",
+      "jap": "火の終わりに、闇の傍で、それはただ人のためなのです",
+      "eng": "As the fire waneth, does she lie by the dark, all for the sake of Man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0选择「拒绝」或选择「没事」后交谈",
+      "jap": "#0話しかけた:5回目・【聞かない】選択後",
+      "eng": "#0Talk-After choosing \"Refuse\" to the 3rd query, or \"No, it's nothing\" to the 4th",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……您怎么了吗？",
+      "jap": "…どうしたのですか？",
+      "eng": "Carest thou to speak thy peace?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "还是说，您愿意答应我的请求了？",
+      "jap": "私の願いを、聞いて頂けるのですか？",
+      "eng": "Hast thou mine entreaty reconsidered?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0选择「答应她的请求」",
+      "jap": "#0話しかけた:4回目・選択肢【願いを聞く】",
+      "eng": "#0Choose \"Accept the request\" to either the 3rd or 4th query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "信神之人啊，感谢您。",
+      "jap": "感謝します、神を知る人よ",
+      "eng": "I offer my sincerest gratitude, thou who art ken to God's name.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "请收下吧。",
+      "jap": "これを、お持ちください",
+      "eng": "Please, take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "我拜托您的事十分过分，\r\n希望这物品多少能帮助到您。",
+      "jap": "私は、酷いことを願っています。\r\nだからせめて、貴方の助けになりますように",
+      "eng": "I have asked a thing most terrible of thee.\r\nMay this token of thanks be of aid.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0选择「答应她的请求」后交谈",
+      "jap": "#0話しかけた:5回目・【願いを聞く】選択後",
+      "eng": "#0Talk-After choosing \"Accept the request\" to either the 3rd or 4th query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "拜托您，希望您能打倒那只龙。",
+      "jap": "お願いします。あの竜を、貴方に倒して欲しいのです",
+      "eng": "I beg of thee, put the great dragon to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "在它被黑暗吞噬殆尽，完全遗忘约定以前，打倒它吧。",
+      "jap": "彼のすべてが闇に侵され、約束すらも忘れてしまう、その前に",
+      "eng": "Afore the dark consumeth him, and his vows are forgot.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0在公墓外将米狄尔击落后，第1次交谈",
+      "jap": "#0話しかけた:闇喰らいのミディール落下後:1回目",
+      "eng": "#0Talk-1st time after initially defeating Darkeater Midir on the bridge",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……米狄尔似乎掉进黑暗深谷里了。",
+      "jap": "…ミディールが、闇の谷に落ちたようですね",
+      "eng": "So, Midir hath into the chasm fallen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "不过我还听得见它的声音。直到现在，它仍继续受到黑暗侵蚀。",
+      "jap": "けれどまだ、声が聞こえてきます。今もまだ、闇に侵されています",
+      "eng": "Still, his voice I hear. The dark grieveth him yet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "拜托您了，请打倒它吧。",
+      "jap": "お願いします。彼を倒してあげてください",
+      "eng": "I prithee, put him to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "在它被黑暗吞噬殆尽，完全遗忘约定以前，打倒它吧。",
+      "jap": "すべてが闇に侵され、約束すらも忘れてしまう、その前に",
+      "eng": "Afore the dark consumeth him, and his vows are forgot.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0在公墓外将米狄尔击落后，第2次交谈",
+      "jap": "#0話しかけた:闇喰らいのミディール落下後:2回目",
+      "eng": "#0Talk-2nd time after initially defeating Darkeater Midir on the bridge",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "在公主的教堂前方，\r\n有座祭祀众骑士的塔。",
+      "jap": "王女の教会の手前に、\r\n騎士たちを祀る塔ありました",
+      "eng": "Just afore the church of the Princess standeth a tower,\r\nhonouring ancient knights.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "在一尊手无寸铁的骑士像后方，\r\n有一间小型礼拜堂隐藏其中，",
+      "jap": "そして、何も持たぬ騎士像の裏に、\r\n小さな礼拝所が隠されており",
+      "eng": "There lieth a small shrine,\r\nbehind the sculpted knight which beareth no arms.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "应该可以从那里往下走，到达黑暗深谷。",
+      "jap": "そこからなら、闇の谷に降りていけるはずです",
+      "eng": "Tis from there one may descend the chasm of darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "拜托您了，请打倒它吧。",
+      "jap": "お願いします。彼を倒してあげてください",
+      "eng": "I prithee, put the great dragon to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "#0在公墓外将米狄尔击落后，第3次交谈",
+      "jap": "#0話しかけた:闇喰らいのミディール落下後:3回目",
+      "eng": "#0Talk-3rd time after initially defeating Darkeater Midir on the bridge",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 55,
+      "chn": "……我知道自己提了一个过分的请求，",
+      "jap": "…私は、酷いお願いをしていますね",
+      "eng": "I know, I have asked of thee a thing most terrible.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "对不起，但是我只能拜托您了。",
+      "jap": "すみません、けれど私には、貴方に願うしかないのです",
+      "eng": "Forgive me, thou wert but mine only hope.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "在公主的教堂前方，\r\n有座祭祀众骑士的塔，\r\n其中有一尊手无寸铁的骑士像，",
+      "jap": "王女の教会の手前、\r\n騎士たちを祀る塔の、\r\n何も持たぬ騎士像の裏に",
+      "eng": "Just afore the church of the Princess standeth a tower\r\nbuilt to honour ancient knights.\r\nBehind the sculpted knight which beareth no arms,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "骑士像后方有一间小型礼拜堂，\r\n应该可以从那里往下走，到达黑暗深谷。",
+      "jap": "小さな礼拝所が隠されており、\r\n闇の谷に降りていけるはずです",
+      "eng": "is a small shrine,\r\nfrom which one may descend the chasm of darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "请您打倒它，",
+      "jap": "彼を倒してあげてください",
+      "eng": "I prithee, put the great dragon to rest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "在它被黑暗吞噬殆尽，完全遗忘约定以前，打倒它吧。",
+      "jap": "すべてが闇に侵され、約束すらも忘れてしまう、その前に",
+      "eng": "Afore the dark consumeth him, and his vows are forgot.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0击杀米狄尔后，第1次交谈",
+      "jap": "#0話しかけた:闇喰らいのミディール擊破後:1回目",
+      "eng": "#0Talk-1st time after defeating Darkeater Midir",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "……谢谢您。",
+      "jap": "…ありがとうございました",
+      "eng": "My most humble thanks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "那只龙能遵守约定，得以善终，全都多亏有您的帮助。",
+      "jap": "あの竜は、約束の中で果てました。すべて貴方のお陰です",
+      "eng": "Tis thanks to thee the dragon erred not from his vows.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "请收下，\r\n这是我能给您的最后一份谢礼了。",
+      "jap": "これを、お持ちください。\r\n私のできる、これが最後のお礼です",
+      "eng": "Please, take this.\r\nA final gift of thanks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "请您继续踏上旅程吧，\r\n还有，千万不得侵扰公主的安眠──",
+      "jap": "貴方の旅を続けてください。\r\nそしてどうか、王女の眠りを侵さないでください",
+      "eng": "Now, hasten on thy journey,\r\nbut wake not the slumbering Princess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "公主在火迈向终结时，位距黑暗咫尺之遥，也都是为了人类。",
+      "jap": "火の終わりに、闇の傍で、それはただ人のためなのです",
+      "eng": "As the fire waneth, does she lie by the dark, all for the sake of Man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "#0击杀米狄尔后，第2次交谈",
+      "jap": "#0話しかけた:闇喰らいのミディール擊破後:2回目",
+      "eng": "#0Talk-2nd time after defeating Darkeater Midir",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "我真的非常感谢您。",
+      "jap": "貴方には、本当に感謝しています",
+      "eng": "My humblest thanks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "请您继续踏上旅程吧，\r\n还有，千万不得侵扰公主的安眠──",
+      "jap": "貴方の旅を続けてください。\r\nそしてどうか、王女の眠りを侵さないでください",
+      "eng": "Now, hasten on thy journey,\r\nbut wake not the slumbering Princess.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "公主在火迈向终结时，位距黑暗咫尺之遥，也都是为了人类。",
+      "jap": "火の終わりに、闇の傍で、それはただ人のためなのです",
+      "eng": "As the fire waneth, does she lie by the dark, all for the sake of Man.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "#0提升教堂之枪誓约到等级1后，第1次交谈",
+      "jap": "#0話しかけた:教会の槍ランク1:1回目",
+      "eng": "#0Talk-1st time after reaching rank 1 as a Spear of the Church",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 72,
+      "chn": "……啊！您成为教堂之枪了！",
+      "jap": "…ああ！貴方は、教会の槍となられたのですね！",
+      "eng": "Oh! Thou'rt now a spear of the church!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "这真是美事一桩。",
+      "jap": "何という素晴らしいことでしょう",
+      "eng": "What a wonderful, blessed day this is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "因为您成为枪之后，\r\n不论是公主的安眠，或是米狄尔的约定，\r\n全都无后顾之忧了。",
+      "jap": "貴方が槍となるのなら、\r\n王女の眠りも、ミディールの約束も、\r\nきっと守られ続けるでしょう",
+      "eng": "With a spear such as thee,\r\nsurely the Princess will slumber most gently,\r\nand Midir's vows will be honoured.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "我身为侍奉她的人，身为它的好友，\r\n向您致上谢意。",
+      "jap": "彼女に仕える者として、また彼の友人としても、\r\n貴方に感謝を",
+      "eng": "I must thank thee,\r\nas a servant of the Princess, and a dear friend to Midir.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "愿您的旅途能继续满载荣光。",
+      "jap": "貴方の旅が、これからも、誇りに満ちたものでありますように",
+      "eng": "May thy travels be resplendent with glory.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0提升教堂之枪誓约到等级1后，第2次交谈",
+      "jap": "#0話しかけた:教会の槍ランク1:2回目",
+      "eng": "#0Talk-2nd time after reaching rank 1 as a Spear of the Church",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "火迈向终结，\r\n公主位距黑暗咫尺之遥──但还有您守护着她的安眠。",
+      "jap": "火の終わりに、闇の傍で、\r\nけれど貴方が、王女の眠りを守っています",
+      "eng": "As the fire waneth, does she lie by the dark,\r\nbut now with thee to shelter her sleep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "我十分感激教堂之枪，\r\n愿您的旅途能继续满载荣光。",
+      "jap": "教会の槍に感謝を。\r\nそしてその旅が、これからも、誇りに満ちたものでありますように",
+      "eng": "Bless ye spears of the church.\r\nMay thy travels be resplendent with glory.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0提升教堂之枪誓约到等级2后，第1次交谈",
+      "jap": "#0話しかけた:教会の槍ランク2:1回目",
+      "eng": "#0Talk-1st time after reaching rank 2 as a Spear of the Church",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "……啊，您……成为圣枪了啊。",
+      "jap": "…ああ、貴方は…聖槍となられたのですね",
+      "eng": "Ah, thou'st... A Divine Spear become!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "那在神的时代，是英雄的称号。\r\n在火迈向终结时，照理说圣枪是不可能存在的。",
+      "jap": "それは、神代の英雄の称号、\r\n火の終わりに、本来あるはずもないものです",
+      "eng": "An honour once bestowed in the time of the Gods,\r\nnearly unheard of in this age of waning fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "我身为侍奉公主的人，身为米狄尔的好友，",
+      "jap": "王女に仕える者として、またミディールの友としても",
+      "eng": "As a servant of the Princess, and friend to Midir...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "很庆幸自己能结识这么杰出的大人物……",
+      "jap": "私は、素晴らしい方に出会えたのですね…",
+      "eng": "I am honoured to have met thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0提升教堂之枪誓约到等级2后，第2次交谈",
+      "jap": "#0話しかけた:教会の槍ランク2:2回目",
+      "eng": "#0Talk-2nd time after reaching rank 2 as a Spear of the Church",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "火迈向终结，公主位距黑暗咫尺之遥──\r\n但还有您守护着她的安眠。",
+      "jap": "火の終わりに、闇の傍で、\r\nけれど貴方が、王女の眠りを守っています",
+      "eng": "As the fire waneth, does she lie by the dark,\r\nbut now with thee to shelter her sleep.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "我十分感激圣枪，\r\n愿您的旅途能继续满载荣光。",
+      "jap": "聖槍に感謝を。\r\nそしてその旅が、これからも、誇りに満ちたものでありますように",
+      "eng": "Bless ye divine spears.\r\nMay thy travels be resplendent with glory.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0在费莲诺尔寝室触碰被拥抱的壳后，在荒漠遇到希拉时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon appearing in the ruins, after the protagonist touches the embraced shell",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "找你很久了，沁染黑暗之人。",
+      "jap": "探しましたよ、闇深き人",
+      "eng": "I've searched for thee, dark-stricken creature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "我希拉亦为神明后裔，公爵的女儿，\r\n以及米狄尔的好友。",
+      "jap": "私も神の末、公爵の娘、シラ。\r\nそして、ミディールの友人です",
+      "eng": "I am Shira, daughter of the Duke, descendant of gods,\r\nand trusted friend to Midir.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "我心中刻画着神明的荣耀，\r\n对火的骄傲，以及对黑暗的恐惧。",
+      "jap": "神の誇り、火の矜持、闇への恐れ、\r\nすべて私の中にあります",
+      "eng": "At once, I am the honour of the gods,\r\nthe glory of fire, and the fear of the dark.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "因此，我无法原谅──",
+      "jap": "だからこそ、私は許しません",
+      "eng": "Thou shalt not go unpunished.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "你们那些背叛、亵渎，还有卑贱的渴望！",
+      "jap": "お前たちの裏切り、冒涜、そして卑しい渇望を！",
+      "eng": "For thy treachery, thy profanity, and thy shameless yearning!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 95,
+      "chn": "……好好记住了，",
+      "jap": "…覚えておきなさい",
+      "eng": "Remember this, creature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "我无法原谅你们。",
+      "jap": "私は、お前たちを、許しませんから",
+      "eng": "Ne'er will I forgive thy kind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0提升教堂之枪誓约到等级1后，击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した:教会の槍ランク1以上",
+      "eng": "#0Upon killing the protagonist, after reaching rank 1 as a Spear of the Church",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "……请快点回想起来吧，",
+      "jap": "…思い出してください",
+      "eng": "Try again, to remember.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "你那曾身为枪的荣耀。",
+      "jap": "一度は槍であった、貴方の誇りを",
+      "eng": "The great honour it was to be a spear.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "……",
+      "jap": "アァッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "我绝对……",
+      "jap": "…私は、お前たちを",
+      "eng": "Never would I ever...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "不会原谅你们……",
+      "jap": "決して許さない…",
+      "eng": "...forgive thy lowly kind...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##……啊啊，为什么……",
+      "jap": "##…ああ、貴方はなぜ…",
+      "eng": "##Ahh, but why...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "##为什么要向黑暗靠拢呢？",
+      "jap": "##闇に近づくのですか？",
+      "eng": "##Art thou to bed with the dark?",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

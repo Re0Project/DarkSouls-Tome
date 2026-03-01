@@ -1,6 +1,47 @@
 {
   "npc": "elana",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/elana.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/elana.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次进入雾门，开始战斗前",
+      "jap": "#0話しかけられた",
+      "eng": "#0After entering the mist for the 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哼……你与污秽真是匹配啊……",
+      "jap": "ふん…穢れにふさわしい者ではないか…",
+      "eng": "Huh! You were not deserving of the mire…",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0主角死亡或离开，再次进入雾门，开始战斗前",
+      "jap": "#0主人公が死亡で再会した",
+      "eng": "#0After entering the mist & she has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "你……将不断污秽下去……",
+      "jap": "貴様は…穢れ続けるのさ…",
+      "eng": "You...forever you shall rot... ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "##你这个不敬者!!……",
+      "jap": "##この不敬者が…！！",
+      "eng": "##What brazen insolence!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

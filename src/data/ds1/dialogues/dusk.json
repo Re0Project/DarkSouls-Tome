@@ -1,6 +1,767 @@
 {
   "npc": "dusk",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/dusk.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/dusk.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……是您救了我……？",
+      "jap": "…貴方が、助けてくれたのですね…",
+      "eng": "So, it is thou who rescueth me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "谢谢您，真的非常感谢。",
+      "jap": "ありがとうございました。深く、感謝します",
+      "eng": "Most gracious. I am deeply obliged.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "我是乌拉席露的幽暗。",
+      "jap": "私はウーラシールの宵闇",
+      "eng": "I am Dusk of Oolacile.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "我和您所在的时代不同，是古老时代的人……\r\n没有办法在这里待太久。",
+      "jap": "貴方とは違う時代、とても古い時代の人間なのです\r\n…ここに長く留まることはできません",
+      "eng": "I cometh from an age long before thine...\r\nI can not stay here for long.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "在我消失之前，有话想问您：",
+      "jap": "ですから、このまま消えてしまう前に　1つだけ聞かせてください",
+      "eng": "So, before I disappear, allow me to ask one thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "我的故乡是古老魔法之地──乌拉席露。",
+      "jap": "私の故郷、ウーラシールは古い魔術の地です",
+      "eng": "My home, Oolacile, is the home of ancient sorceries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "那些魔法知识，\r\n我想说不定可以帮助恩人您……",
+      "jap": "その知識を、よろしければ\r\n恩人たる貴方のお役に立てたいのですが…",
+      "eng": "My hope is to pass this profound knowledge to thee,\r\nwith thine approval.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "您需要这种知识吗？",
+      "jap": "それは貴方に必要でしょうか？",
+      "eng": "Would this be of assistance to thee?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "不需要吗……好的，我明白了。",
+      "jap": "そうですか…わかりました",
+      "eng": "Yes, of course...I understand well.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "请原谅我多嘴了。",
+      "jap": "出過ぎた言をお許しください",
+      "eng": "Pray forgive me. I have overstepped my boundaries.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "那我就回去我的时代，我的国家去了。",
+      "jap": "それでは、私は、私の時代、私の国に帰ります",
+      "eng": "Farewell; another age, another land, beckons me to return.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "愿您得到火的指引。",
+      "jap": "貴方に炎の導きのあらんことを",
+      "eng": "May the flames guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "您答应了吗！……我太高兴了。",
+      "jap": "そうですか！…それは嬉しいことです",
+      "eng": "My heartfelt thanks. I am pleased beyond words.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "那么，我就留下记号吧。",
+      "jap": "それでは、私は、サインを残していきましょう",
+      "eng": "Then, I shalt engrave my signature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "如果有需要，请到记号处召唤我。",
+      "jap": "必要なときは、サインから私を召喚してください",
+      "eng": "If thou art in need, pray summon me from my signature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……时间好像到了。愿您得到火的指引。",
+      "jap": "…もう時間のようです。貴方に炎の導きのあらんことを",
+      "eng": "It seems that my time is done. May the great flames guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "#0召唤后攀谈",
+      "jap": "#0話しかけた:召唤後",
+      "eng": "#0Talk-After summoning",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 20,
+      "chn": "乌拉席露的幽暗来了，",
+      "jap": "ウーラシールの宵闇、参りました",
+      "eng": "I am Dusk of Oolacile.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "能见到您是我的荣幸。",
+      "jap": "また貴方にお会いできて光栄です",
+      "eng": "It is an honour to see thee again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "有什么事请尽管吩咐。",
+      "jap": "何なりと、私に仰ってください",
+      "eng": "I shall follow thine wishes.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "我有很长的一段时间，一直被那水晶巨偶囚禁，",
+      "jap": "私は、ずっと永い間、あのクリスタルゴレムに囚われていました",
+      "eng": "For a very long time, I was trapped within the Crystal Golem.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "和水晶巨偶一起离开故乡，漂流在世界的狭缝中，",
+      "jap": "あれと共に、故郷を離れ、世界の歪をさまよっていたのです",
+      "eng": "From my home I was taken, and banish'd to a plane of distortion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "然后您救了我。",
+      "jap": "それを、貴方に助けて頂きました",
+      "eng": "It was there, that thou came to my rescue.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "我在很久以前就舍弃希望了，",
+      "jap": "もう、ずっと前に、そんな希望は棄てていました",
+      "eng": "Long after I had relinquished all hope.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "所以我好高兴，到现在还不敢相信……",
+      "jap": "だから私は、嬉しくて、とても信じられなかったのです…",
+      "eng": "So gleeful was I, my faith reneweth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "乌拉席露的魔法和这个时代的魔法似乎有些不同。",
+      "jap": "ウーラシールの魔術は、この時代のそれとは、少し違うようです",
+      "eng": "The sorceries of Oolacile differ from the magic of thine age.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "我也不太会解释……",
+      "jap": "私にもうまく言えないのですが…",
+      "eng": "It is difficult to explain...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "怎么说呢，乌拉席露的魔法比较平易近人，\r\n呵呵，就是感觉会有点胡来。",
+      "jap": "ウーラシールの魔術は、なんというか、寛容で、クスッ\r\n少しいい加減なところがあるのですが",
+      "eng": "Oolacile sorceries are, what doth one say?\r\nThey are somewhat... of an approximation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "而您这个时代的魔法，\r\n看起来比较认真坚持，给人拒人千里于外的感觉。",
+      "jap": "貴方の時代の魔術は\r\nもっと真摯で、自己以外を拒絶するように見えるのです",
+      "eng": "Thine sorceries are more straight forward,\r\nnegating all but thy self.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "想一想还挺耐人寻味的……",
+      "jap": "思えば、とても興味深いことですね…",
+      "eng": "Dost thou not find some fascination in these discrepancies?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0在营火休息后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "我的故乡乌拉席露，在我的时代也早已毁灭了。",
+      "jap": "私の故郷、ウーラシールは、私の時代でも、既に亡んでいました",
+      "eng": "My home of Oolacile was reduced to ashes, long ago, in my time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "所以我终究是孤独一人……",
+      "jap": "だから、やっぱり私は1人で…",
+      "eng": "I have been alone ever since...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "能受您召唤，并这样对话，\r\n我就很满足、很快乐了……",
+      "jap": "貴方に召喚されて、こうしてお話しするのが…\r\nその、嬉しかったりするんです…",
+      "eng": "But to be summon'd thus, and to be of service to thee...\r\nIt is... most rewarding...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "啊，抱歉，\r\n这些事不是什么值得您听的事……",
+      "jap": "ああ、すみません\r\n貴方にお聞かせするような話ではありませんでしたね…",
+      "eng": "Oh, forgive me,\r\nsuch a long-past time is none of thine concern...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "#0击杀马努斯后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すD・深淵の主マヌス撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 1st time after defeating Manus, Father of the Abyss",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 41,
+      "chn": "……望您别见笑，听我道来：",
+      "jap": "…笑わないで、聞いてください",
+      "eng": "...This may strike thine ear as somewhat peculiar, but...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "很久以前，\r\n我在故乡乌拉席露遭到深渊怪物袭击时，",
+      "jap": "ずっと昔、故郷ウーラシールで、\r\n深淵の化け物に襲われたとき",
+      "eng": "Long ago, in my homeland of Oolacile,\r\nI was beset by a creature from the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "那位有名的骑士\r\n亚尔特留斯大人救了我。",
+      "jap": "高名な騎士、\r\nアルトリウス様に、救って頂いたのです",
+      "eng": "I would have perished then,\r\nwere it not for the great knight Artorias.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "丢脸的是，当时我不省人事……\r\n几乎无法回忆起整个经过，",
+      "jap": "お恥ずかしい話、私は気を無くしていて…\r\nあまりよく覚えていないのですが",
+      "eng": "In truth, I saw little of what transpired,\r\nfor mine senses were already fled!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "但那时亚尔特留斯大人的……\r\n应该说是气质吧……",
+      "jap": "その、そのときのアルトリウス様の…\r\nご気配というか、そういったものが…",
+      "eng": "But even still, there was something about Artorias...\r\nA certain balance of the humours...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "和您真的很相似。",
+      "jap": "貴方に、とてもよく似ていたように思うのです",
+      "eng": "...That quite perfectly fits your semblance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "该不会……当时也是您……",
+      "jap": "だから、もしや、あの時も貴方が…",
+      "eng": "Heavens, could it be that...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "不，应该不是您。\r\n那是好几百年前在乌拉席露发生的事，",
+      "jap": "いえ、そんなことはありませんよね\r\nあれは何百年も前、ウーラシールでのことです",
+      "eng": "Oh, dear me.\r\nThat was Oolacile, many centuries ago.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "就当是我胡言乱语一场，请您忘了它吧。",
+      "jap": "おかしなことを申しました。お忘れください",
+      "eng": "Please excuse my fanciful musings. ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0击杀马努斯后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すE・深淵の主マヌス撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time after defeating Manus, Father of the Abyss",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "日前一阵胡言乱语，真是不好意思。",
+      "jap": "先日は、おかしなことを申しまして、すみませんでした",
+      "eng": "Excuse me for such whimsical utterances.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "但是，真的很奇妙，",
+      "jap": "でも、本当に不思議なことです",
+      "eng": "Only, it was so very odd...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "您和亚尔特留斯大人都救过我，\r\n气质又如此一致，",
+      "jap": "貴方と、アルトリウス様\r\n私を救って下さったお二人に、同じご気配を感じるのですから",
+      "eng": "You, and Artorias. I owe my life to each of you.\r\nAnd both seem to share some resonance of sorts...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "也许所谓英雄，都会是这样吧……",
+      "jap": "もしかしたら、英雄とは　そのようなものなのかもしれませんね…",
+      "eng": "Perhaps it is the nature of true greatness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0击杀马努斯后，互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すF・深淵の主マヌス撃破後",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time after defeating Manus, Father of the Abyss",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "……还记得之前，我说过曾经遭到深渊怪物袭击的事情吧？",
+      "jap": "…以前、深淵の化け物に襲われた話をいたしましたが",
+      "eng": "I still think on that creature from the Abyss that preyed upon me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "当时我已是不省人事……\r\n但是，却有一种感觉却还依稀记得。",
+      "jap": "その時、私は気を失くしていて…\r\nでも、ひとつだけ、覚えている感情があるんです",
+      "eng": "My faculties were far from lucid,\r\nbut I quite clearly sensed certain emotions.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "那是一股很强烈的怀念情感……\r\n渴求无法挽回的幸福，渴求纪念幸福过往的物品……这种感受……",
+      "jap": "強く、懐かしむ感情…\r\n戻らない幸福と、その思い出の品…それを求める思い…",
+      "eng": "A wrenching nostalgia, a lost joy,\r\nan object of obsession, and a sincere hope to reclaim it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "这有可能……会是深渊怪物拥有的感受吗……？",
+      "jap": "あれは、もしかしたら、深淵の化け物のものでしょうか…",
+      "eng": "Could these thoughts belong to the beast from the Abyss?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "既然拥有那种感受，还应该称他们为怪物吗……？",
+      "jap": "あのような感情を抱くものを　化け物と呼んでよいのでしょうか…",
+      "eng": "But if that were true, then perhaps it is no beast after all?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "唉，抱歉说了些奇怪的话。",
+      "jap": "ああ、おかしな話をすみません",
+      "eng": "Oh, please forgive my ramblings.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "但是，我真的不明白……",
+      "jap": "でも、私は、分からないのです…",
+      "eng": "It's just that, I wish to know the truth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "因为没有人肯告诉我，即使是温柔可亲的伊丽莎白也是一样……",
+      "jap": "誰も、優しいエリザベスも、教えてはくれないものですから…",
+      "eng": "And no one, not even loving Elizabeth, will tell me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "有需要就请再召唤我。",
+      "jap": "必要でしたら、また召喚してください",
+      "eng": "If thou art in need, pray summon me again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "我希望能够帮上您的忙……",
+      "jap": "貴方のお役に立ちたいのです…",
+      "eng": "I wish to be of assistance...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "愿您得到火的指引。",
+      "jap": "貴方に炎の導きのあらんことを",
+      "eng": "May the flames guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "有需要就请再召唤我。",
+      "jap": "必要でしたら、また召喚してください",
+      "eng": "If thou art in need, pray summon me again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "希望我有帮到您……",
+      "jap": "貴方のお役に立っていればよいのですが…",
+      "eng": "I only wish to be of some genuine assistance...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "愿您得到火的指引。",
+      "jap": "貴方に炎の導きのあらんことを",
+      "eng": "May the flames guide thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "#0走开中断对话",
+      "jap": "#0話しかけられた:キャラクターから離れる",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 74,
+      "chn": "啊，您要去哪……？",
+      "jap": "あ、どこへ…",
+      "eng": "Wait, where... are...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0走开中断对话后，返回攀谈",
+      "jap": "#0話しかけた:離れてから戻つた",
+      "eng": "#0Talk-After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "您回来了，太好了……",
+      "jap": "戻られましたか。よかったです…",
+      "eng": "Thou hast return'd. Bless thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 78,
+      "chn": "怎么……",
+      "jap": "何を…",
+      "eng": "What dost thou...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 80,
+      "chn": "为什么……",
+      "jap": "どうして…",
+      "eng": "Whatever for...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "请您住手……",
+      "jap": "やめてください…",
+      "eng": "Cease this barbarism...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "啊……",
+      "jap": "ああ…",
+      "eng": "Ahh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "永别了……",
+      "jap": "お別れですね、貴方…",
+      "eng": "Farewell, my rescuer...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#0在深渊洞穴击杀马努斯后，第1次攀谈",
+      "jap": "#0話しかけた:1回目・深淵の主マヌス撃破後",
+      "eng": "#0Talk-1st time after defeating Manus, Father of the Abyss",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 87,
+      "chn": "呼……呼……",
+      "jap": "スー、スー",
+      "eng": "...Mmn...ahh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0在深渊洞穴击杀马努斯后，第2次攀谈",
+      "jap": "#0話しかけた:2回目・深淵の主マヌス撃破後",
+      "eng": "#0Talk-2nd time after defeating Manus, Father of the Abyss",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "……啊……",
+      "jap": "…ああっ…",
+      "eng": "...Aah...mmn...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "……呜……",
+      "jap": "…ううっ…",
+      "eng": "...Hmm...mm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0受到攻击时",
+      "jap": "#0攻撃した",
+      "eng": "#0Upon being attacked",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "呜……",
+      "jap": "グゥッ…",
+      "eng": "Aah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "啊！",
+      "jap": "キャアッ！",
+      "eng": "Eek!",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

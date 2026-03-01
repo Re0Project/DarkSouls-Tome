@@ -1,6 +1,823 @@
 {
   "npc": "shiva",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/shiva.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/shiva.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0加入森林的狩猎者誓约后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time after joining the Forest Hunter Covenant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "我已经听说过你的事了。",
+      "jap": "話は、聞かせてもらったぜ",
+      "eng": "I've heard all about you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是东方的芝，也是实战部队的队长。",
+      "jap": "俺は、東のシバ。実戦部隊のリーダーだ",
+      "eng": "I'm Shiva of the East, captain of the brigade.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "要是在被召唤的当下，应该没法好好聊吧，",
+      "jap": "召喚されたときじゃあ、ろくに話もできんのでな",
+      "eng": "Let's teach you the clan basics now,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "所以在这边就先来打声招呼……也和你谈谈我们团的基本做法。",
+      "jap": "まずは挨拶と…団のやり方を、伝えておこう",
+      "eng": "as there is no time to chat in the midst of fighting.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "其实我们也没有太多规矩啦。",
+      "jap": "とは言え、大層な掟なんてものはない",
+      "eng": "Except there's little in the form of rules, you hear?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "我们就是依照各人喜好来应战、狩猎，\r\n猎物也是先抢先赢。",
+      "jap": "各々好きなように戦い、狩る。獲物も早い者勝ち\r\nそれが、俺たちの流儀だ",
+      "eng": "Fight and hunt as you like. Whoever's fastest gets the prey.\r\nThat's the way we do it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "不过……相信白猫也已经和你提过了，\r\n不管怎样，都绝不容许背叛的行为。",
+      "jap": "ただ…白猫も言っただろうが\r\nいかなる理由があれ、裏切りは、許されない",
+      "eng": "Only...Don't forget what Alvina said.\r\nTraitors aren't given a second chance, for any reason.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……就这样。",
+      "jap": "…それだけだ",
+      "eng": "That's about it, then.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "总而言之，轻松干就行啦。",
+      "jap": "まあ、気楽にやればいい",
+      "eng": "Don't worry, it's a good old time, isn't it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "你是我们暌违许久的同伴……请多多指教啦。",
+      "jap": "久しぶりの仲間だ…よろしく頼むぜ",
+      "eng": "Great to have you with us. Good hunting to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "#0加入森林的狩猎者誓约后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 12,
+      "chn": "别急呀。",
+      "jap": "焦るなよ",
+      "eng": "Don't worry, now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "有必要就会叫你的。",
+      "jap": "必要とあれば、お呼びがかかる",
+      "eng": "You'll be called in soon enough.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "没有耐性可是钓不到大鱼喔。",
+      "jap": "せっかちは貰いが少ないぜ",
+      "eng": "Hunters with patience score the best kills.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0与黑影间谍攀谈后攀谈",
+      "jap": "#0話しかけた:影の間者に話しかけた後",
+      "eng": "#0Talk-After speaking to his Shinobi bodyguard",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "啊，你也注意到那家伙了吗？真是有你的。",
+      "jap": "ああ、奴にも気づいたのか。さすがだな",
+      "eng": "Ah, did you notice that one? Sharp eyes!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "那家伙也是团里的伙伴，和我一样是来自遥远的东方。",
+      "jap": "あいつも、団の仲間だ。俺と同じく、東からきた",
+      "eng": "He's one of the clan. From the East, like myself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "虽然总是偷偷摸摸见不着人，但身手不赖",
+      "jap": "影のようだが、腕は立つ",
+      "eng": "Always slinking in the shadows, but he's a tough one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "……你就拭目以待吧。",
+      "jap": "…楽しみにしてな",
+      "eng": "You'll see what I mean.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "哈哈哈哈",
+      "jap": "ハッハッハッハッ",
+      "eng": "Hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0到达病村后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "嘿，是你呀。",
+      "jap": "よう、あんたか",
+      "eng": "Hello again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "在森林之外的地方遇见团员可真是稀奇呢……",
+      "jap": "団の者と森以外で会うのは、妙なものだな…",
+      "eng": "Strange to meet away from the clan and the forest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "不过，你来得正好。要不要顺便买些武器防具呢？",
+      "jap": "だが、丁度いい。あんた、武具を買わないか？",
+      "eng": "But while you're here, how about some equipment?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "虽然说我很爱武器防具，不过……这终究还是太多了点呀。",
+      "jap": "俺は、武具好きなんだが…さすがに少し持て余し気味でな",
+      "eng": "I love collecting these things, but I can only keep so many.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "你算同伴了。便宜转卖给你也无所谓。",
+      "jap": "あんたなら仲間だ。格安で譲ってもいいぜ",
+      "eng": "And, you know, you are a friend. I'll sell them cheap.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0到达病村后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "嘿，又是你呀。",
+      "jap": "よう、またあんたか",
+      "eng": "We meet again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "如果要武器防具的话，就来找我吧。",
+      "jap": "武具が入用なら、相談にのるぜ",
+      "eng": "I have the equipment, if you have the need.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0到达病村后，第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "嘿，是你呀。我们又碰到了。",
+      "jap": "よう、あんた。また会ったな",
+      "eng": "Well, there you are again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "不久前我被召唤去应战时，拿到了些意想不到的好东西喔。",
+      "jap": "少し前に召喚されてな。掘り出し物があるんだ",
+      "eng": "I've culled my best picks from my last summoning.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "要不要来看看啊？",
+      "jap": "よければ、見ていかないか",
+      "eng": "Have a look, will you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0互动列表-第1次选择「离去」",
+      "jap": "#0リストから選択:立ち去るA",
+      "eng": "#0Menu-Choose \"Leave\" 1st time after purchasing some thing",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "你……还挺会挑的嘛。",
+      "jap": "あんた…結構な好き者なんだな",
+      "eng": "I see you have a sharp eye for trinkets.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "真是太好了，下次再见啰。",
+      "jap": "嬉しいよ。また会おうぜ",
+      "eng": "Suits me fine. I'll be seeing you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0互动列表-第2次选择「离去」",
+      "jap": "#0リストから選択:立ち去るB",
+      "eng": "#0Menu-Choose \"Leave\" 2nd time after purchasing some thing",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "那就这样啦。下次森林见吧。",
+      "jap": "じゃあな。また森で会おうぜ",
+      "eng": "Right then. I'll see you in the forest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0互动列表-第3次选择「离去」",
+      "jap": "#0リストから選択:立ち去るC",
+      "eng": "#0Menu-Choose \"Leave\" 3rd time after purchasing some thing",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "那就这样啦。下次再见啰。",
+      "jap": "じゃあな。また会おうぜ",
+      "eng": "Right then. I'll be seeing you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "呃",
+      "jap": "グッ",
+      "eng": "Hrg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 44,
+      "chn": "嗯",
+      "jap": "ムッ",
+      "eng": "Mnph!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 46,
+      "chn": "搞什么！",
+      "jap": "何を！",
+      "eng": "Why, you dirty...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "你鬼迷心窍啦？",
+      "jap": "血迷ったか！",
+      "eng": "Have you lost it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "#0在黑森林庭院攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile, right after joining the Forest Hunter",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 50,
+      "chn": "竟然这么快就背叛，算你够狠！",
+      "jap": "早速裏切りとは、見上げたことだ！",
+      "eng": "Turning on us from the very start?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "好好见识一下我的绝技，上西天去吧！",
+      "jap": "冥土の土産だ！シバの豪剣を拝むがいい！",
+      "eng": "Have a look at my sword, for it's the last thing you'll see!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "竟然背叛了我们，算你够狠！",
+      "jap": "裏切りとは、見上げたことだ！",
+      "eng": "You have some guts, to turn on us!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "好好见识一下我的绝技，上西天去吧！",
+      "jap": "冥土の土産だ！シバの豪剣を拝むがいい！",
+      "eng": "Have a look at my sword, for it's the last thing you'll see!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "游魂啊……",
+      "jap": "亡者が…",
+      "eng": "You sick Hollow...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "可别再复生了……",
+      "jap": "二度とよみがえるなよ…",
+      "eng": "Don't you ever come round again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "#0攻击至血量低于30%时",
+      "jap": "#0HPが30%以下にした",
+      "eng": "#0After reducing his health to 30% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 59,
+      "chn": "喝呀！",
+      "jap": "おうらぁっ！",
+      "eng": "Hiyaah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "哈！",
+      "jap": "どうりゃあっ！",
+      "eng": "Haaah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "哇呀！",
+      "jap": "うおうりゃあっ！",
+      "eng": "Hiiyah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "笨啊……",
+      "jap": "愚かな…",
+      "eng": "You poor fool...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "这么一来，你也会被追杀……",
+      "jap": "これで、お前も、追われる身だぞ…",
+      "eng": "You won't be able to run far enough...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "##你有没有听过混沌之刃这把武器？",
+      "jap": "##あんた、混沌の刃の話を、聞いたことはないか？",
+      "eng": "##Have you heard of Chaos Blade?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "##那是把由远古不死人刀匠──诚，\r\n锻造而成，具有斑龙纹的名剑。",
+      "jap": "##古い不死の匠、誠の手になる、\r\n斑竜紋の名剣さ",
+      "eng": "##The legendary sword of the ancient\r\nUndead master Makoto, its blade a swirling vortex.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "##我听说这武器就藏在此处而苦苦找寻，\r\n不过……始终没有找到……",
+      "jap": "##この地にあると聞き、ずっと探しているのだが…\r\n見つからなくてな…",
+      "eng": "##I heard it's somewhere around here,\r\nbut I can't find it.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "##……真是的，如果可以得到那把武器的话……",
+      "jap": "##…まったく、あれが手に入るなら…",
+      "eng": "##...It's all I could ever wish for...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "##……不论要我用什么手段……",
+      "jap": "##…手段など選ばぬものを…",
+      "eng": "##...I'd do anything to have it...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "##喔！就是你！",
+      "jap": "##おお、あんた！",
+      "eng": "##Why, look at you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "##给我等一下！",
+      "jap": "##ちょっと待ってくれ！",
+      "eng": "##Just wait will you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "##你手上的那把刀！那不就是……混沌之刃吗……？",
+      "jap": "##その刀は！それは…混沌の刃じゃあないか…",
+      "eng": "##Your sword! Is it not... the Chaos Blade...?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "##我一直都在找这把刀呀。",
+      "jap": "##俺は、もうずっと、その刀を探していたんだ",
+      "eng": "##I've been searching for her for ages!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "##……求求你。我一定会给你丰厚谢礼的。\r\n可以请你把那把刀转让给我吗？",
+      "jap": "##…お願いだ。十分な礼はさせてもらう\r\n俺に…その刀を譲ってくれないか？",
+      "eng": "##...I beg of you, and I promise repay you...\r\nWill you give the sword to me?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "##喔！太好了！实在太感激你了！",
+      "jap": "##おお、そうか！感謝するぞ！",
+      "eng": "##Excellent! Much gratitude!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "##这就是我说好要给你的谢礼，请收下吧。",
+      "jap": "##これは約束の礼だ。とっておいてくれ",
+      "eng": "##As promised, this is for you. Go ahead, take it.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "##啊啊，这就是混沌之刃啊……\r\n这龙纹真是棒……真棒。",
+      "jap": "##ああ、これが、混沌の刃か…\r\n素晴らしい竜紋だ…素晴らしい",
+      "eng": "##Ahh, splendid, the Chaos Blade...\r\nLook into the vortex...Wonderful...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "##实在是棒透了……",
+      "jap": "##素晴らしすぎる…",
+      "eng": "##Simply wonderful...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "##喔……喔……",
+      "jap": "##ああ…ああ…",
+      "eng": "##Oh my, oh my...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "##不过……这家伙的价值……",
+      "jap": "##これは…こいつの価値は…",
+      "eng": "##But the sword's true value...hmm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "##可能得要拿来砍人才能了解吧……",
+      "jap": "##人を斬らねば、分からないのかも、しれないなあ…",
+      "eng": "##Can't be known without a good killing...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "##……这样呀。既然如此……那就没办法了。",
+      "jap": "##…そうか。それでは…仕方ないな",
+      "eng": "##...Yes, quite alright, I cannot blame you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "##毕竟现在那把刀是在你的手上……",
+      "jap": "##その刀、今は、あんたのものだからな…",
+      "eng": "##The blade is yours, after all.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "##……我只好像个武士，不带丝毫踌躇……",
+      "jap": "##…武士らしく、潔く…",
+      "eng": "##...So, I will do the honourable thing...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "##……杀了你来夺走那把刀。",
+      "jap": "##…殺して奪うとしよう",
+      "eng": "##...And kill you for it...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "##别闪开！好好地站着别动！",
+      "jap": "##避けるな！おとなしくしろッ！",
+      "eng": "##Don't you run away! Be still you rat!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "##让我砍！让我砍吧！",
+      "jap": "##切られろ！切られろおっ！",
+      "eng": "##Taste my blade, taste it, you devil!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "##嘻──！",
+      "jap": "##ウヒーッ！",
+      "eng": "##Hee hee!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "##嘻、嘻嘻、嘻嘻嘻！",
+      "jap": "##ウヒ、ウヒヒ、ウヒヒヒーッ！",
+      "eng": "##Hee, hee hee hee!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "##这就是小看我的代价……",
+      "jap": "##俺を舐めた報いだ…",
+      "eng": "##This is what you get for crossing me.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "##好好见识一下我的绝技，上西天去吧……",
+      "jap": "##冥土の土産に、シバの豪剣を拝むがいい…",
+      "eng": "##Have a look at my sword, for it's the last thing you'll see!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "##红色……是血的颜色……",
+      "jap": "##赤い…血の色だ…",
+      "eng": "##Red...the colour of blood...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "##嘻……嘻嘻……",
+      "jap": "##ウ…ヒッ…、ヒッ…",
+      "eng": "##Hee hee...hee...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "##怎，怎么会……",
+      "jap": "##ば、ばかな…",
+      "eng": "##By the devils...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "##不过，这么一来，你也会被追杀……",
+      "jap": "##だが、これでお前も、追われる身だぞ…",
+      "eng": "##You won't be able to run far enough...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "##这把刀真是棒透了……削铁如泥啊……",
+      "jap": "##素晴らしい刀だ…蕩けるようだ…",
+      "eng": "##What a wonderful specimen...Like slicing through butter...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "##嘻、嘻嘻、嘻嘻嘻嘻！",
+      "jap": "##ウヒ、ウヒヒ、ウヒーッヒッヒッヒッヒッ！",
+      "eng": "##Hee, hee, nee hee hee!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "##就是因为太过贪心，才落得这番下场……",
+      "jap": "##欲をかくから、そういうことになる…",
+      "eng": "##Your ambitions have sealed your fate.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "##不过，没想到我竟然成了背叛者……",
+      "jap": "##だが、俺が裏切り者とはな…",
+      "eng": "##But, who'd have thought I'd be the traitor?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "##无所谓，也挺有趣的……",
+      "jap": "##まあ、それも面白いか…",
+      "eng": "##Sometimes you never know, do you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "##哼哼哼哼哼",
+      "jap": "##ククククククッ",
+      "eng": "##Keh heh heh heh!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

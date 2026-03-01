@@ -1,6 +1,935 @@
 {
   "npc": "maughlin",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/maughlin.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/maughlin.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "咦，那、那个！",
+      "jap": "えっ、あ、あの！",
+      "eng": "Err, oh, hello there!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "欢、欢迎来到玛夫穆蓝的店！需、需要来点防具吗!?",
+      "jap": "よ、ようこそ、マフミュランの店へ！ぼ、防具はいかがです！？",
+      "eng": "W-welcome, to my shop. I-I'm Maughlin, and I sell armour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "不、不好意思。那个，您可以随便看看。",
+      "jap": "す、すいません、あの、良かったら見ていってください",
+      "eng": "Oh, sorry, I... Please, do have a look at my wares.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "求求你\r\n就当是做好事……随便买点东西吧。",
+      "jap": "お願いです\r\n助けると思って…何か買ってくれませんか",
+      "eng": "I could really use the business...\r\nIf you'd be so kind...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:連続で話しかけた",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "啊，您又上门了！有时间的话，随便看看吧。",
+      "jap": "あ、また来てくれたんですね！よかったら、見ていってください",
+      "eng": "Well, thank you, for coming back! Do take a look at my wares.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけた",
+      "eng": "#0Talk-After resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "啊，好久不见了。\r\n希望店里面的东西能够帮上你的忙……",
+      "jap": "お、お久しぶりです\r\nお役に立てる物が、あるといいんですけど…",
+      "eng": "Oh, hello again.\r\nI-I hope you find something of use.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "我从西边的沃尔肯而来。",
+      "jap": "僕は、西のヴォルゲンから来たんです",
+      "eng": "I came from the west, from Volgen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "您曾去过那里吗？是个交易兴盛、热闹无比的地方。",
+      "jap": "行ったことはあります？商売が盛んで、賑やかな所ですよ",
+      "eng": "Have you been there? It's a lively place, vibrant with trade.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "所以竞争也非常激烈。\r\n不只靠天赋，还要有门路。",
+      "jap": "その分、競争は激しいです\r\n才能だけじゃなくて、いろいろコネも要りますしね",
+      "eng": "Very competitive, of course.\r\nAnd y-you have to grease the wheels to get anywhere.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "无论如何，没有一笔本钱什么都谈不上。\r\n所以我才旅行在外，\r\n想说外面捞一笔再回去。",
+      "jap": "とりあえず、まとまった資金がないと話にならない\r\nそれで旅に出たんです\r\n外で稼いで来ようと思って",
+      "eng": "But I didn't have the funding for that,\r\nso I left home in hopes\r\nof striking gold.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "不过，这么多年了。\r\n却始终不见起色……呵呵呵……",
+      "jap": "でも、もう何年も経ってるのに\r\n一向になんですよね…ハハハ…",
+      "eng": "It's been years since then, and I've...\r\nwell I've made very little headway...hah hah",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "不知不觉来到了这儿……",
+      "jap": "気付いたら、何故かここに来てしまっていて…",
+      "eng": "I don't even know why I'm still here...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "这么闲散的地方哪有生意可做……\r\n为什么我会到这里来呢……",
+      "jap": "こんな寂れてちゃ、商売にならないのに…\r\n何でこんなところに…",
+      "eng": "Everything's all run-down and dying...\r\nIt's t-terrible for business, really...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 18,
+      "chn": "在沃尔肯，人称青教教徒的一群人。\r\n势力可说遍布各地。",
+      "jap": "ヴォルゲンでは、青の教徒という連中が\r\n幅を利かせてるんです",
+      "eng": "A group calling themselves the Blue Sentinels\r\nhave gained much power in Volgen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "没有他们点头，连生意都做不了。",
+      "jap": "そいつらに顔が効かないと、商売になりません",
+      "eng": "You can't even run a shop without their blessing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "对外还宣扬什么博爱理念。\r\n根本就是骗人……",
+      "jap": "表向きは博愛とか言ってるんですけどね\r\n大嘘ですよ、あんなの…",
+      "eng": "They claim to be working for the greater good,\r\noh...but it's absolute hogwash.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "唉……",
+      "jap": "はぁ…",
+      "eng": "Hmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "可恶，为什么……我为什么要在这里……",
+      "jap": "くそっ、なんで…俺はこんなところに…",
+      "eng": "Oh, by the gods...Why the hell am I here? ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "啊、那个，欢迎下次再光临……",
+      "jap": "あ、あの、またお待ちしてます…",
+      "eng": "Well, I, I do hope I see you again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "谢谢惠顾。\r\n欢迎再度光临。",
+      "jap": "ありがとうございました\r\nまた、よろしくお願いします",
+      "eng": "Thanks very much.\r\nAnd, do please come again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "啊，客人……",
+      "jap": "お、お客さん…",
+      "eng": "Oh, is something wrong?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0累计交易1000以上魂量后，第1次说话",
+      "jap": "#0話しかけた:1000ソウル以上購入したあとA",
+      "eng": "#0Talk-1st time, after previous spending 1000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "啊，我一直盼着您来。",
+      "jap": "あ、あなたをお待ちしてたんですよ",
+      "eng": "Oh, I was hoping that you would come.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "店里进了批新货。\r\n想说一定得请您鉴赏鉴赏。",
+      "jap": "新しい商品を揃えてます\r\n是非とも見ていただきたい、と思いまして",
+      "eng": "I've stocked some new things,\r\nand I thought you might be interested.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "多亏您的支持，累积了一笔小小资金……\r\n想说拓展些有规模的业务。",
+      "jap": "おかげで、多少は資金が貯まってきたので…\r\n少し大きくやってみようかと思って",
+      "eng": "They've been selling rather well,\r\nand I may step up operations soon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "其实心里面还很战战兢兢的呢，呵呵呵。",
+      "jap": "まだ、おっかなびっくりですけどね、ハハハッ",
+      "eng": "I'm...well I'm surprising even myself, to be honest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "#0累计交易1000以上魂量后，第2次说话",
+      "jap": "#0話しかけた:1000ソウル以上購入したあとB",
+      "eng": "#0Talk-2nd time, after previous spending 1000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 36,
+      "chn": "还有什么没买到的吗？您请尽情看个够。",
+      "jap": "買い忘れですか？どうぞ、満足いくまで見てください",
+      "eng": "Forget to buy something? Go ahead, take your time.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0累计交易1000以上魂量后，在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけた・1000ソウル以上購入したあと",
+      "eng": "#0Talk-3rd time, after previous spending 1000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "您能平安回来就好。\r\n到店里看看吧。",
+      "jap": "無事でなによりです\r\nまた見ていってください",
+      "eng": "I'm glad to see you safe.\r\nTake...take a look at my wares.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "#0累计交易1000以上魂量后，互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA・1000ソウル以上購入したあと",
+      "eng": "#0Menu-Choose \"Talk\" 1st time, after previous spending 1000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 40,
+      "chn": "之前曾经向您提过吧？我不是这个国家的人。",
+      "jap": "前にも話しましたっけ？僕はこの国の人間じゃないって",
+      "eng": "Did I mention before that I'm not from these parts?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "我四处旅行。\r\n但不知不觉就来到了这儿……",
+      "jap": "旅をしてるんです\r\n気付いたら、何故かここに来ていて…",
+      "eng": "I was on a journey...\r\nAnd somehow ended up here...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "眼见这里的光景，本来还是一筹莫展……\r\n目前总算是上了点轨道。",
+      "jap": "ここの有様を見た時は、どうしようかと思いましたが…\r\nやっとなんとか、うまくいくようになってきました",
+      "eng": "The desolation here was disenchanting at first.\r\nBut over time, things started to turn my way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "除了您，偶而有人会光临。",
+      "jap": "あなたの他にも、時々人がくるんです",
+      "eng": "Yeah, I-I've got a good few regulars now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "每个人似乎都很紧张……\r\n价格贵了点也愿意出钱购买。",
+      "jap": "何故か皆さん、必死そうで…\r\n多少高くても、買っていってくれるんですよ",
+      "eng": "They're all strangely desperate,\r\nand quite willing to pay a premium.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "其中的一部分虽然之后没再看过他们了。\r\n不过，这和我又有什么关系呢。",
+      "jap": "中にはそれっきり、帰ってこない人もいますけど\r\nまあ、僕には関係ない話です",
+      "eng": "Sadly, some of them never come back.\r\nBut I try not to think about it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0累计交易1000以上魂量后，互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB・1000ソウル以上購入したあと",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time, after previous spending 1000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "话说回来，\r\n您看过手持青色大剑的剑士吗？",
+      "jap": "そういえば、大きな青い剣を持った\r\n剣士を見ましたか？",
+      "eng": "Have you seen that warrior\r\nlugging that giant blue sword about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "武器虽然不是我的专业，但那成色很不错。",
+      "jap": "武器は僕の専門外ですが、あれは相当な品だと思いますよ",
+      "eng": "I'm no expert, but that appears to be a fine specimen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "很巨大、很特别的剑。\r\n在沃尔肯从来就没看过。",
+      "jap": "大きくて、変わった剣でした\r\nあんなのは、ヴォルゲンでも見たことがありません",
+      "eng": "The monstrous thing has a peculiar design,\r\nquite unlike anything found in Volgen.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "如果您见到那位，\r\n帮我问问有没有意愿出让。",
+      "jap": "もし見かけたら、譲る気はないか\r\n尋ねてみてもらえませんか",
+      "eng": "If you should speak to him,\r\nwould you ask him if he won't sell it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "当然还是要眼见为凭，\r\n不过我会准备令他满意的对价。",
+      "jap": "実際に見てみないとですが、\r\nそれなりの対価は用意するつもりです",
+      "eng": "I'd have to take another look,\r\nbut I'm confident I could offer quite a price.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0累计交易1000以上魂量后，互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC・1000ソウル以上購入したあと",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time, after previous spending 1000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "原本想要回国看看的。\r\n但还是决定多留一段时间。",
+      "jap": "一度、国へ戻ろうかと思ってたんですが、\r\nもう少し、いることにしましたよ",
+      "eng": "I considered returning to my homeland,\r\nbut I've decided to stay a while longer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "好不容易上了轨道，\r\n看来我的胃口也开始大了呢。\r\n哈哈哈！",
+      "jap": "せっかく、うまくいき始めたんですからね\r\n少し欲が出てきたのかも\r\nハハハッ",
+      "eng": "I've started to turn a handsome profit now,\r\nand I can't bear to give it up.\r\nHeh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0累计交易1000以上魂量后，持有苍之大剑时，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・1000ソウル以上購入したあとで蒼の大剣を持っている",
+      "eng": "#0Menu-Choose \"Talk\" after acquireing the Bluemoon Greatsword",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "你手持的那把剑……\r\n能不能借我看一看。",
+      "jap": "あなたの持っているその剣は…\r\nそれを、ちょっと見せてもらえますか",
+      "eng": "That sword that you've got...\r\nMay I, um, have a look at it?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "嗯～～这个……很不错……",
+      "jap": "うーん、これは…なかなか…",
+      "eng": "Hmm, it's...yeah...it's interesting, it's...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "但仔细一瞧，却是把仿制品，\r\n价值并不会太高。",
+      "jap": "でも、よく見ると、模造品ですね\r\nあまり価値のあるものではないようです",
+      "eng": "Oh, no, I'm afrai...sorry, I'm afraid this is a fake.\r\nIt's not worth much at all.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "原型或许还存在\r\n某个地方也说不定。",
+      "jap": "どこかにオリジナルが\r\nあるのかもしれませんけどね",
+      "eng": "The original must be somewhere,\r\nI would imagine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 61,
+      "chn": "期待您的再度光临。",
+      "jap": "またお待ちしてますよ",
+      "eng": "Always open for business.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "谢谢惠顾。\r\n欢迎再度光临。",
+      "jap": "ありがとうございました\r\nまた来てください",
+      "eng": "Thanks very much.\r\nDo come again!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 65,
+      "chn": "不看了吗？",
+      "jap": "もう良いんですか？",
+      "eng": "Finished already?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0累计交易15000以上魂量后，第1次说话",
+      "jap": "#0話しかけた:15000ソウル以上購入したあとA",
+      "eng": "#0Talk-1st time, after previous spending 15000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "那个，您是？\r\n……抱歉，最近真的忙不过来。",
+      "jap": "ええと、あなたは…？\r\n失礼、ここのところ忙しくて",
+      "eng": "Um, sorry, have we met?\r\nOh sorry, it's just I've been awfully busy lately.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "您要购买我们的商品吗？请随便看看。",
+      "jap": "うちの商品をご所望ですか？どうぞ遠慮なく",
+      "eng": "Care to look over my wares? Please, be my guest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "最近换了批商品上架，\r\n不知道您是否买得起呢……",
+      "jap": "最近品揃えを変えたのでね\r\nあなたの手に届くかはわかりませんが…",
+      "eng": "I upgraded my stock recently.\r\nAlthough it may be a bit out of your reach...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0累计交易15000以上魂量后，第2次说话",
+      "jap": "#0話しかけた:15000ソウル以上購入したあとB",
+      "eng": "#0Talk-2nd time, after previous spending 15000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "您要购买防具吗？只要是我经手的，包准不会错。",
+      "jap": "防具がご入り用ですか？私の扱うものに、外れはないですよ",
+      "eng": "Looking for armour? Everything I offer is quite dependable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0累计交易15000以上魂量后，在营火休息后说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけた・15000ソウル以上購入したあと",
+      "eng": "#0Talk-3rd time, after previous spending 15000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "您需要防具吗？请您慢慢浏览。",
+      "jap": "防具が欲しいんですか？どうぞご覧ください",
+      "eng": "You need armour? Go ahead, see what I'm offering.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0累计交易15000以上魂量后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すA・15000ソウル以上購入したあ",
+      "eng": "#0Menu-Choose \"Talk\" after previous spending 15000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "存到了、存到了……嘻嘻嘻嘻……",
+      "jap": "大儲けだ…貯まった、貯まった…フヒヒヒ…",
+      "eng": "I'm rich, I'm rich... Mwa hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "看来也不用回去了……",
+      "jap": "もう、帰らなくてもいいかもな…",
+      "eng": "I don't need to go home anymore! ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "回去……回去？……回哪儿去？",
+      "jap": "帰る…帰る…？どこへ…？",
+      "eng": "Home...home...? Where...where is home...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0累计交易15000以上魂量后，失去所有灵魂时，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すB・15000ソウル以上購入したあ、所持ソウルが0",
+      "eng": "#0Menu-Choose \"Talk\" after spending 15000 souls, but currently holding none",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "唉呀……您有困扰吗……",
+      "jap": "おや…お困りのようですね…",
+      "eng": "In a spot of bother are we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "这个您收下吧。\r\n钱的事就别在意了。",
+      "jap": "これをお持ちください\r\nお代は結構ですから",
+      "eng": "Here, take this.\r\nMy compliments.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "不要吗？过了这个村，可没那个店啰。",
+      "jap": "いいんですか？次に来たときには、もうないかもしれませんよ",
+      "eng": "Are you sure? Well...I may sell out while you're away.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 84,
+      "chn": "铭谢惠顾，欢迎再度光临。",
+      "jap": "お買い上げどうも、またお待ちしてます",
+      "eng": "Thanks for the purchase. Do come again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 86,
+      "chn": "唉呀，真是急性子！",
+      "jap": "おっと、せっかちな人だ！",
+      "eng": "Now, have some patience!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 88,
+      "chn": "哇！",
+      "jap": "うわっ！",
+      "eng": "Eek!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "你、你干什么!?",
+      "jap": "な、何を！？",
+      "eng": "Who...what the?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 92,
+      "chn": "可、可恶啊！我宰了你!!",
+      "jap": "ち、ちくしょう！やってやる！！",
+      "eng": "C-curses upon you! Enough of this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "又、又是你呀!?",
+      "jap": "ま、またあんたか！？",
+      "eng": "Oh it's y-you again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "我……杀人了……",
+      "jap": "やや…やった…",
+      "eng": "I-I did it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "怎么能死在这里!!",
+      "jap": "し、死んでたまるか！！",
+      "eng": "Y-you won't get me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "##啊，我一直盼着您来。\r\n店里已经展开不用品回收的业务。",
+      "jap": "##あ、あなたをお待ちしてたんですよ\r\n今度、不用品の下取りを始めたんです",
+      "eng": "##Oh, there you are!\r\nI-I now offer buybacks.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "##将根据回收物品给予不同的对价。\r\n而几乎所有的物品都可回收。",
+      "jap": "##いただくものによって、対価は変わりますけど\r\nだいたいのものは買い取りますよ",
+      "eng": "##I-I'll purchase almost anything,\r\nfor the appropriate price.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "##多亏您的支持，累积了一笔小小资金……\r\n想说展开点什么新的业务。",
+      "jap": "##おかげで、多少は資金が貯まってきたので…\r\n新しいことをやってみようかと思って",
+      "eng": "##I've managed to save a good deal,\r\nso I-I can afford to risk of a new venture.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "##虽说也有可能会失败啦，哈哈哈！",
+      "jap": "##時には失敗したりしますけどね、ハハハッ",
+      "eng": "##At the very worst, I'll just suffer a wee loss. Hmph.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "##那个，您是？\r\n……抱歉，最近真的忙不过来。",
+      "jap": "##ええと、あなたは…？\r\n失礼、ここのところ忙しくて",
+      "eng": "##Do I know you? Sorry...apologies,\r\nI've been quite busy these days...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "##店里已经展开道具回收的业务，\r\n有任何需要请尽管提出。",
+      "jap": "##最近、アイテムの下取りを始めました\r\nご入り用の際は、遠慮なく",
+      "eng": "##Yeah...well...I'm now offering buybacks.\r\nThis service is available at anytime.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "##如果有优良的道具，\r\n会支付给您应有的对价。",
+      "jap": "##良いアイテムを出してくれれば\r\n相応の対価をつけますよ",
+      "eng": "##I offer fair prices\r\nfor quality items.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "##感谢……您的惠顾……",
+      "jap": "##まいど…ありがとうございます…",
+      "eng": "##Did I mention I was...rich?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "###2（仅英文语音）感谢……您的惠顾……#3",
+      "jap": "##…",
+      "eng": "##(No caption) Thanks for your... custom.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "###2（仅英文语音）拜托！把我放出来！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Please! I must be freed!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "###2（仅英文语音）快点，打开它！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hurry, open it!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "###2（仅英文语音）拜托把它打开！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Open this thing please!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "###2（仅英文语音）快点……做点什么！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Hurry... do something!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "###2（仅英文语音）啊……非常感谢！#3",
+      "jap": "##…",
+      "eng": "##(No caption) Oh... thank you so very much!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "###2（仅英文语音）我终于自由了！#3",
+      "jap": "##…",
+      "eng": "##(No caption) I'm finally free!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "###2（仅英文语音）你救了我的命！#3",
+      "jap": "##…",
+      "eng": "##(No caption) You saved my life!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "###2（仅英文语音）多谢，麻烦你了。#3",
+      "jap": "##…",
+      "eng": "##(No caption) Thank you, for your trouble.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

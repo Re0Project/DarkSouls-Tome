@@ -1,6 +1,295 @@
 {
   "npc": "hodrick",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/hodrick.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/hodrick.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……哦，真是稀奇。",
+      "jap": "…ほう、珍しいこともあるものじゃ",
+      "eng": "Well, what's happened here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "居然有个正常人掉进游魂的穴屋啊。",
+      "jap": "亡者の穴倉に、まともな奴が落ちてくるとは",
+      "eng": "This pit is for Hollows, not for the likes of you sane folk.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "还是说，你只是很会演戏罢了？",
+      "jap": "それとも貴公、そういうふりがうまいだけかね？",
+      "eng": "Or perhaps you are a Hollow, posing as otherwise?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0选择「不是」",
+      "jap": "#0話しかけた:1回目・選択肢【ちがう】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "……",
+      "jap": "うわっはっはっはっ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "是吗，是吗，我想也是。",
+      "jap": "そうか、そうか、そうだろうな",
+      "eng": "No, no, of course you're not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "狂人都是这么说的啦。",
+      "jap": "狂人も皆そう言うものじゃよ",
+      "eng": "That's what you mad fools always say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "……是啊，人总有一天会发狂，\r\n死不成的家伙更是如此。",
+      "jap": "…そうさね、人はいつか狂う。\r\n死なずとなれば尚更じゃ",
+      "eng": "But we'll all be mad, soon enough.\r\nAnd should you be Undead, well, all the more so.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0选择「没错」",
+      "jap": "#0話しかけた:1回目・選択肢【そうだ】",
+      "eng": "#0Choose \"Indeed\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "……",
+      "jap": "うわっはっはっはっ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "是吗，是吗，我想也是。",
+      "jap": "そうか、そうか、そうだろうな",
+      "eng": "Yes, yes, then we're just fine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "能明白这点，你还算是正常啦。",
+      "jap": "それが分かっていれば、まだ十分まともということじゃよ",
+      "eng": "It's important to know who you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "……不过，人总有一天会发狂，\r\n死不成的家伙更是如此。",
+      "jap": "…だが、人はいつか狂う。\r\n死なずとなれば尚更じゃ",
+      "eng": "But we'll all be mad, soon enough.\r\nAnd should you be Undead, well, all the more so.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "神的枷锁，意外地脆弱啊……",
+      "jap": "神の枷は、存外と脆いものなのじゃよ…",
+      "eng": "Beware, the shackles of the Gods are fragile.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "所以你拿着吧，一点礼物。\r\n当你有一天发狂了，好好记着吧，",
+      "jap": "だからな、ほれ、贈り物じゃ。\r\n貴公がいつか狂うとき、これを心に刻むがよい",
+      "eng": "You might need this.\r\nEtch it on your heart if you feel your sanity slipping.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "就来到这里，\r\n靠牺牲累积缘分吧。",
+      "jap": "この場所で、\r\n犠牲を縁と積むがよい",
+      "eng": "Come here to pile up your victims,\r\nfor that will form your anchor.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……等你发狂了就会明白，那时候我们就是一家人啦。",
+      "jap": "…狂えばわかる。それが家族になっていくのじゃ",
+      "eng": "You'll see when you go mad. They'll be your family.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "……",
+      "jap": "ハハハッ…ハハッ",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "……虽然说你有朝一日会发狂，但不是现在。",
+      "jap": "…貴公、いつか狂うとて、それは今ではあるまい",
+      "eng": "You'll go mad one day, but not today.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "奉劝你一句，用这骨片回你的地盘去吧。",
+      "jap": "悪いことは言わぬ。この骨片で、己の場所に戻りたまえよ",
+      "eng": "Take my advice. Use this bone, and leave this place.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "这里是游魂的穴屋，\r\n是我这种狂人利用牺牲结缘的地方。",
+      "jap": "ここは亡者の穴倉、\r\nそして私のような狂人が、犠牲を縁と積む場所じゃ",
+      "eng": "This pit is for Hollows,\r\nand for the occasional madman fond of piling up victims.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "你也不愿意像我一样吧？",
+      "jap": "貴公とて、それ、そうなりたくはないだろう？",
+      "eng": "You've better things to do, I'd hope?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "……",
+      "jap": "ハハハッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "哦，你果然是游魂啊。",
+      "jap": "ほう、やはり亡者だったか",
+      "eng": "I knew it, I knew you were Hollow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "正好。",
+      "jap": "ならば丁度いい",
+      "eng": "Well, that's just fine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "就和我成为一家人吧！",
+      "jap": "私の家族になるがいい！",
+      "eng": "You can join my little family!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "来吧，你也成为一员、成为我的家人吧……",
+      "jap": "さあ、貴公も積んであげよう。私の家族に…",
+      "eng": "Right, onto the pile with you. You're family now...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "啊啊，我的家人……",
+      "jap": "ああ、私の家族…",
+      "eng": "Ahh, my family...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "我可爱的希里丝……",
+      "jap": "可愛いシーリス…",
+      "eng": "Dear little Sirris...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "##……",
+      "jap": "##ギャアアアアアアアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

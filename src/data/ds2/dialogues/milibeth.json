@@ -1,6 +1,295 @@
 {
   "npc": "milibeth",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/milibeth.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/milibeth.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "这里是位于狭缝间的地方……\r\n连接起\"多兰古雷格\"与外界的边缘之地。",
+      "jap": "ここは狭間の場所…\r\n\"ドラングレイグ\"と、外界をつなぐ辺縁の地です",
+      "eng": "This is a limbo.\r\nA link between Drangleic and the outer world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "这位旅人，你也是有什么理由的吧。",
+      "jap": "旅のお方、貴方も何か訳がおありなのでしょう",
+      "eng": "Fair traveller, I know that you must have a story.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "否则哪有道理到访这样的地方。",
+      "jap": "でなければ、このようなところを訪れる由もありません",
+      "eng": "Why else would you visit such a place?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "这里都已经是灭亡的国家了……",
+      "jap": "ここは、もう既に滅びた国なのですから…",
+      "eng": "This lost, decayed kingdom.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 6,
+      "chn": "我叫做米利贝丝。",
+      "jap": "私は、ミリベスと申します",
+      "eng": "My name is Milibeth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "那些老妇人以前\r\n被称作防火女。",
+      "jap": "あの老婆たちは、かつて火防女と\r\n呼ばれていました",
+      "eng": "The old women were once\r\nFire Keepers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "我的工作就是照料他们。",
+      "jap": "私の役目は、あの方たちのお世話をすることです",
+      "eng": "I am here to look after them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "我的母亲和祖母、\r\n以及其他先人都负责那个工作。",
+      "jap": "母も祖母も、その前もずっと\r\n私たちは、その役目を負ってきたのです",
+      "eng": "It is what my mother did,\r\nand her mother before her, and so on.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "那些老妇人身负守护火的特别职责。",
+      "jap": "あの老婆たちは、火を守る特別な役目を負っていました",
+      "eng": "The old women were keepers of the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "可是现在就连她们\r\n要守护的火都要熄灭了……",
+      "jap": "しかし、いまはもう\r\nその火も消えようとしているのでしょう…",
+      "eng": "But now,\r\nthe fire shows signs of fading...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "然后……游魂把这个国家……",
+      "jap": "そして…亡者がこの国を…",
+      "eng": "And the kingdom...is beset by Hollows...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0第4次说话",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "那些老妇人是姊妹。\r\n其实原本好像还有一个人的样子……",
+      "jap": "あの老婆たちは、姉妹なのです\r\n本当は、もうひとりいたそうなのですが…",
+      "eng": "The old women are sisters.\r\nI am told there was a fourth.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "据我所知，她们一直都是那个样子。",
+      "jap": "私が知っている限り、ずっとあの姿のままです",
+      "eng": "They have looked like that for as long as I have known them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "以前曾经有过很多防火女……",
+      "jap": "かつては、多くの火防女がいたのです…",
+      "eng": "Long ago, Fire Keepers were commonplace.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "可是现在已经四散……",
+      "jap": "でも、いまでは散り散りに…",
+      "eng": "But now they are lost, scattered to the winds.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0击杀隙间洞穴的两个食人魔后说话",
+      "jap": "#0話しかけた:隙間の洞、砂浜付近にいるオーガを2体倒したあと",
+      "eng": "#0Talk-After defeating the Ogres on the beach",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "你已经通过森林的试炼了吧。",
+      "jap": "森の試練を乗り越えられたのですね",
+      "eng": "You have proven yourself to the forest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "虽然这里什么都没有，不过请收下这个。",
+      "jap": "ここには何もありませんが、これをお持ちください",
+      "eng": "We have little to offer, except perhaps these.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "即使只有一点也好，\r\n希望能为你的旅途带来平安……",
+      "jap": "たとえわずかでも\r\nあなたの旅に、幸いがあるように…",
+      "eng": "May they bring fortune to your journey,\r\nin some small way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "好野蛮！……",
+      "jap": "乱暴な…！",
+      "eng": "You brute!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 27,
+      "chn": "请住手！",
+      "jap": "おやめください！",
+      "eng": "Stop this at once!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "做什么！……",
+      "jap": "何を…！",
+      "eng": "What are you...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0攻击退役的防火女，导致敌对时",
+      "jap": "#0敵対状態になった(退役した火防女を攻撃して敵対)",
+      "eng": "#0Upon attacking & making either Strowen, Griant or Morrel hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "你做什么！",
+      "jap": "何をするのです！",
+      "eng": "What are you doing!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった(ミリベスを攻撃して敵対)",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "马上离开！",
+      "jap": "立ち去りなさい！",
+      "eng": "Leave at once!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "##真险啊。",
+      "jap": "##危ないところでした",
+      "eng": "##That was dangerously close.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "##祝你旅途平安……",
+      "jap": "##旅のご無事を…",
+      "eng": "##Have a safe journey...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

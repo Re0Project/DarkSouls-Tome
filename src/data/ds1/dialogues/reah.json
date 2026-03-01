@@ -1,6 +1,671 @@
 {
   "npc": "reah",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/reah.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/reah.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……您应该也是不死人吧？",
+      "jap": "…あなたも、不死なのでしょう？",
+      "eng": "You are Undead, as well?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "既然如此，那我们也不用攀交情了。\r\n各自去达成彼此的使命吧。",
+      "jap": "ならば、馴れ合いは不要です\r\nお互い、己の使命を果たしましょう",
+      "eng": "Then we've no time to fraternize.\r\nI have my mission, and you no doubt have yours.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……不然，我们永远无法脱离诅咒。",
+      "jap": "…さもなくば、我々はただの呪われ人です",
+      "eng": "We must not let this curse overcome us.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "……先前我不就和您说过，我们没什么好谈的吗？",
+      "jap": "…馴れ合いは不要と、申し上げませんでしたか？",
+      "eng": "Did I not explain the urgency of our tasks?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "只有愚昧之徒的行为举止，才会那么不懂礼貌吧。",
+      "jap": "礼を弁えぬは、愚か者の振る舞いでしょう",
+      "eng": "Who are you so uncouth as to lack such judgement?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "我并不认为您是这种人……",
+      "jap": "あなたがそうだとは…思えませんが",
+      "eng": "By the looks of you...I should think not.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0到达巨人墓地后攀谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "……您不是游魂吧？",
+      "jap": "…あなたは、亡者ではありませんね？",
+      "eng": "You're no Hollow, are you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "……真是太好了。",
+      "jap": "…よかった",
+      "eng": "Thank goodness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "不过，还是请您要多留神。\r\n在这前面，有两个恐怖的游魂。",
+      "jap": "でも、気をつけてください\r\nこの先に、恐ろしい亡者が、2人います",
+      "eng": "Please be careful.\r\nThere are two fierce Hollows not far from here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "他们全是身手不凡的骑士……过去是我的随侍。",
+      "jap": "どちらも優れた騎士で…私の、供だった者です",
+      "eng": "They were once brave knights...my former escorts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "虽然他们遭遇到成为游魂，背叛天神等悲惨的事……",
+      "jap": "あの者たちが亡者となり、神に背くなど、酷いことですが…",
+      "eng": "Who would let such strong spirits be Hollowed so?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "但是我……无论如何……都无计可施……",
+      "jap": "私には…どうしても…どうすることもできないのです…",
+      "eng": "Heavens...Is there nothing...Nothing at all to be done?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0击杀游魂化的文斯和尼可后攀谈",
+      "jap": "#0話しかけた:亡者化したヴィンスとニコを倒した後",
+      "eng": "#0Talk-After defeating both Hollowed Vince & Nico",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "……是您帮忙平息了那两个游魂吧？",
+      "jap": "…2人の亡者を、鎮めてくれたのですね",
+      "eng": "You banished those two Hollows, did you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "我们所闯的祸，让您添了不少麻烦。",
+      "jap": "私たちの不始末で、あなたにご迷惑をおかけしました",
+      "eng": "It pains me to think of the trouble my failings have caused.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "我想文斯和尼可\r\n一定也会很感激您的。",
+      "jap": "あの2人、ヴィンスも、ニコも\r\nきっとあなたに感謝していると思います",
+      "eng": "I am certain that both\r\nVince and Nico are grateful to you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "真是感激不尽。",
+      "jap": "ありがとうございました",
+      "eng": "Thank you so very much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "这些是他们的遗物。\r\n我想您会比我更需要这些东西吧。",
+      "jap": "これは彼らの形見です\r\n私などより、あなたが持っているべきでしょう",
+      "eng": "Here, these belonged to them. \r\nYou deserve them more than I.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 22,
+      "chn": "好痛！",
+      "jap": "痛いッ！",
+      "eng": "Ow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "您在做什么！",
+      "jap": "何をするんですか！",
+      "eng": "Horrors!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 26,
+      "chn": "太不知进退！",
+      "jap": "無礼者！",
+      "eng": "The nerve!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 28,
+      "chn": "……无礼之徒！难道已成了游魂？",
+      "jap": "…不敬者か！それとも既に亡者ですか！",
+      "eng": "Are you a heretic, or just plain Hollow?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "无论如何，我都不饶过您的！",
+      "jap": "どちらとて、許すわけにはいきません！",
+      "eng": "It matters not, for you shall not escape!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "遭神所唾弃的愚昧之徒呀！",
+      "jap": "神に唾する愚か者よ！",
+      "eng": "You will offend the Gods no longer!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "#0击杀主角时",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 32,
+      "chn": "可悲的人……",
+      "jap": "悲しい人…",
+      "eng": "O piteous soul...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "不过……说不定……有天我也会变成这样……",
+      "jap": "でも…私も…何れこうなってしまうのかしら…",
+      "eng": "But...perhaps...this was a fate unyielding...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "呜！呜……",
+      "jap": "ウッ！クウウッ…",
+      "eng": "Hrgkt! Eeg...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "父亲……",
+      "jap": "お父様…",
+      "eng": "Father...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0到达城外不死教区后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "您是……那时候帮我的那位吧？",
+      "jap": "あなたは…あの時の方ですね",
+      "eng": "Hello...I will never forget what you did.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "真是感激您那时的帮忙。",
+      "jap": "その節は、ありがとうございました",
+      "eng": "I am deeply indebted,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "要是没有您在的话，\r\n光靠我一个人，就没办法拯救文斯和尼可了……",
+      "jap": "あなたがいなければ\r\n私では、ヴィンスも、ニコも、救ってあげられなかった…",
+      "eng": "for it was not within my power\r\nto save Vince or Nico.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "真的是非常感谢您。",
+      "jap": "ほんとうに、感謝しています",
+      "eng": "I cannot thank you enough.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "您还不知道我的名字吧？我是索尔隆德的蕾雅。",
+      "jap": "申し遅れましたが、私は、ソルロンドのレア",
+      "eng": "In case you have not heard, I am Reah of Thorolund.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "我很希望可以帮上您的忙，",
+      "jap": "何か、あなたの助けになれればよいのですが",
+      "eng": "I only wish there were some way I could help you,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "但我什么都不会，除了奇迹之外，对一切都一无所知。",
+      "jap": "不出来な身で、奇跡の他は何も知りません",
+      "eng": "but I am inexperienced, and I only know the art of Miracles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "如果您有意愿聊聊奇迹，就请您再和我说一声吧。",
+      "jap": "それで宜しければ、また、お声をかけてください",
+      "eng": "If that could be of any help, speak to me again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0到达城外不死教区后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "奇迹可能会帮上您的忙吗？",
+      "jap": "奇跡が、あなたのお役に立ちそうですか？",
+      "eng": "Would a Miracle be of any help to you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "这样就太好了，真令人开心。",
+      "jap": "もしそうなら、よかった。嬉しいことです",
+      "eng": "I would be most pleased if that were so.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "既然如此，我们来聊聊奇迹吧。",
+      "jap": "それでは、奇跡の話をしましょうか",
+      "eng": "May we discuss Miracles, then?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "#0到达城外不死教区后，第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 51,
+      "chn": "没想到能够再遇见您，您没事真是太好了。",
+      "jap": "またお会いできるとは、ご無事で何よりです",
+      "eng": "I am most pleased to find you in good health.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "我已经准备好了，现在就来聊聊奇迹吧。",
+      "jap": "私の用意はできています。奇跡の話をはじめましょう",
+      "eng": "I am ready. Let us speak of Miracles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0到达城外不死教区后，第4次攀谈",
+      "jap": "#0話しかけた:4回目",
+      "eng": "#0Talk-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "好久不见，我正等着您呢。",
+      "jap": "お久しぶりです。お待ちしておりました",
+      "eng": "I was wondering when you might return.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "您没事真是太好了。那么，我们来聊聊奇迹吧。",
+      "jap": "あなたがご無事で何よりです　それでは、奇跡の話をしましょうか",
+      "eng": "It is a great relief to see you. Now, let us speak of Miracles.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "#0到达城外不死教区后，第5次攀谈",
+      "jap": "#0話しかけた:5回目",
+      "eng": "#0Talk-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 57,
+      "chn": "……啊！啊啊，真是不好意思。刚才我在全神贯注地祈祷。",
+      "jap": "…あ！ああ、すみません。祈りに没頭しておりました",
+      "eng": "Oh! Please, forgive me. I was absorbed in prayer.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "您是要来聊奇迹的吧？我马上准备。",
+      "jap": "奇跡の話ですよね？すぐにご用意します",
+      "eng": "The Miracles, I presume? I will be ready immediately.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\"-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "当时……在文斯与尼可被一名叫帕奇的男子撞落陷阱，\r\n双双变成游魂的时候，",
+      "jap": "あの時…パッチという男に突き落とされて\r\nヴィンスとニコが亡者になってしまった時に",
+      "eng": "Vince and Nico were fooled by a lout named Patches, \r\nand turned into Hollows.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "我和我的祈祷完全派不上用场。",
+      "jap": "私は、私の祈りも、何の役にも立ちませんでした",
+      "eng": "My prayers did them no good.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "我是个既无力又愚昧的人，\r\n但我却没有自觉，反而连累了他们……",
+      "jap": "私は、無力で、愚か者なのです\r\nけれども、それを知らず、あの2人を巻き込んでしまった…",
+      "eng": "It is my ignorance,\r\nmy frailty that has sealed their fates.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "说不定，以前佩特鲁斯就观察过我，\r\n知道我那么没用，",
+      "jap": "あるいは、ペトルスは、昔から私を見て\r\nそうと知っていたのかもしれません",
+      "eng": "Perhaps Petrus realized\r\nmy weakness all along,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "才会抛下我不管，一个人逃走吧……",
+      "jap": "だから、私を捨て、逃げてしまったのでしょう…",
+      "eng": "and thus made the decision to abandon me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "这样我也怪不得别人。",
+      "jap": "仕方のないことだと思います",
+      "eng": "I can hardly blame him now.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\"-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 67,
+      "chn": "……我是个很怕生的人，",
+      "jap": "…私は、知らない人が苦手なんです",
+      "eng": "I do not warm easily to unfamiliar faces.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "下方的营火比较多人来往……因此我无法久待。",
+      "jap": "だから、下の篝火は少し賑やかで…いたたまれないのです",
+      "eng": "The bonfire below is so very frequented, it makes it difficult...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "而且我认识的人，都已经不在这个世上了……",
+      "jap": "知っていた人は、すべて失ってしまいましたし…",
+      "eng": "I have lost all those who were close to me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0互动列表-第3次选择「离去」",
+      "jap": "#0リストから選択:立ち去る",
+      "eng": "#0Menu-Choose \"Leave\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "慢走，愿您一切平安，",
+      "jap": "それでは、ご無事で",
+      "eng": "Then, be safe.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "再见了。",
+      "jap": "さようなら",
+      "eng": "Farewell.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "愿火指引您……",
+      "jap": "炎の導きを…",
+      "eng": "Vereor Nox",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "您为什么要这么做……",
+      "jap": "どうして、あなたが…",
+      "eng": "Why on earth would you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "还是说，这是惩罚？",
+      "jap": "それとも、これが罰でしょうか？",
+      "eng": "Perhaps this is my punishment?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "我不会做出向您出手之类的无谓反抗，但我只求一件事。",
+      "jap": "私が、あなたに手向かうなど無益なこと　ただ、1つ、お願いです",
+      "eng": "Clearly, I am no threat to you. But please, I ask just one thing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "如果我成为游魂的话，请您一定要帮忙平息我。",
+      "jap": "私が亡者となったら、どうか、それを鎮めてください",
+      "eng": "If I do go Hollow, then finish me off.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "万事拜托了。",
+      "jap": "お願いします",
+      "eng": "I beg of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 81,
+      "chn": "啊──文斯、尼可……",
+      "jap": "ああ、ヴィンス、ニコ…",
+      "eng": "Dear Vince, dear Nico...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "对不起……",
+      "jap": "ごめんなさい…",
+      "eng": "Forgive me...",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

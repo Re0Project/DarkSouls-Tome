@@ -1,6 +1,2919 @@
 {
   "npc": "other",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/other.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/other.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0地名",
+      "jap": "#0地名",
+      "eng": "#0Place Name",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "一线天森林",
+      "jap": "隙間の洞",
+      "eng": "Things Betwixt",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "防火女的住处",
+      "jap": "火防女たちの住処",
+      "eng": "Fire Keepers' Dwelling",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "如蜜",
+      "jap": "マデューラ",
+      "eng": "Majula",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "极地营火",
+      "jap": "果ての篝火",
+      "eng": "The Far Fire",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "巨人陨落之森",
+      "jap": "朽ちた巨人の森",
+      "eng": "Forest of Fallen Giants",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "灰心者的逃避处",
+      "jap": "心折れた者の逃げ場所",
+      "eng": "The Crestfallen's Retreat",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "主塔",
+      "jap": "主塔",
+      "eng": "Cardinal Tower",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "兵马避难所",
+      "jap": "兵の避難所",
+      "eng": "Soldiers' Rest",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "不为人知之地",
+      "jap": "誰も知らない場所",
+      "eng": "The Place Unbeknownst",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "巨人汪姆德的回忆",
+      "jap": "巨人ワムダの記憶",
+      "eng": "Memory of Vammar",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "巨人洛的回忆",
+      "jap": "巨人ローの記憶",
+      "eng": "Memory of Orro",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "巨人奥捷的回忆",
+      "jap": "巨人オジェイの記憶",
+      "eng": "Memory of Jeigh",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "海德巨火塔",
+      "jap": "ハイデ大火塔",
+      "eng": "Heide's Tower of Flame",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "海德废墟",
+      "jap": "ハイデの廃墟",
+      "eng": "Cathedral of Blue",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "巨火塔",
+      "jap": "大火塔",
+      "eng": "Heide's Ruin",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "青教圣堂",
+      "jap": "青聖堂",
+      "eng": "Tower of Flame",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "密港",
+      "jap": "隠れ港",
+      "eng": "No-man's Wharf",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "海德密道",
+      "jap": "ハイデへの隠れ道",
+      "eng": "Unseen Path to Heide",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "遗忘囚笼",
+      "jap": "忘却の牢",
+      "eng": "The Lost Bastille",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "流刑犯监狱",
+      "jap": "流刑者の牢",
+      "eng": "Exile Holding Cells",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "麦道夫的工房",
+      "jap": "マックダフの作業場",
+      "eng": "McDuff's Workshop",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "随从房间",
+      "jap": "従者の間",
+      "eng": "Servants' Quarters",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "史垂德牢笼",
+      "jap": "ストレイドの牢",
+      "eng": "Straid's Cell",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "离塔",
+      "jap": "離れの塔",
+      "eng": "The Tower Apart",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "罪人塔",
+      "jap": "罪人の塔",
+      "eng": "Sinners' Rise",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "盐塔",
+      "jap": "塩の塔",
+      "eng": "The Saltfort",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "月亮钟楼",
+      "jap": "月の鐘楼",
+      "eng": "Belfry Luna",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "城墙之顶",
+      "jap": "城壁屋上",
+      "eng": "Upper Ramparts",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "狩猎森林",
+      "jap": "狩猟の森",
+      "eng": "Huntsman's Copse",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "不死人藏身处",
+      "jap": "不死の隠れ処",
+      "eng": "Undead Refuge",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "桥边",
+      "jap": "橋のたもと",
+      "eng": "Bridge Approach",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "不死牢",
+      "jap": "不死牢",
+      "eng": "Undead Lockaway",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "不死人刑场",
+      "jap": "不死刑場",
+      "eng": "Undead Purgatory",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "流油谷",
+      "jap": "溜りの谷",
+      "eng": "Harvest Valley",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "毒池",
+      "jap": "毒溜り",
+      "eng": "Poison Pool",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "采掘场",
+      "jap": "採掘場",
+      "eng": "The Mines",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "堆土塔",
+      "jap": "土の塔",
+      "eng": "Earthen Peak",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "堆土塔‧下层",
+      "jap": "土の塔・下層",
+      "eng": "Lower Earthen Peak",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "堆土塔‧中层",
+      "jap": "土の塔・中層",
+      "eng": "Central Earthen Peak",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "堆土塔‧上层",
+      "jap": "土の塔・上層",
+      "eng": "Upper Earthen Peak",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "熔铁城",
+      "jap": "熔鉄城",
+      "eng": "Iron Keep",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "玄关桥",
+      "jap": "入口の橋",
+      "eng": "Threshold Bridge",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "铁炉屋",
+      "jap": "鉄の炉の棟",
+      "eng": "Ironhearth Hall",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "艾吉尔铁像",
+      "jap": "エギルの鉄像",
+      "eng": "Eygil's Idol",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "太阳钟楼",
+      "jap": "陽の鐘楼",
+      "eng": "Belfry Sol",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "太阳钟楼前",
+      "jap": "陽の鐘楼前",
+      "eng": "Belfry Sol Approach",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "黑雾之塔",
+      "jap": "黒霧の塔",
+      "eng": "Brume Tower",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "王座之阶",
+      "jap": "玉座の層",
+      "eng": "Throne Floor",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "上层",
+      "jap": "上層",
+      "eng": "Upper Floor",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "中心部",
+      "jap": "中心部",
+      "eng": "Foyer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "底层",
+      "jap": "最下層",
+      "eng": "Lowermost Floor",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "熔铁王座",
+      "jap": "熔鉄の玉座",
+      "eng": "The Smelter Throne",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "铁之古王的记忆",
+      "jap": "鉄の古王の記憶",
+      "eng": "Memory of the Old Iron King",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "铁之回廊",
+      "jap": "鉄の回廊",
+      "eng": "Iron Passage",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "铁之回廊‧入口",
+      "jap": "鉄の回廊・入口",
+      "eng": "Iron Hallway Entrance",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "虚影森林",
+      "jap": "虚ろの影の森",
+      "eng": "Shaded Woods",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "魔女居处",
+      "jap": "魔女がいた場所",
+      "eng": "Old Akelarre",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "歧路遗迹",
+      "jap": "分岐路の遺跡",
+      "eng": "Ruined Fork Road",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "茫然遗迹",
+      "jap": "虚ろの遺跡",
+      "eng": "Shaded Ruins",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "法洛斯门径",
+      "jap": "ファロスの扉道",
+      "eng": "Doors of Pharros",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "盖鲁姆休息处",
+      "jap": "ゲルムの憩いの場",
+      "eng": "Gyrm's Respite",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "试炼休息处",
+      "jap": "試練の休息所",
+      "eng": "Ordeal's End",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "辉石镇盖多勒",
+      "jap": "輝石街ジェルドラ",
+      "eng": "Brightstone Cove Tseldora",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "王国军野营地",
+      "jap": "王兵の野営地",
+      "eng": "Royal Army Campsite",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "礼拜堂前",
+      "jap": "礼拝堂前",
+      "eng": "Chapel Threshold",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "辉石镇‧下层",
+      "jap": "輝石街・下層",
+      "eng": "Lower Brightstone Cove",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "盖多勒公爵的隐藏房间",
+      "jap": "ジェルドラ公の隠し部屋",
+      "eng": "Lord's Private Chamber",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "古龙的记忆",
+      "jap": "古竜の記憶",
+      "eng": "Dragon Memories",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "冬之庙",
+      "jap": "冬の祠",
+      "eng": "Shrine of Winter",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "冰冻的埃斯‧洛耶斯",
+      "jap": "凍てついたエス・ロイエス",
+      "eng": "Frozen Eleum Loyce ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "圣壁之末",
+      "jap": "壁の終端",
+      "eng": "Outer Wall",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "废弃空屋",
+      "jap": "無人の廃屋",
+      "eng": "Abandoned Dwelling",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "城墙內部",
+      "jap": "城壁内部",
+      "eng": "Inner Wall",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "旧骑士街‧下层",
+      "jap": "旧騎士街・下層",
+      "eng": "Lower Garrison",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "流放房间",
+      "jap": "追放の間",
+      "eng": "Expulsion Chamber",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "主圣堂",
+      "jap": "主聖堂",
+      "eng": "Grand Cathedral",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "远古混沌",
+      "jap": "古き混沌",
+      "eng": "The Old Chaos",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "壁外雪原",
+      "jap": "壁外の雪原",
+      "eng": "Frigid Outskirts",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "圣人墓地",
+      "jap": "聖人墓所",
+      "eng": "Grave of Saints",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "圣职阿卡巴绝命之处",
+      "jap": "聖職者ハクバルの最期の地",
+      "eng": "Harval's Resting Place",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "墓地入口",
+      "jap": "墓所入口",
+      "eng": "Grave Entrance",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "废渊",
+      "jap": "クズ底",
+      "eng": "The Gutter",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "废渊‧上层",
+      "jap": "クズ底・上層",
+      "eng": "Upper Gutter",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "废渊‧中层",
+      "jap": "クズ底・中層",
+      "eng": "Central Gutter",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "黑溪谷",
+      "jap": "黒渓谷",
+      "eng": "Black Gulch",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "黑溪谷‧入口",
+      "jap": "黒渓谷・入口",
+      "eng": "Black Gulch Mouth",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "隐藏房间",
+      "jap": "隠し部屋",
+      "eng": "Hidden Chamber",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "圣壁之都 萨尔瓦",
+      "jap": "聖壁の都 サルヴァ",
+      "eng": "Shulva, Sanctum City",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "通往圣壁之路",
+      "jap": "祈りの塔",
+      "eng": "Tower of Prayer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "祈祷塔",
+      "jap": "聖壁への道",
+      "eng": "Sanctum Walk",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "巫女的房间",
+      "jap": "巫女の間",
+      "eng": "Priestess' Chamber",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "死者之洞",
+      "jap": "死者の洞",
+      "eng": "Cave of the Dead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "龙之圣壁",
+      "jap": "竜の聖壁",
+      "eng": "Dragon's Sanctum",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "圣壁的隐藏房间",
+      "jap": "聖壁の隠し部屋",
+      "eng": "Hidden Sanctum Chamber",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "未成者的居处",
+      "jap": "なりそこないの住処",
+      "eng": "Lair of the Imperfect",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "圣壁内部",
+      "jap": "聖壁内部",
+      "eng": "Sanctum Interior",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "沉眠之龙的睡塌",
+      "jap": "眠り竜の褥",
+      "eng": "Dragon's Rest",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "圣壁底层",
+      "jap": "聖壁底部",
+      "eng": "Sanctum Nadir",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "王都多兰古雷格",
+      "jap": "王城ドラングレイグ",
+      "eng": "Drangleic Castle",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "国王门前",
+      "jap": "王の扉前",
+      "eng": "King's Gate",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "遗忘之间",
+      "jap": "忘れられた部屋",
+      "eng": "Forgotten Chamber",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "王城‧地下",
+      "jap": "王城・地下",
+      "eng": "Under Castle Drangleic",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "王城‧中层",
+      "jap": "王城・中層",
+      "eng": "Central Castle Drangleic",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "王之回廊",
+      "jap": "王の回廊",
+      "eng": "King's Passage",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "阿马那祭坛",
+      "jap": "アマナの祭壇",
+      "eng": "Shrine of Amana",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "祈祷塔",
+      "jap": "祈りの塔",
+      "eng": "Tower of Prayer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "崩塌遗迹",
+      "jap": "崩れた遺跡",
+      "eng": "Crumbled Ruins",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "搜索者罗伊绝命之处",
+      "jap": "探索者ロイの最期の地",
+      "eng": "Rhoy's Resting Place",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "死者之塔",
+      "jap": "死者の塔",
+      "eng": "Rise of the Dead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "不死灵庙",
+      "jap": "不死廟",
+      "eng": "Undead Crypt",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "不死灵庙‧入口",
+      "jap": "不死廟・入口",
+      "eng": "Undead Crypt Entrance",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "死者弃置处",
+      "jap": "死者の捨て場",
+      "eng": "Undead Ditch",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "王的记忆",
+      "jap": "王の記憶",
+      "eng": "Memory of the King",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "安第尔之馆",
+      "jap": "アン・ディールの館",
+      "eng": "Aldia's Keep",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 115,
+      "chn": "前庭",
+      "jap": "前庭",
+      "eng": "Foregarden",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "秘仪殿",
+      "jap": "秘儀の棟",
+      "eng": "Ritual Site",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "卫龙巢穴",
+      "jap": "護り竜の巣",
+      "eng": "Dragon Aerie",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "龙祭坛",
+      "jap": "祭祀場",
+      "eng": "Dragon Shrine",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "祭坛‧入口",
+      "jap": "祭祀場・入口",
+      "eng": "Shrine Entrance",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "渴望王座",
+      "jap": "渇望の玉座",
+      "eng": "Throne of Want",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "远古暗穴",
+      "jap": "古き闇の穴",
+      "eng": "Dark Chasm of Old",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "##艾吉尔祭坛",
+      "jap": "##エギルの祭壇",
+      "eng": "##Eygil's Altar",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "##受蔑者们的圣域",
+      "jap": "##捨てられた者たちの聖域",
+      "eng": "##Sanctum of the Scorned",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "##流浪骑士亚瓦绝命之处",
+      "jap": "##放浪騎士アルバの最期の地",
+      "eng": "##Alva's Resting Place",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "##旧骑士街‧入口",
+      "jap": "##旧騎士街・入口",
+      "eng": "##Garrison Entrance",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "##旧骑士街‧地下",
+      "jap": "##旧騎士街・地下",
+      "eng": "##Garrison Underground",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "##传火玉座",
+      "jap": "##火継ぎの玉座",
+      "eng": "##Firelink Throne",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "#0NPC名",
+      "jap": "#0NPC名",
+      "eng": "#0NPC Name",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 129,
+      "chn": "温格之首",
+      "jap": "ヴァンガルの首",
+      "eng": "Head of Vengarl",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "蝎人塔克",
+      "jap": "蠍のターク",
+      "eng": "Manscorpion Tark",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "守墓人亚格德蓝",
+      "jap": "墓守アガドゥラン",
+      "eng": "Grave Warden Agdayne",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "汎克拉德",
+      "jap": "ヴァンクラッド",
+      "eng": "Vendrick",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "丧失者",
+      "jap": "喪失者",
+      "eng": "Forlorn",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "朝圣绿衣人",
+      "jap": "緑衣の巡礼",
+      "eng": "Emerald Herald",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "杜娜湘卓",
+      "jap": "デュナシャンドラ",
+      "eng": "Nashandra",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "架梯子的吉里甘",
+      "jap": "渡し屋ギリガン",
+      "eng": "Laddersmith Gilligan",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "斯特洛安",
+      "jap": "ストロアン",
+      "eng": "Strowen",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "格莉安特",
+      "jap": "グリアント",
+      "eng": "Griant",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "摩儿",
+      "jap": "モル",
+      "eng": "Morrel",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "宰相灵魂贝拉格",
+      "jap": "宰相の霊ベラガー",
+      "eng": "Chancellor Wellager",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "米利贝丝",
+      "jap": "ミリベス",
+      "eng": "Milibeth",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "王国队长多拉蒙德",
+      "jap": "王国隊長ドラモンド",
+      "eng": "Captain Drummond",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "潜身黑暗的格蓝达尔",
+      "jap": "闇潜りのグランダル",
+      "eng": "Darkdiver Grandahl",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "孤独的葛瓦蓝",
+      "jap": "孤独なガヴァラン",
+      "eng": "Lonesome Gavlan",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "失去心的索丹",
+      "jap": "心を失くしたソダン",
+      "eng": "Crestfallen Saulden",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "放浪的克雷顿",
+      "jap": "放浪のクレイトン",
+      "eng": "Creighton the Wanderer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "乌格的凡荷特",
+      "jap": "ウーゴのバンホルト",
+      "eng": "Benhart of Jugo",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 148,
+      "chn": "亲切的培特",
+      "jap": "親切なペイト",
+      "eng": "Mild-mannered Pate",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 149,
+      "chn": "画地图的凯尔",
+      "jap": "地図書きケイル",
+      "eng": "Cartographer Cale",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 150,
+      "chn": "米勒的鲁卡提耶",
+      "jap": "ミラのルカティエル",
+      "eng": "Lucatiel of Mirrah",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 151,
+      "chn": "钟卫",
+      "jap": "鐘守",
+      "eng": "Bell Keeper",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 152,
+      "chn": "行商梅伦提拉",
+      "jap": "行商メレンティラ",
+      "eng": "Merchant Hag Melentia",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 153,
+      "chn": "鼠王",
+      "jap": "ネズミの王",
+      "eng": "The Rat King",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 154,
+      "chn": "煤炭新娘娜德拉",
+      "jap": "煤の花嫁ナドラ",
+      "eng": "Nadalia, Bride of Ash",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 155,
+      "chn": "沉默巫女亚尔舒娜",
+      "jap": "沈黙の巫女アルシュナ",
+      "eng": "Alsanna, Silent Oracle",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 156,
+      "chn": "污秽女王艾雷娜",
+      "jap": "穢れの女王エレナ",
+      "eng": "Elana, Queen of Ruin",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 157,
+      "chn": "米勒法妮特",
+      "jap": "ミルファニト",
+      "eng": "Milfanito",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 158,
+      "chn": "遭囚的米勒法妮特",
+      "jap": "虜囚のミルファニト",
+      "eng": "Imprisoned Milfanito",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 159,
+      "chn": "卖防具的玛夫穆蓝",
+      "jap": "防具屋マフミュラン",
+      "eng": "Maughlin the Armourer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 160,
+      "chn": "卖矿石的克洛亚娜",
+      "jap": "石売りのクロアーナ",
+      "eng": "Stone Trader Chloanne",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 161,
+      "chn": "梅维亚的罗莎贝娜",
+      "jap": "メルヴィアのロザベナ",
+      "eng": "Rosabeth of Melfia",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 162,
+      "chn": "打铁的雷尼加兹",
+      "jap": "鍛冶屋レニガッツ",
+      "eng": "Blacksmith Lenigrast",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 163,
+      "chn": "熟练的麦道夫",
+      "jap": "熟練のマックダフ",
+      "eng": "Steady Hand McDuff",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 164,
+      "chn": "晦冥的卡里昂",
+      "jap": "晦冥のカリオン",
+      "eng": "Carhillion of the Fold",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 165,
+      "chn": "#1奥斯特罗#3#2奥拉斐斯#3的史垂德",
+      "jap": "オラフィスのストレイド",
+      "eng": "Straid of Olaphis",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 166,
+      "chn": "林德的莉絮",
+      "jap": "リンデルトのリーシュ",
+      "eng": "Licia of Lindeldt",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 167,
+      "chn": "逐出门牆的菲尔金",
+      "jap": "破門のフェルキン",
+      "eng": "Felkin the Outcast",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 168,
+      "chn": "宫廷魔法师那瓦蓝",
+      "jap": "宮廷魔術師ナヴァーラン",
+      "eng": "Royal Sorcerer Navlaan",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 169,
+      "chn": "拉‧卡纳尔的马格赫拉德",
+      "jap": "ラル・カナルのマグヘラルド",
+      "eng": "Magerold of Lanafir",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 170,
+      "chn": "卖武器的欧尼斐克斯",
+      "jap": "武器屋オルニフェクス",
+      "eng": "Weaponsmith Ornifex",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 171,
+      "chn": "可爱的夏拉格儿",
+      "jap": "愛しいシャラゴア",
+      "eng": "Sweet Shalquoir",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 172,
+      "chn": "矮小的格雷年",
+      "jap": "小さなグレネイン",
+      "eng": "Titchy Gren",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 173,
+      "chn": "教戒师克隆威尔",
+      "jap": "教戒師クロムウェル",
+      "eng": "Cromwell the Pardoner",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 174,
+      "chn": "青骑士格拉因德克",
+      "jap": "青の騎士ガラインドーク",
+      "eng": "Blue Sentinel Targray",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 175,
+      "chn": "德妮与提洛",
+      "jap": "ドネ＆ティロ",
+      "eng": "Dyna & Tillo",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 176,
+      "chn": "放浪骑士古连柯尔",
+      "jap": "放浪騎士グレンコル",
+      "eng": "Masterless Glencour",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 177,
+      "chn": "孤独猎人修密特",
+      "jap": "孤独な狩人シュミット",
+      "eng": "Lone Hunter Schmidt",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 178,
+      "chn": "朝圣者贝儿克蕾雅",
+      "jap": "巡礼者ベルクレア",
+      "eng": "Pilgrim Bellclaire",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 179,
+      "chn": "勇猛的菲丽西亚",
+      "jap": "勇猛なるフェリーシア",
+      "eng": "Felicia the Brave",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 180,
+      "chn": "切肉的玛丽妲",
+      "jap": "肉断ちのマリダ",
+      "eng": "Melinda the Butcher",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 181,
+      "chn": "罪人佛葛",
+      "jap": "罪人フォーゲル",
+      "eng": "Vorgel the Sinner",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 182,
+      "chn": "无情的柳士",
+      "jap": "無慈悲なリュース",
+      "eng": "Merciless Roenna",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 183,
+      "chn": "奇异的金多罗",
+      "jap": "奇妙なキンドロ",
+      "eng": "Peculiar Kindalur",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 184,
+      "chn": "龙牙威亚德",
+      "jap": "竜の牙ウィアード",
+      "eng": "Dragonfang Villard",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 185,
+      "chn": "米勒的阿兹拉提耶",
+      "jap": "ミラのアズラティエル",
+      "eng": "Aslatiel of Mirrah",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 186,
+      "chn": "无名的篡夺者",
+      "jap": "無名の簒奪者",
+      "eng": "Nameless Usurper",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 187,
+      "chn": "小丑汤马士",
+      "jap": "道化のトーマス",
+      "eng": "Jester Thomas",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 188,
+      "chn": "探索者罗伊",
+      "jap": "探索者ロイ",
+      "eng": "Rhoy the Explorer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 189,
+      "chn": "射手的盖拉姆",
+      "jap": "射手のガイラム",
+      "eng": "Bowman Guthry",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 190,
+      "chn": "灰之骑士博依德",
+      "jap": "灰の騎士ヴォイド",
+      "eng": "Ashen Knight Boyd",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 191,
+      "chn": "铁壁的巴鲁德",
+      "jap": "鉄壁のバルド",
+      "eng": "Rockshield Baldyr",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 192,
+      "chn": "修行者菲娃",
+      "jap": "修行者フィーヴァ",
+      "eng": "Abbess Feeva",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 193,
+      "chn": "落魄的阿布里斯",
+      "jap": "落ちぶれたアヴリス",
+      "eng": "Ruined Aflis",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 194,
+      "chn": "钢之艾莉",
+      "jap": "鋼のエリー",
+      "eng": "Steelheart Ellie",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 195,
+      "chn": "超越者艾迪剌",
+      "jap": "超越者エディラ",
+      "eng": "Transcendent Edde",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 196,
+      "chn": "贪婪的安德雷",
+      "jap": "欲深いアンドレア",
+      "eng": "Rapacious Andrei",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 197,
+      "chn": "剑士瑞秋",
+      "jap": "剣士レイチェル",
+      "eng": "Quicksword Rachel",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 198,
+      "chn": "暗杀者马雷达",
+      "jap": "暗殺者マルドロ",
+      "eng": "Maldron the Assassin",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 199,
+      "chn": "晦冥的卡里昂",
+      "jap": "晦冥のカリオン",
+      "eng": "Carhillion of the Fold",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 200,
+      "chn": "不屈的洛丽",
+      "jap": "不屈のローリ",
+      "eng": "Steel-willed Lorrie",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 201,
+      "chn": "流浪剑士艾多尔",
+      "jap": "放浪剣士エイドル",
+      "eng": "Drifter Swordsman Aidel",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 202,
+      "chn": "放逐术士多奈",
+      "jap": "追放術師ドナ",
+      "eng": "Castaway Witch Donna",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 203,
+      "chn": "暗术师尼古拉",
+      "jap": "闇術師ニコラ",
+      "eng": "Hexer Nicholai",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 204,
+      "chn": "神圣骑士欧尔海姆",
+      "jap": "神聖騎士オルハイム",
+      "eng": "Holy Knight Aurheim",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 205,
+      "chn": "瘦身的谢伊",
+      "jap": "痩身のシェイ",
+      "eng": "Twiggy Shei",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 206,
+      "chn": "废渊居民",
+      "jap": "クズ底の住人",
+      "eng": "Gutter Denizen",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 207,
+      "chn": "佣兵鲁特",
+      "jap": "傭兵ルート",
+      "eng": "Sellsword Luet",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 208,
+      "chn": "献身的史佳丽",
+      "jap": "献身のスカーレット",
+      "eng": "Devotee Scarlett",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 209,
+      "chn": "猎人头的奥赫菈",
+      "jap": "人狩りのオハラ",
+      "eng": "Manhunter O'Harrah",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 210,
+      "chn": "怕生的雷",
+      "jap": "人見知りのレイ",
+      "eng": "Bashful Ray",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 211,
+      "chn": "老兵布拉德雷",
+      "jap": "古兵ブラッドリー",
+      "eng": "Bradley of the Old Guard",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 212,
+      "chn": "森林之子维克塔",
+      "jap": "森の子ヴィクター",
+      "eng": "Woodland Child Victor",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 213,
+      "chn": "森林之子葛力",
+      "jap": "森の子ガリー",
+      "eng": "Woodland Child Gully",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 214,
+      "chn": "剑斗士雪伦",
+      "jap": "剣闘士シャロン",
+      "eng": "Fencer Sharron",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 215,
+      "chn": "卖武器的丹尼斯",
+      "jap": "武器屋デニス",
+      "eng": "Armorer Dennis",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 216,
+      "chn": "收集家奥利佛",
+      "jap": "収集家オリヴァー",
+      "eng": "Oliver the Collector",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 217,
+      "chn": "霸者石碑",
+      "jap": "覇者の石碑",
+      "eng": "Victor's Stone",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 218,
+      "chn": "太阳祭坛",
+      "jap": "太陽の神殿",
+      "eng": "Altar of Sunlight",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 219,
+      "chn": "徘徊的术士",
+      "jap": "彷徨い術師",
+      "eng": "Prowling Magus",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 220,
+      "chn": "骷髅王",
+      "jap": "スケルトンの王",
+      "eng": "Skeleton Lords",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 221,
+      "chn": "看守龙",
+      "jap": "護り竜",
+      "eng": "Guardian Dragon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 222,
+      "chn": "鼠王的试炼",
+      "jap": "ネズミの王の試練",
+      "eng": "Royal Rat Authority",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 223,
+      "chn": "鼠王先锋",
+      "jap": "ネズミの王の尖兵",
+      "eng": "Royal Rat Vanguard",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 224,
+      "chn": "放逐罪执行者",
+      "jap": "流罪の執行者",
+      "eng": "Flexile Sentry",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 225,
+      "chn": "熔铁恶魔",
+      "jap": "熔鉄デーモン",
+      "eng": "Smelter Demon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 226,
+      "chn": "最后的巨人",
+      "jap": "最後の巨人",
+      "eng": "The Last Giant",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 227,
+      "chn": "巨人王",
+      "jap": "巨人の王",
+      "eng": "Giant Lord",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 228,
+      "chn": "咒缚者",
+      "jap": "呪縛者",
+      "eng": "The Pursuer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 229,
+      "chn": "守钟的石像鬼",
+      "jap": "鐘守のガーゴイル",
+      "eng": "Belfry Gargoyles",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 230,
+      "chn": "茫然卫兵　雷基姆",
+      "jap": "虚ろの衛兵　レギム",
+      "eng": "Ruin Sentinel Yahim",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 231,
+      "chn": "茫然卫兵　路卡",
+      "jap": "虚ろの衛兵　ルカ",
+      "eng": "Ruin Sentinel Ricce",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 232,
+      "chn": "茫然卫兵　亚历山卓",
+      "jap": "虚ろの衛兵　アレサンドラ",
+      "eng": "Ruin Sentinel Alessia",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 233,
+      "chn": "「腐败物」",
+      "jap": "腐れ",
+      "eng": "The Rotten",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 234,
+      "chn": "王座守护者",
+      "jap": "玉座の守護者",
+      "eng": "Throne Defender",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 235,
+      "chn": "「王盾」韦施塔德",
+      "jap": "王盾ヴェルスタッド",
+      "eng": "Velstadt, the Royal Aegis",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 236,
+      "chn": "王座监视者",
+      "jap": "玉座の監視者",
+      "eng": "Throne Watcher",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 237,
+      "chn": "贪婪恶魔",
+      "jap": "貪りデーモン",
+      "eng": "Covetous Demon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 238,
+      "chn": "毒妃米妲",
+      "jap": "毒の妃ミダ",
+      "eng": "Mytha, the Baneful Queen",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 239,
+      "chn": "蝎子纳吉卡",
+      "jap": "蠍のナジカ",
+      "eng": "Scorpioness Najka",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 240,
+      "chn": "镜之战士",
+      "jap": "鏡の騎士",
+      "eng": "Looking Glass Knight",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 241,
+      "chn": "黑暗潜伏者",
+      "jap": "闇潜み",
+      "eng": "Darklurker",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 242,
+      "chn": "汎克拉德",
+      "jap": "ヴァンクラッド",
+      "eng": "Vendrick",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 243,
+      "chn": "古龙",
+      "jap": "古の竜",
+      "eng": "Ancient Dragon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 244,
+      "chn": "歌唱恶魔",
+      "jap": "唄うデーモン",
+      "eng": "Demon of Song",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 245,
+      "chn": "公爵的夫雷迪亚",
+      "jap": "公のフレイディア",
+      "eng": "The Duke's Dear Freja",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 246,
+      "chn": "铁之古王",
+      "jap": "鉄の古王",
+      "eng": "Old Iron King",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 247,
+      "chn": "龙骑兵",
+      "jap": "竜騎兵",
+      "eng": "Dragonrider",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 248,
+      "chn": "刑吏#1查略特#3#2战车#3",
+      "jap": "刑吏のチャリオット",
+      "eng": "Executioner's Chariot",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 249,
+      "chn": "古龙猎人",
+      "jap": "古い竜狩り",
+      "eng": "Old Dragonslayer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 250,
+      "chn": "遗忘的罪人",
+      "jap": "忘れられた罪人",
+      "eng": "The Lost Sinner",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 251,
+      "chn": "杜娜湘卓",
+      "jap": "デュナシャンドラ",
+      "eng": "Nashandra",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 252,
+      "chn": "烟之骑士",
+      "jap": "煙の騎士",
+      "eng": "Fume Knight",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 253,
+      "chn": "王宠厄娃",
+      "jap": "王の仔アーヴァ",
+      "eng": "Aava, the King's Pet",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 254,
+      "chn": "王宠札连",
+      "jap": "王の仔ザレン",
+      "eng": "Zallen, the King's Pet",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 255,
+      "chn": "王宠拉铎",
+      "jap": "王の仔ラド",
+      "eng": "Lud, the King's Pet",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 256,
+      "chn": "骑士亚伦",
+      "jap": "騎士アーロン",
+      "eng": "Sir Alonne",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 257,
+      "chn": "沉睡之龙　#1罪龙#3#2希恩#3",
+      "jap": "眠り竜シン",
+      "eng": "Sinh, the Slumbering Dragon",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 258,
+      "chn": "“污秽”艾雷娜",
+      "jap": "穢れのエレナ",
+      "eng": "Elana, the Squalid Queen",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 259,
+      "chn": "焦灼的白王",
+      "jap": "灼けた白王",
+      "eng": "Burnt Ivory King",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 260,
+      "chn": "原罪探求者 安第尔",
+      "jap": "原罪の探究者 アン・ディール",
+      "eng": "Aldia, Scholar of the First Sin",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 261,
+      "chn": "笃信教众",
+      "jap": "信心者たち",
+      "eng": "Congregation",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 262,
+      "chn": "远古探索者瑟拉",
+      "jap": "古い探索者セラ",
+      "eng": "Cerah the Old Explorer",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 263,
+      "chn": "远古战士沃格",
+      "jap": "古い戦士ウォーグ",
+      "eng": "Ancient Soldier Varg",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 264,
+      "chn": "罹疾的盗墓人",
+      "jap": "冒された盗掘者",
+      "eng": "Afflicted Graverobber",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 265,
+      "chn": "##探索者史都华",
+      "jap": "##探索者スチュワート",
+      "eng": "##Stewart the Explorer",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 266,
+      "chn": "##探索者蔻",
+      "jap": "##探索者コウ",
+      "eng": "##Courh the Explorer",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 267,
+      "chn": "##胆小的丹",
+      "jap": "##臆病者のダン",
+      "eng": "##Teeth-chattering Dan",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 268,
+      "chn": "##传道者后裔瓦茲洛",
+      "jap": "##伝道者の末裔ワズロー",
+      "eng": "##Evangelist Scion Waslo",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 269,
+      "chn": "##冒险者马谛亚斯",
+      "jap": "##冒険者マテヤス",
+      "eng": "##Swashbuckling Matelas",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 270,
+      "chn": "##龙血骑士隆达",
+      "jap": "##竜血騎士ロンダ",
+      "eng": "##Drakeblood Knight Rondor",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 271,
+      "chn": "#0肢体动作",
+      "jap": "#0ジェスチャー",
+      "eng": "#0Gesture",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 272,
+      "chn": "用手指人",
+      "jap": "指差し",
+      "eng": "Point",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 273,
+      "chn": "过来啊！",
+      "jap": "おいで",
+      "eng": "I won't bite",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 274,
+      "chn": "郑重敬礼",
+      "jap": "丁寧な一礼",
+      "eng": "Proper bow",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 275,
+      "chn": "道谢",
+      "jap": "一礼",
+      "eng": "Bow",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 276,
+      "chn": "欢迎",
+      "jap": "歓迎",
+      "eng": "Welcome",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 277,
+      "chn": "开战礼节",
+      "jap": "開戦礼",
+      "eng": "Duel bow",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 278,
+      "chn": "挥手",
+      "jap": "手を振る",
+      "eng": "Wave",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 279,
+      "chn": "兴奋激动",
+      "jap": "よし、やった！",
+      "eng": "Pumped up",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 280,
+      "chn": "喜悦",
+      "jap": "歓喜",
+      "eng": "Joy",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 281,
+      "chn": "怒吼",
+      "jap": "雄たけび",
+      "eng": "Warcry",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 282,
+      "chn": "活动肩膀",
+      "jap": "肩慣らし",
+      "eng": "Warmup",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 283,
+      "chn": "欢呼",
+      "jap": "エイエイオー",
+      "eng": "Hurrah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 284,
+      "chn": "知道",
+      "jap": "了解",
+      "eng": "Righty-ho!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 285,
+      "chn": "否定",
+      "jap": "否定",
+      "eng": "No way",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 286,
+      "chn": "我来！",
+      "jap": "私だ！",
+      "eng": "This one's me",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 287,
+      "chn": "求饶",
+      "jap": "命乞い",
+      "eng": "Have mercy!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 288,
+      "chn": "下跪",
+      "jap": "土下座",
+      "eng": "Prostration",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 289,
+      "chn": "枭首",
+      "jap": "首斬り",
+      "eng": "Decapitate",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 290,
+      "chn": "握拳高举",
+      "jap": "ガッツポーズ",
+      "eng": "Fist pump",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 291,
+      "chn": "看不起人",
+      "jap": "馬鹿にする",
+      "eng": "Mock",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 292,
+      "chn": "赞美太阳",
+      "jap": "太陽賛美",
+      "eng": "Praise the Sun",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 293,
+      "chn": "#0角色创建",
+      "jap": "#0キャラクター作成",
+      "eng": "#0Create Character",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 294,
+      "chn": "【战士】",
+      "jap": "【戦士】",
+      "eng": "【Warrior】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 295,
+      "chn": "为战斗而生的战士。\r\n力气、敏捷较高，\r\n擅长武器使用。",
+      "jap": "戦いに生きる戦士\r\n筋力、技量が高く\r\n武器の扱いに長ける",
+      "eng": "Battle-scarred warrior.\r\nHigh strength, dexterity.\r\nSkilled with weapons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 296,
+      "chn": "【骑士】",
+      "jap": "【騎士】",
+      "eng": "【Knight】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 297,
+      "chn": "旅行的骑士。\r\n生命力或适应力较高，\r\n耐得住攻击。",
+      "jap": "旅の騎士\r\n生命力や適応力が高く\r\n打たれ強い",
+      "eng": "Traveling knight.\r\nHigh HP and adaptability.\r\nTough to take down.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 298,
+      "chn": "【盗匪】",
+      "jap": "【野盗】",
+      "eng": "【Bandit】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 299,
+      "chn": "冷血的盗匪。\r\n擅长敏捷，能够开弓。\r\n远距近战均可应付。",
+      "jap": "無慈悲な盗賊\r\n技量に長け弓を扱える\r\n遠近ともに対応可能",
+      "eng": "A merciless outlaw.\r\nHigh dexterity, skilled with bow;\r\nfights well at various ranges.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 300,
+      "chn": "【圣职】",
+      "jap": "【聖職者】",
+      "eng": "【Cleric】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 301,
+      "chn": "朝圣中的圣职。\r\n以高度信仰造就的奇蹟\r\n开创前途。",
+      "jap": "巡礼の聖職者\r\n高い信仰による奇跡で\r\n道を切り拓く",
+      "eng": "Cleric on pilgrimage.\r\nHigh faith and miracles\r\nguide the way.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 302,
+      "chn": "【魔法师】",
+      "jap": "【魔術師】",
+      "eng": "【Sorcerer】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 303,
+      "chn": "长于智慧的魔法师。\r\n以高智力与记忆力\r\n操使魔法。",
+      "jap": "知に長けた魔術師\r\n高い理力と記憶力で\r\n魔術を操る",
+      "eng": "Knowledgeable sorcerer.\r\nCasts sorceries with high\r\nintelligence and attunement.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 304,
+      "chn": "【探索者】",
+      "jap": "【探索者】",
+      "eng": "【Explorer】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 305,
+      "chn": "巡回各地的探索者。\r\n虽无特长实力，\r\n却能多带道具。",
+      "jap": "各地を巡る探索者\r\n秀でた力は持たないが\r\nアイテムを沢山持つ",
+      "eng": "Well-traveled explorer.\r\nNot terribly powerful,\r\nbut has many items.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 306,
+      "chn": "【剑士】",
+      "jap": "【剣士】",
+      "eng": "【Swordsman】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 307,
+      "chn": "磨练招式的剑士。\r\n双手拿起强化武器，\r\n华丽的战斗。",
+      "jap": "技を磨いた剣士\r\n両手に強化武器を持ち\r\n鮮やかに戦う",
+      "eng": "Finely skilled swordsman.\r\nFights gracefully with strong\r\nweapons in both hands.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 308,
+      "chn": "【一无所有】",
+      "jap": "【持たざるもの】",
+      "eng": "【Deprived】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 309,
+      "chn": "出身不明、一丝不挂。\r\n手上不拿家伙就战斗。\r\n身体就是活着的证明。",
+      "jap": "素性の知れぬ裸の人\r\n何も持たずに戦う\r\nこの体こそが生の証",
+      "eng": "Unclothed, origin unknown.\r\nHas nothing to fight with,\r\nexcept life-affirming flesh.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 310,
+      "chn": "【无】",
+      "jap": "【なし 】",
+      "eng": "【Nothing】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 311,
+      "chn": "身上没带任何礼物。",
+      "jap": "おくりものなど何もなかった",
+      "eng": "Receive no gift.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 312,
+      "chn": "【生命戒指】",
+      "jap": "【生命の指輪】",
+      "eng": "【Life Ring】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 313,
+      "chn": "年代久远的戒指，\r\n微幅增加ＨＰ。",
+      "jap": "古い古い指輪\r\nＨＰが少しだけ増える",
+      "eng": "This ring of old\r\nslightly increases HP.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 314,
+      "chn": "【人像】",
+      "jap": "【人の像】",
+      "eng": "【Human Effigy】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 315,
+      "chn": "看起来很像某样物品，\r\n可从游魂复生为活人。",
+      "jap": "何かに見える像\r\n亡者から生者に戻る",
+      "eng": "A familiar looking effigy.\r\nReturns the hollowed to life.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 316,
+      "chn": "【各种治愈物品】",
+      "jap": "【治癒の品々】",
+      "eng": "【Healing Wares】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 317,
+      "chn": "恢复或解毒用的各种物品，\r\n此地旅行之人必备。",
+      "jap": "回復や毒の解除に使う品々\r\nこの地の旅人には必携",
+      "eng": "Various items used to cure poison and restore HP.\r\nEssential for anyone travelling Drangleic.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 318,
+      "chn": "【返回骨片】",
+      "jap": "【帰還の骨片】",
+      "eng": "【Homeward Bone】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 319,
+      "chn": "返回最后休息的营火处。\r\n虽说有拿有庇佑，\r\n但旅行没有百分百的安全。",
+      "jap": "最後に休息した篝火に戻る\r\n持っていると安心だが\r\n安全な旅などない",
+      "eng": "Returns you to the bonfire last rested at.\r\nHaving one may ease your mind,\r\nbut there are no easy journeys.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 320,
+      "chn": "【巨人果实种子】",
+      "jap": "【巨人の木の実の種】",
+      "eng": "【Seed of a Tree of Giants】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 321,
+      "chn": "来自巨人之树结果而成，\r\n不可食用。",
+      "jap": "巨人の木から成ったもの\r\n食べられない",
+      "eng": "A seed grown from a Tree of Giants.\r\nInedible.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 322,
+      "chn": "【营火的探究者】",
+      "jap": "【篝火の探究者】",
+      "eng": "【Bonfire Ascetic】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 323,
+      "chn": "投入营火可使周围敌人变强。\r\n非追求更高境界者不需此物。",
+      "jap": "篝火に注ぐと周囲の敵が強くなる\r\n高みを求める者でなければ不要",
+      "eng": "Toss into a bonfire to raise the strength of nearby foes.\r\nOnly for those who seek greater challenges.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 324,
+      "chn": "【某种化石】",
+      "jap": "【何かの化石】",
+      "eng": "【Petrified Something】",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 325,
+      "chn": "只是个石块，\r\n或许没半点用处。",
+      "jap": "ただの石の塊\r\n何かの役には立つかもしれない",
+      "eng": "A simple petrified lump.\r\nIt may be of some use, someday.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 326,
+      "chn": "#0系统",
+      "jap": "#0システム",
+      "eng": "#0System",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 327,
+      "chn": "展现王者证明吧！",
+      "jap": "王の証を示せ",
+      "eng": "Produce the symbol of the King",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 328,
+      "chn": "寻求强大灵魂吧！",
+      "jap": "強いソウルを求めよ",
+      "eng": "Seek mightier souls",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 329,
+      "chn": "感受到远古灵魂的残渣。",
+      "jap": "古いソウルの残滓を感じる",
+      "eng": "The remnants of ancient souls return",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 330,
+      "chn": "记忆的世界，无法久待",
+      "jap": "記憶の世界には、長く留まり続けることはできない",
+      "eng": "One cannot reside within memory for long",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 331,
+      "chn": "灰雾变淡了……",
+      "jap": "灰の霧が薄れてきた…",
+      "eng": "The ashen mist has thinned...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 332,
+      "chn": "灰雾正逐渐消失……",
+      "jap": "灰の霧が失われていく…",
+      "eng": "The ashen mist fades...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 333,
+      "chn": "始源营火再度拥有了火",
+      "jap": "はじまりの篝火が、火を取り戻した",
+      "eng": "A primal bonfire was rekindled",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 334,
+      "chn": "无神的瞳孔在蠢动。",
+      "jap": "潰れた瞳が蠢いている",
+      "eng": "The crushed eye stirs...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 335,
+      "chn": "获得了古王冠冕",
+      "jap": "古き王の冠を手に入れた",
+      "eng": "An ancient crown is now yours",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 336,
+      "chn": "古王冠冕带着一丝微温",
+      "jap": "古き王の冠は、微かな熱を帯びている",
+      "eng": "A faint heat lingers in the ancient crown",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 337,
+      "chn": "此去乃是禁区\r\n通往古王之地的路径",
+      "jap": "ここより禁域\r\n古き王の地へと至る道",
+      "eng": "Forbidden is the path\r\nto the ancient king's domain",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 338,
+      "chn": "深渊之王\r\n其都城与龙同眠",
+      "jap": "深い底の王\r\nその都は竜とともに眠る",
+      "eng": "The city of the Sunken King sleeps,\r\nas does the dragon within",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 339,
+      "chn": "水已竭、路已绝\r\n邪之诱惑已消灭",
+      "jap": "水は枯れ、すでに道はなし\r\n邪な誘いは絶たれた",
+      "eng": "With water dry, and path amiss,\r\nwoeful temptation is dismissed",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 340,
+      "chn": "凡犯禁区者\r\n必受为王者的苦难",
+      "jap": "禁域を侵す者\r\n王たる者に等しい苦難が待つ",
+      "eng": "Trespassers will face\r\nadversity befitting a monarch",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 341,
+      "chn": "铁之古王　其建造之塔\r\n现为暗之堕子占据。",
+      "jap": "鉄の古王　彼が造りし鉄の塔には\r\n今や闇の子が棲まう",
+      "eng": "In the tower of the Old Iron King\r\nresides a Child of Dark",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 342,
+      "chn": "白王之地　埃斯‧洛耶斯\r\n无一丝热气，只有冰封万里。",
+      "jap": "白の王の地　エス・ロイエス\r\n一切の熱もなくただ凍てついている",
+      "eng": "Eleum Loyce, land of the Ivory King, lies cold as death,\r\nnary a hint of warmth remaining",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 343,
+      "chn": "娜德拉的残渣渐渐的消逝……",
+      "jap": "ナドラの残滓が消えていく…",
+      "eng": "Nadalia's remnants are fading",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 344,
+      "chn": "娜德拉的残渣已逝，获得了真正的娜德拉灵魂。",
+      "jap": "ナドラの残滓は消え去り、真のナドラのソウルを得た",
+      "eng": "Nadalia is no more. True Soul of Nadalia acquired.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 345,
+      "chn": "亚尔舒娜的封印已解，埃斯‧洛耶斯的风停了",
+      "jap": "アルシュナの封印は解かれ、エス・ロイエスの風が止んだ",
+      "eng": "Alsanna's seal is undone, and the winds of Eleum Loyce are ceased",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 346,
+      "chn": "洛耶斯众骑士，往混沌进发……",
+      "jap": "ロイエスの騎士は混沌へと向かう…",
+      "eng": "A knight of Eleum Loyce seeks the Chaos...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 347,
+      "chn": "诸王的冠冕，仍有微温",
+      "jap": "王たちの冠は、熱を帯びている",
+      "eng": "Heat radiates from the ancient crowns",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 348,
+      "chn": "若光已现，暗亦不远……",
+      "jap": "光が暴かれるなら、影もまた…",
+      "eng": "When light is revealed, the shadows rise...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 349,
+      "chn": "巨偶渴望着灵魂。\r\n就在附近……",
+      "jap": "ゴーレムはソウルを求めている\r\n近くに…",
+      "eng": "A Golem rests nearby,\r\nthirsting for souls...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 350,
+      "chn": "对着坟墓祈祷并奉献灵魂，可与死者对话。",
+      "jap": "墓に祈りソウルを捧げれば、死者との対話ができる",
+      "eng": "Pray at the grave to converse with the dead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 351,
+      "chn": "如果有盾的话……",
+      "jap": "盾があれば…",
+      "eng": "If only you had a shield...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 352,
+      "chn": "如果光亮的话……",
+      "jap": "灯りがあれば…",
+      "eng": "If only you had a torch...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 353,
+      "chn": "前方危险。",
+      "jap": "この先は危険",
+      "eng": "Danger lurks ahead",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 354,
+      "chn": "别发出声响。",
+      "jap": "音を立てるな",
+      "eng": "Don't make a sound",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 355,
+      "chn": "快逃！",
+      "jap": "逃げろ！",
+      "eng": "Retreat!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 356,
+      "chn": "快跑！",
+      "jap": "走れ！",
+      "eng": "Run!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 357,
+      "chn": "小心前进。",
+      "jap": "慎重に進め",
+      "eng": "Proceed with caution",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 358,
+      "chn": "前方道路险峻。",
+      "jap": "この先は険しき道",
+      "eng": "The road ahead is perilous",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 359,
+      "chn": "现在起才是真正的战斗。",
+      "jap": "ここからが本当の戦いだ",
+      "eng": "Your true struggle begins now",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 360,
+      "chn": "已转换成不同性别。",
+      "jap": "新たな性に変化した",
+      "eng": "The nature of your being has changed",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 361,
+      "chn": "被关住了。",
+      "jap": "閉ざされている",
+      "eng": "Closed",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 362,
+      "chn": "龙沉眠着。",
+      "jap": "竜は眠っている",
+      "eng": "The dragon sleeps",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 363,
+      "chn": "书写于此处的记号\r\n可将人传送至远方某处。",
+      "jap": "ここで書かれたサインは\r\nどこか遠くに転送される",
+      "eng": "The sign written here is being\r\nchannelled from somewhere far away",
+      "isUnused": false,
+      "isTitle": false
+    }
+  ]
 }

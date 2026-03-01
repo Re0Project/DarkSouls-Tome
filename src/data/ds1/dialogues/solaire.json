@@ -1,6 +1,1151 @@
 {
   "npc": "solaire",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/solaire.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/solaire.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "喔，你好！看起来你并不是游魂呢。",
+      "jap": "おお、貴公！どうやら亡者ではないらしいな",
+      "eng": "Ah, hello! You don't look Hollow, far from it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是亚斯特拉的索拉尔。你没猜错，我是太阳神的信徒。",
+      "jap": "俺はアストラのソラール。見ての通り、太陽の神の信徒だ",
+      "eng": "I am Solaire of Astora, an adherent of the Lord of Sunlight.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "当我成为不死人后，便前来这个葛温大王诞生的地方\r\n找寻我自己的太阳！",
+      "jap": "不死となり、大王グウィンの生まれたこの地に\r\n俺自身の太陽を探しにきた！",
+      "eng": "Now that I am Undead, I have come to this great land\r\nthe birthplace of Lord Gwyn, to seek my very own sun!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……你觉得我是个怪人吗？其实也真的是。",
+      "jap": "…変人だ、と思ったか？まあ、その通りだ",
+      "eng": "...Do you find that strange? Well, you should!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "别放在心上，大家听完之后都露出同样的表情啦。",
+      "jap": "気にするな。皆同じ顔をする",
+      "eng": "No need to hide your reaction. I get that look all the time!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "哇哈哈哈哈",
+      "jap": "ウワッハッハッハハ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "喔，是你啊。真没想到你会再来找我聊呢。",
+      "jap": "おお、貴公。また声をかけてくれるとは",
+      "eng": "Oh, ah-hah! So, I didn't scare you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "刚好我正在想一件事，方便耽误你一些时间吗？",
+      "jap": "丁度考えていたことがあるんだ。少し時間をもらってよいか？",
+      "eng": "I have a proposition, if you have a moment.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:2回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "……这样呀。算啦，我想也是吧。",
+      "jap": "…そうか。まあ、そうだろうな",
+      "eng": "Well, yes, quite understandable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "哎呀，不好意思。其实我也没有打算要卖你这个人情啦。",
+      "jap": "いや、すまん。別に、恩を売るつもりもないんだ",
+      "eng": "Not to worry. Let there be no obligation.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:3回目・選択肢【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 14,
+      "chn": "喔，朋友。没想到你竟然还不厌其烦再来找我聊。",
+      "jap": "おお、貴公。懲りずに、また声をかけてくれるとは",
+      "eng": "Oh, hello. You're still keen on speaking to me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "难不成你改变主意，想接受我先前的那个提议了？",
+      "jap": "もしかして、例の話、考え直してくれたのか？",
+      "eng": "Then, perhaps you have reconsidered my offer?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:2回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st or 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "哎呀，我真是觉得和你有着奇妙的缘分。",
+      "jap": "いや、貴公とは奇妙な縁があると思ってな",
+      "eng": "The way I see it, our fates appear to be intertwined.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "在这个尽是游魂的地方\r\n如此与你相遇……",
+      "jap": "亡者ばかりのこの地で\r\nこうして貴公と出会った…",
+      "eng": "In a land brimming with Hollows\r\ncould that really be mere chance?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "所以说，要不要和我携手合作，\r\n在彼此的旅程互相帮助？",
+      "jap": "だから、どうだろう、貴公と俺、\r\n互いが旅の助けにならないか？",
+      "eng": "So, what do you say?\r\nWhy not help one another on this lonely journey?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0选择「是」后，您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:2回目・【YES】選択後・選択肢【NO】",
+      "eng": "#0Choose \"No\" after choosing \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "哎呀，不好意思。我也不是故意想烦你的。",
+      "jap": "いや、すまん。困らせるつもりもなかったんだ",
+      "eng": "Not to worry. I do not wish to impose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "让你听了件无聊的事，你听完就笑笑忘了吧。",
+      "jap": "つまらんことを言った。笑って忘れてくれ",
+      "eng": "I was in the wrong. We'll laugh it off, shall we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "哇哈哈",
+      "jap": "ウワッハッハ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0选择「是」后，您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:2回目・【YES】選択後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "那真是太好了！既然如此，我就把这玩意儿交给你吧。",
+      "jap": "そりゃあよかった！じゃあ、こいつを渡しておこう",
+      "eng": "This pleases me greatly! Well then, take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "这边真是个十分诡异的场所呀。",
+      "jap": "ここは、まったくおかしな場所だ",
+      "eng": "We are amidst strange beings, in a strange land.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "时间停滞不动，\r\n不但一百多年前的传说就在眼前，",
+      "jap": "時の流れが淀んで、\r\n100年以上前の伝説がいると思えば",
+      "eng": "The flow of time itself is convoluted;\r\nwith heroes centuries old phasing in and out.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "而且非常不稳定，很多事物马上就会出现隔阂，",
+      "jap": "ひどく不安定で、色んなものがすぐにずれやがる",
+      "eng": "The very fabric wavers, and relations shift and obscure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "你和我的世界也是，\r\n不知还能重合到什么时候呢。",
+      "jap": "貴公と俺の世界も、\r\nいつまで重なっているか、分からない",
+      "eng": "There's no telling how much longer\r\nyour world and mine will remain in contact.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "不过，使用这玩意儿的话……",
+      "jap": "だが、こいつを使えば…",
+      "eng": "But, use this,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "就可以超越世界间的隔阂\r\n来共同合作。",
+      "jap": "世界のずれを超えて、\r\n協力ができる",
+      "eng": "to summon one another as spirits,\r\ncross the gaps between the worlds,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "召唤对方，使其以灵体状态前来，就能越过“隔阂”了。",
+      "jap": "霊として召喚することで、「ずれ」を渡るのさ",
+      "eng": "and engage in jolly co-operation!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "不过，会这么做的并不会只有我们就是……",
+      "jap": "もっとも、そうしてるのは俺たちばかりじゃあないが…",
+      "eng": "Of course, we are not the only ones engaged in this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "我是太阳战士\r\n所以召唤记号也是特制的，闪耀着光芒，",
+      "jap": "俺は太陽の戦士\r\n召喚のサインも、光り輝く特別製だからな",
+      "eng": "But I am a warrior of the sun!\r\nSpot my summon signature easily by its brilliant aura.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "我想看起来应该非常显目吧。",
+      "jap": "よーく目立つと思うぜ",
+      "eng": "If you miss it, you must be blind!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "哇哈哈哈哈！",
+      "jap": "ウワッハッハッハハ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "#0选择「是」后攀谈",
+      "jap": "#0話しかけた:3回目・【YES】選択後",
+      "eng": "#0Talk-After choosing \"Yes\" to both 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 38,
+      "chn": "喔，是你啊。我暂时还会待在这边眺望太阳。",
+      "jap": "ああ、貴公か。俺は、しばらくここで太陽を眺めていくよ",
+      "eng": "Oh, hello there. I will stay behind, to gaze at the sun.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "太阳真是伟大呀。宛如一位超凡的父亲。",
+      "jap": "太陽は偉大だ。すばらしい父のようだ",
+      "eng": "The sun is a wondrous body. Like a magnificent father!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "真希望有一天我也能像太阳一样巨大又充满热力……",
+      "jap": "俺もいつか、あんな風にでっかく熱くなりたいんだよ…",
+      "eng": "If only I could be so grossly incandescent!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0到达亚诺尔隆德后，第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "喔，是你啊。",
+      "jap": "おお、貴公",
+      "eng": "Oh, there you are.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "已经好久没有这样和你直接碰面了呢。",
+      "jap": "こうして直接会うのは、久しぶりだな",
+      "eng": "You've been quiet these days.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "召唤用得还顺利吗？",
+      "jap": "召喚は、うまく使っているか？",
+      "eng": "Smooth summoning out there?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "倘若你看到了我闪耀光芒的记号，\r\n就尽管召唤无妨，别客气。",
+      "jap": "もし俺の、光り輝くサインを見つけたら、\r\n遠慮なく召喚してくれ",
+      "eng": "Anytime you see my brilliantly shining signature,\r\ndo not hesitate to call upon me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "我真的是和你一见如故，\r\n希望可以助你一臂之力呢。",
+      "jap": "どうにも貴公を気に入っているんだ。\r\n助けになりたいのさ",
+      "eng": "You've left me with quite an impression.\r\nI would relish a chance to assist you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0到达亚诺尔隆德后，第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "你还真是常会主动来找我聊呢。",
+      "jap": "貴公は、よく俺に話しかけてくれるな",
+      "eng": "You really are fond of chatting with me, aren't you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "搞不好你也是个相当怪的怪人，才会和我往来。",
+      "jap": "俺に付き合うなど、貴公もかなりの変人かもな",
+      "eng": "If I didn't know better, I'd think you had feelings for me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "哎呀，抱歉抱歉。我是开玩笑的，开玩笑啦。",
+      "jap": "いや、悪い悪い。冗談だよ、冗談",
+      "eng": "Oh, no, dear me. Pretend you didn't hear that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "哇哈哈哈哈",
+      "jap": "ウワッハッハッハハ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "#0到达城外不死教区太阳祭坛后攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 53,
+      "chn": "……！啊，啊啊，是你呀。",
+      "jap": "…！あ、ああ、貴公か",
+      "eng": "Hmm! Ah, oh...hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "真不好意思，刚刚我在想事情……\r\n不管怎么做，都毫无进展啊……",
+      "jap": "すまない、少し考え事をしていたんだ…\r\nどうにも、うまくいかなくてな…",
+      "eng": "Forgive me, I was just pondering...\r\nabout my poor fortune.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "无论在亚诺尔隆德，还是暗无天日的病村，\r\n都找不到我的太阳。",
+      "jap": "アノール・ロンドでも、日陰の病み村でも\r\n俺の太陽は見つからなかった",
+      "eng": "I did not find my own sun,\r\nnot in Anor Londo, nor in Twilight Blighttown.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "接下来我要去废都伊札里斯，还是死亡之王的墓地呢……\r\n那种地方会有我的太阳吗……？",
+      "jap": "後は、廃都イザリスか、それとも死の王の墓場か…\r\nそんなところに、俺の太陽があるんだろうか…",
+      "eng": "Where else might my sun be?\r\nLost Izalith, or the Tomb of the Gravelord...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "当然，我并不会因此而放弃。\r\n毕竟为了这个梦想，我甚至还成为了不死人呀。",
+      "jap": "勿論、諦めたわけじゃあない\r\n俺は、このために不死にすらなったんだ",
+      "eng": "But I cannot give up.\r\nI became Undead to pursue this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "不过，看着那天上的太阳，有时我也会想，",
+      "jap": "だが、あの空に太陽を見ると、思うことがあるんだ",
+      "eng": "But when I peer at the Sun up above, it occurs to me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "自己会不会真的就像大家嘲笑我时所说的……\r\n是个有眼无珠，愚蠢无比的愚昧之徒呢……",
+      "jap": "実は俺は、皆が、笑って囃すように…\r\n目玉が見えない、とんでもない愚か者なんじゃあないかってな…",
+      "eng": "What if I am seen as a laughing stock,\r\nas a blind fool without reason?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "如果真的是如此的话，那可真是可笑啊……",
+      "jap": "だとしたら、ひどく滑稽なことだなあ…",
+      "eng": "Well, I suppose they wouldn't be far off!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "哇哈哈",
+      "jap": "ウワッハッハ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0信仰达到25或更高时攀谈，作为灵体被召唤时，每场胜利可降低5点需求",
+      "jap": "#0話しかけた:1回目・太陽の戦士が誓約可能",
+      "eng": "#0Talk-1st time with 25 faith, or 5 less with each victory as  White Phantom",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "喔，是你啊。",
+      "jap": "おお、貴公か",
+      "eng": "Oh, hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "你没事真是太好了。",
+      "jap": "無事でなによりだ",
+      "eng": "I'm glad to see you alive.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "……话说回来，你已经成长不少了呢。",
+      "jap": "…だが、貴公、随分と鍛えたものだな",
+      "eng": "...You have done well, indeed you have.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "不仅强壮有力，也敬畏天神，\r\n更重要的是有着坚韧的心。",
+      "jap": "腕っ節が強く、神を敬い、\r\n何よりも心が強い",
+      "eng": "You've a strong arm, strong faith,\r\nand most importantly, a strong heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "真是不得了。",
+      "jap": "大したものだ",
+      "eng": "I am in awe, really.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "嗯……嗯……",
+      "jap": "うん…うん…",
+      "eng": "Yes, yes...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "你要不要考虑看看，和我一样成为太阳战士如何？",
+      "jap": "どうだろう？俺と同じように、太陽の戦士にならないか？",
+      "eng": "What do you think? Why not join me, as a warrior of the Sun?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "那可是以神与太阳之名守护同伴，\r\n挥舞宝剑的光明骑士呢。",
+      "jap": "神と太陽の名の元に仲間を守り、\r\n剣を振るう、光の騎士だ",
+      "eng": "Righteous knights, guardians of all that is good,\r\nin the name of the Lord of Sunlight!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "当然，这还是要看你的意愿啦……怎么样呢？",
+      "jap": "むろん、貴公が望めばだが…どうだ？",
+      "eng": "...Only if it would please you, of course. Well?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "#0您打算怎么做？选择「否」，或选择「是」后选择「否」",
+      "jap": "#0話しかけた:1回目・太陽の戦士が誓約可能・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 73,
+      "chn": "……这样呀。也罢，每个人的信仰各不相同，\r\n除了太阳之外也有其他神。",
+      "jap": "…そうか。まあ、信仰は人それぞれだ。\r\n太陽以外の神もある",
+      "eng": "Yes, well,\r\neach has one's beliefs.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "如果你改变心意的话，就再和我说一声吧。",
+      "jap": "もし、気が変わったら、また声をかけてくれ",
+      "eng": "But if you change your mind, the offer is open.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0选择「否」后攀谈",
+      "jap": "#0話しかけた:2回目・太陽の戦士が誓約可能【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "喔，是你呀。",
+      "jap": "おお、貴公か",
+      "eng": "Oh, hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "怎么啦？难不成你改变心意，想要接受我先前的那个提议了？",
+      "jap": "どうした？もしかして、例の話、気が変わったのか？",
+      "eng": "What is it? Have you changed your mind about my offer?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:1回目・太陽の戦士が誓約可能・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 79,
+      "chn": "喔，你愿意呀！我就知道你会答应！",
+      "jap": "おお、そうか！やはりそうだろう！",
+      "eng": "Oh! Magnificent! I knew you would fancy it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "那事不宜迟，赶紧订下誓约吧！你暂时站着不要动喔……",
+      "jap": "では、早速誓約だ！少し、じっとしていてくれ…",
+      "eng": "Then, join the Covenant! Here, stay still for a moment...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0您要订立誓约吗？选择「是」",
+      "jap": "#0話しかけた:1回目・太陽の戦士が誓約可能【YES】選択後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "这样就大功告成了。\r\n接下来，就到那边的太阳祭坛祈祷吧。",
+      "jap": "これでよし　あとは、\r\nそこにある太陽の祭壇で、祈ってみてくれ",
+      "eng": "And there we are.\r\nNow, just say a prayer at the Altar of Sunlight, right there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "相信你一定也能体认到太阳的威力。",
+      "jap": "貴公にも、太陽の力が分かるはずさ",
+      "eng": "Then you shall know the brilliance of our Sun.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#0加入太阳战士誓约后，第1次攀谈",
+      "jap": "#0話しかけた:太陽の戦士誓約後:1回目",
+      "eng": "#0Talk-1st time after joining the Warriors of Sunlight Coverant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 85,
+      "chn": "哦，是你呀。",
+      "jap": "おお、貴公か",
+      "eng": "Oh, hello there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "太阳很了不起吧？",
+      "jap": "すごいものだろう？太陽の力は",
+      "eng": "Exhilarating, is it not? The power of the Sun!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "多了你这位值得依靠的同伴，也让我引以为傲呢。",
+      "jap": "頼もしい仲間が増えて、俺も誇らしいぜ",
+      "eng": "I am blessed to have found such a brave companion!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "哇哈哈哈哈",
+      "jap": "ウワッハッハッハハ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0加入太阳战士誓约后，第2次攀谈",
+      "jap": "#0話しかけた:太陽の戦士誓約後:2回目",
+      "eng": "#0Talk-2nd time after joining the Warriors of Sunlight Coverant",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "喔，朋友，你怎么还在这边呀？",
+      "jap": "おお、貴公。まだいたのか",
+      "eng": "Oh, hello there. Still here?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "说到这边，多了你这位值得依靠的同伴，也让我引以为傲呢。",
+      "jap": "それにしても、頼もしい仲間が増えて、俺も誇らしいぜ",
+      "eng": "I could not hope for a braver companion than you!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "哇哈哈哈哈！",
+      "jap": "ウワッハッハッハハ",
+      "eng": "Gah hah hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "#0到达恶魔遗迹后，击杀百足恶魔后攀谈",
+      "jap": "#0話しかけた:ソラールと再会する前に",
+      "eng": "#0Talk",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 94,
+      "chn": "这一切都是谎言吗……\r\n就只为了这个梦想，我一直，一直都……",
+      "jap": "すべて、嘘だったのか…\r\n俺は、ずっと、ずっと、そのためだけに…",
+      "eng": "Was it all a lie?\r\nHave I done this all, for nothing?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "啊，我的太阳呀……究竟该如何是好……如何是好啊……",
+      "jap": "ああ、俺の太陽…どうしたらいいんだ…どうしたら…",
+      "eng": "Oh, my dear sun...What now, what should I do...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "……太阳，我的太阳啊……",
+      "jap": "…太陽、俺の太陽よう…",
+      "eng": "...My sun, my dear, dear sun...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0前往伊札里斯前，击杀红眼太阳虫，返回通道攀谈",
+      "jap": "#0話しかけた:ソラールと再会する前に、赤目の太陽虫を倒した",
+      "eng": "#0Talk-After killing the Red-Eye Sunlight Maggot before entering Lost Izalith",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "……为什么……为什么？",
+      "jap": "…なぜだ…なぜだ？",
+      "eng": "...Why?...Why?...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "为什么我花了这么多心力四处寻找……却依然遍寻不着……",
+      "jap": "なぜ、これほどに探しても…見つからないんだ…",
+      "eng": "After all this searching, I still cannot find it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "呃",
+      "jap": "グッ",
+      "eng": "Hrg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 103,
+      "chn": "呜",
+      "jap": "ウッ",
+      "eng": "Ooh!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 105,
+      "chn": "呜喔！",
+      "jap": "うおっ！",
+      "eng": "Whoa!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 106,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 107,
+      "chn": "你干什么！",
+      "jap": "何をっ！",
+      "eng": "What the...!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "#0第5次受到攻击时",
+      "jap": "#0攻撃した:5回目",
+      "eng": "#0Upon being attacked-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 109,
+      "chn": "嗯，你是怎么了？",
+      "jap": "むうう、貴公、どうしたのだ？",
+      "eng": "What's wrong with you?!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 111,
+      "chn": "既然是听不懂人话的野兽，那我也没办法，",
+      "jap": "言葉の通じぬ獣なら、仕方ない",
+      "eng": "If a stubborn beast you be, I have no choice!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "我来尽太阳战士的责任吧！",
+      "jap": "太陽の戦士の、責を果たそう！",
+      "eng": "A Warrior of the Sun will not just sit and take it!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "喝呀────！",
+      "jap": "うおうりゃあああああっ！",
+      "eng": "Hrgraaah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 115,
+      "chn": "你，你……",
+      "jap": "き、貴公…",
+      "eng": "Why, you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "竟然在这种地方……",
+      "jap": "こんなところで…",
+      "eng": "How could this...?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "我的太阳……",
+      "jap": "俺の、太陽…",
+      "eng": "My...my sun...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "#0到达伊札里斯后，未击杀红眼太阳虫，靠近太阳虫寄生的索拉尔时",
+      "jap": "#0敵対状態になった:太陽虫に寄生されている",
+      "eng": "#0After approaching him once he has been infected by the Sunlight Maggot",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 119,
+      "chn": "……呜……呜……呜……",
+      "jap": "…う、う、うううううっ…",
+      "eng": "...Hrg, rg...Arrrgh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "……终于，终于得到了！我得到啦……",
+      "jap": "…ついに、ついに、手に入れたぞ、入れたんだ…",
+      "eng": "...Finally, I have found it, I have!...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "……我的……我的太阳，我就是太阳……",
+      "jap": "…俺の…俺の太陽、俺が太陽だ…",
+      "eng": "...My very own sun...I...am the sun!...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "……成功了……我办到了……",
+      "jap": "…やった…やったぞ…",
+      "eng": "...I've done it...I have...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "……怎么样……我办到啦……",
+      "jap": "…どうだっ…俺は、やったんだ…",
+      "eng": "...Yes, I did it...I did!...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "……喔……喔……",
+      "jap": "…お、おお…",
+      "eng": "...Ohh, ohhh...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "……喔────！",
+      "jap": "…おおおおおおおおっ！",
+      "eng": "...Hrgrraaaooogh!...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "#0太阳虫寄生后被击杀时",
+      "jap": "#0殺害した:太陽虫に寄生されている",
+      "eng": "#0Upon dying after infected by the Red-Eye Sunlight Maggot",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 127,
+      "chn": "……啊，不行了……",
+      "jap": "…ああ、ダメだ…",
+      "eng": "...Ahh, it's over...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "……我的，我的太阳下山了……",
+      "jap": "…俺の、俺の太陽が、沈む…",
+      "eng": "...My Sun...it's setting...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "……真暗，漆黑一片……",
+      "jap": "…暗い、まっくらだ…",
+      "eng": "...It's dark, so dark...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "##那家伙身上有着钥匙",
+      "jap": "##そいつが、鍵を持ってる",
+      "eng": "##He has the key.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "##……接下来就看你的表现了。",
+      "jap": "##…あとは、貴公次第だ",
+      "eng": "##The choice is yours.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "##喔，是你啊！",
+      "jap": "##おお、貴公！",
+      "eng": "##Ah, hello!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "##你果然来啦！我的直觉果然很准！",
+      "jap": "##やっぱりきたか！俺の勘も大したものだ！",
+      "eng": "##I knew you would come! Just call it intuition.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "##我们在同时期成为不死人\r\n也被送往同样的不死院，又都来到了此地。",
+      "jap": "##お互い、同じときに不死となり\r\n同じ院に送られ、共にこの地に至った",
+      "eng": "##Both Undead, both imprisoned in the Asylum\r\nand now, we both end up here.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "##我觉得这也算是某种缘分呢。",
+      "jap": "##これも、何かの縁かと思ってな",
+      "eng": "##I hardly think so!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "##虽然说我不知道你有什么目的……\r\n但我真的是和你一见如故。",
+      "jap": "##貴公の目的は分からないが…\r\n俺は、どうにも、貴公が気になるんだ",
+      "eng": "##Now, I know not of your designs,\r\nbut I sense something singular about you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "##喔，你愿意呀！",
+      "jap": "##これでよし　あとは、\r\nアノール・ロンドの太陽の祭壇で、祈ってみてくれ",
+      "eng": "##Oh, yes! Wonderful!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##这样就大功告成了。\r\n接下来，就到亚诺尔隆德的太阳祭坛祈祷吧。",
+      "jap": "##俺たちの使命と、力が、分かるはずさ",
+      "eng": "##And there we are.\r\nNow you need only pray at the Altar of Sunlight in Anor Londo.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##相信你一定能够了解我们的使命与威力。",
+      "jap": "##おお、そうか！そうだったか！",
+      "eng": "##Then you shall know our radiance, our duty.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##赶紧去亚诺尔隆德的太阳祭坛祈祷吧。",
+      "jap": "##はやく祈ってくるといい。アノール・ロンドの太陽の祭壇だ",
+      "eng": "##You have praying to do. At the Shrine of Sunlight in Anor Londo.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "##多了你这位值得依靠的同伴，也让我引以为傲呢。",
+      "jap": "##頼もしい仲間が増えて、俺も誇らしいぜ",
+      "eng": "##But truly, I could not hope for a braver companion than you!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "##即便是在亚诺尔隆德，也找不到我的太阳。",
+      "jap": "##アノール・ロンドでも、俺の太陽は見つからなかった",
+      "eng": "##I did not find my own sun, not even in Anor Londo.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

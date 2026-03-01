@@ -1,6 +1,359 @@
 {
   "npc": "emma",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/emma.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/emma.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哦，吾已等待许久，无火的余灰啊。",
+      "jap": "おお、お待ちしていました。火の無い灰よ",
+      "eng": "Ahh, the wait has been long, Unkindled One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "吾名艾玛，为这座城──洛斯里克的主祭。",
+      "jap": "私はエンマ。この城、ロスリックの祭儀長",
+      "eng": "I am Emma, High Priestess of Lothric Castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "有事欲传达于汝：",
+      "jap": "貴方に伝えることがあるのです",
+      "eng": "Allow me to speak frankly.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "薪王们已从此城离去，",
+      "jap": "薪の王たちは、この城にはおりません",
+      "eng": "You will not find the Lords of Cinder here.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "且其皆已动身前去，",
+      "jap": "皆、帰っていったのです",
+      "eng": "They have left, gone.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "前去此城的基层，那漂泊而至，生根、曾经的故乡。",
+      "jap": "この城の麓に流れ着き、淀んだ、かつての故郷へと",
+      "eng": "To their churning homes, converging at the base of this castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "……汝当前往高墙下方。",
+      "jap": "…高壁の下に向かいなさい",
+      "eng": "Head to the bottom of the High Wall.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "此小环旗将引领汝穿越大城门。",
+      "jap": "大城門の先、この小環旗が貴方を導くでしょう",
+      "eng": "Forge on through the great gate, and raise this banner to proceed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "……予汝此物，以作饯别礼。",
+      "jap": "…貴方に、餞別を差し上げましょう",
+      "eng": "This farewell gift is for you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "此为古老誓约之图纹。",
+      "jap": "これは、古い誓約の紋章です",
+      "eng": "It is the insignia of an old covenant.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "汝若心忧侵入者，亦即强夺余火之暗灵，",
+      "jap": "もし貴方が侵入者を、残り火に惹かれた闇霊を恐れるのなら",
+      "eng": "If you fear tresspassers, dark spirits drawn by the embers.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "则汝需谨记，",
+      "jap": "それを心に刻みなさい",
+      "eng": "Then etch this upon your heart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "汝当以古老誓约，\r\n唤来青之守护者以狩猎暗灵。",
+      "jap": "古い約定が呼ぶでしょう。\r\n闇霊を狩る、青い守護者を",
+      "eng": "And the old concord will beckon\r\nnoble Blue Sentinels to hunt these foul spirits.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "#0第3次交谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 16,
+      "chn": "无火的余灰啊，汝当前往高墙下方。",
+      "jap": "さあ、火の無い灰よ。高壁の下に向かいなさい",
+      "eng": "Unkindled One. Head to the High Wall's base.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "交付于汝的小环旗，势必引领汝穿越大城门。",
+      "jap": "大城門の先、渡した小環旗が貴方を導くでしょう",
+      "eng": "Go through the great gate, and raise this banner to proceed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "而汝当谨慎，大城门有看门狗坐镇。",
+      "jap": "そして、注意なさい。大城門には、番犬がおります",
+      "eng": "But beware. The dog keeps a close eye on things.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "其为极度不祥，冷冽谷的看门狗……",
+      "jap": "忌々しい、冷たい谷の番犬が…",
+      "eng": "The vile watchdog of the Boreal Valley.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0击杀玻尔多后交谈",
+      "jap": "#0話しかけた:冷いた谷のボルド擊破後",
+      "eng": "#0Talk-After defeating Vordt of the Boreal Valley",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "无火的余灰啊，何事之有？",
+      "jap": "どうしたのです、火の無い灰よ",
+      "eng": "What is wrong, Unkindled One?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "汝身为探王者，\r\n该当前往高墙下方，找寻薪王们。",
+      "jap": "貴方は王の探索者。\r\n高壁の下に、薪の王たちを追うのです",
+      "eng": "Are you not a Lordseeker?\r\nHead to the base of the High Wall and seek the Lords of Cinder.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "此为亘古不变，并为汝之使命吧？",
+      "jap": "古くから決まった、それが貴方の使命でしょう？",
+      "eng": "Is this not the calling of your kind, since ages past?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0击杀3个薪王后",
+      "jap": "#0薪の王を3体擊破後",
+      "eng": "#0After defeating 3 Lords of Cinder",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "……哦，无火的余灰啊。",
+      "jap": "…おお、火の無い灰よ",
+      "eng": "Ahh, Unkindled One.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "火终黯淡，正待最后的王者现身。",
+      "jap": "いよいよ火は陰り、最後の王を待っています",
+      "eng": "The fire fades, and awaits its one last Lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "言及于此，请汝收下……",
+      "jap": "ですから、貴方にこれを…",
+      "eng": "Please, take this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "救救王子，救救洛斯里克大人吧……",
+      "jap": "王子を、ロスリック様を、どうか…",
+      "eng": "Prince Lothric is in your hands...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "拜托，救救大人吧。",
+      "jap": "どうか、お救いください",
+      "eng": "Please, save his soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0击杀3个薪王，被传送到洛斯里克后交谈",
+      "jap": "#0話しかけた:薪の王を3体擊破後",
+      "eng": "#0Talk-After defeating 3 Lords of Cinder & being teleported to the Lothric Castle",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "救救王子，救救洛斯里克大人吧……",
+      "jap": "王子を、ロスリック様を、どうか…",
+      "eng": "Prince Lothric is in your hands...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "拜托，救救大人吧。",
+      "jap": "どうか、お救いください",
+      "eng": "Please, save his soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "让他登上王位……",
+      "jap": "王に、おなりくださいと…",
+      "eng": "Tell him what he must be. A Lord...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "汝做了什么？",
+      "jap": "貴方は、何を？",
+      "eng": "What on earth?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "汝到底做了什么？",
+      "jap": "何をするのですか？",
+      "eng": "Whatever is this about?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "……",
+      "jap": "アアッ…アッ…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "请登上王位吧……",
+      "jap": "王に、おなりください…",
+      "eng": "A Lord, he must be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "洛斯里克……大人……",
+      "jap": "ロスリック、様…",
+      "eng": "My dear Prince...Lothric...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "##……",
+      "jap": "##ヒイッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "##……",
+      "jap": "##アァアッ！",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

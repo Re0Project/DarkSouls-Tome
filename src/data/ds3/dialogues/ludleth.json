@@ -1,6 +1,1143 @@
 {
   "npc": "ludleth",
   "game": 3,
-  "avatar": "/icons/ds3/npcs/ludleth.webp",
-  "lines": []
+  "avatar": "/icons/ds3/dialogues/ludleth.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次交谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "哦，你就是无火的余灰、探王者，对吧？",
+      "jap": "ああ、君が火の無き灰、王の探索者だね",
+      "eng": "Oh, thou'rt unkindled, and a seeker of Lords.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我是库尔兰的鲁道斯。",
+      "jap": "私は、クールラントのルドレス",
+      "eng": "I am Ludleth of Courland.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "说来你或许不信……\r\n我是曾经传过火的薪王，",
+      "jap": "信じられないかもしれないが…\r\nかつて火を継いだ、薪の王さ",
+      "eng": "Look not in bewilderment as I say...\r\nI linked the fire long ago, becoming a Lord of Cinder.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "而这还在承受微火\r\n燃烧的身体就是铁证。",
+      "jap": "その証拠に、未だこの体は、\r\n燻りに焼かれている",
+      "eng": "If substantiation be thy want,\r\nset thine eyes upon my charred corse.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "这残败的身体，靠近点瞧，\r\n应该能看得很清楚吧？",
+      "jap": "壊れた体だ。\r\n近寄れば、君にも見えるはずだよ",
+      "eng": "This sad cadav'r.\r\nNo need to be coy, have a closer look.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第2次交谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "……哦，毋须担心，我不会离开此处，",
+      "jap": "…ああ、心配は無用だ。ここを去ったりはしないよ",
+      "eng": "Fret not, fret not, my feet are here firmly planted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "因为我是王，而此处是我的王位。",
+      "jap": "私は王、そしてここが私の玉座なのだから",
+      "eng": "For I am a Lord, and this is my throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "#0互动列表-选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 10,
+      "chn": "喂，你明白使命的意义吗？",
+      "jap": "なあ君、使命の意味を知っているかね",
+      "eng": "Knowest thou of our purpose?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "五座王位上有五位薪王──\r\n这都是为了传火啊。",
+      "jap": "5つの玉座に5人の王を。\r\nそれは火継ぎの準備なのだよ",
+      "eng": "Five thrones will take five Lords,\r\nas kindling for the linking of the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "现在火终于要熄灭：为了传承即逝的火、为了再次将世界延续下去、",
+      "jap": "いよいよ陰り、今にも消えんとする火を継ぎ、再び世界を繋ぐため",
+      "eng": "The fast-fading flame must be linked, to preserve this world.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "为了重现最古老的传火",
+      "jap": "最古の火継ぎを再現するために",
+      "eng": "A re-enactment of the first linking of the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "……因此，我成为了薪王。",
+      "jap": "…私は、そのために薪の王となったのだよ",
+      "eng": "So it is I became a Lord of Cinder.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "我这矮子正沐浴在为王的荣光下啊。",
+      "jap": "この小人が、王の栄誉に浴したのさ",
+      "eng": "I may be but small, but I will die a colossus.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0在鲁道斯睡觉时交谈",
+      "jap": "#0話しかけた:2回目・寝ていた",
+      "eng": "#0Talk-If he is sleeping",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "……哦，是你啊。抱歉，我好像睡着了。",
+      "jap": "…ああ、君か。すまんな、寝てしまっていたようだ",
+      "eng": "Ahh, beg pardon. I must have dozed a while.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "但你毋须担心，我不会离开此处，",
+      "jap": "だが、心配は無用だ。ここを去ったりはしないよ",
+      "eng": "Fret not, fret not, my feet are here firmly planted.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "因为我是王，而此处是我的王位。",
+      "jap": "私は王、そしてここが私の玉座なのだから",
+      "eng": "For I am a Lord, and this is my throne.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0到达不死聚落后返回，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・不死街到着後",
+      "eng": "#0Menu-Choose \"Talk\" after entering the Undead Settlement",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "哦，我就和你说一说吧。",
+      "jap": "ああ、君には話しておこう",
+      "eng": "Listen, this might pique thine interest.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "在我成为薪王以前，我是研究“炼成”的人。",
+      "jap": "薪の王となる前、私は「錬成」の研究者だった",
+      "eng": "Before I was a Lord of Cinder, I was a student of transposition.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "就是将灵魂的特质凝固后取出……",
+      "jap": "ソウルからその特質を凝固させ取り出す…",
+      "eng": "The process of extracting, and coalescing, the essence of a soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "这可是史上有损库尔兰之名的禁忌喔。",
+      "jap": "かつてクールラントの名を貶めた、禁忌だよ",
+      "eng": "A forbidden art, that once left a foul stain upon Courland's honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "……不过那的确是能让人得到难得力量的技术。",
+      "jap": "…だがそれは確かに、得難い力を得る業でもある",
+      "eng": "Tis an art that grants powers once thought unattainable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "大部分的冶炼炉是在库尔兰消失了……\r\n但这里，是俗称的诅咒汇流之地。",
+      "jap": "錬成炉の多くはクールラントに失われたろうが…\r\nここは、あらゆる呪いが流れ着く地だ",
+      "eng": "Most transposing kilns were lost with Courland,\r\nbut this place is a crossing for all manner of cursed objects.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "你如果在哪处找到了冶炼炉，带过来给我吧。",
+      "jap": "君がもし、どこかで錬成炉を見つけたら、持ってきたまえよ",
+      "eng": "If thou happen'st 'pon a transposing kiln, bring it to me, quick.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0获得薪王柴薪后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・王の薪入手後",
+      "eng": "#0Menu-Choose \"Talk\" after the protagonist defeats their 1st Lord of Cinder",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "嗯，你是位很杰出的探王者，\r\n我是不是该叫你猎王者呢？",
+      "jap": "ああ、君は優秀な探索者だ。\r\nあるいはもう、王狩りと呼ぶべきかな？",
+      "eng": "Ahh, most illustrious Lordseeker.\r\nOr should I say, Lord-slayer?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "每位王都拥有匹配的灵魂，\r\n你看看王位底下的薪就会懂了。",
+      "jap": "玉座の薪を見れば分かる。\r\nどの王も、相応しいソウルの持ち主だったろう",
+      "eng": "Fine kindling for the thrones,\r\nis it not, each soul truly worthy of Lordship.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "而你却把他们都杀了。\r\n不过他们一死，才能被束缚在王位上啊。",
+      "jap": "だが君は、彼らを殺した。\r\n死してなお、王を玉座に縛るためにね",
+      "eng": "And all slain by thy hand.\r\nTo bind them to their thrones, even in death.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "……哦，我不会怪你。\r\n就像我们必须待在王位上，而那也是你的使命。",
+      "jap": "…ああ、責めはしないよ。\r\n我らに玉座があるように、それは君の使命",
+      "eng": "Oh, I have no qualms.\r\nFor as we are to our thrones, thou art to thy duty.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "你只是为了\r\n肃正王道而已。",
+      "jap": "君はただ、\r\n王道を正しているのだから",
+      "eng": "In fact, methinks thou'st helped\r\nthese poor Lords along their rightful path.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0互动列表-选择「交出冶炼炉」-选择「是」",
+      "jap": "#0リストから選択:錬成炉を渡す",
+      "eng": "#0Menu-Choose \"Talk\" after giving him the Transposing Kiln",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……哦，你找到冶炼炉了。",
+      "jap": "…ほう、錬成炉を見つけたのかね",
+      "eng": "Oh, belike it is...a transposing kiln in thy possession.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "看起来相当老旧了，不过好像还可以使用。",
+      "jap": "随分と古いが、まあ、使いものにはなりそうだ",
+      "eng": "Seen better days, but, methinks it shall suffice.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "……喂，你要记得把畸形的灵魂拿来啊。",
+      "jap": "…なあ君、異形のソウルを持ってきたまえよ",
+      "eng": "Now, bring to me a twisted soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "“炼成”就是把灵魂的特质\r\n凝固后取出的技术，",
+      "jap": "「錬成」とは、\r\nソウルの特質を凝固させ取り出す業",
+      "eng": "Transposition is the art of extracting,\r\nand coalescing, the essence of a soul.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "只要用畸形的灵魂炼成，\r\n就能得到其相应的力量。",
+      "jap": "異形のソウルを錬成すれば、\r\n似つかわしい力が手に入るというものだ",
+      "eng": "In transposing a twisted soul,\r\nits true power transferreth to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "……你就去找王，再把他们杀了吧。\r\n反正早就无所顾忌了吧？",
+      "jap": "…君は、王を探し、そして殺すのだ。\r\n今更禁忌もないものだろう？",
+      "eng": "Thy purpose is to seek Lords, and slay them.\r\nWhat's to fear in a little transposition, now?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0交出冶炼炉后交谈",
+      "jap": "#0話しかけた:2回目・錬成炉を渡した後",
+      "eng": "#0Talk-After giving him the Transposing Kiln",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "哦，你回来了，做得很好。",
+      "jap": "ああ君、戻ったのかね。結構なことだ",
+      "eng": "Ah-hah, thou'rt returned. And a fine day it is.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "那么，畸形的灵魂带来了吗？",
+      "jap": "それで、異形のソウルを持ってきたのかね？",
+      "eng": "So, happened upon any twisted souls?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0交出冶炼炉后，在鲁道斯睡觉时交谈",
+      "jap": "#0話しかけた:2回目・錬成炉を渡した後・寝ていた",
+      "eng": "#0Talk-After giving him the Transposing Kiln, if he is sleeping",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……哦，是你啊。抱歉，我好像睡着了。",
+      "jap": "…ああ、君か。すまんな、寝てしまっていたようだ",
+      "eng": "Ahh, beg pardon. I must have dozed a while.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "那么，畸形的灵魂带来了吗？",
+      "jap": "それで、異形のソウルを持ってきたのかね？",
+      "eng": "So, happened upon any twisted souls?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "#0持有洛里安大剑和洛斯里克圣剑时，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・双王子の大剣が錬成可能になった",
+      "eng": "#0Menu-Choose \"Talk\" with \"Lothric's Holy Sword\" & \"Lorian's Greatsword\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 48,
+      "chn": "……哦，你拿着很扭曲的剑啊。",
+      "jap": "…ほう、君は、随分と歪んだ剣を持っているね",
+      "eng": "Ahh, thou'st two most peculiar swords discover'd.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "那是成对的剑，必须要有两把才完整，是它原有的诅咒。",
+      "jap": "その剣は、二つで一つ。そういう呪いの元にある",
+      "eng": "A curse once bound them together, such that they served as one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "冶炼炉能够显现它的真面目吧。",
+      "jap": "錬成炉が、その本当の姿を見せるだろう",
+      "eng": "A transposing kiln should restore their rightful form.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "……但是，你要仔细考虑，",
+      "jap": "…だが、よく考えたまえよ",
+      "eng": "But before thou should'st act, think well upon the matter.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "他们可是好不容易分开了啊。",
+      "jap": "彼らはまた、ようやく分かたれたのだからね",
+      "eng": "As thou knowest, they are but newly rent apart.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "哦，要给我回来啊。",
+      "jap": "ああ君、戻りたまえよ",
+      "eng": "Now, now, do not be away overlong.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0获得防火女的眼眸后交谈",
+      "jap": "#0話しかけた:火防女の瞳入手後",
+      "eng": "#0Talk-After acquiring the Eyes of a Fire Keeper",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "……哦，你找到她了啊。",
+      "jap": "…ああ、君は、彼女を見つけたのだね",
+      "eng": "Ahh, found her, did we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "那你应该也找到深色眼眸了，对吧？",
+      "jap": "そしてその内に、暗い瞳を見出した、そうだろう？",
+      "eng": "And the black eyes that shimmer within, I see?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "……往事令人怀念啊。",
+      "jap": "…懐かしいことだ",
+      "eng": "Tis as if it were but yesterday.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "那时候#1她还没成为防火女，我也还没成为薪王#3#2我们只能把它藏起来#3，",
+      "jap": "あの頃私たちは、ただそれを隠すことしかできなかった",
+      "eng": "We did all we could to spare her from them.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "已经是好久以前的事了……。",
+      "jap": "ずっと昔の話だ…",
+      "eng": "Much has happened since.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "……我就告诉你吧。",
+      "jap": "…君に伝えておこう",
+      "eng": "Mayhap I should apprise thee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#1我能炼成她的灵魂#3#2它给了那防火女些许光明#3，\r\n#1而这同时能向那位防火女轻喃#3#2映照出那些景象#3：",
+      "jap": "それは、あの火防女に僅かな光を与え、\r\nある光景を見せるだろう",
+      "eng": "Of what the thin light of these eyes might reveal,\r\nto the eyeless Fire Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "那是身为无眸的她，\r\n决不能看见的",
+      "jap": "瞳無き彼女が、\r\n決して見るべきでない裏切り",
+      "eng": "Scenes of betrayal,\r\nthings never intended for her ken, visions of...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "……就是心想着终结传火啊。",
+      "jap": "…火継ぎの終わりをね",
+      "eng": "...this age's end...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0交出防火女的眼眸后，互动列表-选择「说话」",
+      "jap": "#0リストから選択:話す・火防女の瞳入手後",
+      "eng": "#0Menu-Choose \"Talk\" after acquiring the Eyes of a Fire Keeper",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "那对眼眸会映照出终结传火后，\r\n黑暗无止境延续下去的世界。",
+      "jap": "あの瞳が見せるのは、\r\n火継ぎの終わり、永遠と続く暗闇の世界",
+      "eng": "The eyes shew a world destitute of fire,\r\na barren plane of endless darkness.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "我认为那是个离经叛道的世界。",
+      "jap": "私はそれを、裏切りだと思った",
+      "eng": "A place born of betrayal.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "为什么我会当上王、传火？\r\n就是为了防止那种世界诞生。",
+      "jap": "そして王となり、我らの火継ぎが、\r\nその光景を変えるよう願ったのだよ",
+      "eng": "So I will'd myself Lord, to link the fire,\r\nto paint a new vision.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "……你又是怎么想的呢？",
+      "jap": "…君は、どうするんだね？",
+      "eng": "What is thine intent?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "#0交出防火女的眼眸后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて・火防女に火防女の瞳を渡した後",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave after giving the Eyes of a Fire Keeper",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 71,
+      "chn": "我是按照自己的意愿成为薪王，\r\n也深深以此为荣。",
+      "jap": "私は、自らの意志で薪の王となった。\r\nそのことに誇りもある",
+      "eng": "I took the mantle of Lord of Cinder of mine own volition.\r\nI speak these words with pride.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "你也要按照自己的意愿做选择",
+      "jap": "だから君も、自分の意志で選びたまえよ",
+      "eng": "Choose thy fate alone. Seize it with thine own hands.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "……如果那会造成过分的背叛，更该如此啊。",
+      "jap": "…それが酷い裏切りであれば、尚更ね",
+      "eng": "All the more, should thy fate entail such foul betrayal... ",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "#0被安里召唤击杀艾尔德利奇后交谈",
+      "jap": "#0話しかけた:アストラのアンリとともに神喰らいのエルドリッチ撃破後",
+      "eng": "#0Talk-After helping Anri defeat Aldrich",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 75,
+      "chn": "……哦，是你啊，等你很久了。",
+      "jap": "…ああ、君か。待っていたよ",
+      "eng": "Ahh, well met. Thou'rt at last returned.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "你知道亚斯特拉的安里吧？",
+      "jap": "アストラのアンリを知っているだろう？",
+      "eng": "Knowest thou the name, Anri of Astora?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "#2（男主角）#3那个女骑士，说这是给你的谢礼。",
+      "jap": "あの騎士の娘から、君に礼だそうだ",
+      "eng": "The brave girl left this, as thanks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "#2（女主角）#3那个男骑士，说这是给你的谢礼。",
+      "jap": "あの騎士の青年から、君に礼だそうだ",
+      "eng": "The brave lad left this, as thanks.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "……除此之外，一句话都没有说。",
+      "jap": "…それ以上、何も話さなかったがね",
+      "eng": "Though gave no elucidation...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "那么，你把畸形的灵魂带来了吗？",
+      "jap": "それで、君、異形のソウルを持ってきたのかね",
+      "eng": "So. Happened upon any twisted souls?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "#0被安里召唤击杀艾尔德利奇后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/離れて・アンリとともにエルドリッチ撃破後",
+      "eng": "#00Menu-Choose \"Leave\", or abruptly leave after helping Anri defeat Aldrich",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 82,
+      "chn": "对了，给你一个来自#1矮子#3#2小人#3的忠告。",
+      "jap": "ああ、君、小人の忠告だ",
+      "eng": "Now, heed this little warning, from this little lord.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "#2（男主角）#3别去追她了，放弃吧。",
+      "jap": "彼女を追うのは、やめておきたまえ",
+      "eng": "Seek not the girl.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "#2（女主角）#3别去追他了，放弃吧。",
+      "jap": "彼を追うのは、やめておきたまえ",
+      "eng": "Seek not the boy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "#2（男主角）#3那行动是为了完成使命，\r\n也就是说，下场如何早就心里有底。",
+      "jap": "あれは使命を果たし、やがて、\r\nどうなるのかを知っている",
+      "eng": "She knoweth her fate.\r\nWhat will become of her upon her duty's end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "#2（女主角）#3那行动是为了完成使命，\r\n也就是说，下场如何早就心里有底。",
+      "jap": "あれは使命を果たし、やがて、\r\nどうなるのかを知っている",
+      "eng": "He knoweth his fate.\r\nWhat will become of him upon his duty's end.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "#2（男主角）#3应该不希望你追上去吧。",
+      "jap": "君に追って欲しいとは思わぬだろうよ",
+      "eng": "She would not wish thee follow her.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#2（女主角）#3应该不希望你追上去吧。",
+      "jap": "君に追って欲しいとは思わぬだろうよ",
+      "eng": "He would not wish thee follow him.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "#0放置所有薪王柴薪后交谈",
+      "jap": "#0話しかけた:王の薪をすべて玉座に戻した後",
+      "eng": "#0After offering all Cinders of a Lord",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 90,
+      "chn": "哦，看来你把所有的王都找齐了啊。",
+      "jap": "ああ、君、やっと全てが揃ったようだね",
+      "eng": "Ahh, well met. All is as planned, is it not?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "五座王位上有五位薪王……",
+      "jap": "5つの玉座に5人の王を…",
+      "eng": "Five lords for five thrones...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "感谢你，猎王的英雄啊，这全都是你的丰功伟业。",
+      "jap": "感謝する、王狩りの英雄よ。すべては君の偉業だ",
+      "eng": "Glory be, my Lord-slaying Champion. It is all thy doing.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 93,
+      "chn": "如此一来，我也终于能完成身为王的责任。",
+      "jap": "これで私も、王の責を全うできるよ",
+      "eng": "The stage is set for me to play my part as Lord, too.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "去吧，快到那位防火女身边去吧。",
+      "jap": "さあ、あの火防女の元に行きたまえよ",
+      "eng": "Go. Speak with the Fire Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "#0选择「冀望火已不再的世界」后，放置所有薪王柴薪后交谈",
+      "jap": "#0話しかけた:王の薪をすべて玉座に戻した後・火の消えた世界を望む選択後",
+      "eng": "#0After offering all Cinders of a Lord, after \"Wish for a world without flame\"",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 96,
+      "chn": "哦，看来你把所有的王都找齐了啊。",
+      "jap": "ああ、君、やっと全てが揃ったようだね",
+      "eng": "Ahh, well met. All is as planned, is it not?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "五座王位上有五位薪王……",
+      "jap": "5つの玉座に5人の王を…",
+      "eng": "Five lords for five thrones...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 98,
+      "chn": "也就是说，我们是最后垫底了吗……",
+      "jap": "そしてあるいは、私たちが最後となるか…",
+      "eng": "To think others might ne'er be raised...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "“最后的王”的称呼，\r\n对矮子来说过奖了啊。",
+      "jap": "「最後の王」とは、\r\n小人にすぎた栄誉というものだな",
+      "eng": "And I, of the Last Lords, a rather little lord,\r\nmost undeserving of the honour.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "去吧，快到那位防火女那里去。",
+      "jap": "さあ、あの火防女の元に行きたまえ",
+      "eng": "Speak with the Fire Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 101,
+      "chn": "对了，希望你不要看轻防火女啊。",
+      "jap": "ああ君、火防女を、あまり蔑にしないようにな",
+      "eng": "Treat the Fire Keeper not with discourtesy.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "她其实和你没两样，都是被传火给束缚住了。",
+      "jap": "あれもまた、君と同じ。火継ぎのため囚われたのだから",
+      "eng": "She is much like thee. Prisoners, both, kept to link the fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 104,
+      "chn": "……",
+      "jap": "ウッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "……",
+      "jap": "ウァッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 108,
+      "chn": "……",
+      "jap": "グァアア…アアアッ！",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 109,
+      "chn": "#0被击杀后，第1次复活时",
+      "jap": "#0死亡から複活したA",
+      "eng": "#0After approaching him once he has revived from being killed-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 110,
+      "chn": "……啊啊，好烫，骨头在燃烧，好痛苦……",
+      "jap": "…ああ、熱い、骨が燃えている、苦しいんだ…",
+      "eng": "Ahh, it singeth, to the bone, it hurts...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "……救救我，杀了我吧……",
+      "jap": "…助けてくれ。殺してくれ…",
+      "eng": "Please, help me. Be done with me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 112,
+      "chn": "……不要、不要，这样太痛苦了啊……",
+      "jap": "…嫌だ、嫌だ。こんなのは辛すぎるよ…",
+      "eng": "No, gods, no, I cannot bear it...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "……好烫啊，救救我……",
+      "jap": "…熱いよ、助けてくれよ…",
+      "eng": "It burns, burns, help me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "#0被击杀后，第2次复活时",
+      "jap": "#0死亡から複活したB",
+      "eng": "#0After approaching him once he has revived from being killed-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 115,
+      "chn": "……看啊，各位，我成为了王……",
+      "jap": "…なあ、みんな、俺は王になった…",
+      "eng": "See ye not? I am a Lord...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "……就算火很微弱，还是能延续世界啊……",
+      "jap": "…弱い火とて、世界を繋いだんだ…",
+      "eng": "A wee flame, belike, but I shoulder the world...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 117,
+      "chn": "……所以原谅我、原谅我吧……",
+      "jap": "…だから、許しておくれ。許しておくれよ…",
+      "eng": "Forgive me. Oh, please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "……不要一直怪我了……",
+      "jap": "…そんなに責めないでおくれよ…",
+      "eng": "I am not to blame, I'm not...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 119,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 121,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "##……",
+      "jap": "##彼女は、君を待っている",
+      "eng": "##She awaiteth thee.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 123,
+      "chn": "##……",
+      "jap": "##…ずっと待っていたのだ",
+      "eng": "##...She hath waited a long time indeed...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 125,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "##……",
+      "jap": "##私は君の味方、使命を共にしているのさ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 129,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 131,
+      "chn": "##猎王者啊，完成你的使命吧……",
+      "jap": "##王狩りよ、使命を果たしたまえよ…",
+      "eng": "##Lord-slayer, do not fail us now...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "##把五位薪王带上五座王位……",
+      "jap": "##5つの玉座に5人の王を…",
+      "eng": "##Five Lords, for five thrones...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "##……哦，你……拿着一个奇妙的东西啊……",
+      "jap": "##…ほう、君…奇態なものを持っているね…",
+      "eng": "##Well well, what peculiar things thou keep'st on thy person...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "##我有印象，一定是那对深色眼眸吧？",
+      "jap": "##覚えているよ。それはきっと、あの暗い瞳だろう？",
+      "eng": "##Those I have seen before. Black eyes, if I am not mistaken?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "##她在等你",
+      "jap": "##彼女は、君を待っている",
+      "eng": "##She awaiteth thee.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "##……一直在等你啊。",
+      "jap": "##…ずっと待っていたのだ",
+      "eng": "##...She hath waited a long time indeed...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##嘿嘿嘿……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "##……",
+      "jap": "##ヒッヒッヒッ…",
+      "eng": "##(laugh)",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

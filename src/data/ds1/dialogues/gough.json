@@ -1,6 +1,1191 @@
 {
   "npc": "gough",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/gough.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/gough.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "呵，真是稀奇，竟然有人造访此地。",
+      "jap": "ほう、訪問者とは、珍しいこともあるものだ",
+      "eng": "Hm? A visitor, have we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "你就是解放亚尔特留斯的那一位吧？",
+      "jap": "もしや、アルトリウスを解放してくれた御人かな",
+      "eng": "Thou must be the one who freed Artorias.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "那么，我必须向你致谢，\r\n感谢你维护了老朋友的尊严，",
+      "jap": "ならば、古い友の誇りを守ってくれたこと\r\n礼を言わねばなるまい",
+      "eng": "An old friend he was,\r\nand thanks to thee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "真的非常感激。",
+      "jap": "貴公に感謝する",
+      "eng": "He left this world with honour intact.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……但我已目不识物，此身隐居山林，",
+      "jap": "…だが、私はもはやモノも見えず、こうして隠居の身",
+      "eng": "...And here I am, retired and blind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "很抱歉帮不了你的忙。",
+      "jap": "残念ながら、役たたずであろうが",
+      "eng": "Of little help to thee, I am afraid.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0与戈夫攀谈前击杀喀拉弥特后，第1次攀谈",
+      "jap": "#0話しかけた:1回目・カラミット撃破後",
+      "eng": "#0Talk-After defeating Kalameet before speaking with Gough",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "呵，真是稀奇，竟然有人造访此地。",
+      "jap": "ほう、訪問者とは、珍しいこともあるものだ",
+      "eng": "Hm? A visitor, have we?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "你就是解放亚尔特留斯的那一位吧？",
+      "jap": "もしや、アルトリウスを解放してくれた御人かな",
+      "eng": "Thou must be the one who freed Artorias.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "那么，我必须向你致谢，\r\n感谢你维护了老朋友的尊严，",
+      "jap": "ならば、古い友の誇りを守ってくれたこと\r\n礼を言わねばなるまい",
+      "eng": "An old friend he was,\r\nand thanks to thee...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "真的非常感激。",
+      "jap": "貴公に感謝する",
+      "eng": "He left this world with honour intact.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……另外，狩猎掉那头黑龙喀拉弥特的，\r\n看来就是你没错了。",
+      "jap": "…それに、あの黒い竜、\r\nカラミットを狩ったのも貴公のようだな",
+      "eng": "And I see that the great black dragon Kalameet\r\nis dusted by thine hand.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "非常好。换作从前，可是能够接受葛温大王授勋的伟业。",
+      "jap": "すばらしい。世であれば、大王グウィンの叙勲に見える偉業だ",
+      "eng": "Wondrously played. Lord Gwyn's blessing upon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "我已目不识物，此身隐居山林，",
+      "jap": "私はもはやモノも見えず、こうして隠居の身だが",
+      "eng": "I am retired, and blind.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "没想到还有机会\r\n能见到人类英雄……",
+      "jap": "それでも、\r\nこうして人の英雄に見えることができるとはな…",
+      "eng": "To receive a visit by one as lofty as thyself,\r\nis a great honour indeed.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "#0第2次攀谈",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 17,
+      "chn": "呵，竟然又是你。世间果然还是有奇人啊。",
+      "jap": "ほう、また貴公とは。変わった人間もいたものだ",
+      "eng": "Well, thou com'st again. Thou art a strange one.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0第3次攀谈",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "呵，竟然又是你。这还真是稀奇……",
+      "jap": "ほう、また貴公とは。何が珍しいものか…",
+      "eng": "Well, thou hast come again. This is a surprise.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "#0与喀拉弥特战斗前，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time before encountering Kalameet at his lair",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 21,
+      "chn": "如果想在这附近晃荡，当心那头黑龙。",
+      "jap": "このあたりを旅するのであれば、黒い竜に気をつけるがよい",
+      "eng": "If thou seeketh to explore this domain, be wary of a black dragon.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "那家伙……就算是你也是吃不消。",
+      "jap": "あれは…おそらくは貴公とて、人の手に負えるものではないぞ",
+      "eng": "I fear thee no match for this terrible beast.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "#0互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 24,
+      "chn": "喔，想听我的故事啊？",
+      "jap": "なんだ、私の話か",
+      "eng": "Me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "我的故事不怎么有趣。",
+      "jap": "そんなもの、面白いことは何もない",
+      "eng": "There is very little to be said.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "狡兔死了，自然不需要走狗",
+      "jap": "兎がいなければ、よい猟犬も不要なものだ",
+      "eng": "What good is a dog, with no hares to hunt?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "……没被煮成盘中餐就万幸了。",
+      "jap": "…煮られぬだけ幸運というものさね",
+      "eng": "...I am lucky to be alive, I suppose.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0与喀拉弥特战斗后攀谈",
+      "jap": "#0話しかけた:カラミット遭遇後1回目",
+      "eng": "#0Talk-After encountering Kalameet at his lair",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "呵，你……是不是斗不过那头黑龙呢？",
+      "jap": "ほう、貴公…黒い竜に難儀しているのではないか？",
+      "eng": "Good morrow...Is the Black Dragon posing thee duress?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "#0您打算如何回答？选择「否」",
+      "jap": "#0話しかけた:カラミット遭遇後1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 31,
+      "chn": "……这样啊。怪了，也许我的直觉也退化了吧……",
+      "jap": "…そうだったか。おかしいな、私の勘も鈍ったものだ…",
+      "eng": "...Strange. I am rarely wrong on such matters...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "#0选择「否」后，在营火休息后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC・カラミット遭遇後・【NO】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"No\" to 1st query & resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 33,
+      "chn": "呵，还是斗不过那头黑龙吧？",
+      "jap": "貴公、やはり、黒い竜に難儀しているのではないか？",
+      "eng": "The Black Dragon troubles you yet, I see.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "#0您打算如何回答？选择「否」后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すC・カラミット遭遇後・【NO】選択後・選択肢【NO】",
+      "eng": "#0Choose \"No\" after choosing \"No\" to the 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 35,
+      "chn": "……这样啊。抱歉老是胡言乱语……",
+      "jap": "…そうだったか。度々すまんな、おかしなことを…",
+      "eng": "...Hmm, yes, I see. I was mistaken...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:カラミット遭遇後1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 37,
+      "chn": "嗯，果然如此。",
+      "jap": "うむ、やはりそうか",
+      "eng": "Yes, I thought as much.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "那家伙叫做喀拉弥特，",
+      "jap": "あれの名はカラミット",
+      "eng": "He is called Kalameet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "连昔日的亚诺尔隆德\r\n都故意视而不见的恐怖黑龙。",
+      "jap": "かつてのアノール・ロンドですら見逃した、\r\n恐ろしい竜だ",
+      "eng": "A ferocious dragon indeed,\r\neven mighty Anor Londo dared not provoke his ire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "你一介人类想要前往挑战……也太不自量力了……",
+      "jap": "それに人の身で挑むとは…計り知れるものではないが…",
+      "eng": "I see little good coming from this, but...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "……但是你根本不打算放弃吧？",
+      "jap": "…だが貴公、諦めるつもりもないのだろう？",
+      "eng": "...Thy intent is to persevere... to the bitter end, hmm?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "#0选择「是」后，您打算如何回答？选择「否」",
+      "jap": "#0話しかけた:カラミット遭遇後1回目・【YES】選択後・選択肢【NO】",
+      "eng": "#0Choose \"No\" after choosing \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 43,
+      "chn": "嗯，这样也好。\r\n你很聪明，知道何谓愚不可及。",
+      "jap": "うむ、それがよかろう\r\n貴公は賢い、愚者の何たるかを知るものだ",
+      "eng": "A wise choice.\r\nWhy foist thyself unto the fiery maw?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0选择「否」后，在营火休息后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すD・カラミット遭遇後・【NO】選択後",
+      "eng": "#0Menu-Choose \"Talk\" after choosing \"No\" to 2nd query & resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "……你仍旧想要挑战喀拉弥特吗？",
+      "jap": "…もしや貴公、やはり、カラミットに挑むつもりか？",
+      "eng": "...Art thou prepared to challenge great Kalameet?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "#0您打算如何回答？选择「否」后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すD・カラミット遭遇後・【NO】選択後・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the 3rd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 47,
+      "chn": "是啊，这样也好。",
+      "jap": "そうだな、それがよかろう",
+      "eng": "Yes, surely that is best.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0您打算如何回答？选择「是」",
+      "jap": "#0話しかけた:カラミット遭遇後1回目・【YES】選択後・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" after choosing \"Yes\" to the 1st query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "……哈哈。",
+      "jap": "…ふははっ",
+      "eng": "Hah hah hah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "很好，很好。虽说无谋，却是有勇。",
+      "jap": "よい、よい。無謀だが、確かにそれを勇と言うのだろう",
+      "eng": "Good, good. What is bravery, without a dash of recklessness!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "很不赖。",
+      "jap": "気に入った",
+      "eng": "I have taken a liking to thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "你对亚尔特留斯又有恩，\r\n就让你看看，我戈夫怎么猎龙吧。",
+      "jap": "アルトリウスの礼もある。\r\n貴公に、ゴーの竜狩りを見せてやろう",
+      "eng": "And I owe thee much for thy service to Artorias.\r\nNow watch, and see how Gough hunts dragons.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "嗯嗯嗯",
+      "jap": "むうううううん",
+      "eng": "Hrrmmm...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "喝啊！",
+      "jap": "おああっ！",
+      "eng": "Haah!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "哈，看到没，打个正着。",
+      "jap": "ふはっ、見たか、見事命中だ",
+      "eng": "Hah hah! Yes, a truer shot was never loosed!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "那家伙再强，暂时是飞不起来了。",
+      "jap": "いかにあれとて、暫くは飛べぬだろう",
+      "eng": "That bat will be grounded for a good spell!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "剩下就要看你的功夫如何了，我等你的好消息。",
+      "jap": "あとは貴公の武勇次第。よい知らせを待っておるぞ",
+      "eng": "The rest is in thine hands. I await good tidings.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "说起来，向龙挑战是骑士的荣耀啊……",
+      "jap": "竜に挑むは、騎士の誉れよな…",
+      "eng": "Ahh, dragon slaying. Knighthood's highest calling...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0戈夫击落喀拉弥特后攀谈",
+      "jap": "#0話しかけた:カラミット撃墜イベント後",
+      "eng": "#0Talk-After Gough has shot down Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "呵，你又来了啊。解决掉喀拉弥特了吗？",
+      "jap": "ほう、また貴公か。どうだ、カラミットは？",
+      "eng": "Ah, hello there. What of Kalameet?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "它好歹也是古龙的后裔。\r\n就算落了地，仍然没那么容易对付。",
+      "jap": "あれも古い竜の末だ。\r\n落ちたとて、一筋縄ではいかんだろう",
+      "eng": "He is an ancient dragon.\r\nSkyward or no, he will not be put down easily.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "#0与喀拉弥特战斗后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話すE",
+      "eng": "#0Menu-Choose \"Talk\" after encountering Kalameet at his lair",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 63,
+      "chn": "……说到那些龙啊，",
+      "jap": "…竜どもはなあ",
+      "eng": "The dragons shall never be forgotten...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "我等骑士向它们发起挑战，\r\n宰掉不少，伙伴也丧失不少。",
+      "jap": "我ら騎士はあれらに挑み、\r\n多くを屠り、また多くの友が倒れた",
+      "eng": "We knights fought valiantly,\r\nbut for every one of them, we lost three score of our own.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "亢奋、荣誉、怨怼、憎恨──\r\n这些情感都与它们同在",
+      "jap": "高揚も、名誉も、恨みも、憎しみも\r\nすべてあれらと共にあったのだ",
+      "eng": "Exhilaration, pride, hatred, rage...\r\nThe dragons teased out our dearest emotions.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "……你很快就会体会得到：",
+      "jap": "…貴公にも、やがて分かるだろう",
+      "eng": "...Thou will understand, one day.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "夕阳西下，心中涌出莫名悲伤，\r\n却又难以抑制的怀念。",
+      "jap": "夕暮れには、手前勝手な感傷を\r\nしかし抑えがたく懐かしむのだと",
+      "eng": "At thy twilight, old thoughts return,\r\nin great waves of nostalgia.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "#0戈夫击落喀拉弥特后，互动列表-第1次选择「交谈」",
+      "jap": "#0リストから選択:話すF・カラミット撃墜後",
+      "eng": "#0Menu-Choose \"Talk\" 1st time, after Gough has shot down Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "想必你也已经亲眼看到了吧？",
+      "jap": "貴公も、おそらくは目にしているだろうが",
+      "eng": "I suspect thou hast taken a gander at it,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "那侵蚀了吾友亚尔特留斯的深渊黑暗，\r\n现在正要吞噬这乌拉席露整个国度",
+      "jap": "友アルトリウスを蝕んだ深淵の闇は\r\nいまやこの国、ウーラシールを飲み込もうとしている",
+      "eng": "But the Dark of the Abyss, which swallowed poor Artorias,\r\nthreatens to devour our entire land of Oolacile.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "……看来，灭亡已难以避免。",
+      "jap": "…おそらく、滅びは避けられまい",
+      "eng": "It seems that this dire fate is unavoidable.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "然而，就算是受到黑暗之蛇的蛊惑，",
+      "jap": "だが、たとえ、闇の蛇に唆されたとて",
+      "eng": "But, seduced by a Dark serpent or no,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "也是他们自己心甘情愿召唤出他，并为其疯狂",
+      "jap": "彼らは自ら望み、あれを起こし、狂わせたのだ",
+      "eng": "They awoke that thing themselves, and drove it mad.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "……灭亡不过是罪有应得而已……",
+      "jap": "…滅びは自業というものだよ…",
+      "eng": "...One's demise is always one's own making.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "#0戈夫击落喀拉弥特后，互动列表-第2次选择「交谈」",
+      "jap": "#0リストから選択:話すG・カラミット撃墜後",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time, after Gough has shot down Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 76,
+      "chn": "……你若要像吾友一般，\r\n想要阻止这股黑暗，",
+      "jap": "…貴公、\r\nもし友と同じように闇を留めんとするのであれば",
+      "eng": "If thine wish is to succeed poor Artorias,\r\nand challenge the spread of the Dark,",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "就去讨伐深渊之主，马努斯吧。",
+      "jap": "深淵の主、マヌスに挑むがよい",
+      "eng": "Then thou must face Manus, Father of the Abyss.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "……黑暗由马努斯而生，",
+      "jap": "…闇はマヌスより生じている",
+      "eng": "The Dark emanates from Manus himself.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "这个国家的灭亡，\r\n或许可以避免更大的覆灭局面。",
+      "jap": "この国は滅びるとて\r\nそれ以上の破滅は、あるいは避けられるだろう",
+      "eng": "Even if this land shall expire,\r\nthou may be able to prevent further corrosion.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "……但是，光明将会消失，\r\n仅仅留下黑暗，",
+      "jap": "…しかし、いずれ火は消え、\r\n暗闇だけが残る",
+      "eng": "...But even so, one day the flames will fade,\r\nand only Dark will remain.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "就算是英雄，也不能够阻止……",
+      "jap": "いかな英雄とて、留めることはできん…",
+      "eng": "And even a legend such as thineself can do nothing to stop that.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "#0戈夫击落喀拉弥特后，互动列表-第3次选择「交谈」",
+      "jap": "#0リストから選択:話すH・カラミット撃墜後",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time, after Gough has shot down Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 83,
+      "chn": "你可别误会了，",
+      "jap": "貴公、勘違いするなよ",
+      "eng": "Now, do not mistake my words.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "我对现状还算满意。\r\n雕刻木头挺深奥的，也很有趣。",
+      "jap": "私は、これはこれで気に入っている\r\n木彫りも、奥深く楽しいもの",
+      "eng": "I cherish my work.\r\nWood carving is a nuanced art.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "现在的话，或许和那铁匠小子有得聊",
+      "jap": "今ならば、あの鍛冶小僧と話もあおうというものだ",
+      "eng": "I would have much to talk about with that blacksmith.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "……话说，不知道那小子过得如何，",
+      "jap": "…そういえば、あ奴、どうしているかのう",
+      "eng": "In truth, how is the old chap, I wonder?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "希望他还能每天挥动着木头槌子。",
+      "jap": "木槌をずっと、ふるえていればよいが",
+      "eng": "Still hammering away, I should hope.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "#0击杀喀拉弥特后，第1次攀谈",
+      "jap": "#0話しかけた:カラミット撃破後:1回目",
+      "eng": "#0Talk-1st time after defeating Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 89,
+      "chn": "你……解决掉喀拉弥特了吧？",
+      "jap": "貴公…カラミットを狩ったのだろう",
+      "eng": "Why, thou hast defeated Kalameet!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "非常好。换作从前，可是能够接受葛温大王授勋的伟业。",
+      "jap": "すばらしい。世であれば、大王グウィンの叙勲に見える偉業だ",
+      "eng": "Wondrously played. Lord Gwyn's blessing upon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "不过……唉……它再也无法飞翔空中了啊……",
+      "jap": "しかし…なあ…あれももう、二度と空を駆けぬのだなあ…",
+      "eng": "That beast will never take to the skies again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 92,
+      "chn": "#0戈夫未击落喀拉弥特时，击杀喀拉弥特后，第1次攀谈",
+      "jap": "#0話しかけた:カラミット撃破後:1回目・ゴー未撃墜カラミット",
+      "eng": "#0Talk-1st time after defeating Kalameet, without Gough shot down Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 93,
+      "chn": "哦，你……宰掉了那头黑龙喀拉弥特啊。",
+      "jap": "ほう、貴公…あの黒い竜、カラミットを狩ったようだな",
+      "eng": "I see that thou hast dusted the great black dragon Kalameet.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 94,
+      "chn": "非常好。换作从前，可是能够接受葛温大王授勋的伟业。",
+      "jap": "すばらしい。世であれば、大王グウィンの叙勲に見える偉業だ",
+      "eng": "Wondrously played. Lord Gwyn's blessing upon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 95,
+      "chn": "你正是那人类的英雄。",
+      "jap": "貴公こそ、まさに人の英雄と呼ぶべきだろう",
+      "eng": "I see that there is at least one legend among ye humans.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 96,
+      "chn": "不过……唉……它再也无法飞翔空中了啊……",
+      "jap": "しかし…なあ…あれももう、二度と空を駆けぬのだなあ…",
+      "eng": "Dear me... That old bat will never fly again.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 97,
+      "chn": "#0击杀喀拉弥特后，第2次攀谈",
+      "jap": "#0話しかけた:カラミット撃破後:2回目",
+      "eng": "#0Talk-2nd time after defeating Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 98,
+      "chn": "人类的英雄，来得好。",
+      "jap": "よくきたな、人の英雄よ",
+      "eng": "Thou com'st again, legend of humans.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 99,
+      "chn": "能和你说上话，我很高兴。",
+      "jap": "貴公と話せるのは、嬉しいことだ",
+      "eng": "It is always an honour to speak with thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 100,
+      "chn": "#0击杀喀拉弥特后，互动列表选择「交谈」",
+      "jap": "#0リストから選択:話すI・カラミット撃破後",
+      "eng": "#0Menu-Choose \"Talk\" after defeating Kalameet",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 101,
+      "chn": "啊啊，这把大弓吗？",
+      "jap": "ああ、この大弓か",
+      "eng": "Ahh, this Greatbow?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 102,
+      "chn": "既已无龙，对我来说的确是无用之物。",
+      "jap": "竜なき今、確かに私には不要のものだ",
+      "eng": "I shan't need it, with no dragons to hunt.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 103,
+      "chn": "虽不敢说人类之身能否拉开此弓……我就把它交给你了。",
+      "jap": "人の身でひけるものかは分からぬが…貴公に委ねるとしよう",
+      "eng": "I know not if a human could even operate it, but here...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 104,
+      "chn": "希望能为你的荣耀尽点心力……",
+      "jap": "僅かでも、貴公の誉れの助けとなればな…",
+      "eng": "Thy need outweighs mine.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 105,
+      "chn": "#0互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて",
+      "eng": "#0Menu-Choose \"Leave\", or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 106,
+      "chn": "再会了，人类，",
+      "jap": "さらばだ、人間よ",
+      "eng": "Farewell, human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 107,
+      "chn": "走出你自己的路吧。",
+      "jap": "貴公らしく生きるがよい",
+      "eng": "Lead thy life as thou seest fit.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 108,
+      "chn": "#0与喀拉弥特战斗后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて・カラミット撃墜前",
+      "eng": "#0Menu-Choose \"Leave\" after encountering Kalameet at his lair, or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 109,
+      "chn": "再会了，人类，",
+      "jap": "さらばだ、人間よ",
+      "eng": "Farewell, human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 110,
+      "chn": "我等你的好消息。",
+      "jap": "よい知らせを待っておるぞ",
+      "eng": "I await good tidings.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 111,
+      "chn": "#0击杀喀拉弥特后，互动列表-选择「离去」，或走开中断对话",
+      "jap": "#0リストから選択:立ち去る/彼から離れて・カラミット撃破後",
+      "eng": "#0Menu-Choose \"Leave\" after defeating Kalameet, or abruptly leave",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 112,
+      "chn": "再会了，人类英雄，",
+      "jap": "さらばだ、人間の英雄よ",
+      "eng": "Farewell, proud human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 113,
+      "chn": "愿荣耀永归于你。",
+      "jap": "貴公に誉れのあらんことを",
+      "eng": "May every honour be bestowed upon thee.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 114,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 115,
+      "chn": "快住手",
+      "jap": "やめたまえ",
+      "eng": "Cease this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 116,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 117,
+      "chn": "我叫你住手",
+      "jap": "やめたまえと言っているぞ",
+      "eng": "Stop it, I say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 118,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 119,
+      "chn": "你要搞清楚，我并不打算杀掉好友的恩人。",
+      "jap": "分からんか。友の恩人を、屠るつもりもないのだ",
+      "eng": "Understand this. I wish thee no harm.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 120,
+      "chn": "#0第4次受到攻击时",
+      "jap": "#0攻撃した:4回目",
+      "eng": "#0Upon being attacked-4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 121,
+      "chn": "还不住手！",
+      "jap": "やめないか！",
+      "eng": "Stop that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 122,
+      "chn": "#0第5次受到攻击时",
+      "jap": "#0攻撃した:5回目",
+      "eng": "#0Upon being attacked-5th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 123,
+      "chn": "脑筋清醒点！",
+      "jap": "分からんか！",
+      "eng": "By the Gods!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 124,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 125,
+      "chn": "果然人类就是人类，",
+      "jap": "やはり人間とはそういうものか",
+      "eng": "Ahh, so this is true human nature.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 126,
+      "chn": "即使你对好友有恩，可惜却由不得你了。",
+      "jap": "友の恩人とて、残念だが仕方ない",
+      "eng": "Artorias is in your debt, but thou leavest me little choice...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 127,
+      "chn": "今日让你命丧此处也是为了大家好！",
+      "jap": "ここで果てるが皆のためだろう！",
+      "eng": "May you perish, for the good of all!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 128,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 129,
+      "chn": "这……就是人类……",
+      "jap": "これが、人間、とは…",
+      "eng": "Humans...hmph...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 130,
+      "chn": "#0古木人脸",
+      "jap": "#0古木の人面",
+      "eng": "#0Archtree Carving",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 131,
+      "chn": "你好啊",
+      "jap": "こんにちは",
+      "eng": "Hello",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 132,
+      "chn": "谢谢你",
+      "jap": "ありがとう",
+      "eng": "Thank you",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 133,
+      "chn": "不错啊！",
+      "jap": "いいね！",
+      "eng": "Very good!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 134,
+      "chn": "很抱歉",
+      "jap": "申し訳ない",
+      "eng": "I'm sorry!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 135,
+      "chn": "救命啊！",
+      "jap": "助けてくれ！",
+      "eng": "Help me!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 136,
+      "chn": "##话说你曾经打败过亚尔特留斯，",
+      "jap": "##そういえば、貴公、アルトリウスを倒したとあれば",
+      "eng": "##I should confer...If thine was the blade to which Artorias fell.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 137,
+      "chn": "##那么，你要当心一位名叫基亚蓝的女子。",
+      "jap": "##キアランの娘っこには、注意した方がよいぞ",
+      "eng": "##Then thou must be wary of Ciaran.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 138,
+      "chn": "##那女子……很可能对亚尔特留斯怀抱着特别的情感……",
+      "jap": "##あれは…おそらく、アルトリウスに特別な感情を抱いておった…",
+      "eng": "##She had strong feelings for the great Artorias.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 139,
+      "chn": "##真是可悲的女子。",
+      "jap": "##哀れな娘だ",
+      "eng": "##The poor, poor girl.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 140,
+      "chn": "##喝啊！",
+      "jap": "##どうりゃあっ",
+      "eng": "##Mmgraah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 141,
+      "chn": "##喝呀──！",
+      "jap": "##うおうりゃあっ",
+      "eng": "##Mmgraah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 142,
+      "chn": "##噗哈！",
+      "jap": "##ばはあっ（大きく息を吐くように）",
+      "eng": "##Hahh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 143,
+      "chn": "##呶喔！",
+      "jap": "##ぬおっ",
+      "eng": "##Oog!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 144,
+      "chn": "##咕呜！",
+      "jap": "##ぐぬうっ",
+      "eng": "##Ooph!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 145,
+      "chn": "##咕！",
+      "jap": "##グッ（堪えるように）",
+      "eng": "##Hrg!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 146,
+      "chn": "##喔────",
+      "jap": "##ぐおおおおっ",
+      "eng": "##Arrgggg!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 147,
+      "chn": "##实在可怕……",
+      "jap": "##恐ろしい…",
+      "eng": "##What vile creatures...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

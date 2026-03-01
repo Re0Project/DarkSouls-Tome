@@ -1,6 +1,743 @@
 {
   "npc": "oscar",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/oscar.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/oscar.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次攀谈",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……喔，你……不是游魂啊……",
+      "jap": "…おお、君は…亡者じゃあないんだな…",
+      "eng": "...Oh, you... You're no Hollow, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "……真是太好了……",
+      "jap": "…よかった…",
+      "eng": "...Thank goodness...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "……我已经不行了……",
+      "jap": "…私は、もうダメだ…",
+      "eng": "...I'm done for, I'm afraid...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……马上就要死了，一旦死去，就再也无法保持理智……",
+      "jap": "…もうすぐ死ぬ。死ねばもう、正気を保てない…",
+      "eng": "...I'll die soon, then lose my sanity...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……我想要拜托你一件事……",
+      "jap": "…だから、君に、願いがある…",
+      "eng": "...I wish to ask something of you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……而且又和我一样同为不死人……请你接受请求听我说……",
+      "jap": "…同じ不死の身だ…観念して、聞いてくれよ…",
+      "eng": "...You and I, we're both Undead... Hear me out, will you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "#0您打算怎么做？选择「否」",
+      "jap": "#0話しかけた:1回目・選択肢【NO】",
+      "eng": "#0Choose \"No\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 8,
+      "chn": "……这样呀……",
+      "jap": "…そうか…",
+      "eng": "...Yes, I see...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "……唉……也对……",
+      "jap": "…まあ、そうだろうな…",
+      "eng": "...Perhaps I was too hopeful...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "……哈哈……",
+      "jap": "…ハハッ…",
+      "eng": "...Hah hah...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "……你快走吧……",
+      "jap": "…もう、いってくれ…",
+      "eng": "...Please, leave me be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……我的时间不多了……说不定在死后会袭击你……",
+      "jap": "…長くはない…死んだ後、君を襲うかもしれない…",
+      "eng": "...I have not long to live, and I may harm you after death.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "……快走吧……",
+      "jap": "…いってくれ…",
+      "eng": "...Now, go...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0您打算怎么做？选择「是」",
+      "jap": "#0話しかけた:1回目・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to the query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "……说来惭愧，不过想拜托你的事便是我的使命……",
+      "jap": "…恥ずかしい話だが、願いは、私の使命だ…",
+      "eng": "...Regrettably, I have failed in my mission...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "……我想将使命托付给素昧平生的你……",
+      "jap": "…それを、見ず知らずの君に、託したい…",
+      "eng": "...But perhaps you can keep the torch lit...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "……在我的家族中，流传着这种说法……",
+      "jap": "…私の家に、伝わっている…",
+      "eng": "...There is an old saying in my family...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……不死代表了身负使命……",
+      "jap": "…不死とは、使命の印である…",
+      "eng": "...Thou who art Undead, art chosen...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "……有了这种不死之身……\r\n便得从不死院……前往古代诸王之地……",
+      "jap": "…その印、あらわれし者は\r\n…不死院から…古い王たちの地にいたり…",
+      "eng": "...In thine exodus from the Undead Asylum,\r\nmaketh pilgrimage to the land of Ancient Lords...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "……敲响苏醒之钟，\r\n以知悉不死人的使命……",
+      "jap": "…目覚ましの鐘を鳴らし、\r\n不死の使命を知れ…",
+      "eng": "...When thou ringeth the Bell of Awakening,\r\nthe fate of the Undead thou shalt know.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "……谢谢你……这么一来，我终于能抱着希望而死了……",
+      "jap": "…よく、聞いてくれた…これで、希望をもって、死ねるよ…",
+      "eng": "...Well, now you know...And I can die with hope in my heart...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "……啊……还有件事……这东西也托付给你保管吧……",
+      "jap": "…ああ、それと…これも、君に託しておこう…",
+      "eng": "...Oh, one more thing...Here, take this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "……这是不死人的宝物，原素瓶……",
+      "jap": "…不死者の宝、エスト瓶だ…",
+      "eng": "...An Estus Flask, an Undead favourite.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "……喔，还有这个……",
+      "jap": "…それと、これも…",
+      "eng": "...Oh, and this...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "……那么，现在该要说再见啦……",
+      "jap": "…じゃあ、もう、さよならだ…",
+      "eng": "...Now I must bid farewell...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "……我不希望自己在死后袭击你……快走吧……",
+      "jap": "…死んだ後、君を襲いたくはない…いってくれ…",
+      "eng": "...I would hate to harm you after death...So, go now...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "……多谢你啰。",
+      "jap": "…ありがとうな",
+      "eng": "...And thank you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "#0被击杀时",
+      "jap": "#0殺害した",
+      "eng": "#0Upon dying",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 29,
+      "chn": "呜……",
+      "jap": "グウッ…",
+      "eng": "Hrggkt...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "为……什么……",
+      "jap": "な…ぜ…",
+      "eng": "But...why...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "##……内脏受到了重伤……",
+      "jap": "##…内臓が、傷ついている…",
+      "eng": "##...My insides are damaged...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "##……这我相当清楚……",
+      "jap": "##…分かるんだ…",
+      "eng": "##...I can feel it coming...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "##……因为你恰巧在这么刚好的时机出现……",
+      "jap": "##…こんな丁度いいタイミングで、現れたんだ…",
+      "eng": "##...You are a godsend, to come at this moment...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "##……哈哈……",
+      "jap": "##…ハハッ…",
+      "eng": "##...Hah hah...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "##……太好了……",
+      "jap": "##…そうか…",
+      "eng": "##...Thank you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "##……呼……呼……",
+      "jap": "##…ハァ…ハァ…",
+      "eng": "##...hng...hng...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "##……谢谢你愿意听我说……\r\n……要不要做就随你了……但我终于能抱着希望而死了……",
+      "jap": "##…よく、聞いてくれた…\r\nどうするかは、君の自由だが…希望をもって、死ねるよ…",
+      "eng": "##...Thank you for hearing me out...\r\nNow I can die with hope in my heart...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "##……呼……呼……",
+      "jap": "##…ハァ…ハァ…",
+      "eng": "##...hng...hng...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "##……我想这对你一定会有帮助……",
+      "jap": "##…きっと、君の役にたつと思う…",
+      "eng": "##...It should prove useful.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "##……哈哈……",
+      "jap": "##…ハハッ…",
+      "eng": "##...Hah hah...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "##……呼……呼……",
+      "jap": "##…ハァ…ハァ…",
+      "eng": "##...hng...hng...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "##……呼……呼……",
+      "jap": "##…ハァ…ハァ…",
+      "eng": "##...hng...hng...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "##……钥匙就放在那边……",
+      "jap": "##…鍵は、そこにある…",
+      "eng": "##...The key is there...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "##……你快点回来吧……",
+      "jap": "##…はやく、きてくれ…",
+      "eng": "##...Please, come quickly...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "##……那是你的命运……",
+      "jap": "##…それが、君の運命だ…",
+      "eng": "##...It is your fate...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "##很高兴能认识你，",
+      "jap": "##はじめまして",
+      "eng": "##A pleasure to meet you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "##我已经从老芙拉姆特那边听过你的事了。",
+      "jap": "##君のことは、老フラムトから聞いているよ",
+      "eng": "##Sage Frampt has spoken to me about you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "##我是亚斯特拉的奥斯卡，",
+      "jap": "##私は、アストラのオスカル",
+      "eng": "##I am Oscar of Astora.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "chn": "##一直很想向敲响苏醒之钟的你致谢。",
+      "jap": "##目覚ましの鐘を鳴らした君に、礼が言いたかったんだ",
+      "eng": "##I wish to thank you for ringing the Bell of Awakening.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "##先前我就接下老芙拉姆特的使命，",
+      "jap": "##老フラムトの使命は、私が受けた",
+      "eng": "##I have received the word of Sage Frampt.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "##我这边已经没问题了，你就专心在自己的目标上，",
+      "jap": "##こちらはもう、大丈夫。君は、君の理由に集中してくれ",
+      "eng": "##I will be fine. You ought to focus on yourself.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "chn": "##一起完成各自的使命吧。",
+      "jap": "##お互い、己の使命を果たそうじゃないか",
+      "eng": "##May we each fulfil our respective purposes!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "##我马上就要出发了，",
+      "jap": "##私は、もうすぐ出発する",
+      "eng": "##I am preparing to leave.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "chn": "##我将照着老芙拉姆特的建言，\r\n从赛恩古城朝亚诺尔隆德前进。",
+      "jap": "##老フラムトの助言に従い\r\nセンの古城から、アノール・ロンドを目指すんだ",
+      "eng": "##I will follow Sage Frampt's instructions,\r\nand will seek Anor Londo by way of Sen's Fortress.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "##希望之后还可以在其他地方遇到你。",
+      "jap": "##君とは、また、どこかで会えるといいな",
+      "eng": "##I hope that we meet again somewhere, one day.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "chn": "##很高兴能认识你，",
+      "jap": "##はじめまして",
+      "eng": "##A pleasure to meet you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "##我已经从老芙拉姆特那边听过你的事了。",
+      "jap": "##君のことは、老フラムトから聞いているよ",
+      "eng": "##Sage Frampt has spoken to me about you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "chn": "##我是亚斯特拉的奥斯卡，",
+      "jap": "##私は、アストラのオスカル",
+      "eng": "##I am Oscar of Astora.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "##你已经敲响了苏醒之钟，\r\n并接下了老芙拉姆特的使命吧？",
+      "jap": "##目覚ましの鐘を鳴らし、\r\n老フラムトの使命を受けたのだろう？",
+      "eng": "##I am told that you rang the Bell of Awakening,\r\nand received the word of Frampt.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "chn": "##真是了不起。我相当期待你。",
+      "jap": "##素晴らしいことだ。期待しているよ",
+      "eng": "##That is a wonderful thing. We are all counting on you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "##希望我也能像你一样，碰得上那么重大的使命。",
+      "jap": "##私も、君のような使命に出会いたいものだ",
+      "eng": "##I only wish that I had such a purpose.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "chn": "##我马上就要出发了，",
+      "jap": "##私は、もうすぐ出発する",
+      "eng": "##I am preparing to leave.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "##反正一直待在这边也不是办法，我将试着找寻自己的使命。",
+      "jap": "##ずっとここにいても、仕方ないからな　自分の使命を探してみる",
+      "eng": "##I cannot just stay here. I must find my own purpose.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "chn": "##希望之后还可以在其他地方遇到你。",
+      "jap": "##君とは、また、どこかで会えるといいな",
+      "eng": "##I hope that we meet again somewhere, one day.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "##喔，是你呀！真是好久不见，你没事真是太好了。",
+      "jap": "##おお、君か！久しぶりだな、無事でなによりだ",
+      "eng": "##Well, how long has it been? Glad to see you safe.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "chn": "##不过，你可得要多留神呢。",
+      "jap": "##だが、気をつけたまえ",
+      "eng": "##You must be the same as I;\r\nin search of the grave of Sir Artorias.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "##既然你来到了这边，\r\n目的地想必应该和我一样，是骑士亚尔特留斯之墓吧……",
+      "jap": "##ここにきたということは\r\n目的は同じ、騎士アルトリウスの墓だろうが…",
+      "eng": "##But, be careful.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "chn": "##这座森林是一伙老练盗贼团的地盘，",
+      "jap": "##この森は、手練の盗賊団の縄張りだ",
+      "eng": "##This forest is the territory of a fierce band of thieves.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "chn": "##所有想前往坟墓的人，都会被那些家伙猎杀……",
+      "jap": "##墓を目指す者は、すべて奴らに狩られてしまうんだ…",
+      "eng": "##They assault any and all who seek the graves.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "chn": "##……如何？有没有意愿和我同行呀？",
+      "jap": "##…どうだろう？私と組む気はないか？",
+      "eng": "##...What if we were to join forces? How about that?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "##倘若你和我两人连手的话，搞不好就可以顺利地击退盗贼团呢。",
+      "jap": "##君と私が協力すれば　あるいは、盗賊団を退けられるかもしれない",
+      "eng": "##If we worked together, we may escape the bandits.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "##这是个不错的提议吧？",
+      "jap": "##悪い話ではないと思うが？",
+      "eng": "##Does that appeal to you?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "##很好。",
+      "jap": "##わかった",
+      "eng": "##Very well.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "chn": "##那我们就好好集中注意力前进吧。",
+      "jap": "##では、お互い気を緩めずにいこう",
+      "eng": "##Let us keep our wits about us.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "chn": "##放心地把背后托付给别人，这种状况还真是暌违已久呀……",
+      "jap": "##誰かに背中を預けるなんて、久しぶりだ…",
+      "eng": "##One can always do with another pair of eyes...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "chn": "##这样呀……",
+      "jap": "##そうか…",
+      "eng": "##Yes, I see...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "chn": "##不过这也没办法，下次再在其他地方碰头吧。",
+      "jap": "##まあ、仕方ない。またどこかで会おう",
+      "eng": "##No matter. May we meet again.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "chn": "##祝你幸运。",
+      "jap": "##君の幸運を祈るよ",
+      "eng": "##I pray for your success.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 79,
+      "chn": "##看起来终于大功告成了……",
+      "jap": "##どうやら、終わったようだな…",
+      "eng": "##Things appear to have settled.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 80,
+      "chn": "##和你一起同行果然是正确抉择。多谢了。",
+      "jap": "##君と組んで正解だった。ありがとう",
+      "eng": "##I was right to partner with you. Thank you.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 81,
+      "chn": "##接下来不需要一起行动了。",
+      "jap": "##もう、一緒に行動する必要もあるまい",
+      "eng": "##We don't need to band together any more.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 82,
+      "chn": "##我打算要稍微休息一下……",
+      "jap": "##私は、少し休んでいくよ…",
+      "eng": "##I will have a short rest here.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 83,
+      "chn": "##你就先继续往前走吧。",
+      "jap": "##よければ、先に行くといい",
+      "eng": "##Feel free to go on ahead.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 84,
+      "chn": "##……果然是你……之前我就已经隐约地有那种感觉了……",
+      "jap": "##…やっぱり君か…なんとなく、そんな気はしていた…",
+      "eng": "##...So, it was you...I had a feeling...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 85,
+      "chn": "##我将遵循使命除掉你……",
+      "jap": "##私は、使命により君を殺す…",
+      "eng": "##I shall destroy you, as fate has commanded me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 86,
+      "chn": "##毁灭你这个随平抚黑暗的卡斯起舞的愚昧之徒……",
+      "jap": "##闇撫でカアスに従う愚か者…",
+      "eng": "##Foolish pawn of Darkstalker Kaathe...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 87,
+      "chn": "##黑暗之王啊……",
+      "jap": "##闇の王よ…",
+      "eng": "##And fiendish Dark Lord...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 88,
+      "chn": "##……我已经等你很久了……",
+      "jap": "##…待っていたぞ…",
+      "eng": "##...I have waited for thee...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 89,
+      "chn": "##……遭受芙拉姆特蒙骗的神的奴隶……",
+      "jap": "##…フラムトに誑かされた、神の奴隷…",
+      "eng": "##...Foolish slave of the Gods, and pawn of Frampt...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 90,
+      "chn": "##……我要杀了你……",
+      "jap": "##…私は、君を殺して…",
+      "eng": "##...I will kill you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 91,
+      "chn": "##……成为真正的黑暗之王……",
+      "jap": "##…真実の、闇の王となろう…",
+      "eng": "##...And become the true Dark Lord...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

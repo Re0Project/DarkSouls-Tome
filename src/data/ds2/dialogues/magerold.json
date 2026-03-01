@@ -1,6 +1,599 @@
 {
   "npc": "magerold",
   "game": 2,
-  "avatar": "/icons/ds2/npcs/magerold.webp",
-  "lines": []
+  "avatar": "/icons/ds2/dialogues/magerold.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0第1次说话",
+      "jap": "#0話しかけた:1回目",
+      "eng": "#0Talk-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "谁？你是谁？",
+      "jap": "誰？あんた？",
+      "eng": "What? Who're you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "我？我叫做马格赫拉德。",
+      "jap": "オレ？マグへラルドっていう名前だけど",
+      "eng": "Who, me? I'm Magerold, who else?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "什么？你想看我的收藏？",
+      "jap": "何？俺のコレクション、見てくの？",
+      "eng": "What? Have a look at my wares.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "#0第2次说话",
+      "jap": "#0話しかけた:2回目",
+      "eng": "#0Talk-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 5,
+      "chn": "什么？你又来啦？",
+      "jap": "何？また来たの？",
+      "eng": "What? You again?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "#0第3次说话",
+      "jap": "#0話しかけた:3回目",
+      "eng": "#0Talk-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 7,
+      "chn": "你还真是个好奇鬼。",
+      "jap": "あんたも、けっこう物好きだよね",
+      "eng": "You've quite unusual taste, don't you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0在营火休息后，第1次说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたA",
+      "eng": "#0Talk-1st time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "咦？一段时间不见了耶？",
+      "jap": "あれ？結構久しぶり？",
+      "eng": "Well? Where've you been?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "#0在营火休息后，第2次说话",
+      "jap": "#0話しかけた:一定の時間を置いて話しかけたB",
+      "eng": "#0Talk-2ndt time after resting at a Bonfire",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 11,
+      "chn": "最近都没看到你人呢。",
+      "jap": "最近見なかったよね、あんた",
+      "eng": "Finally decided to come and visit?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "#0互动列表-第1次选择「说话」",
+      "jap": "#0リストから選択:話すA",
+      "eng": "#0Menu-Choose \"Talk\" 1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 13,
+      "chn": "我呢，是做寻宝之类的工作，\r\n经商只是顺便。",
+      "jap": "俺はまあ、宝探しみたいなことやってんの\r\n商売はそのついで",
+      "eng": "I'm mainly a treasure hunter, you see.\r\nI'm only a merchant on the side.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "随意走到可能会出现有趣物品的地方，\r\n随便搜了搜就走。",
+      "jap": "適当に面白いものがありそうなとこへ行って、\r\n適当に漁って歩いてんの",
+      "eng": "I roam about, looking for a find,\r\nfollowing my instincts.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "什么值不值钱，一点都不重要，\r\n我只认定看不看得上眼。",
+      "jap": "値打ちものとか、そういうのはどうでもいいんだよ\r\n俺が気に入るかどうかだから",
+      "eng": "I don't care what a thing is worth.\r\nWhat matters is whether it grabs me.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "你问有不有趣？天知道……从来就没想过。",
+      "jap": "楽しいかって？さあ…そんなの、考えたことないけど",
+      "eng": "Do I enjoy what I do? Well...that's a good question.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "反正也都一直这么做，应该算是有趣吧？\r\n我也不知道啦。",
+      "jap": "まあ、もうずっとやってるから、楽しいんじゃないの？\r\nわかんないけどさ",
+      "eng": "But I suppose I must, I...\r\nI've been doing it for ages.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "#0互动列表-第2次选择「说话」",
+      "jap": "#0リストから選択:話すB",
+      "eng": "#0Menu-Choose \"Talk\" 2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 19,
+      "chn": "这附近据说出产很好的铁，\r\n而以前的什么国王，就用这铁建了这座城。",
+      "jap": "この辺はさ、けっこういい鉄が採れたんだって\r\nで、昔の王様だかが、その鉄でここの城を作った",
+      "eng": "There's good iron in these parts.\r\nAn old king even used it to build a castle.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "不知道是太重还是什么原因，城池不断的下沉。",
+      "jap": "そしたら重すぎたんだかなんだかで、だんだん城が沈みだした",
+      "eng": "But the thing was too heavy, and it slowly sank into the ground.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "然后地面又喷出火来，\r\n就变成这副模样了。",
+      "jap": "その後は、地面から火が噴き出したりで、\r\nそれで、このありさまってこと",
+      "eng": "Fires spouted from the earth,\r\nand...and the place turned into this.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "反正不过是听人说来的，\r\n有帮你打发掉时间吧？",
+      "jap": "まあ、受け売り話だけどさ\r\n退屈しのぎぐらいにはなった？",
+      "eng": "At least, that's what I'm told.\r\nNot a bad story, eh?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "然后呢？买点什么吗？怎样啊？",
+      "jap": "で？なんか買うの？どうすんの？",
+      "eng": "So, what'll it be? Anything for you today?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "#0互动列表-第3次选择「说话」",
+      "jap": "#0リストから選択:話すC",
+      "eng": "#0Menu-Choose \"Talk\" 3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 25,
+      "chn": "听过怪大叔吗？据说扛了把蓝色大剑。",
+      "jap": "変なおっさん知ってる？なんかデカい青い剣を持ってる",
+      "eng": "Hey, You know that odd fellow? With the hulking blue sword.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "逢人就到处献宝，\r\n不过那大概是西贝货。",
+      "jap": "散々自慢していったんだけどさ、\r\nあれたぶん、贋作なんじゃないかな",
+      "eng": "He talks really highly of it,\r\nbut I got a feeling it's a fake.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "也没必要扫了他的兴，\r\n就应付着说说话……",
+      "jap": "がっかりさせてもアレだから\r\n適当に話合わせといたけどさ…",
+      "eng": "I didn't want to disappoint him,\r\nso I just sort of talked around it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "他说是什么传家宝剑，\r\n这种东西很常见啦。",
+      "jap": "伝来の剣とか言ってたけど\r\nよくあるんだよね、そういうの",
+      "eng": "Let me just say,\r\nthere are lots of \"legendary swords\" out there.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "#0互动列表-第4次选择「说话」",
+      "jap": "#0リストから選択:話すD",
+      "eng": "#0Menu-Choose \"Talk\" 4th time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 30,
+      "chn": "这个国家的东边尽头，据说有座龙祭坛。",
+      "jap": "この国の東の果てにさ、祭祀場ってのがあるんだって",
+      "eng": "Have you heard of the shrine on the eastern edge of Drangleic?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "相传是为了祭祀龙而建立的。",
+      "jap": "竜を祀るために作られたとかって話らしいよ",
+      "eng": "Built to honour the dragons, they say.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "我是不清楚该怎么去，\r\n但总觉得一股有事发生的味道。",
+      "jap": "どうやって行けばいいのか、わかんないんだけどさ\r\nモロになんかありそうなニオイがするよね",
+      "eng": "If only I knew how to get there,\r\nI'd go and I'd comb it for goodies.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "#0获得化石蛋后说话",
+      "jap": "#0話しかけた:たまこの化石を持っている",
+      "eng": "#0Talk-After acquiring the Petrified Egg",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 34,
+      "chn": "那是什么？化成石头的蛋？",
+      "jap": "なにそれ？石になった卵？",
+      "eng": "What is that? A petrified egg?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "你说是从龙祭坛拿回来的？真了不起……",
+      "jap": "祭祀場からとってきたって？すげえな…",
+      "eng": "From the shrine? Fantastic...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "……打个商量，让给我吧。",
+      "jap": "…あのさ、それ俺に譲ってよ",
+      "eng": "Might...might you give it to me?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "这让我很在意，\r\n拜托拜托啦。",
+      "jap": "すげえ気になる\r\nなあ頼むよ",
+      "eng": "I'm fascinated by it...\r\nI'm begging you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "#0化石蛋要交付出去吗？选择「否」",
+      "jap": "#0話しかけた:たまこの化石を持っている・選択肢【NO】",
+      "eng": "#0Choose \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 39,
+      "chn": "不不不，你等一下啦，\r\n别这么说嘛。",
+      "jap": "いやいやいや、ちょっと待ってくれよ\r\nそんなこと言うなよ",
+      "eng": "Oh no, no, no, no, no, don't say that.\r\nGive a bloke a chance.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "求求你啦，\r\n那个应该给我才对。",
+      "jap": "なあ頼むよ\r\n俺が持ってるべきなんだってそれは",
+      "eng": "I'm begging you.\r\nI really should have that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "#0选择「否」后说话",
+      "jap": "#0話しかけた:たまこの化石を持っている・【NO】選択後",
+      "eng": "#0Talk-After choosing \"No\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 42,
+      "chn": "哦，回心转意了吗？",
+      "jap": "お、気が変わった？",
+      "eng": "Oh, change your mind?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "愿意把那化石卵给我了吗？",
+      "jap": "その石になった卵、くれる気になった？",
+      "eng": "Donating your stone egg after all?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "#0化石蛋要交付出去吗？选择「是」",
+      "jap": "#0話しかけた:たまこの化石を持っている・選択肢【YES】",
+      "eng": "#0Choose \"Yes\" to either the 1st or 2nd query",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 45,
+      "chn": "你心肠真好。",
+      "jap": "あんた、いいやつだね",
+      "eng": "How very kind of you.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "不过，真是了不起啊，这东西……\r\n搞不好会是龙蛋呢……",
+      "jap": "でも、すげえな\r\nこれ…もしかして、竜の卵なのかな…",
+      "eng": "This thing is amazing...\r\nCould it be a dragon egg?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "chn": "光是拿在手上就觉得……力量涌进体内……",
+      "jap": "持ってるだけでなんか…力が流れ込んでくる…",
+      "eng": "I feel invigorated... Just by holding it.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "chn": "#0交易10000以上魂量后，互动列表-选择「说话」",
+      "jap": "#0話しかけた:10000ソウル以上商品を購入",
+      "eng": "#0Menu-Choose \"Talk\" after previous spending 10000 souls",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 49,
+      "chn": "我和你也许\r\n兴趣很相投呢。",
+      "jap": "俺とあんたってさ、趣味合うのかな\r\nもしかして",
+      "eng": "I think we have similar taste.\r\nReally I do.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "chn": "这个给你，也是有缘。",
+      "jap": "これやるよ、せっかくだし",
+      "eng": "Here, you should like these.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "chn": "#0未完成交易，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(何もしなかった)",
+      "eng": "#0Menu-Choose \"Leave\" without purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 52,
+      "chn": "呵，不要的话就算了。",
+      "jap": "どーも",
+      "eng": "Very well, no pressure.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "chn": "#0完成交易后，互动列表-选择「离去」",
+      "jap": "#0リストから選択:立ち去る(買い物などをした)",
+      "eng": "#0Menu-Choose \"Leave\" after purchasing something",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 54,
+      "chn": "谢谢惠顾。",
+      "jap": "まあ、いらないんならいいよ",
+      "eng": "Cheers!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "chn": "#0走开中断对话",
+      "jap": "#0彼から離れて",
+      "eng": "#0After leaving abruptly",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 56,
+      "chn": "咦？是怎样啦？",
+      "jap": "あれ？なんだよ？",
+      "eng": "Hey? Where you off to?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "chn": "#0第1次受到攻击时",
+      "jap": "#0攻撃した:1回目",
+      "eng": "#0Upon being attacked-1st time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 58,
+      "chn": "好痛！",
+      "jap": "いてっ！",
+      "eng": "Ow!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "chn": "#0第2次受到攻击时",
+      "jap": "#0攻撃した:2回目",
+      "eng": "#0Upon being attacked-2nd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 60,
+      "chn": "你饶了我吧！",
+      "jap": "ちょっとさ、カンベンしてよ！",
+      "eng": "Hey..hey, hey now, easy, easy with that!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "chn": "#0第3次受到攻击时",
+      "jap": "#0攻撃した:3回目",
+      "eng": "#0Upon being attacked-3rd time",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 62,
+      "chn": "呜哇！",
+      "jap": "うわっ！！",
+      "eng": "Eeg!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "chn": "#0攻击导致敌对时",
+      "jap": "#0敵対状態になった",
+      "eng": "#0Upon being attacked & made hostile",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 64,
+      "chn": "你也太嚣张了吧!?",
+      "jap": "あんたさ、つけあがってんじゃないの！？",
+      "eng": "But...what's the meaning of this!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "chn": "#0攻击导致敌对后，主角死亡或离开，返回再次靠近时",
+      "jap": "#0敵対状態で再会した",
+      "eng": "#0Upon approaching him, after he has previously killed the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 66,
+      "chn": "唉，别再上门来了……",
+      "jap": "あーあ、もう来んなよ…",
+      "eng": "Ohh, just...just stay away, will you?",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "chn": "无聊的家伙……",
+      "jap": "#0敵対状態で主人公が死亡した",
+      "eng": "#0Upon killing the protagonist",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 68,
+      "chn": "#0攻击至血量低于50%时",
+      "jap": "くだらねぇヤツ…",
+      "eng": "You're a rotten bugger.",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 69,
+      "chn": "#0击杀主角时",
+      "jap": "#0HPが50%以下にした",
+      "eng": "#0After reducing his health to 50% or lower",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 70,
+      "chn": "怎么一回事啊……！",
+      "jap": "なんなんだよ…！",
+      "eng": "What...what...what the devil!",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "chn": "##这是不打紧，但你懂吗？",
+      "jap": "##別にいいけどさ、あんたにわかるかな？",
+      "eng": "##Fine, but they're not for everyone.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "chn": "##我只搜集我看得上眼的东西，\r\n麻烦不要有意见好吗？",
+      "jap": "##俺、自分が気に入ったものだけしか扱わないから\r\n文句とか、ナシで頼むよ？",
+      "eng": "##Well, I have rather peculiar taste,\r\nso no complaints, all right?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "chn": "##该去下个地方了……",
+      "jap": "##そろそろ、どっか行くかな…",
+      "eng": "##So...guess I'll be moving along.",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }

@@ -1,6 +1,231 @@
 {
   "npc": "anastacia",
   "game": 1,
-  "avatar": "/icons/ds1/npcs/anastacia.webp",
-  "lines": []
+  "avatar": "/icons/ds1/dialogues/anastacia.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "#0攀谈",
+      "jap": "#0話しかけた",
+      "eng": "#0Talk",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "chn": "……",
+      "jap": "…",
+      "eng": "...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "#0将防火女的灵魂换给安娜塔西亚后攀谈",
+      "jap": "#0話しかけた:火防女の魂を返した",
+      "eng": "#0Talk-After returning her Fire Keeper Soul",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 3,
+      "chn": "……啊，真是太感谢您了",
+      "jap": "…あ、ありがとう、ございました",
+      "eng": "...Th, thank you...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "……我是亚斯特拉的安娜塔西亚，",
+      "jap": "…私は、アストラのアナスタシア",
+      "eng": "...I am Anastacia of Astora.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "……拜您之赐，才让我得以继续担任防火女的工作。",
+      "jap": "…あなたのお陰で、火防の任を、続けることができます",
+      "eng": "...Now I can continue my duty as a Keeper.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "……另外，",
+      "jap": "…そして",
+      "eng": "...But...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "……还请原谅我不洁的声音玷污了您。",
+      "jap": "…汚れた声をお聞かせしたことを、お許しください",
+      "eng": "...I only hope that my impure tongue does not offend.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "#0将防火女的灵魂换给安娜塔西亚后，互动列表-选择「交谈」",
+      "jap": "#0リストから選択:話す",
+      "eng": "#0Menu-Choose \"Talk\" After returning her Fire Keeper Soul",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 9,
+      "chn": "……不好意思，",
+      "jap": "…すみません",
+      "eng": "...Forgive me...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "……我已经不纯洁，不该随便出声。",
+      "jap": "…私は汚れ、声を出すべきではありません",
+      "eng": "...I am impure, my tongue never intended for restoration.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "……所以说，请您……",
+      "jap": "…ですから、もう…",
+      "eng": "...Please, if you have any heart...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "……不要向我攀谈……",
+      "jap": "…話しかけるのは",
+      "eng": "...Leave me be...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "……再也别这么做了，拜托您。",
+      "jap": "…やめてください。お願いします",
+      "eng": "...I wish not to speak...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "#0装满王器后，互动列表-选择「交谈」",
+      "jap": "#0話しかけた:王の器を満たした後",
+      "eng": "#0Talk-After returning her Fire Keeper Soul & placing the Lordvessel for Frampt",
+      "isUnused": false,
+      "isTitle": true
+    },
+    {
+      "index": 15,
+      "chn": "……您愿意传火呀？",
+      "jap": "…あなたが、火を継いでくださるのですね",
+      "eng": "...That you have agreed to link the Fire.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "……真是太感谢您了。",
+      "jap": "…ありがとう、ございます",
+      "eng": "...I thank you, sincerely.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "……如此一来，不死诅咒会消失，\r\n而我也能以人的身分死去了。",
+      "jap": "…これで、不死の呪いも消え、\r\n私も、人として死んでいけます",
+      "eng": "...Finally, the curse of the Undead will be lifted,\r\nand I can die human.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "……虽然我什么都办不到，\r\n……但我愿意为您献上一切。",
+      "jap": "…私では、何もできませんが\r\n…すべてを、あなたのために捧げましょう",
+      "eng": "...I am powerless,\r\nbut I will do all that I can.",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "……还请您拯救大家……",
+      "jap": "…どうか、皆を、救ってください…",
+      "eng": "...Please, save us all...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "……拜托您了。",
+      "jap": "…お願いします",
+      "eng": "...Please...",
+      "isUnused": false,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "##……感谢您救了我一命。",
+      "jap": "##…ありがとう、ございました",
+      "eng": "##...Thank...you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "##……我希望能好好报答您……",
+      "jap": "##…あなたに、お礼をしたいと思い…",
+      "eng": "##...I only wish...I could, repay you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "##……不好意思……",
+      "jap": "##…すみません…",
+      "eng": "##...Please, forgive me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "##……我从芙拉姆特那边听说了，",
+      "jap": "##…フラムトさんから、聞きました",
+      "eng": "##...Frampt has told me of you...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "##呜……",
+      "jap": "##ッ…",
+      "eng": "##Mm...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "##啊……",
+      "jap": "##アッ…",
+      "eng": "##Ah...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "##愿火指引您……",
+      "jap": "##炎の導きを…",
+      "eng": "##Vereor Nox",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
 }
