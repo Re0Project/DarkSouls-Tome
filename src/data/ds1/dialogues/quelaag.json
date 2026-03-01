@@ -1,0 +1,119 @@
+{
+  "npc": "quelaag",
+  "game": 1,
+  "avatar": "/icons/ds1/npcs/quelaag.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "##回去吧。",
+      "jap": "##戻れ",
+      "eng": "##Go back.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 1,
+      "chn": "##再往前走就是约定的禁地──混沌生命之地，",
+      "jap": "##これより先は約定の禁域。混沌の生命の地",
+      "eng": "##Forbidden be, these parts. The realm of the creatures of chaos.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "##我们接受了封印。",
+      "jap": "##我等は封印を受け容れている",
+      "eng": "##They accept their banished fate.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "##回去吧。",
+      "jap": "##戻れ",
+      "eng": "##Go back.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "##否则你将被火吞噬，",
+      "jap": "##さもなくば、すべて炎の餌食となり",
+      "eng": "##Lest the flames devour all,",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "##化为混沌生命的温床。",
+      "jap": "##混沌の生命の苗床となろう",
+      "eng": "##and the children of chaos feed upon your charred ashes.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "##你这不顺从约定的愚昧之徒……",
+      "jap": "##約定に従わぬ愚か者が…",
+      "eng": "##Those who defy the pact...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "##侵入克拉格之地的人会有什么下场，",
+      "jap": "##クラーグの地を侵した者がどうなるか",
+      "eng": "##Those who trespass Quelaag's domain...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "##我就让你见识见识吧！",
+      "jap": "##その身で思い知るがいい！",
+      "eng": "##May you feel the depth of our wrath!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "##喔──新的祭品啊，",
+      "jap": "##ああ、新しい生贄よ",
+      "eng": "##Ahh, a precious new sacrifice!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "##再往前走就是约定的禁地──混沌生命之地，",
+      "jap": "##これより先は約定の禁域。混沌の生命の地",
+      "eng": "##Forbidden be, these parts. The realm of the creatures of chaos.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "##继续往前去吧。",
+      "jap": "##そのまま前に進むがよい",
+      "eng": "##Go on, go on ahead...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "##祭品，欢迎你，",
+      "jap": "##ようこそ、生贄よ",
+      "eng": "##Welcome, bringer of meat.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "##接受我克拉格的火焰，\r\n化为混沌的温床吧！",
+      "jap": "##クラーグの炎に焼かれ、\r\n混沌の苗床となるがいい！",
+      "eng": "##The children of chaos are hungry;\r\ngive yourself to Quelaag's flame!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
+}

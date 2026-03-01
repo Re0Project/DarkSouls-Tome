@@ -1,0 +1,175 @@
+{
+  "npc": "artorias",
+  "game": 1,
+  "avatar": "/icons/ds1/npcs/artorias.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "##……不管你是何方神圣，奉劝最好别靠过来……",
+      "jap": "##…誰かは知らぬが、近づかないほうがよい…",
+      "eng": "##...Whatever thou art, stay away...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 1,
+      "chn": "##……我就快要被黑暗……被人……",
+      "jap": "##…俺はもうすぐ、闇に…人に…",
+      "eng": "##...Soon, I will be consumed...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "##……吞噬掉了……",
+      "jap": "##…喰われてしまう…",
+      "eng": "##...By them, by the Dark...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "##呜",
+      "jap": "##ウッ",
+      "eng": "##Oogh...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "##呃喔",
+      "jap": "##グウッ",
+      "eng": "##Grrah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "##唔喔喔喔喔喔喔喔喔",
+      "jap": "##グウウウウオオオオオオオッ",
+      "eng": "##Hrgg, hrgggrah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "##……强大的人类啊，干得漂亮……",
+      "jap": "##…見事だ、強い人間よ…",
+      "eng": "##...Thou art strong, human...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "##……如果你们的本质不光是黑暗的话……",
+      "jap": "##…君たちの本質が、ただ、闇のみでないのなら…",
+      "eng": "##...Surely thine kind are more than pure Dark...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "##……拜托你……阻止深……渊……",
+      "jap": "##…お願いだ…深淵を食い止めて、くれ…",
+      "eng": "##...I beg of thee...the spread of the Abyss... ...it must be stopped...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "##呜",
+      "jap": "##グゥッ",
+      "eng": "##Cough!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "##……啊啊，对不起你们啊……希夫……",
+      "jap": "##…ああ、すまんな、お前たち…シフ…",
+      "eng": "##...Ah, Sif, there you are, all of you...Forgive me...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "##……到头来，我还是一事无成……",
+      "jap": "##…結局、何もできなかったよ…",
+      "eng": "##...For I have availed you nothing...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "##唔喔──！",
+      "jap": "##グオウッ",
+      "eng": "##Hrgg...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "##唔喔、唔喔──！",
+      "jap": "##グオッ、グオオッ",
+      "eng": "##Hrggraaah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "##唔喔喔──",
+      "jap": "##グオオオオオオッ",
+      "eng": "##Hrggraaah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "##呃喔！",
+      "jap": "##グウッ",
+      "eng": "##Hrgkt!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "##呃啊！",
+      "jap": "##グエッ",
+      "eng": "##Ergkt!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "##唔喔──！",
+      "jap": "##グオウッ",
+      "eng": "##Hrgg!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "##呜哇啊啊啊啊",
+      "jap": "##グオワアアアアッ",
+      "eng": "##Hrggraaah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "##呜呀啊啊啊啊",
+      "jap": "##グオエエエエエッ",
+      "eng": "##Hrggraaah!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "##嘎啊啊啊啊啊",
+      "jap": "##グギャアアアアッ",
+      "eng": "##Hrggraaah!",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
+}

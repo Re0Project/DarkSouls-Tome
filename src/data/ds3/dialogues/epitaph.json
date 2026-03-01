@@ -1,0 +1,383 @@
+{
+  "npc": "epitaph",
+  "game": 3,
+  "avatar": "/icons/ds3/npcs/epitaph.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "##无名随从的坟墓，\r\n其剑为薪王挥舞",
+      "jap": "##名も無き従者の墓。\r\nその剣は薪の王のために",
+      "eng": "##Grave of a nameless retainer.\r\nRaised his sword for the Lord of Cinder.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 1,
+      "chn": "##然却孤身长逝，\r\n其魂终系冷冽谷",
+      "jap": "##ただ独り死す。\r\n魂は、冷たい谷に還るだろうか",
+      "eng": "##Died in solitude.\r\nMay his soul find its way back to the Frigid Valley.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "##伴名誉共黑影同归。\r\n惧怕太阳的诱惑和羽翼行刑者吧",
+      "jap": "##名誉と共に影に。\r\n陽の誘いと、翼の処刑者を恐れよ",
+      "eng": "##To honour and shadowy retreats.\r\nFear the sun's temptations, and the winged executioner.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "##流放之人，\r\n被故乡放逐，曾仰望黑色的太阳",
+      "jap": "##追放者。\r\n故郷は追われ、黒い太陽を仰いだ",
+      "eng": "##This exile was chased from his homeland,\r\nand haunted by a black sun.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "##无名随从的坟墓，\r\n其剑为薪王挥舞",
+      "jap": "##名も無き従者の墓。\r\nその剣は薪の王のために",
+      "eng": "##Grave of a nameless retainer.\r\nRaised his sword for the Lord of Cinder.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "##然却孤身长逝，\r\n其魂终系冷冽谷",
+      "jap": "##ただ独り死す。\r\n魂は、冷たい谷に還るだろうか",
+      "eng": "##Died in solitude.\r\nMay his soul find its way back to the Frigid Valley.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "##伴名誉共黑影同归。\r\n惧怕太阳的诱惑和羽翼行刑者吧",
+      "jap": "##名誉と共に影に。\r\n陽の誘いと、翼の処刑者を恐れよ",
+      "eng": "##To honour and shadowy retreats.\r\nFear the sun's temptations, and the winged executioner.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "##流放之人，\r\n被故乡放逐，曾仰望黑色的太阳",
+      "jap": "##追放者。\r\n故郷は追われ、黒い太陽を仰いだ",
+      "eng": "##This exile was chased from his homeland,\r\nand haunted by a black sun.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "##凭借对巍峨高墙的执着意念，献上生命后，\r\n巡礼者的魂魄是否能抵达高墙的另一边？",
+      "jap": "##そびえ立つ高壁への執念。その命を捧げることで\r\n巡礼者の魂は壁の先に辿り着くのだろうか",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "##赞美射手吧。天降之箭，足以贯穿无赖之徒。",
+      "jap": "##射手を讃えよ。天空より放たれし矢が無頼の徒を刺し貫く",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "##惧怕水吧。恶魔的轻喃宣示了巡礼者的末路。",
+      "jap": "##水を恐れよ、悪魔の囁きが巡礼の終わりを告げる",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "##身体持续遭毒侵蚀，犹如身处地狱中的无尽苦难。",
+      "jap": "##毒が身体を蝕み続ける。まるで地獄の責め苦の様に",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "##焦躁拜临巡礼者，兽物的祈祷将脚铐上枷锁。",
+      "jap": "##巡礼者に訪れる焦燥。獣の祈りが足に枷を嵌めるのだ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "##当畏惧蛮族，其为追杀巡礼者的恶魔猎人。",
+      "jap": "##恐るべきは蛮族。巡礼者を追い立てる悪魔の狩人",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "##吸魂之为。堕入深渊的灵魂是否仍有救赎？",
+      "jap": "##吸精の業。深淵に堕ちた魂に救いはあるのだろうか",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "##献上火吧。为使坚忍不死人们的要塞为之敞开。",
+      "jap": "##火を捧げよ。堅き不死たちの城塞を開かんが為に",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "chn": "##无名战士之墓。畏惧古狼与不死军队吧。",
+      "jap": "##名もなき戦士の墓。古の狼と不死の軍隊を恐れよ",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "chn": "##骁悍队士之墓。狩猎深渊不息的男人因凶刃倒下。",
+      "jap": "##勇敢なる隊士の墓。深淵を狩り続けた男は凶刃に倒れた",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "chn": "##死于非命的队士之墓。\r\n他的勇敢与奉献，我等将永志不忘。",
+      "jap": "##非業な死を遂げた隊士の墓\r\n彼の勇気と献身を我らは永久に忘れない",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "chn": "##彷徨之人，寻求火吧。炙热火焰能作为巡礼路标。",
+      "jap": "##迷いし者は火を求めよ。熱き炎が巡礼の道標となる",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "chn": "##将我曾生存之证，献给不知名巡礼者……",
+      "jap": "##名も知らぬ巡礼者へ捧げる。我の生きた証を・・・",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "chn": "##无法动弹的身体。\r\n思考沉眠引来死亡造访，诅咒自身无知……",
+      "jap": "##動かぬ身体。微睡む思考、死の訪れ\r\n愚かな自分を呪う・・・",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "chn": "##寻求要塞而徘徊，愚蠢男人之墓。\r\n我的宿愿未成，难道要塞不存在？",
+      "jap": "##城塞を求め彷徨った、愚かな男の墓\r\n我が望み叶わず、砦は存在しないのだろうか",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "chn": "##无名士兵之墓，其剑为王子挥舞。",
+      "jap": "##名もなき兵士の墓。その剣は皇子のために",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "chn": "##畏惧骑士吧，其逝去仍不减对君主的忠诚。",
+      "jap": "##騎士を恐れよ。死してなお崩れぬ王への忠義",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "chn": "##承受无情死亡，汝的气息已转冷。\r\n知名骑士亦是如此……",
+      "jap": "##無慈悲な死よ、汝の息は冷たい\r\nそれが如何に高名な騎士であったとしても・・・",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "chn": "##接受这血吧。为了对步向灭亡的王室伸出援手。",
+      "jap": "##血を受け入れよ。滅びゆく王家の助けとならんが為に",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "chn": "##死亡之鞭挥舞扬尘，野兽血液随之沸腾。\r\n上天不赐死巡礼者……",
+      "jap": "##死の鞭が塵を舞い上げ、獣の血を滾らせる\r\n天は巡礼者に死を与えはしなかった・・・",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "chn": "##知名祭司之墓。\r\n他欲求死，不求生，乃愚蠢男人……",
+      "jap": "##高名なる司祭の墓。彼は死を求めた\r\n生き続ける事を望まぬ愚かな男・・・",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "chn": "##毋须惧怕，死亡并非孤独。\r\n我等意念相合相融，将化为一体延续生存。",
+      "jap": "##恐れるな、死は孤独ではない。我らの想いは混ざり\r\n溶け合い、一つとなって生き続けるだろう",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "chn": "##感受光吧。\r\n即使不见其影，死者之眼仍会紧盯你的一切。",
+      "jap": "##光を感じよ、姿は見えぬとも死者の目は\r\n至る所から己を狙っているのだから",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "chn": "##无名百姓之墓。\r\n我等荣耀永不忘怀──那光辉灿烂的太阳都城……",
+      "jap": "##名もなき民の墓。我らは栄光を忘れぬ\r\n其は輝く太陽の都・・・",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "chn": "##我等心愿与绘画一同步上末路……",
+      "jap": "##我が想いは絵画と共に死を迎える・・・",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "chn": "##不可接近发怒的巨人。\r\n不可出声，保持安静，则可免于一死。",
+      "jap": "##怒れる巨人に近づいてはならぬ\r\n音を立てるな、静寂を保て、さすれば生きられる",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "chn": "##右手的剑削去肉体，左手的剑细切灵魂，\r\n那两者均受破坏者，将流落何方？",
+      "jap": "##右の剣は肉体を削ぎ落とし、左の剣は魂を切り刻む\r\n全てを破壊されし者は何処へと行き着くのだろうか",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "chn": "##深渊的大口咬碎了肉体与灵魂，\r\n那灵魂将流往何处？",
+      "jap": "##深淵の大口が肉体とソウルをかみ砕いた\r\nその魂はどこへ流れるのだろうか",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "chn": "##接受暗月的使命，与我一同化为讨逆神之敌的剑。",
+      "jap": "##暗月の使命と共に、我は神の敵を狩る剣とならん",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "chn": "##定神凝视。恶魔正潜伏于黑暗。",
+      "jap": "##目を凝らせ。悪魔は暗闇に潜み続けている",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "chn": "##凝神静听。别错过寂静中回响的死者之声。",
+      "jap": "##耳を澄ませ。静寂に響く死者の声を聞き洩らすな",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "chn": "##神之雷。其为不论正邪，刺穿一切的双刃剑。",
+      "jap": "##神の雷。其は聖も邪もなく、全てを刺し貫く両刃の剣",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "chn": "##愚人的墓碑。等待欠缺思考者的，是猛烈火焰洗礼。",
+      "jap": "##愚か者の墓標。考えぬ者に訪れるは猛き火の洗礼",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "chn": "##无名探索者之墓。\r\n我等追求的天光已不知消逝何处，且迷宫阻碍前途。",
+      "jap": "##名もなき探索者の墓。我が求めし天の光は\r\n何処かへ消え去り、迷宮が行く手を阻む",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "chn": "##既非龙亦非人，\r\n被王室摆布的悲哀男人，在此长眠……",
+      "jap": "##其は人でもなく竜でもなかった\r\n王家に踊らせし悲しき男、ここに眠る・・・",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "chn": "##连侵蚀身体的痛都已无法感受，\r\n那残缺之众是否还有希望？",
+      "jap": "##身体を蝕む痛みすら感じることがない\r\nなり損ないたちに希望はあるのだろうか",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "chn": "##赞美龙吧。\r\n若渴求为王之道，则万不能半途而废……",
+      "jap": "##竜を讃えよ。王への道を欲すならば\r\n道半ばで倒れることなかれ・・・",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "chn": "##渴求王位的男人，在此长眠。\r\n血并不承认他的所作所为。",
+      "jap": "##玉座を求めた男、ここに眠る\r\n血が彼を認めることはなかった",
+      "eng": "##...\r\n...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "chn": "##捕食灵魂者。失去的灵魂将会被深渊吞噬。",
+      "jap": "##魂の捕食者。喪失したソウルは深淵へと飲み込まれた",
+      "eng": "##...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
+}

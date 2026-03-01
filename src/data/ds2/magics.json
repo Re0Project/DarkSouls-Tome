@@ -1,0 +1,2002 @@
+[
+  {
+    "id": "30108000",
+    "name": {
+      "chn": "###2（无译文）敏捷转化#3",
+      "jap": "##技量転化",
+      "eng": "##Dextrous Conversion"
+    },
+    "description": {
+      "chn": "#2（无译文）用于剑技的魔法之一，#3\r\n#2将智力转化为敏捷。#3\r\n#2#3\r\n#2魔法师是利用智力战斗的人，#3\r\n#2有时候也需要肉体的力量开辟道路，#3\r\n#2此魔法应运而生。#3",
+      "jap": "剣技に利用される魔術の一つ\r\n理力を技量に転嫁する\r\n\r\n魔術師は理力をもって戦う者達だが\r\n肉体の力で活路を開かなくてはならない場合もある\r\nこの魔術はそれを助けるために生み出された",
+      "eng": "Sorcery used in swordplay.\r\n\r\nThough sorcerers do battle using their intelligence,\r\nthere are times when physical prowess is the only way\r\nto come out on top.\r\nThis sorcery was developed to aid in such situations."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/30108000.webp"
+  },
+  {
+    "id": "30403000",
+    "name": {
+      "chn": "###2（无译文）释放黑暗#3",
+      "jap": "##弾ける闇",
+      "eng": "##Dark Burst"
+    },
+    "description": {
+      "chn": "#2（无译文）初步的暗术，#3\r\n#2释放分散的暗珠。#3\r\n#2#3\r\n#2暗术据说原本是魔法形式的一种，#3\r\n#2但被认为扭曲生命常理而产生，#3\r\n#2目前被许多国家视为禁忌。#3",
+      "jap": "初歩的な闇術\r\nいくつもの闇の球を放つ\r\n\r\n闇術は元は魔術の一形態だったと言われる\r\nしかし、生命の理に歪みを生み出すものとされ\r\n今は多くの国で禁忌とされている",
+      "eng": "An elementary hex.\r\n\r\nFires several orbs of darkness.\r\nIt is said that hexes originated as a form of sorcery.\r\nHowever, they were claimed to pervert the nature of life,\r\nand now hexes are forbidden in most countries."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/30403000.webp"
+  },
+  {
+    "id": "31010000",
+    "name": {
+      "chn": "灵魂箭",
+      "jap": "ソウルの矢",
+      "eng": "Soul Arrow"
+    },
+    "description": {
+      "chn": "最为初步的魔法之一。\r\n向前方发射小小的灵魂箭。\r\n\r\n要使用魔法，必须装备杖，\r\n并于营火处预先记住魔法才行。",
+      "jap": "最も初歩的な魔術のひとつ\r\n前方に小さなソウルの矢を放つ\r\n\r\n魔術を使用するためには、杖を装備し\r\n篝火で魔術を記憶しておく必要がある",
+      "eng": "An elementary sorcery.\r\nFires a small soul arrow straight ahead.\r\n\r\nTo use sorceries, attune a sorcery\r\nat a bonfire and equip a staff."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31010000.webp"
+  },
+  {
+    "id": "31020000",
+    "name": {
+      "chn": "强力灵魂箭",
+      "jap": "強いソウルの矢",
+      "eng": "Great Soul Arrow"
+    },
+    "description": {
+      "chn": "相当于「灵魂箭」高阶版的魔法。\r\n更有威力，对于物理攻击不易奏效的对手\r\n能够有效造成伤害。\r\n\r\n魔法的效果仰赖自身的智力，\r\n智力高低决定威力的变化。",
+      "jap": "「ソウルの矢」の上位にあたる魔術\r\nより威力があり、物理的な攻撃の効きにくい相手に\r\n効果的にダメージを与える\r\n\r\n魔術の効果は己の理力に依存し、\r\nその高低によって威力が変化する",
+      "eng": "A spell superior to the Soul Arrow.\r\nMore powerful, and effective at damaging\r\nenemies resistant to physical attacks.\r\n\r\nThe strength of this spell is influenced\r\nby one's intelligence."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31020000.webp"
+  },
+  {
+    "id": "31030000",
+    "name": {
+      "chn": "灵魂巨箭",
+      "jap": "ソウルの太矢",
+      "eng": "Heavy Soul Arrow"
+    },
+    "description": {
+      "chn": "更高阶的灵魂魔法，\r\n发射具有强大威力的灵魂巨箭。\r\n\r\n威力越大，施放时的空隙也越大。\r\n使用上必须小心。",
+      "jap": "より高度なソウルの魔術\r\n高い威力を備えたソウルの太矢を放つ\r\n\r\n威力が高くなるほど、放つ際の隙が大きくなる\r\n使用には注意が必要",
+      "eng": "Advanced soul spell.\r\nFires a devastating, thick soul arrow.\r\n\r\nBut beware. The more powerful the soul arrow,\r\nthe longer the casting time."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31030000.webp"
+  },
+  {
+    "id": "31040000",
+    "name": {
+      "chn": "强力灵魂巨箭",
+      "jap": "強いソウルの太矢",
+      "eng": "Great Heavy Soul Arrow"
+    },
+    "description": {
+      "chn": "相当于「灵魂巨箭」高阶版的魔法。\r\n具备更大的威力。\r\n\r\n不易施展，但换来的是强大的威力。\r\n使用上需要相应的熟练度。",
+      "jap": "「ソウルの太矢」の上位にあたる魔術\r\nさらに高い威力を備えている\r\n\r\n扱いにくさと引き換えに、高い威力を得ている\r\n使用には相応の熟練が必要",
+      "eng": "A spell superior to Heavy Soul Arrow.\r\nFires an even stronger soul arrow.\r\n\r\nDifficult to handle, but very powerful.\r\nOnly the well-trained can handle these arrows."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31040000.webp"
+  },
+  {
+    "id": "31050000",
+    "name": {
+      "chn": "追踪灵魂箭",
+      "jap": "追尾するソウルの矢",
+      "eng": "Homing Soul Arrow"
+    },
+    "description": {
+      "chn": "古国奥拉斐斯的大魔法师\r\n史垂德所创造的魔法之一。\r\n\r\n射出的灵魂箭，\r\n会到处追踪敌人，加以击退。",
+      "jap": "古の国オラフィスの大魔術師、\r\nストレイドによって生み出された魔術のひとつ\r\n\r\n放たれたソウルの矢は\r\n敵をどこまでも追跡し、撃退する",
+      "eng": "One of the sorceries devised by Straid,\r\nthe great mage of ancient Olaphis.\r\n\r\nFires soul arrows that follow their\r\ntargets to the ends of the earth."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31050000.webp"
+  },
+  {
+    "id": "31060000",
+    "name": {
+      "chn": "追踪灵魂巨箭",
+      "jap": "追尾するソウルの太矢",
+      "eng": "Heavy Homing Soul Arrow"
+    },
+    "description": {
+      "chn": "古国奥拉斐斯的大魔法师\r\n史垂德所创造的魔法之一。\r\n\r\n射出的灵魂巨箭，\r\n会到处追踪敌人，加以击退。",
+      "jap": "古の国オラフィスの大魔術師、\r\nストレイドによって生み出された魔術のひとつ\r\n\r\n高い威力を持つソウルの太矢は\r\n敵をどこまでも追跡し、撃退する",
+      "eng": "One of the sorceries devised by Straid,\r\nthe great mage of ancient Olaphis.\r\n\r\nFires thick, powerful soul arrows that seek\r\ntheir targets to the ends of the earth."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31060000.webp"
+  },
+  {
+    "id": "31070000",
+    "name": {
+      "chn": "追踪灵魂块",
+      "jap": "追尾するソウルの塊",
+      "eng": "Homing Soulmass"
+    },
+    "description": {
+      "chn": "头上将产生多个灵魂块并射出，\r\n射出后将会追踪敌人。\r\n\r\n据说是昔日被称为魔法大师的\r\n某名魔法师所编组而成，\r\n但其名号已经失传。",
+      "jap": "頭上に複数のソウルの塊を生みだし放つ\r\n放たれた塊は敵を追尾する\r\n\r\nかつて魔術の大家と呼ばれた\r\n某かの魔術師が編み出したものとされるが\r\nその者の名は伝えられていない",
+      "eng": "Multiple soul masses appear above the head.\r\nWhen fired, they home in on their target.\r\n\r\nThis spell was said to have been devised\r\nby a master sorcerer, but his name is\r\nlong forgotten."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31070000.webp"
+  },
+  {
+    "id": "31080000",
+    "name": {
+      "chn": "追踪灵魂结晶块",
+      "jap": "追尾するソウルの結晶塊",
+      "eng": "Homing Crystal Soulmass"
+    },
+    "description": {
+      "chn": "透过结晶更显威力的灵魂块，\r\n射出后将会追踪敌人。\r\n\r\n结晶与灵魂或是魔法相结合，\r\n其威力将会大增。",
+      "jap": "結晶により更なる威力を得たソウルの塊\r\n放たれた塊は敵を追尾する\r\n\r\n結晶はソウル、あるいは魔術と結びつくことで\r\nその力を大きく増す",
+      "eng": "Soulbeads made more lethal with crystallization.\r\nWhen fired, they home in on their target.\r\n\r\nCrystallization makes souls and sorceries all the\r\nmore powerful."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31080000.webp"
+  },
+  {
+    "id": "31090000",
+    "name": {
+      "chn": "灵魂枪",
+      "jap": "ソウルの槍",
+      "eng": "Soul Spear"
+    },
+    "description": {
+      "chn": "将灵魂凝聚成枪形施放的魔法，\r\n威力优秀，更可贯穿敌人。\r\n\r\n据说是昔日被称为魔法大师的\r\n某名魔法师所编组而成，\r\n但其名号已经失传。",
+      "jap": "槍状に練り上げたソウルを放つ魔術\r\n優れた威力を備え、また敵を貫通する\r\n\r\nかつて魔術の大家と呼ばれた\r\n某かの魔術師が編み出したものとされるが\r\nその者の名は伝えられていない",
+      "eng": "Sorcery that fires souls shaped into a spear.\r\nPierces enemies, causing heavy damage.\r\n\r\nThis spell was said to have been devised\r\nby a master sorcerer, but his name is\r\nlong forgotten."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31090000.webp"
+  },
+  {
+    "id": "31100000",
+    "name": {
+      "chn": "灵魂结晶枪",
+      "jap": "ソウルの結晶槍",
+      "eng": "Crystal Soul Spear"
+    },
+    "description": {
+      "chn": "透过结晶更显尖锐的灵魂枪，\r\n威力优秀，更可贯穿敌人。\r\n\r\n拥有比磨尖的武器更优异的威力，\r\n用得恰当，\r\n更可一口气打倒多个敌人。",
+      "jap": "結晶により更なる鋭さを得たソウルの槍\r\n優れた威力を備え、また敵を貫通する\r\n\r\n研ぎ澄まされた武器にも勝る威力を持ち\r\n使い方次第では、複数の敵をまとめて\r\n倒すこともできる",
+      "eng": "Soul spear sharpened through crystallization.\r\nPierces enemies, causing heavy damage.\r\n\r\nSuperior to the most finely sharpened weapons.\r\nWhen wielded precisely, it can take down several\r\nenemies at once."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31100000.webp"
+  },
+  {
+    "id": "31110000",
+    "name": {
+      "chn": "冲击",
+      "jap": "衝撃",
+      "eng": "Shockwave"
+    },
+    "description": {
+      "chn": "虽然不具威力，释放时能产生大力冲击，\r\n让对手摔倒在地。\r\n\r\n目的不在伤害，而是让敌人露出破绽。\r\n很像在虚张声势，但也得看人怎么用。",
+      "jap": "威力はないが、弾けた際に大きな衝撃を放ち\r\n相手を転倒させる\r\n\r\nダメージではなく、敵に隙を生じさせることが目的\r\nこけおどしにも見えるが、それは扱い方次第",
+      "eng": "Does not inflict damage, but unleashes a\r\nlarge shockwave, toppling opponents.\r\n\r\nIntended to stun opponents and make them\r\nvulnerable to attack. Some call this child's play,\r\nbut for an innovative caster, it is a deadly tool."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31110000.webp"
+  },
+  {
+    "id": "31111000",
+    "name": {
+      "chn": "###2（无译文）灵魂箭#3",
+      "jap": "##ソウルの矢",
+      "eng": "##Soul Arrow"
+    },
+    "description": {
+      "chn": "#2（无译文）有志魔法者学会的初步的魔法。#3\r\n#2发射小小的灵魂箭。#3\r\n#2#3\r\n#2要使用魔法必须装备杖，#3\r\n#2并将魔法收纳于魔导书之中。#3",
+      "jap": "魔術を志すものが覚える初歩の魔術\r\n小さなソウルの矢を放つ\r\n\r\n魔術を使用するためには杖を装備し、\r\nスペルブックに魔術を収めておく必要がある",
+      "eng": "The first sorcery learned by those\r\nembarking on the sorcerer's path.\r\nFires a small soul arrow.\r\n\r\nTo use sorceries,\r\nyou must add them to your spellbook\r\nand have a staff equipped."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31111000.webp"
+  },
+  {
+    "id": "31120000",
+    "name": {
+      "chn": "乱射灵魂枪",
+      "jap": "乱れるソウルの槍",
+      "eng": "Soul Spear Barrage"
+    },
+    "description": {
+      "chn": "连续施放灵魂枪的魔法。\r\n如果全部命中，可望造成莫大伤害。\r\n\r\n梅维雅法术院内根据远古法术\r\n改良编成的魔法之一。\r\n\r\n出发点很单纯，\r\n但其强悍正是来自于单纯。\r\n当然，是以能够运用自如为前提。",
+      "jap": "ソウルの槍を続けざまに放つ魔術\r\nまとめて当てれば、莫大なダメージが期待できる\r\n\r\n古の魔法をもとに、メルヴィアの魔法院で\r\n改良され、編み出されたもののひとつ\r\n\r\n発想は単純だが、時に単純であるほど\r\n強力なものはない\r\n使いこなすことができればの話だが",
+      "eng": "Fires a flurry of soul spears.\r\nInflicts high damage when multiple spears hit.\r\n\r\nA reworking of an ancient spell concocted\r\nat the Melfian Magic Academy.\r\n\r\nA simple idea, but potentially highly effective.\r\nWhen used properly, of course."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31120000.webp"
+  },
+  {
+    "id": "31122000",
+    "name": {
+      "chn": "###2（无译文）灵魂枪#3",
+      "jap": "##ソウルの槍",
+      "eng": "##Soul Spear"
+    },
+    "description": {
+      "chn": "#2（无译文）初步的魔法之一，#3\r\n#2将灵魂集束为枪释放。#3\r\n#2#3\r\n#2由于枪直线前进，需要熟练才能命中。#3",
+      "jap": "初歩の魔術の一つ\r\nソウルを束ねた槍を放つ\r\n\r\nソウルの矢よりも威力は増しているが\r\n槍は直進するため、命中させるには熟練を要する",
+      "eng": "An elementary sorcery.\r\nFires a spear of bound souls.\r\n\r\nAlthough this sorcery is more powerful than Soul Arrow,\r\nit requires practice to hit one's target\r\nas the spear travels in a straight line."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31122000.webp"
+  },
+  {
+    "id": "31130000",
+    "name": {
+      "chn": "灵魂降雹",
+      "jap": "降り注ぐソウル",
+      "eng": "Soul Shower"
+    },
+    "description": {
+      "chn": "施放出来的大片灵魂块\r\n在空中分裂无数，倾注而降。\r\n\r\n需要高度敏捷的魔法，使用上也不简单。\r\n必须考量使用对象与地点。",
+      "jap": "放たれた大きなソウルの塊は\r\n空中でいくつもに分裂して降り注ぐ\r\n\r\n高度な技量を要する魔術で、扱いもまた難しい\r\n使う相手と場所を考えるべき",
+      "eng": "Hurls a huge soul mass which splits\r\ninto smaller souls that rain from above.\r\n\r\nRequires real talent and is difficult\r\nto handle. Only works in certain places,\r\nand against certain foes."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31130000.webp"
+  },
+  {
+    "id": "31140000",
+    "name": {
+      "chn": "灵魂大剑",
+      "jap": "ソウルの大剣",
+      "eng": "Soul Greatsword"
+    },
+    "description": {
+      "chn": "凝聚灵魂成剑施展攻击的魔法。\r\n单点集中力量于手，如双手剑般挥舞。\r\n\r\n由于魔法施展时类似使出剑技，\r\n将伴随同等的危险。",
+      "jap": "ソウルによって生じた剣で攻撃する魔術\r\n力を手元の一点に集め、両手剣のように用いる\r\n\r\n剣技に近い感覚で使う魔術であるため\r\n相応の危険が伴う",
+      "eng": "A sorcery that attacks foes using a sword made\r\nof souls. Energy is focused in a single point,\r\nand wielded as a sword with both hands.\r\n\r\nUse of this sorcery is not too dissimilar to\r\nswordplay, and so inherently endangers the caster."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31140000.webp"
+  },
+  {
+    "id": "31142000",
+    "name": {
+      "chn": "###2（无译文）灵魂降雹#3",
+      "jap": "##降り注ぐソウル",
+      "eng": "##Soul Shower"
+    },
+    "description": {
+      "chn": "#2（无译文）高阶魔术之一，#3\r\n#2释放巨大灵魂块，在空中分裂为大量小灵魂块。#3\r\n#2#3\r\n#2由于灵魂倾注而降的范围很广，#3\r\n#2在与巨型敌人的战斗中尤其有效。#3",
+      "jap": "上位魔術の一つ\r\n巨大なソウルの塊を放ち\r\n空中で多数の小さなソウルに分裂させる\r\n\r\nソウルは広範囲に降り注ぐため\r\n特に巨大な敵との戦いで効果を発揮する",
+      "eng": "An advanced sorcery.\r\nHurls a huge soul mass which breaks into\r\nmany smaller souls in mid-air.\r\n\r\nThe souls scatter over a large area,\r\nmaking this sorcery particularly effective\r\nwhen battling gigantic foes."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31142000.webp"
+  },
+  {
+    "id": "31150000",
+    "name": {
+      "chn": "漩涡灵魂块",
+      "jap": "渦巻くソウルの塊",
+      "eng": "Soul Vortex"
+    },
+    "description": {
+      "chn": "不死灵庙传承的失传魔法之一，\r\n连续施放有追踪性的灵魂块。\r\n\r\n此魔法很难闪避，\r\n对身手矫捷的敌人能发挥效用。",
+      "jap": "不死廟にのみ伝わる失われた魔術\r\n追尾性のあるソウルの塊を連続で放つ\r\n\r\n極めて回避の困難な魔術であり、\r\n素早い敵などにも有効に働く",
+      "eng": "One of the lost sorceries preserved only\r\nin the Undead Crypt.\r\nFires successive homing souls.\r\n\r\nExtremely difficult sorcery to evade,\r\nmaking it very effective against frisky foes."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31150000.webp"
+  },
+  {
+    "id": "31160000",
+    "name": {
+      "chn": "灵魂闪光",
+      "jap": "ソウルの閃光",
+      "eng": "Soul Bolt"
+    },
+    "description": {
+      "chn": "古国奥拉斐斯的大魔法师\r\n史垂德所创造的魔法之一。\r\n将发出炫目魔力光芒，并贯穿敌人。\r\n\r\n原本是使用不当时\r\n威力会反噬施术者的危险魔法，\r\n大魔法师史垂德进一步加以完善。",
+      "jap": "古の国オラフィスの大魔術師、\r\nストレイドによって生み出された魔術のひとつ\r\nまばゆい魔力の光を放ち、敵を貫く\r\n\r\nかつては術者に威力が跳ね返る\r\n危険な魔法だったものを\r\n大魔術師ストレイドが磨き上げた",
+      "eng": "One of the sorceries devised by Straid,\r\nthe great mage of ancient Olaphis.\r\nFires a blinding, piercing bolt of light.\r\n\r\nStraid started with an unwieldy spell\r\nthat back-fired on its caster,\r\nand in time, perfected it."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31160000.webp"
+  },
+  {
+    "id": "31162000",
+    "name": {
+      "chn": "###2（无译文）灵魂大剑#3",
+      "jap": "##ソウルの大剣",
+      "eng": "##Soul Greatsword"
+    },
+    "description": {
+      "chn": "#2（无译文）凝聚灵魂成剑施展攻击的魔法。#3\r\n#2单点集中力量于手，来提高威力。#3\r\n#2#3\r\n#2由于魔法施展时类似使出剑技，#3\r\n#2梅维雅的魔法战士经常使用。#3",
+      "jap": "ソウルによって生じた剣で攻撃する魔術\r\n力を手元の一点に集めることで、威力を高めている\r\n\r\n剣技に近い感覚で使う魔術であるため\r\nメルヴィアの魔法戦士はこの魔術を多用する",
+      "eng": "A sorcery that attacks foes using\r\na sword made of souls.\r\nThe sorcery has been strengthened by\r\nconcentrating power in the user's hands.\r\n\r\nUse of this sorcery is not too dissimilar to swordplay,\r\nmaking it popular with the magic warriors of Melfia."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31162000.webp"
+  },
+  {
+    "id": "31170000",
+    "name": {
+      "chn": "灵魂洪流",
+      "jap": "ソウルの奔流",
+      "eng": "Soul Geyser"
+    },
+    "description": {
+      "chn": "凝聚强力灵魂并且释放的秘术。\r\n具追踪性的灵魂块会贯穿敌人，\r\n反复造成伤害。\r\n\r\n以追踪敌人直到咽气为止为目的，\r\n构成可说是邪法的这项魔法，\r\n据传为安第尔的遗产。",
+      "jap": "強いソウルを練り上げ、放出する秘術\r\n追尾するソウルの塊は、敵を貫通し、\r\n繰り返しダメージを与える\r\n\r\n息絶えるまで敵を追い続けることを目的に\r\n編み出された、邪法ともいえるこの魔術は\r\nアン・ディールの遺産と伝えられる",
+      "eng": "A secret art unleashes a gush of souls.\r\nThe homing soul mass pierces its target,\r\nthen hits repeatedly for additional damage.\r\n\r\nThis blasphemous spell is a family heirloom of\r\nLord Aldia's. It was designed to pummel foes\r\nuntil its power is entirely exhausted."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31170000.webp"
+  },
+  {
+    "id": "31180000",
+    "name": {
+      "chn": "法术武器",
+      "jap": "魔法の武器",
+      "eng": "Magic Weapon"
+    },
+    "description": {
+      "chn": "为武器附加法术之力的魔法。\r\n除了武器本身攻击力外，\r\n更可因魔法造成伤害。\r\n\r\n剑技与魔法原本需要不同的技术，\r\n在梅维雅法术院，\r\n有人认为此种魔法属于异端。",
+      "jap": "武器に魔法の力を付与する魔術\r\n武器本来の攻撃力に加え、\r\n魔法によるダメージを与えることができる\r\n\r\n剣技と魔術は本来異なる技量を要する\r\nメルヴィアの魔法院では、この類の魔術を\r\n異端視するものもいる",
+      "eng": "Sorcery that imbues weapon in other hand \r\nwith magic. Adds magic damage to the types of\r\ndamage the weapon already inflicts.\r\n\r\nWielding a sword and casting a sorcery\r\nare two different things, and some members\r\nthe Melfian Magic Academy view these varieties\r\nof spells as impure."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31180000.webp"
+  },
+  {
+    "id": "31190000",
+    "name": {
+      "chn": "强力法术武器",
+      "jap": "強い魔法の武器",
+      "eng": "Great Magic Weapon"
+    },
+    "description": {
+      "chn": "相当于「法术武器」高阶版的魔法。\r\n使武器获得大幅法术强化。\r\n\r\n这是为武器附加巨大法术之力的魔法，\r\n可造成更巨大的伤害。\r\n\r\n已有人称为基本教义派的\r\n梅维雅法术院守旧派系，认为剑技太野蛮。",
+      "jap": "「魔法の武器」の上位にあたる魔術\r\n武器を大きく魔法強化し、\r\nより強いダメージを与えることができる\r\n\r\n純粋派とも呼ばれるメルヴィアの魔法院の\r\n守旧派たちは、剣技を野蛮なものとみなしている",
+      "eng": "A sorcery superior to Magic Weapon. Reinforces\r\nweapon in other hand with intense magic,\r\nallowing for infliction of heavy magic damage.\r\n\r\nThe old purists of the Melfian Magic Academy\r\nview swordplay as a barbaric form of engagement."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31190000.webp"
+  },
+  {
+    "id": "31200000",
+    "name": {
+      "chn": "结晶法术武器",
+      "jap": "結晶魔法の武器",
+      "eng": "Crystal Magic Weapon"
+    },
+    "description": {
+      "chn": "让武器因结晶法术强化的魔法。\r\n比一般强化威力更强。\r\n\r\n以结晶为媒介提升灵魂之力的手法，\r\n是自古相传的高度法术强化技术。",
+      "jap": "武器を結晶魔法により強化する魔術\r\n通常の強化よりも威力が高い\r\n\r\n結晶を媒介としソウルの力を高める手法は\r\n古くから伝わる高度な魔法強化の業である",
+      "eng": "Imbues weapon in other hand with crystal magic.\r\nMore powerful than standard magic reinforcement.\r\n\r\nThe utilization of crystals to enhance soul power\r\nis an ancient form of magical reinforcement."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31200000.webp"
+  },
+  {
+    "id": "31210000",
+    "name": {
+      "chn": "强力法术盾",
+      "jap": "強い魔法の盾",
+      "eng": "Strong Magic Shield"
+    },
+    "description": {
+      "chn": "为左手的盾附加法术之力的魔法。\r\n可以强化盾，抑制伤害。\r\n\r\n梅维雅法术院当中，有人将此类魔法\r\n视为异端，尤以称为基本教义派的一派\r\n极度轻贱所有剑技。",
+      "jap": "盾に魔法の力を付与する魔術\r\n盾本来の能力を強化し、ダメージを抑える\r\n\r\nメルヴィアの魔法院では\r\nこの類の魔術を異端視する者もおり、\r\n特に純粋派と呼ばれる一派は\r\n剣技全般を蔑視している",
+      "eng": "Imbues off-hand shield with magic.\r\nReinforce shield to absorb additional damage.\r\n\r\nCertain members of the Melfian Magic\r\nAcademy scoff at these types of magic.\r\nThe purists, in particular, are disdainful of\r\nanything vaguely linked to sword fighting."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31210000.webp"
+  },
+  {
+    "id": "31220000",
+    "name": {
+      "chn": "思乡",
+      "jap": "望郷",
+      "eng": "Yearn"
+    },
+    "description": {
+      "chn": "产生类似灵魂的温暖光球，\r\n当作诱饵吸引敌人。\r\n\r\n人对于失去的才会渴望、受到吸引。\r\n这项魔法的名称，正是前述的体现。",
+      "jap": "ソウルに似たあたたかい玉を発生させ\r\n囮として敵を惹きつける\r\n\r\n人は失ったものにこそ焦がれ、惹きつけられる\r\nこの魔術の名は\r\nまさにそれを示しているのだろうか",
+      "eng": "Creates a warm soul-like orb that serves\r\nas a decoy and lures foes toward itself.\r\n\r\nPeople regret loss, and yearn for what they\r\ndo not have. Perhaps the name of this\r\nsorcery harkens to this irony."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31220000.webp"
+  },
+  {
+    "id": "31230000",
+    "name": {
+      "chn": "静音",
+      "jap": "音無し",
+      "eng": "Hush"
+    },
+    "description": {
+      "chn": "为了完成不为人知的工作\r\n而编成的魔法。\r\n能让施术者发出的声音变小。\r\n\r\n被认为是荣耀骑士之国的东方国度米勒，\r\n传说有着遵照古老传统背地里执行着\r\n不为人知活计的地下骑士团。",
+      "jap": "知られてはならない仕事をこなすために\r\n編み出された魔術\r\n術者の立てる音を小さくする\r\n\r\n誇り高き騎士の国とされる東方の国ミラには\r\n古き伝統により、人知れず裏稼業をこなす\r\n陰の騎士団があるといわれている",
+      "eng": "A sorcery that facilitates surreptitious activity.\r\nReduces the sound made by its caster.\r\n\r\nThe eastern land of Mirrah is not only the\r\nhome of proud knights. There is also a\r\ntraditional order of shadow knights,\r\nwho quietly carry out unspeakable tasks."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31230000.webp"
+  },
+  {
+    "id": "31240000",
+    "name": {
+      "chn": "控制坠落",
+      "jap": "落下制御",
+      "eng": "Fall Control"
+    },
+    "description": {
+      "chn": "为了完成不可被人知晓的工作\r\n而编成的魔法，\r\n能减轻坠落伤害。\r\n\r\n东方国度米勒的地下骑士团，\r\n不同于阳光下荣耀无比的骑士团，\r\n据说为达使命不惜一切手段。",
+      "jap": "知られてはならない仕事をこなすために\r\n編み出された魔術\r\n落下ダメージを軽減する\r\n\r\n東方の国ミラの陰の騎士団は、\r\n誇り高き表の騎士団とは異なり、使命のために\r\nあらゆる手段を用いるという",
+      "eng": "A sorcery that facilitates surreptitious activity.\r\nReduces the damage taken from falls.\r\n\r\nThe eastern land of Mirrah is not only the\r\nhome of proud knights. There is also a\r\ntraditional order of shadow knights, who use\r\nany means necessary to carry out their orders."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31240000.webp"
+  },
+  {
+    "id": "31250000",
+    "name": {
+      "chn": "隐形武器",
+      "jap": "見えない武器",
+      "eng": "Hidden Weapon"
+    },
+    "description": {
+      "chn": "时代已不可考的远古魔法，\r\n能使武器成为透明，肉眼不可见。\r\n\r\n此种魔法用于何处、如何使用，\r\n全看使用者的心态。\r\n要说万般道具不过如是，确实如此。",
+      "jap": "いつのものとも知れぬ古い魔術\r\n武器を透明にし、目に見えない状態にする\r\n\r\nこの魔術を何にどうやって用いるかは、\r\n使い手の心持ち次第である\r\nあらゆる道具がそうだと言えば、その通りなのだが",
+      "eng": "A sorcery that dates farther back than recollection.\r\nMakes weapon in other hand invisible.\r\n\r\nEffective use of this, like any tool, perhaps,\r\nis reliant upon the ingenuity of its caster."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31250000.webp"
+  },
+  {
+    "id": "31260000",
+    "name": {
+      "chn": "修理",
+      "jap": "修復",
+      "eng": "Repair"
+    },
+    "description": {
+      "chn": "时代已不可考的远古魔法，\r\n能修理装备的武器、防具。\r\n\r\n以光芒修补受损的武器、防具。\r\n据说是让修补对象返回过去的模样，\r\n但其原理早已失传，\r\n完全不知其所以然。",
+      "jap": "いつのものとも知れぬ古い魔術\r\n装備している武器、防具を修理する\r\n\r\n傷んだ武器、防具を光によって補修する\r\n対象を過去の姿に戻しているのだとも言われるが\r\nその原理はとうに失われており、\r\n詳しいことは何もわかっていない",
+      "eng": "A sorcery that dates farther back than recollection.\r\nRepairs equipped weapons and armor.\r\n\r\nUses light to repair damaged weapons and armor.\r\nSupposedly this sorcery restores items to a past\r\nstate, but with the knowledge of this art lost,\r\nthe finer details of the phenomenon are unknown."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31260000.webp"
+  },
+  {
+    "id": "31270000",
+    "name": {
+      "chn": "光明照耀",
+      "jap": "照らす光",
+      "eng": "Cast Light"
+    },
+    "description": {
+      "chn": "时代已不可考的远古魔法，\r\n产生光源，照亮四周。\r\n\r\n光明驱赶黑暗，彰显一切，\r\n但不知是对还是错。",
+      "jap": "いつのものとも知れぬ古い魔術\r\n光を生みだし、周囲を照らす\r\n\r\n光は闇を祓い、すべてを明らかにする\r\nそれが正しいことかどうかはわからない",
+      "eng": "A sorcery that dates farther back than recollection.\r\nCreates a light that illuminates one's surroundings.\r\n\r\nLight banishes dark, and reveals all.\r\nWhether this is desired, is another matter."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31270000.webp"
+  },
+  {
+    "id": "31280000",
+    "name": {
+      "chn": "拟态",
+      "jap": "擬態",
+      "eng": "Chameleon"
+    },
+    "description": {
+      "chn": "时代已不可考的远古魔法，\r\n根据环境将自身模样#1改变#3#2变成#3某种事物。\r\n\r\n惧怕看不到的，是胆小。\r\n过分相信看到的，那是愚蠢。",
+      "jap": "いつのものとも知れぬ古い魔術\r\n自らの姿を、場所に応じた何かに変える\r\n\r\n見えないものを怖れるのは臆病者\r\n見えるものを信じすぎるのは愚か者",
+      "eng": "A sorcery that dates farther back than recollection.\r\nAllows you to blend into your surroundings.\r\n\r\nThose who fear the unseen are cowards.\r\nThose who never doubt their eyes are fools."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31280000.webp"
+  },
+  {
+    "id": "31290000",
+    "name": {
+      "chn": "解放魔力",
+      "jap": "魔力開放",
+      "eng": "Unleash Magic"
+    },
+    "description": {
+      "chn": "能让充斥体内的魔力增幅超越极限，\r\n代价则是自身HP大幅减低。\r\n\r\n安第尔进行的诸般可怕行为，\r\n伴生了几种副产物，\r\n但全都偏离了常轨。",
+      "jap": "身体にみなぎる魔力を限界を超えて増幅させるが\r\n代償としてＨＰが大幅に低下する\r\n\r\nアン・ディールで行われたおぞましい行いは\r\nいくつかの副産物を産み落とした\r\nそれらはどれもどこか歪なものである",
+      "eng": "Boosts magic within the body beyond even\r\nyour own limits, but at great cost to HP.\r\n\r\nThe terrible deeds carried out in Aldia led\r\nto the unintentional birth of several shadowy\r\nthings, all of them eerily malformed."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31290000.webp"
+  },
+  {
+    "id": "31300000",
+    "name": {
+      "chn": "灵魂一闪",
+      "jap": "ソウルの一閃",
+      "eng": "Soul Flash"
+    },
+    "description": {
+      "chn": "随着埃斯‧洛耶斯冻结\r\n而失传的远古魔法。\r\n快速释放微弱灵魂至身边。\r\n\r\n与其说造成敌人伤害，\r\n不如说是用来保护自己。",
+      "jap": "エス・ロイエスの凍結とともに\r\n失われた古い魔術\r\n周囲に軽微なソウルを素早く放出する\r\n\r\n敵にダメージを与えるというより\r\n自らの身を守るためのもの",
+      "eng": "One of the ancient sorceries that\r\nwere lost when Eleum Loyce froze over.\r\nRapidly fire a barrage of small souls.\r\n\r\nIntended to protect its caster\r\nmore than damage enemies."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31300000.webp"
+  },
+  {
+    "id": "31310000",
+    "name": {
+      "chn": "收束灵魂块",
+      "jap": "収束するソウル",
+      "eng": "Focus Souls"
+    },
+    "description": {
+      "chn": "圣壁之都萨尔瓦相传的远古魔术，\r\n将灵魂收束后释放。\r\n\r\n在萨尔瓦，\r\n魔法之类被视为异端，\r\n无法获得鼎盛发展。\r\n但也因为无名氏们的热情\r\n诞生了多项成果。",
+      "jap": "聖壁の都サルヴァに伝わる古い魔術\r\nソウルを収束させて放つ\r\n\r\nサルヴァにおいては\r\n魔術の類は異端のものとされ\r\n大きく発展することはなかった\r\nそれでも名も知れぬ者たちの情念により\r\nいくつかの成果が生み出された",
+      "eng": "An ancient sorcery of Shulva, the Sanctum City.\r\nFires a focused beam of souls.\r\n\r\nThe development of sorceries was stunted\r\nin Shulva, as they were considered taboo.\r\nEven so, there were some occasional gems\r\ncreated by a group of nameless enthusiasts."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/31310000.webp"
+  },
+  {
+    "id": "32010000",
+    "name": {
+      "chn": "恢复",
+      "jap": "回復",
+      "eng": "Heal"
+    },
+    "description": {
+      "chn": "圣职广泛施展的治疗奇迹。\r\n微幅恢复自身HP。\r\n\r\n为了使用奇迹，需要装备圣铃做为触媒，\r\n并将奇迹纳入记忆空格之中。",
+      "jap": "聖職者に広く使われる癒しの奇跡\r\nＨＰをわずかに回復する\r\n\r\n奇跡を使用するためには、聖鈴を装備し\r\n篝火で奇跡を記憶しておく必要がある",
+      "eng": "A healing miracle widely used by clerics.\r\nSlightly restores HP.\r\n\r\nTo use miracles, equip a sacred chime\r\nand attune a miracle at a bonfire."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32010000.webp"
+  },
+  {
+    "id": "32020000",
+    "name": {
+      "chn": "中等恢复",
+      "jap": "中回復",
+      "eng": "Med Heal"
+    },
+    "description": {
+      "chn": "相当于「恢复」高阶版的奇迹。\r\n可恢复自身HP。\r\n\r\n#2奇迹的效果取决于自身的信仰，#3\r\n#2威力随信仰高低而变化。#3\r\n\r\n奇迹是自古相传的#2诸神的#3故事，\r\n完整残存的并不多。\r\n现存的奇迹多为#1圣职们以热情进行#3复原而来。",
+      "jap": "「回復」の上位にあたる奇跡\r\nＨＰを回復する\r\n\r\n奇跡の効果は己の信仰に依存し、\r\nその高低によって威力が変化する\r\n\r\n奇跡は古くから伝わる神々の物語である\r\n完全な形で残る物は少なく\r\n多くは復元されたものだとされる",
+      "eng": "Superior spell to Heal.\r\nRestores HP.\r\n\r\nThe strength of miracles are influenced\r\nby one's faith.\r\n\r\nMiracles are tales of the Gods passed down\r\nlong ago, but only a small number of the\r\noriginal tomes remain in their entirety,\r\nand most that exist are restorations."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32020000.webp"
+  },
+  {
+    "id": "32030000",
+    "name": {
+      "chn": "#1缩约#3#2限制#3大恢复",
+      "jap": "限られた大回復",
+      "eng": "Great Heal Excerpt"
+    },
+    "description": {
+      "chn": "更为高阶的奇迹。\r\n#1要约#3#2撷取#3自「大恢复」的故事。\r\n大幅恢复自身HP。\r\n\r\n#1将#3#2「大恢复」是#3非常高深难懂的故事，\r\n#1切割分开以为大众化#3#2需要长期修行才能完整使用#3，\r\n#1效果虽未降低，但可用次数#3很少#2有人能做到这点#3。",
+      "jap": "より上位の奇跡である\r\n「大回復」の物語を切りだしたもの\r\nＨＰを大きく回復する\r\n効果は見劣りしないが、使用回数が少ない\r\n\r\n「大回復」は極めて高度で、難解な物語である\r\n完全なものを扱うには長い修練が必要であり\r\nそれを成し遂げる者は、ごくわずかしかいない",
+      "eng": "A highly advanced miracle.\r\nAn excerpt from the Great Heal tome.\r\nGreatly restores HP.\r\nIts effect is the same as Great Heal,\r\nbut has limited uses.\r\n\r\nThe erudite Great Heal tome requires\r\nextensive training to properly interpret,\r\nmaking it accessible to only a select few."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32030000.webp"
+  },
+  {
+    "id": "32040000",
+    "name": {
+      "chn": "大恢复",
+      "jap": "大回復",
+      "eng": "Great Heal"
+    },
+    "description": {
+      "chn": "仅有部分圣职可施展的伟大奇迹，\r\n大幅恢复自身HP。\r\n\r\n深奥而壮阔的故事\r\n能够#1完全读透#3#2完整修习#3者非常#1希罕#3#2稀少#3。\r\n但其努力将有等身的回报。",
+      "jap": "ごく一部の聖職者が使う偉大な奇跡\r\nＨＰを大きく回復する\r\n\r\n難解かつ壮大なこの物語を\r\n完全に修める者は稀である\r\nしかしその努力には十分な見返りがあるだろう",
+      "eng": "A glorious miracle only accessible to a small\r\nminority of clerics. Greatly restores HP.\r\n\r\nOnly a select few have learned to recite this\r\nepic romance in its entirety, but those who do\r\nare amply rewarded. "
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32040000.webp"
+  },
+  {
+    "id": "32050000",
+    "name": {
+      "chn": "阳光疗愈",
+      "jap": "太陽の光の癒し",
+      "eng": "Soothing Sunlight"
+    },
+    "description": {
+      "chn": "自古相传的特殊奇迹，\r\n能大幅恢复包含周遭在内的HP。\r\n\r\n收藏于林德圣院的\r\n这项奇迹，不知被谁窃走，\r\n因而丧失。",
+      "jap": "古くから伝わる特別な奇跡\r\n周囲も含め、ＨＰを大きく回復する\r\n\r\nこの奇跡はリンデルトの聖院に収められていたが\r\n何者かによって盗み出され、失われていた",
+      "eng": "A special miracle passed down through the ages.\r\nGreatly heals HP of self and nearby allies.\r\n\r\nThis miracle, once kept by the Lindelt Monastery,\r\nwas stolen and never recovered."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32050000.webp"
+  },
+  {
+    "id": "32060000",
+    "name": {
+      "chn": "生命力涌现",
+      "jap": "生命湧き",
+      "eng": "Replenishment"
+    },
+    "description": {
+      "chn": "中位奇迹之一，\r\n能缓慢恢复自身HP。\r\n\r\n林德圣骑士团亲临前线时，\r\n使用此项奇迹展现无一人倒下的战局。\r\n\r\n该骑士团有着\r\n屠灭威胁众生之毒龙的传承。",
+      "jap": "中位の奇跡のひとつ\r\nＨＰをゆっくりと回復する\r\n\r\nリンデルトの聖騎士団は前線に立つ際に\r\nこの奇跡を用い、不倒の戦いを見せる\r\n\r\n騎士団には、かつて人々を脅かした毒竜を\r\n撃ち滅ぼしたという伝承がある",
+      "eng": "An intermediate miracle.\r\nGradually restores HP.\r\n\r\nThis miracle is used by the resolute Lindelt\r\ncleric knights when fighting on the front lines.\r\n\r\nThere is a story, passed down through generations,\r\nclaiming this band of knights once felled a\r\npoisonous dragon which menaced an entire nation."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32060000.webp"
+  },
+  {
+    "id": "32070000",
+    "name": {
+      "chn": "生命洋溢",
+      "jap": "溢れ出る生命",
+      "eng": "Resplendent Life"
+    },
+    "description": {
+      "chn": "高阶圣职能施展的伟大奇迹之一，\r\n缓慢并大幅恢复自身HP。\r\n\r\n林德圣院的圣职者弗萨尔\r\n以此奇迹四处征战，\r\n在战友间有着圣骑士的美名，\r\n而敌人则称之为获得恶魔之力的男人。",
+      "jap": "高位の聖職者が使う偉大な奇跡の一つ\r\nＨＰをゆっくりと、大きく回復する\r\n\r\nリンデルトの聖職者フォーサルは\r\nこの奇跡を得意とし、各地の戦いに赴いた\r\n彼は味方からは聖騎士と称えられ、\r\n敵からは悪魔の力を得た男とすら呼ばれた",
+      "eng": "A great miracle used by highly-ranked clerics.\r\nSlowly restores a large amount of HP.\r\n\r\nCleric Forsalle of Lindelt was a master of\r\nmiracles who fought battles across the lands.\r\nHis allies called him a holy knight, but his\r\nenemies feared him for his \"demonic powers.\""
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32070000.webp"
+  },
+  {
+    "id": "32080000",
+    "name": {
+      "chn": "阳光滋润",
+      "jap": "太陽の光の恵み",
+      "eng": "Bountiful Sunlight"
+    },
+    "description": {
+      "chn": "自古相传的特殊奇迹，\r\n缓慢并大幅恢复包含周遭在内的HP。\r\n\r\n收藏于林德圣院的\r\n这项奇迹，不知被谁窃走，\r\n因而丧失。",
+      "jap": "古くから伝わる特別な奇跡\r\n周囲も含め、ＨＰをゆっくりと大きく回復する\r\n\r\nこの奇跡はリンデルトの聖院に収められていたが\r\n何者かによって盗み出され、失われていた",
+      "eng": "A special miracle passed down through the ages.\r\nSlowly heals a great amount of HP of self\r\nand nearby allies.\r\n\r\nThis miracle, once kept by the Lindelt Monastery,\r\nwas stolen and never recovered."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32080000.webp"
+  },
+  {
+    "id": "32090000",
+    "name": {
+      "chn": "治愈祈福",
+      "jap": "治癒の祈り",
+      "eng": "Caressing Prayer"
+    },
+    "description": {
+      "chn": "圣职基本的治愈奇迹。\r\n净化并完全除去腐蚀身体的毒性。\r\n\r\n这份治愈效果不仅只对施术者本身，\r\n也能对周围的人施展。\r\n\r\n发现这项奇迹的时期似乎较近，\r\n看来，也许并非单纯的奇迹。",
+      "jap": "聖職者の基礎となる癒しの奇跡\r\n身体を蝕む毒を浄化し、完全に取り除く\r\nその癒し効果は術者本人のみならず\r\n周囲の者にも与えられる\r\n\r\nこの奇跡が見出された時期は比較的新しいようだ\r\nどうやら純粋な奇跡ではないのかもしれない",
+      "eng": "An elementary miracle for clerics.\r\nPurifies the body, removing all poison.\r\n\r\nAffects both the caster and nearby allies.\r\n\r\nThis spell was recently developed,\r\nand may not be an authentic miracle."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32090000.webp"
+  },
+  {
+    "id": "32100000",
+    "name": {
+      "chn": "原力",
+      "jap": "フォース",
+      "eng": "Force"
+    },
+    "description": {
+      "chn": "初步奇迹之一，\r\n以冲击波让对象#1失足#3#2踉跄#3。\r\n\r\n并非造成周围敌人的伤害，而是加以震飞。\r\n虽然无法造成直接伤害，\r\n但巧妙运用下会有出人意料的效果。",
+      "jap": "初歩の奇跡のひとつ\r\n衝撃波で相手をよろめかせる\r\n\r\n周辺の敵を傷つけることなく、吹き飛ばす\r\n直接的なダメージは与えられないが\r\n工夫しだいでは予想以上の効果がある",
+      "eng": "An elementary miracle.\r\nReleases a shockwave that staggers foes.\r\n\r\nPushes nearby foes back, but leaves them unhurt.\r\nDoes not directly cause damage, but can be\r\nhighly effective with a little ingenuity."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32100000.webp"
+  },
+  {
+    "id": "32110000",
+    "name": {
+      "chn": "诸神之怒",
+      "jap": "神の怒り",
+      "eng": "Wrath of the Gods"
+    },
+    "description": {
+      "chn": "向四周释放冲击波让对象#1失足#3#2踉跄#3的奇迹，\r\n同时能造成重大伤害。\r\n\r\n这项奇迹，据说和原力是相同的来源，\r\n但神的名号失传已久的现在，\r\n早已不可考了。",
+      "jap": "周辺に衝撃波を放ち、相手をよろめかせる奇跡\r\n同時に大きなダメージを与える\r\n\r\nフォースとこの奇跡は\r\nその源をひとつにすると言われるが、\r\n神の名が失われて久しい今となっては\r\n詳しいことはわからない",
+      "eng": "Miracle that releases local shockwave,\r\nstaggering nearby foes and causing heavy damage.\r\n\r\nLittle is known about the origins of this miracle,\r\nexcept its shared roots with the Force spell.\r\nIt makes mention of certain Gods, but alas,\r\ntheir actual names are long forgotten."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32110000.webp"
+  },
+  {
+    "id": "32111000",
+    "name": {
+      "chn": "###2（无译文）原力#3",
+      "jap": "##フォース",
+      "eng": "##Force"
+    },
+    "description": {
+      "chn": "#2（无译文）初步的奇迹之一，#3\r\n#2以冲击波让对象踉跄。#3\r\n#2#3\r\n#2为了使用奇迹，需要装备圣铃做为触媒，#3\r\n#2并将奇迹纳入魔导书之中。#3",
+      "jap": "初歩の奇跡のひとつ\r\n衝撃波で相手をよろめかせる\r\n\r\n奇跡を使用するためには触媒である聖鈴を装備し、\r\nスペルブックに奇跡を収めておく必要がある",
+      "eng": "An elementary miracle.\r\nReleases a shockwave that staggers foes.\r\n\r\nTo use miracles,\r\nyou must add them to your spellbook and\r\nhave a sacred bell (the catalyst) equipped."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32111000.webp"
+  },
+  {
+    "id": "32120000",
+    "name": {
+      "chn": "原力并射",
+      "jap": "放つフォース",
+      "eng": "Emit Force"
+    },
+    "description": {
+      "chn": "被视为「原力」分支的奇迹，\r\n释放直线前进的冲击波。\r\n\r\n奇迹在传承过程当中\r\n会诞生几种分支。\r\n但何者才是正统已无从考据，\r\n知道了也是毫无意义。",
+      "jap": "「フォース」の亜流とされる奇跡\r\n直進する衝撃波を放つ\r\n\r\n奇跡はその伝承の過程で\r\nいくつもの亜流が生まれている\r\nいずれが本流なのか知る術はなく\r\nまた知ることに意味もないだろう",
+      "eng": "A miracle derived from Force.\r\nEmits a forward-moving shockwave.\r\n\r\nThroughout history, there have been many\r\nexamples of imitative miracles.\r\nWhen discerning original from imitator is nigh\r\non impossible, which is which hardly matters."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32120000.webp"
+  },
+  {
+    "id": "32121000",
+    "name": {
+      "chn": "###2（无译文）恢复#3",
+      "jap": "##回復",
+      "eng": "##Heal"
+    },
+    "description": {
+      "chn": "#2（无译文）圣职广泛施展的治疗奇迹。#3\r\n#2施术者本身与周遭人等微幅恢复HP。#3\r\n#2#3\r\n#2奇迹是自古相传的诸神的故事，#3\r\n#2完整残存的并不多。#3\r\n#2现存的奇迹多为圣职们以热情进行复原而来。#3",
+      "jap": "聖職者に広く使われる癒しの奇跡\r\n術者本人と周囲の者のHPをわずかに回復する\r\n\r\n奇跡は古くから伝わる神々の物語だが\r\n原典が完全な形で残る物は数少ない\r\n今伝わる奇跡は現代の聖職達の情念により\r\n復元されたものである",
+      "eng": "A healing miracle widely used by clerics.\r\nRestores a small amount of HP to the user and people nearby.\r\n\r\nMiracles are tales of the Gods passed down long ago,\r\nbut only a small number of the original texts\r\nremain in their complete form.\r\nThose in circulation today have been devotedly\r\npieced back together by the clergy."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32121000.webp"
+  },
+  {
+    "id": "32130000",
+    "name": {
+      "chn": "苍天雷鸣",
+      "jap": "天の雷鳴",
+      "eng": "Heavenly Thunder"
+    },
+    "description": {
+      "chn": "在自身周遭随机放射雷电。\r\n据说是「雷枪」的分支，又或是正统。\r\n\r\n神力虽无法完美控制，\r\n但若是幸运的宠儿，\r\n这项#1魔法#3#2奇迹#3可以漂亮的击退敌人吧。",
+      "jap": "自分の周囲に無作為に雷を放つ\r\n「雷の槍」の亜流とも、原型とも言われる\r\n\r\n神の力を完全に制御することはできないが\r\n幸運に愛されている身であれば\r\nこの奇跡は見事に敵を打ち払ってくれるだろう",
+      "eng": "Emits lightning in random directions.\r\nScholars bicker over whether this is\r\nthe original Lightning Spear, or a derivative.\r\n\r\nOne can never gain full control of the power\r\nof the Gods, but with a little favor from lady luck,\r\nthis spell will destroy your foes."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32130000.webp"
+  },
+  {
+    "id": "32132000",
+    "name": {
+      "chn": "###2（无译文）生命力涌现#3",
+      "jap": "##生命湧き",
+      "eng": "##Replenishment"
+    },
+    "description": {
+      "chn": "#2（无译文）中位奇迹之一，#3\r\n#2能缓慢恢复施术者HP。#3\r\n#2#3\r\n#2在亲临前线的圣职战士中广为使用，#3\r\n#2由于其泛用性，也被用于治疗病人。#3\r\n#2#3",
+      "jap": "中位の奇跡のひとつ\r\n術者のHPをゆっくりと回復する\r\n\r\n前線に立つ聖職の戦士に広く使われているが\r\nその汎用性から、病人の治療などにも利用される",
+      "eng": "An intermediate miracle.\r\nGradually restores the user's HP.\r\nThough this miracle is commonly used by cleric warriors\r\nfighting on the front lines,\r\nit has a number of other applications,\r\nsuch as treating the sick."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32132000.webp"
+  },
+  {
+    "id": "32140000",
+    "name": {
+      "chn": "雷枪",
+      "jap": "雷の槍",
+      "eng": "Lightning Spear"
+    },
+    "description": {
+      "chn": "投掷雷枪的奇迹。\r\n据说是曾经#2被#3崇拜#2为#3太阳神的一族\r\n留下了这项奇迹。\r\n\r\n曾为#1神眷一族#3#2神之一族#3的名号\r\n如今淹没在时间洪流当中。\r\n即使如此，\r\n太阳依然闪耀不绝。",
+      "jap": "雷の槍を投げる奇跡\r\nかつて太陽の神と崇められた者の一族が\r\nこの奇跡を残したという\r\n\r\nかつての神の一族の名は\r\n時の流れの中に埋もれてしまった\r\nだがそれでも、太陽は決して絶えることなく\r\n輝き続けている",
+      "eng": "A miracle that launches a spear of lightning.\r\nSaid to be the legacy of an ancient clan\r\nwhose leader was revered as the God of Sun.\r\n\r\nThe name of the clan has been lost to time,\r\nbut the gross incandescence of our magnificent\r\nfather shall never wane."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32140000.webp"
+  },
+  {
+    "id": "32141000",
+    "name": {
+      "chn": "###2（无译文）战争#3",
+      "jap": "##戦争",
+      "eng": "##War"
+    },
+    "description": {
+      "chn": "#2（无译文）曾侍奉太阳公主的战士们，#3\r\n#2临死前传授的古老奇迹。#3\r\n#2#3\r\n#2有着一时之间提高施术者与周遭人等的#3\r\n#2攻击与防御力效果。#3",
+      "jap": "かつて太陽の王女に仕えた戦士が\r\n死に際して伝えたとされる古い奇跡\r\n\r\nしばらくの間、術者とその周囲の者の\r\n攻撃力と防御力を高める効果がある",
+      "eng": "An ancient miracle,\r\nsaid to have been passed down by an ancient warrior\r\nin the service of the Princess of Sunlight before his death.\r\n\r\nThis miracle boosts the attack and defense of\r\nthe user and people nearby for a short period of time."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32141000.webp"
+  },
+  {
+    "id": "32150000",
+    "name": {
+      "chn": "巨雷枪",
+      "jap": "雷の大槍",
+      "eng": "Great Lightning Spear"
+    },
+    "description": {
+      "chn": "投掷巨雷枪的奇迹。\r\n据说是曾经#2被#3崇拜#2为#3太阳神的一族\r\n留下了这项奇迹。\r\n\r\n曾为#1神眷一族#3#2神之一族#3的名号\r\n如今淹没在时间洪流当中。\r\n即使如此，\r\n太阳依然闪耀不绝。",
+      "jap": "雷の大槍を投げる奇跡\r\nかつて太陽の神と崇められた者の一族が\r\nこの奇跡を残したという\r\n\r\nかつての神の一族の名は\r\n時の流れの中に埋もれてしまった\r\nだがそれでも、太陽は決して絶えることなく\r\n輝き続けている",
+      "eng": "A miracle that launches a great spear of lightning.\r\nSaid to be the legacy of an ancient clan\r\nwhose leader was revered as the God of Sun.\r\n\r\nThe name of the clan has been lost to time,\r\nbut the gross incandescence of our magnificent\r\nfather shall never wane."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32150000.webp"
+  },
+  {
+    "id": "32160000",
+    "name": {
+      "chn": "阳光之枪",
+      "jap": "太陽の光の槍",
+      "eng": "Sunlight Spear"
+    },
+    "description": {
+      "chn": "投掷阳光之枪的奇迹。\r\n蕴含了极为伟大、特殊的灵魂。\r\n\r\n人称最古老的奇迹之一，\r\n据说从世界诞生以来\r\n便与之同在。",
+      "jap": "太陽の光の槍を投げる奇跡\r\n極めて大きく、特別なソウルの力を宿している\r\n\r\n最も古い奇跡と言われるもののひとつ\r\nそれはかつて世界の始まりと共に\r\nこの世にあったという",
+      "eng": "A miracle that launches a spear of sunlight.\r\nPowered with immense wondrous souls.\r\n\r\nOne of the ancient original miracles,\r\nsaid to have existed from the infancy\r\nof the very world."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32160000.webp"
+  },
+  {
+    "id": "32170000",
+    "name": {
+      "chn": "镇魂",
+      "jap": "鎮魂",
+      "eng": "Soul Appease"
+    },
+    "description": {
+      "chn": "不死灵庙相传的失传奇迹之一，\r\n让失去自我的游魂受到严重伤害。\r\n但是，游魂之外则毫无影响。\r\n\r\n不死灵庙是一切生灵\r\n终将抵达的安息之地。\r\n身受诅咒之人，\r\n也能有抵达此地的一天吗？",
+      "jap": "不死廟にのみ伝わる失われた奇跡\r\n自我を失った亡者に大きなダメージを与える\r\nただし、亡者以外の者には一切効果がない\r\n\r\n不死廟はあらゆる生者が行きつく\r\n安らぎの場である\r\nその身に呪いを受けた者も\r\nいつかはここに来ることができるのだろうか",
+      "eng": "One of the lost miracles preserved only\r\nin the Undead Crypt. Inflicts heavy\r\ndamage on mindless Hollows, but has\r\nno effect on anything else.\r\n\r\nThe Undead Crypt is a place of rest\r\nfor the living. Those afflicted by the curse\r\ncan only pray to one day gain entrance."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32170000.webp"
+  },
+  {
+    "id": "32172000",
+    "name": {
+      "chn": "###2（无译文）雷枪#3",
+      "jap": "##雷の槍",
+      "eng": "##Lightning Spear"
+    },
+    "description": {
+      "chn": "#2（无译文）投掷巨雷枪的奇迹。#3\r\n#2#3\r\n#2自古相传的故事，#3\r\n#2经梅维雅圣职之手添加。#3\r\n#2其威力的源头已经失传，#3\r\n#2是现已无人得知的某个勇士吗？#3",
+      "jap": "雷の大槍を投げる奇跡\r\n\r\n古くから伝わる物語に\r\nメルヴィアの聖職の手が加えられたものだが\r\nその威力の源はよくわかっていない\r\n今は名も知らぬ勇士のものだったのだろうか",
+      "eng": "A miracle that launches\r\na giant spear of lightning.\r\n\r\nThis miracle came into the possession of the\r\nMelfian clergy through ancient lore.\r\nLittle is understood about the source of its power.\r\nPerhaps this miracle belonged to some long-forgotten hero."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32172000.webp"
+  },
+  {
+    "id": "32180000",
+    "name": {
+      "chn": "光辉雷球",
+      "jap": "輝かしい雷球",
+      "eng": "Blinding Bolt"
+    },
+    "description": {
+      "chn": "产生巨大的灵魂块，\r\n并自行转为释放雷电光球的奇迹。\r\n\r\n虽是由悠久远古的太阳神所创，\r\n却遭#1生身之父#3#2创造者自身#3所封印。\r\n显现出来的是激烈的愤怒，还是恸哭呢？",
+      "jap": "巨大なソウルの塊を生みだし\r\n自ら雷を放つ光球に変える奇跡\r\n\r\n遥か古の太陽の神によって生み出されたが\r\n生みだした者自身によって封じられていた\r\nそれは激しい怒りなのか、それとも慟哭だろうか",
+      "eng": "A miracle that creates a giant soul mass\r\nand transforms it into a lightning-spouting\r\norb of light.\r\n\r\nCrafted in ancient times by the God of Sun,\r\nbut later forbidden by the same deity. Was it\r\nto protect the world from hatred, or sorrow?"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32180000.webp"
+  },
+  {
+    "id": "32190000",
+    "name": {
+      "chn": "法术防护",
+      "jap": "魔法防護",
+      "eng": "Magic Barrier"
+    },
+    "description": {
+      "chn": "全身包裹着法术防护膜的奇迹。\r\n提高法术、雷、火、暗属性抵抗。\r\n\r\n传说能获得\r\n「如岩石般」躯体的这项奇迹，\r\n在米勒法术骑士团中广为流传。",
+      "jap": "全身を魔法防護の膜で覆う奇跡\r\n魔法、雷、炎、闇に対する耐性を高める\r\n\r\n「岩のような」身体を得ることができると\r\n伝えられるこの奇跡は、\r\nミラの魔法騎士団に広く伝えられている",
+      "eng": "A miracle encasing the body in a magic barrier.\r\nIncreases resistance to magic, lightning,\r\nfire, and dark.\r\n\r\nThis miracle is said to shield its caster with\r\nthe Rock's armor, and was common\r\namongst the wizard knights of Mirrah."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32190000.webp"
+  },
+  {
+    "id": "32200000",
+    "name": {
+      "chn": "强化法术防护",
+      "jap": "大魔法防護",
+      "eng": "Great Magic Barrier"
+    },
+    "description": {
+      "chn": "相当于「法术防护」高阶版的奇迹。\r\n大幅提高法术、雷、火、暗属性抵抗。\r\n\r\n米勒的骑士被要求施展剑技的荣誉战斗，\r\n同时也是如此自我要求。\r\n法术不过是对付奇袭的手段罢了。",
+      "jap": "「魔法防護」の上位にあたる奇跡\r\n魔法、炎、雷、闇に対する耐性を大きく高める\r\n\r\nミラの騎士たちには\r\n剣技による誇りある戦いが求められ、\r\nまたそのことを自らに課している\r\n魔法は飽くまでも搦め手に対する対抗手段である",
+      "eng": "Superior miracle to Magic Barrier.\r\nIncreases resistance to magic, lightning,\r\nfire, and dark.\r\n\r\nThe knights of Mirrah are expected to fight\r\nhonorably, with reliance only upon swordsmanship.\r\nThey only resort to magic the only time they\r\ntruly need it: to face the magic of an enemy."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32200000.webp"
+  },
+  {
+    "id": "32210000",
+    "name": {
+      "chn": "返回",
+      "jap": "家路",
+      "eng": "Homeward"
+    },
+    "description": {
+      "chn": "返回最后休憩营火的奇迹。\r\n原本则能够回到自己的故乡。\r\n\r\n身受诅咒者，渐渐丧失记忆。\r\n不久，他们连自己的出身地都会忘却，\r\n只剩下营火作为偎伴。",
+      "jap": "最後に休息した篝火に戻る奇跡\r\n本来は故郷への帰還を可能にするもの\r\n\r\n呪いを受けた者は徐々に記憶を失っていく\r\n彼らは自らの生まれすらもやがて忘れ\r\n篝火だけがその寄る辺となる",
+      "eng": "A miracle that returns its caster to the\r\nlast bonfire rested at. Traditionally,\r\nits destination was the caster's homeland.\r\n\r\nThe curse slowly erodes one's memory,\r\nuntil even one's birthplace is reduced to\r\na figment of a clouded past.\r\nBut the bonfires are constant,\r\na beacon for the tragically afflicted."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32210000.webp"
+  },
+  {
+    "id": "32220000",
+    "name": {
+      "chn": "导引之语",
+      "jap": "導きの言葉",
+      "eng": "Guidance"
+    },
+    "description": {
+      "chn": "为了徘徊者而传下来的奇迹。\r\n将显示许多发自其他世界的建言。\r\n\r\n看不见的无数世界，会有轻微交迭。\r\n在不同时间、场所不断徘徊的人们，\r\n借着只言片语互相寄托希望。",
+      "jap": "彷徨える者たちのために伝えられる奇跡\r\n他世界からの助言を多く表示する\r\n\r\n目に見えない無数の世界はわずかに重なりあう\r\n異なる時と場所で彷徨い続ける者たちは\r\n微かな言葉に互いの望みを託す",
+      "eng": "A miracle created to help those who have\r\nlost their way. Reveals more messages\r\nfrom other worlds.\r\n\r\nCountless worlds loosely overlap,\r\nand at the seams of contact, kindred souls,\r\nwho have lost their way, call out to one\r\nanother with fleeting messages of hope."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32220000.webp"
+  },
+  {
+    "id": "32230000",
+    "name": {
+      "chn": "金石之誓",
+      "jap": "固い誓い",
+      "eng": "Sacred Oath"
+    },
+    "description": {
+      "chn": "被认为是曾侍奉太阳神的战士们\r\n编组出来的古老奇迹。\r\n\r\n有着一时之间提高施术者与周遭人等的\r\n攻击与防御力效果。",
+      "jap": "かつて太陽の神に仕えた戦士たちが\r\n編み出したとされる古い奇跡\r\n\r\nしばらくの間、術者とその周囲の者の\r\n攻撃力と防御力を高める効果がある",
+      "eng": "An ancient miracle said to have been devised\r\nby warriors who once served the God of Sun.\r\n\r\nProvides a temporary boost to the attack and\r\ndefense of its caster and all nearby allies."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32230000.webp"
+  },
+  {
+    "id": "32240000",
+    "name": {
+      "chn": "察觉敌意",
+      "jap": "敵意の感知",
+      "eng": "Unveil"
+    },
+    "description": {
+      "chn": "追踪背叛者的奇迹。\r\n知晓入侵暗灵的位置。\r\n\r\n侍奉林德圣院的人们\r\n以严格戒律律己。\r\n此项奇迹乃是\r\n追捕冒渎教诲者之用。",
+      "jap": "裏切り者を追う奇跡\r\nその場から最も近くにいる敵、\r\nまたは侵入してきた闇霊の位置が分かる\r\n\r\nリンデルトの聖院に仕える者たちは\r\n厳しい戒律によって自らを律している\r\nこの奇跡は教えを冒涜する者を\r\n追い詰めるためのものである",
+      "eng": "A miracle that senses traitors.\r\nReveals the location of the nearest enemy,\r\nor invading dark spirit.\r\n\r\nThose who serve the Lindelt Monastery\r\nwillfully adhere to strict commandments.\r\nThis miracle was created to castigate those\r\nwho ignore the righteous teachings."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32240000.webp"
+  },
+  {
+    "id": "32250000",
+    "name": {
+      "chn": "伟大的抵抗",
+      "jap": "大いなる抵抗",
+      "eng": "Perseverance"
+    },
+    "description": {
+      "chn": "全身笼罩着净洁护纱，\r\n一时之间提高对异常状态的抵抗。\r\n\r\n林德的修行者为了宣教与修行，\r\n负有前往外国的使命，\r\n不少人更是一去不返。",
+      "jap": "清らかなヴェールを身にまとい\r\nしばらくの間、状態異常への耐性を高める\r\n\r\nリンデルトの修行者たちは、布教と修練のため\r\n国外に出ることを課せられるが\r\nそのまま戻らない者も少なくない",
+      "eng": "Enwreathes its caster with a pure veil.\r\nGrants temporary resistance to status effects.\r\n\r\nLindelt ascetics are sent to distant lands\r\nfor proselytizing and self-training,\r\nbut many of them decide not to return."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32250000.webp"
+  },
+  {
+    "id": "32260000",
+    "name": {
+      "chn": "阳光之剑",
+      "jap": "太陽の光の剣",
+      "eng": "Sunlight Blade"
+    },
+    "description": {
+      "chn": "远古太阳的奇迹。\r\n将武器以阳光之力强化。\r\n阳光之力，也就是雷电。\r\n\r\n太阳为地表万物带来恩惠，\r\n无论有无信奉之人，\r\n依然不变。",
+      "jap": "古い太陽の奇跡\r\n武器を太陽の光の力で強化する\r\n太陽の光の力とは、すなわち雷である\r\n\r\n太陽は地にあるあらゆるものに恵みをもたらす\r\n太陽を信じる者が絶えてしまったとしても\r\nそれは変わることはない",
+      "eng": "An ancient miracle of the sun.\r\nReinforces weapon in other hand with sunlight,\r\na form of lightning.\r\n\r\nThe sun grants life to all things upon the earth,\r\neven if the worshippers of sunlight no longer\r\nbless the surface with their presence."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32260000.webp"
+  },
+  {
+    "id": "32300000",
+    "name": {
+      "chn": "惜别",
+      "jap": "惜別",
+      "eng": "Denial"
+    },
+    "description": {
+      "chn": "萨尔瓦的神官留下的远古奇迹，\r\n当HP为0时，可保一次不死。\r\n\r\n原本只是一种让将死之人\r\n于弥留之际与今生告别的奇迹。",
+      "jap": "サルヴァの神官が残した古い奇跡\r\nＨＰが０になった時、一度だけ踏みとどまる\r\n\r\n本来は、死にゆく者の今際の際に\r\n別れの時間を与えるための奇跡だった",
+      "eng": "An ancient miracle owed to the cardinal of Shulva.\r\nChallenge fate one time when HP reaches 0.\r\n\r\nOriginally intended to grant the dying\r\na few moments for a final farewell."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32300000.webp"
+  },
+  {
+    "id": "32310000",
+    "name": {
+      "chn": "分裂雷枪",
+      "jap": "裂かれる雷の槍",
+      "eng": "Splintering Lightning Spear"
+    },
+    "description": {
+      "chn": "由始源奇迹发展而来，\r\n可掷出分裂多重的雷。\r\n\r\n古代先贤留下来的远古奇迹\r\n诞生出各式各样的亚流。\r\n这也是其中之一。",
+      "jap": "原初の奇跡を発展させたもの\r\nいくつにも裂ける雷を投げる\r\n\r\n古代の先人が残した古い奇跡から\r\n様々な亜種が生み出された\r\nこれもその一つである",
+      "eng": "Developed from a primal miracle.\r\nLaunch splintering spears of lightning.\r\n\r\nEver since miracles came to be, learned\r\nmen have endeavored to rework and remold\r\nthem to their satisfaction.\r\nThis is one such effort."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/32310000.webp"
+  },
+  {
+    "id": "33010000",
+    "name": {
+      "chn": "火球",
+      "jap": "火球",
+      "eng": "Fireball"
+    },
+    "description": {
+      "chn": "对于有志咒术者来说是一般的咒术。\r\n产生火球，然后投掷。\r\n\r\n使用咒术，\r\n需要装备咒术之火做为触媒，\r\n并将咒术收纳于记忆空格内。\r\n\r\n咒术效果依存于触媒的强弱，\r\n强化状况会使威力有所变化。",
+      "jap": "呪術を志す者にとっては一般的な術\r\n火球を生みだし、投げつける\r\n\r\n呪術を使用するためには、呪術の火を装備し\r\n篝火で呪術を記憶しておく必要がある",
+      "eng": "A standard spell for pyromancers.\r\nCreates a fireball that is hurled at foes.\r\n\r\nTo use pyromancies, equip\r\na pyromancy flame to serve\r\nas the catalyst, and assign\r\na pyromancy to an\r\nattunement slot.\r\n\r\nThe power of a pyromancy is\r\ndirectly affected by the\r\nquality of the catalyst."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33010000.webp"
+  },
+  {
+    "id": "33020000",
+    "name": {
+      "chn": "火弹",
+      "jap": "火の玉",
+      "eng": "Fire Orb"
+    },
+    "description": {
+      "chn": "「火球」强化后的咒术。\r\n产生火球，然后投掷。\r\n\r\n着弹后燃烧更加猛烈的火焰，\r\n连四周都能造成伤害。",
+      "jap": "「火球」を強化した呪術\r\n火球を生みだし、投げつける\r\n着弾した周辺にもダメージを及ぼす\r\n\r\n呪術の効果は呪術の火の力に依存し、\r\n火を強化することで威力が変化する",
+      "eng": "A stronger form of Fireball.\r\nCreates a fireball that is hurled at foes.\r\nAlso inflicts damage to foes near point of\r\ncontact.\r\n\r\nThe power of pyromancies is influenced\r\nby one's pyromancy flame, which can be\r\nstrengthened through reinforcement."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33020000.webp"
+  },
+  {
+    "id": "33030000",
+    "name": {
+      "chn": "大火球",
+      "jap": "大火球",
+      "eng": "Great Fireball"
+    },
+    "description": {
+      "chn": "将「火球」强化至极限的咒术。\r\n产生巨型火球，然后投掷。\r\n\r\n人们渴望火、追求着火，\r\n即使因而引火自焚也在所不惜。",
+      "jap": "「火球」を最大限まで強化した呪術\r\n巨大な火球を生みだし、投げつける\r\n\r\n人は火に焦がれ、それを求める\r\nそれがたとえ自らを焼くことになろうとも",
+      "eng": "The strongest form of Fireball.\r\nCreates a giant fireball that is hurled at foes.\r\n\r\nThe exalted flame, long pined after.\r\nEven if it would scorch our very flesh."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33030000.webp"
+  },
+  {
+    "id": "33040000",
+    "name": {
+      "chn": "混沌大火球",
+      "jap": "混沌の大火球",
+      "eng": "Great Chaos Fireball"
+    },
+    "description": {
+      "chn": "据说连咒术始祖都被吞噬的\r\n混沌火焰#1之孽#3#2技艺#3。\r\n朝对手掷出巨大的混沌火球。\r\n\r\n其特殊的火焰力量，\r\n使得弹着点暂时化为岩浆池。",
+      "jap": "呪術の祖をも飲み込んだと言われる\r\n混沌の炎の業\r\n巨大な混沌の火球を投げつける\r\n\r\nその特別な炎の力は、着弾した場所に\r\n一時的に熔岩溜りを生みだす",
+      "eng": "The chaos flame is said to have\r\ndevoured the mother of pyromancy.\r\nCreate a chaos flame, and hurl it at foes.\r\n\r\nThis special flame creates a short-lived\r\nsurge of molten lava wherever it lands."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33040000.webp"
+  },
+  {
+    "id": "33050000",
+    "name": {
+      "chn": "火焰风暴",
+      "jap": "炎の嵐",
+      "eng": "Firestorm"
+    },
+    "description": {
+      "chn": "遥远时空另一端传下的始源咒术。\r\n施术者周围将喷发火焰柱。\r\n\r\n此股火焰风暴，\r\n据说是创造者的愤怒#1又或是#3#2以及#3憎恶。",
+      "jap": "遥かな時の彼方から伝わる原初の呪術\r\n術者の周囲に炎の柱を吹き上げる\r\n\r\nその炎の嵐はそれを生みだした者の\r\n怒りとも憎悪とも言われている",
+      "eng": "An ancient, primal pyromancy.\r\nPillars of flame erupt near the caster.\r\n\r\nThe Firestorm is said to be the wrath\r\nand ire of the spell's creator."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33050000.webp"
+  },
+  {
+    "id": "33060000",
+    "name": {
+      "chn": "火焰大风暴",
+      "jap": "炎の大嵐",
+      "eng": "Fire Tempest"
+    },
+    "description": {
+      "chn": "遥远时空另一端传下的始源咒术。\r\n施术者周围将喷发火焰巨柱。\r\n\r\n火焰大风暴能烧尽万物。\r\n需要如此威力的对象\r\n究竟是何许人也？",
+      "jap": "遥かな時の彼方から伝わる原初の呪術\r\n術者の周囲に巨大な炎の柱を吹き上げる\r\n\r\n炎の大嵐はあらゆる生物を燃やし尽くす\r\nそれほどの力を要した相手とは\r\n何者だったのだろうか",
+      "eng": "An ancient, primal pyromancy.\r\nGiant pillars of flame erupt near the caster.\r\n\r\nThe fire tempest incinerates all life.\r\nWhat menace was so great as to make\r\nsuch a fearsome spell necessary?"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33060000.webp"
+  },
+  {
+    "id": "33070000",
+    "name": {
+      "chn": "混沌风暴",
+      "jap": "混沌の嵐",
+      "eng": "Chaos Storm"
+    },
+    "description": {
+      "chn": "据说连咒术始祖都被吞噬的\r\n混沌火焰#1之孽#3#2技艺#3。\r\n喷发出多股混沌火柱。\r\n\r\n追求超过己身之力的人，会被力量吞噬。\r\n而那些人又去了什么地方呢？",
+      "jap": "呪術の祖をも飲み込んだと言われる\r\n混沌の炎の業\r\n多数の混沌の炎の柱を吹き上げる\r\n\r\n身に過ぎた力を求めた者は、力に呑み込まれた\r\nその者たちは、何処へ行ったのだろうか",
+      "eng": "The chaos flame is said to have\r\ndevoured the mother of pyromancy.\r\nCreate multiple pillars of chaos flame.\r\n\r\nThose who sought great power were\r\nconsumed by their own desires.\r\nWhere are these lost souls now?"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33070000.webp"
+  },
+  {
+    "id": "33080000",
+    "name": {
+      "chn": "引燃火焰",
+      "jap": "発火",
+      "eng": "Combustion"
+    },
+    "description": {
+      "chn": "咒术师初步的咒术，\r\n在施术者面前引发火焰。\r\n\r\n以咒术而言最是单纯，\r\n但有不可轻忽的威力。",
+      "jap": "呪術師の初歩となる呪術\r\n術者の目の前に炎を発生させる\r\n\r\n呪術としては最も単純なものだが\r\n侮れない威力を持つ",
+      "eng": "An elementary spell for new pyromancers.\r\nReleases flame in front of the caster.\r\n\r\nThe simplest pyromancy of all,\r\nbut surprisingly effective."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33080000.webp"
+  },
+  {
+    "id": "33090000",
+    "name": {
+      "chn": "引燃烈火",
+      "jap": "大発火",
+      "eng": "Great Combustion"
+    },
+    "description": {
+      "chn": "相当于「引燃火焰」高阶版的咒术。\r\n在施术者面前引发烈焰。\r\n\r\n以法术而言，威力很高；\r\n但却太过单纯，不见得容易施展。",
+      "jap": "「発火」の上位にあたる呪術\r\n術者の目の前に強い炎を発生させる\r\n\r\n術としての威力は高いものの\r\nあまりに単純で使い易いとは言い難い",
+      "eng": "Superior spell to Combustion.\r\nReleases intense flame in front of the caster.\r\n\r\nA very powerful spell, but so simple that\r\nit can be awkward to use."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33090000.webp"
+  },
+  {
+    "id": "33100000",
+    "name": {
+      "chn": "横扫火焰",
+      "jap": "薙ぎ払う炎",
+      "eng": "Fire Whip"
+    },
+    "description": {
+      "chn": "遥远时空另一端传下的始源咒术。\r\n在施术者前方引发火焰，如鞭子般横扫。\r\n\r\n据说是火焰咒术的渊源，\r\n但因要求熟练的步法，\r\n精通用法的人并不多。",
+      "jap": "遥かな時の彼方から伝わる原初の呪術\r\n術者の前方に炎を生じさせ、鞭のように薙ぎ払う\r\n\r\n炎の呪術の源流と言われるが\r\n熟練した立ち回りが求められるため\r\n使いこなせる者は少ない",
+      "eng": "An ancient, primal pyromancy.\r\nSweep foes with a whip-like flame.\r\n\r\nOne of the original pyromancies.\r\nEffective use of it demands agile footwork,\r\nmaking it a difficult spell for most."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33100000.webp"
+  },
+  {
+    "id": "33110000",
+    "name": {
+      "chn": "毒雾",
+      "jap": "毒の霧",
+      "eng": "Poison Mist"
+    },
+    "description": {
+      "chn": "来历不明的异端咒术，\r\n能催发毒雾。\r\n\r\n能编组出与他者大异其趣的这项咒术，\r\n该人自然也是异端之流，\r\n不难想像。",
+      "jap": "由来の知れぬ異端の呪術\r\n毒の霧を発生させる\r\n\r\n他の呪術とは趣を異にし、これを編み出した者が\r\nそもそも異端の類であったことは想像に難くない",
+      "eng": "A fringe pyromancy of unknown origin.\r\nCreates a cloud of poison mist.\r\n\r\nThis spell contradicts the very principles of\r\npyromancy, suggesting that its creator\r\nhad a heretical streak."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33110000.webp"
+  },
+  {
+    "id": "33120000",
+    "name": {
+      "chn": "猛毒雾",
+      "jap": "猛毒の霧",
+      "eng": "Toxic Mist"
+    },
+    "description": {
+      "chn": "来历不明的异端咒术，\r\n能催发猛毒雾。\r\n\r\n毒性会慢慢侵蚀对象身体，给予伤害。\r\n编组此咒术的人，心中考虑的\r\n应该不仅只是消灭敌人，或是另有他想。",
+      "jap": "由来の知れぬ異端の呪術\r\n強力な毒の霧を発生させる\r\n\r\n毒は対象の身体を徐々に浸食し、ダメ―ジを与える\r\nこれを編み出した者の中にあったのは\r\n敵を滅ぼすだけでは飽き足らない何かだったのか",
+      "eng": "A fringe pyromancy of unknown origin.\r\nCreates a powerful cloud of poison mist.\r\n\r\nThe poison gradually erodes the target's body,\r\ninflicting damage all the while.\r\nWhoever created this spell did not believe\r\nhis enemies deserved a swift death."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33120000.webp"
+  },
+  {
+    "id": "33121000",
+    "name": {
+      "chn": "###2（无译文）火焰波#3",
+      "jap": "##炎の波",
+      "eng": "##Flame Lash"
+    },
+    "description": {
+      "chn": "#2（无译文）初步的咒术之一。#3\r\n#2#3\r\n#2在施术者前方引发火焰，如鞭子般横扫。#3\r\n#2被多兰古雷格的咒术士兵广泛使用，#3\r\n#2但因射程距离较短要求熟练的步法，#3\r\n#2精通用法的人并不多。#3\r\n#2#3",
+      "jap": "初歩的な呪術のひとつ\r\n\r\n術者の前方に炎を生じさせ、鞭のように薙ぎ払う\r\nドラングレイグの呪術兵に広く用いられたが\r\n射程距離が短く熟練した立ち回りが求められるため\r\n使いこなせる者は少なかった",
+      "eng": "An elementary pyromancy.\r\nSummons a whip of flame in front of the user.\r\n\r\nThough commonly used by the pyromancer soldiers of Drangleic,\r\nfew truly mastered this pyromancy as its short range\r\nrequires practiced maneuvering by the user."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33121000.webp"
+  },
+  {
+    "id": "33122000",
+    "name": {
+      "chn": "###2（无译文）火蛇#3",
+      "jap": "##火蛇",
+      "eng": "##Fire Serpent"
+    },
+    "description": {
+      "chn": "#2（无译文）初步的咒术之一。#3\r\n#2发射会追踪敌人的火焰弹。#3\r\n#2#3\r\n#2原本，火只是种自然的存在，#3\r\n#2像这样会追踪敌人的非常少见。#3",
+      "jap": "初歩的な呪術のひとつ\r\n敵を追尾する炎の玉を放つ\r\n\r\n本来、火はただ自然であろうとする存在であり\r\nこのように敵を追尾する種類のものは珍しい",
+      "eng": "An elementary pyromancy.\r\nLaunches a fireball that chases foes.\r\n\r\nFire is essentially a simple force of nature,\r\nbut flames that chase enemies like this are rare."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33122000.webp"
+  },
+  {
+    "id": "33130000",
+    "name": {
+      "chn": "喷射酸液",
+      "jap": "酸の噴射",
+      "eng": "Acid Surge"
+    },
+    "description": {
+      "chn": "来历不明的异端咒术，\r\n喷射出损伤装备品的酸液。\r\n\r\n不是给对方身体成直接性伤害，\r\n而是腐蚀装备品。\r\n#1也不知#3是谁的怨嗟催生出这项咒术#1。#3#2的吗？#3",
+      "jap": "由来の知れぬ異端の呪術\r\n装備品を傷める酸を噴射する\r\n\r\n相手の身体への直接的なダメージではなく、\r\n装備品を腐食させる\r\nこれもまた、誰かの怨嗟が生み出したものなのか",
+      "eng": "A fringe pyromancy of unknown origin.\r\nSprays an equipment-eroding acid.\r\n\r\nDoes not directly damage foes, but eats away\r\nat their equipment instead. Yet another\r\npyromancy inspired by perniciousness."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33130000.webp"
+  },
+  {
+    "id": "33140000",
+    "name": {
+      "chn": "漂浮火球",
+      "jap": "漂う火球",
+      "eng": "Lingering Flame"
+    },
+    "description": {
+      "chn": "古国奥拉斐斯的大魔法师\r\n史垂德所创造的咒术之一。\r\n释放静止的火球，敌人接近就会爆炸。\r\n\r\n史垂德乃是精通各种#1法术#3#2魔法#3、咒术的\r\n大魔法师，但因其奇特的举止\r\n使他无法常驻于一个地方。",
+      "jap": "古の国オラフィスの大魔術師、\r\nストレイドによって生み出された呪術のひとつ\r\n静止する炎の球を放ち、敵が近づくと爆発する\r\n\r\nストレイドはあらゆる魔術・呪術に精通した\r\n異能の魔術師だったが、その奇特な言動ゆえか\r\nひとつところに留まることはなかった",
+      "eng": "One of the pyromancies devised by Straid,\r\nthe great mage of ancient Olaphis.\r\nRelease a static fireball that explodes when\r\nfoes draw near.\r\n\r\nStraid was an oddly gifted mage, well-versed\r\nin both sorceries and pyromancies, but his\r\ncurious temperament never allowed him\r\nto settle down in one place for very long."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33140000.webp"
+  },
+  {
+    "id": "33141000",
+    "name": {
+      "chn": "###2（无译文）膨胀火弹#3",
+      "jap": "##膨らむ火弾",
+      "eng": "##Swollen Fireball"
+    },
+    "description": {
+      "chn": "#2（无译文）通过传授传承的最古老的咒术之一，#3\r\n#2投掷爆炸的火弹。#3\r\n#2#3\r\n#2非常单纯的咒术，但产生的火焰却十分强大。#3\r\n#2需要施术者有优秀的实力。#3",
+      "jap": "伝承によって伝わる、最も古い呪術のひとつ\r\n爆発する火の玉を投げつける\r\n\r\n極めて単純な呪術だが、生み出す炎は強力であり\r\n術者には優れた素養が求められる",
+      "eng": "One of the most ancient pyromancies,\r\npassed down through word of mouth.\r\nHurls an explosive fireball.\r\n\r\nThough this is an extremely basic pyromancy,\r\nthe power of the flames it produces is such\r\nthat it requires an expert grounding in the art."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33141000.webp"
+  },
+  {
+    "id": "33150000",
+    "name": {
+      "chn": "火焰锤",
+      "jap": "炎の鎚",
+      "eng": "Flame Swathe"
+    },
+    "description": {
+      "chn": "古国奥拉斐斯的大魔法师\r\n史垂德所创造的咒术之一。\r\n以巨大火焰包裹远处敌人，烧成飞灰。\r\n\r\n大魔法师史垂德不收弟子，\r\n只是没头于术法的世界，\r\n也因此丧失了许多他的智慧结晶。",
+      "jap": "古の国オラフィスの大魔術師、\r\nストレイドによって生み出された呪術のひとつ\r\n遠く離れた敵を巨大な炎で包み、焼き払う\r\n\r\n大魔術師ストレイドは一切の弟子を取らず、\r\nただただ術の世界に没頭したため\r\nその叡智の多くは失われている",
+      "eng": "One of the pyromancies devised by Straid,\r\nthe great mage of ancient Olaphis.\r\nGreat flames envelop and immolate faraway foes.\r\n\r\nStraid, always immersed in magic,\r\nnever accepted an apprentice.\r\nAs a result, much of his extensive\r\nknowledge is permanently lost."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33150000.webp"
+  },
+  {
+    "id": "33152000",
+    "name": {
+      "chn": "###2（无译文）引燃烈火#3",
+      "jap": "##大発火",
+      "eng": "##Great Combustion"
+    },
+    "description": {
+      "chn": "#2（无译文）通过传授传承的最古老的咒术之一，#3\r\n#2在施术者面前引发高温火焰。#3\r\n#2#3\r\n#2诞生始源咒术的存在不明，#3\r\n#2这些古老的咒术#3\r\n#2通过无人得知的术师口传流传至今。#3",
+      "jap": "伝承によって伝わる、最も古い呪術のひとつ\r\n術者の目の前に高温の炎を発生させる\r\n\r\n原初の呪術を生んだ存在は不明だが\r\nこうした古い呪術は名も知らぬ術師の\r\n口伝によって今に伝えられている",
+      "eng": "One of the most ancient pyromancies,\r\npassed down through word of mouth.\r\nReleases an intense flame in front of the user.\r\n\r\nIt is unknown who created the first pyromancy,\r\nbut ancient pyromancies such as this are being passed\r\non by an unknown practitioner of the art to this day."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33152000.webp"
+  },
+  {
+    "id": "33160000",
+    "name": {
+      "chn": "封印太阳",
+      "jap": "封じられた太陽",
+      "eng": "Forbidden Sun"
+    },
+    "description": {
+      "chn": "由安第尔的秘仪产生的咒术，\r\n以大爆炸释放烧光周围的巨大火球。\r\n\r\n大得过当的力量\r\n是否真的有其必要？\r\n对于该地的狂人们而言，\r\n或许连思考这个问题都是多余。",
+      "jap": "アン・ディールの秘儀により生まれた呪術\r\n大爆発で周辺を焼き尽くす巨大な火球を放つ\r\n\r\nその大きすぎる力は必要なものだったのか\r\nかの地の狂人たちは、それすら思い起こすことは\r\nなかったのだろう",
+      "eng": "Pyromancy developed in Aldian rites.\r\nFires a giant fireball with a widely\r\nencompassing explosion.\r\n\r\nWhat could possibly justify such excessive\r\ndestructive power? In all likelihood, the madmen\r\nof Aldia never even questioned the need."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33160000.webp"
+  },
+  {
+    "id": "33170000",
+    "name": {
+      "chn": "火焰武器",
+      "jap": "炎の武器",
+      "eng": "Flame Weapon"
+    },
+    "description": {
+      "chn": "#1应用魔法产生的梅维雅#3#2为武器附加火之力的#3咒术，\r\n#1将武器用火强化。#3#2除了武器本身攻击力外，#3\r\n#2更可因火焰造成伤害。#3\r\n\r\n魔法与咒术被认为水火不容，\r\n然而却有说法指出\r\n其渊源由来是同一个。",
+      "jap": "武器に炎の力を付与する呪術\r\n武器本来の攻撃力に加え、\r\n炎によるダメージを与えることができる\r\n\r\n魔術と呪術とは相容れないものとされている\r\nだがその根源となったものは\r\nただひとつのものであったとも言われる",
+      "eng": "Pyromancy that imbues weapon in other hand \r\nwith fire. Adds fire damage to the types of\r\ndamage the weapon already inflicts.\r\n\r\nPyromancy and sorcery are said to be\r\nlike oil and water, but in fact their origins\r\ncan be traced to a common source."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33170000.webp"
+  },
+  {
+    "id": "33180000",
+    "name": {
+      "chn": "剧烈出汗",
+      "jap": "激しい発汗",
+      "eng": "Flash Sweat"
+    },
+    "description": {
+      "chn": "将火之力纳入体内的咒术，\r\n促使惊人流汗，减轻火属性伤害。\r\n\r\n多半在对上操控火焰的咒术师时\r\n派上用场。\r\n虽然模样实在不大雅观。",
+      "jap": "炎の力を体内に取り込む呪術\r\nおびただしい発汗を促し、炎のダメージを軽減する\r\n\r\n多くは炎を操る呪術師と対峙するときには\r\n役に立つだろう\r\n見てくれは少しあれだが",
+      "eng": "A pyromancy that internalizes the power of flame.\r\nSweat profusely, reducing fire damage.\r\n\r\nMost useful when facing other flame-manipulating\r\npyromancers.\r\nJust don't take the looks you get personally."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33180000.webp"
+  },
+  {
+    "id": "33190000",
+    "name": {
+      "chn": "铁身躯",
+      "jap": "鉄の体",
+      "eng": "Iron Flesh"
+    },
+    "description": {
+      "chn": "将火之力纳入体内的咒术，\r\n使身体化为铁，提高防御力与抵抗。\r\n\r\n正如所想，身躯坚硬的代价\r\n是动作极端迟钝。\r\n用错地方的话，就可能是大麻烦。",
+      "jap": "炎の力を体内に取り込む呪術\r\n身体を鉄とすることで、防御力と耐性を向上させる\r\n\r\n察しの通り、堅牢な身体と引き換えに\r\n動きが極端に鈍くなる\r\n使いどころを誤ると、面倒なことになりかねない",
+      "eng": "A pyromancy that internalizes the power of flame.\r\nTurns the body into iron,\r\nincreasing defense and resistance.\r\n\r\nAs one might guess, the rock-solid flesh enabled\r\nby this spell dramatically slows movement.\r\nGuaranteed to cause trouble if used\r\nat an inopportune moment."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33190000.webp"
+  },
+  {
+    "id": "33200000",
+    "name": {
+      "chn": "温暖的火",
+      "jap": "ぬくもりの火",
+      "eng": "Warmth"
+    },
+    "description": {
+      "chn": "不死灵庙相传的失传咒术之一，\r\n产生无害的温暖之火，\r\n接触者可恢复HP。\r\n\r\n火为力量的证明，\r\n也是智慧与温暖的象征。\r\n火将为使用者带来其心中所求。",
+      "jap": "不死廟にのみ伝わる失われた呪術\r\n害意のない、ぬくもりの火を生み出し\r\nそれに触れた者のＨＰを回復する\r\n\r\n炎は力の証であると共に、\r\n知恵とあたたかさの象徴でもある\r\n炎はそれを扱う者が求めるものをもたらすのだ",
+      "eng": "One of the lost pyromancies preserved only\r\nin the Undead Crypt. Creates a gentle,\r\nwarm flame that heals those who touch it.\r\n\r\nFire can be a show of strength, but it is\r\nalso a symbol of wisdom and comfort.\r\nFire is what the caster wishes it be."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33200000.webp"
+  },
+  {
+    "id": "33210000",
+    "name": {
+      "chn": "焚身火",
+      "jap": "身を焦がす火",
+      "eng": "Immolation"
+    },
+    "description": {
+      "chn": "使火焰包裹自身，烧光靠近之人的咒术。\r\n当然，这将伴随着巨大的危险，\r\n燃烧期间HP将减少。\r\n\r\n如果某样事物\r\n值得自焚其身去获得，\r\n将不会有人阻止。",
+      "jap": "自らの身体を炎に包み、近寄る者を焼き尽くす呪術\r\n当然ながら大きな危険を伴い、\r\n燃えている間はＨＰが減少する\r\n\r\n自らを焼き尽くしてでも\r\n手に入れるべきものがあるというのなら\r\n誰もそれを止めはしない",
+      "eng": "A pyromancy that creates a coating of flame,\r\nallowing the caster to incinerate nearby foes.\r\nNeedless to say, this is a perilous spell\r\nthat burns the caster while active.\r\n\r\nIf a person is truly desirous of something,\r\nperhaps being set on fire does not seem so bad."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33210000.webp"
+  },
+  {
+    "id": "33300000",
+    "name": {
+      "chn": "火蛇",
+      "jap": "火蛇",
+      "eng": "Fire Snake"
+    },
+    "description": {
+      "chn": "侍奉铁之古王的术士\r\n艾吉尔所创出的咒术，\r\n在施术者前方施放多支火柱。\r\n\r\n艾吉尔对于火\r\n有着近似意志般的追求。\r\n譬如，将如同蛇咬猎物般的动作\r\n取名为火蛇，影响可见一斑。",
+      "jap": "鉄の古王に仕えた術師\r\nエギルが生み出した呪術\r\n術者の正面にいくつもの火柱を放つ\r\n\r\nエギルは火に対して\r\n意思にも似たものを求めた\r\n例えば、獲物に咬みつく蛇のような動きを\r\n火蛇という名はその名残である",
+      "eng": "Pyromancy created by the magus Eygil,\r\nloyal follower of the Old Iron King.\r\nCreates several pillars of flame\r\nin front of the caster.\r\n\r\nEygil sought to grant fire a will of its own.\r\nThis pyromancy was conjured up to behave\r\nlike a snake, writhing toward its prey,\r\nwith a mind to strike."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33300000.webp"
+  },
+  {
+    "id": "33310000",
+    "name": {
+      "chn": "舞蹈之火",
+      "jap": "舞踏の火",
+      "eng": "Dance of Fire"
+    },
+    "description": {
+      "chn": "侍奉铁之古王的术士\r\n艾吉尔所创出的咒术，\r\n以火烧尽目的地点。\r\n\r\n施展的火有如舞蹈，\r\n命中者也会因而舞蹈。",
+      "jap": "鉄の古王に仕えた術師\r\nエギルが生み出した呪術\r\n狙った地点を火で薙ぎ払う\r\n\r\nその火は舞踏のようにも見え\r\n捕らえられた者も踊らせる",
+      "eng": "Pyromancy created by the magus Eygil,\r\nloyal follower of the Old Iron King.\r\nCast flame in a sweeping motion across\r\na targeted area.\r\n\r\nThe fire seems to dance, and makes its\r\nvictims dance with it."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33310000.webp"
+  },
+  {
+    "id": "33320000",
+    "name": {
+      "chn": "咆哮",
+      "jap": "咆哮",
+      "eng": "Outcry"
+    },
+    "description": {
+      "chn": "「煤炭」娜德拉保有的咒术，\r\n可扬起多股暗火。\r\n\r\n拥有强大力量的暗之堕子，\r\n在没有王与灵魂之地\r\n也只能就此凋零。",
+      "jap": "煤のナドラが有した呪術\r\nいくつもの闇の炎を吹き上げる\r\n\r\n強大な力を持っていた闇の子も\r\n王とソウルの無い地では\r\n散り果てるしかなかった",
+      "eng": "A pyromancy of Nadalia, Bride of Ash.\r\nSpouts multiple Dark flames.\r\n\r\nThis child of Dark, bearing inconceivable\r\nstrength, found herself in a kingless land\r\ndevoid of souls. And in journeying there, has\r\nall but condemned herself to a fate most wretched."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/33320000.webp"
+  },
+  {
+    "id": "34010000",
+    "name": {
+      "chn": "暗珠",
+      "jap": "闇の球",
+      "eng": "Dark Orb"
+    },
+    "description": {
+      "chn": "#2被认为是暗术之祖的#3#1暗术师#3几利亚\r\n根据远古魔法产生的暗术。\r\n释放厚重的暗珠。\r\n\r\n#1暗术为魔术、奇迹的变异，#3\r\n#1但其样貌大大不同。#3\r\n\r\n使用暗术，\r\n需要装备杖或圣铃做为触媒，\r\n并将暗术收纳于记忆空格内。\r\n\r\n触媒：　杖",
+      "jap": "闇術の祖とされるギリアが\r\n古い魔術を元に生み出した闇術\r\n重い闇の球を放つ\r\n\r\n闇術を使用するためには、杖か聖鈴を装備し\r\n篝火で闇術を記憶しておく必要がある\r\n必要な装備は、術によって異なる\r\n\r\n触媒：杖",
+      "eng": "A hex modified from an old sorcery by\r\nGilleah, the father of Hexing.\r\nFires a heavy orb of darkness.\r\n\r\nTo use hexes, equip a sacred chime or staff,\r\nand attune a hex at a bonfire.\r\nRequired equipment depends on hex.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34010000.webp"
+  },
+  {
+    "id": "34020000",
+    "name": {
+      "chn": "黑暗飞沫",
+      "jap": "闇の飛沫",
+      "eng": "Dark Hail"
+    },
+    "description": {
+      "chn": "暗术师几利亚根据远古魔法产生的暗术。\r\n释放多颗暗珠。\r\n\r\n暗术据说原本是魔法或奇迹形式的一种，\r\n但被认为扭曲生命常理而产生，\r\n目前被许多国家视为禁忌。\r\n\r\n触媒：　杖",
+      "jap": "闇術師ギリアが古い魔術を元に生み出した闇術\r\nいくつもの闇の球を放つ\r\n\r\n闇術は元は魔術・奇跡の一形態だったと言われる\r\nしかし、生命の理に歪みを生み出すものとされ\r\n今は多くの国で禁忌とされている\r\n\r\n触媒：杖",
+      "eng": "A hex modified from an old sorcery by\r\nGilleah the Hexer.\r\nFires several orbs of darkness.\r\n\r\nHexing is rooted in both sorcery and\r\nmiracles, but is viewed as a perilous affront\r\nto all life, and banned in most lands.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34020000.webp"
+  },
+  {
+    "id": "34030000",
+    "name": {
+      "chn": "暗毒雾",
+      "jap": "闇の霧",
+      "eng": "Dark Fog"
+    },
+    "description": {
+      "chn": "一时之间催发雾气的的暗术。\r\n吸入雾气者，身体立即遭到毒性侵蚀。\r\n\r\n由于效果类似，被人视为具有毒性，\r\n实际上是最为根源性的部分遭到侵蚀。\r\n暗术所以被视为禁忌，就在于此。\r\n\r\n触媒：　杖",
+      "jap": "周囲に霧を生じさせる闇術\r\n霧を吸った者の身体は、立ち所に毒に蝕まれる\r\n\r\n効果が似ていることから毒とされるが\r\n実際はより本質的なものが蝕まれている\r\n闇術が禁忌とされる所以はこうしたところにある\r\n\r\n触媒：杖",
+      "eng": "A hex that releases a temporary localized mist.\r\nThose who breathe in the mist are instantly\r\nassailed by poison.\r\n\r\nThis hex is regarded as a poison due to\r\nthe outward symptoms, but in fact the mist\r\neats away at the target's inner essence.\r\nJust the traits that led to the prohibition\r\nof hexing.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34030000.webp"
+  },
+  {
+    "id": "34040000",
+    "name": {
+      "chn": "#1追踪众#3#2追踪者#3",
+      "jap": "追う者たち",
+      "eng": "Affinity"
+    },
+    "description": {
+      "chn": "根据远古魔法而创造的高阶暗术，\r\n发射持续追踪目标的「拥有意志的黑暗」。\r\n\r\n那是某种情绪的集合体，\r\n或者是怒，或者是爱。\r\n\r\n触媒：　杖",
+      "jap": "古い魔術を元に生み出された上位の闇術\r\n生み出された闇は意思を持つかのように\r\n目標を追い続ける\r\n\r\nそれは何かの情念の塊のようなものである\r\nそれは怒りであり、あるいは愛かもしれない\r\n\r\n触媒：杖",
+      "eng": "An advanced hex based on an ancient sorcery.\r\nCreates a dark mass that seems to pursue\r\nits target with a will of its own.\r\n\r\nIt appears to be a manifestation of an emotion.\r\nPerhaps of hate, perhaps of love.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34040000.webp"
+  },
+  {
+    "id": "34050000",
+    "name": {
+      "chn": "死者活化",
+      "jap": "死者の活性",
+      "eng": "Dead Again"
+    },
+    "description": {
+      "chn": "作用于失去生命的尸骸，\r\n以黑暗火焰造成爆炸的暗术。\r\n\r\n作弄生命的这项术法，\r\n在暗术当中尤其遭人忌讳。\r\n\r\n触媒：　杖",
+      "jap": "生命の抜け落ちた死骸に働きかけ\r\n闇の炎で爆発させる闇術\r\n\r\n生命を愚弄するこの術は闇術のなかでも\r\n特に忌み嫌われる\r\n\r\n触媒：杖",
+      "eng": "Hex that casts a dark flame upon corpses,\r\ncausing them to combust violently.\r\n\r\nHexes such as these, that tamper with\r\nlife itself, are particularly abhorred.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34050000.webp"
+  },
+  {
+    "id": "34060000",
+    "name": {
+      "chn": "黑暗武器",
+      "jap": "闇の武器",
+      "eng": "Dark Weapon"
+    },
+    "description": {
+      "chn": "经由暗术师菲尔金的研究，\r\n由「法术武器」转化而来的暗术。\r\n将武器用黑暗强化。\r\n\r\n修习暗术者，\r\n被所有魔法师视为异端。\r\n然而，为此着迷者却是络绎不绝。\r\n\r\n触媒：　杖",
+      "jap": "闇術師フェルキンの手により\r\n「魔法の武器」が闇術に転化されたもの\r\n武器本来の攻撃力に加え、\r\n闇の力によるダメージを与えることができる\r\n\r\n闇術を修める者は、あらゆる魔術師から\r\n異端として扱われる\r\nだがそれに魅入られる者は後を絶たない\r\n\r\n触媒：杖",
+      "eng": "Felkin the Outcast applied his art\r\nto transform Magic Weapon into a hex.\r\nAdds dark damage to the types of damage\r\nthe weapon already inflicts.\r\n\r\nThose who choose the path of dark\r\nare admonished by all manner of sorcerers.\r\nBut this does not stop the curious from\r\nbeing drawn to this strangely alluring craft.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34060000.webp"
+  },
+  {
+    "id": "34070000",
+    "name": {
+      "chn": "失望呢喃",
+      "jap": "失望の囁き",
+      "eng": "Whisper of Despair"
+    },
+    "description": {
+      "chn": "施放「黑暗倾吐」的暗术。\r\n黑暗将呢喃着失望的话语，\r\n使敌人防御力下降。\r\n\r\n黑暗带来的是昏暗，\r\n但却也是某种静谧与安稳。\r\n\r\n触媒：　杖",
+      "jap": "「語りかける闇」を放つ闇術\r\n闇は失望の言葉をささやき、\r\n敵の防御力を低下させる\r\n\r\n闇のもたらすものは暗い\r\nだがそれは静謐で穏やかな何かでもある\r\n\r\n触媒：杖",
+      "eng": "A hex that releases verbose darkness.\r\nThe darkness echoes words of despair,\r\nreducing the defense of opponents.\r\n\r\nThe Dark blankets the world in black.\r\nA thing of tranquility, a thing serene.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34070000.webp"
+  },
+  {
+    "id": "34080000",
+    "name": {
+      "chn": "反作用",
+      "jap": "反動",
+      "eng": "Repel"
+    },
+    "description": {
+      "chn": "造成四周空气扭曲的暗术。\r\n极短时间内使所有伤害无效化。\r\n\r\n#1人们认为暗术始祖是魔法师几利亚，#3\r\n#1但不知是真是假。#3\r\n#2暗术师几利亚孤身一人，没有弟子，#3\r\n#2其功绩传承的经过充满了谜团。#3\r\n#2或许，暗术其实是由别处诞生也说不定。#3\r\n\r\n触媒：　杖",
+      "jap": "周囲の大気に歪みを与える闇術\r\nほんの一刻、すべてのダメージを無効にする\r\n\r\n闇術師ギリアには、ただひとりとして弟子はおらず、\r\nその業が伝えられた経緯も謎に包まれている\r\nあるいは闇の術とは、どこか別のところから\r\n生まれたものなのかもしれない\r\n\r\n触媒：杖",
+      "eng": "A hex that distorts local space.\r\nFor a brief moment, no damage can be inflicted.\r\n\r\nThe hexer Gilleah took no apprentice, and it is\r\nunclear how his spells were passed down.\r\nIt is even possible that hexes originated from\r\nanother source altogether.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34080000.webp"
+  },
+  {
+    "id": "34090000",
+    "name": {
+      "chn": "扭曲护壁",
+      "jap": "歪曲した防壁",
+      "eng": "Twisted Barricade"
+    },
+    "description": {
+      "chn": "使四周空气发生扭曲的暗术，\r\n极短时间内能弹开咒文。\r\n\r\n暗术师几利亚孤身一人，没有弟子，\r\n其功绩传承的经过充满了谜团。\r\n或许，暗术其实是由别处诞生也说不定。\r\n\r\n触媒：　杖",
+      "jap": "周囲の大気に歪みを与える闇術\r\nほんの一刻、スペルを弾く\r\n\r\n闇術師ギリアには、ただひとりとして弟子はおらず、\r\nその業が伝えられた経緯も謎に包まれている\r\nあるいは闇の術とは、どこか別のところから\r\n生まれたものなのかもしれない\r\n\r\n触媒：杖",
+      "eng": "A hex that distorts local space.\r\nFor a brief moment, spells are deflected.\r\n\r\nHexer Gilleah never took an apprentice, making\r\nit unclear how his spells were passed down.\r\nIt is even possible that hexes came from\r\nanother source entirely.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34090000.webp"
+  },
+  {
+    "id": "34100000",
+    "name": {
+      "chn": "神经激烈迟钝",
+      "jap": "激しい鈍麻",
+      "eng": "Numbness"
+    },
+    "description": {
+      "chn": "使自身肉体变质的暗术。\r\n一定时间内可减少受到的伤害，\r\n同时也会让自身视野变暗。\r\n\r\n眼不见为净\r\n或许是种偏见，\r\n然而世间此类事物不知凡几。\r\n\r\n触媒：　杖",
+      "jap": "自らの肉体を変質させる闇術\r\n一定時間、受けるダメージを減少させる\r\nただし、自らの視界も暗くなってしまう\r\n\r\n見えないものは存在しない\r\nただの思い込みであるが、そうでないものが\r\nどれほどこの世にあるだろうか\r\n\r\n触媒：杖",
+      "eng": "A hex that transforms its caster's flesh.\r\nTemporarily reduces received damage,\r\nbut darkens one's sight.\r\n\r\nIf it cannot be observed, it does not exist.\r\nCertainly a common conception, but one\r\nwith far too many exceptions in this world.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34100000.webp"
+  },
+  {
+    "id": "34111000",
+    "name": {
+      "chn": "###2（无译文）黑暗防护#3",
+      "jap": "##闇の防護",
+      "eng": "##Dark Barrier"
+    },
+    "description": {
+      "chn": "#2（无译文）初步的暗术，#3\r\n#2施术者周围产生黑暗的防护，#3\r\n#2可以弹飞咒术火焰。#3\r\n#2#3\r\n#2暗术据说原本是魔法形式的一种，#3\r\n#2但被认为扭曲生命常理而产生，#3\r\n#2目前被许多国家视为禁忌。#3",
+      "jap": "初歩的な闇術\r\n術者の周囲に闇の防護を発生させ\r\n呪術の炎を弾き飛ばす\r\n\r\n闇術は元は魔術の一形態だったと言われる\r\nしかし、生命の理に歪みを生み出すものとされ\r\n今は多くの国で禁忌とされている",
+      "eng": "An elementary hex.\r\nManifests a barrier of darkness around\r\nthe user that reflects pyromancy flames.\r\n\r\nIt is said that hexes originated as a form of sorcery.\r\nHowever, they were claimed to pervert the nature of life,\r\nand now hexes are forbidden in most countries."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34111000.webp"
+  },
+  {
+    "id": "34121000",
+    "name": {
+      "chn": "###2（无译文）暗珠#3",
+      "jap": "##闇の球",
+      "eng": "##Dark Orb"
+    },
+    "description": {
+      "chn": "#2（无译文）暗术师几利亚传承的暗术，#3\r\n#2释放厚重的暗珠。#3\r\n#2#3\r\n#2着弹后暗珠中产生冲击波，#3\r\n#2并夺取对象的精力。#3",
+      "jap": "闇術師ギリアにより伝えられた闇術\r\n重い闇の球を放つ\r\n\r\n着弾した闇の球からは衝撃波が発生し\r\n対象のスタミナも奪い取る",
+      "eng": "A hex passed down by the Galio the Hexer.\r\nFires a weighty orb of darkness.\r\n\r\nThe orb releases a shockwave on impact,\r\ndraining the stamina of its target."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34121000.webp"
+  },
+  {
+    "id": "34152000",
+    "name": {
+      "chn": "###2（无译文）冰冷雾气#3",
+      "jap": "##冷たい霧",
+      "eng": "##Bitter Mist"
+    },
+    "description": {
+      "chn": "#2（无译文）一时之间催发雾气的的暗术。#3\r\n#2吸入雾气者，身体立即遭到毒性侵蚀。#3\r\n#2#3\r\n#2由于效果类似，被人视为具有毒性，#3\r\n#2实际上是肉体根源性的部分遭到侵蚀。#3\r\n#2暗术所以被视为禁忌，就在于此。#3",
+      "jap": "一時的に霧を生じさせる闇術\r\n霧を吸った者の身体は、立ち所に毒に蝕まれる\r\n\r\n効果が似ていることから毒とされるが\r\n実際は肉体の本質が蝕まれている\r\n闇術が禁忌とされる所以はこういったところにある",
+      "eng": "A hex that releases a temporary mist.\r\nThose who breath in the mist are instantly assailed by poison.\r\n\r\nThat said, though the hex is generally\r\nregarded as a poison due to its effects,\r\nthe mist actually eats away at the target's physical essence.\r\nIt is traits such as this that\r\nled to hexes becoming a forbidden art."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34152000.webp"
+  },
+  {
+    "id": "34300000",
+    "name": {
+      "chn": "暗之大剑",
+      "jap": "闇の大剣",
+      "eng": "Dark Greatsword"
+    },
+    "description": {
+      "chn": "以远古魔法为基础诞生的暗术，\r\n如剑技般施展暗之力。\r\n\r\n浓缩释放后，\r\n暗却呈现如一闪光芒的异象，\r\n而其本质应该是黑暗静谧才是。\r\n\r\n触媒：　杖",
+      "jap": "古い魔術を元に生み出された闇術\r\n闇の力を剣技のように扱う\r\n\r\n凝縮されて放たれた闇は\r\n光の一閃のような異様を見せる\r\n闇は本来、暗く静謐なものであるはずなのに\r\n\r\n触媒：杖",
+      "eng": "Hex adapted from an ancient sorcery.\r\nBrandish Dark like a sword.\r\n\r\nBy its nature Dark is normally tranquil,\r\nbut this hex releases a focused blade\r\nof Dark in an uncharacteristic flash\r\nof brilliance.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34300000.webp"
+  },
+  {
+    "id": "34310000",
+    "name": {
+      "chn": "回忆",
+      "jap": "追憶",
+      "eng": "Recollection"
+    },
+    "description": {
+      "chn": "由暗之堕子们带来的暗术，\r\n释放多颗能追踪的暗珠。\r\n\r\n为暗赋予暂时性意志的术法\r\n很就之前就存在，其创造者\r\n在暗之堕子们的回忆中依然健在。\r\n\r\n触媒：　杖",
+      "jap": "闇の子らがもたらした闇術\r\n追尾する闇の球をいくつも放つ\r\n\r\n闇に仮初の意思を持たせる術は\r\n古くから在ったが、その創造者は\r\n闇の子らの追憶の中に今も存在している\r\n\r\n触媒：杖",
+      "eng": "Hex created by the children of Dark.\r\nFire multiple Dark orbs that seek their target.\r\n\r\nHexes that grant a fleeting volition to Dark\r\nhave existed from ancient times,\r\nand it appears that the children of Dark\r\nhave some recollection of the creator\r\nof these spells.\r\n\r\nCatalyst: staff"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/34310000.webp"
+  },
+  {
+    "id": "35010000",
+    "name": {
+      "chn": "生命残渣",
+      "jap": "生命の残滓",
+      "eng": "Scraps of Life"
+    },
+    "description": {
+      "chn": "被视为魔法师异端并留下传承的\r\n那瓦蓝的秘术，\r\n唤醒沉眠地底的远古死者之魂。\r\n\r\n#1它们的呐喊危及有形万物，#3\r\n#1威胁其存续。#3\r\n#2异端那瓦蓝及其一族都被处刑，#3\r\n#2连名字都被视为禁忌。#3\r\n#2一种说法是，#3\r\n#2他在追求被视为禁忌的转生秘术。#3\r\n\r\n\r\n触媒：　圣铃",
+      "jap": "魔術師の異端として伝承に残る\r\nナヴァーランの秘術\r\n地に眠る古い死者の魂を呼び醒ます\r\n\r\n異端者ナヴァーランは、一族諸共に処刑され、\r\nその名は禁じられたものとなった\r\n一説には、彼は禁忌とされる\r\n転生の秘術を追い求めていたという\r\n\r\n触媒：聖鈴",
+      "eng": "An esoteric spell created by Navlaan,\r\nthe infamous exiled sorcerer.\r\nAwakens the souls of the long-buried dead.\r\n\r\nThe heretic Navlaan was executed along with\r\nhis entire village, and the mere utterance of\r\nhis name became a crime. Some say it was\r\nbecause he sought to restore the banned art\r\nof resurrection.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35010000.webp"
+  },
+  {
+    "id": "35020000",
+    "name": {
+      "chn": "黑暗风暴",
+      "jap": "闇の嵐",
+      "eng": "Darkstorm"
+    },
+    "description": {
+      "chn": "被视为魔法师异端并留下传承的\r\n那瓦蓝的秘术，\r\n对四周施放肆虐的黑暗火焰。\r\n\r\n#1若非对死者同时信仰与冒渎，#3\r\n#1将无法点燃这份黑暗火焰。#3\r\n#2异端那瓦蓝及其一族都被处刑，#3\r\n#2连名字都被视为禁忌。#3\r\n#2一种说法是，#3\r\n#2他在追求被视为禁忌的转生秘术。#3\r\n\r\n\r\n触媒：　圣铃",
+      "jap": "魔術師の異端として伝承に残る\r\nナヴァーランの秘術\r\n周囲に渦巻く闇の炎を放つ\r\n\r\n異端者ナヴァーランは、一族諸共に処刑され、\r\nその名は禁じられたものとなった\r\n一説には、彼は禁忌とされる\r\n転生の秘術を追い求めていたという\r\n\r\n触媒：聖鈴",
+      "eng": "An esoteric spell created by Navlaan,\r\nthe infamous exiled sorcerer.\r\nCreates a local vortex of dark flame.\r\n\r\nThe heretic Navlaan was executed along with\r\nhis entire village, and the mere utterance of\r\nhis name became a crime. Some say it was\r\nbecause he sought to restore the banned art\r\nof resurrection.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35020000.webp"
+  },
+  {
+    "id": "35030000",
+    "name": {
+      "chn": "灵魂共鸣",
+      "jap": "ソウルの共鳴",
+      "eng": "Resonant Soul"
+    },
+    "description": {
+      "chn": "扭曲生命之力的暗术，\r\n以定量灵魂为代价，施放黑暗。\r\n\r\n身上没有灵魂亦可施展，\r\n但威力将大幅减弱。\r\n\r\n触媒：　圣铃",
+      "jap": "生命の力を捻じ曲げる闇術\r\n一定のソウルと引き換えに、闇を放つ\r\n\r\nソウルを持たなくても使うことは可能\r\nただし、威力は極端に落ちる\r\n\r\n触媒：聖鈴",
+      "eng": "A hex that distorts the power of life.\r\nEmits a dark mass at the cost of souls.\r\n\r\nCan be used even without souls,\r\nbut at greatly reduced strength.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35030000.webp"
+  },
+  {
+    "id": "35040000",
+    "name": {
+      "chn": "强烈灵魂共鸣",
+      "jap": "ソウルの大きな共鳴",
+      "eng": "Great Resonant Soul"
+    },
+    "description": {
+      "chn": "扭曲生命之力的暗术，\r\n以定量灵魂为代价，施放巨大黑暗。\r\n\r\n身上没有灵魂亦可施展，\r\n但威力将大幅减弱。\r\n\r\n触媒：　圣铃",
+      "jap": "生命の力を捻じ曲げる闇術\r\n一定のソウルと引き換えに、大きな闇を放つ\r\n\r\nソウルを持たなくても使うことは可能\r\nただし、威力は極端に落ちる\r\n\r\n触媒：聖鈴",
+      "eng": "A hex that distorts the power of life.\r\nEmits a large mass of dark at the cost of souls.\r\n\r\nCan be used even without souls,\r\nbut at greatly reduced strength.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35040000.webp"
+  },
+  {
+    "id": "35050000",
+    "name": {
+      "chn": "亢奋",
+      "jap": "絶頂",
+      "eng": "Climax"
+    },
+    "description": {
+      "chn": "扭曲生命之力的暗术，\r\n以全灵魂为代价，施放巨大黑暗。\r\n\r\n威力随着根据灵魂持有多寡而变化，\r\n必须有相当的心理准备，自不待言。\r\n\r\n触媒：　圣铃",
+      "jap": "生命の力を捻じ曲げる闇術\r\nすべてのソウルと引き換えに、闇を放つ\r\n\r\nソウルの量に応じて威力は変化する\r\n言うまでもないが、相応の決意を持って使用すべき\r\n\r\n触媒：聖鈴",
+      "eng": "A hex that distorts the power of life.\r\nEmits a mass of dark, but at the cost of all souls.\r\n\r\nStrength varies depending on the number\r\nof souls. Not a hex to be used lightly.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35050000.webp"
+  },
+  {
+    "id": "35060000",
+    "name": {
+      "chn": "躯体共鸣",
+      "jap": "共鳴する体",
+      "eng": "Resonant Flesh"
+    },
+    "description": {
+      "chn": "暗术师菲尔金独创的暗术，\r\n一时之间将定量灵魂转化为自身HP。\r\n\r\n为了获得某样事物，\r\n经常要被迫丧失另一些事物。\r\n然而即便是丧失，\r\n却不见得必有所获。\r\n\r\n触媒：　圣铃",
+      "jap": "闇術師フェルキンが独自に生み出した闇術\r\n一定のソウルを、しばらくの間ＨＰに転化する\r\n\r\n何かを得るためには、\r\n何かを失うことを強いられるのが常である\r\n\r\n触媒：聖鈴",
+      "eng": "A hex developed independently by Outcast Felkin.\r\nTransforms a certain number of souls\r\ninto HP over a period of time.\r\n\r\nSomething gained, something lost.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35060000.webp"
+  },
+  {
+    "id": "35070000",
+    "name": {
+      "chn": "武器共鸣",
+      "jap": "共鳴する武器",
+      "eng": "Resonant Weapon"
+    },
+    "description": {
+      "chn": "暗术师菲尔金独创的暗术，\r\n一时之间将定量灵魂转化为攻击力。\r\n\r\n为了获得某样事物，\r\n经常要被迫丧失另一些事物。\r\n然而即便是丧失，\r\n却不见得必有所获。\r\n\r\n触媒：　圣铃",
+      "jap": "闇術師フェルキンが独自に生み出した闇術\r\n一定のソウルを、しばらくの間攻撃力に転化する\r\n\r\n何かを得るためには、\r\n何かを失うことを強いられるのが常である\r\n\r\n触媒：聖鈴",
+      "eng": "A hex developed independently by Outcast Felkin.\r\nTransforms a certain number of souls\r\ninto attack power over a period of time.\r\n\r\nSomething gained, something lost.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35070000.webp"
+  },
+  {
+    "id": "35080000",
+    "name": {
+      "chn": "吸精微光",
+      "jap": "小さな吸精の光",
+      "eng": "Lifedrain Patch"
+    },
+    "description": {
+      "chn": "消耗定量灵魂使黑暗固定于一地，\r\n触碰黑暗者将受到伤害。\r\n\r\n人类亲手创造的扭曲黑暗，\r\n将吸取触摸者的生命。\r\n\r\n触媒：　圣铃",
+      "jap": "一定のソウルを消費して闇を場に定着させる\r\n闇に触れたものはダメージを受ける\r\n\r\n人の手で生みだされた歪んだ闇は\r\n触れた者の生命を吸い取る\r\n\r\n触媒：聖鈴",
+      "eng": "Consume a number of souls and\r\naffix dark to a certain spot.\r\nInflicts damage upon those who touch it.\r\n\r\nThis distorted dark, brewed by hexers,\r\ndrains the life-force of those who touch it.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35080000.webp"
+  },
+  {
+    "id": "35090000",
+    "name": {
+      "chn": "深层沉默",
+      "jap": "深い沈黙",
+      "eng": "Profound Still"
+    },
+    "description": {
+      "chn": "遭到放逐的圣职编成的暗术，\r\n封锁四周之人的咒文。\r\n\r\n诞生自屈辱与嫉妒的这项术法，\r\n乃是昏暗的情绪集合体，\r\n然而，却也是生命的型态。\r\n\r\n触媒：　圣铃",
+      "jap": "追放された聖職によって編み出された闇術\r\n周囲にいる者のスペルを封じる\r\n\r\n屈辱と嫉妬の中で生み出されたこの術は\r\n暗い情念の塊である\r\nだがそれもまた、生命の形なのだろう\r\n\r\n触媒：聖鈴",
+      "eng": "A hex created by an ostracized cleric.\r\nBlocks the spells of nearby casters.\r\n\r\nThis hex, born of jealousy and humiliation,\r\nis a locus of dark thoughts. The very things\r\nthat reflect the true essence of life itself.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35090000.webp"
+  },
+  {
+    "id": "35111000",
+    "name": {
+      "chn": "###2（无译文）沉重的黑暗#3",
+      "jap": "##重たい闇",
+      "eng": "##Dark Burden"
+    },
+    "description": {
+      "chn": "#2（无译文）暗术师几利亚传承的暗术，#3\r\n#2周遭的重力瞬间加倍，#3\r\n#2使生物身体的负担加重。#3\r\n#2#3\r\n#2这黑暗也会侵蚀施术者自身，#3\r\n#2施术者的最大HP将减少。#3",
+      "jap": "闇術師ギリアにより伝えられた闇術\r\n周囲の重力を瞬間的に倍増させ\r\n生物の身体を重くする\r\n\r\nこの闇は術者自らをも蝕み、\r\n術者の最大HPが減少する",
+      "eng": "A hex passed down by Galio the Hexer.\r\nInstantly doubles the gravitational force\r\nexerted within a certain area,\r\nmaking the creatures within heavier.\r\n\r\nThis darkness eats away at the user as well,\r\nreducing the user's maximum HP."
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35111000.webp"
+  },
+  {
+    "id": "35300000",
+    "name": {
+      "chn": "必然的和平足迹",
+      "jap": "約束された平和の歩み",
+      "eng": "Promised Walk of Peace"
+    },
+    "description": {
+      "chn": "根据由来不详的太古奇迹\r\n创造出来的暗术。\r\n让施术者及周围的人步伐缓慢。\r\n\r\n虽然互有敌意，\r\n却紧紧对瞪而不致出手。\r\n这，就是和平。\r\n\r\n触媒：　圣铃",
+      "jap": "由来の知れぬ太古の奇跡を元に\r\n生み出された闇術\r\n自らも周囲の者も歩みが遅くなる\r\n\r\n互いが敵意を持ちながらも\r\n手を出さずに睨みを合わせ続ける\r\nそれが平和である\r\n\r\n触媒：聖鈴",
+      "eng": "A hex created from an ancient miracle\r\nof unknown origin. Slows the walking pace\r\nof its caster and those in the vicinity.\r\n\r\nTo stand and glare at one another,\r\nsteaming with ire and wrath,\r\nbut without making a move.\r\nSuch is the nature of peace.\r\n\r\nCatalyst: Sacred Chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35300000.webp"
+  },
+  {
+    "id": "35310000",
+    "name": {
+      "chn": "暗之舞",
+      "jap": "闇の踊り",
+      "eng": "Dark Dance"
+    },
+    "description": {
+      "chn": "以灵魂为代价释放巨大黑暗的暗术。\r\n浓密的黑暗有如表现获得解放的喜悦，\r\n又或是愚弄对手般的起舞着。\r\n\r\n暗术表达了人性的扭曲，\r\n尤以此术为最。\r\n\r\n触媒：　圣铃",
+      "jap": "ソウルと引き換えに大きな闇を放つ闇術\r\n濃密な闇は、解放された喜びを表すように\r\nもしくは相手を愚弄するかのように踊る\r\n\r\n闇術は人の歪みの表れだが\r\nこれはその極みである\r\n\r\n触媒：聖鈴",
+      "eng": "Hex that converts souls into a large mass of Dark.\r\nThis momentous mass of Dark dances to\r\nsignal the joy of its own release, or perhaps\r\nmerely to taunt foes as it veers towards them.\r\n\r\nHexes are an expression of human depravity,\r\nof which this dance is a perfect example.\r\n\r\nCatalyst: sacred chime"
+    },
+    "type": "magic",
+    "game": 2,
+    "icon": "/icons/ds2/magics/35310000.webp"
+  }
+]

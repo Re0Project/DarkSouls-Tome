@@ -1,0 +1,3922 @@
+[
+  {
+    "id": "10000",
+    "name": {
+      "chn": "卡塔利纳头盔",
+      "jap": "カタリナヘルム",
+      "eng": "Catarina Helm"
+    },
+    "description": {
+      "chn": "造型独特的卡塔利纳骑士头盔。\r\n\r\n重视荣誉的卡塔利纳骑士，\r\n对于被其他国家笑称为洋葱觉得很气愤。\r\n但是以高级技术所制成的凸曲表面，\r\n拥有极高的招架物理攻击效果。",
+      "jap": "独特の形状をしたカタリナ騎士たちの兜\r\n\r\n他国からは玉ねぎなどと揶揄されることもあり\r\n名誉あるカタリナ騎士たちを憤慨させるが\r\n高い技術で形成された凸曲面は\r\n物理攻撃に対して高い受け流し効果を持つ",
+      "eng": "Distinctively shaped helm worn by the\r\nKnights of Catarina.\r\n\r\nOutside Catarina, it is often ridiculed for\r\nits onion-like shape, infuriating the proud\r\nknights, but the masterfully forged curved\r\ndesign makes it very effective for parrying."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/10000.webp"
+  },
+  {
+    "id": "11000",
+    "name": {
+      "chn": "卡塔利纳护甲",
+      "jap": "カタリナアーマー",
+      "eng": "Catarina Armor"
+    },
+    "description": {
+      "chn": "造型独特的卡塔利纳骑士铠甲。\r\n\r\n重视荣誉的卡塔利纳骑士，\r\n对于被其他国家笑称为洋葱觉得很气愤。\r\n但是以高级技术所制成的凸曲表面，\r\n拥有极高的招架物理攻击效果。",
+      "jap": "独特の形状をしたカタリナ騎士たちの鎧\r\n\r\n他国からは玉ねぎなどと揶揄されることもあり\r\n名誉あるカタリナ騎士たちを憤慨させるが\r\n高い技術で形成された凸曲面は\r\n物理攻撃に対して高い受け流し効果を持つ",
+      "eng": "Distinctively shaped armor worn by the\r\nKnights of Catarina.\r\n\r\nOutside Catarina, it is often ridiculed for\r\nits onion-like shape, infuriating the proud\r\nknights, but the masterfully forged curved\r\ndesign makes it very effective for parrying."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/11000.webp"
+  },
+  {
+    "id": "12000",
+    "name": {
+      "chn": "卡塔利纳护臂",
+      "jap": "カタリナガントレット",
+      "eng": "Catarina Gauntlets"
+    },
+    "description": {
+      "chn": "造型独特的卡塔利纳骑士臂甲。\r\n\r\n重视荣誉的卡塔利纳骑士，\r\n对于被其他国家笑称为洋葱觉得很气愤。\r\n但是以高级技术所制成的凸曲表面，\r\n拥有极高的招架物理攻击效果。",
+      "jap": "独特の形状をしたカタリナ騎士たちの手甲\r\n\r\n他国からは玉ねぎなどと揶揄されることもあり\r\n名誉あるカタリナ騎士たちを憤慨させるが\r\n高い技術で形成された凸曲面は\r\n物理攻撃に対して高い受け流し効果を持つ",
+      "eng": "Distinctively shaped gauntlets worn by the\r\nKnights of Catarina.\r\n\r\nOutside Catarina, they are often ridiculed\r\nfor their onion-like shape, infuriating the\r\nproud knights, but the masterfully forged\r\ncurved design makes it very effective for\r\nparrying."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/12000.webp"
+  },
+  {
+    "id": "13000",
+    "name": {
+      "chn": "卡塔利纳护腿",
+      "jap": "カタリナレギンス",
+      "eng": "Catarina Leggings"
+    },
+    "description": {
+      "chn": "造型独特的卡塔利纳骑士腿甲。\r\n\r\n重视荣誉的卡塔利纳骑士，\r\n对于被其他国家笑称为洋葱觉得很气愤。\r\n但是以高级技术所制成的凸曲表面，\r\n拥有极高的招架物理攻击效果。",
+      "jap": "独特の形状をしたカタリナ騎士たちの足甲\r\n\r\n他国からは玉ねぎなどと揶揄されることもあり\r\n名誉あるカタリナ騎士たちを憤慨させるが\r\n高い技術で形成された凸曲面は\r\n物理攻撃に対して高い受け流し効果を持つ",
+      "eng": "Distinctively shaped leggings worn by the\r\nKnights of Catarina.\r\n\r\nOutside Catarina, they are often ridiculed\r\nfor their onion-like shape, infuriating the\r\nproud knights, but the masterfully forged\r\ncurved design makes it very effective for\r\nparrying."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/13000.webp"
+  },
+  {
+    "id": "20000",
+    "name": {
+      "chn": "圣骑士头盔",
+      "jap": "聖騎士の兜",
+      "eng": "Paladin Helm"
+    },
+    "description": {
+      "chn": "地下墓地的圣骑士，里罗伊的头盔。\r\n\r\n据说很久以前，\r\n白教信徒中出现的第一位不死人，\r\n是位身穿黄金铠甲的圣骑士。\r\n\r\n圣骑士带上两件宝物：神许重锤及圣者盾，\r\n为探索诸神之地罗德兰而踏上旅程──\r\n白教的不死人使命从此开始。",
+      "jap": "地下墓地の聖騎士、リロイの兜\r\n\r\nはるか昔、白教に最初に生まれた不死は\r\n黄金の鎧に身を包む聖騎士だったという\r\n\r\n聖騎士は二つの宝具、グラントとサンクトゥスを携え\r\n神々の地ロードランの探索に旅立った\r\n白教の不死の使命のはじまりである",
+      "eng": "Helm of Leeroy, Paladin of the Catacombs.\r\n\r\nLong ago, the Way of White produced its\r\nfirst Undead, a paladin in golden armor.\r\nWith the legendary treasures Grant and\r\nSanctus, Leeroy set out for Lordran,\r\nLand of the Gods, in the first Undead\r\nmission of the Way of White."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/20000.webp"
+  },
+  {
+    "id": "21000",
+    "name": {
+      "chn": "圣骑士铠甲",
+      "jap": "聖騎士の鎧",
+      "eng": "Paladin Armor"
+    },
+    "description": {
+      "chn": "地下墓地的圣骑士，里罗伊的铠甲。\r\n\r\n据说很久以前，\r\n白教信徒中出现的第一位不死人，\r\n是位身穿黄金铠甲的圣骑士。\r\n\r\n圣骑士带上两件宝物：神许重锤及圣者盾，\r\n为探索诸神之地罗德兰而踏上旅程──\r\n白教的不死人使命从此开始。",
+      "jap": "地下墓地の聖騎士、リロイの鎧\r\n\r\nはるか昔、白教に最初に生まれた不死は\r\n黄金の鎧に身を包む聖騎士だったという\r\n\r\n聖騎士は二つの宝具、グラントとサンクトゥスを携え\r\n神々の地ロードランの探索に旅立った\r\n白教の不死の使命のはじまりである",
+      "eng": "Armor of Leeroy, Paladin of the Catacombs.\r\n\r\nLong ago, the Way of White produced its\r\nfirst Undead, a paladin in golden armor.\r\nWith the legendary treasures Grant and\r\nSanctus, Leeroy set out for Lordran,\r\nLand of the Gods, in the first Undead\r\nmission of the Way of White."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/21000.webp"
+  },
+  {
+    "id": "22000",
+    "name": {
+      "chn": "圣骑士臂甲",
+      "jap": "聖騎士の手甲",
+      "eng": "Paladin Gauntlets"
+    },
+    "description": {
+      "chn": "地下墓地的圣骑士，里罗伊的臂甲。\r\n\r\n据说很久以前，\r\n白教信徒中出现的第一位不死人，\r\n是位身穿黄金铠甲的圣骑士。\r\n\r\n圣骑士带上两件宝物：神许重锤及圣者盾，\r\n为探索诸神之地罗德兰而踏上旅程──\r\n白教的不死人使命从此开始。",
+      "jap": "地下墓地の聖騎士、リロイの手甲\r\n\r\nはるか昔、白教に最初に生まれた不死は\r\n黄金の鎧に身を包む聖騎士だったという\r\n\r\n聖騎士は二つの宝具、グラントとサンクトゥスを携え\r\n神々の地ロードランの探索に旅立った\r\n白教の不死の使命のはじまりである",
+      "eng": "Gauntlets of Leeroy, Paladin of the\r\nCatacombs.\r\n\r\nLong ago, the Way of White produced its\r\nfirst Undead, a paladin in golden armor.\r\nWith the legendary treasures Grant and\r\nSanctus, Leeroy set out for Lordran,\r\nLand of the Gods, in the first Undead\r\nmission of the Way of White."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/22000.webp"
+  },
+  {
+    "id": "23000",
+    "name": {
+      "chn": "圣骑士腿甲",
+      "jap": "聖騎士の足甲",
+      "eng": "Paladin Leggings"
+    },
+    "description": {
+      "chn": "地下墓地的圣骑士，里罗伊的腿甲。\r\n\r\n据说很久以前，\r\n白教信徒中出现的第一位不死人，\r\n是位身穿黄金铠甲的圣骑士。\r\n\r\n圣骑士带上两件宝物：神许重锤及圣者盾，\r\n为探索诸神之地罗德兰而踏上旅程──\r\n白教的不死人使命从此开始。",
+      "jap": "地下墓地の聖騎士、リロイの足甲\r\n\r\nはるか昔、白教に最初に生まれた不死は\r\n黄金の鎧に身を包む聖騎士だったという\r\n\r\n聖騎士は二つの宝具、グラントとサンクトゥスを携え\r\n神々の地ロードランの探索に旅立った\r\n白教の不死の使命のはじまりである",
+      "eng": "Leggings of Leeroy, Paladin of the Catacombs.\r\n\r\nLong ago, the Way of White produced its\r\nfirst Undead, a paladin in golden armor.\r\nWith the legendary treasures Grant and\r\nSanctus, Leeroy set out for Lordran,\r\nLand of the Gods, in the first Undead\r\nmission of the Way of White."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/23000.webp"
+  },
+  {
+    "id": "40000",
+    "name": {
+      "chn": "黑暗面罩",
+      "jap": "闇の仮面",
+      "eng": "Dark Mask"
+    },
+    "description": {
+      "chn": "过去是小隆德骑士，\r\n而后堕入黑暗的吸魂鬼面罩。\r\n\r\n从那有如骷髅的外表可以推断，\r\n古老吸魂鬼已有半张脸与面罩合而为一了。",
+      "jap": "かつての小ロンドの騎士\r\n闇に堕ちたダークレイスの仮面\r\n\r\nそのドクロのような見た目からか\r\n古いダークレイスにおいては\r\n半ば本体と一体化しているとも伝えられる",
+      "eng": "Mask of the Darkwraiths, former knights of\r\nNew Londo who descended into Dark.\r\n\r\nSome say the skeletal mask of an ancient\r\nDarkwraith is partially fused with the flesh\r\nof its face."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/40000.webp"
+  },
+  {
+    "id": "41000",
+    "name": {
+      "chn": "黑暗铠甲",
+      "jap": "闇の鎧",
+      "eng": "Dark Armor"
+    },
+    "description": {
+      "chn": "过去是小隆德骑士，\r\n而后堕入黑暗的吸魂鬼铠甲。\r\n\r\n那变质的铠甲，如今与吸魂技艺\r\n一同变成黑暗手下的象征。",
+      "jap": "かつての小ロンドの騎士\r\n闇に堕ちたダークレイスの鎧\r\n\r\nその鎧は変質し、今や吸精の業と共に\r\n闇の眷属の象徴的姿として知られている",
+      "eng": "Armor of the Darkwraiths, former knights of\r\nNew Londo who descended into Dark.\r\n\r\nTheir armor transformed, and remains a\r\nsymbol of the Dark servants and their\r\ndiabolical art of Lifedrain."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/41000.webp"
+  },
+  {
+    "id": "42000",
+    "name": {
+      "chn": "黑暗臂甲",
+      "jap": "闇の手甲",
+      "eng": "Dark Gauntlets"
+    },
+    "description": {
+      "chn": "过去是小隆德骑士，\r\n而后堕入黑暗的吸魂鬼臂甲。\r\n\r\n那变质的铠甲，如今与吸魂技艺\r\n一同变成黑暗手下的象征。",
+      "jap": "かつての小ロンドの騎士\r\n闇に堕ちたダークレイスの手甲\r\n\r\nその鎧は変質し、今や吸精の業と共に\r\n闇の眷属の象徴的姿として知られている",
+      "eng": "Gauntlets of the Darkwraiths, former knights\r\nof New Londo who descended into Dark.\r\n\r\nTheir gauntlets transformed, and remain\r\nsymbol of the Dark servants and their\r\ndiabolical art of Lifedrain."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/42000.webp"
+  },
+  {
+    "id": "43000",
+    "name": {
+      "chn": "黑暗腿甲",
+      "jap": "闇の足甲",
+      "eng": "Dark Leggings"
+    },
+    "description": {
+      "chn": "过去是小隆德骑士，\r\n而后堕入黑暗的吸魂鬼腿甲。\r\n\r\n那变质的铠甲，如今与吸魂技艺\r\n一同变成黑暗手下的象征。",
+      "jap": "かつての小ロンドの騎士\r\n闇に堕ちたダークレイスの足甲\r\n\r\nその鎧は変質し、今や吸精の業と共に\r\n闇の眷属の象徴的姿として知られている",
+      "eng": "Leggings of the Darkwraiths, former knights\r\nof New Londo who descended into Dark.\r\n\r\nTheir leggings transformed, and remain a\r\nsymbol of the Dark servants and their\r\ndiabolical art of Lifedrain."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/43000.webp"
+  },
+  {
+    "id": "50000",
+    "name": {
+      "chn": "山贼头巾",
+      "jap": "山賊の頭巾",
+      "eng": "Brigand Hood"
+    },
+    "description": {
+      "chn": "袭击村庄及旅人的山贼所用的头巾。\r\n\r\n可以防沙尘及强烈的日照，\r\n也可以用来辨别同伴以防止自相残杀。",
+      "jap": "山村や旅人を襲う山賊たちの頭巾\r\n\r\n強い日差しや砂埃を防ぐほか\r\n同士打ちを避けるための記号でもある",
+      "eng": "Hood worn by the brigands who raid mountain\r\nhamlets and attack travelers.\r\n\r\nIn addition to protecting against the blazing\r\nsun, dust, and sand, it helps them tell\r\nfriend from foe in the heat of battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/50000.webp"
+  },
+  {
+    "id": "51000",
+    "name": {
+      "chn": "山贼铠甲",
+      "jap": "山賊の鎧",
+      "eng": "Brigand Armor"
+    },
+    "description": {
+      "chn": "袭击村庄及旅人的山贼所用的铠甲。\r\n\r\n以布和皮为底，再加上金属制成，\r\n拥有不错的活动性及防御力。",
+      "jap": "山村や旅人を襲う山賊たちの鎧\r\n\r\n布と革のベースに金属を組み合わせ\r\n動きやすさと防御力を両立させている",
+      "eng": "Armor worn by the brigands who raid mountain\r\nhamlets and attack travelers.\r\n\r\nThe addition of metal over a base of cloth\r\nand leather offers good mobility and defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/51000.webp"
+  },
+  {
+    "id": "52000",
+    "name": {
+      "chn": "山贼护手",
+      "jap": "山賊の篭手",
+      "eng": "Brigand Gauntlets"
+    },
+    "description": {
+      "chn": "袭击村庄及旅人的山贼所用的护手。\r\n\r\n以布和皮为底，再加上金属制成，\r\n拥有不错的活动性及防御力。",
+      "jap": "山村や旅人を襲う山賊たちの篭手\r\n\r\n布と革のベースに金属を組み合わせ\r\n動きやすさと防御力を両立させている",
+      "eng": "Gauntlets worn by the brigands who raid\r\nmountain hamlets and attack travelers.\r\n\r\nThe addition of metal over a base of cloth\r\nand leather offers good mobility and defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/52000.webp"
+  },
+  {
+    "id": "53000",
+    "name": {
+      "chn": "山贼长裤",
+      "jap": "山賊のズボン",
+      "eng": "Brigand Trousers"
+    },
+    "description": {
+      "chn": "袭击村庄及旅人的山贼所用的长裤。\r\n\r\n以布和皮为底，再加上金属制成，\r\n拥有不错的活动性及防御力。",
+      "jap": "山村や旅人を襲う山賊たちのズボン\r\n\r\n布と革のベースに金属を組み合わせ\r\n動きやすさと防御力を両立させている",
+      "eng": "Trousers worn by the brigands who raid\r\nmountain hamlets and attack travelers.\r\n\r\nThe addition of metal over a base of cloth\r\nand leather offers good mobility and defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/53000.webp"
+  },
+  {
+    "id": "60000",
+    "name": {
+      "chn": "黑影蒙面布",
+      "jap": "影の覆面",
+      "eng": "Shadow Mask"
+    },
+    "description": {
+      "chn": "东方国度间谍使用的蒙面布。\r\n材料以黑布为主，\r\n以不妨碍使用独特体术为条件制成。\r\n\r\n牺牲防御力来提升活动能力的防具，\r\n且可能出于任务需要，对出血和毒等有抵抗力。",
+      "jap": "黒布をベースにした、東の地の間者たちの覆面\r\n彼ら独特の体術を邪魔しない作りになっている\r\n\r\n防御力を犠牲に運動性を高めているが\r\nその任務の性質故か、出血や毒などには耐性がある",
+      "eng": "Black cloth mask worn by spooks from an\r\nEastern land. Designed so as not to hinder\r\ntheir unique form of martial arts.\r\n\r\nWhile it sacrifices defense for the sake of\r\ngreater mobility, it does offer resistance\r\nto bleeding and poison among other things,\r\nperhaps due to the nature of espionage."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/60000.webp"
+  },
+  {
+    "id": "61000",
+    "name": {
+      "chn": "黑影外衣",
+      "jap": "影の上衣",
+      "eng": "Shadow Garb"
+    },
+    "description": {
+      "chn": "东方国度间谍使用的外衣。\r\n材料以黑布为主，\r\n以不妨碍使用独特体术为条件制成。\r\n\r\n牺牲防御力来提升活动能力的防具，\r\n且可能出于任务需要，对出血和毒等有抵抗力。",
+      "jap": "黒布をベースにした、東の地の間者たちの上衣\r\n彼ら独特の体術を邪魔しない作りになっている\r\n\r\n防御力を犠牲に運動性を高めているが\r\nその任務の性質故か、出血や毒などには耐性がある",
+      "eng": "Black cloth garb worn by spooks from an\r\nEastern land. Designed so as not to hinder\r\ntheir unique form of martial arts.\r\n\r\nWhile it sacrifices defense for the sake of\r\ngreater mobility, it does offer resistance\r\nto bleeding and poison among other things,\r\nperhaps due to the nature of espionage."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/61000.webp"
+  },
+  {
+    "id": "62000",
+    "name": {
+      "chn": "黑影臂甲",
+      "jap": "影の手甲",
+      "eng": "Shadow Gauntlets"
+    },
+    "description": {
+      "chn": "东方国度间谍使用的臂甲。\r\n材料以黑布为主，\r\n以不妨碍使用独特体术为条件制成。\r\n\r\n牺牲防御力来提升活动能力的防具，\r\n且可能出于任务需要，对出血和毒等有抵抗力。",
+      "jap": "黒布をベースにした、東の地の間者たちの手甲\r\n彼ら独特の体術を邪魔しない作りになっている\r\n\r\n防御力を犠牲に運動性を高めているが\r\nその任務の性質故か、出血や毒などには耐性がある",
+      "eng": "Black cloth gauntlets worn by spooks from an\r\nEastern land. Designed so as not to hinder\r\ntheir unique form of martial arts.\r\n\r\nWhile they sacrifice defense for the sake of\r\ngreater mobility, they do offer resistance\r\nto bleeding and poison among other things,\r\nperhaps due to the nature of espionage."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/62000.webp"
+  },
+  {
+    "id": "63000",
+    "name": {
+      "chn": "黑影腿甲",
+      "jap": "影の足甲",
+      "eng": "Shadow Leggings"
+    },
+    "description": {
+      "chn": "东方国度间谍使用的腿甲。\r\n材料以黑布为主，\r\n以不妨碍使用独特体术为条件制成。\r\n\r\n牺牲防御力来提升活动能力的防具，\r\n且可能出于任务需要，对出血和毒等有抵抗力。",
+      "jap": "黒布をベースにした、東の地の間者たちの足甲\r\n彼ら独特の体術を邪魔しない作りになっている\r\n\r\n防御力を犠牲に運動性を高めているが\r\nその任務の性質故か、出血や毒などには耐性がある",
+      "eng": "Black cloth leggings worn by spooks from an\r\nEastern land. Designed so as not to hinder\r\ntheir unique form of martial arts.\r\n\r\nWhile they sacrifice defense for the sake of\r\ngreater mobility, they do offer resistance\r\nto bleeding and poison among other things,\r\nperhaps due to the nature of espionage."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/63000.webp"
+  },
+  {
+    "id": "70000",
+    "name": {
+      "chn": "黑铁头盔",
+      "jap": "黒鉄の兜",
+      "eng": "Black Iron Helm"
+    },
+    "description": {
+      "chn": "知名的力大无穷骑士，塔尔卡斯的头盔。\r\n\r\n由特殊的黑铁制成，相当沉重。\r\n除了塔尔卡斯本人以外，其他人难以运用，\r\n但是防御效果很好，尤其能防御火属性攻击。",
+      "jap": "大力で知られる騎士のタルカスの兜\r\n\r\n特殊な黒鉄で作られ、ひどく重く\r\nタルカス本人の他は容易に扱えないが\r\nその防御効果は高く、特に炎属性の攻撃に強い",
+      "eng": "Helm of Black Iron Tarkus, a knight known\r\nfor his great strength.\r\n\r\nBuilt of a special black iron and\r\nproviding strong defense, notably\r\nagainst fire, but so terribly heavy to be\r\nunwieldy to all but Tarkus himself."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/70000.webp"
+  },
+  {
+    "id": "71000",
+    "name": {
+      "chn": "黑铁铠甲",
+      "jap": "黒鉄の鎧",
+      "eng": "Black Iron Armor"
+    },
+    "description": {
+      "chn": "知名的力大无穷骑士，塔尔卡斯的铠甲。\r\n\r\n由特殊的黑铁制成，相当沉重。\r\n除了塔尔卡斯本人以外，其他人难以运用，\r\n但是防御效果很好，尤其能防御火属性攻击。",
+      "jap": "大力で知られる騎士のタルカスの鎧\r\n\r\n特殊な黒鉄で作られ、ひどく重く\r\nタルカス本人の他は容易に扱えないが\r\nその防御効果は高く、特に炎属性の攻撃に強い",
+      "eng": "Armor of Black Iron Tarkus, a knight\r\nknown for his great strength.\r\n\r\nBuilt of a special black iron and\r\nproviding strong defense, notably\r\nagainst fire, but so terribly heavy to be\r\nunwieldy to all but Tarkus himself."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/71000.webp"
+  },
+  {
+    "id": "72000",
+    "name": {
+      "chn": "黑铁臂甲",
+      "jap": "黒鉄の手甲",
+      "eng": "Black Iron Gauntlets"
+    },
+    "description": {
+      "chn": "知名的力大无穷骑士，塔尔卡斯的臂甲。\r\n\r\n由特殊的黑铁制成，相当沉重。\r\n除了塔尔卡斯本人以外，其他人难以运用，\r\n但是防御效果很好，尤其能防御火属性攻击。",
+      "jap": "大力で知られる騎士のタルカスの手甲\r\n\r\n特殊な黒鉄で作られ、ひどく重く\r\nタルカス本人の他は容易に扱えないが\r\nその防御効果は高く、特に炎属性の攻撃に強い",
+      "eng": "Gauntlets of Black Iron Tarkus, a knight\r\nknown for his great strength.\r\n\r\nBuilt of a special black iron and\r\nproviding strong defense, notably\r\nagainst fire, but so terribly heavy to be\r\nunwieldy to all but Tarkus himself."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/72000.webp"
+  },
+  {
+    "id": "73000",
+    "name": {
+      "chn": "黑铁腿甲",
+      "jap": "黒鉄の足甲",
+      "eng": "Black Iron Leggings"
+    },
+    "description": {
+      "chn": "知名的力大无穷骑士，塔尔卡斯的腿甲。\r\n\r\n由特殊的黑铁制成，相当沉重。\r\n除了塔尔卡斯本人以外，其他人难以运用，\r\n但是防御效果很好，尤其能防御火属性攻击。",
+      "jap": "大力で知られる騎士のタルカスの足甲\r\n\r\n特殊な黒鉄で作られ、ひどく重く\r\nタルカス本人の他は容易に扱えないが\r\nその防御効果は高く、特に炎属性の攻撃に強い",
+      "eng": "Leggings of Black Iron Tarkus, a knight\r\nknown for his great strength.\r\n\r\nBuilt of a special black iron and\r\nproviding strong defense, notably\r\nagainst fire, but so terribly heavy to be\r\nunwieldy to all but Tarkus himself."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/73000.webp"
+  },
+  {
+    "id": "80000",
+    "name": {
+      "chn": "斯摩头盔",
+      "jap": "スモウの兜",
+      "eng": "Smough's Helm"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德，\r\n守护教堂的“刽子手”斯摩的头盔。\r\n\r\n有非常高的防御力。\r\n虽然能以人类的肉身装备，\r\n但是老实说会太过勉强。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「処刑者」スモウの兜\r\n\r\n非常に高い防御力を持ち\r\n人の身で装備することもできるが\r\n正直いろいろと無理があるようだ",
+      "eng": "Helm of Smough, the Executioner, protector\r\nof the cathedral at the forsaken city of Anor\r\nLondo. It offers extremely high defense\r\nand can be worn by humans, but not\r\nwithout great difficulty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/80000.webp"
+  },
+  {
+    "id": "81000",
+    "name": {
+      "chn": "斯摩铠甲",
+      "jap": "スモウの鎧",
+      "eng": "Smough's Armor"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德，\r\n守护教堂的“刽子手”斯摩的铠甲。\r\n\r\n有非常高的防御力。\r\n虽然能以人类的肉身装备，\r\n但是老实说会太过勉强。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「処刑者」スモウの鎧\r\n\r\n非常に高い防御力を持ち\r\n人の身で装備することもできるが\r\n正直いろいろと無理があるようだ",
+      "eng": "Armor of Smough, the Executioner, protector\r\nof the cathedral at the forsaken city of Anor\r\nLondo. It offers extremely high defense\r\nand can be worn by humans, but not\r\nwithout great difficulty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/81000.webp"
+  },
+  {
+    "id": "82000",
+    "name": {
+      "chn": "斯摩臂甲",
+      "jap": "スモウの手甲",
+      "eng": "Smough's Gauntlets"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德，\r\n守护教堂的“刽子手”斯摩的臂甲。\r\n\r\n有非常高的防御力。\r\n虽然能以人类的肉身装备，\r\n但是老实说会太过勉强。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「処刑者」スモウの手甲\r\n\r\n非常に高い防御力を持ち\r\n人の身で装備することもできるが\r\n正直いろいろと無理があるようだ",
+      "eng": "Gauntlets of Smough, the Executioner, protector\r\nof the cathedral at the forsaken city of Anor\r\nLondo. It offers extremely high defense\r\nand can be worn by humans, but not\r\nwithout great difficulty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/82000.webp"
+  },
+  {
+    "id": "83000",
+    "name": {
+      "chn": "斯摩腿甲",
+      "jap": "スモウの足甲",
+      "eng": "Smough's Leggings"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德，\r\n守护教堂的“刽子手”斯摩的腿甲。\r\n\r\n有非常高的防御力。\r\n虽然能以人类的肉身装备，\r\n但是老实说会太过勉强。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「処刑者」スモウの足甲\r\n\r\n非常に高い防御力を持ち\r\n人の身で装備することもできるが\r\n正直いろいろと無理があるようだ",
+      "eng": "Leggings of Smough, the Executioner, protector\r\nof the cathedral at the forsaken city of Anor\r\nLondo. It offers extremely high defense\r\nand can be worn by humans, but not\r\nwithout great difficulty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/83000.webp"
+  },
+  {
+    "id": "90000",
+    "name": {
+      "chn": "传道者六眼头盔",
+      "jap": "伝道者の六目兜",
+      "eng": "Six-Eyed Helm of the Channelers"
+    },
+    "description": {
+      "chn": "侍奉白龙希斯的传道魔法师头盔。\r\n那垂直两列并排的六只眼，\r\n即是代替已无法视物的希斯之眼。\r\n\r\n在魔法师的防具中，重量最重，\r\n且潜藏法术的力量。",
+      "jap": "白竜シースに仕える魔術師たち、伝道者の兜\r\n縦二列に並んだ六つの目は\r\nシースの見えないそれを代替するためである\r\n\r\n魔術師の防具としては最も重く\r\nまた魔法の力を秘めている",
+      "eng": "Helm of the Channelers, sorcerers that serve\r\nSeath the Scaleless. The six eyes arranged\r\nin two vertical columns compensate for\r\nSeath's lack of sight.\r\n\r\nThe heaviest of protective gear for\r\nsorcerers, and imbued with magic."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/90000.webp"
+  },
+  {
+    "id": "91000",
+    "name": {
+      "chn": "传道者圣衣",
+      "jap": "伝道者の聖衣",
+      "eng": "Robe of the Channelers"
+    },
+    "description": {
+      "chn": "侍奉白龙希斯的传道魔法师圣衣。\r\n传道者在希斯发狂后，仍继续为他效劳。\r\n有时候会替无法行动的希斯奔波，前往各个地方，\r\n因此传道者也有“掳人”的称呼。\r\n\r\n在魔法师的防具中，重量最重，\r\n且潜藏法术的力量。",
+      "jap": "白竜シースに仕える魔術師たち、伝道者の聖衣\r\n彼らは狂気の後もシースの下にあり続け\r\nときに各地に赴き、動けぬシースの手足となった\r\n故に伝道者は「人さらい」とも呼ばれる\r\n\r\n魔術師の防具としては最も重く\r\nまた魔法の力を秘めている",
+      "eng": "Robe of the Channelers, sorcerers that serve\r\nSeath the Scaleless. Even after the onset of\r\nSeath's madness, the \"snatchers,\" as they\r\nwere often called, ventured to far lands to\r\nfind suitable human specimens.\r\n\r\nThe heaviest of protective gear for\r\nsorcerers, and imbued with magic."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/91000.webp"
+  },
+  {
+    "id": "92000",
+    "name": {
+      "chn": "传道者护手",
+      "jap": "伝道者の篭手",
+      "eng": "Gauntlets of the Channelers"
+    },
+    "description": {
+      "chn": "侍奉白龙希斯的传道魔法师护手。\r\n传道者在希斯发狂后，仍继续为他效劳。\r\n有时候会为希斯奔波，前往各个地方，\r\n因此传道者也有“掳人”的称呼。\r\n\r\n在魔法师的防具中，重量最重，\r\n且潜藏法术的力量。",
+      "jap": "白竜シースに仕える魔術師たち、伝道者の篭手\r\n彼らは狂気の後もシースの下にあり続け\r\nときに各地に赴き、動けぬシースの手足となった\r\n故に伝道者は「人さらい」とも呼ばれる\r\n\r\n魔術師の防具としては最も重く\r\nまた魔法の力を秘めている",
+      "eng": "Gauntlets of the Channelers, sorcerers that\r\nserve Seath the Scaleless. Even after the\r\nonset of Seath's madness, the \"snatchers,\"\r\nas they were often called, ventured to far\r\nlands to find suitable human specimens.\r\n\r\nThe heaviest of protective gear for\r\nsorcerers, and imbued with magic."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/92000.webp"
+  },
+  {
+    "id": "93000",
+    "name": {
+      "chn": "传道者围裙",
+      "jap": "伝道者の腰巻き",
+      "eng": "Waistcloth of the Channelers"
+    },
+    "description": {
+      "chn": "侍奉白龙希斯的传道魔法师围裙。\r\n传道者在希斯发狂后，仍继续为他效劳。\r\n有时候会为希斯奔波，前往各个地方，\r\n因此传道者也有“掳人”的称呼。\r\n\r\n在魔法师的防具中，重量最重，\r\n且潜藏法术的力量。",
+      "jap": "白竜シースに仕える魔術師たち、伝道者の腰巻き\r\n彼らは狂気の後もシースの下にあり続け\r\nときに各地に赴き、動けぬシースの手足となった\r\n故に伝道者は「人さらい」とも呼ばれる\r\n\r\n魔術師の防具としては最も重く\r\nまた魔法の力を秘めている",
+      "eng": "Waistcloth of the Channelers, sorcerers that\r\nserve Seath the Scaleless. Even after the\r\nonset of Seath's madness, the \"snatchers,\"\r\nas they were often called, ventured to far\r\nlands to find suitable human specimens.\r\n\r\nThe heaviest of protective gear for\r\nsorcerers, and imbued with magic."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/93000.webp"
+  },
+  {
+    "id": "100000",
+    "name": {
+      "chn": "宠爱头盔",
+      "jap": "寵愛の兜",
+      "eng": "Helm of Favor"
+    },
+    "description": {
+      "chn": "表现出女神菲娜宠爱形象的\r\n“女神加护”骑士，罗特雷克使用的头盔。\r\n\r\n他在孤独之中深信女神的宠爱，\r\n并为此而舍弃一切。",
+      "jap": "女神フィナの寵愛を表現した\r\n「抱かれ」騎士ロートレクの兜\r\n\r\n彼は孤独の中で女神の寵愛を信じ\r\nそのために全てを捨てた",
+      "eng": "Helm of Lautrec the Embraced,\r\nrepresenting the goddess Fina's love.\r\n\r\nDuring his solitude, he forsook everything,\r\nfor he believed in the goddess's love for\r\nhim."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/100000.webp"
+  },
+  {
+    "id": "101000",
+    "name": {
+      "chn": "宠爱拥抱铠甲",
+      "jap": "寵愛の抱かれ鎧",
+      "eng": "Embraced Armor of Favor"
+    },
+    "description": {
+      "chn": "表现出女神菲娜宠爱形象的\r\n“女神加护”骑士，罗特雷克使用的铠甲。\r\n\r\n铠甲的造型是女神的双手环抱，\r\n有如拥抱住装备者。",
+      "jap": "女神フィナの寵愛を表現した\r\n「抱かれ」騎士ロートレクの鎧\r\n\r\nその表面には、装備者を抱くように\r\n女神の腕が絡みついている",
+      "eng": "Armor of Lautrec the Embraced,\r\nrepresenting the goddess Fina's love.\r\n\r\nThe goddess's arms wrap around it, as if to\r\nembrace the wearer."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/101000.webp"
+  },
+  {
+    "id": "102000",
+    "name": {
+      "chn": "宠爱臂甲",
+      "jap": "寵愛の手甲",
+      "eng": "Gauntlets of Favor"
+    },
+    "description": {
+      "chn": "表现出女神菲娜宠爱形象的\r\n“女神加护”骑士，罗特雷克使用的臂甲。\r\n\r\n他在孤独之中深信女神的宠爱，\r\n并为此而舍弃一切。",
+      "jap": "女神フィナの寵愛を表現した\r\n「抱かれ」騎士ロートレクの手甲\r\n\r\n彼は孤独の中で女神の寵愛を信じ\r\nそのために全てを捨てた",
+      "eng": "Gauntlets of Lautrec the Embraced,\r\nrepresenting the goddess Fina's love.\r\n\r\nDuring his solitude, he forsook everything,\r\nfor he believed in the goddess's love for\r\nhim."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/102000.webp"
+  },
+  {
+    "id": "103000",
+    "name": {
+      "chn": "宠爱腿甲",
+      "jap": "寵愛の足甲",
+      "eng": "Leggings of Favor"
+    },
+    "description": {
+      "chn": "表现出女神菲娜宠爱形象的\r\n“女神加护”骑士，罗特雷克使用的腿甲。\r\n\r\n他在孤独之中深信女神的宠爱，\r\n并为此而舍弃一切。",
+      "jap": "女神フィナの寵愛を表現した\r\n「抱かれ」騎士ロートレクの足甲\r\n\r\n彼は孤独の中で女神の寵愛を信じ\r\nそのために全てを捨てた",
+      "eng": "Leggings of Lautrec the Embraced,\r\nrepresenting the goddess Fina's love.\r\n\r\nDuring his solitude, he forsook everything,\r\nfor he believed in the goddess's love for\r\nhim."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/103000.webp"
+  },
+  {
+    "id": "110000",
+    "name": {
+      "chn": "智慧头盔",
+      "jap": "知恵者の兜",
+      "eng": "Helm of the Wise"
+    },
+    "description": {
+      "chn": "流传于珍品商人德纳尔的故乡──\r\n古老国度杰纳的奇妙头盔。\r\n\r\n据说两支角是代表智慧。",
+      "jap": "珍品売りのドーナルの故郷\r\n古い国ゼナに伝わる奇妙な兜\r\n\r\n二本の角は知恵の証であるとされる",
+      "eng": "A strange helm from the ancient land of Zena,\r\nbirthplace of the curious dealer Domhnall.\r\n\r\nThe two horns are believed to symbolize\r\nwisdom."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/110000.webp"
+  },
+  {
+    "id": "111000",
+    "name": {
+      "chn": "荣耀铠甲",
+      "jap": "名誉者の鎧",
+      "eng": "Armor of the Glorious"
+    },
+    "description": {
+      "chn": "流传于珍品商人德纳尔的故乡──\r\n古老国度杰纳的奇妙铠甲。\r\n\r\n据说大量的金牌是代表荣耀。",
+      "jap": "珍品売りのドーナルの故郷\r\n古い国ゼナに伝わる奇妙な鎧\r\n\r\nたくさんのメダルは名誉の証であるとされる",
+      "eng": "Strange armor from the ancient land of Zena,\r\nbirthplace of the curious dealer Domhnall.\r\n\r\nThe many medals are believed to symbolize\r\nglory."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/111000.webp"
+  },
+  {
+    "id": "112000",
+    "name": {
+      "chn": "成就护手",
+      "jap": "獲得者の篭手",
+      "eng": "Gauntlets of the Vanquisher"
+    },
+    "description": {
+      "chn": "流传于珍品商人德纳尔的故乡──\r\n古老国度杰纳的奇妙护手。\r\n\r\n据说黄金臂套是代表成就。",
+      "jap": "珍品売りのドーナルの故郷\r\n古い国ゼナに伝わる奇妙な篭手\r\n\r\n金の腕輪は獲得者の証であるとされる",
+      "eng": "Strange gauntlets from the ancient land of\r\nZena, birthplace of the curious dealer\r\nDomhnall.\r\n\r\nThe gold bracelets symbolize a vanquisher."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/112000.webp"
+  },
+  {
+    "id": "113000",
+    "name": {
+      "chn": "探索长靴",
+      "jap": "探索者の長靴",
+      "eng": "Boots of the Explorer"
+    },
+    "description": {
+      "chn": "流传于珍品商人德纳尔的故乡──\r\n古老国度杰纳的奇妙长靴。\r\n\r\n据说上面镶嵌的银环是代表探索。",
+      "jap": "珍品売りのドーナルの故郷\r\n古い国ゼナに伝わる奇妙な長靴\r\n\r\n埋め込まれた銀の輪は\r\n探索者の証であるとされる",
+      "eng": "Strange boots from the ancient land of Zena,\r\nbirthplace of the curious dealer Domhnall.\r\n\r\nThe inlaid silver rings symbolize an\r\nexplorer."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/113000.webp"
+  },
+  {
+    "id": "120000",
+    "name": {
+      "chn": "石头盔",
+      "jap": "石の兜",
+      "eng": "Stone Helm"
+    },
+    "description": {
+      "chn": "黑森林庭院的守护者，\r\n长满青苔的石骑士头盔。\r\n\r\n石骑士是古老法术的产物，\r\n所以头盔也带有法术的力量。\r\n重量非常重。",
+      "jap": "黒い森の庭の守護者\r\n石の騎士の苔むした兜\r\n\r\n石の騎士は古い魔法の産物であり\r\nこの兜もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Moss-covered helm of the Stone Knight,\r\ndefender of the Darkroot Garden.\r\n\r\nThe Stone Knight is a product of ancient\r\nmagic, and although this helm is also imbued\r\nwith magic, it is incredibly heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/120000.webp"
+  },
+  {
+    "id": "121000",
+    "name": {
+      "chn": "石铠甲",
+      "jap": "石の鎧",
+      "eng": "Stone Armor"
+    },
+    "description": {
+      "chn": "黑森林庭院的守护者，\r\n长满青苔的石骑士铠甲。\r\n\r\n石骑士是古老法术的产物，\r\n所以铠甲也带有法术的力量。\r\n重量非常重。",
+      "jap": "黒い森の庭の守護者\r\n石の騎士の苔むした鎧\r\n\r\n石の騎士は古い魔法の産物であり\r\nこの鎧もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Moss-covered armor of the Stone Knight,\r\ndefender of the Darkroot Garden.\r\n\r\nThe Stone Knight is a product of ancient\r\nmagic, and although this armor is also imbued\r\nwith magic, it is incredibly heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/121000.webp"
+  },
+  {
+    "id": "122000",
+    "name": {
+      "chn": "石臂甲",
+      "jap": "石の手甲",
+      "eng": "Stone Gauntlets"
+    },
+    "description": {
+      "chn": "黑森林庭院的守护者，\r\n长满青苔的石骑士臂甲。\r\n\r\n石骑士是古老法术的产物，\r\n所以臂甲也带有法术的力量。\r\n重量非常重。",
+      "jap": "黒い森の庭の守護者\r\n石の騎士の苔むした手甲\r\n\r\n石の騎士は古い魔法の産物であり\r\nこの手甲もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Moss-covered gauntlets of the Stone Knight,\r\ndefender of the Darkroot Garden.\r\n\r\nThe Stone Knight is a product of ancient\r\nmagic, and although these gauntlets are also\r\nimbued with magic, they are incredibly heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/122000.webp"
+  },
+  {
+    "id": "123000",
+    "name": {
+      "chn": "石腿甲",
+      "jap": "石の足甲",
+      "eng": "Stone Leggings"
+    },
+    "description": {
+      "chn": "黑森林庭院的守护者，\r\n长满青苔的石骑士腿甲。\r\n\r\n石骑士是古老法术的产物，\r\n所以腿甲也带有法术的力量。\r\n重量非常重。",
+      "jap": "黒い森の庭の守護者\r\n石の騎士の苔むした足甲\r\n\r\n石の騎士は古い魔法の産物であり\r\nこの足甲もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Moss-covered leggings of the Stone Knight,\r\ndefender of the Darkroot Garden.\r\n\r\nThe Stone Knight is a product of ancient\r\nmagic, and although these leggings are also\r\nimbued with magic, they are incredibly heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/123000.webp"
+  },
+  {
+    "id": "130000",
+    "name": {
+      "chn": "附结晶头盔",
+      "jap": "結晶付きの兜",
+      "eng": "Crystalline Helm"
+    },
+    "description": {
+      "chn": "身体被结晶吞噬一半的游魂骑士装备的头盔。\r\n头盔本身已完全结晶化。\r\n\r\n因为结晶的影响，防御力较高。",
+      "jap": "半ば結晶に飲まれた亡者の騎士のつけていた兜\r\n兜全体が結晶化している\r\n\r\n結晶の力により防御力が高い",
+      "eng": "Crystallized Helm worn by a Hollowed knight,\r\nwho was partially crystallized.\r\n\r\nThe power of the crystal grants high defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/130000.webp"
+  },
+  {
+    "id": "131000",
+    "name": {
+      "chn": "附结晶铠甲",
+      "jap": "結晶付きの鎧",
+      "eng": "Crystalline Armor"
+    },
+    "description": {
+      "chn": "身体被结晶吞噬一半的游魂骑士装备的铠甲。\r\n铠甲本身已完全结晶化。\r\n\r\n因为结晶的影响，防御力较高。",
+      "jap": "半ば結晶に飲まれた亡者の騎士のつけていた鎧\r\n鎧全体が結晶化している\r\n\r\n結晶の力により防御力が高い",
+      "eng": "Crystallized armor worn by a Hollowed knight,\r\nwho was partially crystallized.\r\n\r\nThe power of the crystal grants high defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/131000.webp"
+  },
+  {
+    "id": "132000",
+    "name": {
+      "chn": "附结晶臂甲",
+      "jap": "結晶付きの手甲",
+      "eng": "Crystalline Gauntlets"
+    },
+    "description": {
+      "chn": "身体被结晶吞噬一半的游魂骑士装备的臂甲。\r\n臂甲本身已完全结晶化。\r\n\r\n因为结晶的影响，防御力较高。",
+      "jap": "半ば結晶に飲まれた亡者の騎士のつけていた手甲\r\n手甲全体が結晶化している\r\n\r\n結晶の力により防御力が高い",
+      "eng": "Crystallized gauntlets worn by a Hollowed knight,\r\nwho was partially crystallized.\r\n\r\nThe power of the crystal grants high defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/132000.webp"
+  },
+  {
+    "id": "133000",
+    "name": {
+      "chn": "附结晶腿甲",
+      "jap": "結晶付きの足甲",
+      "eng": "Crystalline Leggings"
+    },
+    "description": {
+      "chn": "身体被结晶吞噬一半的游魂骑士装备的腿甲。\r\n腿甲本身已完全结晶化。\r\n\r\n因为结晶的影响，防御力较高。",
+      "jap": "半ば結晶に飲まれた亡者の騎士のつけていた足甲\r\n足甲全体が結晶化している\r\n\r\n結晶の力により防御力が高い",
+      "eng": "Crystallized leggings worn by a Hollowed knight,\r\nwho was partially crystallized.\r\n\r\nThe power of the crystal grants high defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/133000.webp"
+  },
+  {
+    "id": "140000",
+    "name": {
+      "chn": "封印者面罩",
+      "jap": "封印者の仮面",
+      "eng": "Mask of the Sealer"
+    },
+    "description": {
+      "chn": "将小隆德沉入水中，\r\n封印住堕入黑暗的小隆德四王与吸魂鬼的\r\n封印魔法师们的面罩。\r\n\r\n身为封印者，必须有永远活下去的决心，\r\n以及为牺牲者赎罪的心态，\r\n但三位封印者中，其中两人厌倦无止尽的责任，\r\n进而抛下小隆德远去。",
+      "jap": "小ロンドを水底に沈め\r\n闇に堕ちた四人の公王とダークレイスを封印した\r\n封印の魔術師たちの仮面\r\n\r\n封印者として永遠に生きる覚悟と\r\n犠牲になった者たちへの贖罪を示すものだが\r\n三人いた封印者の二人は\r\n永遠の任に飽き、既に小ロンドを捨てている",
+      "eng": "Mask of the sorcerers who flooded New Londo\r\nto seal away the Darkwraiths, and the\r\nFour Kings who descended into Dark.\r\n\r\nIt symbolizes their resolve to keep the seal\r\nshut forever and their atonement for all who\r\nwere sacrificed, but two of the three forsook\r\nNew Londo upon tiring of their duty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/140000.webp"
+  },
+  {
+    "id": "141000",
+    "name": {
+      "chn": "红色长袍",
+      "jap": "紅のローブ",
+      "eng": "Crimson Robe"
+    },
+    "description": {
+      "chn": "将小隆德沉入水中，\r\n封印住堕入黑暗的小隆德四王与吸魂鬼的\r\n封印魔法师们的长袍。\r\n\r\n封印魔法师们原本被称作疗伤圣手，\r\n鲜红的服装为其象征。",
+      "jap": "小ロンドを水底に沈め\r\n闇に堕ちた四人の公王とダークレイスを封印した\r\n封印の魔術師たちのローブ\r\n\r\n封印の魔術師たちは、元来癒し手と呼ばれ\r\n鮮やかな紅の衣装はその象徴であった",
+      "eng": "Robe of the sorcerers who flooded\r\nNew Londo to seal away the Darkwraiths,\r\nand the Four Kings who descended into Dark.\r\n\r\nThe Sealers were once known as healers, and\r\nthe bright crimson was a symbol of that."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/141000.webp"
+  },
+  {
+    "id": "142000",
+    "name": {
+      "chn": "红色手套",
+      "jap": "紅のグローブ",
+      "eng": "Crimson Gloves"
+    },
+    "description": {
+      "chn": "将小隆德沉入水中，\r\n封印住堕入黑暗的小隆德四王与吸魂鬼的\r\n封印魔法师们的手套。\r\n\r\n封印魔法师们原本被称作疗伤圣手，\r\n鲜红的服装为其象征。",
+      "jap": "小ロンドを水底に沈め\r\n闇に堕ちた四人の公王とダークレイスを封印した\r\n封印の魔術師たちのグローブ\r\n\r\n封印の魔術師たちは、元来癒し手と呼ばれ\r\n鮮やかな紅の衣装はその象徴であった",
+      "eng": "Gloves of the sorcerers who flooded\r\nNew Londo to seal away the Darkwraiths,\r\nand the Four Kings who descended into Dark.\r\n\r\nThe Sealers were once known as healers, and\r\nthe bright crimson was a symbol of that."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/142000.webp"
+  },
+  {
+    "id": "143000",
+    "name": {
+      "chn": "红色围裙",
+      "jap": "紅の腰巻き",
+      "eng": "Crimson Waistcloth"
+    },
+    "description": {
+      "chn": "将小隆德沉入水中，\r\n封印住堕入黑暗的小隆德四王与吸魂鬼的\r\n封印魔法师们的围裙。\r\n\r\n封印魔法师们原本被称作疗伤圣手，\r\n鲜红的服装为其象征。",
+      "jap": "小ロンドを水底に沈め\r\n闇に堕ちた四人の公王とダークレイスを封印した\r\n封印の魔術師たちの腰巻き\r\n\r\n封印の魔術師たちは、元来癒し手と呼ばれ\r\n鮮やかな紅の衣装はその象徴であった",
+      "eng": "Waistcloth of the sorcerers who flooded\r\nNew Londo to seal away the Darkwraiths,\r\nand the Four Kings who descended into Dark.\r\n\r\nThe Sealers were once known as healers, and\r\nthe bright crimson was a symbol of that."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/143000.webp"
+  },
+  {
+    "id": "150000",
+    "name": {
+      "chn": "蓓尔嘉面罩",
+      "jap": "ベルカの仮面",
+      "eng": "Mask of Velka"
+    },
+    "description": {
+      "chn": "罪业女神蓓尔嘉的教诲师穿戴的面罩。\r\n\r\n听取罪人的忏悔，\r\n督促反省及增进救赎的教诲师，理应和世俗隔离，\r\n而面罩就是表示此含意的象征。",
+      "jap": "罪の女神ベルカの教戒師がつける仮面\r\n\r\n罪人の懺悔を聞き、反省と救済を促す教戒師は\r\n俗な市井と隔絶した存在であるはずで\r\n仮面はその象徴である",
+      "eng": "Mask worn by pardoners serving Velka,\r\nthe Goddess of Sin.\r\n\r\nThe pardoners listen to the confessions of\r\nsinners, urging reflection and salvation.\r\nTheir masks symbolize separation from\r\nworldly desires."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/150000.webp"
+  },
+  {
+    "id": "151000",
+    "name": {
+      "chn": "黑色圣职衣",
+      "jap": "黒の聖職衣",
+      "eng": "Black Cleric Robe"
+    },
+    "description": {
+      "chn": "罪业女神蓓尔嘉的教诲师穿着的圣职衣。\r\n\r\n教诲师的服装统一为黑色，\r\n且传闻具有蓓尔嘉的神秘力量，\r\n有对法术的抵抗力。",
+      "jap": "罪の女神ベルカの教戒師がつける聖職衣\r\n\r\n教戒師の衣装はすべて黒で統一されており\r\nベルカの神秘の力から\r\nあらゆる魔法に耐性があると言われている",
+      "eng": "Robe worn by pardoners serving Velka,\r\nthe Goddess of Sin.\r\n\r\nThe pardoners' attire is uniformly black in\r\ncolor and said to be imbued with Velka's\r\nmystical power, which provides resistance\r\nagainst all manner of magic."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/151000.webp"
+  },
+  {
+    "id": "152000",
+    "name": {
+      "chn": "黑色袖套",
+      "jap": "黒のマンシェット",
+      "eng": "Black Manchette"
+    },
+    "description": {
+      "chn": "罪业女神蓓尔嘉的教诲师穿戴的袖套。\r\n\r\n教诲师的服装统一为黑色，\r\n且传闻具有蓓尔嘉的神秘力量，\r\n有对法术的抵抗力。",
+      "jap": "罪の女神ベルカの教戒師がつけるマンシェット\r\n\r\n教戒師の衣装はすべて黒で統一されており\r\nベルカの神秘の力から\r\nあらゆる魔法に耐性があると言われている",
+      "eng": "Manchette worn by pardoners serving Velka,\r\nthe Goddess of Sin.\r\n\r\nThe pardoners' attire is uniformly black in\r\ncolor and said to be imbued with Velka's\r\nmystical power, which provides resistance\r\nagainst all manner of magic."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/152000.webp"
+  },
+  {
+    "id": "153000",
+    "name": {
+      "chn": "黑色紧身裤",
+      "jap": "黒のタイツ",
+      "eng": "Black Tights"
+    },
+    "description": {
+      "chn": "罪业女神蓓尔嘉的教诲师穿着的紧身裤。\r\n\r\n教诲师的服装统一为黑色，\r\n且传闻具有蓓尔嘉的神秘力量，\r\n有对法术的抵抗力。",
+      "jap": "罪の女神ベルカの教戒師がつけるタイツ\r\n\r\n教戒師の衣装はすべて黒で統一されており\r\nベルカの神秘の力から\r\nあらゆる魔法に耐性があると言われている",
+      "eng": "Tights worn by pardoners serving Velka,\r\nthe Goddess of Sin.\r\n\r\nThe pardoners' attire is uniformly black in\r\ncolor and said to be imbued with Velka's\r\nmystical power, which provides resistance\r\nagainst all manner of magic."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/153000.webp"
+  },
+  {
+    "id": "160000",
+    "name": {
+      "chn": "铁头盔",
+      "jap": "鉄の兜",
+      "eng": "Iron Helm"
+    },
+    "description": {
+      "chn": "“太阳骑士”亚斯特拉的索拉尔的头盔。\r\n没有特殊的力量，只是用料比较好的防具。\r\n\r\n索拉尔能成为优秀的战士，\r\n靠的是自己的严格训练，\r\n他所用的也只是普通的装备。",
+      "jap": "太陽の騎士、アストラのソラールの兜\r\n特に特別な力はないが、質のよい防具\r\n\r\nソラールの戦士としての優秀さは\r\nただ彼のみの鍛錬によるものであり\r\nその装備はごく普通のものだったようだ",
+      "eng": "Helm of Solaire of Astora, Knight of\r\nSunlight. Of high quality, but lacking any\r\nparticular powers.\r\n\r\nSolaire's incredible prowess must have\r\ncome from rigorous training alone, for\r\nhis equipment exhibits no special traits."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/160000.webp"
+  },
+  {
+    "id": "161000",
+    "name": {
+      "chn": "太阳纹铠甲",
+      "jap": "太陽印の鎧",
+      "eng": "Armor of the Sun"
+    },
+    "description": {
+      "chn": "“太阳骑士”亚斯特拉的索拉尔的铠甲。\r\n画有大大的太阳圣徽，\r\n但因为是自己画的，并不具神圣力量。\r\n\r\n索拉尔能成为优秀的战士，\r\n靠的是自己的严格训练，\r\n他所用的也只是普通的装备。",
+      "jap": "太陽の騎士、アストラのソラールの鎧\r\n太陽のホーリーシンボルが大きく描かれているが\r\n自画であり、特に聖なる力があるわけではない\r\n\r\nソラールの戦士としての優秀さは\r\nただ彼のみの鍛錬によるものであり\r\nその装備はごく普通のものだったようだ",
+      "eng": "Armor of Solaire of Astora, Knight of\r\nSunlight. The large holy symbol of the Sun,\r\nwhile powerless, was painted by Solaire himself.\r\n\r\nSolaire's incredible prowess must have\r\ncome from rigorous training alone, for\r\nhis equipment exhibits no special traits."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/161000.webp"
+  },
+  {
+    "id": "162000",
+    "name": {
+      "chn": "铁臂套",
+      "jap": "鉄の腕輪",
+      "eng": "Iron Bracelet"
+    },
+    "description": {
+      "chn": "“太阳骑士”亚斯特拉的索拉尔的臂套。\r\n没有特殊的力量，只是用料比较好的防具。\r\n\r\n索拉尔能成为优秀的战士，\r\n靠的是自己的严格训练，\r\n他所用的也只是普通的装备。",
+      "jap": "太陽の騎士、アストラのソラールの腕輪\r\n特に特別な力はないが、質のよい防具\r\n\r\nソラールの戦士としての優秀さは\r\nただ彼のみの鍛錬によるものであり\r\nその装備はごく普通のものだったようだ",
+      "eng": "Bracelets of Solaire of Astora, Knight of\r\nSunlight. Of high quality, but lacking any\r\nparticular powers.\r\n\r\nSolaire's incredible prowess must have\r\ncome from rigorous training alone, for\r\nhis equipment exhibits no special traits."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/162000.webp"
+  },
+  {
+    "id": "163000",
+    "name": {
+      "chn": "铁腿甲",
+      "jap": "鉄の足甲",
+      "eng": "Iron Leggings"
+    },
+    "description": {
+      "chn": "“太阳骑士”亚斯特拉的索拉尔的腿甲。\r\n没有特殊的力量，只是用料比较好的防具。\r\n\r\n索拉尔能成为优秀的战士，\r\n靠的是自己的严格训练，\r\n他所用的也只是普通的装备。",
+      "jap": "太陽の騎士、アストラのソラールの足甲\r\n特に特別な力はないが、質のよい防具\r\n\r\nソラールの戦士としての優秀さは\r\nただ彼のみの鍛錬によるものであり\r\nその装備はごく普通のものだったようだ",
+      "eng": "Leggings of Solaire of Astora, Knight of\r\nSunlight. Of high quality, but lacking any\r\nparticular powers.\r\n\r\nSolaire's incredible prowess must have\r\ncome from rigorous training alone, for\r\nhis equipment exhibits no special traits."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/163000.webp"
+  },
+  {
+    "id": "170000",
+    "name": {
+      "chn": "锁子头盔",
+      "jap": "チェインヘルム",
+      "eng": "Chain Helm"
+    },
+    "description": {
+      "chn": "用细长的钢线编成的锁子头盔。\r\n因为容易生产，不重，并提供良好的防御能力，\r\n所以是人类世界广泛普及的防具，\r\n\r\n骑士会喜欢华而不实的盔甲，\r\n但对在战场上的战士而言，这就无关紧要了。",
+      "jap": "細く伸ばした鋼線で編まれた鎖帷子の兜\r\n製造難度、防御力、重さのバランスがよく\r\n人の世界ではひろく普及している防具\r\n\r\n騎士たちは見栄えもよい甲冑を好むが\r\n戦場にある戦士にはどうでもいいことだ",
+      "eng": "A chainmail helm of thin interlinking rings\r\nof steel. It is common throughout the human\r\nworld since it can be easily produced, is not\r\ntoo heavy, and offers good defense.\r\n\r\nKnights may favor flashy armor, but for\r\nwarriors on the battlefield, anything is\r\nfine as long as it keeps them alive."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/170000.webp"
+  },
+  {
+    "id": "171000",
+    "name": {
+      "chn": "锁子铠甲",
+      "jap": "チェインアーマー",
+      "eng": "Chain Armor"
+    },
+    "description": {
+      "chn": "用细长的钢线编成的锁子铠甲。\r\n因为容易生产，不重，并提供良好的防御能力，\r\n所以是人类世界广泛普及的防具，\r\n\r\n骑士会喜欢华而不实的盔甲，\r\n但对在战场上的战士而言，这就无关紧要了。",
+      "jap": "細く伸ばした鋼線で編まれた鎖帷子の鎧\r\n製造難度、防御力、重さのバランスがよく\r\n人の世界ではひろく普及している防具\r\n\r\n騎士たちは見栄えもよい甲冑を好むが\r\n戦場にある戦士にはどうでもいいことだ",
+      "eng": "Chainmail armor of thin interlinking rings of\r\nsteel. It is common throughout the human\r\nworld since it can be easily produced, is not\r\ntoo heavy, and offers good defense.\r\n\r\nKnights may favor flashy armor, but for\r\nwarriors on the battlefield, anything is\r\nfine as long as it keeps them alive."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/171000.webp"
+  },
+  {
+    "id": "172000",
+    "name": {
+      "chn": "皮护臂",
+      "jap": "レザーガントレット",
+      "eng": "Leather Gauntlets"
+    },
+    "description": {
+      "chn": "软皮制的护臂。\r\n非常普及的防具之一。",
+      "jap": "やわらかな革製のガントレット\r\nもっともありふれた防具の１つ",
+      "eng": "Gauntlets made of soft leather. One of the\r\nmore common kinds of protective gear."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/172000.webp"
+  },
+  {
+    "id": "173000",
+    "name": {
+      "chn": "锁子腿甲",
+      "jap": "チェインレギンス",
+      "eng": "Chain Leggings"
+    },
+    "description": {
+      "chn": "用细长的钢线编成的锁子腿甲。\r\n因为容易生产，不重，并提供良好的防御能力，\r\n所以是人类世界广泛普及的防具，\r\n\r\n骑士会喜欢华而不实的盔甲，\r\n但对在战场上的战士而言，这就无关紧要了。",
+      "jap": "細く伸ばした鋼線で編まれた鎖帷子の足甲\r\n製造難度、防御力、重さのバランスがよく\r\n人の世界ではひろく普及している防具\r\n\r\n騎士たちは見栄えもよい甲冑を好むが\r\n戦場にある戦士にはどうでもいいことだ",
+      "eng": "Chainmail leggings of thin interlinking\r\nrings of steel. It is common throughout the\r\nhuman world since it can be easily produced,\r\nis not too heavy, and offers good defense.\r\n\r\nKnights may favor flashy armor, but for\r\nwarriors on the battlefield, anything is\r\nfine as long as it keeps them alive."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/173000.webp"
+  },
+  {
+    "id": "180000",
+    "name": {
+      "chn": "圣职头盔",
+      "jap": "聖職の兜",
+      "eng": "Cleric Helm"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的头盔。\r\n\r\n是有点重量的装备，\r\n装备后看起来会很雄壮。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける兜\r\n\r\nかなりの重装備であり\r\n装備者の体を大きく見せる",
+      "eng": "Helm worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nIt is rather substantial in size and weight,\r\nmaking its wearer look even bigger than he\r\nactually is."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/180000.webp"
+  },
+  {
+    "id": "181000",
+    "name": {
+      "chn": "圣职铠甲",
+      "jap": "聖職の鎧",
+      "eng": "Cleric Armor"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的铠甲。\r\n\r\n是有点重量的装备，\r\n装备后看起来会很雄壮。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける鎧\r\n\r\nかなりの重装備であり\r\n装備者の体を大きく見せる",
+      "eng": "Armor worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nIt is rather substantial in size and weight,\r\nmaking its wearer look even bigger than he\r\nactually is."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/181000.webp"
+  },
+  {
+    "id": "182000",
+    "name": {
+      "chn": "圣职臂甲",
+      "jap": "聖職の手甲",
+      "eng": "Cleric Gauntlets"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的臂甲。\r\n\r\n是有点重量的装备，\r\n装备后看起来会很雄壮。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける手甲\r\n\r\nかなりの重装備であり\r\n装備者の体を大きく見せる",
+      "eng": "Gauntlets worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nThey are rather substantial in size and\r\nweight, making its wearer look even bigger\r\nthan he actually is."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/182000.webp"
+  },
+  {
+    "id": "183000",
+    "name": {
+      "chn": "圣职腿甲",
+      "jap": "聖職の足甲",
+      "eng": "Cleric Leggings"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的腿甲。\r\n\r\n是有点重量的装备，\r\n装备后看起来会很雄壮。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける足甲\r\n\r\nかなりの重装備であり\r\n装備者の体を大きく見せる",
+      "eng": "Leggings worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nThey are rather substantial in size and\r\nweight, making its wearer look even bigger\r\nthan he actually is."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/183000.webp"
+  },
+  {
+    "id": "190000",
+    "name": {
+      "chn": "太阳虫",
+      "jap": "太陽虫",
+      "eng": "Sunlight Maggot"
+    },
+    "description": {
+      "chn": "栖息于废都伊札里斯的恶心的寄生虫。\r\n完全不会动，但是也还没有死透。\r\n\r\n可以戴在头上，戴上后会照射出刺眼的白光，\r\n太阳虫之名因此而来。",
+      "jap": "廃都イザリスに蠢く不気味な寄生虫\r\nまったく動かないが、完全に死んではいない\r\n\r\n頭にかぶることができ、かぶるとまぶしい光を放つ\r\n太陽虫の名はその光に由来するものだ",
+      "eng": "A loathsome parasite that inhabits Lost\r\nIzalith. It is completely immobile, yet still\r\nlives.\r\n\r\nWhen worn on the head, it emanates\r\nblinding light, which is why it is known\r\nas a Sunlight Maggot."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/190000.webp"
+  },
+  {
+    "id": "200000",
+    "name": {
+      "chn": "刺针头盔",
+      "jap": "トゲの兜",
+      "eng": "Helm of Thorns"
+    },
+    "description": {
+      "chn": "臭名昭著的吸魂鬼“刺针骑士”寇克的头盔，\r\n表面上布满了尖锐的刺针。\r\n\r\n装备这可怕的头盔翻滚的话，\r\n就可以直接伤到敌人，\r\n正是与敌我不分的寇克名副其实的装备。",
+      "jap": "悪名高いダークレイス「トゲの騎士」カークの兜\r\n表面にびっしりと鋭いトゲが生えている\r\n\r\nこの禍々しい兜を装備してローリングすれば\r\nそのまま攻撃となり、敵にダメージを与える\r\nまさに、皆殺しのカークに相応しいものだ",
+      "eng": "Helm of Kirk, Knight of Thorns and notorious\r\nmember of the Darkwraiths. A dense patch of\r\nthorns grows from its surface.\r\n\r\nIt is a fitting item for the murderous Kirk,\r\nfor by simply wearing it and rolling, one can\r\ndamage enemies."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/200000.webp"
+  },
+  {
+    "id": "201000",
+    "name": {
+      "chn": "刺针铠甲",
+      "jap": "トゲの鎧",
+      "eng": "Armor of Thorns"
+    },
+    "description": {
+      "chn": "臭名昭著的吸魂鬼“刺针骑士”寇克的铠甲，\r\n表面上布满了尖锐的刺针。\r\n\r\n装备这可怕的铠甲翻滚的话，\r\n就可以直接伤到敌人，\r\n正是与敌我不分的寇克名副其实的装备。",
+      "jap": "悪名高いダークレイス「トゲの騎士」カークの鎧\r\n表面にびっしりと鋭いトゲが生えている\r\n\r\nこの禍々しい鎧を装備してローリングすれば\r\nそのまま攻撃となり、敵にダメージを与える\r\nまさに、皆殺しのカークに相応しいものだ",
+      "eng": "Armor of Kirk, Knight of Thorns and notorious\r\nmember of the Darkwraiths. A dense patch of\r\nthorns grows from its surface.\r\n\r\nIt is a fitting item for the murderous Kirk,\r\nfor by simply wearing it and rolling, one can\r\ndamage enemies."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/201000.webp"
+  },
+  {
+    "id": "202000",
+    "name": {
+      "chn": "刺针臂甲",
+      "jap": "トゲの手甲",
+      "eng": "Gauntlets of Thorns"
+    },
+    "description": {
+      "chn": "臭名昭著的吸魂鬼“刺针骑士”寇克的臂甲，\r\n表面上布满了尖锐的刺针。\r\n\r\n装备这可怕的臂甲翻滚的话，\r\n就可以直接伤到敌人，\r\n正是与敌我不分的寇克名副其实的装备。",
+      "jap": "悪名高いダークレイス「トゲの騎士」カークの手甲\r\n表面にびっしりと鋭いトゲが生えている\r\n\r\nこの禍々しい手甲を装備してローリングすれば\r\nそのまま攻撃となり、敵にダメージを与える\r\nまさに、皆殺しのカークに相応しいものだ",
+      "eng": "Gauntlets of Kirk, Knight of Thorns and\r\nnotorious member of the Darkwraiths. A dense\r\npatch of thorns grows from their surface.\r\n\r\nThey are fitting items for the murderous\r\nKirk, for by simply wearing them and rolling,\r\none can damage enemies."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/202000.webp"
+  },
+  {
+    "id": "203000",
+    "name": {
+      "chn": "刺针腿甲",
+      "jap": "トゲの足甲",
+      "eng": "Leggings of Thorns"
+    },
+    "description": {
+      "chn": "臭名昭著的吸魂鬼“刺针骑士”寇克的腿甲，\r\n表面上布满了尖锐的刺针。\r\n\r\n装备这可怕的腿甲翻滚的话，\r\n就可以直接伤到敌人，\r\n正是与敌我不分的寇克名副其实的装备。",
+      "jap": "悪名高いダークレイス「トゲの騎士」カークの足甲\r\n表面にびっしりと鋭いトゲが生えている\r\n\r\nこの禍々しい足甲を装備してローリングすれば\r\nそのまま攻撃となり、敵にダメージを与える\r\nまさに、皆殺しのカークに相応しいものだ",
+      "eng": "Leggings of Kirk, Knight of Thorns and\r\nnotorious member of the Darkwraiths. A dense\r\npatch of thorns grows from their surface.\r\n\r\nThey are fitting items for the murderous\r\nKirk, for by simply wearing them and rolling,\r\none can damage enemies."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/203000.webp"
+  },
+  {
+    "id": "210000",
+    "name": {
+      "chn": "铁制头盔",
+      "jap": "アイアンヘルム",
+      "eng": "Standard Helm"
+    },
+    "description": {
+      "chn": "坚固的铁制头盔，\r\n非常普及的防具之一。\r\n防御效果也很不错。\r\n\r\n为了防止被弓箭狙击头部，\r\n头部防具还是换坚固点的比较好。",
+      "jap": "頑丈な鉄製の兜\r\nもっともありふれた防具の１つであり\r\nその防御効果も堅実である\r\n\r\n弓矢で頭を狙撃されたときのためにも\r\n頭防具は頑丈なものを用意しておきたい",
+      "eng": "A sturdy helm made of iron. Very common\r\ntype of protective gear, it provides\r\na sound level of defense.\r\n\r\nIt is wise to wear a sturdy form of head\r\nprotection against arrows and other physical\r\nthreats."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/210000.webp"
+  },
+  {
+    "id": "211000",
+    "name": {
+      "chn": "硬皮护甲",
+      "jap": "ハードレザーアーマー",
+      "eng": "Hard Leather Armor"
+    },
+    "description": {
+      "chn": "硬皮制的铠甲，\r\n非常普及的防具之一。\r\n防御效果也很不错。",
+      "jap": "厚手の革で作られた鎧\r\nもっともありふれた防具の１つであり\r\nその防御効果も堅実である",
+      "eng": "Armor made of thick leather. Very common\r\ntype of protective gear, it provides\r\na sound level of defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/211000.webp"
+  },
+  {
+    "id": "212000",
+    "name": {
+      "chn": "硬皮护臂",
+      "jap": "ハードレザーガントレット",
+      "eng": "Hard Leather Gauntlets"
+    },
+    "description": {
+      "chn": "硬皮制的护臂，\r\n非常普及的防具之一。\r\n防御效果也很不错。",
+      "jap": "厚手の革で作られたガントレット\r\nもっともありふれた防具の１つであり\r\nその防御効果も堅実である",
+      "eng": "Gauntlets made of thick leather. Very\r\ncommon type of protective gear, they\r\nprovide a sound level of defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/212000.webp"
+  },
+  {
+    "id": "213000",
+    "name": {
+      "chn": "硬皮靴子",
+      "jap": "ハードレザーブーツ",
+      "eng": "Hard Leather Boots"
+    },
+    "description": {
+      "chn": "硬皮制的靴子，\r\n非常普及的防具之一。\r\n防御效果也很不错。",
+      "jap": "厚手の革で作られたブーツ\r\nもっともありふれた防具の１つであり\r\nその防御効果も堅実である",
+      "eng": "Boots made of thick leather. Very common\r\ntype of protective gear, they provide\r\na sound level of defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/213000.webp"
+  },
+  {
+    "id": "220000",
+    "name": {
+      "chn": "魔法师帽子",
+      "jap": "魔術師の帽子",
+      "eng": "Sorcerer Hat"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法师使用的帽子。\r\n\r\n他们对于能在学院做学问一事大多深感荣耀，\r\n所以会要求自己将魔法师的正装穿戴整齐。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術師たちの帽子\r\n\r\n彼らの多くは学院の学びに誇りを持っており\r\n魔術師の正装を崩すことを好まない",
+      "eng": "Hat worn by proper sorcerers who\r\nstudied at Vinheim Dragon School.\r\n\r\nThe majority take pride in having studied at\r\nthe academy and look down on breaking the\r\nformal dress code established for sorcerers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/220000.webp"
+  },
+  {
+    "id": "221000",
+    "name": {
+      "chn": "魔法师大衣",
+      "jap": "魔術師のコート",
+      "eng": "Sorcerer Cloak"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法师使用的大衣。\r\n\r\n他们对于能在学院做学问一事大多深感荣耀，\r\n所以会要求自己将魔法师的正装穿戴整齐。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術師たちのコート\r\n\r\n彼らの多くは学院の学びに誇りを持っており\r\n魔術師の正装を崩すことを好まない",
+      "eng": "Cloak worn by proper sorcerers who\r\nstudied at Vinheim Dragon School.\r\n\r\nThe majority take pride in having studied at\r\nthe academy and look down on breaking the\r\nformal dress code established for sorcerers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/221000.webp"
+  },
+  {
+    "id": "222000",
+    "name": {
+      "chn": "魔法师护臂",
+      "jap": "魔術師のガントレット",
+      "eng": "Sorcerer Gauntlets"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法师使用的护臂。\r\n\r\n他们对于能在学院做学问一事大多深感荣耀，\r\n所以会要求自己将魔法师的正装穿戴整齐。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術師たちのガントレット\r\n\r\n彼らの多くは学院の学びに誇りを持っており\r\n魔術師の正装を崩すことを好まない",
+      "eng": "Gauntlets worn by proper sorcerers who\r\nstudied at Vinheim Dragon School.\r\n\r\nThe majority take pride in having studied at\r\nthe academy and look down on breaking the\r\nformal dress code established for sorcerers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/222000.webp"
+  },
+  {
+    "id": "223000",
+    "name": {
+      "chn": "魔法师靴子",
+      "jap": "魔術師のブーツ",
+      "eng": "Sorcerer Boots"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法师使用的靴子。\r\n\r\n他们对于能在学院做学问一事大多深感荣耀，\r\n所以会要求自己将魔法师的正装穿戴整齐。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術師たちのブーツ\r\n\r\n彼らの多くは学院の学びに誇りを持っており\r\n魔術師の正装を崩すことを好まない",
+      "eng": "Boots worn by proper sorcerers who studied\r\nat Vinheim Dragon School.\r\n\r\nThe majority take pride in having studied at\r\nthe academy and look down on breaking the\r\nformal dress code established for sorcerers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/223000.webp"
+  },
+  {
+    "id": "230000",
+    "name": {
+      "chn": "破布风帽",
+      "jap": "ボロ布のフード",
+      "eng": "Tattered Cloth Hood"
+    },
+    "description": {
+      "chn": "大沼咒术师穿着的破布风帽。\r\n看起来破烂，但很耐用。\r\n\r\n他们大多被迫移居到偏僻的地方生活，\r\n因此其服装对火、毒等自然威胁较有抵抗力。",
+      "jap": "大沼の呪術師の着るボロ布のフード\r\nボロに見えて意外としっかりとしている\r\n\r\n彼らの多くは世間を追われ僻地で暮らすため\r\nその衣装も、炎や毒など自然の脅威に強い",
+      "eng": "Hood worn by pyromancers of the Great Swamp.\r\nThough it appears tattered, it is actually\r\nquite strong.\r\n\r\nTheir attire offers substantial protection\r\nagainst poison, fire, and other forces of\r\nnature out in the hinterlands where they\r\nwere driven."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/230000.webp"
+  },
+  {
+    "id": "231000",
+    "name": {
+      "chn": "破布长袍",
+      "jap": "ボロ布のローブ",
+      "eng": "Tattered Cloth Robe"
+    },
+    "description": {
+      "chn": "大沼咒术师穿着的破布长袍。\r\n看起来破烂，但很耐用。\r\n\r\n他们大多被迫移居到偏僻的地方生活，\r\n因此其服装对火、毒等自然威胁较有抵抗力。",
+      "jap": "大沼の呪術師の着るボロ布のローブ\r\nボロに見えて意外としっかりとしている\r\n\r\n彼らの多くは世間を追われ僻地で暮らすため\r\nその衣装も、炎や毒など自然の脅威に強い",
+      "eng": "Robe worn by pyromancers of the Great Swamp.\r\nThough it appears tattered, it is actually\r\nquite strong.\r\n\r\nTheir attire offers substantial protection\r\nagainst poison, fire, and other forces of\r\nnature out in the hinterlands where they\r\nwere driven."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/231000.webp"
+  },
+  {
+    "id": "232000",
+    "name": {
+      "chn": "破布袖套",
+      "jap": "ボロ布のマンシェット",
+      "eng": "Tattered Cloth Manchette"
+    },
+    "description": {
+      "chn": "大沼咒术师穿着的破布袖套。\r\n看起来破烂，但很耐用。\r\n\r\n他们大多被迫移居到偏僻的地方生活，\r\n因此其服装对火、毒等自然威胁较有抵抗力。",
+      "jap": "大沼の呪術師の着るボロ布のマンシェット\r\nボロに見えて意外としっかりとしている\r\n\r\n彼らの多くは世間を追われ僻地で暮らすため\r\nその衣装も、炎や毒など自然の脅威に強い",
+      "eng": "Manchette worn by pyromancers of the Great\r\nSwamp. Though it appears tattered, it is\r\nactually quite strong.\r\n\r\nTheir attire offers substantial protection\r\nagainst poison, fire, and other forces of\r\nnature out in the hinterlands where they\r\nwere driven."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/232000.webp"
+  },
+  {
+    "id": "233000",
+    "name": {
+      "chn": "厚靴子",
+      "jap": "厚手のブーツ",
+      "eng": "Heavy Boots"
+    },
+    "description": {
+      "chn": "很厚的皮制靴子。\r\n咒术师常在未经整顿的草地或沼地中行走，\r\n所以靴子非常耐用，不会让尖树枝等刺穿鞋底。",
+      "jap": "ぶ厚い革製のブーツ\r\n荒れた草地や沼地を歩く呪術師のブーツは\r\nとても丈夫で、尖った枝などを踏み抜くことはない",
+      "eng": "Boots made of thick leather. The boots of the\r\npyromancers are incredibly tough, on account\r\nof the rugged grasslands and treacherous\r\nswamps they must traverse. Their soles are\r\nnearly impenetrable."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/233000.webp"
+  },
+  {
+    "id": "240000",
+    "name": {
+      "chn": "法里斯帽子",
+      "jap": "ファリスの帽子",
+      "eng": "Pharis's Hat"
+    },
+    "description": {
+      "chn": "使弓英雄──法里斯常戴的帽子。\r\n特征是有长帽檐。\r\n\r\n法里斯是使弓的名人，虽然身为人类，\r\n却与葛温王四骑士的“鹰眼”戈夫齐名。\r\n有很多小孩子向往这顶传说中的帽子。",
+      "jap": "弓の英雄ファリスの愛用した帽子\r\n長いつばが特徴となる\r\n\r\nファリスは弓の名手であり、人でありながら\r\nグウィン王の四騎士「鷹の目」ゴーと並び称される\r\n伝承にあるその帽子に憧れる子供も数多い",
+      "eng": "Broad-brimmed hat favored by the archer hero\r\nPharis.\r\n\r\nPharis was an accomplished archer, and though\r\nhe was human, he ranked alongside Hawkeye\r\nGough, one of the Four Knights of Lord\r\nGwyn. His hat is universally popular among\r\nchildren."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/240000.webp"
+  },
+  {
+    "id": "241000",
+    "name": {
+      "chn": "皮护甲",
+      "jap": "レザーアーマー",
+      "eng": "Leather Armor"
+    },
+    "description": {
+      "chn": "软皮制的铠甲。\r\n非常普及的防具之一。",
+      "jap": "やわらかな革製の鎧\r\nもっともありふれた防具の１つ",
+      "eng": "Armor made of soft leather.\r\nVery common type of protective gear."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/241000.webp"
+  },
+  {
+    "id": "242000",
+    "name": {
+      "chn": "皮手套",
+      "jap": "レザーグローブ",
+      "eng": "Leather Gloves"
+    },
+    "description": {
+      "chn": "软皮制的手套。\r\n非常普及的防具之一。",
+      "jap": "やわらかな革製のグローブ\r\nもっともありふれた防具の１つ",
+      "eng": "Gloves made of soft leather.\r\nVery common type of protective gear."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/242000.webp"
+  },
+  {
+    "id": "243000",
+    "name": {
+      "chn": "皮靴子",
+      "jap": "レザーブーツ",
+      "eng": "Leather Boots"
+    },
+    "description": {
+      "chn": "软皮制的靴子。\r\n非常普及的防具之一。",
+      "jap": "やわらかな革製のブーツ\r\nもっともありふれた防具の１つ",
+      "eng": "Boots made of soft leather.\r\nVery common type of protective gear."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/243000.webp"
+  },
+  {
+    "id": "250000",
+    "name": {
+      "chn": "绘画守护者头巾",
+      "jap": "絵画守りの頭巾",
+      "eng": "Painting Guardian Hood"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的绘画守护者头巾。\r\n是洁白柔软的服装，对法术较有抵抗力。\r\n\r\n他们自古以来守护着艾雷米雅斯的大绘画，\r\n世世代代的子孙也继承此使命，\r\n但是守护大绘画的理由已经没人记得。",
+      "jap": "アノール・ロンドの絵画守りたちの頭巾\r\nほの白く滑らかな衣装。魔法に強い\r\n\r\n彼らは古くからエレーミアスの大絵画を守り\r\n子々孫々その使命を受け継いできた\r\nだが、もはや使命の理由は失われて久しい",
+      "eng": "Hood worn by the alabaster-clothed guardians\r\nof the paintings in Anor Londo. Offers\r\nsubstantial protection versus magic.\r\n\r\nThey have guarded the Great Paintings of\r\nAriamis for ages, passing their duty down\r\nthrough the generations, but the reason for\r\ndoing so passed from all memory long ago."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/250000.webp"
+  },
+  {
+    "id": "251000",
+    "name": {
+      "chn": "绘画守护者长衣",
+      "jap": "絵画守りの長衣",
+      "eng": "Painting Guardian Robe"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的绘画守护者长衣。\r\n是洁白柔软的服装，对法术较有抵抗力。\r\n\r\n他们自古以来守护着艾雷米雅斯的大绘画，\r\n世世代代的子孙也继承此使命，\r\n但是守护大绘画的理由已经没人记得。",
+      "jap": "アノール・ロンドの絵画守りたちの長衣\r\nほの白く滑らかな衣装。魔法に強い\r\n\r\n彼らは古くからエレーミアスの大絵画を守り\r\n子々孫々その使命を受け継いできた\r\nだが、もはや使命の理由は失われて久しい",
+      "eng": "Robe worn by the alabaster-clothed guardians\r\nof the paintings in Anor Londo. Offers\r\nsubstantial protection versus magic.\r\n\r\nThey have guarded the Great Paintings of\r\nAriamis for ages, passing their duty down\r\nthrough the generations, but the reason for\r\ndoing so passed from all memory long ago."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/251000.webp"
+  },
+  {
+    "id": "252000",
+    "name": {
+      "chn": "绘画守护者长手套",
+      "jap": "絵画守りの長手袋",
+      "eng": "Painting Guardian Gloves"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的绘画守护者长手套。\r\n是洁白柔软的服装，对法术较有抵抗力。\r\n\r\n他们自古以来守护着艾雷米雅斯的大绘画，\r\n世世代代的子孙也继承此使命，\r\n但是守护大绘画的理由已经没人记得。",
+      "jap": "アノール・ロンドの絵画守りたちの長手袋\r\nほの白く滑らかな衣装。魔法に強い\r\n\r\n彼らは古くからエレーミアスの大絵画を守り\r\n子々孫々その使命を受け継いできた\r\nだが、もはや使命の理由は失われて久しい",
+      "eng": "Gloves worn by the alabaster-clothed \r\nguardians of the paintings in Anor Londo.\r\nOffer substantial protection versus magic.\r\n\r\nThey have guarded the Great Paintings of\r\nAriamis for ages, passing their duty down\r\nthrough the generations, but the reason for\r\ndoing so passed from all memory long ago."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/252000.webp"
+  },
+  {
+    "id": "253000",
+    "name": {
+      "chn": "绘画守护者围裙",
+      "jap": "絵画守りの腰巻き",
+      "eng": "Painting Guardian Waistcloth"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的绘画守护者围裙。\r\n是洁白柔软的服装，对法术较有抵抗力。\r\n\r\n他们自古以来守护着艾雷米雅斯的大绘画，\r\n世世代代的子孙也继承此使命，\r\n但是守护大绘画的理由已经没人记得。",
+      "jap": "アノール・ロンドの絵画守りたちの腰巻き\r\nほの白く滑らかな衣装。魔法に強い\r\n\r\n彼らは古くからエレーミアスの大絵画を守り\r\n子々孫々その使命を受け継いできた\r\nだが、もはや使命の理由は失われて久しい",
+      "eng": "Waistcloth worn by the alabaster-clothed \r\nguardians of the paintings in Anor Londo.\r\nOffers substantial protection versus magic.\r\n\r\nThey have guarded the Great Paintings of\r\nAriamis for ages, passing their duty down\r\nthrough the generations, but the reason for\r\ndoing so passed from all memory long ago."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/253000.webp"
+  },
+  {
+    "id": "270000",
+    "name": {
+      "chn": "翁斯坦头盔",
+      "jap": "オーンスタインの兜",
+      "eng": "Ornstein's Helm"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德\r\n守护教堂的“猎龙者”翁斯坦的头盔。\r\n\r\n翁斯坦位居四骑士之长，\r\n他所使用的黄金狮子头盔带有雷电的力量，\r\n并且有良好的抗雷能力。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「竜狩り」オーンスタインの兜\r\n\r\nオーンスタインは四騎士の長とされ\r\nその黄金獅子の兜は雷の力を帯びる\r\n雷の力に対すれば、特に頼りになるだろう",
+      "eng": "Helm of the dragonslayer Ornstein, who\r\nguards the cathedral in the forsaken city of\r\nAnor Londo.\r\n\r\nOrnstein is believed to be the captain of the\r\nFour Knights. His golden lion helm is imbued\r\nwith the power of lightning and should\r\nprovide good protection against it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/270000.webp"
+  },
+  {
+    "id": "271000",
+    "name": {
+      "chn": "翁斯坦铠甲",
+      "jap": "オーンスタインの鎧",
+      "eng": "Ornstein's Armor"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德\r\n守护教堂的“猎龙者”翁斯坦的铠甲。\r\n\r\n翁斯坦位居四骑士之长，\r\n他所使用的黄金狮子铠甲带有雷电的力量，\r\n并且有良好的抗雷能力。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「竜狩り」オーンスタインの鎧\r\n\r\nオーンスタインは四騎士の長とされ\r\nその黄金獅子の鎧は雷の力を帯びる\r\n雷の力に対すれば、特に頼りになるだろう",
+      "eng": "Armor of the dragonslayer Ornstein, who\r\nguards the cathedral in the forsaken city of\r\nAnor Londo.\r\n\r\nOrnstein is believed to be the captain of the\r\nFour Knights. His golden lion armor is imbued\r\nwith the power of lightning and should\r\nprovide good protection against it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/271000.webp"
+  },
+  {
+    "id": "272000",
+    "name": {
+      "chn": "翁斯坦臂甲",
+      "jap": "オーンスタインの手甲",
+      "eng": "Ornstein's Gauntlets"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德\r\n守护教堂的“猎龙者”翁斯坦的臂甲。\r\n\r\n翁斯坦位居四骑士之长，\r\n他所使用的黄金狮子臂甲带有雷电的力量，\r\n并且有良好的抗雷能力。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「竜狩り」オーンスタインの手甲\r\n\r\nオーンスタインは四騎士の長とされ\r\nその黄金獅子の手甲は雷の力を帯びる\r\n雷の力に対すれば、特に頼りになるだろう",
+      "eng": "Gauntlets of the dragonslayer Ornstein, who\r\nguards the cathedral in the forsaken city of\r\nAnor Londo.\r\n\r\nOrnstein is believed to be the captain of the\r\nFour Knights. His golden lion gauntlets are\r\nimbued with the power of lightning and should\r\nprovide good protection against it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/272000.webp"
+  },
+  {
+    "id": "273000",
+    "name": {
+      "chn": "翁斯坦腿甲",
+      "jap": "オーンスタインの足甲",
+      "eng": "Ornstein's Leggings"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德\r\n守护教堂的“猎龙者”翁斯坦的腿甲。\r\n\r\n翁斯坦位居四骑士之长，\r\n他所使用的黄金狮子腿甲带有雷电的力量，\r\n并且有良好的抗雷能力。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「竜狩り」オーンスタインの足甲\r\n\r\nオーンスタインは四騎士の長とされ\r\nその黄金獅子の足甲は雷の力を帯びる\r\n雷の力に対すれば、特に頼りになるだろう",
+      "eng": "Leggings of the dragonslayer Ornstein, who\r\nguards the cathedral in the forsaken city of\r\nAnor Londo.\r\n\r\nOrnstein is believed to be the captain of the\r\nFour Knights. His golden lion leggings are\r\nimbued with the power of lightning and should\r\nprovide good protection against it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/273000.webp"
+  },
+  {
+    "id": "280000",
+    "name": {
+      "chn": "东方头盔",
+      "jap": "東国の兜",
+      "eng": "Eastern Helm"
+    },
+    "description": {
+      "chn": "东方国度所制作的独特头盔。\r\n\r\n头盔雕琢精细，工艺价值高。\r\n为应对东方国度的战斗方式，\r\n对斩击攻击有较高的防御力。",
+      "jap": "東の地で作られる独特の兜\r\n\r\n非常に精巧で工芸的価値も高いこの兜は\r\n東の地の戦にあわせ\r\n特に斬撃攻撃に対して高い防御力を持つ",
+      "eng": "A distinctive helm made in an Eastern land.\r\n\r\nExquisitely crafted, this helm offers\r\nexcellent defense, particularly versus slash\r\nattacks, which are one of the main threats in\r\nbattles in the East."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/280000.webp"
+  },
+  {
+    "id": "281000",
+    "name": {
+      "chn": "东方铠甲",
+      "jap": "東国の鎧",
+      "eng": "Eastern Armor"
+    },
+    "description": {
+      "chn": "东方国度所制作的独特铠甲。\r\n\r\n铠甲雕琢精细，工艺价值高。\r\n为应对东方国度的战斗方式，\r\n对斩击攻击有较高的防御力。",
+      "jap": "東の地で作られる独特の鎧\r\n\r\n非常に精巧で工芸的価値も高いこの鎧は\r\n東の地の戦にあわせ\r\n特に斬撃攻撃に対して高い防御力を持つ",
+      "eng": "Distinctive armor made in an Eastern Land.\r\n\r\nExquisitely crafted, this armor offers\r\nexcellent defense, particularly versus slash\r\nattacks, which are one of the main threats in\r\nbattles in the East."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/281000.webp"
+  },
+  {
+    "id": "282000",
+    "name": {
+      "chn": "东方臂甲",
+      "jap": "東国の手甲",
+      "eng": "Eastern Gauntlets"
+    },
+    "description": {
+      "chn": "东方国度所制作的独特臂甲。\r\n\r\n臂甲雕琢精细，工艺价值高。\r\n为应对东方国度的战斗方式，\r\n对斩击攻击有较高的防御力。",
+      "jap": "東の地で作られる独特の手甲\r\n\r\n非常に精巧で工芸的価値も高いこの手甲は\r\n東の地の戦にあわせ\r\n特に斬撃攻撃に対して高い防御力を持つ",
+      "eng": "Distinctive gauntlets made in an Eastern\r\nland.\r\n\r\nExquisitely crafted, these gauntlets offer\r\nexcellent defense, particularly versus slash\r\nattacks, which are one of the main threats in\r\nbattles in the East."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/282000.webp"
+  },
+  {
+    "id": "283000",
+    "name": {
+      "chn": "东方腿甲",
+      "jap": "東国の足甲",
+      "eng": "Eastern Leggings"
+    },
+    "description": {
+      "chn": "东方国度所制作的独特腿甲。\r\n\r\n腿甲雕琢精细，工艺价值高。\r\n为应对东方国度的战斗方式，\r\n对斩击攻击有较高的防御力。",
+      "jap": "東の地で作られる独特の足甲\r\n\r\n非常に精巧で工芸的価値も高いこの足甲は\r\n東の地の戦にあわせ\r\n特に斬撃攻撃に対して高い防御力を持つ",
+      "eng": "Distinctive leggings made in an Eastern\r\nland.\r\n\r\nExquisitely crafted, these leggings offer\r\nexcellent defense, particularly versus slash\r\nattacks, which are one of the main threats in\r\nbattles in the East."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/283000.webp"
+  },
+  {
+    "id": "290000",
+    "name": {
+      "chn": "黄衣头冠",
+      "jap": "黄衣の冠",
+      "eng": "Xanthous Crown"
+    },
+    "description": {
+      "chn": "传说中的放逐者，黄王杰雷麦亚所穿着\r\n完全不清楚来历的神秘服装。\r\n\r\n软绵绵的头冠是用上等的布料制成，\r\n但鲜艳的黄色很刺眼，帽子也明显过大。",
+      "jap": "伝説の追放者、黄の王ジェレマイアがつけていた\r\nまったく由来の分からない謎の衣装\r\n\r\n冠には上質の布が使われ、ふわふわとやわらかいが\r\n鮮やかな黄色が目にいたく、明らかに大きすぎる",
+      "eng": "A mysterious item once worn by the Xanthous \r\nKing Jeremiah, the legendary exile. No one\r\nknows where it came from.\r\n\r\nThe crown bears high-quality cloth which is\r\nquite soft to the touch, but its bright\r\nyellow color stings the eyes, and it is\r\nclearly far too big."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/290000.webp"
+  },
+  {
+    "id": "291000",
+    "name": {
+      "chn": "黄外衣",
+      "jap": "黄の上衣",
+      "eng": "Xanthous Overcoat"
+    },
+    "description": {
+      "chn": "传说中的放逐者，黄王杰雷麦亚所穿着\r\n完全不清楚来历的神秘服装。\r\n\r\n看起来破破烂烂的，鲜艳的黄色很刺眼。",
+      "jap": "伝説の追放者、黄の王ジェレマイアがつけていた\r\nまったく由来の分からない謎の衣装\r\nボロボロだが、鮮やかな黄色が目にいたい",
+      "eng": "A mysterious item once worn by the Xanthous\r\nKing Jeremiah, the legendary exile. No one\r\nknows where it came from.\r\n\r\nIt may be tattered, but its bright yellow\r\ncolor still stings the eyes."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/291000.webp"
+  },
+  {
+    "id": "292000",
+    "name": {
+      "chn": "黄衣长手套",
+      "jap": "黄衣の長手袋",
+      "eng": "Xanthous Gloves"
+    },
+    "description": {
+      "chn": "传说中的放逐者，黄王杰雷麦亚所穿着\r\n完全不清楚来历的神秘服装。\r\n\r\n看起来破破烂烂的，鲜艳的黄色很刺眼。",
+      "jap": "伝説の追放者、黄の王ジェレマイアがつけていた\r\nまったく由来の分からない謎の衣装\r\nボロボロだが、鮮やかな黄色が目にいたい",
+      "eng": "Mysterious items once worn by the Xanthous\r\nKing Jeremiah, the legendary exile. No one\r\nknows where they came from.\r\n\r\nThey may be tattered, but their bright yellow\r\ncolor still stings the eyes."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/292000.webp"
+  },
+  {
+    "id": "293000",
+    "name": {
+      "chn": "黄衣围裙",
+      "jap": "黄衣の腰巻き",
+      "eng": "Xanthous Waistcloth"
+    },
+    "description": {
+      "chn": "传说中的放逐者，黄王杰雷麦亚所穿着\r\n完全不清楚来历的神秘服装。\r\n\r\n看起来破破烂烂的，鲜艳的黄色很刺眼。",
+      "jap": "伝説の追放者、黄の王ジェレマイアがつけていた\r\nまったく由来の分からない謎の衣装\r\nボロボロだが、鮮やかな黄色が目にいたい",
+      "eng": "A mysterious item once worn by the Xanthous\r\nKing Jeremiah, the legendary exile. No one\r\nknows where it came from.\r\n\r\nIt may be tattered, but its bright yellow\r\ncolor still stings the eyes."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/293000.webp"
+  },
+  {
+    "id": "300000",
+    "name": {
+      "chn": "小偷面具",
+      "jap": "盗人マスク",
+      "eng": "Thief Mask"
+    },
+    "description": {
+      "chn": "匪类用的面具。\r\n用来遮住脸，降低声响，藏身黑暗的装备。\r\n\r\n防御效果不是很理想。",
+      "jap": "うしろめたい者たちのマスク\r\n顔を隠し、声を殺し、闇に隠れるためのもの\r\n防御効果はあまり高くない",
+      "eng": "Mask of sinners. They hide their faces,\r\nstifle their voices and hide in the shadows.\r\nIt does not provide much in the way of\r\ndefense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/300000.webp"
+  },
+  {
+    "id": "301000",
+    "name": {
+      "chn": "黑皮铠甲",
+      "jap": "黒革の鎧",
+      "eng": "Black Leather Armor"
+    },
+    "description": {
+      "chn": "柔软的黑皮铠甲。\r\n用来降低声响，藏身黑暗的装备。\r\n\r\n以厚皮革制成，防御力还可以。",
+      "jap": "なめらかな黒革の鎧\r\n音を殺し、闇に隠れるためのもの\r\n\r\n革自体も厚手であり\r\nある程度の防御力も期待できる",
+      "eng": "This armor made of smooth black leather is\r\nextremely quiet, a good thing for those who\r\nhide in the shadows.\r\n\r\nThe leather itself is thick, offering a\r\ndecent level of protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/301000.webp"
+  },
+  {
+    "id": "302000",
+    "name": {
+      "chn": "黑皮手套",
+      "jap": "黒革の手袋",
+      "eng": "Black Leather Gloves"
+    },
+    "description": {
+      "chn": "柔软的黑皮手套。\r\n用来降低声响，藏身黑暗的装备。\r\n\r\n以厚皮革制成，防御力还可以。",
+      "jap": "なめらかな黒革の手袋\r\n音を殺し、闇に隠れるためのもの\r\n\r\n革自体も厚手であり\r\nある程度の防御力も期待できる",
+      "eng": "These gloves made of smooth black leather are\r\nextremely quiet, good for those who hide in\r\nthe shadows.\r\n\r\nThe leather itself is thick, offering a\r\ndecent level of protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/302000.webp"
+  },
+  {
+    "id": "303000",
+    "name": {
+      "chn": "黑皮靴子",
+      "jap": "黒革のブーツ",
+      "eng": "Black Leather Boots"
+    },
+    "description": {
+      "chn": "柔软的黑皮靴子。\r\n用来降低声响，藏身黑暗的装备。\r\n\r\n以厚皮革制成，防御力还可以。",
+      "jap": "なめらかな黒革のブーツ\r\n音を殺し、闇に隠れるためのもの\r\n\r\n革自体も厚手であり\r\nある程度の防御力も期待できる",
+      "eng": "These boots made of smooth black leather are\r\nextremely quiet, good for those who hide in\r\nthe shadows.\r\n\r\nThe leather itself is thick, offering a\r\ndecent level of protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/303000.webp"
+  },
+  {
+    "id": "310000",
+    "name": {
+      "chn": "圣职帽子",
+      "jap": "司祭の帽子",
+      "eng": "Priest's Hat"
+    },
+    "description": {
+      "chn": "在白教司祭中，\r\n只有索尔隆德的司祭会穿戴的独特帽子。\r\n\r\n可以代表在教会中所处的地位，\r\n但在罗德兰一地根本没有意义。",
+      "jap": "白教の司祭の中でも\r\nソルロンドの者だけがつける独特の帽子\r\n\r\n教会内の地位を示すだけのものであり\r\nロードランの地ではほとんど意味を持たない",
+      "eng": "Distinctive hat worn only by Way of White\r\npriests in Thorolund.\r\n\r\nIt is simply meant to show their position\r\nwithin the hierarchy. It holds almost no\r\nmeaning in the land of Lordran."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/310000.webp"
+  },
+  {
+    "id": "311000",
+    "name": {
+      "chn": "圣职外衣",
+      "jap": "聖職の上衣",
+      "eng": "Holy Robe"
+    },
+    "description": {
+      "chn": "持续旅行的圣职所穿的外衣。\r\n质料还不错，可保暖又可遮风蔽雨。\r\n\r\n如果对教会解释的教义无法感到心服，\r\n有人会以旅行来考验自己的信仰。\r\n这也是白教用以整饬自身的方式。",
+      "jap": "旅を続ける聖職の上衣\r\n質素だがしっかりとしたもので\r\n風雨を避け、体を温める\r\n\r\n教会の教えに満足できない者は\r\n旅にでて自らの信仰を確認する\r\nそれは、白教の自浄作用である",
+      "eng": "Robe donned by men of the cloth. Though plain\r\nto the eye, its hardy fabric repels rain and\r\nkeeps the body warm.\r\n\r\nThose dissatisfied with church teachings\r\nmust test their faith by going on a spiritual\r\njourney. Such is the ritual self-purification\r\nof the Way of White."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/311000.webp"
+  },
+  {
+    "id": "312000",
+    "name": {
+      "chn": "旅行手套",
+      "jap": "旅の手袋",
+      "eng": "Traveling Gloves"
+    },
+    "description": {
+      "chn": "质料不错的厚布手套，适合长期旅行的人。",
+      "jap": "しっかりとした厚手の布手袋\r\n長い旅に出る人たちのもの",
+      "eng": "Thick, sturdy gloves made for travelers on\r\nextended journeys."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/312000.webp"
+  },
+  {
+    "id": "313000",
+    "name": {
+      "chn": "圣职长裤",
+      "jap": "聖職のズボン",
+      "eng": "Holy Trousers"
+    },
+    "description": {
+      "chn": "持续旅行的圣职所穿的长裤。\r\n质料还不错，可保暖又可遮风蔽雨。\r\n\r\n如果对教会解释的教义无法感到心服，\r\n有人会以旅行来考验自己的信仰。\r\n这也是白教用以整饬自身的方式。",
+      "jap": "旅を続ける聖職のズボン\r\n質素だがしっかりとしたもので\r\n風雨を避け、体を温める\r\n\r\n教会の教えに満足できない者は\r\n旅にでて自らの信仰を確認する\r\nそれは、白教の自浄作用である",
+      "eng": "Trousers donned by men of the cloth. Though\r\nplain to the eye, their hardy fabric\r\nrepels rain and keeps the body warm.\r\n\r\nThose dissatisfied with church teachings\r\nmust test their faith by going on a spiritual\r\njourney. Such is the ritual self-purification\r\nof the Way of White."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/313000.webp"
+  },
+  {
+    "id": "320000",
+    "name": {
+      "chn": "黑骑士头盔",
+      "jap": "黒騎士の兜",
+      "eng": "Black Knight Helm"
+    },
+    "description": {
+      "chn": "在罗德兰徘徊的黑骑士使用的头盔。\r\n\r\n葛温王在外出传火时，\r\n追随王的黑骑士受到再度燃起的火焰焚烧，\r\n此后他们便成了灰，于世界中徘徊。",
+      "jap": "ロードランをさまよう黒騎士たちの兜\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n騎士たちは王を追い、再び熾った火に焼かれた\r\n以来彼らは灰となり、世界をさまよい続けている",
+      "eng": "Helm of the Black Knights who haunt Lordran.\r\n\r\nThe knights followed Lord Gwyn when he\r\ndeparted to link the Fire but they were\r\nburned to ashes in the newly kindled flame,\r\nwandering the world as disembodied spirits\r\never after."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/320000.webp"
+  },
+  {
+    "id": "321000",
+    "name": {
+      "chn": "黑骑士铠甲",
+      "jap": "黒騎士の鎧",
+      "eng": "Black Knight Armor"
+    },
+    "description": {
+      "chn": "在罗德兰徘徊的黑骑士使用的铠甲。\r\n\r\n葛温王在外出传火时，\r\n追随王的黑骑士受到再度燃起的火焰焚烧，\r\n此后他们便成了灰，于世界中徘徊。",
+      "jap": "ロードランをさまよう黒騎士たちの鎧\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n騎士たちは王を追い、再び熾った火に焼かれた\r\n以来彼らは灰となり、世界をさまよい続けている",
+      "eng": "Armor of the Black Knights who haunt Lordran.\r\n\r\nThe knights followed Lord Gwyn when he\r\ndeparted to link the Fire, but they were\r\nburned to ashes in the newly kindled flame,\r\nwandering the world as disembodied spirits\r\never after."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/321000.webp"
+  },
+  {
+    "id": "322000",
+    "name": {
+      "chn": "黑骑士臂甲",
+      "jap": "黒騎士の手甲",
+      "eng": "Black Knight Gauntlets"
+    },
+    "description": {
+      "chn": "在罗德兰徘徊的黑骑士使用的臂甲。\r\n\r\n葛温王在外出传火时，\r\n追随王的黑骑士受到再度燃起的火焰焚烧，\r\n此后他们便成了灰，于世界中徘徊。",
+      "jap": "ロードランをさまよう黒騎士たちの手甲\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n騎士たちは王を追い、再び熾った火に焼かれた\r\n以来彼らは灰となり、世界をさまよい続けている",
+      "eng": "Gauntlets of the Black Knights who haunt\r\nLordran.\r\n\r\nThe knights pursued Lord Gwyn when he\r\ndeparted to link the Fire, but they were\r\nburned to ashes in the newly kindled flame,\r\nwandering the world as disembodied spirits\r\never after."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/322000.webp"
+  },
+  {
+    "id": "323000",
+    "name": {
+      "chn": "黑骑士腿甲",
+      "jap": "黒騎士の足甲",
+      "eng": "Black Knight Leggings"
+    },
+    "description": {
+      "chn": "在罗德兰徘徊的黑骑士使用的腿甲。\r\n\r\n葛温王在外出传火时，\r\n追随王的黑骑士受到再度燃起的火焰焚烧，\r\n此后他们便成了灰，于世界中徘徊。",
+      "jap": "ロードランをさまよう黒騎士たちの足甲\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n騎士たちは王を追い、再び熾った火に焼かれた\r\n以来彼らは灰となり、世界をさまよい続けている",
+      "eng": "Leggings of the Black Knights who haunt\r\nLordran.\r\n\r\nThe knights followed Lord Gwyn when he\r\ndeparted to link the flame, but they\r\nwere burned to ashes in the newly kindled\r\nfire, wandering the world as disembodied\r\nspirits ever after."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/323000.webp"
+  },
+  {
+    "id": "330000",
+    "name": {
+      "chn": "幽暗头冠",
+      "jap": "宵闇の頭冠",
+      "eng": "Crown of Dusk"
+    },
+    "description": {
+      "chn": "乌拉席露公主──幽暗，\r\n在出生时获赠的特殊法术头冠。\r\n\r\n装备者会受到法术祝福，\r\n所有法术威力和效果都会提升，\r\n但是受到的法术伤害也会大幅上升。",
+      "jap": "ウーラシールの姫君たる宵闇に\r\n誕生と共に与えられた、特別な魔法の頭冠\r\n\r\n装備者はすべての魔法に祝福され\r\n魔法の威力、効果は高まるが\r\n魔法によるダメージも大きくなる",
+      "eng": "Special magic crown bestowed upon Dusk,\r\nPrincess of Oolacile, upon her birth.\r\n\r\nIts wearer is blessed by all manner of magic.\r\nThis raises the power and effect of the\r\nwearer's magic, but damage suffered by magic\r\nattacks also rises."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/330000.webp"
+  },
+  {
+    "id": "331000",
+    "name": {
+      "chn": "古典礼服",
+      "jap": "古めかしいドレス",
+      "eng": "Antiquated Dress"
+    },
+    "description": {
+      "chn": "已灭亡的古代王国──乌拉席露的礼服。\r\n象牙色的丝绸上有些许刺绣，\r\n带有古老魔力。\r\n\r\n原本就不是用来战斗的服饰，\r\n根本没有防御力可言。",
+      "jap": "古い亡国ウーラシールのドレス\r\n象牙色の絹には、微細な刺繍が施されており\r\n古い魔力を帯びている\r\n\r\nそもそも戦いを意識した衣装ではなく\r\n防御力はまったく期待できない",
+      "eng": "A dress from the ancient fallen land of\r\nOolacile. Its ivory-colored silk features\r\nelaborate embroidery and is imbued with\r\nancient magic power.\r\n\r\nOne cannot expect any physical protection\r\nfrom this garment, as it was not meant to\r\nbe worn in battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/331000.webp"
+  },
+  {
+    "id": "332000",
+    "name": {
+      "chn": "古典长手套",
+      "jap": "古めかしいロンググローブ",
+      "eng": "Antiquated Gloves"
+    },
+    "description": {
+      "chn": "已灭亡的古代王国──乌拉席露的长手套。\r\n象牙色的丝绸上有些许刺绣，\r\n带有古老魔力。\r\n\r\n原本就不是用来战斗的服饰，\r\n根本没有防御力可言。",
+      "jap": "古い亡国ウーラシールのロンググローブ\r\n象牙色の絹には、微細な刺繍が施されており\r\n古い魔力を帯びている\r\n\r\nそもそも戦いを意識した衣装ではなく\r\n防御力はまったく期待できない",
+      "eng": "Gloves from the ancient fallen land of\r\nOolacile. Their ivory-colored silk features\r\nelaborate embroidery and are imbued with\r\nancient magic power.\r\n\r\nOne cannot expect any physical protection\r\nfrom these, as they were not meant to be worn\r\nin battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/332000.webp"
+  },
+  {
+    "id": "333000",
+    "name": {
+      "chn": "古典裙子",
+      "jap": "古めかしいスカート",
+      "eng": "Antiquated Skirt"
+    },
+    "description": {
+      "chn": "已灭亡的古代王国──乌拉席露的裙子。\r\n象牙色的丝绸上有些许刺绣，\r\n带有古老魔力。\r\n\r\n原本就不是用来战斗的服饰，\r\n根本没有防御力可言。",
+      "jap": "古い亡国ウーラシールのスカート\r\n象牙色の絹には、微細な刺繍が施されており\r\n古い魔力を帯びている\r\n\r\nそもそも戦いを意識した衣装ではなく\r\n防御力はまったく期待できない",
+      "eng": "A skirt from the ancient fallen land of\r\nOolacile. Its ivory-colored silk features\r\nelaborate embroidery and is imbued with\r\nancient magic power.\r\n\r\nOne cannot expect any physical protection\r\nfrom this garment, as it was not meant to\r\nbe worn in battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/333000.webp"
+  },
+  {
+    "id": "340000",
+    "name": {
+      "chn": "魔女三角帽",
+      "jap": "魔女のとんがり帽子",
+      "eng": "Witch Hat"
+    },
+    "description": {
+      "chn": "异端魔女比阿特丽斯的帽子。\r\n\r\n极少有用杖的魔法师不到龙学院学习，\r\n而挑战深渊的她即是其中一人，\r\n但她却未能活着出来。",
+      "jap": "異端の魔女ビアトリスの帽子\r\n\r\n杖を使う魔術師の中で\r\n竜の学院に学ばないものはごく少ない\r\n深淵に挑んだ彼女はその一人であろうが\r\n生きて出会うことはなかった",
+      "eng": "Hat of the rogue witch Beatrice.\r\n\r\nAlmost all magic users that employ a wand\r\nstudied at Dragon School, but Beatrice is\r\none of the few exceptions. She braved the\r\nAbyss but did not live to tell of her ordeal."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/340000.webp"
+  },
+  {
+    "id": "341000",
+    "name": {
+      "chn": "魔女大衣",
+      "jap": "魔女のコート",
+      "eng": "Witch Cloak"
+    },
+    "description": {
+      "chn": "异端魔女比阿特丽斯的大衣。\r\n\r\n极少有用杖的魔法师不到龙学院学习，\r\n而挑战深渊的她即是其中一人，\r\n但她却未能活着出来。",
+      "jap": "異端の魔女ビアトリスのコート\r\n\r\n杖を使う魔術師の中で\r\n竜の学院に学ばないものはごく少ない\r\n深淵に挑んだ彼女はその一人であろうが\r\n生きて出会うことはなかった",
+      "eng": "Cloak of the rogue witch Beatrice.\r\n\r\nAlmost all magic users that employ catalysts\r\nstudied at Dragon School, but Beatrice is\r\none of the few exceptions. She braved the\r\nAbyss but did not live to tell of her ordeal."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/341000.webp"
+  },
+  {
+    "id": "342000",
+    "name": {
+      "chn": "魔女手套",
+      "jap": "魔女のグローブ",
+      "eng": "Witch Gloves"
+    },
+    "description": {
+      "chn": "异端魔女比阿特丽斯的手套。\r\n\r\n极少有用杖的魔法师不到龙学院学习，\r\n而挑战深渊的她即是其中一人，\r\n但她却未能活着出来。",
+      "jap": "異端の魔女ビアトリスのグローブ\r\n\r\n杖を使う魔術師の中で\r\n竜の学院に学ばないものはごく少ない\r\n深淵に挑んだ彼女はその一人であろうが\r\n生きて出会うことはなかった",
+      "eng": "Gloves of the rogue witch Beatrice.\r\n\r\nAlmost all magic users that employ catalysts\r\nstudied at Dragon School, but Beatrice is\r\none of the few exceptions. She braved the\r\nAbyss but did not live to tell of her ordeal."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/342000.webp"
+  },
+  {
+    "id": "343000",
+    "name": {
+      "chn": "魔女裙子",
+      "jap": "魔女のスカート",
+      "eng": "Witch Skirt"
+    },
+    "description": {
+      "chn": "异端魔女比阿特丽斯的裙子。\r\n\r\n极少有用杖的魔法师不到龙学院学习，\r\n而挑战深渊的她即是其中一人，\r\n但她却未能活着出来。",
+      "jap": "異端の魔女ビアトリスのスカート\r\n\r\n杖を使う魔術師の中で\r\n竜の学院に学ばないものはごく少ない\r\n深淵に挑んだ彼女はその一人であろうが\r\n生きて出会うことはなかった",
+      "eng": "Skirt of the rogue witch Beatrice.\r\n\r\nAlmost all magic users that employ catalysts\r\nstudied at Dragon School, but Beatrice is\r\none of the few exceptions. She braved the\r\nAbyss but did not live to tell of her ordeal."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/343000.webp"
+  },
+  {
+    "id": "350000",
+    "name": {
+      "chn": "上级骑士头盔",
+      "jap": "上級騎士の兜",
+      "eng": "Elite Knight Helm"
+    },
+    "description": {
+      "chn": "无名骑士的头盔。\r\n应该是亚斯特拉上级骑士的装备。\r\n\r\n那无名骑士肩负不死人的使命，\r\n却死于不死院，变成了游魂。",
+      "jap": "名も知らぬ騎士の兜\r\n恐らくはアストラの上級騎士のもの\r\n\r\nかの騎士は、不死として使命を持ちながら\r\n不死院で斃れ、亡者となり果てたのだろう",
+      "eng": "Helm of a nameless knight, perhaps an elite\r\nknight of Astora.\r\n\r\nAlthough he was loath to give up on his\r\nUndead mission, he perished at the Undead\r\nAsylum, and went Hollow."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/350000.webp"
+  },
+  {
+    "id": "351000",
+    "name": {
+      "chn": "上级骑士铠甲",
+      "jap": "上級騎士の鎧",
+      "eng": "Elite Knight Armor"
+    },
+    "description": {
+      "chn": "无名骑士的铠甲。\r\n以蓝色防火罩袍上的图纹来看，\r\n应该是亚斯特拉上级骑士的装备。\r\n\r\n那无名骑士肩负不死人的使命，\r\n却死于不死院，变成了游魂。",
+      "jap": "名も知らぬ騎士の鎧\r\n火を防ぐブルーのサーコートの紋章からも\r\n恐らくはアストラの上級騎士のもの\r\n\r\nかの騎士は、不死として使命を持ちながら\r\n不死院で斃れ、亡者となり果てたのだろう",
+      "eng": "Armor of a nameless knight, perhaps an elite\r\nknight of Astora, based on the fire-warding\r\nheraldic symbol on its blue surcoat.\r\n\r\nAlthough he was loath to give up on his\r\nUndead mission, he perished at the Undead\r\nAsylum, and went Hollow."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/351000.webp"
+  },
+  {
+    "id": "352000",
+    "name": {
+      "chn": "上级骑士臂甲",
+      "jap": "上級騎士の手甲",
+      "eng": "Elite Knight Gauntlets"
+    },
+    "description": {
+      "chn": "无名骑士的臂甲。\r\n应该是亚斯特拉上级骑士的装备。\r\n\r\n那无名骑士肩负不死人的使命，\r\n却死于不死院，变成了游魂。",
+      "jap": "名も知らぬ騎士の手甲\r\n恐らくはアストラの上級騎士のもの\r\n\r\nかの騎士は、不死として使命を持ちながら\r\n不死院で斃れ、亡者となり果てたのだろう",
+      "eng": "Gauntlets of a nameless knight, perhaps an\r\nelite knight of Astora.\r\n\r\nAlthough he was loath to give up on his\r\nUndead mission, he perished at the Undead\r\nAsylum, and went Hollow."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/352000.webp"
+  },
+  {
+    "id": "353000",
+    "name": {
+      "chn": "上级骑士腿甲",
+      "jap": "上級騎士の足甲",
+      "eng": "Elite Knight Leggings"
+    },
+    "description": {
+      "chn": "无名骑士的腿甲。\r\n应该是亚斯特拉上级骑士的装备。\r\n\r\n那无名骑士肩负不死人的使命，\r\n却死于不死院，变成了游魂。",
+      "jap": "名も知らぬ騎士の足甲\r\n恐らくはアストラの上級騎士のもの\r\n\r\nかの騎士は、不死として使命を持ちながら\r\n不死院で斃れ、亡者となり果てたのだろう",
+      "eng": "Leggings of a nameless knight, perhaps an\r\nelite knight of Astora.\r\n\r\nAlthough he was loath to give up on his\r\nUndead mission, he perished at the Undead\r\nAsylum, and went Hollow."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/353000.webp"
+  },
+  {
+    "id": "360000",
+    "name": {
+      "chn": "流浪风帽",
+      "jap": "放浪のフード",
+      "eng": "Wanderer Hood"
+    },
+    "description": {
+      "chn": "流离失所的旅人使用的风帽。\r\n用不错的皮革制成，可遮风蔽雨。",
+      "jap": "あてのない旅人のフード\r\nしっかりとした革製で、風雨を防ぐ",
+      "eng": "Hood of an aimless traveler. Made from sturdy\r\nleather, it offers protection versus wind\r\nand rain."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/360000.webp"
+  },
+  {
+    "id": "361000",
+    "name": {
+      "chn": "流浪大衣",
+      "jap": "放浪のコート",
+      "eng": "Wanderer Coat"
+    },
+    "description": {
+      "chn": "流离失所的旅人使用的大衣。\r\n用不错的皮革和羽绒编织而成。\r\n\r\n流浪时难免会遇上争斗，\r\n防御能力自然也就值得期待了。",
+      "jap": "あてのない旅人のコート\r\nしっかりとした革と、キルトを組み合わせたもの\r\n\r\n放浪に戦いはつきものであり\r\nそれなりの防御効果も期待できる",
+      "eng": "Coat of an aimless traveler. Made from sturdy\r\nleather and quilting.\r\n\r\nBattle comes with the territory when one\r\nwanders the land, and this coat provides a\r\ncertain degree of protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/361000.webp"
+  },
+  {
+    "id": "362000",
+    "name": {
+      "chn": "流浪袖套",
+      "jap": "放浪のマンシェット",
+      "eng": "Wanderer Manchette"
+    },
+    "description": {
+      "chn": "流离失所的旅人使用的袖套。\r\n用不错的皮革制成，可保护手部。",
+      "jap": "あてのない旅人のマンシェット\r\nしっかりとした革製で、手元を守る",
+      "eng": "Manchette of an aimless traveler.\r\n\r\nMade from sturdy leather and protects the\r\nhands."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/362000.webp"
+  },
+  {
+    "id": "363000",
+    "name": {
+      "chn": "流浪靴子",
+      "jap": "放浪のブーツ",
+      "eng": "Wanderer Boots"
+    },
+    "description": {
+      "chn": "流离失所的旅人使用的靴子。\r\n用不错的皮革制成，是长途旅行的必备品。",
+      "jap": "あてのない旅人のブーツ\r\nしっかりとした革製で、長旅の必需品",
+      "eng": "Boots of an aimless traveler.\r\n\r\nMade from sturdy leather. A must-have for\r\nlong journeys."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/363000.webp"
+  },
+  {
+    "id": "370000",
+    "name": {
+      "chn": "##魔法铁匠帽子",
+      "jap": "##魔術鍛冶の帽子",
+      "eng": "##Mage Smith Hat"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法铁匠所穿戴的帽子。\r\n\r\n与魔法师等同师兄弟的魔法铁匠，\r\n会用法术余烬来冶炼法术武器。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術鍛治たちの帽子\r\n\r\n魔術鍛治は魔術師の兄弟弟子にあたり\r\n魔法の種火で、武器を魔法的に鍛える",
+      "eng": "Hat worn by proper mage smiths who\r\nstudied at Vinheim Dragon School.\r\n\r\nMage smiths learn their craft alongside\r\nsorcerers, but apply their sorcery to\r\nforging weapons with magic embers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/370000.webp"
+  },
+  {
+    "id": "371000",
+    "name": {
+      "chn": "##魔法铁匠大衣",
+      "jap": "##魔術鍛冶のコート",
+      "eng": "##Mage Smith Coat"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法铁匠所穿戴的大衣。\r\n\r\n与魔法师等同师兄弟的魔法铁匠，\r\n会用法术余烬来冶炼法术武器。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術鍛治たちのコート\r\n\r\n魔術鍛治は魔術師の兄弟弟子にあたり\r\n魔法の種火で、武器を魔法的に鍛える",
+      "eng": "Coat worn by proper mage smiths who\r\nstudied at Vinheim Dragon School.\r\n\r\nMage smiths learn their craft alongside\r\nsorcerers, but apply their sorcery to\r\nforging weapons with magic embers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/371000.webp"
+  },
+  {
+    "id": "372000",
+    "name": {
+      "chn": "##魔法铁匠护臂",
+      "jap": "##魔術鍛冶のガントレット",
+      "eng": "##Mage Smith Gauntlets"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法铁匠所穿戴的护臂。\r\n\r\n与魔法师等同师兄弟的魔法铁匠，\r\n会用法术余烬来冶炼法术武器。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術鍛治たちのガントレット\r\n\r\n魔術鍛治は魔術師の兄弟弟子にあたり\r\n魔法の種火で、武器を魔法的に鍛える",
+      "eng": "Gauntlets worn by proper mage smiths who\r\nstudied at Vinheim Dragon School.\r\n\r\nMage smiths learn their craft alongside\r\nsorcerers, but apply their sorcery to\r\nforging weapons with magic embers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/372000.webp"
+  },
+  {
+    "id": "373000",
+    "name": {
+      "chn": "##魔法铁匠靴子",
+      "jap": "##魔術鍛冶のブーツ",
+      "eng": "##Mage Smith Boots"
+    },
+    "description": {
+      "chn": "在彼海姆的龙学院学习魔法的\r\n正规魔法铁匠所穿戴的靴子。\r\n\r\n与魔法师等同师兄弟的魔法铁匠，\r\n会用法术余烬来冶炼法术武器。",
+      "jap": "ヴィンハイムの竜の学院で学んだ\r\n正規の魔術鍛治たちのブーツ\r\n\r\n魔術鍛治は魔術師の兄弟弟子にあたり\r\n魔法の種火で、武器を魔法的に鍛える",
+      "eng": "Boots worn by proper mage smiths who\r\nstudied at Vinheim Dragon School.\r\n\r\nMage smiths learn their craft alongside\r\nsorcerers, but apply their sorcery to\r\nforging weapons with magic embers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/373000.webp"
+  },
+  {
+    "id": "380000",
+    "name": {
+      "chn": "大帽子",
+      "jap": "ビッグハット",
+      "eng": "Big Hat"
+    },
+    "description": {
+      "chn": "成了伟大魔法师罗根的别名，\r\n连脸都盖得起来的巨大帽子。\r\n\r\n讨厌人出了名的罗根\r\n为了隔离视线及噪音，专注思考所制作的帽子。\r\n并没有什么特殊的魔力。",
+      "jap": "偉大な魔術師ローガンの二つ名となる\r\nすっぽりと顔まで隠れる巨大な帽子\r\n\r\n人嫌いとしても知られるローガンが\r\n視線や雑音を排し、思索に集中するためのもの\r\n特別な魔力などは秘めていない",
+      "eng": "Gigantic hat worn by the great sorcerer\r\nLogan. It completely hid his face, which led\r\nto his nickname \"Big Hat.\"\r\n\r\nFamously antisocial, Logan used it to block\r\nout noise and people's stares so he could\r\nfocus on his own thoughts, but it does not\r\npossess any special magic powers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/380000.webp"
+  },
+  {
+    "id": "381000",
+    "name": {
+      "chn": "贤者长袍",
+      "jap": "賢者のローブ",
+      "eng": "Sage Robe"
+    },
+    "description": {
+      "chn": "“大帽子”罗根的长袍。\r\n好像是很久以前龙学院的长袍，\r\n已经穿得太久，看不出原状了。\r\n\r\n罗根对于穿着不感兴趣，\r\n可能是觉得穿脱很麻烦，所以就一直穿着。",
+      "jap": "「ビッグハット」ローガンのローブ\r\n一昔前の竜の学院のローブのようだが\r\n着古され、もはや原型は分からない\r\n\r\n衣装に無頓着なローガンのこと\r\nむしろ脱ぐのが面倒だから\r\nずっと着続けていたのだろう",
+      "eng": "Robe worn by Big Hat Logan. It is said to\r\nhave been from his apprentice days at Dragon\r\nSchool, but it is so worn out, no one knows\r\nwhat it originally looked like.\r\n\r\nLogan, who cared little for his appearance,\r\nno doubt ever bothered to change out of it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/381000.webp"
+  },
+  {
+    "id": "382000",
+    "name": {
+      "chn": "旅行长手套",
+      "jap": "旅の長手袋",
+      "eng": "Traveling Gloves"
+    },
+    "description": {
+      "chn": "“大帽子”罗根的长手套。\r\n很普通的旅人装备。",
+      "jap": "「ビッグハット」ローガンの長手袋\r\n何の変哲もない旅人の装備",
+      "eng": "Gloves worn by Big Hat Logan. They are\r\nindistinguishable from the ordinary kind\r\nworn by travelers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/382000.webp"
+  },
+  {
+    "id": "383000",
+    "name": {
+      "chn": "旅行靴子",
+      "jap": "旅の靴",
+      "eng": "Traveling Boots"
+    },
+    "description": {
+      "chn": "“大帽子”罗根的靴子。\r\n很普通的旅人装备。",
+      "jap": "「ビッグハット」ローガンの靴\r\n何の変哲もない旅人の装備",
+      "eng": "Boots worn by Big Hat Logan. They are\r\nindistinguishable from the ordinary kind\r\nworn by travelers."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/383000.webp"
+  },
+  {
+    "id": "390000",
+    "name": {
+      "chn": "骑士头盔",
+      "jap": "騎士の兜",
+      "eng": "Knight Helm"
+    },
+    "description": {
+      "chn": "下级骑士用的头盔。\r\n特色是装甲虽薄，但有加上沟槽以加强防御力。",
+      "jap": "下級の騎士の兜\r\n薄板でも防御力を保つ溝の加工が特徴",
+      "eng": "Helm of a lower-rank knight. Despite the\r\nthin metal used, the grooved texture gives\r\nit added protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/390000.webp"
+  },
+  {
+    "id": "391000",
+    "name": {
+      "chn": "骑士铠甲",
+      "jap": "騎士の鎧",
+      "eng": "Knight Armor"
+    },
+    "description": {
+      "chn": "下级骑士用的铠甲。\r\n特色是装甲虽薄，但有加上沟槽以加强防御力。",
+      "jap": "下級の騎士の鎧\r\n薄板でも防御力を保つ溝の加工が特徴",
+      "eng": "Armor of a lower-rank knight. Despite the\r\nthin metal used, the grooved texture gives\r\nit added protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/391000.webp"
+  },
+  {
+    "id": "392000",
+    "name": {
+      "chn": "骑士臂甲",
+      "jap": "騎士の手甲",
+      "eng": "Knight Gauntlets"
+    },
+    "description": {
+      "chn": "下级骑士用的臂甲。\r\n特色是装甲虽薄，但有加上沟槽以加强防御力。",
+      "jap": "下級の騎士の手甲\r\n薄板でも防御力を保つ溝の加工が特徴",
+      "eng": "Gauntlets of a lower-rank knight. Despite the\r\nthin metal used, the grooved texture gives\r\nthem added protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/392000.webp"
+  },
+  {
+    "id": "393000",
+    "name": {
+      "chn": "骑士腿甲",
+      "jap": "騎士の足甲",
+      "eng": "Knight Leggings"
+    },
+    "description": {
+      "chn": "下级骑士用的腿甲。\r\n特色是装甲虽薄，但有加上沟槽以加强防御力。",
+      "jap": "下級の騎士の足甲\r\n薄板でも防御力を保つ溝の加工が特徴",
+      "eng": "Leggings of a lower-rank knight. Despite the\r\nthin metal used, the grooved texture gives\r\nthem added protection."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/393000.webp"
+  },
+  {
+    "id": "400000",
+    "name": {
+      "chn": "肮脏风帽",
+      "jap": "うす汚れたフード",
+      "eng": "Dingy Hood"
+    },
+    "description": {
+      "chn": "传火祭祀场的防火女所穿的服装。\r\n\r\n原本是圣女的白色风帽，\r\n但因为被营火的灰弄脏，已经看不出原貌了。",
+      "jap": "火継ぎの祭祀場の火防女の着衣\r\n\r\n元は聖女の白いフードだったのだろうが\r\n篝火の灰で薄汚れ、今は見る影もない",
+      "eng": "Worn by the Fire Keeper at Firelink Shrine.\r\n\r\nIt is thought to have once been the white\r\nhood of a maiden, but smoke and ashes\r\nfrom bonfires have darkened it over the\r\nyears."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/400000.webp"
+  },
+  {
+    "id": "401000",
+    "name": {
+      "chn": "肮脏外衣",
+      "jap": "うす汚れた上衣",
+      "eng": "Dingy Robe"
+    },
+    "description": {
+      "chn": "传火祭祀场的防火女所穿的服装。\r\n\r\n原本是圣女的白色外衣，\r\n但因为被营火的灰弄脏，已经看不出原貌了。",
+      "jap": "火継ぎの祭祀場の火防女の着衣\r\n\r\n元は聖女の白い上衣だったのだろうが\r\n篝火の灰で薄汚れ、今は見る影もない",
+      "eng": "Worn by the Fire Keeper at Firelink Shrine.\r\n\r\nIt is thought to have once been the white\r\nrobe of a maiden, but smoke and ashes\r\nfrom bonfires have darkened it over the\r\nyears."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/401000.webp"
+  },
+  {
+    "id": "402000",
+    "name": {
+      "chn": "肮脏手套",
+      "jap": "うす汚れた手袋",
+      "eng": "Dingy Gloves"
+    },
+    "description": {
+      "chn": "传火祭祀场的防火女所穿的服装。\r\n\r\n原本是圣女的白色手套，\r\n但因为被营火的灰弄脏，已经看不出原貌了。",
+      "jap": "火継ぎの祭祀場の火防女の着衣\r\n\r\n元は聖女の白い手袋だったのだろうが\r\n篝火の灰で薄汚れ、今は見る影もない",
+      "eng": "Worn by the Fire Keeper at Firelink Shrine.\r\n\r\nThey are thought to have once been the white\r\ngloves of a maiden, but smoke and ashes\r\nfrom bonfires have darkened them over the\r\nyears."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/402000.webp"
+  },
+  {
+    "id": "403000",
+    "name": {
+      "chn": "染血裙子",
+      "jap": "血濡れたスカート",
+      "eng": "Blood-Stained Skirt"
+    },
+    "description": {
+      "chn": "传火祭祀场的防火女所穿的服装。\r\n\r\n原本是圣女的白色裙子，\r\n可能因为砍断了某种妨碍逃跑的东西，\r\n因此沾满血渍，已经看不出原貌了。",
+      "jap": "火継ぎの祭祀場の火防女の着衣\r\n\r\n元は聖女の白いスカートだったのだろうが\r\n逃げ出さぬよう何か切り落としたのか\r\nべっとりと血に汚れ、今は見る影もない",
+      "eng": "Worn by the Fire Keeper at Firelink Shrine.\r\n\r\nIt is thought to have once been the white\r\nskirt of a maiden, but its true origin\r\nis lost in patches of blood. Perhaps its\r\nformer wearer was maimed to prevent escape?"
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/403000.webp"
+  },
+  {
+    "id": "410000",
+    "name": {
+      "chn": "圣女风帽",
+      "jap": "聖女のフード",
+      "eng": "Maiden Hood"
+    },
+    "description": {
+      "chn": "旅行圣女穿戴的白色风帽。\r\n圣女正装不分地位高低。\r\n\r\n制作得不错，很柔软，\r\n但防御力低，不适合战斗。",
+      "jap": "旅の聖女が身につける白いフード\r\n地位によらない聖女の正装\r\n\r\n柔らかく仕立てのよいものだが\r\n防御力は低く、戦いには向いていない",
+      "eng": "White hood worn by traveling maidens. It is\r\npart of their formal attire, regardless of\r\nrank.\r\n\r\nIt is soft and well-made, but does not offer\r\nmuch in the way of defense, making it ill-\r\nsuited to use in battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/410000.webp"
+  },
+  {
+    "id": "411000",
+    "name": {
+      "chn": "圣女外衣",
+      "jap": "聖女の上衣",
+      "eng": "Maiden Robe"
+    },
+    "description": {
+      "chn": "旅行圣女穿戴的白色外衣。\r\n圣女正装不分地位高低。\r\n\r\n制作得不错，很柔软，\r\n但防御力低，不适合战斗。",
+      "jap": "旅の聖女が身につける白い上衣\r\n地位によらない聖女の正装\r\n\r\n柔らかく仕立てのよいものだが\r\n防御力は低く、戦いには向いていない",
+      "eng": "White robe worn by traveling maidens. It is\r\npart of their formal attire, regardless of\r\nrank.\r\n\r\nIt is soft and well-made, but does not offer\r\nmuch in the way of defense, making it ill-\r\nsuited to use in battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/411000.webp"
+  },
+  {
+    "id": "412000",
+    "name": {
+      "chn": "圣女手套",
+      "jap": "聖女の手袋",
+      "eng": "Maiden Gloves"
+    },
+    "description": {
+      "chn": "旅行圣女穿戴的白色手套。\r\n圣女正装不分地位高低。\r\n\r\n制作得不错，很柔软，\r\n但防御力低，不适合战斗。",
+      "jap": "旅の聖女が身につける白い手袋\r\n地位によらない聖女の正装\r\n\r\n柔らかく仕立てのよいものだが\r\n防御力は低く、戦いには向いていない",
+      "eng": "White gloves worn by traveling maidens.\r\nThey are part of their formal attire,\r\nregardless of rank.\r\n\r\nWhile soft and well-made, they do not\r\noffer much in the way of defense, making\r\nthem ill-suited to use in battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/412000.webp"
+  },
+  {
+    "id": "413000",
+    "name": {
+      "chn": "圣女裙子",
+      "jap": "聖女のスカート",
+      "eng": "Maiden Skirt"
+    },
+    "description": {
+      "chn": "旅行圣女穿戴的白色裙子。\r\n圣女正装不分地位高低。\r\n\r\n制作得不错，很柔软，\r\n但防御力低，不适合战斗。",
+      "jap": "旅の聖女が身につける白いスカート\r\n地位によらない聖女の正装\r\n\r\n柔らかく仕立てのよいものだが\r\n防御力は低く、戦いには向いていない",
+      "eng": "White skirt worn by traveling maidens.\r\nIt is part of their formal attire, regardless\r\nof rank.\r\n\r\nIt is soft and well-made, but does not offer\r\nmuch in the way of defense, making it ill-\r\nsuited to use in battle."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/413000.webp"
+  },
+  {
+    "id": "420000",
+    "name": {
+      "chn": "银骑士头盔",
+      "jap": "銀騎士の兜",
+      "eng": "Silver Knight Helm"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的银骑士头盔。\r\n\r\n葛温王外出传火时，其麾下骑士一分为二。\r\n银骑士留在被遗弃的王都，侍奉幻影女神。",
+      "jap": "アノール・ロンドを守る銀騎士たちの兜\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n彼の騎士たちは二つに別れた\r\n銀騎士は、棄てられた王都に残り\r\n幻の女神に仕えた者たちである",
+      "eng": "Helm of the Silver Knights who protect Anor\r\nLondo.\r\n\r\nWhen Lord Gwyn departed to link the Fire,\r\nhis knights split into two groups. The Silver\r\nKnights remained in the forsaken capital in\r\nthe service of their goddess."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/420000.webp"
+  },
+  {
+    "id": "421000",
+    "name": {
+      "chn": "银骑士铠甲",
+      "jap": "銀騎士の鎧",
+      "eng": "Silver Knight Armor"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的银骑士铠甲。\r\n\r\n葛温王外出传火时，其麾下骑士一分为二。\r\n银骑士留在被遗弃的王都，侍奉幻影女神。",
+      "jap": "アノール・ロンドを守る銀騎士たちの鎧\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n彼の騎士たちは二つに別れた\r\n銀騎士は、棄てられた王都に残り\r\n幻の女神に仕えた者たちである",
+      "eng": "Armor of the Silver Knights who protect Anor\r\nLondo.\r\n\r\nWhen Lord Gwyn departed to link the Fire,\r\nhis knights split into two groups. The Silver\r\nKnights remained in the forsaken capital in\r\nthe service of their goddess."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/421000.webp"
+  },
+  {
+    "id": "422000",
+    "name": {
+      "chn": "银骑士臂甲",
+      "jap": "銀騎士の手甲",
+      "eng": "Silver Knight Gauntlets"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的银骑士臂甲。\r\n\r\n葛温王外出传火时，其麾下骑士一分为二。\r\n银骑士留在被遗弃的王都，侍奉幻影女神。",
+      "jap": "アノール・ロンドを守る銀騎士たちの手甲\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n彼の騎士たちは二つに別れた\r\n銀騎士は、棄てられた王都に残り\r\n幻の女神に仕えた者たちである",
+      "eng": "Gauntlets of the Silver Knights who protect\r\nAnor Londo.\r\n\r\nWhen Lord Gwyn departed to link the Fire,\r\nhis knights split into two groups. The Silver\r\nKnights remained in the forsaken capital in\r\nthe service of their goddess."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/422000.webp"
+  },
+  {
+    "id": "423000",
+    "name": {
+      "chn": "银骑士腿甲",
+      "jap": "銀騎士の足甲",
+      "eng": "Silver Knight Leggings"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的银骑士腿甲。\r\n\r\n葛温王外出传火时，其麾下骑士一分为二。\r\n银骑士留在被遗弃的王都，侍奉幻影女神。",
+      "jap": "アノール・ロンドを守る銀騎士たちの足甲\r\n\r\nグウィン王が火継ぎに旅立ったとき\r\n彼の騎士たちは二つに別れた\r\n銀騎士は、棄てられた王都に残り\r\n幻の女神に仕えた者たちである",
+      "eng": "Leggings of the Silver Knights who protect\r\nAnor Londo.\r\n\r\nWhen Lord Gwyn departed to link the Fire,\r\nhis knights split into two groups. The Silver\r\nKnights remained in the forsaken capital in\r\nthe service of their goddess."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/423000.webp"
+  },
+  {
+    "id": "440000",
+    "name": {
+      "chn": "哈维尔头盔",
+      "jap": "ハベルの兜",
+      "eng": "Havel's Helm"
+    },
+    "description": {
+      "chn": "“坚石”哈维尔的战士头盔。\r\n用岩石刻制出来的盔甲，\r\n非常沉重，防御力极高。\r\n\r\n穿上岩石制盔甲的哈维尔战士，\r\n据说绝对不会害怕，也不会退缩，\r\n一定会粉碎敌人。",
+      "jap": "「岩のような」ハベルの戦士の兜\r\nまさに岩塊を彫って作られたもので\r\nすさまじい重さと、防御力を誇る\r\n\r\n岩の鎧をまとったハベルの戦士は\r\n決して怯まず、後退せず\r\n敵としたものを必ず叩き潰すという",
+      "eng": "Helm worn by Havel the Rock's warriors.\r\nCarved from solid rock, its tremendous weight\r\nis matched only by the defense it provides.\r\n\r\nHavel's warriors never flinched nor retreated\r\nfrom battle. Those unfortunate enough to face\r\nthem were inevitably beaten to a pulp."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/440000.webp"
+  },
+  {
+    "id": "441000",
+    "name": {
+      "chn": "哈维尔铠甲",
+      "jap": "ハベルの鎧",
+      "eng": "Havel's Armor"
+    },
+    "description": {
+      "chn": "“坚石”哈维尔的战士铠甲。\r\n用岩石刻制出来的盔甲，\r\n非常沉重，防御力极高。\r\n\r\n穿上岩石制盔甲的哈维尔战士，\r\n据说绝对不会害怕，也不会退缩，\r\n一定会粉碎敌人。",
+      "jap": "「岩のような」ハベルの戦士の鎧\r\nまさに岩塊を彫って作られたもので\r\nすさまじい重さと、防御力を誇る\r\n\r\n岩の鎧をまとったハベルの戦士は\r\n決して怯まず、後退せず\r\n敵としたものを必ず叩き潰すという",
+      "eng": "Armor worn by Havel the Rock's warriors.\r\nCarved from solid rock, its tremendous weight\r\nis matched only by the defense it provides.\r\n\r\nHavel's warriors never flinched nor retreated\r\nfrom battle. Those unfortunate enough to face\r\nthem were inevitably beaten to a pulp."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/441000.webp"
+  },
+  {
+    "id": "442000",
+    "name": {
+      "chn": "哈维尔臂甲",
+      "jap": "ハベルの手甲",
+      "eng": "Havel's Gauntlets"
+    },
+    "description": {
+      "chn": "“坚石”哈维尔的战士臂甲。\r\n用岩石刻制出来的盔甲，\r\n非常沉重，防御力极高。\r\n\r\n穿上岩石制盔甲的哈维尔战士，\r\n据说绝对不会害怕，也不会退缩，\r\n一定会粉碎敌人。",
+      "jap": "「岩のような」ハベルの戦士の手甲\r\nまさに岩塊を彫って作られたもので\r\nすさまじい重さと、防御力を誇る\r\n\r\n岩の鎧をまとったハベルの戦士は\r\n決して怯まず、後退せず\r\n敵としたものを必ず叩き潰すという",
+      "eng": "Gauntlets worn by Havel the Rock's warriors.\r\nCarved from solid rock, their\r\ntremendous weight is matched only by the\r\ndefense they provide.\r\n\r\nHavel's warriors never flinched nor retreated\r\nfrom battle. Those unfortunate enough to face\r\nthem were inevitably beaten to a pulp."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/442000.webp"
+  },
+  {
+    "id": "443000",
+    "name": {
+      "chn": "哈维尔腿甲",
+      "jap": "ハベルの足甲",
+      "eng": "Havel's Leggings"
+    },
+    "description": {
+      "chn": "“坚石”哈维尔的战士腿甲。\r\n用岩石刻制出来的盔甲，\r\n非常沉重，防御力极高。\r\n\r\n穿上岩石制盔甲的哈维尔战士，\r\n据说绝对不会害怕，也不会退缩，\r\n一定会粉碎敌人。",
+      "jap": "「岩のような」ハベルの戦士の足甲\r\nまさに岩塊を彫って作られたもので\r\nすさまじい重さと、防御力を誇る\r\n\r\n岩の鎧をまとったハベルの戦士は\r\n決して怯まず、後退せず\r\n敵としたものを必ず叩き潰すという",
+      "eng": "Leggings worn by Havel the Rock's warriors.\r\nCarved from solid rock, their tremendous\r\nweight is matched only by the defense they\r\nprovide.\r\n\r\nHavel's warriors never flinched nor retreated\r\nfrom battle. Those unfortunate enough to face\r\nthem were inevitably beaten to a pulp."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/443000.webp"
+  },
+  {
+    "id": "450000",
+    "name": {
+      "chn": "黄铜头盔",
+      "jap": "真鍮の兜",
+      "eng": "Brass Helm"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的防火女，暗月女骑士的头盔。\r\n\r\n成为不死人的她，在螺旋底端的灵庙\r\n谒见黯影太阳葛温德林，\r\n随后成为暗月之剑，并接下看守火的任务。\r\n\r\n这副盔甲就是当时赐得的物品，\r\n不仅有助于以暗月之剑的身分狩猎罪人，\r\n也可以隐藏守火造成的可怕模样。",
+      "jap": "アノール・ロンドの火防女、暗月の女騎士の兜\r\n\r\n不死となった彼女は\r\n螺旋底の霊廟で陰の太陽グウィンドリンに見え\r\n暗月の剣となり、また火防の任を受け入れた\r\n\r\nこの鎧は、そのときに授けられたものである\r\nすなわち暗月の剣として罪人を狩る助けとし\r\nまた、火防のおぞましい姿を隠すために",
+      "eng": "Helm of the Darkmoon Knightess,\r\nFire Keeper of Anor Londo.\r\n\r\nAfter becoming Undead, she visited the Dark\r\nSun Gwyndolin at the Mausoleum of the Spiral\r\nDepths, became a Blade of the Darkmoon,\r\nand assumed the flame-keeping duty. She\r\nreceived this helm, which hides her hideous\r\nform and helps her hunt the guilty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/450000.webp"
+  },
+  {
+    "id": "451000",
+    "name": {
+      "chn": "黄铜铠甲",
+      "jap": "真鍮の鎧",
+      "eng": "Brass Armor"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的防火女，暗月女骑士的铠甲。\r\n\r\n成为不死人的她，在螺旋底端的灵庙\r\n谒见黯影太阳葛温德林，\r\n随后成为暗月之剑，并接下看守火的任务。\r\n\r\n这副盔甲就是当时赐得的物品，\r\n不仅有助于以暗月之剑的身分狩猎罪人，\r\n也可以隐藏守火造成的可怕模样。",
+      "jap": "アノール・ロンドの火防女、暗月の女騎士の鎧\r\n\r\n不死となった彼女は\r\n螺旋底の霊廟で陰の太陽グウィンドリンに見え\r\n暗月の剣となり、また火防の任を受け入れた\r\n\r\nこの鎧は、そのときに授けられたものである\r\nすなわち暗月の剣として罪人を狩る助けとし\r\nまた、火防のおぞましい姿を隠すために",
+      "eng": "Armor of the Darkmoon Knightess,\r\nFire Keeper of Anor Londo.\r\n\r\nAfter becoming Undead, she visited the Dark\r\nSun Gwyndolin at the Mausoleum of the Spiral\r\nDepths, became a Blade of the Darkmoon,\r\nand assumed the flame-keeping duty. She\r\nreceived this armor, which hides her hideous\r\nform and helps her hunt the guilty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/451000.webp"
+  },
+  {
+    "id": "452000",
+    "name": {
+      "chn": "黄铜臂甲",
+      "jap": "真鍮の手甲",
+      "eng": "Brass Gauntlets"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的防火女，暗月女骑士的臂甲。\r\n\r\n成为不死人的她，在螺旋底端的灵庙\r\n谒见黯影太阳葛温德林，\r\n随后成为暗月之剑，并接下看守火的任务。\r\n\r\n这副盔甲就是当时赐得的物品，\r\n不仅有助于以暗月之剑的身分狩猎罪人，\r\n也可以隐藏守火造成的可怕模样。",
+      "jap": "アノール・ロンドの火防女、暗月の女騎士の手甲\r\n\r\n不死となった彼女は\r\n螺旋底の霊廟で陰の太陽グウィンドリンに見え\r\n暗月の剣となり、また火防の任を受け入れた\r\n\r\nこの鎧は、そのときに授けられたものである\r\nすなわち暗月の剣として罪人を狩る助けとし\r\nまた、火防のおぞましい姿を隠すために",
+      "eng": "Gauntlets of the Darkmoon Knightess,\r\nFire Keeper of Anor Londo.\r\n\r\nAfter becoming Undead, she visited the Dark\r\nSun Gwyndolin at the Mausoleum of the Spiral\r\nDepths, became a Blade of the Darkmoon,\r\nand assumed the flame-keeping duty. She\r\nreceived these gauntlets, which hide her\r\nhideous form and help her hunt the guilty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/452000.webp"
+  },
+  {
+    "id": "453000",
+    "name": {
+      "chn": "黄铜腿甲",
+      "jap": "真鍮の足甲",
+      "eng": "Brass Leggings"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的防火女，暗月女骑士的腿甲。\r\n\r\n成为不死人的她，在螺旋底端的灵庙\r\n谒见黯影太阳葛温德林，\r\n随后成为暗月之剑，并接下看守火的任务。\r\n\r\n这副盔甲就是当时赐得的物品，\r\n不仅有助于以暗月之剑的身分狩猎罪人，\r\n也可以隐藏守火造成的可怕模样。",
+      "jap": "アノール・ロンドの火防女、暗月の女騎士の足甲\r\n\r\n不死となった彼女は\r\n螺旋底の霊廟で陰の太陽グウィンドリンに見え\r\n暗月の剣となり、また火防の任を受け入れた\r\n\r\nこの鎧は、そのときに授けられたものである\r\nすなわち暗月の剣として罪人を狩る助けとし\r\nまた、火防のおぞましい姿を隠すために",
+      "eng": "Leggings of the Darkmoon Knightess,\r\nFire Keeper of Anor Londo.\r\n\r\nAfter becoming Undead, she visited the Dark\r\nSun Gwyndolin at the Mausoleum of the Spiral\r\nDepths, became a Blade of the Darkmoon,\r\nand assumed the flame-keeping duty. She\r\nreceived these leggings, which hide her\r\nhideous form and help her hunt the guilty."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/453000.webp"
+  },
+  {
+    "id": "460000",
+    "name": {
+      "chn": "金边黑风帽",
+      "jap": "黒金糸のフード",
+      "eng": "Gold-Hemmed Black Hood"
+    },
+    "description": {
+      "chn": "混沌的女儿之一──\r\n咒术始祖，伊札里斯的克拉娜的服装。\r\n\r\n这金边黑风帽是早在火的时代之前，\r\n克拉娜就穿着的服装，\r\n不仅防火焰，对毒也有很高的抵抗力。",
+      "jap": "混沌の娘の一人\r\n呪術の祖、イザリスのクラーナの衣装\r\n\r\nこの黒金糸のフードは\r\n火の時代より前からの彼女の衣装であり\r\n炎を防ぎ、また毒などにも強い耐性がある",
+      "eng": "Worn by the witch Quelana of Izalith, mother\r\nof pyromancy and Daughter of Chaos.\r\n\r\nShe wore this gold-hemmed black hood before\r\neven the Age of Fire, and it offers strong\r\nresistance versus fire, poison, and other\r\nperils."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/460000.webp"
+  },
+  {
+    "id": "461000",
+    "name": {
+      "chn": "金边黑长袍",
+      "jap": "黒金糸のローブ",
+      "eng": "Gold-Hemmed Black Cloak"
+    },
+    "description": {
+      "chn": "混沌的女儿之一──\r\n咒术始祖，伊札里斯的克拉娜的服装。\r\n\r\n这金边黑长袍是早在火的时代之前，\r\n克拉娜就穿着的服装，\r\n不仅防火焰，对毒也有很高的抵抗力。",
+      "jap": "混沌の娘の一人\r\n呪術の祖、イザリスのクラーナの衣装\r\n\r\nこの黒金糸のローブは\r\n火の時代より前からの彼女の衣装であり\r\n炎を防ぎ、また毒などにも強い耐性がある",
+      "eng": "Worn by the witch Quelana of Izalith, mother\r\nof pyromancy and Daughter of Chaos.\r\n\r\nShe wore this gold-hemmed black cloak\r\nbefore even the Age of Fire, and it offers\r\nstrong resistance versus fire, poison, and\r\nother perils."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/461000.webp"
+  },
+  {
+    "id": "462000",
+    "name": {
+      "chn": "金边黑长手套",
+      "jap": "黒金糸のロンググローブ",
+      "eng": "Gold-Hemmed Black Gloves"
+    },
+    "description": {
+      "chn": "混沌的女儿之一──\r\n咒术始祖，伊札里斯的克拉娜的服装。\r\n\r\n这金边黑长手套是早在火的时代之前，\r\n克拉娜就穿着的服装，\r\n不仅防火焰，对毒也有很高的抵抗力。",
+      "jap": "混沌の娘の一人\r\n呪術の祖、イザリスのクラーナの衣装\r\n\r\nこの黒金糸のロンググローブは\r\n火の時代より前からの彼女の衣装であり\r\n炎を防ぎ、また毒などにも強い耐性がある",
+      "eng": "Worn by the witch Quelana of Izalith, mother\r\nof pyromancy and Daughter of Chaos.\r\n\r\nShe wore these gold-lined black gloves\r\nbefore even the Age of Fire, and they offer\r\nstrong resistance versus fire, poison, and\r\nother perils."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/462000.webp"
+  },
+  {
+    "id": "463000",
+    "name": {
+      "chn": "金边黑裙子",
+      "jap": "黒金糸のスカート",
+      "eng": "Gold-Hemmed Black Skirt"
+    },
+    "description": {
+      "chn": "混沌的女儿之一──\r\n咒术始祖，伊札里斯的克拉娜的服装。\r\n\r\n这金边黑裙子是早在火的时代之前，\r\n克拉娜就穿着的服装，\r\n不仅防火焰，对毒也有很高的抵抗力。",
+      "jap": "混沌の娘の一人\r\n呪術の祖、イザリスのクラーナの衣装\r\n\r\nこの黒金糸のスカートは\r\n火の時代より前からの彼女の衣装であり\r\n炎を防ぎ、また毒などにも強い耐性がある",
+      "eng": "Worn by the witch Quelana of Izalith, founder\r\nof pyromancy and one of the Daughters of\r\nChaos.\r\n\r\nShe wore this gold-hemmed black skirt before\r\neven the Age of Fire, and it offers strong\r\nresistance versus fire, poison, and other\r\nperils."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/463000.webp"
+  },
+  {
+    "id": "470000",
+    "name": {
+      "chn": "巨偶头盔",
+      "jap": "ゴーレムヘルム",
+      "eng": "Golem Helm"
+    },
+    "description": {
+      "chn": "钢铁巨偶的头。\r\n钢铁巨偶是赛恩古城的防卫者，\r\n专门屠杀想前往亚诺尔隆德的英雄。\r\n\r\n钢铁巨偶如今已失去核心，化成一团铁块，\r\n虽然可以当作坚固的装备使用，\r\n但是非常沉重，精力会变得不易恢复。",
+      "jap": "センの古城の守護者として\r\nアノール・ロンドを目指す英雄達を屠ってきた\r\nアイアンゴーレムの頭\r\n\r\n今やコアを失ったただの鉄塊であり\r\n堅牢な防具として装備することもできるが\r\nとても重く、スタミナの回復を阻害する",
+      "eng": "Head of the Iron Golem, guardian of the\r\nancient Sen's Fortress, slayer of heroes who\r\nventured forth to Anor Londo.\r\n\r\nWithout its core, it is a mere hunk of iron,\r\nand can be equipped as solid protective gear,\r\nbut its immense weight hinders stamina\r\nrecovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/470000.webp"
+  },
+  {
+    "id": "471000",
+    "name": {
+      "chn": "巨偶护甲",
+      "jap": "ゴーレムアーマー",
+      "eng": "Golem Armor"
+    },
+    "description": {
+      "chn": "钢铁巨偶穿孔的身体。\r\n钢铁巨偶是赛恩古城的防卫者，\r\n专门屠杀想前往亚诺尔隆德的英雄。\r\n\r\n钢铁巨偶如今已失去核心，化成一团铁块，\r\n虽然可以当作坚固的装备使用，\r\n但是非常沉重，精力会变得不易恢复。",
+      "jap": "センの古城の守護者として\r\nアノール・ロンドを目指す英雄達を屠ってきた\r\nアイアンゴーレムの穴のあいた体\r\n\r\n今やコアを失ったただの鉄塊であり\r\n堅牢な防具として装備することもできるが\r\nとても重く、スタミナの回復を阻害する",
+      "eng": "Body of the Iron Golem, guardian of the\r\nancient Sen's Fortress, slayer of heroes who\r\nventured forth to Anor Londo.\r\n\r\nWithout its core, it is a mere hunk of iron,\r\nand can be equipped as solid protective gear,\r\nbut its immense weight hinders stamina\r\nrecovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/471000.webp"
+  },
+  {
+    "id": "472000",
+    "name": {
+      "chn": "巨偶护臂",
+      "jap": "ゴーレムガントレット",
+      "eng": "Golem Gauntlets"
+    },
+    "description": {
+      "chn": "钢铁巨偶的手。\r\n钢铁巨偶是赛恩古城的守护者，\r\n专杀来到亚诺尔隆德的英雄。\r\n\r\n钢铁巨偶如今已失去核心，化成一团铁块，\r\n虽然可以当作坚固的装备使用，\r\n但是非常沉重，精力会变得不易恢复。",
+      "jap": "センの古城の守護者として\r\nアノール・ロンドを目指す英雄達を屠ってきた\r\nアイアンゴーレムの腕\r\n\r\n今やコアを失ったただの鉄塊であり\r\n堅牢な防具として装備することもできるが\r\nとても重く、スタミナの回復を阻害する",
+      "eng": "Arms of the Iron Golem, guardian of the\r\nancient Sen's Fortress, slayer of heroes who\r\nventured forth to Anor Londo.\r\n\r\nWithout its core, they are mere hunks of\r\niron, and can be equipped as solid protective\r\ngear, but their immense weight hinders\r\nstamina recovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/472000.webp"
+  },
+  {
+    "id": "473000",
+    "name": {
+      "chn": "巨偶护腿",
+      "jap": "ゴーレムレギンス",
+      "eng": "Golem Leggings"
+    },
+    "description": {
+      "chn": "钢铁巨偶的脚。\r\n钢铁巨偶是赛恩古城的守护者，\r\n专杀来到亚诺尔隆德的英雄。\r\n\r\n钢铁巨偶如今已失去核心，化成一团铁块，\r\n虽然可以当作坚固的装备使用，\r\n但是非常沉重，精力会变得不易恢复。",
+      "jap": "センの古城の守護者として\r\nアノール・ロンドを目指す英雄達を屠ってきた\r\nアイアンゴーレムの脚\r\n\r\n今やコアを失ったただの鉄塊であり\r\n堅牢な防具として装備することもできるが\r\nとても重く、スタミナの回復を阻害する",
+      "eng": "Legs of the Iron Golem, guardian of the\r\nancient Sen's Fortress, slayer of heroes who\r\nventured forth to Anor Londo.\r\n\r\nWithout its core, they are mere hunks of\r\niron, and can be equipped as solid protective\r\ngear, but their immense weight hinders\r\nstamina recovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/473000.webp"
+  },
+  {
+    "id": "480000",
+    "name": {
+      "chn": "游魂士兵头盔",
+      "jap": "亡者兵士の兜",
+      "eng": "Hollow Soldier Helm"
+    },
+    "description": {
+      "chn": "游魂士兵穿戴的头盔。\r\n虽然看起来很破烂，却很牢固的铁制防具。\r\n\r\n为了防止被弓箭狙击头部，\r\n头部防具还是换坚固点的比较好。",
+      "jap": "亡者の兵士が身に付けていた兜\r\nボロボロではあるが、鉄製の頑丈なもの\r\n\r\n弓矢で頭を狙撃されたときのためにも\r\n頭防具は頑丈なものを用意しておきたい",
+      "eng": "Helm worn by Hollow soldiers. It may be old\r\nand battered, but its iron construction makes\r\nit quite sturdy.\r\n\r\nIt is wise to wear a sturdy form of head\r\nprotection against arrows and other physical\r\nthreats."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/480000.webp"
+  },
+  {
+    "id": "481000",
+    "name": {
+      "chn": "游魂士兵铠甲",
+      "jap": "亡者兵士の鎧",
+      "eng": "Hollow Soldier Armor"
+    },
+    "description": {
+      "chn": "游魂士兵穿戴的铠甲。\r\n虽然看起来很破烂，却很牢固的铁制防具。",
+      "jap": "亡者の兵士が身に付けていた鎧\r\nボロボロではあるが、鉄製の頑丈なもの",
+      "eng": "Armor worn by Hollow soldiers. It may be\r\nold and battered, but its iron construction\r\nmakes it quite sturdy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/481000.webp"
+  },
+  {
+    "id": "483000",
+    "name": {
+      "chn": "游魂士兵围裙",
+      "jap": "亡者兵士の腰巻き",
+      "eng": "Hollow Soldier Waistcloth"
+    },
+    "description": {
+      "chn": "游魂士兵穿戴的围裙。\r\n虽然很破烂，但还可以使用。",
+      "jap": "亡者の兵士が身に付けていた腰巻き\r\nボロボロで、かろうじて用をなしている",
+      "eng": "Waistcloth worn by Hollow soldiers. It is so\r\ntattered that it barely serves its purpose\r\nanymore."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/483000.webp"
+  },
+  {
+    "id": "490000",
+    "name": {
+      "chn": "钢铁头盔",
+      "jap": "鋼鉄の兜",
+      "eng": "Steel Helm"
+    },
+    "description": {
+      "chn": "以重装闻名的伯尼斯骑士头盔。\r\n钢铁的重型头盔。\r\n\r\n曾有最强美名的伯尼斯骑士团，\r\n团中出现了大量不死人。\r\n那些不死人往罗德兰前进，\r\n但是大半都在途中倒下，成为游魂，\r\n威胁着所有不死人。",
+      "jap": "重装で知られるバーニス騎士の兜\r\n鋼鉄の重兜\r\n\r\nかつて最強を謳われたバーニス騎士団は\r\n大量の不死を生み、すべてがロードランに入った\r\nだが彼らは皆道半ばで倒れ、亡者となり\r\nすべての不死を脅かしている",
+      "eng": "Helm of the Knights of Berenike, known for\r\ntheir heavy armaments and armor.\r\n\r\nCountless Knights of Berenike, once\r\nextolled as the mightiest of mighty, became\r\nUndead and ventured to Lordran. But their\r\njourney was for naught, as they went Hollow,\r\nand became a threat to all Undead."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/490000.webp"
+  },
+  {
+    "id": "491000",
+    "name": {
+      "chn": "钢铁铠甲",
+      "jap": "鋼鉄の鎧",
+      "eng": "Steel Armor"
+    },
+    "description": {
+      "chn": "以重装闻名的伯尼斯骑士铠甲。\r\n钢铁的重型铠甲。\r\n\r\n曾有最强美名的伯尼斯骑士团，\r\n团中出现了大量不死人。\r\n那些不死人往罗德兰前进，\r\n但是大半都在途中倒下，成为游魂，\r\n威胁着所有不死人。",
+      "jap": "重装で知られるバーニス騎士の鎧\r\n鋼鉄の重鎧\r\n\r\nかつて最強を謳われたバーニス騎士団は\r\n大量の不死を生み、すべてがロードランに入った\r\nだが彼らは皆道半ばで倒れ、亡者となり\r\nすべての不死を脅かしている",
+      "eng": "Armor of the Knights of Berenike, known for\r\ntheir heavy armaments and armor.\r\n\r\nCountless Knights of Berenike, once\r\nextolled as the mightiest of mighty, became\r\nUndead and ventured to Lordran. But their\r\njourney was for naught, as they went Hollow,\r\nand became a threat to all Undead."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/491000.webp"
+  },
+  {
+    "id": "492000",
+    "name": {
+      "chn": "钢铁臂甲",
+      "jap": "鋼鉄の手甲",
+      "eng": "Steel Gauntlets"
+    },
+    "description": {
+      "chn": "以重装闻名的伯尼斯骑士臂甲。\r\n钢铁的重型臂甲。\r\n\r\n曾有最强美名的伯尼斯骑士团，\r\n团中出现了大量不死人。\r\n那些不死人往罗德兰前进，\r\n但是大半都在途中倒下，成为游魂，\r\n威胁着所有不死人。",
+      "jap": "重装で知られるバーニス騎士の手甲\r\n鋼鉄の重手甲\r\n\r\nかつて最強を謳われたバーニス騎士団は\r\n大量の不死を生み、すべてがロードランに入った\r\nだが彼らは皆道半ばで倒れ、亡者となり\r\nすべての不死を脅かしている",
+      "eng": "Gauntlets of the Knights of Berenike, known\r\nfor their heavy armaments and armor.\r\n\r\nCountless Knights of Berenike, once\r\nextolled as the mightiest of mighty, became\r\nUndead and ventured to Lordran. But their\r\njourney was for naught, as they went Hollow,\r\nand became a threat to all Undead."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/492000.webp"
+  },
+  {
+    "id": "493000",
+    "name": {
+      "chn": "钢铁腿甲",
+      "jap": "鋼鉄の足甲",
+      "eng": "Steel Leggings"
+    },
+    "description": {
+      "chn": "以重装闻名的伯尼斯骑士腿甲。\r\n钢铁的重型腿甲。\r\n\r\n曾有最强美名的伯尼斯骑士团，\r\n团中出现了大量不死人。\r\n那些不死人往罗德兰前进，\r\n但是大半都在途中倒下，成为游魂，\r\n威胁着所有不死人。",
+      "jap": "重装で知られるバーニス騎士の足甲\r\n鋼鉄の重足甲\r\n\r\nかつて最強を謳われたバーニス騎士団は\r\n大量の不死を生み、すべてがロードランに入った\r\nだが彼らは皆道半ばで倒れ、亡者となり\r\nすべての不死を脅かしている",
+      "eng": "Leggings of the Knights of Berenike, known\r\nfor their heavy armaments and armor.\r\n\r\nCountless Knights of Berenike, once\r\nextolled as the mightiest of mighty, became\r\nUndead and ventured to Lordran. But their\r\njourney was for naught, as they went Hollow,\r\nand became a threat to all Undead."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/493000.webp"
+  },
+  {
+    "id": "500000",
+    "name": {
+      "chn": "游魂盗贼风帽",
+      "jap": "亡者盗賊のフード",
+      "eng": "Hollow Thief's Hood"
+    },
+    "description": {
+      "chn": "游魂盗贼穿戴的风帽。\r\n匪类用来遮脸的装备。",
+      "jap": "亡者の盗賊が身に付けていたフード\r\nやましい者が己の顔を隠すためのもの",
+      "eng": "Hood worn by Hollow thieves.\r\nUsed to hide a guilty countenance."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/500000.webp"
+  },
+  {
+    "id": "501000",
+    "name": {
+      "chn": "游魂盗贼皮铠甲",
+      "jap": "亡者盗賊の革鎧",
+      "eng": "Hollow Thief's Leather Armor"
+    },
+    "description": {
+      "chn": "游魂盗贼穿戴的皮铠甲。\r\n用来降低声响，藏身黑暗的装备。",
+      "jap": "亡者の盗賊が身に付けていた革鎧\r\n音を殺し、影に潜むためのもの",
+      "eng": "Leather armor worn by Hollow thieves. It\r\nstifles noise and helps its wearer hide in\r\nthe shadows."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/501000.webp"
+  },
+  {
+    "id": "503000",
+    "name": {
+      "chn": "游魂盗贼紧身裤",
+      "jap": "亡者盗賊のタイツ",
+      "eng": "Hollow Thief's Tights"
+    },
+    "description": {
+      "chn": "游魂盗贼穿戴的紧身裤。\r\n用来降低声响，藏身黑暗的装备。",
+      "jap": "亡者の盗賊が身に付けていたタイツ\r\n音を殺し、影に潜むためのもの",
+      "eng": "Tights worn by Hollow thieves. They stifle\r\nnoise and help their wearer hide in the\r\nshadows."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/503000.webp"
+  },
+  {
+    "id": "510000",
+    "name": {
+      "chn": "巴勒德尔头盔",
+      "jap": "バルデルの兜",
+      "eng": "Balder Helm"
+    },
+    "description": {
+      "chn": "古代王国巴勒德尔的骑士使用的头盔。\r\n用厚片铁板加工制成的合板头盔。\r\n\r\n巴勒德尔是骑士王伦德尔的故乡，\r\n因为突然出现大量不死人而灭亡。",
+      "jap": "古い王国バルデルの騎士たちが用いた兜\r\n厚めの鉄板を加工したプレートヘルム\r\n\r\nバルデルは騎士王レンドルの故国であるが\r\nあるとき多くの不死を生み、そのまま滅び去った",
+      "eng": "Helm worn by the knights of the ancient\r\nkingdom of Balder. It is made from thick\r\niron plates.\r\n\r\nBalder was the homeland of the Knight\r\nKing Rendal, but it came to ruin after a\r\ngreat many Undead were spawned."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/510000.webp"
+  },
+  {
+    "id": "511000",
+    "name": {
+      "chn": "巴勒德尔铠甲",
+      "jap": "バルデルの鎧",
+      "eng": "Balder Armor"
+    },
+    "description": {
+      "chn": "古代王国巴勒德尔的骑士使用的铠甲。\r\n用厚片铁板加工制成的合板护甲。\r\n\r\n巴勒德尔是骑士王伦德尔的故乡，\r\n因为突然出现大量不死人而灭亡。",
+      "jap": "古い王国バルデルの騎士たちが用いた鎧\r\n厚めの鉄板を加工したプレートアーマー\r\n\r\nバルデルは騎士王レンドルの故国であるが\r\nあるとき多くの不死を生み、そのまま滅び去った",
+      "eng": "Armor worn by the knights of the ancient\r\nkingdom of Balder. It is made from thick\r\niron plates.\r\n\r\nBalder was the homeland of the Knight\r\nKing Rendal, but it came to ruin after a\r\ngreat many Undead were spawned."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/511000.webp"
+  },
+  {
+    "id": "512000",
+    "name": {
+      "chn": "巴勒德尔臂甲",
+      "jap": "バルデルの手甲",
+      "eng": "Balder Gauntlets"
+    },
+    "description": {
+      "chn": "古代王国巴勒德尔的骑士使用的臂甲。\r\n用厚片铁板加工制成的合板护臂。\r\n\r\n巴勒德尔是骑士王伦德尔的故乡，\r\n因为突然出现大量不死人而灭亡。",
+      "jap": "古い王国バルデルの騎士たちが用いた手甲\r\n厚めの鉄板を加工したプレートガントレット\r\n\r\nバルデルは騎士王レンドルの故国であるが\r\nあるとき多くの不死を生み、そのまま滅び去った",
+      "eng": "Gauntlets worn by the knights of the ancient\r\nkingdom of Balder. They are made from thick\r\niron plates.\r\n\r\nBalder was the homeland of the Knight\r\nKing Rendal, but it came to ruin after a\r\ngreat many Undead were spawned."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/512000.webp"
+  },
+  {
+    "id": "513000",
+    "name": {
+      "chn": "巴勒德尔腿甲",
+      "jap": "バルデルの足甲",
+      "eng": "Balder Leggings"
+    },
+    "description": {
+      "chn": "古代王国巴勒德尔的骑士使用的腿甲。\r\n用厚片铁板加工制成的合板护腿。\r\n\r\n巴勒德尔是骑士王伦德尔的故乡，\r\n因为突然出现大量不死人而灭亡。",
+      "jap": "古い王国バルデルの騎士たちが用いた足甲\r\n厚めの鉄板を加工したプレートレギンス\r\n\r\nバルデルは騎士王レンドルの故国であるが\r\nあるとき多くの不死を生み、そのまま滅び去った",
+      "eng": "Leggings worn by the knights of the ancient\r\nkingdom of Balder. They are made from thick\r\niron plates.\r\n\r\nBalder was the homeland of the Knight\r\nKing Rendal, but it came to ruin after a\r\ngreat many Undead were spawned."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/513000.webp"
+  },
+  {
+    "id": "520000",
+    "name": {
+      "chn": "游魂战士头盔",
+      "jap": "亡者戦士の兜",
+      "eng": "Hollow Warrior Helm"
+    },
+    "description": {
+      "chn": "游魂战士穿戴的头盔。\r\n铁制品，但已经破烂到快坏了。\r\n\r\n为了防止被弓箭狙击头部，\r\n头部防具还是换坚固点的比较好。",
+      "jap": "亡者の戦士が身に付けていた兜\r\n鉄製だが、ボロボロでガタがきている\r\n\r\n弓矢で頭を狙撃されたときのためにも\r\n頭防具は頑丈なものを用意しておきたい",
+      "eng": "Helm worn by Hollow warriors. Although it is\r\nmade of iron, it is old, battered and worn\r\nout.\r\n\r\nIt is wise to wear a sturdy form of head\r\nprotection against arrows and other physical\r\nthreats."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/520000.webp"
+  },
+  {
+    "id": "521000",
+    "name": {
+      "chn": "游魂战士铠甲",
+      "jap": "亡者戦士の鎧",
+      "eng": "Hollow Warrior Armor"
+    },
+    "description": {
+      "chn": "游魂战士穿戴的铠甲。\r\n已经变得破烂的厚皮铠甲。",
+      "jap": "亡者の戦士が身に付けていた鎧\r\nボロボロになった、厚手の革鎧",
+      "eng": "Armor worn by Hollow warriors. It is made of\r\nthick leather that is tattered with age."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/521000.webp"
+  },
+  {
+    "id": "523000",
+    "name": {
+      "chn": "游魂战士围裙",
+      "jap": "亡者戦士の腰巻き",
+      "eng": "Hollow Warrior Waistcloth"
+    },
+    "description": {
+      "chn": "游魂战士穿戴的围裙。\r\n虽然很破烂，但还可以使用。",
+      "jap": "亡者の戦士が身に付けていた腰巻き\r\nボロボロで、かろうじて用をなしている",
+      "eng": "Waistcloth worn by Hollow warriors. It is so\r\ntattered that it barely serves its purpose\r\nanymore."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/523000.webp"
+  },
+  {
+    "id": "530000",
+    "name": {
+      "chn": "巨人头盔",
+      "jap": "巨人の兜",
+      "eng": "Giant Helm"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的巨人卫兵头盔。\r\n\r\n以旧黄铜加工而成。\r\n除了对物理攻击以外，\r\n对其他攻击也有不错的防御能力。\r\n但因为是考虑巨人的体能而制成的装备，\r\n对人来说非常沉重，精力恢复会变慢。",
+      "jap": "アノール・ロンドを守る巨人衛兵の兜\r\n\r\n古い黄銅を加工したもので\r\n物理以外の攻撃に対しても有効であるが\r\n巨人の膂力に合わせて作られているため\r\n人の身にはとても重く、スタミナ回復を阻害する",
+      "eng": "Helm of the giant sentinels of Anor Londo.\r\n\r\nMade from ancient brass, it also offers\r\nprotection versus non-physical attacks, but\r\ndue to its giant size, it is extremely heavy\r\nfor humans, and impedes stamina recovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/530000.webp"
+  },
+  {
+    "id": "531000",
+    "name": {
+      "chn": "巨人铠甲",
+      "jap": "巨人の鎧",
+      "eng": "Giant Armor"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的巨人卫兵铠甲。\r\n\r\n以旧黄铜加工而成。\r\n除了对物理攻击以外，\r\n对其他攻击也有不错的防御能力。\r\n但因为是考虑巨人的体能而制成的装备，\r\n对人来说非常沉重，精力恢复会变慢。",
+      "jap": "アノール・ロンドを守る巨人衛兵の鎧\r\n\r\n古い黄銅を加工したもので\r\n物理以外の攻撃に対しても有効であるが\r\n巨人の膂力に合わせて作られているため\r\n人の身にはとても重く、スタミナ回復を阻害する",
+      "eng": "Armor of the giant sentinels of Anor Londo.\r\n\r\nMade from ancient brass, it also offers\r\nprotection versus non-physical attacks, but\r\ndue to its giant size, it is extremely heavy\r\nfor humans, and impedes stamina recovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/531000.webp"
+  },
+  {
+    "id": "532000",
+    "name": {
+      "chn": "巨人臂甲",
+      "jap": "巨人の手甲",
+      "eng": "Giant Gauntlets"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的巨人卫兵臂甲。\r\n\r\n以旧黄铜加工而成。\r\n除了对物理攻击以外，\r\n对其他攻击也有不错的防御能力。\r\n但因为是考虑巨人的体能而制成的装备，\r\n对人来说非常沉重，精力恢复会变慢。",
+      "jap": "アノール・ロンドを守る巨人衛兵の手甲\r\n\r\n古い黄銅を加工したもので\r\n物理以外の攻撃に対しても有効であるが\r\n巨人の膂力に合わせて作られているため\r\n人の身にはとても重く、スタミナ回復を阻害する",
+      "eng": "Gauntlets of the giant sentinels of Anor\r\nLondo.\r\n\r\nMade from ancient brass, they also offer\r\nprotection versus non-physical attacks, but\r\ndue to their giant size, they are extremely\r\nheavy for humans, and impede stamina\r\nrecovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/532000.webp"
+  },
+  {
+    "id": "533000",
+    "name": {
+      "chn": "巨人腿甲",
+      "jap": "巨人の足甲",
+      "eng": "Giant Leggings"
+    },
+    "description": {
+      "chn": "守护亚诺尔隆德的巨人卫兵腿甲。\r\n\r\n以旧黄铜加工而成。\r\n除了对物理攻击以外，\r\n对其他攻击也有不错的防御能力。\r\n但因为是考虑巨人的体能而制成的装备，\r\n对人来说非常沉重，精力恢复会变慢。",
+      "jap": "アノール・ロンドを守る巨人衛兵の足甲\r\n\r\n古い黄銅を加工したもので\r\n物理以外の攻撃に対しても有効であるが\r\n巨人の膂力に合わせて作られているため\r\n人の身にはとても重く、スタミナ回復を阻害する",
+      "eng": "Leggings of the giant sentinels of Anor\r\nLondo.\r\n\r\nMade from ancient brass, they also offer\r\nprotection versus non-physical attacks, but\r\ndue to their giant size, they are extremely\r\nheavy for humans, and impede stamina\r\nrecovery."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/533000.webp"
+  },
+  {
+    "id": "540000",
+    "name": {
+      "chn": "黯影太阳王冠",
+      "jap": "陰の太陽の王冠",
+      "eng": "Crown of the Dark Sun"
+    },
+    "description": {
+      "chn": "守护被遗弃的亚诺尔隆德的黯影太阳──\r\n葛温德林的王冠。\r\n\r\n需要有超乎常人的信仰，才能戴上神祇的王冠。\r\n因为王冠的暗月法术力量，能强化所有法术。\r\n那太阳的模样，或许正显现出他的愿望。",
+      "jap": "棄てられたアノール・ロンドを守る\r\n陰の太陽グウィンドリンの王冠\r\n\r\n神の王冠はとてつもない信仰を要求するが\r\n暗月の魔法の力を帯び、すべての魔法を強化する\r\nその太陽姿は彼の願望の現れだろうか",
+      "eng": "Crown of the Dark Sun Gwyndolin, protector\r\nof the forsaken city of Anor Londo.\r\n\r\nThis crown of the gods demands faith\r\nimmeasurable of its wearer, but it is imbued\r\nwith Darkmoon power that enhances all magic.\r\nThe image of the sun manifests Gwyndolin's\r\ndeep adoration of the sun."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/540000.webp"
+  },
+  {
+    "id": "541000",
+    "name": {
+      "chn": "月光长衣",
+      "jap": "月光の長衣",
+      "eng": "Moonlight Robe"
+    },
+    "description": {
+      "chn": "守护被遗弃的亚诺尔隆德的黯影太阳──\r\n葛温德林的长衣。\r\n\r\n因为他拥有月亮的力量，而被视作女儿扶养。\r\n他所穿戴的，是极为轻薄的魔力服装，\r\n完全没有物理防御力可言。",
+      "jap": "棄てられたアノール・ロンドを守る\r\n陰の太陽グウィンドリンの長衣\r\n\r\nその月の力から、娘として育てられた彼の衣装は\r\n極めて薄い魔力の衣であり\r\n物理的な防御力はまったく期待できない",
+      "eng": "Robe of the Dark Sun Gwyndolin, protector\r\nof the forsaken city of Anor Londo.\r\n\r\nThe power of the moon was strong in\r\nGwyndolin, and thus he was raised as a\r\ndaughter. His magic garb is silk-thin,\r\nand hardly provides any physical defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/541000.webp"
+  },
+  {
+    "id": "542000",
+    "name": {
+      "chn": "月光长手套",
+      "jap": "月光の長手袋",
+      "eng": "Moonlight Gloves"
+    },
+    "description": {
+      "chn": "守护被遗弃的亚诺尔隆德的黯影太阳──\r\n葛温德林的长手套。\r\n\r\n因为他拥有月亮的力量，而被视作女儿扶养。\r\n他所穿戴的，是极为轻薄的魔力服装，\r\n完全没有物理防御力可言。",
+      "jap": "棄てられたアノール・ロンドを守る\r\n陰の太陽グウィンドリンの長手袋\r\n\r\nその月の力から、娘として育てられた彼の衣装は\r\n極めて薄い魔力の衣であり\r\n物理的な防御力はまったく期待できない",
+      "eng": "Gloves of the Dark Sun Gwyndolin, protector\r\nof the forsaken city of Anor Londo.\r\n\r\nThe power of the moon was strong in\r\nGwyndolin, and thus he was raised as a\r\ndaughter. His magic garb is silk-thin,\r\nand hardly provides any physical defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/542000.webp"
+  },
+  {
+    "id": "543000",
+    "name": {
+      "chn": "月光围裙",
+      "jap": "月光の腰巻き",
+      "eng": "Moonlight Waistcloth"
+    },
+    "description": {
+      "chn": "守护被遗弃的亚诺尔隆德的黯影太阳──\r\n葛温德林的围裙。\r\n\r\n因为他拥有月亮的力量，而被视作女儿扶养。\r\n他所穿戴的，是极为轻薄的魔力服装，\r\n完全没有物理防御力可言。",
+      "jap": "棄てられたアノール・ロンドを守る\r\n陰の太陽グウィンドリンの腰巻き\r\n\r\nその月の力から、娘として育てられた彼の衣装は\r\n極めて薄い魔力の衣であり\r\n物理的な防御力はまったく期待できない",
+      "eng": "Waistcloth of the Dark Sun Gwyndolin,\r\nprotector of the forsaken city of Anor Londo.\r\n\r\nThe power of the moon was strong in\r\nGwyndolin, and thus he was raised as a\r\ndaughter. His magic garb is silk-thin,\r\nand hardly provides any physical defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/543000.webp"
+  },
+  {
+    "id": "550000",
+    "name": {
+      "chn": "大王王冠",
+      "jap": "大王の王冠",
+      "eng": "Crown of the Great Lord"
+    },
+    "description": {
+      "chn": "继承初始之火的乌薪王──葛温的王冠。\r\n\r\n有最强灵魂的葛温王，\r\n在外出传火前，把灵魂的力量分给了族人。\r\n葛温的族人众多，而其中特意留下来的王冠\r\n并不具有任何力量，只单纯用来作为葛温的象征。",
+      "jap": "最初の火を継いだ薪の王グウィンの王冠\r\n\r\n最も強いソウルの王グウィンは\r\n火継ぎを前にその力を一族に分け与えた\r\n一族は数多く、それでも残されたこの王冠は\r\n何の力も帯びぬ、ただグウィンの象徴であった",
+      "eng": "Crown of Gwyn, Lord of Cinder, who linked\r\nthe First Flame.\r\n\r\nLord Gwyn, bearer of the ultimate soul,\r\ndivided his power among his great clan before\r\nlinking the flame. But he did keep his crown,\r\nperhaps to preserve a symbol of the monarch,\r\nfor its actual power had fully subsided."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/550000.webp"
+  },
+  {
+    "id": "551000",
+    "name": {
+      "chn": "大王长衣",
+      "jap": "大王の長衣",
+      "eng": "Robe of the Great Lord"
+    },
+    "description": {
+      "chn": "继承初始之火的乌薪王──葛温的长衣。\r\n\r\n有最强灵魂的葛温王，\r\n在外出传火前，把灵魂的力量分给了族人。\r\n葛温的族人众多，在他出发前留下的\r\n就只有一把大剑，不具任何力量的王冠，\r\n以及自己的服装而已。",
+      "jap": "最初の火を継いだ薪の王グウィンの長衣\r\n\r\n最も強いソウルの王グウィンは\r\n火継ぎを前にその力を一族に分け与えた\r\n一族は数多く、旅立つ彼に残されたのは\r\nひと振りの大剣と、力を帯びぬ王冠と\r\nただ彼の衣装のみであったという",
+      "eng": "Robe of Gwyn, Lord of Cinder, who linked\r\nthe First Flame.\r\n\r\nLord Gwyn, bearer of the ultimate soul,\r\ndivided that power among his clan before\r\nlinking the flame. When he departed, he\r\nleft only with his greatsword, his garb,\r\nand the crown, now bereft of power."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/551000.webp"
+  },
+  {
+    "id": "552000",
+    "name": {
+      "chn": "大王臂套",
+      "jap": "大王の腕輪",
+      "eng": "Bracelet of the Great Lord"
+    },
+    "description": {
+      "chn": "继承初始之火的乌薪王──葛温的臂套。\r\n\r\n有最强灵魂的葛温王，\r\n在外出传火前，把灵魂的力量分给了族人。\r\n葛温的族人众多，在他出发前留下的\r\n就只有一把大剑，不具任何力量的王冠，\r\n以及自己的服装而已。",
+      "jap": "最初の火を継いだ薪の王グウィンの腕輪\r\n\r\n最も強いソウルの王グウィンは\r\n火継ぎを前にその力を一族に分け与えた\r\n一族は数多く、旅立つ彼に残されたのは\r\nひと振りの大剣と、力を帯びぬ王冠と\r\nただ彼の衣装のみであったという",
+      "eng": "Bracelets of Gwyn, Lord of Cinder, who linked\r\nthe First Flame.\r\n\r\nLord Gwyn, bearer of the ultimate soul,\r\ndivided that power among his clan before\r\nlinking the flame. When he departed, he\r\nleft only with his greatsword, his garb,\r\nand the crown, now bereft of power."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/552000.webp"
+  },
+  {
+    "id": "553000",
+    "name": {
+      "chn": "大王腿套",
+      "jap": "大王の脚輪",
+      "eng": "Anklet of the Great Lord"
+    },
+    "description": {
+      "chn": "继承初始之火的乌薪王──葛温的腿套。\r\n\r\n有最强灵魂的葛温王，\r\n在外出传火前，把灵魂的力量分给了族人。\r\n葛温的族人众多，在他出发前留下的\r\n就只有一把大剑，不具任何力量的王冠，\r\n以及自己的服装而已。",
+      "jap": "最初の火を継いだ薪の王グウィンの脚輪\r\n\r\n最も強いソウルの王グウィンは\r\n火継ぎを前にその力を一族に分け与えた\r\n一族は数多く、旅立つ彼に残されたのは\r\nひと振りの大剣と、力を帯びぬ王冠と\r\nただ彼の衣装のみであったという",
+      "eng": "Anklets of Gwyn, Lord of Cinder, who linked\r\nthe First Flame.\r\n\r\nLord Gwyn, bearer of the ultimate soul,\r\ndivided that power among his clan before\r\nlinking the flame. When he departed, he\r\nleft only with his greatsword, his garb,\r\nand the crown, now bereft of power."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/553000.webp"
+  },
+  {
+    "id": "560000",
+    "name": {
+      "chn": "烂麻袋",
+      "jap": "ずた袋",
+      "eng": "Sack"
+    },
+    "description": {
+      "chn": "住在底层的不死人食人女戴的\r\n染血又带补丁的烂麻袋。\r\n眼睛的部分随意开了两个洞。\r\n\r\n软软的，套在头上其实还挺舒服的，\r\n但是拿来当防具好像没有意义。",
+      "jap": "最下層に住む不死の人食い女がかぶっていた\r\n血に汚れたつぎはぎのずた袋\r\n目出し用の穴が無造作に二つ開けられている\r\n\r\n意外にやわらかく、被り心地がよいが\r\n特に防具として選ぶ意味は薄いだろう",
+      "eng": "Bloodstained patchwork sack by the Undead\r\nman-eating cook lurking in the Depths. Two\r\neyeholes have been haphazardly cut out.\r\n\r\nIt is unexpectedly soft and comfortable to\r\nwear, but it is probably near meaningless\r\nin terms of defense."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/560000.webp"
+  },
+  {
+    "id": "570000",
+    "name": {
+      "chn": "贪欲者的烙印",
+      "jap": "貪欲者の烙印",
+      "eng": "Symbol of Avarice"
+    },
+    "description": {
+      "chn": "假装成宝箱的怪物头部。\r\n据说是古代神祇因为犯下贪欲之罪被流放，\r\n一族连带都被刻上的烙印。\r\n\r\n可以戴在头上，\r\n能稍微提升吸收的灵魂量和掉宝率，\r\n但也会受到烙印的诅咒影响。",
+      "jap": "宝箱に擬態する怪物の頭\r\n古く神でありながら貪欲の罪で追放された\r\nある一族に課された烙印であるという\r\n\r\n頭にかぶることができ\r\nソウル吸収量とアイテム発見力をわずかに上げるが\r\n烙印の呪いの影響も受けてしまう",
+      "eng": "Monster head resembling a treasure chest.\r\nOnce an ancient god, it is said this is the\r\nsymbol of shame imposed on a long lost clan,\r\nexiled for the sin of avarice.\r\n\r\nWearing this slightly raises soul absorption\r\nand item discovery, but also affects its\r\nwearer with the curse of the branded."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/570000.webp"
+  },
+  {
+    "id": "580000",
+    "name": {
+      "chn": "王族头盔",
+      "jap": "王族の兜",
+      "eng": "Royal Helm"
+    },
+    "description": {
+      "chn": "地下墓地的骸骨铁匠──巴摩斯的头盔。\r\n似乎有加入黄金制成，整体的抵抗力高。\r\n\r\n这可能是古代王族的物品，\r\n但知道来龙去脉的巴摩斯已经丧命，\r\n详情便无人知晓。",
+      "jap": "地下墓地の骸骨鍛治バモスの兜\r\n金が混ざっているようで、耐性全般が高い\r\n\r\n古い王族のものと思われるが\r\nそれを知り得るバモスは既に動かず\r\nその由来ははっきりとしない",
+      "eng": "Helm of Vamos, skeleton blacksmith of the\r\nCatacombs. Partially made of gold, and\r\nconfers high resistance overall.\r\n\r\nThe helm is believed to belong to an ancient\r\nroyal line, but only Vamos would know for\r\nsure, and he shall never speak again."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/580000.webp"
+  },
+  {
+    "id": "590000",
+    "name": {
+      "chn": "父亲的面罩",
+      "jap": "父の仮面",
+      "eng": "Mask of the Father"
+    },
+    "description": {
+      "chn": "盗取墓王力量的尸术师──\r\n地下墓地主人，三人尸术师的其中一张面罩。\r\n\r\n这面罩是强壮的父亲拥有，\r\n能稍微提升装备重量。",
+      "jap": "墓王の力を盗んだ屍術師\r\n地下墓地の主、三人羽織の仮面の１つ\r\n\r\nこの仮面は雄々しい父のもので\r\n装備重量がわずかに増える",
+      "eng": "One of the three masks of the Pinwheel,\r\nthe necromancer who stole the power of the\r\nGravelord, and reigns over the Catacombs.\r\n\r\nThis mask, belonging to the valiant father,\r\nslightly raises equipment load."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/590000.webp"
+  },
+  {
+    "id": "600000",
+    "name": {
+      "chn": "母亲的面罩",
+      "jap": "母の仮面",
+      "eng": "Mask of the Mother"
+    },
+    "description": {
+      "chn": "盗取墓王力量的尸术师──\r\n地下墓地主人，三人尸术师的其中一张面罩。\r\n\r\n这面罩是温柔的母亲拥有，\r\n能稍微增加血量。",
+      "jap": "墓王の力を盗んだ屍術師\r\n地下墓地の主、三人羽織の仮面の１つ\r\n\r\nこの仮面は優しい母のもので\r\nＨＰがわずかに増える",
+      "eng": "One of the three masks of the Pinwheel,\r\nthe necromancer who stole the power of the\r\nGravelord, and reigns over the Catacombs.\r\n\r\nThis mask, belonging to the kindly mother,\r\nslightly raises HP."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/600000.webp"
+  },
+  {
+    "id": "610000",
+    "name": {
+      "chn": "孩子的面罩",
+      "jap": "子の仮面",
+      "eng": "Mask of the Child"
+    },
+    "description": {
+      "chn": "盗取墓王力量的尸术师──\r\n地下墓地主人，三人尸术师的其中一张面罩。\r\n\r\n这面罩是羞怯的孩子拥有，\r\n能稍微提升精力恢复速度。",
+      "jap": "墓王の力を盗んだ屍術師\r\n地下墓地の主、三人羽織の仮面の１つ\r\n\r\nこの仮面は初々しい子のもので\r\nスタミナ回復速度がわずかに上がる",
+      "eng": "One of the three masks of the Pinwheel,\r\nthe necromancer who stole the power of the\r\nGravelord, and reigns over the Catacombs.\r\n\r\nThis mask, belonging to the naive child,\r\nslightly raises stamina recovery speed."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/610000.webp"
+  },
+  {
+    "id": "620000",
+    "name": {
+      "chn": "牙猪头盔",
+      "jap": "牙猪の兜",
+      "eng": "Fang Boar Helm"
+    },
+    "description": {
+      "chn": "在战胜全身包覆铠甲的牙猪后，\r\n仿效诸神对古龙做的，\r\n砍下牙猪头作为胜利证明的装备。\r\n\r\n可以套在头上，是挺坚固的防具，",
+      "jap": "かつて神々が古竜の頭をそうしたように\r\n全身鎧の牙猪と戦い、これに勝利した者が\r\n勝利の証としてその首を切り取ったもの\r\n\r\n頭にかぶることができ\r\n意外にも堅実な防具となる",
+      "eng": "Severed head of the fully-armored Fang Boar\r\ntaken by the one who killed it as proof of\r\nhis victory, just as the Gods once did with\r\nthe head of the ancient dragon.\r\n\r\nCan be worn on the head as a surprisingly\r\nsound piece of protective gear."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/620000.webp"
+  },
+  {
+    "id": "630000",
+    "name": {
+      "chn": "石像鬼头盔",
+      "jap": "ガーゴイルの兜",
+      "eng": "Gargoyle Helm"
+    },
+    "description": {
+      "chn": "在不死教堂钟楼守护苏醒之钟的\r\n法术生物石像鬼的头盔。\r\n\r\n因为石像鬼的皮肤本来就够硬，\r\n它们戴这顶青铜头盔就只是用来装饰，\r\n不能指望有多高的防御力。",
+      "jap": "不死教会の鐘楼で目覚ましの鐘を守っていた\r\n魔法生物ガーゴイルの兜\r\n\r\nガーゴイルの皮膚は元より硬く\r\nこの青銅の兜は装飾でしかなかった\r\n高い防御力は期待できないだろう",
+      "eng": "Helm of the gargoyle, an enchanted creature\r\nthat guarded the Bell of Awakening in the\r\nbelfry of the Undead Church.\r\n\r\nThis bronze helm was for mere appearance's\r\nsake, as gargoyle skin is naturally hard.\r\nLittle in the way of defense can be expected\r\nfrom it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/630000.webp"
+  },
+  {
+    "id": "640000",
+    "name": {
+      "chn": "魔法师黑帽子",
+      "jap": "魔術師の黒帽子",
+      "eng": "Black Sorcerer Hat"
+    },
+    "description": {
+      "chn": "彼海姆的龙学院中\r\n潜藏暗处的魔法师所戴的帽子。\r\n\r\n他们身为密探，会使用控制声响的魔法，\r\n绝对不会让人发现行踪。",
+      "jap": "ヴィンハイムの竜の学院において\r\n密かにある裏の魔術師たちの帽子\r\n\r\n彼らは隠密として音の魔術を操り\r\n決して表に出ることはない",
+      "eng": "Hat worn by the secret sorcerers at Vinheim\r\nDragon School.\r\n\r\nThey secretly work with sound-based spells,\r\nand never reveal themselves."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/640000.webp"
+  },
+  {
+    "id": "641000",
+    "name": {
+      "chn": "魔法师黑大衣",
+      "jap": "魔術師の黒コート",
+      "eng": "Black Sorcerer Cloak"
+    },
+    "description": {
+      "chn": "彼海姆的龙学院中\r\n潜藏暗处的魔法师所穿的大衣。\r\n\r\n他们身为密探，会使用控制声响的魔法，\r\n绝对不会让人发现行踪。",
+      "jap": "ヴィンハイムの竜の学院において\r\n密かにある裏の魔術師たちのコート\r\n\r\n彼らは隠密として音の魔術を操り\r\n決して表に出ることはない",
+      "eng": "Cloak worn by the secret sorcerers at\r\nVinheim Dragon School.\r\n\r\nThey secretly work with sound-based spells,\r\nand never reveal themselves."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/641000.webp"
+  },
+  {
+    "id": "642000",
+    "name": {
+      "chn": "魔法师黑护臂",
+      "jap": "魔術師の黒ガントレット",
+      "eng": "Black Sorcerer Gauntlets"
+    },
+    "description": {
+      "chn": "彼海姆的龙学院中\r\n潜藏暗处的魔法师所穿的护臂。\r\n\r\n他们身为密探，会使用控制声响的魔法，\r\n绝对不会让人发现行踪。",
+      "jap": "ヴィンハイムの竜の学院において\r\n密かにある裏の魔術師たちのガントレット\r\n\r\n彼らは隠密として音の魔術を操り\r\n決して表に出ることはない",
+      "eng": "Gauntlets worn by the secret sorcerers at\r\nVinheim Dragon School.\r\n\r\nThey secretly work with sound-based spells,\r\nand never reveal themselves."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/642000.webp"
+  },
+  {
+    "id": "643000",
+    "name": {
+      "chn": "魔法师黑靴子",
+      "jap": "魔術師の黒ブーツ",
+      "eng": "Black Sorcerer Boots"
+    },
+    "description": {
+      "chn": "彼海姆的龙学院中\r\n潜藏暗处的魔法师所穿的靴子。\r\n\r\n他们身为密探，会使用控制声响的魔法，\r\n绝对不会让人发现行踪。",
+      "jap": "ヴィンハイムの竜の学院において\r\n密かにある裏の魔術師たちのブーツ\r\n\r\n彼らは隠密として音の魔術を操り\r\n決して表に出ることはない",
+      "eng": "Boots worn by the secret sorcerers at\r\nVinheim Dragon School.\r\n\r\nThey secretly work with sound-based spells,\r\nand never reveal themselves."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/643000.webp"
+  },
+  {
+    "id": "650000",
+    "name": {
+      "chn": "##高阶圣职头盔",
+      "jap": "##上位聖職の兜",
+      "eng": "##Elite Cleric Helm"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的头盔。\r\n\r\n白教圣职装备里，\r\n其中黑色装备是肩负使命的战士专用，\r\n拥有此装备的高阶司祭也不在少数。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける兜\r\n\r\nその中でも特に黒色のものは\r\n使命を帯びた戦士のものであり\r\n高位の司祭であることも多い",
+      "eng": "Helm worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nAmong such helms, those that were black\r\nbelonged to warrior clerics sent on missions,\r\nmany of whom were high-level priests."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/650000.webp"
+  },
+  {
+    "id": "651000",
+    "name": {
+      "chn": "##高阶圣职铠甲",
+      "jap": "##上位聖職の鎧",
+      "eng": "##Elite Cleric Armor"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的铠甲。\r\n\r\n白教圣职装备里，\r\n其中黑色装备是肩负使命的战士专用，\r\n拥有此装备的高阶司祭也不在少数。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける鎧\r\n\r\nその中でも特に黒色のものは\r\n使命を帯びた戦士のものであり\r\n高位の司祭であることも多い",
+      "eng": "Armor worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nAmong such armors, those that were black\r\nbelonged to warrior clerics sent on missions,\r\nmany of whom were high-level priests."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/651000.webp"
+  },
+  {
+    "id": "652000",
+    "name": {
+      "chn": "##高阶圣职臂甲",
+      "jap": "##上位聖職の手甲",
+      "eng": "##Elite Cleric Gauntlets"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的臂甲。\r\n\r\n白教圣职装备里，\r\n其中黑色装备是肩负使命的战士专用，\r\n拥有此装备的高阶司祭也不在少数。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける手甲\r\n\r\nその中でも特に黒色のものは\r\n使命を帯びた戦士のものであり\r\n高位の司祭であることも多い",
+      "eng": "Gauntlets worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nAmong such gauntlets, those that were black\r\nbelonged to warrior clerics sent on missions,\r\nmany of whom were high-level priests."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/652000.webp"
+  },
+  {
+    "id": "653000",
+    "name": {
+      "chn": "##高阶圣职腿甲",
+      "jap": "##上位聖職の足甲",
+      "eng": "##Elite Cleric Leggings"
+    },
+    "description": {
+      "chn": "以怎么打也打不倒而闻名的\r\n白教圣职战士所使用的腿甲。\r\n\r\n白教圣职装备里，\r\n其中黑色装备是肩负使命的战士专用，\r\n拥有此装备的高阶司祭也不在少数。",
+      "jap": "しぶとく倒れないことで有名な\r\n白教の聖職の戦士が身につける足甲\r\n\r\nその中でも特に黒色のものは\r\n使命を帯びた戦士のものであり\r\n高位の司祭であることも多い",
+      "eng": "Leggings worn by the warrior clerics of the\r\nWay of White, who are famous for being\r\nunyielding in battle.\r\n\r\nAmong such leggings, those that were black\r\nbelonged to warrior clerics sent on missions,\r\nmany of whom were high-level priests."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/653000.webp"
+  },
+  {
+    "id": "660000",
+    "name": {
+      "chn": "亚尔特留斯头盔",
+      "jap": "アルトリウスの兜",
+      "eng": "Helm of Artorias"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“漫步深渊”亚尔特留斯的头盔。\r\n\r\n被深渊黑暗玷污的\r\n群青色盔帽带永远濡湿未干，\r\n犹如在暗示装备主人的末路。",
+      "jap": "グウィン王の四騎士の一人\r\n「深淵歩き」アルトリウスの兜\r\n\r\n主の最期を示すように、深淵の闇に汚れ\r\n誇り高い群青の房も乾かず濡れそぼっている",
+      "eng": "Helm of Artorias the Abysswalker,\r\none of Gwyn's Four Knights.\r\n\r\nThe death of the helm's owner can be\r\nsurmised from the corrosive Dark of the\r\nAbyss, and the musty azure-blue tassel,\r\nonce a symbol of pride and glory."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/660000.webp"
+  },
+  {
+    "id": "661000",
+    "name": {
+      "chn": "亚尔特留斯铠甲",
+      "jap": "アルトリウスの鎧",
+      "eng": "Armor of Artorias"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“漫步深渊”亚尔特留斯的铠甲。\r\n\r\n被深渊黑暗玷污的\r\n著名群青色披风已有如破布，\r\n犹如在暗示装备主人的末路。",
+      "jap": "グウィン王の四騎士の一人\r\n「深淵歩き」アルトリウスの鎧\r\n\r\n主の最期を示すように、深淵の闇に汚れ\r\n名高い群青のマントは、もはやボロ布のようだ",
+      "eng": "Armor of Artorias the Abysswalker,\r\none of Gwyn's Four Knights.\r\n\r\nThe death of the armor's owner can be\r\nsurmised from the corrosive Dark of the\r\nAbyss, and the tattered azure-blue cape,\r\nonce a symbol of pride and glory."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/661000.webp"
+  },
+  {
+    "id": "662000",
+    "name": {
+      "chn": "亚尔特留斯臂甲",
+      "jap": "アルトリウスの手甲",
+      "eng": "Gauntlets of Artorias"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“漫步深渊”亚尔特留斯的臂甲。\r\n\r\n被深渊黑暗玷污的臂甲，\r\n已不能指望会有与过去相同的防御效果。\r\n这模样犹如在暗示装备主人的末路。",
+      "jap": "グウィン王の四騎士の一人\r\n「深淵歩き」アルトリウスの手甲\r\n\r\n主の最期を示すように、深淵の闇に汚れている\r\nかつての防御効果はもはや望めはしないだろう",
+      "eng": "Gauntlets of Artorias the Abysswalker,\r\none of Gwyn's Four Knights.\r\n\r\nThe death of their owner can be\r\nsurmised from the corrosive Dark of the\r\nAbyss, which has compromised their\r\nprotective utility."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/662000.webp"
+  },
+  {
+    "id": "663000",
+    "name": {
+      "chn": "亚尔特留斯腿甲",
+      "jap": "アルトリウスの足甲",
+      "eng": "Leggings of Artorias"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“漫步深渊”亚尔特留斯的腿甲。\r\n\r\n被深渊黑暗玷污的腿甲，\r\n已不能指望会有与过去相同的防御效果。\r\n这模样犹如在暗示装备主人的末路。",
+      "jap": "グウィン王の四騎士の一人\r\n「深淵歩き」アルトリウスの足甲\r\n\r\n主の最期を示すように、深淵の闇に汚れている\r\nかつての防御効果はもはや望めはしないだろう",
+      "eng": "Leggings of Artorias the Abysswalker,\r\none of Gwyn's Four Knights.\r\n\r\nThe death of their owner can be\r\nsurmised from the corrosive Dark of the\r\nAbyss, which has compromised their\r\nprotective utility."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/663000.webp"
+  },
+  {
+    "id": "670000",
+    "name": {
+      "chn": "白瓷面罩",
+      "jap": "白磁の仮面",
+      "eng": "Porcelain Mask"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“王的先锋”基亚蓝的面罩。\r\n\r\n眼眸头巾是所有“王的先锋”的通用装备，\r\n而这温润的白瓷面罩是她特别请求下，\r\n在受封骑士勋章时获赐的物品。\r\n能与她象牙色的头发相映。",
+      "jap": "グウィン王の四騎士の一人\r\n「王の刃」キアランの仮面\r\n\r\n瞳の頭巾はすべての「王の刃」に共通だが\r\nやさしい白磁の仮面は、彼女が特に望み\r\n騎士叙勲により授かったものであり\r\n自身の象牙の髪を伴っている",
+      "eng": "Mask of the Lord's Blade Ciaran,\r\none of Gwyn's Four Knights.\r\n\r\nThe cyclops headpiece is common to all of\r\nthe Lord's Blades, but Ciaran was determined\r\nto earn this soft porcelain mask as a unique\r\ndecoration of honor. The mask is lined with\r\nivory locks of hair."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/670000.webp"
+  },
+  {
+    "id": "671000",
+    "name": {
+      "chn": "王的先锋长衣",
+      "jap": "王刃の長衣",
+      "eng": "Lord's Blade Robe"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“王的先锋”基亚蓝的长衣。\r\n\r\n这是所有“王的先锋”的通用装备，\r\n可以溶入黑暗，但还是会有些微金色残影，\r\n进而成为宣传她们之所以恐怖的象征。",
+      "jap": "グウィン王の四騎士の一人\r\n「王の刃」キアランの長衣\r\n\r\nすべての「王の刃」に共通する装備\r\n闇に紛れ、だが僅かに金の残像だけを残し\r\n彼女たちの恐怖を口伝の糧とするものだ",
+      "eng": "Robe of the Lord's Blade Ciaran,\r\none of Gwyn's Four Knights.\r\n\r\nA robe common to all of the Lord's Blades.\r\nThese deadly women shift nimbly between\r\nlayers of darkness, etching streaks of gold\r\ninto the night air, and planting visions of\r\nterror into the minds of their targets."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/671000.webp"
+  },
+  {
+    "id": "672000",
+    "name": {
+      "chn": "王的先锋长手套",
+      "jap": "王刃の長手袋",
+      "eng": "Lord's Blade Gloves"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“王的先锋”基亚蓝的长手套。\r\n\r\n这是所有“王的先锋”的通用装备，\r\n可以溶入黑暗，但还是会有些微金色残影，\r\n进而成为宣传她们之所以恐怖的象征。",
+      "jap": "グウィン王の四騎士の一人\r\n「王の刃」キアランの長手袋\r\n\r\nすべての「王の刃」に共通する装備\r\n闇に紛れ、だが僅かに金の残像だけを残し\r\n彼女たちの恐怖を口伝の糧とするものだ",
+      "eng": "Gloves worn by the Lord's Blade Ciaran,\r\none of Gwyn's Four Knights.\r\n\r\nGloves common to all of the Lord's Blades.\r\nThese deadly women shift nimbly between\r\nlayers of darkness, etching streaks of gold\r\ninto the night air, and planting visions of\r\nterror into the minds of their targets."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/672000.webp"
+  },
+  {
+    "id": "673000",
+    "name": {
+      "chn": "王的先锋围裙",
+      "jap": "王刃の腰巻き",
+      "eng": "Lord's Blade Waistcloth"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“王的先锋”基亚蓝的围裙。\r\n\r\n这是所有“王的先锋”的通用装备，\r\n可以溶入黑暗，但还是会有些微金色残影，\r\n进而成为宣传她们之所以恐怖的象征。",
+      "jap": "グウィン王の四騎士の一人\r\n「王の刃」キアランの腰巻き\r\n\r\nすべての「王の刃」に共通する装備\r\n闇に紛れ、だが僅かに金の残像だけを残し\r\n彼女たちの恐怖を口伝の糧とするものだ",
+      "eng": "Waistcloth worn by the Lord's Blade Ciaran,\r\none of Gwyn's Four Knights.\r\n\r\nWaistcloth common to all the Lord's Blades.\r\nThese deadly women shift nimbly between\r\nlayers of darkness, etching streaks of gold\r\ninto the night air, and planting visions of\r\nterror into the minds of their targets."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/673000.webp"
+  },
+  {
+    "id": "680000",
+    "name": {
+      "chn": "戈夫头盔",
+      "jap": "ゴーの兜",
+      "eng": "Gough's Helm"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“鹰眼”戈夫的头盔。\r\n受封骑士勋章时获赐的荣誉装备。\r\n\r\n批评他不过是一名区区巨人的家伙，\r\n将大名鼎鼎的“鹰眼”头盔窥孔，\r\n用树脂全数堵死。",
+      "jap": "グウィン王の四騎士の一人\r\n「鷹の目」ゴーの兜\r\n騎士叙勲により授かった名誉の品\r\n\r\n彼をただの巨人に貶めんとする者により\r\n名高い「鷹の目」に用意されたはずの覗きは\r\n樹脂により、すべて隙間なく潰されている",
+      "eng": "Helm of Hawkeye Gough,\r\none of Gwyn's Four Knights.\r\nReceived as a decoration of knightly honor.\r\n\r\nA helm crafted especially for the honorable\r\nHawkeye Gough, only the eye holes were\r\npacked with tree resin by those who\r\ndismissed Gough as a brutish giant."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/680000.webp"
+  },
+  {
+    "id": "681000",
+    "name": {
+      "chn": "戈夫铠甲",
+      "jap": "ゴーの鎧",
+      "eng": "Gough's Armor"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“鹰眼”戈夫的铠甲。\r\n自他下野以来不曾离身的装备。\r\n\r\n然而葛温王颁授的勋章与古龙骨的护肩\r\n依然掩盖不住伟大的荣耀。",
+      "jap": "グウィン王の四騎士の一人\r\n「鷹の目」ゴーの鎧\r\n野にあったころからずっと彼と共にあった\r\n\r\nだが王授のメダルと、古竜骨の肩あてが\r\n偉大な栄光を誇るように示している",
+      "eng": "Armor of Hawkeye Gough,\r\none of Gwyn's Four Knights.\r\n\r\nArmor donned by Gough since his days\r\nas a dragonslayer. The medallion,\r\nbequeathed by the Lord Himself,\r\nand the dragon bone pauldrons are\r\nsymbols of the highest honors."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/681000.webp"
+  },
+  {
+    "id": "682000",
+    "name": {
+      "chn": "戈夫臂甲",
+      "jap": "ゴーの手甲",
+      "eng": "Gough's Gauntlets"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“鹰眼”戈夫的臂甲。\r\n\r\n受封骑士勋章时获赐的荣誉装备。\r\n使用的素材与银骑士的装备非常类似。",
+      "jap": "グウィン王の四騎士の一人\r\n「鷹の目」ゴーの手甲\r\n\r\n騎士叙勲により授かった名誉の品\r\nその素材は銀騎士たちのそれに近い",
+      "eng": "Gauntlets of Hawkeye Gough,\r\none of Gwyn's Four Knights.\r\n\r\nReceived as a decoration of honor.\r\nCrafted of similar material to the\r\ngauntlets worn by the Silver Knights."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/682000.webp"
+  },
+  {
+    "id": "683000",
+    "name": {
+      "chn": "戈夫腿甲",
+      "jap": "ゴーの足甲",
+      "eng": "Gough's Leggings"
+    },
+    "description": {
+      "chn": "葛温王四骑士──\r\n“鹰眼”戈夫的腿甲。\r\n\r\n受封骑士勋章时获赐的荣誉装备。\r\n使用的素材与银骑士的装备非常类似。",
+      "jap": "グウィン王の四騎士の一人\r\n「鷹の目」ゴーの足甲\r\n\r\n騎士叙勲により授かった名誉の品\r\nその素材は銀騎士たちのそれに近い",
+      "eng": "Leggings of Hawkeye Gough,\r\none of Gwyn's Four Knights.\r\n\r\nReceived as a decoration of honor.\r\nCrafted of similar material to the\r\ngauntlets worn by the Silver Knights."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/683000.webp"
+  },
+  {
+    "id": "690000",
+    "name": {
+      "chn": "守护者头盔",
+      "jap": "守護者の兜",
+      "eng": "Guardian Helm"
+    },
+    "description": {
+      "chn": "灵庙森林的守护者，石骑士的头盔。\r\n\r\n石骑士是靠法术运作的巨偶，\r\n这顶头盔也带有法术的力量，\r\n但是重量非常重。",
+      "jap": "霊廟の森の守護者\r\n石の騎士の兜\r\n\r\n石の騎士は魔法で動くゴーレムであり\r\nこの兜もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Helm of the stone knights,\r\nguardians of the forest sanctuary.\r\n\r\nThe stone knights are golems animated\r\nby magic, and their enchanted helms are\r\noppressively heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/690000.webp"
+  },
+  {
+    "id": "691000",
+    "name": {
+      "chn": "守护者铠甲",
+      "jap": "守護者の鎧",
+      "eng": "Guardian Armor"
+    },
+    "description": {
+      "chn": "灵庙森林的守护者，石骑士的铠甲。\r\n\r\n石骑士是靠法术运作的巨偶，\r\n这副铠甲也带有法术的力量，\r\n但是重量非常重。",
+      "jap": "霊廟の森の守護者\r\n石の騎士の鎧\r\n\r\n石の騎士は魔法で動くゴーレムであり\r\nこの鎧もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Armor of the stone knights,\r\nguardians of the forest sanctuary.\r\n\r\nThe stone knights are golems animated\r\nby magic, and their enchanted armor is\r\noppressively heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/691000.webp"
+  },
+  {
+    "id": "692000",
+    "name": {
+      "chn": "守护者臂甲",
+      "jap": "守護者の手甲",
+      "eng": "Guardian Gauntlets"
+    },
+    "description": {
+      "chn": "灵庙森林的守护者，石骑士的臂甲。\r\n\r\n石骑士是靠法术运作的巨偶，\r\n这副臂甲也带有法术的力量，\r\n但是重量非常重。",
+      "jap": "霊廟の森の守護者\r\n石の騎士の手甲\r\n\r\n石の騎士は魔法で動くゴーレムであり\r\nこの手甲もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Gauntlets of the stone knights,\r\nguardians of the forest sanctuary.\r\n\r\nThe stone knights are golems animated\r\nby magic, and their enchanted gauntlets are\r\noppressively heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/692000.webp"
+  },
+  {
+    "id": "693000",
+    "name": {
+      "chn": "守护者腿甲",
+      "jap": "守護者の足甲",
+      "eng": "Guardian Leggings"
+    },
+    "description": {
+      "chn": "灵庙森林的守护者，石骑士的腿甲。\r\n\r\n石骑士是靠法术运作的巨偶，\r\n这副腿甲也带有法术的力量，\r\n但是重量非常重。",
+      "jap": "霊廟の森の守護者\r\n石の騎士の足甲\r\n\r\n石の騎士は魔法で動くゴーレムであり\r\nこの足甲もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Leggings of the stone knights,\r\nguardians of the forest sanctuary.\r\n\r\nThe stone knights are golems animated\r\nby magic, and their enchanted leggings are\r\noppressively heavy."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/693000.webp"
+  },
+  {
+    "id": "700000",
+    "name": {
+      "chn": "微笑高礼帽",
+      "jap": "微笑みロングハット",
+      "eng": "Snickering Top Hat"
+    },
+    "description": {
+      "chn": "在过去的乌拉席露遇见的神秘男子──\r\n“伟哉”切斯特的黑色高礼帽。\r\n\r\n据说戴上这顶帽子的人，\r\n脸上会一直带着一抹诡异的微笑，\r\n这或许是切斯特的怨念所致。",
+      "jap": "ウーラシールの過去で出会った謎の男\r\n素晴らしいチェスターの黒いロングハット\r\n\r\nあるいはチェスターの怨念によるものなのか\r\nこれをかぶった者の顔には\r\n常に満面の異様な微笑みが張り付くという",
+      "eng": "Black top hat worn by Marvellous Chester,\r\na man of mystery lost in the past.\r\n\r\nThe wearer of this top hat cracks a dubious,\r\npermanent grin. The Curse of Chester!"
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/700000.webp"
+  },
+  {
+    "id": "701000",
+    "name": {
+      "chn": "切斯特长大衣",
+      "jap": "チェスターのロングコート",
+      "eng": "Chester's Long Coat"
+    },
+    "description": {
+      "chn": "在过去的乌拉席露遇见的神秘男子──\r\n“伟哉”切斯特的黑色皮革大衣。\r\n\r\n原本是士绅贵族的服装，\r\n是以高超裁缝技术制成的珍品，\r\n因此消除声响、藏匿行踪的功能十分优异。",
+      "jap": "ウーラシールの過去で出会った謎の男\r\n素晴らしいチェスターの黒革のロングコート\r\n\r\n元々は紳士貴族の装束であったものか\r\n極めて高い縫製技術による逸品であり\r\n静音性、隠密性にも優れている",
+      "eng": "Black leather long coat hat worn by\r\nMarvellous Chester, a man of mystery\r\nlost in the past.\r\n\r\nThis exquisitely sewn aristocratic suit\r\nallows its wearer to move in silence,\r\nlending well to stealth."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/701000.webp"
+  },
+  {
+    "id": "702000",
+    "name": {
+      "chn": "切斯特手套",
+      "jap": "チェスターのグローブ",
+      "eng": "Chester's Gloves"
+    },
+    "description": {
+      "chn": "在过去的乌拉席露遇见的神秘男子──\r\n“伟哉”切斯特的皮革手套。\r\n\r\n看起来没什么特征，是质量极佳的手套。",
+      "jap": "ウーラシールの過去で出会った謎の男\r\n素晴らしいチェスターの革のグローブ\r\n\r\nとりたてた特徴はないが、とても良質のもの",
+      "eng": "Leather gloves worn by Marvellous Chester,\r\na man of mystery lost in the past.\r\n\r\nThese gloves have no distinguishing\r\nfeatures, but are of extremely high quality."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/702000.webp"
+  },
+  {
+    "id": "703000",
+    "name": {
+      "chn": "切斯特长裤",
+      "jap": "チェスターのズボン",
+      "eng": "Chester's Trousers"
+    },
+    "description": {
+      "chn": "在过去的乌拉席露遇见的神秘男子──\r\n“伟哉”切斯特的黑色皮革长裤。\r\n\r\n是以高超裁缝技术制成的珍品，\r\n有许多大大小小的银制品点缀，\r\n大腿内侧可收纳十字弓的箭。",
+      "jap": "ウーラシールの過去で出会った謎の男\r\n素晴らしいチェスターの黒革のズボン\r\n\r\n極めて高い縫製技術による逸品\r\nあちこちに大小の銀細工が散りばめられ\r\n内股にはクロスボウのボルトも収められる",
+      "eng": "Black leather trousers worn by\r\nMarvellous Chester, a man of mystery\r\nlost in the past.\r\n\r\nThese exquisitely sewn trousers are\r\ndecorated with silver trinkets of varying\r\nsizes, and have straps on the inner legs\r\nfor carrying crossbow bolts."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/703000.webp"
+  },
+  {
+    "id": "710000",
+    "name": {
+      "chn": "肥大头颅",
+      "jap": "肥大した頭部",
+      "eng": "Bloated Head"
+    },
+    "description": {
+      "chn": "被深渊之主马努斯的黑暗吞噬，\r\n因此人性失控的乌拉席露人民头颅。\r\n\r\n外形膨胀肿大，不平整，布满龟裂，\r\n缝隙中有无数红眼球形状的瘤。\r\n\r\n虽然表皮坚硬，但里面却留有体液，\r\n正常人应该不会想戴上它。",
+      "jap": "深淵の主マヌスの闇に飲まれ\r\n人間性を暴走させたウーラシール民の頭部\r\n\r\n大きく肥大し、ギザギザとささくれており\r\nその間に無数の赤い眼球状の瘤がある\r\n\r\n表面は硬質だが、中は乾かぬ体液で湿り\r\n正気であればこれをかぶろうとは思うまい",
+      "eng": "The head of an Oolacile resident whose\r\nhumanity went wild after being devoured\r\nby the Dark of Manus, Father of the Abyss.\r\n\r\nThe bloated head is fissured, the cracks\r\nlined with innumerable tiny red eyeballs.\r\nWith a hard outside and mucous-filled\r\ninside, no sane person could ever wear it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/710000.webp"
+  },
+  {
+    "id": "720000",
+    "name": {
+      "chn": "肥大魔法师头颅",
+      "jap": "肥大した魔術師の頭部",
+      "eng": "Bloated Sorcerer Head"
+    },
+    "description": {
+      "chn": "被深渊之主马努斯的黑暗吞噬，\r\n因此人性失控的乌拉席露人民头颅。\r\n\r\n外形膨胀肿大，不平整，布满龟裂，\r\n缝隙中有无数红眼球形状的瘤，\r\n还有多个大小不一的脑突出在外。\r\n\r\n这是曾为魔法师才会有的头颅，\r\n因此带有些许魔法的力量。",
+      "jap": "深淵の主マヌスの闇に飲まれ\r\n人間性を暴走させたウーラシール民の頭部\r\n\r\n大きく肥大し、ギザギザとささくれており\r\nその間に無数の赤い眼球状の瘤があり\r\n脳の房が大小幾つも飛び出している\r\n\r\nこれは特に魔術師であったろう者のもので\r\nそれ故か、僅かだが魔術の力も秘めている",
+      "eng": "The head of an Oolacile resident whose\r\nhumanity went wild after being devoured\r\nby the Dark of Manus, Father of the Abyss.\r\n\r\nThe bloated head is fissured, the cracks\r\nlined with innumerable tiny red eyeballs,\r\nand accented by protruding brain parts.\r\nIt is lightly enchanted, suggesting that it\r\nmay have belonged to a sorcerer."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/720000.webp"
+  },
+  {
+    "id": "1000000",
+    "name": {
+      "chn": "##龙头",
+      "jap": "##竜の頭",
+      "eng": "##Dragon Head"
+    },
+    "description": {
+      "chn": "由超人秘密仪式变形而成的龙头。\r\n在变形状态使用龙头石，能喷出龙的吐息。\r\n\r\n超人的目标是超越生命，\r\n为此须先变形成和古龙十分相似的外貌。\r\n变形效果唯有死亡方可解除。",
+      "jap": "超越者の秘儀により、竜のそれに変態した頭\r\nこの状態で竜頭石を使うと、竜のブレスを吐く\r\n\r\n超越者の目指すものは、生命の超越であり\r\nそのために古竜の完全な似姿を得ることである\r\nその変態効果は死ぬまで解けることはない",
+      "eng": "\r\nTransform the head into that of a dragon with\r\na secret rite of the transcendent apostles.\r\nUse Dragon Head Stone in this state to spew\r\ndragon breath.\r\n\r\nThe dragon apostles seek transcendence of\r\nlife itself, attainable by transformation\r\ninto an ancient drag"
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/1000000.webp"
+  },
+  {
+    "id": "1001000",
+    "name": {
+      "chn": "##龙身",
+      "jap": "##竜の体",
+      "eng": "##Dragon Body"
+    },
+    "description": {
+      "chn": "由超人秘密仪式变形而成的龙体。\r\n在变形状态使用龙体石，能发出龙吼。\r\n\r\n超人的目标是超越生命，\r\n为此须先变形成和古龙十分相似的外貌。\r\n变形效果唯有死亡方可解除。",
+      "jap": "超越者の秘儀により、竜のそれに変態した体\r\nこの状態で竜体石を使うと、竜の咆哮をなす\r\n\r\n超越者の目指すものは、生命の超越であり\r\nそのために古竜の完全な似姿を得ることである\r\nその変態効果は死ぬまで解けることはない",
+      "eng": "Transform the body into that of a dragon with\r\na secret rite of the transcendent apostles.\r\nUse Dragon Torso Stone in this state to let\r\nout a great dragon roar.\r\n\r\nThe dragon apostles seek transcendence of\r\nlife itself, attainable by transformation\r\ninto an an"
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/1001000.webp"
+  },
+  {
+    "id": "1002000",
+    "name": {
+      "chn": "##龙臂",
+      "jap": "##竜の腕",
+      "eng": "##Dragon Arms"
+    },
+    "description": {
+      "chn": "由超人秘密仪式变形而成的龙臂。\r\n在变形状态使用龙体石，\r\n能发出龙吼，手指会出现岩石般的利爪。\r\n\r\n超人的目标是超越生命，\r\n为此须先变形成和古龙十分相似的外貌。\r\n变形效果唯有死亡方可解除。",
+      "jap": "超越者の秘儀により、竜のそれに変態した腕\r\nこの状態で竜体石を使うと、竜の咆哮をなし\r\n指にはするどい岩のかぎ爪がある\r\n\r\n超越者の目指すものは、生命の超越であり\r\nそのために古竜の完全な似姿を得ることである\r\nその変態効果は死ぬまで解けることはない",
+      "eng": "Transform arms into those of a dragon with\r\na secret rite of the transcendent apostles.\r\nUse Dragon Torso Stone in this state to create\r\ndragon roar and wield talons from the hands.\r\n\r\nThe dragon apostles seek transcendence of\r\nlife itself, attainable by trans"
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/1002000.webp"
+  },
+  {
+    "id": "1003000",
+    "name": {
+      "chn": "##龙腿",
+      "jap": "##竜の脚",
+      "eng": "##Dragon Legs"
+    },
+    "description": {
+      "chn": "由超人秘密仪式变形而成的龙腿。\r\n在变形状态使用龙体石，能发出龙吼。\r\n\r\n超人的目标是超越生命，\r\n为此须先变形成和古龙十分相似的外貌。\r\n变形效果唯有死亡方可解除。",
+      "jap": "超越者の秘儀により、竜のそれに変態した脚\r\nこの状態で竜体石を使うと、竜の咆哮をなす\r\n\r\n超越者の目指すものは、生命の超越であり\r\nそのために古竜の完全な似姿を得ることである\r\nその変態効果は死ぬまで解けることはない",
+      "eng": "Transform legs into those of a dragon with\r\na secret rite of the transcendent apostles.\r\nUse Dragon Torso Stone in this state to let\r\nout a great dragon roar.\r\n\r\nThe dragon apostles seek transcendence of\r\nlife itself, attainable by transformation\r\ninto an ancie"
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/1003000.webp"
+  },
+  {
+    "id": "1010000",
+    "name": {
+      "chn": "##蛋",
+      "jap": "##たまご",
+      "eng": "##Egg"
+    },
+    "description": {
+      "chn": "被背蛋的寄生虫在头部下的蛋。\r\n\r\n之所以会觉得搔痒，\r\n是因为蛋吸收掉打倒敌人时的灵魂，\r\n在不知不觉中成长……\r\n\r\n如果觉得这样太丢脸，就要用堕蛋药了。",
+      "jap": "たまご背負いの寄生虫により\r\n頭に植え付けられたたまご\r\n\r\n何か痒いと思っていたら\r\n敵を倒したときに吸収するソウルを奪い\r\nいつの間にか成長してしまった…\r\n\r\nこれを名誉と思わないなら、たまごくだしが必要だ",
+      "eng": "An egg implanted on the head by a type of\r\nparasite bearing eggs on its back.\r\n\r\nThe nightmare begins with a slight itch on\r\nthe head, and soon the parasite will be\r\nsiphoning the souls of slain enemies.\r\nUnless you find this amusing, quickly\r\nuse Egg Vermifuge to purge it."
+    },
+    "type": "armor",
+    "game": 1,
+    "icon": "/icons/ds1/armors/1010000.webp"
+  }
+]

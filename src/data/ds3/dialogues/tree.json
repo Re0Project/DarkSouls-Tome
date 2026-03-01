@@ -1,0 +1,135 @@
+{
+  "npc": "tree",
+  "game": 3,
+  "avatar": "/icons/ds3/npcs/tree.webp",
+  "lines": [
+    {
+      "index": 0,
+      "chn": "##我可爱的孩子啊……你在哪儿？",
+      "jap": "##どこにいってしまったの、私の愛し子…",
+      "eng": "##Where have you gone, sweet child...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 1,
+      "chn": "##外头很冷吧？很冷吧？",
+      "jap": "##外は寒いでしょう、寒いでしょう…",
+      "eng": "##It's cold outside, so awfully cold...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "chn": "##你到哪里去了呢……",
+      "jap": "##どこにいってしまったの…",
+      "eng": "##Where have you run off to?",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "chn": "##可爱的孩子啊，我在这里唷，",
+      "jap": "##私はここよ、私の愛し子",
+      "eng": "##I'm here, sweet child, right here.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "chn": "##外头很冷吧？你不可能找到容身之处──",
+      "jap": "##寒いでしょう。貴方の居場所はどこにもないの",
+      "eng": "##You're cold, and you've no place to go.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "chn": "##因为你是我可爱的孩子啊。",
+      "jap": "##だって私の愛し子だから",
+      "eng": "##You're mine, sweet child, all mine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "chn": "##所以啊，孩子，快点回来吧，",
+      "jap": "##だからねえ、帰っていらっしゃい",
+      "eng": "##So run home, sweet child, run home.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "chn": "##因为你是我可爱的孩子，\r\n不可能找得到容身之处。",
+      "jap": "##貴方の居場所はどこにもないの。\r\nだって私の愛し子だから",
+      "eng": "##You know, you've no place to go,\r\nyou are mine, sweet child, all mine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "chn": "##因为你是我可爱的孩子，\r\n不可能找得到容身之处。",
+      "jap": "##貴方の居場所はどこにもないの。\r\nだって私の愛し子だから",
+      "eng": "##You know, you've no place to go,\r\nyou are mine, sweet child, all mine.",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "chn": "##快点还给我！还给我！",
+      "jap": "##返してちょうだい！返しなさい！",
+      "eng": "##What have you done with him! Give him back!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "chn": "##你把她藏起来了吧！你把我可爱的孩子藏到哪里去了！",
+      "jap": "##どこに隠したの！私の愛し子を！",
+      "eng": "##Where have you hidden him? My dear, sweet child!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "chn": "##我不原谅你！你这小偷！",
+      "jap": "##許さないわよ！盗人が！",
+      "eng": "##I'll get you! You rotten kidnapper!",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "chn": "##……啊啊，我可爱的孩子，对不起……",
+      "jap": "##…ああ、ごめんなさい。私の愛し子…",
+      "eng": "##Ahh, forgive me, sweet child...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "chn": "##你不可能找到容身之处啊……",
+      "jap": "##貴女の居場所はどこにもないの…",
+      "eng": "##You've no place to go...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "chn": "##……啊啊，你在哪儿？我可爱的孩子啊……",
+      "jap": "##…ああ、どこにいってしまったの、私の愛し子…",
+      "eng": "##Ahh, where have you gone, sweet child...",
+      "isUnused": true,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "chn": "##你到哪里去了呢……",
+      "jap": "##どこにいってしまったの…",
+      "eng": "##Where have you run off to...",
+      "isUnused": true,
+      "isTitle": false
+    }
+  ]
+}

@@ -1,0 +1,2270 @@
+[
+  {
+    "id": "1200000",
+    "name": {
+      "chn": "法兰短箭",
+      "jap": "ファランの短矢",
+      "eng": "Farron Dart"
+    },
+    "description": {
+      "chn": "法兰不死队的魔法师们，\r\n独自调整后施放的“灵魂箭”。\r\n\r\n能射出灵魂短箭。\r\n\r\n原来就是知名的法兰魔法，\r\n又因为容易上手，有许多人学习。",
+      "jap": "ファランの不死隊、その魔術師たちが\r\n独自の調整をほどこした「ソウルの矢」\r\n\r\nソウルの短矢を放つ\r\n\r\nもっとも名の知れたファランの魔術であり\r\nその使い勝手から、ひろく学ばれている",
+      "eng": "Variation of Soul Arrow developed\r\nby sorcerers of the Undead Legion of Farron.\r\n\r\nFire a soul dart.\r\n\r\nWell known among the Farron sorceries,\r\nit is learned far and wide due to its ease of use."
+    },
+    "remark": {
+      "chn": "射出灵魂短箭",
+      "jap": "ソウルの短矢を放つ",
+      "eng": "Fire soul dart"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1200000.webp"
+  },
+  {
+    "id": "1210000",
+    "name": {
+      "chn": "强力法兰短箭",
+      "jap": "強いファランの短矢",
+      "eng": "Great Farron Dart"
+    },
+    "description": {
+      "chn": "“法兰短箭”的进阶魔法之一。\r\n能射出威力更强的灵魂短箭。\r\n\r\n这是结晶老者亲自钻研，\r\n托付给#1辅祭长#3#2侍祭长#3后，以其女儿──\r\n海泽儿的名字署名的魔法。",
+      "jap": "「ファランの短矢」の上位魔術のひとつ\r\nより威力のあるソウルの短矢を放つ\r\n\r\nそれは結晶の古老が直々に鍛え\r\n侍祭の長に託したものであるという\r\nその娘、ヘイゼルの魔術として",
+      "eng": "Sorcery which improves upon Farron Dart.\r\nFires a more powerful soul dart.\r\n\r\nEntrusted to the leader of the Legion's acolytes,\r\nand apparently a sorcery of his daughter, Heysel,\r\nthat was refined by a Crystal Sage."
+    },
+    "remark": {
+      "chn": "射出威力更强的灵魂短箭",
+      "jap": "より威力のあるソウルの短矢を放つ",
+      "eng": "Fire more powerful soul dart"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1210000.webp"
+  },
+  {
+    "id": "1300000",
+    "name": {
+      "chn": "灵魂箭",
+      "jap": "ソウルの矢",
+      "eng": "Soul Arrow"
+    },
+    "description": {
+      "chn": "最基础的魔法。\r\n能射出灵魂箭。\r\n\r\n要使用魔法，必须装备杖，\r\n并在营火处预先记住魔法。",
+      "jap": "もっとも基礎的な魔術\r\nソウルの矢を放つ\r\n\r\n魔術を使用するためには、杖を装備し\r\n篝火で魔術を記憶しておく必要がある",
+      "eng": "Elementary sorcery.\r\nFires a soul arrow.\r\n\r\nTo use sorceries, equip a staff\r\nand attune a sorcery at a bonfire."
+    },
+    "remark": {
+      "chn": "射出灵魂箭",
+      "jap": "ソウルの矢を放つ",
+      "eng": "Fire soul arrow"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1300000.webp"
+  },
+  {
+    "id": "1301000",
+    "name": {
+      "chn": "强力灵魂箭",
+      "jap": "強いソウルの矢",
+      "eng": "Great Soul Arrow"
+    },
+    "description": {
+      "chn": "“灵魂箭”的进阶魔法。\r\n能射出威力更强的灵魂箭。\r\n\r\n大部分的魔法都带有魔力属性攻击力，\r\n对铁铠甲、坚硬的龙鳞等\r\n擅长防御物理攻击的对手相当有用。",
+      "jap": "「ソウルの矢」の上位魔術\r\nより威力のあるソウルの矢を放つ\r\n\r\n多くの魔術は魔力属性の攻撃力を持ち\r\n鉄の鎧や硬いウロコなど\r\n物理攻撃に強い対象にも有効となる",
+      "eng": "Sorcery which improves upon Soul Arrow.\r\nFires a more powerful soul arrow.\r\n\r\nMany sorceries inflict magic damage,\r\nmaking them effective against iron armor,\r\ntough scales, and other physically resilient materials."
+    },
+    "remark": {
+      "chn": "射出威力更强的灵魂箭",
+      "jap": "より威力のあるソウルの矢を放つ",
+      "eng": "Fire more powerful soul arrow"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1301000.webp"
+  },
+  {
+    "id": "1302000",
+    "name": {
+      "chn": "灵魂巨箭",
+      "jap": "ソウルの太矢",
+      "eng": "Heavy Soul Arrow"
+    },
+    "description": {
+      "chn": "自古以来就存在的初级应用魔法。\r\n能射出灵魂巨箭。\r\n\r\n因为增加威力，连续发射速度降低，\r\n而且攻击间的空档大。\r\n是难以操控的魔法。",
+      "jap": "古くからある、初歩的な応用魔術\r\nソウルの太矢を放つ\r\n\r\n威力重視の調整は、同時に速射性を損なっており\r\n使用には隙が伴う。扱いの難しい魔術",
+      "eng": "Elementary, yet practical sorcery from long ago.\r\nFires a heavy soul arrow.\r\n\r\nOffers greater power but slower casting time,\r\nentailing a vulnerability that makes\r\nthis sorcery trickier to handle."
+    },
+    "remark": {
+      "chn": "射出灵魂巨箭",
+      "jap": "ソウルの太矢を放つ",
+      "eng": "Fire heavy soul arrow"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1302000.webp"
+  },
+  {
+    "id": "1303000",
+    "name": {
+      "chn": "强力灵魂巨箭",
+      "jap": "強いソウルの太矢",
+      "eng": "Great Heavy Soul Arrow"
+    },
+    "description": {
+      "chn": "“灵魂巨箭”的进阶魔法。\r\n能射出威力更强的灵魂巨箭。\r\n\r\n魔法建立在以理论为主的学术体系上，\r\n因此威力强度取决于施术者的智力。",
+      "jap": "「ソウルの太矢」の上位魔術\r\nより威力のあるソウルの太矢を放つ\r\n\r\n魔術とは論理的な学問体系であり\r\nその威力は術者の理力に依存する",
+      "eng": "Sorcery which improves upon Heavy Soul Arrow.\r\nFires a more powerful heavy soul arrow.\r\n\r\nSorceries are a logical discipline;\r\ntheir strength influenced by the caster's intelligence."
+    },
+    "remark": {
+      "chn": "射出威力更强的灵魂巨箭",
+      "jap": "より威力のあるソウルの太矢を放つ",
+      "eng": "Fire more powerful heavy soul arrow"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1303000.webp"
+  },
+  {
+    "id": "1304000",
+    "name": {
+      "chn": "追踪灵魂块",
+      "jap": "追尾するソウルの塊",
+      "eng": "Homing Soulmass"
+    },
+    "description": {
+      "chn": "古老龙学院失传的\r\n“大帽子”罗根独创魔法之一。\r\n\r\n能释放、射出追踪性强的灵魂块。\r\n\r\n这魔法足以窥见研究者罗根的片断成就，\r\n后续研究认为，其受生命吸引的特质与黑暗相仿。",
+      "jap": "古く竜の学院が失った大魔術師\r\n「ビッグハット」ローガンの独自魔術のひとつ\r\n\r\n追尾性の高いソウルの塊を浮かべ、放つ\r\n\r\n探究者たるローガンの一端が見える魔術だが\r\n生命に惹かれるその性質について\r\n後の研究では、むしろ闇に近いとされている",
+      "eng": "Sorcery developed by Big Hat Logan,\r\nthe great sorcerer who left\r\nthe Dragon School in an age long past.\r\n\r\nReleases a homing soulmass.\r\n\r\nThis sorcery may offer a clue as to what Logan sought,\r\nbut further investigation suggests its attraction to\r\nliving things mirrors the nature of the dark."
+    },
+    "remark": {
+      "chn": "释放、射出追踪性强的灵魂块",
+      "jap": "追尾性の高いソウルの塊を浮かべ、放つ",
+      "eng": "Release homing soulmass"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1304000.webp"
+  },
+  {
+    "id": "1305000",
+    "name": {
+      "chn": "追踪灵魂结晶块",
+      "jap": "追尾するソウルの結晶塊",
+      "eng": "Homing Crystal Soulmass"
+    },
+    "description": {
+      "chn": "通过结晶更显威力的“追踪灵魂结晶块”。\r\n\r\n能释放、射出追踪性强的灵魂结晶块，\r\n并具有贯穿性。\r\n\r\n据结晶老者所说：\r\n过去那位“大帽子”在神明的书库受到启发，\r\n从神秘结晶发现魔法真髓。",
+      "jap": "結晶により鋭さを得た「追尾するソウルの塊」\r\n\r\n追尾性の高いソウルの結晶塊を浮かべ、放つ\r\n結晶の塊は貫通する\r\n\r\n結晶の古老によれば\r\nかの「ビッグハット」は神の書庫で蒙を啓き\r\n神秘の結晶に魔術の真髄を見出したという",
+      "eng": "Sharpens Homing Soulmass via crystallization.\r\n\r\nReleases a homing crystal soulmass.\r\nCrystal soulmass has piercing qualities.\r\n\r\nAccording to the Crystal Sages,\r\nold Big Hat achieved enlightenment\r\nwithin the Regal Archives,\r\nwhere he came to find the quintessence of\r\nsorcery in the facets of a certain crystal."
+    },
+    "remark": {
+      "chn": "释放、射出追踪性强的灵魂结晶块",
+      "jap": "追尾性の高いソウルの結晶塊を浮かべ、放つ",
+      "eng": "Release homing crystal soulmass"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1305000.webp"
+  },
+  {
+    "id": "1306000",
+    "name": {
+      "chn": "灵魂枪",
+      "jap": "ソウルの槍",
+      "eng": "Soul Spear"
+    },
+    "description": {
+      "chn": "古老龙学院失传的\r\n“大帽子”罗根独创魔法之一。\r\n\r\n能射出灵魂枪。\r\n\r\n拥有强大威力，又能贯穿敌人，\r\n这是罗根在战斗方面强大的象征。",
+      "jap": "古く竜の学院が失った大魔術師\r\n「ビッグハット」ローガンの独自魔術のひとつ\r\n\r\nソウルの槍を放つ\r\n\r\n高い威力を誇り、また敵を貫き通すこの槍は\r\n戦いにおけるローガンの強さの象徴でもあった",
+      "eng": "Sorcery developed by Big Hat Logan,\r\nthe great sorcerer who left the Dragon School\r\nin an age long past.\r\n\r\nFires a soul spear.\r\n\r\nThe spear boasts superior penetrating power,\r\nand is testament to Logan's strength in battle,"
+    },
+    "remark": {
+      "chn": "射出灵魂枪",
+      "jap": "ソウルの槍を放つ",
+      "eng": "Fire soul spear"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1306000.webp"
+  },
+  {
+    "id": "1307000",
+    "name": {
+      "chn": "灵魂结晶枪",
+      "jap": "ソウルの結晶槍",
+      "eng": "Crystal Soul Spear"
+    },
+    "description": {
+      "chn": "通过结晶更显威力的“灵魂枪”。\r\n\r\n能射出具贯穿性的灵魂结晶枪。\r\n\r\n据结晶老者所说：\r\n过去那位“大帽子”在神明的书库受到启发，\r\n从神秘结晶发现魔法真髓。",
+      "jap": "結晶により更なる鋭さを得た「ソウルの槍」\r\n\r\n貫通するソウルの結晶槍を放つ\r\n\r\n結晶の古老によれば\r\nかの「ビッグハット」は神の書庫で蒙を啓き\r\n神秘の結晶に魔術の真髄を見出したという",
+      "eng": "Further sharpens Soul Spear via crystallization.\r\n\r\nFires a piercing crystal soul spear.\r\n\r\n\r\nAccording to the Crystal Sages,\r\nold Big Hat achieved enlightenment\r\nwithin the Regal Archives,\r\nwhere he came to find the quintessence of\r\nsorcery in the facets of a certain crystal."
+    },
+    "remark": {
+      "chn": "射出具贯穿性的灵魂结晶枪",
+      "jap": "貫通するソウルの結晶槍を放つ",
+      "eng": "Fire piercing crystal soul spear"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1307000.webp"
+  },
+  {
+    "id": "1308000",
+    "name": {
+      "chn": "幽邃灵魂",
+      "jap": "深みのソウル",
+      "eng": "Deep Soul"
+    },
+    "description": {
+      "chn": "大主教路易斯与主教群使用的魔法。\r\n据说是由冷冽谷的麦克唐纳所传授的。\r\n\r\n能射出黑暗灵魂的沉淀物。\r\n\r\n这是落入深处后沉淀的灵魂。\r\n据说会受到生命吸引，进而追踪对手。",
+      "jap": "大主教ロイスと、彼の主教たちの魔術\r\n冷たい谷のマクダネルが伝えたという\r\n\r\n暗いソウルの澱を放つ\r\n\r\nそれは深みに沈み溜まったソウルであり\r\n生命に惹かれ、対象を追尾するという",
+      "eng": "Sorcery of Archdeacon Royce and his deacons,\r\nsaid to have been imparted to them\r\nby McDonnell of the Boreal Valley.\r\n\r\nFires dark soul dregs.\r\n\r\nSouls which swell from the deep pursue their target,\r\ndrawn towards life."
+    },
+    "remark": {
+      "chn": "射出黑暗灵魂的沉淀物",
+      "jap": "暗いソウルの澱を放つ",
+      "eng": "Fire darkened soul sediment"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1308000.webp"
+  },
+  {
+    "id": "1309000",
+    "name": {
+      "chn": "强力幽邃灵魂",
+      "jap": "強い深みのソウル",
+      "eng": "Great Deep Soul"
+    },
+    "description": {
+      "chn": "“幽邃灵魂”的进阶魔法。\r\n能射出威力更强的黑暗灵魂沉淀物。\r\n\r\n同时身为魔法师的麦克唐纳大主教，\r\n曾因为教堂存在的沉淀灵魂，开心地说：\r\n“太棒了，世界之渊就在此地”。",
+      "jap": "「深みのソウル」の上位魔術\r\nより威力のある、暗いソウルの澱を放つ\r\n\r\n魔術師でもあった大主教マクダネルは\r\n聖堂に澱むソウルに歓喜したという\r\n素晴らしい、ここが世界の底であると",
+      "eng": "Sorcery which improves upon Deep Soul.\r\nFires powerful darkened soul dregs.\r\n\r\nArchdeacon McDonnell, a sorcerer himself,\r\ndelighted in the cathedral's stagnating souls.\r\nFor him, they represented\r\nthe glorious bedrock of this world."
+    },
+    "remark": {
+      "chn": "射出威力更强的黑暗灵魂沉淀物",
+      "jap": "より威力のある、暗いソウルの澱を放つ",
+      "eng": "Fire powerful darkened soul sediment"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1309000.webp"
+  },
+  {
+    "id": "1310000",
+    "name": {
+      "chn": "魔力武器",
+      "jap": "魔力の武器",
+      "eng": "Magic Weapon"
+    },
+    "description": {
+      "chn": "为了用剑的魔法师创造的魔法。\r\n能让右手武器强化魔力属性。\r\n\r\n这个魔法与“魔力盾牌”\r\n是彼海姆成就强大魔法剑士的助力，\r\n为此学习魔法的战士也多不胜数。",
+      "jap": "剣術をおさめた魔術師のための魔術\r\n右手の武器を魔力強化する\r\n\r\nこの魔術と「魔力の盾」が\r\nヴィンハイムの魔術剣士の強さを支えており\r\nこれらのためだけに魔術を学ぶ戦士も数多い",
+      "eng": "Sorcery for casters who wield swords.\r\nReinforces right weapon with magic.\r\n\r\nThe power of the sorcerer-swordsmen of Vinheim\r\nis predicated upon this and Magic Shield.\r\nMany warriors learn sorcery just for this enchantment."
+    },
+    "remark": {
+      "chn": "让右手武器强化魔力属性",
+      "jap": "右手の武器を魔力強化する",
+      "eng": "Reinforce right weapon with magic"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1310000.webp"
+  },
+  {
+    "id": "1311000",
+    "name": {
+      "chn": "强力魔力武器",
+      "jap": "強い魔力の武器",
+      "eng": "Great Magic Weapon"
+    },
+    "description": {
+      "chn": "“魔力武器”的进阶魔法。\r\n能让右手武器大幅强化魔力属性。\r\n\r\n这一魔法仅有肩负使命的魔法剑士能学习，\r\n据说那片蓝色刀刃能轻易斩裂重装骑士。",
+      "jap": "「魔力の武器」の上位魔術\r\n右手の武器を、大きく魔力強化する\r\n\r\n使命を帯びた魔術剣士にのみ与えられ\r\n青い刃は、重装の騎士を易々と切り裂いたという",
+      "eng": "Sorcery which improves upon Magic Weapon.\r\nGreatly reinforces right weapon with magic.\r\n\r\nOnly sorcerer-swordsmen with special duties\r\nare permitted the use of this spell.\r\nThe azure blade is said to cut down\r\nheavily armored knights with ease."
+    },
+    "remark": {
+      "chn": "让右手武器大幅强化魔力属性",
+      "jap": "右手の武器を、大きく魔力強化する",
+      "eng": "Greatly reinforce right weapon with magic"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1311000.webp"
+  },
+  {
+    "id": "1312000",
+    "name": {
+      "chn": "结晶魔力武器",
+      "jap": "結晶魔力の武器",
+      "eng": "Crystal Magic Weapon"
+    },
+    "description": {
+      "chn": "通过结晶更显威力的“魔力武器”。\r\n能以结晶强化右手武器。\r\n\r\n罗根以结晶作为媒介，\r\n让灵魂与武器更高度结合，\r\n结果试验成功，因此成为新知的权威。",
+      "jap": "結晶により鋭さを得た「魔力の武器」\r\n右手の武器を結晶強化する\r\n\r\n結晶を媒介としソウルと武器をより強く結ぶ\r\n試みは成功し、ローガンの新たな導となった",
+      "eng": "Further sharpens Magic Weapon via crystallization.\r\nReinforces right weapon with crystal.\r\n\r\nAfter much experimentation,\r\nLogan found the crystal medium facilitated\r\na stronger bond between weapon and soul."
+    },
+    "remark": {
+      "chn": "以结晶强化右手武器",
+      "jap": "右手の武器を結晶強化する",
+      "eng": "Reinforce right weapon with crystal magic"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1312000.webp"
+  },
+  {
+    "id": "1313000",
+    "name": {
+      "chn": "冰冷武器",
+      "jap": "冷たい武器",
+      "eng": "Frozen Weapon"
+    },
+    "description": {
+      "chn": "年轻魔法师沙力万，\r\n在离开绘画之前留下的其中一个魔法。\r\n能让右手武器带有寒气。\r\n\r\n对生养于绘画中的他而言，\r\n那块冰冷的土地是必须抛弃的故乡。\r\n至此，他不曾经历过失去。",
+      "jap": "若き魔術師サリヴァーンが\r\n絵画を去る前に残した魔術のひとつ\r\n右手の武器に冷気を纏わせる\r\n\r\n絵画で生まれ育った彼にとって\r\nその冷たい地は、捨てるべき故郷であった\r\nまだ何も、失ってさえいなかったのだ",
+      "eng": "One of the spells left behind by the young sorcerer Sulyvahn\r\nbefore leaving the Painted World.\r\nImbues right-hand weapon with frost.\r\n\r\nSulyvahn was born and raised inside the painting,\r\nyet had little use for his frigid homeland,\r\nsince he had not yet experienced loss."
+    },
+    "remark": {
+      "chn": "让右手武器带有寒气",
+      "jap": "右手の武器に冷気を纏わせる",
+      "eng": "Imbues right-hand weapon with frost"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1313000.webp"
+  },
+  {
+    "id": "1330000",
+    "name": {
+      "chn": "魔力盾牌",
+      "jap": "魔力の盾",
+      "eng": "Magic Shield"
+    },
+    "description": {
+      "chn": "为了用剑的魔法师创造的魔法。\r\n能让左手盾牌强化魔力属性。\r\n\r\n以魔力强化的盾牌，能力将大幅提升，\r\n也会提升减伤率、抵挡力。\r\n\r\n就算是小型盾，也能变得十分坚固。",
+      "jap": "剣術をおさめた魔術師のための魔術\r\n左手の盾を魔力強化する\r\n\r\n魔力強化された盾は能力が大きく高まり\r\nカット率、受け能力共に上昇する\r\n\r\n小型の盾でも、十分に堅固になるだろう",
+      "eng": "Sorcery for casters who wield swords.\r\nReinforces left shield with magic.\r\n\r\nShields augmented by magic have\r\nhigher stability and damage absorption.\r\n\r\nEven the smallest of shields can be\r\ntoughened considerably with the use of this spell."
+    },
+    "remark": {
+      "chn": "让左手盾牌强化魔力属性",
+      "jap": "左手の盾を魔力強化する",
+      "eng": "Reinforce left shield with magic"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1330000.webp"
+  },
+  {
+    "id": "1331000",
+    "name": {
+      "chn": "强力魔力盾牌",
+      "jap": "強い魔力の盾",
+      "eng": "Great Magic Shield"
+    },
+    "description": {
+      "chn": "“魔力盾牌”的进阶魔法。\r\n能以魔力大幅强化左手盾牌。\r\n\r\n这一魔法仅有肩负使命的魔法剑士能学习，\r\n据说就算是小型盾，\r\n也能暂时像大型盾一样坚固。",
+      "jap": "「魔力の盾」の上位魔術\r\n左手の盾を、大きく魔力強化する\r\n\r\n使命を帯びた魔術剣士にのみ与えられ\r\n小型の盾でも、一時大盾の堅牢を得るという",
+      "eng": "Sorcery which improves upon Magic Shield.\r\nGreatly reinforces left shield with magic.\r\n\r\nOnly sorcerer-swordsmen with special duties\r\nare permitted the use of this spell,\r\nwhich temporarily grants even the smallest of\r\nshields fortitude more akin to that of a greatshield."
+    },
+    "remark": {
+      "chn": "让左手盾牌大幅强化左手魔力属性",
+      "jap": "左手の盾を、大きく魔力強化する",
+      "eng": "Greatly reinforce left shield with magic"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1331000.webp"
+  },
+  {
+    "id": "1340000",
+    "name": {
+      "chn": "隐形武器",
+      "jap": "見えない武器",
+      "eng": "Hidden Weapon"
+    },
+    "description": {
+      "chn": "古代黄金魔法国度──\r\n乌拉席露的失传魔法。\r\n能透明化右手武器。\r\n\r\n武器本身并没有被强化，\r\n所以这一魔法的效果取决于施术者如何运用。",
+      "jap": "古い黄金の魔術の国\r\nウーラシールの失われた魔術\r\n右手武器を透明にする\r\n\r\n武器そのものは強化されないため\r\nその効果は術者の使い方次第だろう",
+      "eng": "Lost sorcery from Oolacile,\r\nland of ancient golden sorceries.\r\nTurns right weapon invisible.\r\n\r\nThe weapon itself undergoes no inherent changes.\r\nEffective use of this, like any tool, perhaps,\r\nis reliant upon the ingenuity of its caster."
+    },
+    "remark": {
+      "chn": "透明化右手武器",
+      "jap": "右手武器を透明にする",
+      "eng": "Turn right weapon invisible"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1340000.webp"
+  },
+  {
+    "id": "1341000",
+    "name": {
+      "chn": "隐形身躯",
+      "jap": "見えない体",
+      "eng": "Hidden Body"
+    },
+    "description": {
+      "chn": "古代黄金魔法国度──\r\n乌拉席露的失传魔法。\r\n能使全身透明。\r\n\r\n为了防止完全消失，\r\n还是会隐约看见施术者的身影，\r\n但如果静止不动，\r\n则会与周围景物融为一体，\r\n不会被轻易发现。",
+      "jap": "古い黄金の魔術の国\r\nウーラシールの失われた魔術\r\n全身をほぼ透明にする\r\n\r\n消失回避のため薄らと見えているが\r\n立ち止まればすぐに周囲に溶け込み\r\n容易に発見されることはないだろう",
+      "eng": "Lost sorcery from Oolacile,\r\nland of ancient golden sorceries.\r\nTurns body nigh on invisible.\r\n\r\nAlthough perfect invisibility is\r\nunachievable due to the risk of dissipation,\r\nthe caster need only stand still for a moment\r\nto blend in to environs with astounding camouflage."
+    },
+    "remark": {
+      "chn": "使全身透明",
+      "jap": "全身をほぼ透明にする",
+      "eng": "Turn body nearly invisible"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1341000.webp"
+  },
+  {
+    "id": "1350000",
+    "name": {
+      "chn": "光明照耀",
+      "jap": "照らす光",
+      "eng": "Cast Light"
+    },
+    "description": {
+      "chn": "古代黄金魔法国度──\r\n乌拉席露的失传魔法。\r\n能发出照亮四周的光芒。\r\n\r\n发出光芒是性质单纯的魔法，\r\n这正是黄金魔法的精髓所在。\r\n反之，龙学院还是无法达到此境界。",
+      "jap": "古い黄金の魔術の国\r\nウーラシールの失われた魔術\r\n光を生み、周囲を照らす\r\n\r\n光を生み出す、単純な魔術であるが\r\nそれこそが黄金の魔術の精粋であり\r\n竜の学院は、ついにそれを実現できなかった",
+      "eng": "Lost sorcery from Oolacile,\r\nland of ancient golden sorceries.\r\nCasts a light to illuminate surroundings.\r\n\r\nThis light-producing magic is\r\nelementary but nonetheless demonstrates\r\nthe pure nature of golden sorceries;\r\nthe likes of which have not been\r\ndeveloped even at the Dragon School."
+    },
+    "remark": {
+      "chn": "发出照亮四周的光芒",
+      "jap": "光を生み、周囲を照らす",
+      "eng": "Cast light to illuminate surroundings"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1350000.webp"
+  },
+  {
+    "id": "1353000",
+    "name": {
+      "chn": "修理",
+      "jap": "修理",
+      "eng": "Repair"
+    },
+    "description": {
+      "chn": "古代黄金魔法国度──\r\n乌拉席露的失传魔法。\r\n\r\n能修理装备的武器、防具，\r\n也能修理耐久度变成0的武器。\r\n\r\n看起来效果并不起眼，\r\n但却是相当于秘术的魔法。\r\n光就是时间，\r\n应该要禁止流传倒转它的知识。",
+      "jap": "古い黄金の魔術の国\r\nウーラシールの失われた魔術\r\n\r\n装備している武器、防具を修理する\r\n耐久度ゼロの武器も対象となる\r\n\r\n目立たぬ効果とは裏腹に、秘術にあたるひとつ\r\n光は時、回帰は禁断の知恵であろう",
+      "eng": "Lost sorcery from Oolacile,\r\nland of ancient golden sorceries.\r\n\r\nRepairs equipped weapons and armor.\r\nIncludes weapons with exhausted durability.\r\n\r\nWhile the effects of this spell are rather subtle,\r\nits foundations are a well-guarded secret.\r\nLight is time, and the reversal of\r\nits effects is a forbidden art."
+    },
+    "remark": {
+      "chn": "能修理装备的武器、防具，包含坏掉的装备在内",
+      "jap": "壊れたもの含め、装備している武器、防具を修理する",
+      "eng": "Repair equipped weapons and armor"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1353000.webp"
+  },
+  {
+    "id": "1354000",
+    "name": {
+      "chn": "密探",
+      "jap": "隠密",
+      "eng": "Spook"
+    },
+    "description": {
+      "chn": "彼海姆龙学院中\r\n潜藏暗处的魔法师所用的魔法。\r\n\r\n能消除施术者发出的声响，\r\n而掉落时完全不会受到伤害。\r\n\r\n因为学会了这个魔法，\r\n彼海姆的密探身价非凡。",
+      "jap": "ヴィンハイムの竜の学院において\r\n密かにあった裏の魔術師の魔術\r\n\r\n術者の立てる音を消し\r\nまた落下ダメージを完全に無くす\r\n\r\nこの魔術のあるが故に\r\nヴィンハイムの隠密は高値で取引された",
+      "eng": "Sorcery developed by a certain surreptitious sorcerer\r\nat Vinheim Dragon School.\r\n\r\nMasks noises of the caster and prevents fall damage.\r\n\r\nTheir mastery of this sorcery alone allows Vinheim\r\nspooks to demand handsome payment for their services. "
+    },
+    "remark": {
+      "chn": "消除施术者发出的声响、掉落时完全不会受到伤害",
+      "jap": "術者の立てる音を消し、落下ダメージを完全に無くす",
+      "eng": "Mask noises of caster and prevent fall damage"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1354000.webp"
+  },
+  {
+    "id": "1355000",
+    "name": {
+      "chn": "拟态",
+      "jap": "擬態",
+      "eng": "Chameleon"
+    },
+    "description": {
+      "chn": "古代黄金魔法国度──\r\n乌拉席露的失传魔法。\r\n能配合环境变身伪装。\r\n\r\n这并非该国的正式魔法，\r\n据说是某位少女在幽暗森林时，\r\n为了好玩、排解孤独，\r\n而创造出的恶作剧魔法。",
+      "jap": "古い黄金の魔術の国\r\nウーラシールの失われた魔術\r\n場所にふさわしい何かに変身する\r\n\r\nそれはかの国の正式な魔術ではなく\r\nある少女が悪戯に生み出したものだという\r\n宵闇の森で、ただ孤独を癒すために",
+      "eng": "Lost sorcery from Oolacile,\r\nland of ancient golden sorceries.\r\nTransforms into something inconspicuous.\r\n\r\nFar from formally developed,\r\nthis magic was instead born from the mischief\r\nof a young girl who sought relief from\r\nthe solitude of the woods at dusk."
+    },
+    "remark": {
+      "chn": "配合环境变身伪装",
+      "jap": "場所にふさわしい何かに変身する",
+      "eng": "Transform into something inconspicuous"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1355000.webp"
+  },
+  {
+    "id": "1356000",
+    "name": {
+      "chn": "放出声响",
+      "jap": "音送り",
+      "eng": "Aural Decoy"
+    },
+    "description": {
+      "chn": "彼海姆龙学院中\r\n潜藏暗处的魔法师所用的魔法。\r\n\r\n能在远处发出声响，引开敌人的注意。\r\n\r\n那是会沁入身心的声响，\r\n能让听者不自禁地被吸引，\r\n离开应该坚守的位置，露出毫无防备的背部。",
+      "jap": "ヴィンハイムの竜の学院において\r\n密かにあった裏の魔術師の魔術\r\n\r\n離れたところで音をたて、敵の注意をひく\r\n\r\nその音は浸み込むように響き\r\n聞いた者を奇妙に惹きつけるという\r\nそして持ち場を離れ、無防備な背中を晒すのだ",
+      "eng": "Sorcery developed by a certain surreptitious sorcerer\r\nat Vinheim Dragon School.\r\n\r\nDistracts foes with a distant sound.\r\n\r\nThe sound carries with it a strangely infectious resonance\r\nthat may cause one to stray from\r\ntheir post and expose their back."
+    },
+    "remark": {
+      "chn": "在远处发出声响，引开敌人的注意",
+      "jap": "離れたところで音をたて、敵の注意をひく",
+      "eng": "Distract foes with a distant sound"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1356000.webp"
+  },
+  {
+    "id": "1370000",
+    "name": {
+      "chn": "白龙吐息",
+      "jap": "白竜の息",
+      "eng": "White Dragon Breath"
+    },
+    "description": {
+      "chn": "应妖王欧斯罗艾斯的执着而生的魔法。\r\n\r\n能喷出白龙希斯的结晶吐息，\r\n并具有贯穿性。\r\n\r\n过去“大帽子”与白龙得到共鸣，\r\n不惜以裸身进行研究，\r\n最后将神明的技艺化为己有。\r\n而欧斯罗艾斯可能因此得到启发吧。",
+      "jap": "妖王オスロエスの妄執の果ての魔術\r\n\r\n白竜シースの結晶のブレスを放つ\r\n結晶のブレスは貫通する\r\n\r\nかつて「ビッグハット」は白竜に共鳴し\r\n裸の探究の末、その神の業を己のものとしたという\r\nオスロエスはそれを知り、また啓蒙を得たのだろう",
+      "eng": "Sorcery of the deluded Consumed King Oceiros.\r\n\r\nEmits crystal breath of Seath the Scaleless.\r\nCrystal breath has piercing qualities.\r\n\r\nSeath's research seemed to strike\r\na chord with old Big Hat who,\r\nin his mad, disrobed state,\r\nmade divine works such as this, his own.\r\nOceiros was no doubt edified by this."
+    },
+    "remark": {
+      "chn": "喷出白龙希斯的结晶吐息",
+      "jap": "白竜シースの結晶のブレスを放つ",
+      "eng": "Emit crystal breath of Seath the Scaleless"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1370000.webp"
+  },
+  {
+    "id": "1372000",
+    "name": {
+      "chn": "法兰箭雨",
+      "jap": "ファランの矢雨",
+      "eng": "Farron Hail"
+    },
+    "description": {
+      "chn": "“法兰短箭”的进阶魔法之一。\r\n能连续射出灵魂短箭。\r\n\r\n这是结晶老者亲自钻研，\r\n托付给#1辅祭长#3#2侍祭长#3后，以其女儿──\r\n海泽儿的名字署名的魔法。",
+      "jap": "「ファランの短矢」の上位魔術のひとつ\r\nソウルの短矢を連続で放つ\r\n\r\nそれは結晶の古老が直々に鍛え\r\n侍祭の長に託したものであるという\r\nその娘、ヘイゼルの魔術として",
+      "eng": "Sorcery which improves upon Farron Dart.\r\nFires a cascade of soul darts.\r\n\r\nEntrusted to the leader of the Legion's acolytes,\r\nand apparently a sorcery of his daughter, Heysel,\r\nthat was refined by a Crystal Sage."
+    },
+    "remark": {
+      "chn": "连续射出灵魂短箭",
+      "jap": "ソウルの短矢を連続で放つ",
+      "eng": "Fire cascade of soul darts"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1372000.webp"
+  },
+  {
+    "id": "1373000",
+    "name": {
+      "chn": "结晶降雹",
+      "jap": "降り注ぐ結晶",
+      "eng": "Crystal Hail"
+    },
+    "description": {
+      "chn": "以结晶老者身份闻名的孪生老师，\r\n其独有的魔法。\r\n\r\n能从空中连续射出小型灵魂块。\r\n并具有贯穿性。\r\n\r\n其中一位老者是不死队的同盟，\r\n会帮助法兰教育魔法师。\r\n据说这是古来就约定好的事。",
+      "jap": "結晶の古老として知られる双子の導師\r\nその独特の魔術\r\n\r\n小さなソウルの結晶塊を空中から連続で放つ\r\n結晶の塊は貫通する\r\n\r\n古老の片割れは不死隊の同盟者であり\r\nファランに魔術師を育てた\r\nそれは古い約束であったという",
+      "eng": "Unique sorcery developed by extraordinary\r\npreacher twins known as the Crystal Sages.\r\n\r\nCasts a cascade of small crystal soulmasses from above. Crystal soulmasses have piercing qualities.\r\n\r\nIn a pact said to have been formed long ago,\r\none of the Sages allied with the Undead Legion\r\nin order to train the sorcerers of Farron."
+    },
+    "remark": {
+      "chn": "从空中连续射出小型灵魂结晶块",
+      "jap": "小さなソウルの結晶塊を空中から連続で放つ",
+      "eng": "Cast cascade of small crystal soulmasses from sky"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1373000.webp"
+  },
+  {
+    "id": "1374000",
+    "name": {
+      "chn": "灵魂大剑",
+      "jap": "ソウルの大剣",
+      "eng": "Soul Greatsword"
+    },
+    "description": {
+      "chn": "主要为了魔法剑士而开发的魔法。\r\n能以灵魂做出大剑形状，进行攻击。\r\n\r\n大剑的外型仅能维持一瞬间，也不能射出去，\r\n但它的威力足以胜过骑士持有的大剑。\r\n只学魔法的魔法师，有时会把它当成王牌。",
+      "jap": "おもに魔術剣士のため開発された魔術\r\nソウルにより大剣を形作り、攻撃する\r\n\r\n大剣の姿は一瞬であり、放たれることもないが\r\nその威力は騎士の大剣にも勝るといい\r\n純粋な魔術師も、ときにこれを切り札とする",
+      "eng": "Sorcery developed primarily for sorcerer-swordsmen.\r\nAttacks with a greatsword formed from souls.\r\n\r\nThe ephemeral blade only exists as\r\nan extension of the caster,\r\nbut its power is said to rival\r\nthat of physical greatswords.\r\nEven the most obstinate magic purists may\r\nresort to this spell in times of crisis."
+    },
+    "remark": {
+      "chn": "以灵魂做出大剑形状，进行攻击",
+      "jap": "ソウルにより大剣を形作り、攻撃する",
+      "eng": "Attack with a greatsword formed from souls"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1374000.webp"
+  },
+  {
+    "id": "1375000",
+    "name": {
+      "chn": "法兰快剑",
+      "jap": "ファランの速剣",
+      "eng": "Farron Flashsword"
+    },
+    "description": {
+      "chn": "法兰不死队的魔法师们\r\n独自调整后施放的“灵魂大剑”。\r\n\r\n能以灵魂做出剑的形状，进行攻击。\r\n\r\n这是以重视速度而非威力调整过的魔法。\r\n着重实战性是不死队魔法的共通特点。",
+      "jap": "ファランの不死隊、その魔術師たちが\r\n独自の調整をほどこした「ソウルの大剣」\r\n\r\nソウルにより剣を形作り、攻撃する\r\n\r\n威力よりも速度を重視した実戦的な調整は\r\n不死隊の魔術に共通する傾向である",
+      "eng": "Alteration of Soul Greatsword developed by sorcerers\r\nof the Undead Legion of Farron.\r\n\r\nThe Legion has a tendency\r\nto emphasize speed over power,\r\nand this practical alteration of\r\nan existing sorcery is no exception."
+    },
+    "remark": {
+      "chn": "以灵魂做出剑的形状，进行攻击",
+      "jap": "ソウルにより剣を形作り、攻撃する",
+      "eng": "Attack with a sword formed from souls"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1375000.webp"
+  },
+  {
+    "id": "1376000",
+    "name": {
+      "chn": "古老月光",
+      "jap": "古き月光",
+      "eng": "Old Moonlight"
+    },
+    "description": {
+      "chn": "根据米狄尔的记忆深处，关于古老之剑的记忆，\r\n再以灵魂做出剑的形状，进行攻击的魔法。\r\n\r\n攻击时将带有光波。\r\n持续摆出攻击前的架势，能增加威力与速度。\r\n\r\n古老之剑也能以月光之名称呼，\r\n其样貌上与白龙希斯的月光有些差异。\r\n那可能是更加初始的记忆。",
+      "jap": "ミディールの深層にあった古い剣の記憶\r\nそれをソウルにより形作り、攻撃する魔術\r\n\r\n攻撃は光波を伴い\r\n攻撃前の構えを継続することで\r\nその威力、速度が増す\r\n\r\n古い剣の名は、これもまた月光であるが\r\n白竜シースのそれとは、少し姿が異なる\r\nその記憶は、よりはじまりに近いようだ",
+      "eng": "A memory of an old sword found deep within Midir.\r\nThis sorcery uses souls to grant form\r\nto the thought, and attack with it.\r\n\r\nAttacks are coupled with lightwaves,\r\nand sustaining the stance before attacking\r\nincreases their speed and potency.\r\n\r\nThe sword is named after moonlight,\r\nbut it is slightly different than the one\r\nfashioned of the paledrake Seath.\r\nPerhaps it is rooted in an older memory,\r\nfrom not long after the Beginning."
+    },
+    "remark": {
+      "chn": "做出古老月光剑的形状，进行攻击",
+      "jap": "古き月光の剣を形作り、攻撃する",
+      "eng": "Conceive old moonlight sword and attack"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1376000.webp"
+  },
+  {
+    "id": "1603000",
+    "name": {
+      "chn": "追踪者",
+      "jap": "追う者たち",
+      "eng": "Affinity"
+    },
+    "description": {
+      "chn": "被视作禁忌的暗魔法。\r\n能射出赋予意志的人性黑暗。\r\n\r\n那份意志是来自于对他人的钦羡，\r\n也可以说是爱情，因此会紧追着人们不放。\r\n就算最终迎来的只有悲剧，也不放弃。",
+      "jap": "禁忌とされる闇の魔術\r\n人間性の闇に仮そめの意志を与え放つもの\r\n\r\nその意志は人への羨望、あるいは愛であり\r\n人々は目標を執拗に追い続ける\r\nその最期が小さな悲劇でしかありえないとしても",
+      "eng": "A forbidden dark sorcery.\r\nCasts a dark manifestation of humanity.\r\n\r\nIt appears to be an expression of envy,\r\nor perhaps love towards another,\r\nthat will tenaciously pursue its target.\r\nEven if, like so many human desires,\r\nit amounts to nothing but misfortune."
+    },
+    "remark": {
+      "chn": "射出赋予意志的人性黑暗",
+      "jap": "人間性の闇に仮そめの意志を与え放つ",
+      "eng": "Cast dark manifestation of humanity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1603000.webp"
+  },
+  {
+    "id": "1604000",
+    "name": {
+      "chn": "大块灵魂沉淀物",
+      "jap": "ソウルの大澱",
+      "eng": "Great Soul Dregs"
+    },
+    "description": {
+      "chn": "能射出沉积于幽邃许久的\r\n黑暗灵魂大块沉淀物的魔法。\r\n\r\n“幽邃灵魂”的最高阶魔法。\r\n\r\n据说从幽邃伏爬而出的濡湿人形，\r\n有时候会附身在大块沉淀物之上，\r\n那模样与人类十分相似。",
+      "jap": "永い間、深みに沈み溜まった\r\n暗いソウルの大澱を放つ魔術\r\n\r\n「深みのソウル」の最上位魔術\r\n\r\n深みから這い出る湿り人たちには\r\n時に大澱が憑依しているという\r\nそれはとても、人に似ている",
+      "eng": "A sorcery that fires great dark soul dregs\r\nthat have stewed for ages, far within the deep.\r\n\r\nThis sorcery is the highest form of Deep Soul.\r\n\r\nSome of the murkmen who rise from the depths\r\nare possessed by soul dregs,\r\nwhich have a grave likeness to the human form."
+    },
+    "remark": {
+      "chn": "射出黑暗灵魂的大块沉淀物",
+      "jap": "暗いソウルの大澱を放つ",
+      "eng": "Fires great dark soul dregs"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1604000.webp"
+  },
+  {
+    "id": "1613000",
+    "name": {
+      "chn": "黑暗刀刃",
+      "jap": "闇の刃",
+      "eng": "Dark Edge"
+    },
+    "description": {
+      "chn": "被视作禁忌的暗魔法。\r\n能将人性黑暗转变成刀刃，进行强力攻击。\r\n\r\n那是母亲为了让女儿自保而交付的刀刃，\r\n也有自我了结的用途。\r\n而女儿仅仅使用过一次。",
+      "jap": "禁忌とされる闇の魔術\r\n人間性の闇を刃に変じ叩きつけるもの\r\n\r\nそれは母が、娘に渡した自衛の刃であり\r\nまた自刃の術であったという\r\n彼女はそれを、ただ一度しか振るわなかった",
+      "eng": "A forbidden dark sorcery.\r\nStrikes with blade formed of humanity's darkness.\r\n\r\nPassed from mother to daughter,\r\nthis blade was intended for both protection\r\nand as a means of taking one's own life.\r\nThe young girl never swung it more than once."
+    },
+    "remark": {
+      "chn": "将人性黑暗转变成刀刃，进行强力攻击",
+      "jap": "人間性の闇を刃に変じ叩きつける",
+      "eng": "Strike with blade formed of humanity's darkness"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1613000.webp"
+  },
+  {
+    "id": "1620000",
+    "name": {
+      "chn": "灵魂激流",
+      "jap": "ソウルの奔流",
+      "eng": "Soul Stream"
+    },
+    "description": {
+      "chn": "洛斯里克与大书库创始时，\r\n初始贤者传授的魔法。\r\n\r\n能射出大量的灵魂激流。\r\n\r\n初始贤者不只是对传火存疑者，\r\n而且据传，私底下也是王子的教师。",
+      "jap": "ロスリックと大書庫のはじまりにおいて\r\n最初の賢者が伝えたとされる魔術\r\n\r\n凄まじいソウルの奔流を放つ\r\n\r\n最初の賢者は火継ぎの懐疑者であり\r\nまた密かに、王子の師でもあったという",
+      "eng": "Sorcery imparted by the first of the Scholars,\r\nwhen Lothric and the Grand Archives were but young.\r\n\r\nFires a torrential volley of souls.\r\n\r\nThe first of the Scholars doubted the linking of the fire,\r\nand was alleged to be a private mentor to the Royal Prince."
+    },
+    "remark": {
+      "chn": "射出大量的灵魂激流",
+      "jap": "凄まじいソウルの奔流を放つ",
+      "eng": "Fire torrential volley of souls"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1620000.webp"
+  },
+  {
+    "id": "1651000",
+    "name": {
+      "chn": "扭曲光壁",
+      "jap": "歪んだ光壁",
+      "eng": "Twisted Wall of Light"
+    },
+    "description": {
+      "chn": "古代黄金魔法国度──\r\n乌拉席露的失传魔法。\r\n能扭曲光线，弹开法术。\r\n\r\n是操控光的魔法中，相当于秘术的魔法。\r\n在基本法则被扭曲的瞬间，\r\n一切幻影将失去方向。",
+      "jap": "古い黄金の魔術の国\r\nウーラシールの失われた魔術\r\n光を歪ませ、魔法を弾く\r\n\r\n光を扱う魔術の中でも、秘術にあたるひとつ\r\n基本法則が一瞬に捻じ曲がるとき\r\nすべての幻はその行き場を失うのだという",
+      "eng": "Lost sorcery from Oolacile,\r\nland of ancient golden sorceries.\r\nDistorts light in order to deflect magic.\r\n\r\nA closely-guarded light manipulation spell\r\nthat contorts the very fabric of fundamental laws,\r\nnegating magic by denying its claim to physicality."
+    },
+    "remark": {
+      "chn": "扭曲光线，弹开法术",
+      "jap": "光を歪ませ、魔法を弾く",
+      "eng": "Distort light in order to deflect magic"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1651000.webp"
+  },
+  {
+    "id": "1740000",
+    "name": {
+      "chn": "致命白雾",
+      "jap": "致死の白霧",
+      "eng": "Pestilent Mist"
+    },
+    "description": {
+      "chn": "龙的密探所用的魔法中最危险的一个。\r\n连其存在都只能透露给值得信赖的人。\r\n\r\n能散发出持续侵蚀血量的白雾，\r\n不过施术者本身也会受到影响。\r\n\r\n尸骸身处一片寂静的白色雾中，\r\n但脸上却带着因惨叫扭曲的表情。\r\n那惨绝的景象，让他们被冠上恐怖之名。",
+      "jap": "竜の隠密の魔術でもっとも危険なもの\r\n信頼できる者にしか明かされない魔術\r\n\r\nＨＰを蝕み続ける白霧を発生させるが\r\nそれは術者自身にも影響を及ぼす\r\n\r\nその死体は静かな白い霧の中にあり\r\nだが表情は叫びに捻じ曲がっているという\r\n凄絶な光景は、彼らの名を恐怖とした",
+      "eng": "Highly dangerous sorcery employed by\r\nDragon School spooks.\r\nOnly taught to trusted members.\r\n\r\nReleases dense mist that eats away at HP.\r\nBeware, as the caster is not immune to its effect.\r\n\r\nA body caught in the silent mist cloud lies still,\r\nwhile the face twists in a tortured scream.\r\nThe names of these learned sorcerers became feared\r\nfor this gruesome spectacle."
+    },
+    "remark": {
+      "chn": "散发出能持续侵蚀血量的白雾",
+      "jap": "ＨＰを蝕み続ける白霧を発生させる",
+      "eng": "Release a cloud of mist that eats away at HP"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1740000.webp"
+  },
+  {
+    "id": "1741000",
+    "name": {
+      "chn": "瞬间冻结",
+      "jap": "瞬間凍結",
+      "eng": "Snap Freeze"
+    },
+    "description": {
+      "chn": "年轻魔法师沙力万，\r\n在离开绘画之前留下的其中一个魔法。\r\n能散发极度低温的雾。\r\n\r\n对生养于绘画中的他而言，\r\n那块冰冷的土地是必须抛弃的故乡。\r\n至此，他不曾经历过失去。",
+      "jap": "若き魔術師サリヴァーンが\r\n絵画を去る前に残した魔術のひとつ\r\n極低温の霧を発生させる\r\n\r\n絵画で生まれ育った彼にとって\r\nその冷たい地は、捨てるべき故郷であった\r\nまだ何も、失ってさえいなかったのだ",
+      "eng": "One of the spells left behind by the young sorcerer Sulyvahn\r\nbefore leaving the Painted World.\r\nCreates a cloud of near-freezing mist.\r\n\r\nSulyvahn was born and raised inside the painting,\r\nyet had little use for his frigid homeland,\r\nsince he had not yet experienced loss."
+    },
+    "remark": {
+      "chn": "散发极度低温的雾",
+      "jap": "極低温の霧を発生させる",
+      "eng": "Creates cloud of near-freezing mist"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/1741000.webp"
+  },
+  {
+    "id": "2400000",
+    "name": {
+      "chn": "火球",
+      "jap": "火球",
+      "eng": "Fireball"
+    },
+    "description": {
+      "chn": "大多数咒术师学习的第一个咒术。\r\n能投掷火球。\r\n\r\n如果要使用咒术，必须装备咒术之火，\r\n并在营火处预先记忆咒术。",
+      "jap": "多くの呪術師にとっての最初の呪術\r\n火球を投げつける\r\n\r\n呪術を使用するためには、呪術の火を装備し\r\n篝火で呪術を記憶しておく必要がある",
+      "eng": "Elementary pyromancy that is often the first learned.\r\nHurls a fireball.\r\n\r\nTo use pyromancies, equip a pyromancy flame\r\nand attune a pyromancy at a bonfire."
+    },
+    "remark": {
+      "chn": "投掷火球",
+      "jap": "火球を投げつける",
+      "eng": "Hurl fireball"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2400000.webp"
+  },
+  {
+    "id": "2402000",
+    "name": {
+      "chn": "火球弹",
+      "jap": "火の玉",
+      "eng": "Fire Orb"
+    },
+    "description": {
+      "chn": "咒术师特有的火之技艺。\r\n能投掷火球弹。\r\n\r\n燃烧猛烈的火球弹一经接触即爆炸，\r\n能给予周围火属性伤害。\r\n\r\n咒术师认识火球弹后，\r\n才会开始理解：\r\n咒术就是对火焰的崇拜。",
+      "jap": "呪術師の象徴となる炎の業\r\n火の玉を投げつける\r\n\r\n燃え盛る火の玉は着弾により爆発し\r\nその周辺にも炎ダメージを与える\r\n\r\n呪術師は、火の玉を知りはじめて理解するという\r\nすなわち、呪術とは炎への憧憬であると",
+      "eng": "The signature flame-manipulating spell\r\ncommon to pyromancers.\r\nHurls a giant fire orb.\r\n\r\nThe blazing fire orb explodes on impact,\r\ndealing fire damage to the surrounding area.\r\n\r\nThey say that once a pyromancer learns this spell,\r\ntheir understanding of the flame deepens,\r\ntogether with a yearning for it."
+    },
+    "remark": {
+      "chn": "投掷火球弹",
+      "jap": "火の玉を投げつける",
+      "eng": "Hurl giant fire orb"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2402000.webp"
+  },
+  {
+    "id": "2403000",
+    "name": {
+      "chn": "火焰风暴",
+      "jap": "炎の嵐",
+      "eng": "Firestorm"
+    },
+    "description": {
+      "chn": "伊札里斯的魔女之一\r\n克拉娜传授的初始咒术中的一种。\r\n\r\n能在周围燃起数道火焰柱。\r\n\r\n风暴肆虐不分敌我。\r\n这也能传达出该对火焰有所敬畏。",
+      "jap": "イザリスの魔女の一人\r\nクラーナの伝えた原初の呪術のひとつ\r\n\r\n周囲に幾つもの炎の柱を吹き上げる\r\n\r\n荒れ狂う嵐は対象を選ばず\r\nそれは炎の畏れを伝えるものであるという",
+      "eng": "Primal pyromancy taught by Quelana,\r\na daughter of the Witch of Izalith.\r\n\r\nSurrounds the caster with multiple pillars of flame.\r\n\r\nThe raging storm is indiscriminate;\r\nsuch is the intrinsic horror of the flame."
+    },
+    "remark": {
+      "chn": "在周围燃起数道火焰柱",
+      "jap": "周囲に幾つもの炎の柱を吹き上げる",
+      "eng": "Erect multiple fire pillars in vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2403000.webp"
+  },
+  {
+    "id": "2405000",
+    "name": {
+      "chn": "喷射火焰",
+      "jap": "火炎噴流",
+      "eng": "Fire Surge"
+    },
+    "description": {
+      "chn": "大沼柯弭库斯的咒术。\r\n能连续喷射出火焰。\r\n\r\n柯弭库斯是位老咒术师，\r\n据说他重现了好几个来历不明的咒术，\r\n而这个知名的咒术就是其中之一。",
+      "jap": "大沼のコルニクスの呪術\r\n火炎を連続させ噴き流す\r\n\r\nコルニクスは古い呪術師であり\r\n幾つかの故知らぬ呪術を復古したという\r\n中でもこれは、その代表として知られている",
+      "eng": "Pyromancy of Cornyx of the Great Swamp.\r\nEmits a constant stream of fire.\r\n\r\nCornyx is a venerable pyromancer of an older mold,\r\nsaid to have restored a number\r\nof spells lost to the past,\r\namongst which this is the most well-known."
+    },
+    "remark": {
+      "chn": "连续喷射出火焰",
+      "jap": "火炎を連続させ噴き流す",
+      "eng": "Emit a constant stream of fire"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2405000.webp"
+  },
+  {
+    "id": "2407000",
+    "name": {
+      "chn": "黑蛇",
+      "jap": "黒蛇",
+      "eng": "Black Serpent"
+    },
+    "description": {
+      "chn": "霸王沃尼尔在深渊发现的咒术，\r\n随后成为守墓人使用的黑咒术渊源。\r\n\r\n能放出形如蛇爬动地面的黑色火焰。\r\n\r\n不论是魔法或是咒术，\r\n与人性相关的法术，皆是殊途同归。\r\n换句话说，因为寻求意志是它们的共同目标。",
+      "jap": "覇王ウォルニールが深淵に見出した呪術\r\n墓守たちの黒い呪術のはじまりとなったもの\r\n\r\n地を走りうねるように、黒い炎を走らせる\r\n\r\n魔術であれ呪術であれ\r\n人間性に触れる術は同じところに辿り着く\r\nすなわち、そこに意志を求めるのだ",
+      "eng": "Pyromancy discovered from the Abyss by High Lord Wolnir\r\nthat inspired the black arts of the grave wardens.\r\n\r\nReleases undulating black flames that trace the ground.\r\n\r\nBe it sorcery or pyromancy,\r\nall techniques that infringe on\r\nhumanity lead to the same place.\r\nThat is to say, they all seek a will of their own."
+    },
+    "remark": {
+      "chn": "放出形如蛇爬动地面的黑色火焰",
+      "jap": "地を走りうねるように、黒い炎を走らせる",
+      "eng": "Release undulating black flame that runs along the ground"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2407000.webp"
+  },
+  {
+    "id": "2411000",
+    "name": {
+      "chn": "引燃烈火",
+      "jap": "大発火",
+      "eng": "Great Combustion"
+    },
+    "description": {
+      "chn": "咒术之火的战技“引燃火焰”强化后的咒术。\r\n能从手中燃起强烈巨大火焰。\r\n\r\n是单纯的咒术，但也因此而威力强大。\r\n\r\n所谓咒术，需建立在崇拜与敬畏的认知上。\r\n其威力取决于施术者的智力与信仰。",
+      "jap": "呪術の火の戦技「発火」を強化した呪術\r\n手元に強く大きい炎を発生させる\r\n\r\n単純な呪術であり、それ故に威力も大きい\r\n\r\n呪術とは憧憬と畏れを共に知ることであり\r\nその威力は術者の理力と信仰、双方に依存する",
+      "eng": "Pyromancy which improves upon Combustion.\r\nCreates a powerful, giant flame in hand.\r\n\r\nA very powerful, yet simple spell to use.\r\n\r\nPyromancy is to at once know fear and longing,\r\nthe resultant power of which depends on\r\nboth the caster's intelligence and faith."
+    },
+    "remark": {
+      "chn": "从手中燃起强烈巨大火焰",
+      "jap": "手元に強く大きい炎を発生させる",
+      "eng": "Create powerful, giant flame in hand"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2411000.webp"
+  },
+  {
+    "id": "2420000",
+    "name": {
+      "chn": "毒雾",
+      "jap": "毒の霧",
+      "eng": "Poison Mist"
+    },
+    "description": {
+      "chn": "过去连在大沼都被认为是异端的\r\n咒术师恩吉特有的技艺。\r\n能散发毒雾。\r\n\r\n据说恩吉被逐出大沼，\r\n但是他的咒术依旧被传承下来。\r\n\r\n钻研咒术的人可能回想起来：\r\n原来身在大沼的他们全都是异端。",
+      "jap": "かつて大沼ですら異端とされた\r\n呪術師エンジーの独特の業\r\n毒の霧を発生させる\r\n\r\nエンジーは大沼を追われたというが\r\nその呪術は今も継承されている\r\n\r\n大沼は思い出したのだろう\r\n彼ら全てが、元より異端であったのだと",
+      "eng": "Unique pyromancy crafted by Eingyi,\r\na heretic inhabiting the Great Swamp long ago.\r\nCreates a poison mist.\r\n\r\nEingyi was driven from the Great Swamp,\r\nhowever his pyromancy continues to succeed him.\r\n\r\nPerhaps dwellers of the Great Swamp\r\nwere reminded that their very existence\r\nis one rooted in heresy."
+    },
+    "remark": {
+      "chn": "散发毒雾",
+      "jap": "毒の霧を発生させる",
+      "eng": "Create poison mist"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2420000.webp"
+  },
+  {
+    "id": "2421000",
+    "name": {
+      "chn": "猛毒雾",
+      "jap": "猛毒の霧",
+      "eng": "Toxic Mist"
+    },
+    "description": {
+      "chn": "咒术师恩吉特有的\r\n没有被大沼传承下来的技艺。\r\n能散发剧毒雾。\r\n\r\n被逐出大沼的恩吉，\r\n据说在终结之地遇上剧毒，并且遇见少女。",
+      "jap": "大沼には継承されていない\r\n呪術師エンジーの独特の業\r\n猛毒の霧を発生させる\r\n\r\n大沼を追われたエンジーは\r\n最後の地で猛毒と少女に出会ったという",
+      "eng": "Unique pyromancy of Eingyi that\r\nnever gained currency in the Great Swamp.\r\n\r\nCreates an intense poison mist.\r\n\r\nDriven from the Great Swamp,\r\nthey say that at the end of his journey,\r\nEingyi happened upon a virulent poison and a young lady."
+    },
+    "remark": {
+      "chn": "散发剧毒雾",
+      "jap": "猛毒の霧を発生させる",
+      "eng": "Create intense poison mist"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2421000.webp"
+  },
+  {
+    "id": "2422000",
+    "name": {
+      "chn": "喷射酸液",
+      "jap": "酸の噴射",
+      "eng": "Acid Surge"
+    },
+    "description": {
+      "chn": "砂砾国卡萨斯的咒术。\r\n能喷射酸液损坏装备。\r\n\r\n卡萨斯的剑士们非常好胜，\r\n就算要借助咒术的力量也毫不犹豫。\r\n只是看见那惨死的尸骸，\r\n他们的所作所为到底有何荣誉可言？",
+      "jap": "砂の国、カーサスの呪術\r\n装備品を傷める酸を噴射する\r\n\r\nカーサスの剣士たちは勝利を重んじ\r\nこうした呪術の助けも厭わなかった\r\n死して晒す屍に、一体何の名誉があろうか",
+      "eng": "Pyromancy of Carthus of the Sands.\r\nEmits an acid which corrodes weapons and armor.\r\n\r\nCarthus' swordsmen attached great value to victory,\r\nand would not shun the use of such pyromancies.\r\nFor where is the honor in death and scoured bones?"
+    },
+    "remark": {
+      "chn": "喷射酸液损坏装备",
+      "jap": "装備品を傷める酸を噴射する",
+      "eng": "Emit acid which corrodes weapons and armor"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2422000.webp"
+  },
+  {
+    "id": "2430000",
+    "name": {
+      "chn": "铁身躯",
+      "jap": "鉄の体",
+      "eng": "Iron Flesh"
+    },
+    "description": {
+      "chn": "将火焰纳入体内的咒术之一。\r\n\r\n将全身化为铁，能提升减伤率与抵抗力，\r\n但会大幅增加重量，使动作变得迟缓。\r\n\r\n可能是由于使用后在沼泽地难以行走，\r\n在大沼已经是被废除的咒术。",
+      "jap": "炎を内にする呪術のひとつ\r\n\r\n全身を鉄と化し、カット率と耐性を高めるが\r\n重量も大きく増し動きが鈍くなってしまう\r\n\r\n沼歩きと相性が悪いからだろう\r\n大沼では廃れた呪術",
+      "eng": "Pyromancy that internalizes flame.\r\n\r\nIron flesh boosts damage absorption and resistance,\r\nbut significantly increases weight.\r\n\r\nNot advisable for walking in marshlands,\r\nperhaps resulting in its obsolescence in the Great Swamp."
+    },
+    "remark": {
+      "chn": "能提升减伤率与抵抗力，但会大幅增加重量",
+      "jap": "カット率と耐性を高めるが、重量も大きく増す",
+      "eng": "Boost absorption/resistances, but increase weight"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2430000.webp"
+  },
+  {
+    "id": "2431000",
+    "name": {
+      "chn": "剧烈出汗",
+      "jap": "激しい発汗",
+      "eng": "Flash Sweat"
+    },
+    "description": {
+      "chn": "以卡尔米纳之名传承，大沼特有的咒术。\r\n\r\n能借由剧烈流汗，大幅提升火属性减伤率。\r\n\r\n这是将火焰纳入体内的关键咒术，\r\n更是许多咒术的根基。",
+      "jap": "カルミナの名で伝わる大沼独特の呪術\r\n\r\n激しい発汗により、炎カット率を大きく高める\r\n\r\nそれは炎を内にする呪術の端緒であり\r\n後に多くの呪術の基礎になったという",
+      "eng": "Unique pyromancy of the Great Swamp associated\r\nwith Carmina.\r\n\r\nIntense sweating increases fire damage absorption.\r\n\r\nAn influential pyromancy that internalizes flame,\r\nlikely forming the foundation for many subsequent spells."
+    },
+    "remark": {
+      "chn": "借由剧烈流汗，大幅提升火属性减伤率",
+      "jap": "激しい発汗により、炎カット率を大きく高める",
+      "eng": "Intense sweating increases fire damage absorption"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2431000.webp"
+  },
+  {
+    "id": "2435000",
+    "name": {
+      "chn": "卡萨斯的弯火",
+      "jap": "カーサスの弧炎",
+      "eng": "Carthus Flame Arc"
+    },
+    "description": {
+      "chn": "砂砾国的卡萨斯咒术。\r\n能让右手武器强化火属性。\r\n\r\n剑士们的曲刀染上一层色彩，\r\n是具有卡萨斯风格的辅助用咒术。",
+      "jap": "砂の国、カーサスの呪術\r\n右手の武器を炎強化する\r\n\r\n剣士たちの曲刀を彩った\r\nカーサスらしい補助呪術",
+      "eng": "Pyromancy of Carthus of the Sands.\r\nReinforces right weapon with flame.\r\n\r\nWarriors of Carthus favored\r\nsupplemental pyromancies such as this,\r\nwhich was used to enhance\r\nthe curved blades of its swordsmen."
+    },
+    "remark": {
+      "chn": "让右手武器强化火属性",
+      "jap": "右手の武器を炎強化する",
+      "eng": "Reinforce right weapon with flame"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2435000.webp"
+  },
+  {
+    "id": "2436000",
+    "name": {
+      "chn": "魅惑",
+      "jap": "魅了",
+      "eng": "Rapport"
+    },
+    "description": {
+      "chn": "伊札里斯的魔女之一\r\n克拉娜的特殊咒术。\r\n\r\n能魅惑敌人成为暂时的同伴。\r\n\r\n火焰能够吸引生命，\r\n而这项技艺也呈现了咒术的另一面。\r\n无关性别，皆可使用。",
+      "jap": "イザリスの魔女の一人\r\nクラーナの特別な呪術\r\n\r\n敵を魅了し、一時的に味方とする\r\n\r\n生命とは炎に惹かれるものであり\r\nこうした業もまた呪術の一側面であろう\r\n性別に関係なく使用できる",
+      "eng": "Advanced pyromancy of Quelana,\r\na daughter of the Witch of Izalith.\r\n\r\nCharms the enemy, making them a temporary ally.\r\n\r\nThe living are lured by flame,\r\nand this tendency is elemental\r\nto the art of pyromancy."
+    },
+    "remark": {
+      "chn": "魅惑敌人成为暂时的同伴",
+      "jap": "敵を魅了し、一時的に味方とする",
+      "eng": "Charm the enemy, making them a temporary ally"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2436000.webp"
+  },
+  {
+    "id": "2440000",
+    "name": {
+      "chn": "内在潜力",
+      "jap": "内なる大力",
+      "eng": "Power Within"
+    },
+    "description": {
+      "chn": "将火焰纳入体内的多种咒术中，\r\n最为禁忌的一种。\r\n\r\n能暂时提升攻击力，\r\n但血量将持续减少。\r\n\r\n咒术师应该敬畏火焰，\r\n但如果以换得力量为代价承受敬畏，\r\n敬畏就会失去应有的意义。",
+      "jap": "炎を内にする呪術の中で\r\n特に禁術とされるもの\r\n\r\n一時的に攻撃力を高めるが\r\nＨＰが減り続けてしまう\r\n\r\n呪術師は火を畏れる\r\nけれど、力の代償に畏れを受け容れたとき\r\nそれは畏れではなくなるのだ",
+      "eng": "Forbidden pyromancy amongst those who internalize flame.\r\n\r\nTemporarily boosts attack, but gradually lose HP.\r\n\r\nA pyromancer fears the flame.\r\nHowever, this fear subsides once it is\r\naccepted as a substitute for strength."
+    },
+    "remark": {
+      "chn": "暂时提升攻击力，但血量将持续减少",
+      "jap": "一時的に攻撃力を高めるが、ＨＰが減り続ける",
+      "eng": "Temporarily boost attack, but gradually lose HP"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2440000.webp"
+  },
+  {
+    "id": "2450000",
+    "name": {
+      "chn": "混沌火球弹",
+      "jap": "混沌の火の玉",
+      "eng": "Great Chaos Fire Orb"
+    },
+    "description": {
+      "chn": "咒术故乡伊札里斯的混沌火焰技艺。\r\n能投掷混沌火球弹。\r\n\r\n混沌火焰能熔化岩石，\r\n受到攻击的地方将会暂时产生岩浆。\r\n\r\n据说伊札里斯的魔女们造出混沌火焰，\r\n而火焰完全吞没了她们的故乡。",
+      "jap": "呪術の故郷イザリスの、混沌の炎の業\r\n混沌の火の玉を投げつける\r\n\r\n混沌の炎は岩を溶かし\r\n着弾跡には一時的溶岩溜りが生まれる\r\n\r\nイザリスの魔女たちは、混沌の炎を生み\r\n故郷もろともそれに飲み込まれたという",
+      "eng": "Art of the Flame of Chaos, from Ancient Izalith.\r\nHurls a great chaos fire orb.\r\n\r\nChaotic flame melts even great boulders,\r\nand creates a brief surge of molten lava on impact. \r\n\r\nThe Witch of Izalith and her daughters\r\nbirthed the Flame of Chaos,\r\nbut it devoured them along with their home."
+    },
+    "remark": {
+      "chn": "投掷混沌火球弹",
+      "jap": "混沌の火の玉を投げつける",
+      "eng": "Hurl giant chaos fire orb"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2450000.webp"
+  },
+  {
+    "id": "2451000",
+    "name": {
+      "chn": "混沌风暴",
+      "jap": "混沌の嵐",
+      "eng": "Chaos Storm"
+    },
+    "description": {
+      "chn": "咒术故乡伊札里斯的混沌火焰技艺。\r\n能在周围燃起数道混沌火焰。\r\n\r\n混沌火焰能熔化岩石，\r\n受到攻击的地方将会暂时产生岩浆。\r\n\r\n吞噬一切的混沌火焰成为温床，\r\n据说因此产生了一群畸形物，也就是恶魔。",
+      "jap": "呪術の故郷イザリスの、混沌の炎の業\r\n周囲に幾つもの混沌の炎を吹き上げる\r\n\r\n混沌の炎は岩を溶かし\r\n着弾跡には一時的溶岩溜りが生まれる\r\n\r\n全てを飲み込んだ混沌の炎は、やがて苗床となり\r\n異形の者たち、デーモンを生んだという",
+      "eng": "Art of the Flame of Chaos, from Ancient Izalith.\r\nErects multiple chaos fire pillars in vicinity.\r\n\r\nChaotic flame melts even great boulders,\r\nand creates a brief surge of molten lava on impact. \r\n\r\nThe all-engulfing Chaos Flame eventually\r\nformed a tumultuous seedbed,\r\nwhich birthed the twisted things known as Demons."
+    },
+    "remark": {
+      "chn": "周围燃起数道混沌火焰",
+      "jap": "周囲に幾つもの混沌の炎を吹き上げる",
+      "eng": "Erect multiple chaos fire pillars in vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2451000.webp"
+  },
+  {
+    "id": "2452000",
+    "name": {
+      "chn": "横扫火焰",
+      "jap": "薙ぎ払う炎",
+      "eng": "Fire Whip"
+    },
+    "description": {
+      "chn": "伊札里斯的魔女之一\r\n克拉娜传授的初始咒术中的一种。\r\n能以火焰鞭扫荡敌人。\r\n\r\n熟习后可以自如操控火焰，\r\n是极高难度的咒术。\r\n\r\n明白如何驾驭火焰，或明白无法驾驭──\r\n咒术该学的就是如此。",
+      "jap": "イザリスの魔女の一人\r\nクラーナの伝えた原初の呪術のひとつ\r\n火炎の鞭で薙ぎ払う\r\n\r\n炎を自在に操るという意味において\r\n極めて難度の高い呪術\r\n\r\n炎の制御を知り、また制御できぬを知る\r\n呪術とはそういうものだ",
+      "eng": "Primal pyromancy taught by Quelana,\r\ndaughter of the Witch of Izalith.\r\nSweeps foes with a fire whip.\r\n\r\nThe caster manipulates the flames at will,\r\nmaking this an extremely difficult spell to use.\r\n\r\nPyromancy is at once the knowledge\r\nof controlling flame,\r\nand the knowledge that control is impossible."
+    },
+    "remark": {
+      "chn": "以火焰鞭扫荡敌人",
+      "jap": "火炎の鞭で薙ぎ払う",
+      "eng": "Sweep foes with fire whip"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2452000.webp"
+  },
+  {
+    "id": "2453000",
+    "name": {
+      "chn": "黑焰",
+      "jap": "黒炎",
+      "eng": "Black Flame"
+    },
+    "description": {
+      "chn": "霸王沃尼尔堕入深渊后，\r\n成为守墓人的咒术师们随后发现的咒术。\r\n\r\n能在手中燃起巨大的黑色火焰。\r\n\r\n诞生自深渊的黑色火焰无法产生阴影，\r\n也无人清楚了解它，\r\n只传说这是人性的火焰。",
+      "jap": "覇王ウォルニールが深淵に落ちて後\r\n墓守となった呪術師たちが見出した呪術\r\n\r\n手元に大きく黒い炎を発生させる\r\n\r\n深淵より生じる黒い炎は\r\n陰を生まず、何者も分かたないという\r\nそれは人間性の火であると",
+      "eng": "Pyromancy discovered by grave wardens\r\nafter High Lord Wolnir fell to the Abyss.\r\n\r\nCreates a giant, black flame in hand\r\n\r\nBlack flames born from the Abyss bear no shadow.\r\nThey are said to be the impenetrable fires of humanity."
+    },
+    "remark": {
+      "chn": "手中燃起巨大的黑色火焰",
+      "jap": "手元に大きく黒い炎を発生させる",
+      "eng": "Create giant, black flame in hand"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2453000.webp"
+  },
+  {
+    "id": "2455000",
+    "name": {
+      "chn": "罪业火焰",
+      "jap": "罪の炎",
+      "eng": "Profaned Flame"
+    },
+    "description": {
+      "chn": "因罪业火焰而来的咒术。\r\n\r\n能以火焰包裹远方敌人，焚烧殆尽。\r\n\r\n巨人尤姆成为薪王后，\r\n罪业之都被火焰洗礼而灭。\r\n据说是从天而降、只焚烧人们的火焰。",
+      "jap": "罪の炎に由来する呪術\r\n\r\n離れた敵を炎で包み、焼き払う\r\n\r\n巨人ヨームが薪の王となった後\r\n罪の都は炎により滅びた\r\nそれは空より生じ、人々だけを焼いたという",
+      "eng": "Pyromancy deriving from the Profaned Flame.\r\n\r\nEngulfs foes at range and burns them to ashes.\r\n\r\nThe Profaned Capital was consumed by fire\r\nafter Yhorm the Giant became a Lord of Cinder.\r\nThe fire, born of the sky,\r\nis said to have incinerated naught but human flesh."
+    },
+    "remark": {
+      "chn": "以火焰包裹远方敌人，焚烧殆尽",
+      "jap": "離れた敵を炎で包み、焼き払う",
+      "eng": "Engulf foes at range and burn them to ashes"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2455000.webp"
+  },
+  {
+    "id": "2456000",
+    "name": {
+      "chn": "温床残渣",
+      "jap": "苗床の残滓",
+      "eng": "Chaos Bed Vestiges"
+    },
+    "description": {
+      "chn": "诞生恶魔的温床残渣。\r\n\r\n能投掷可将周围燃烧殆尽的混沌火焰。\r\n\r\n诞生自火焰的恶魔们，\r\n寄宿在熏烟中，逐渐步向灭亡。\r\n而这也是火焰与人们的现况。",
+      "jap": "デーモンを生んだ苗床の残滓\r\n\r\n周囲を焼き尽くす、混沌の炎を投げつける\r\n\r\n炎から生まれたデーモンたちは\r\nその燻りを宿し滅びゆく\r\nそれは、火と人々の今でもある",
+      "eng": "Traces of the tumultuous seedbed that birthed\r\nthe beings known as Demons.\r\n\r\nHurls chaos flame that scorches vicinity.\r\n\r\nDemons born from fire bore its smoldering essence\r\nand perished soon after.\r\nMan shares this rapport with the flames to this day."
+    },
+    "remark": {
+      "chn": "投掷可将周围燃烧殆尽的混沌火焰",
+      "jap": "周囲を焼き尽くす、混沌の炎を投げつける",
+      "eng": "Hurl chaos flame that scorches vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2456000.webp"
+  },
+  {
+    "id": "2457000",
+    "name": {
+      "chn": "浮空混沌",
+      "jap": "浮かぶ混沌",
+      "eng": "Floating Chaos"
+    },
+    "description": {
+      "chn": "“尸斑咒术师”丹涅尔醉心的仪式咒术。\r\n熏烟湖#1辅祭#3#2助祭#3们使用的咒术。\r\n\r\n能放出发射飞散火块的混沌火球。\r\n\r\n那瞬间烧尽的混沌，\r\n据说曾是诞生出温床的创始生命。\r\n那是伊札里斯的罪业，也是哀怜的证明。",
+      "jap": "死斑の呪術師、ダネルを魅了した儀式呪術\r\n燻りの湖の助祭たちが用いるもの\r\n\r\n飛沫を放つ、混沌の火球を浮かべる\r\n\r\n束の間に燃え尽きるその混沌は\r\nだが苗床に生じた原初の生命であるという\r\nそれはイザリスの罪の、憐れな証であろう",
+      "eng": "Pyromancer Dunnel was fascinated\r\nby this ceremonial art employed\r\nby the clerics of the Smouldering Lake.\r\n\r\nSummons a fire-spitting chaos orb.\r\n\r\nChaos burns away in the blink of an eye,\r\nbut was the primordial life born in the Bed of Chaos,\r\nand a grievous symbol of Izalith's sin."
+    },
+    "remark": {
+      "chn": "放出能发射飞散火块的混沌火球",
+      "jap": "飛沫を放つ、混沌の火球を浮かべる",
+      "eng": "Summons fire-spitting chaos orb"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2457000.webp"
+  },
+  {
+    "id": "2458000",
+    "name": {
+      "chn": "火焰扇",
+      "jap": "炎の扇",
+      "eng": "Flame Fan"
+    },
+    "description": {
+      "chn": "沙之咒术师后裔──卓伊的咒术。\r\n能将火焰化为扇形，大动作横扫。\r\n\r\n如果连续使用，就能左右横扫。\r\n\r\n卓伊身为沙之咒术师也不例外，长得十分美丽，\r\n但不同的是，她的美并不带毒，\r\n因此成为身分卑微者的纤细女王。",
+      "jap": "砂の呪術師の末裔、ゾーイの呪術\r\n炎を扇とし、大きく打ち払う\r\n\r\nまた連続使用することで\r\n炎の扇は左右に打ち払われる\r\n\r\n砂の呪術師の例に漏れず、ゾーイもまた美しい\r\nけれど彼女は、その美しさを毒とせず\r\nただ卑小な者たちの、細やかな女王となった",
+      "eng": "Pyromancy of Zoey, descendant of the desert pyromancers.\r\n\r\nUse repeatedly to brush the fan of flame left and right.\r\n\r\nZoey possessed true beauty,\r\nas did all the desert pyromancers,\r\nbut hers did not poison,\r\nand so she became the unassuming queen of the feeble ones. "
+    },
+    "remark": {
+      "chn": "将火焰化为扇形，大动作横扫",
+      "jap": "炎を扇とし、大きく打ち払う",
+      "eng": "Make a large sweep with a fan of flame"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2458000.webp"
+  },
+  {
+    "id": "2470000",
+    "name": {
+      "chn": "温暖的火",
+      "jap": "ぬくもりの火",
+      "eng": "Warmth"
+    },
+    "description": {
+      "chn": "累积者们的奇妙咒术。\r\n能引出柔和火焰，\r\n让接触到的人物恢复血量。\r\n\r\n他们惧怕被解开神的枷锁，也渴求家人。\r\n那这也可以算是团和乐的火焰吧。",
+      "jap": "積む者たちの奇妙な呪術\r\n柔らかな火を起こし\r\nそれに触れた者のＨＰを回復する\r\n\r\n彼らは神の枷の外れるを恐れ\r\n家族を求めている\r\nならばこれは団欒の火であろう",
+      "eng": "Peculiar pyromancy of the Mound-makers.\r\nCreates a gentle flame that restores HP on touch.\r\n\r\nThey feared separation from the gods\r\nand sought a familial bond,\r\nperhaps leading to the creation of this flame of harmony."
+    },
+    "remark": {
+      "chn": "引出柔和火焰，让接触到的人恢复血量",
+      "jap": "柔らかな火を起こし、触れた者のＨＰを回復する",
+      "eng": "Create a gentle flame that restores HP on touch"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2470000.webp"
+  },
+  {
+    "id": "2562000",
+    "name": {
+      "chn": "剧烈油汗",
+      "jap": "激しい脂汗",
+      "eng": "Profuse Sweat"
+    },
+    "description": {
+      "chn": "以卡尔米纳之名传承，\r\n将火纳入体内的进阶咒术。\r\n\r\n能借由流出大量油汗，\r\n提升对出血、毒、寒气，\r\n以及咒死的抵抗力。\r\n\r\n出黄色的汗能治百病。",
+      "jap": "カルミナの名で伝わる\r\n炎を内にする上位呪術\r\n\r\n激しい脂汗により\r\n出血、毒、冷気、呪死\r\n全ての耐性を高める\r\n\r\n黄色い汗は万病の薬",
+      "eng": "Advanced pyromancy that internalizes flame,\r\nassociated with Carmina.\r\n\r\nProfuse sweating temporarily boosts resistance\r\nto bleeding, poison, frost and curses.\r\n\r\nThe yellowish sweat cures all kinds of ailments."
+    },
+    "remark": {
+      "chn": "借由流出大量油汗，提升所有的抵抗力",
+      "jap": "激しい脂汗により、全ての耐性を高める",
+      "eng": "Profuse sweating temporarily boosts all resistances"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2562000.webp"
+  },
+  {
+    "id": "2610000",
+    "name": {
+      "chn": "黑火球",
+      "jap": "黒火球",
+      "eng": "Black Fire Orb"
+    },
+    "description": {
+      "chn": "霸王沃尼尔堕入深渊后，\r\n成为守墓人的咒术师们随后发现的咒术。\r\n\r\n能投掷黑色火球。\r\n\r\n黑色火焰具有暗属性的攻击力，\r\n而因为有相当的重量，能给予对手冲击。",
+      "jap": "覇王ウォルニールが深淵に落ちて後\r\n墓守となった呪術師たちが見出した呪術\r\n\r\n黒い火球を投げつける\r\n\r\n黒い炎は闇属性の攻撃力を持ち\r\nまた重いため、対象に衝撃を与える",
+      "eng": "Pyromancy discovered by grave wardens\r\nafter High Lord Wolnir fell to the Abyss.\r\n\r\nHurls a black fireball.\r\n\r\nThe black flame inflicts dark damage,\r\nstriking targets with weighty force."
+    },
+    "remark": {
+      "chn": "投掷黑色火球",
+      "jap": "黒い火球を投げつける",
+      "eng": "Hurl a black fireball"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2610000.webp"
+  },
+  {
+    "id": "2620000",
+    "name": {
+      "chn": "爆炸火球",
+      "jap": "炸裂火球",
+      "eng": "Bursting Fireball"
+    },
+    "description": {
+      "chn": "柯弭库斯重现的来历不明的咒术。\r\n大沼的高阶咒术之一。\r\n\r\n能投掷会爆炸的火球。\r\n\r\n离开手掌后能产生变化，是相当稀有的技术，\r\n因此这是个知名的高难度咒术。",
+      "jap": "コルニクスが復古した故なき呪術\r\n大沼の上位呪術のひとつ\r\n\r\n炸裂する火球を投げつける\r\n\r\n手元を離れた後の変化は稀な技術であり\r\n難度の高い呪術として知られている",
+      "eng": "Pyromancy of old restored by Cornyx.\r\nOne of the Great Swamp's more advanced spells.\r\n\r\nHurls an exploding fireball.\r\n\r\nA rare technique that undergoes change\r\nafter leaving the caster's hand,\r\nmaking this a spell renowned for its difficulty."
+    },
+    "remark": {
+      "chn": "投掷会爆炸的火球",
+      "jap": "炸裂する火球を投げつける",
+      "eng": "Hurl a bursting fireball"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2620000.webp"
+  },
+  {
+    "id": "2630000",
+    "name": {
+      "chn": "吐岩",
+      "jap": "岩吐き",
+      "eng": "Boulder Heave"
+    },
+    "description": {
+      "chn": "失去熏烟后的离群恶魔技艺。\r\n\r\n能从口中吐出岩石。\r\n\r\n吐出的岩石十分沉重，马上就会碎裂。",
+      "jap": "燻りを失くした、はぐれデーモンの業\r\n\r\n口から岩を吐き出す\r\n\r\nその岩は重く、すぐに砕けてしまう",
+      "eng": "Art of a stray demon of stifled flame.\r\n\r\nSpews a boulder from one's mouth.\r\n\r\nThe boulder is heavy, but shatters easily."
+    },
+    "remark": {
+      "chn": "能从口中吐出岩石",
+      "jap": "口から岩を吐き出す",
+      "eng": "Spew a boulder from one's mouth"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2630000.webp"
+  },
+  {
+    "id": "2640000",
+    "name": {
+      "chn": "净化火焰",
+      "jap": "浄火",
+      "eng": "Sacred Flame"
+    },
+    "description": {
+      "chn": "蛮族传承的咒术。\r\n能将火焰送进敌人体内，再一口气点火。\r\n\r\n原来是用于净化活祭品的仪式中，\r\n所以才被称为净化的火焰。\r\n\r\n不管看起来有多么野蛮，\r\n换个角度想，也就因为如此，\r\n蛮族的咒术师才符合神官职位。",
+      "jap": "蛮族に伝わる呪術\r\n敵の内に火を育て、一気に発火させる\r\n\r\n元は生贄の穢れを祓う儀式であり\r\n故にその火は浄火と呼ばれる\r\n\r\nどれだけ野蛮に見えようとも\r\nあるいはだからこそ相応しく\r\n蛮族の呪術師は、また神官なのだ",
+      "eng": "Pyromancy taught amongst savages.\r\nFlame burrows inside foes and ignites.\r\n\r\nOriginally used in a ceremony\r\nfor cleansing sacrificial impurities,\r\nthereby lending the spell its name.\r\n\r\nAs barbaric as it seems,\r\nthis may in fact be quite fitting\r\nfor the savage pyromancers who consider\r\nthemselves servants of the divine."
+    },
+    "remark": {
+      "chn": "将火焰送进敌人体内，再一口气点火",
+      "jap": "敵の内に火を育て、一気に発火させる",
+      "eng": "Flame burrows inside foes and ignites"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2640000.webp"
+  },
+  {
+    "id": "2650000",
+    "name": {
+      "chn": "卡萨斯的烽火",
+      "jap": "カーサスの烽火",
+      "eng": "Carthus Beacon"
+    },
+    "description": {
+      "chn": "砂砾国的卡萨斯咒术。\r\n其中最为秘密的一种。\r\n\r\n越持续攻击，攻击力会越高。\r\n\r\n卡萨斯的侵略行动犹如火焰蔓延，\r\n而自古以来，这个火焰就像烽火般，\r\n被当作战争的信号。",
+      "jap": "砂の国、カーサスの呪術\r\nそのもっとも秘するもの\r\n\r\n攻撃が連続するほど、攻撃力が高まる\r\n\r\nカーサスの侵略は火の如くあり\r\n古来、烽火は戦いの合図であった",
+      "eng": "The most obscure pyromancy developed\r\nin Carthus of the Sands.\r\n\r\nDamage increases with consecutive attacks.\r\n\r\nCarthus's aggression has been\r\nlikened to an uncontrollable fire,\r\nand since ancient times its beacon\r\nhas been used as a signal for war."
+    },
+    "remark": {
+      "chn": "越持续攻击，攻击力会越高",
+      "jap": "攻撃が連続するほど、攻撃力が高まる",
+      "eng": "Damage increases with consecutive attacks"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2650000.webp"
+  },
+  {
+    "id": "2660000",
+    "name": {
+      "chn": "沸腾混沌",
+      "jap": "たぎる混沌",
+      "eng": "Seething Chaos"
+    },
+    "description": {
+      "chn": "恶魔王子在最后一刻点燃的火焰。\r\n能投掷混沌碎片的咒术。\r\n\r\n混沌碎片一经接触后，会猛烈沸腾，\r\n在瞬间收缩后，引发大爆炸。\r\n\r\n对恶魔来说，那是生命的碎片。",
+      "jap": "デーモンの王子が最後に灯した炎\r\n混沌としたその欠片を、投げつける呪術\r\n\r\n混沌の欠片は着弾地点で激しくたぎり\r\n一瞬の収縮の後、大きく爆発する\r\n\r\nデーモンにとって、それは命の欠片だった",
+      "eng": "The last flame lit by the demon prince.\r\nThis pyromancy hurls a clump of chaos.\r\n\r\nUpon impact, this clump of chaos seethes wildly,\r\ncondenses briefly, then explodes violently.\r\n\r\nTo the demons, these clumps are shreds of life."
+    },
+    "remark": {
+      "chn": "投掷混沌碎片，使其沸腾、爆炸",
+      "jap": "混沌の欠片を投げつけ、たぎらせ、爆発させる",
+      "eng": "Hurl chaos clump that seethes and explodes"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/2660000.webp"
+  },
+  {
+    "id": "3490000",
+    "name": {
+      "chn": "略施恢复",
+      "jap": "回復の施し",
+      "eng": "Heal Aid"
+    },
+    "description": {
+      "chn": "授予不甚虔诚者的奇迹。\r\n白教的宽容证明。\r\n\r\n能微幅恢复血量。\r\n\r\n如果要使用奇迹，\r\n必须装备护符或是圣铃，\r\n并在营火处预先记忆奇迹。",
+      "jap": "信仰の低い者に与えられる施しの奇跡\r\n白教の寛容さの証\r\n\r\nＨＰをわずかに回復する\r\n\r\n奇跡を使用するためには\r\nタリスマンか聖鈴の何れかを装備し\r\n篝火で奇跡を記憶しておく必要がある",
+      "eng": "Miracle imparted as charity to those of little faith.\r\nA show of tolerance from the Way of White.\r\n\r\nSlightly restores HP.\r\n\r\nTo use miracles, equip a talisman or sacred chime\r\nand attune a miracle at a bonfire."
+    },
+    "remark": {
+      "chn": "微幅恢复血量",
+      "jap": "ＨＰをわずかに回復する",
+      "eng": "Slightly restore HP"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3490000.webp"
+  },
+  {
+    "id": "3500000",
+    "name": {
+      "chn": "恢复",
+      "jap": "回復",
+      "eng": "Heal"
+    },
+    "description": {
+      "chn": "圣职在初期学会的奇迹。\r\n能连同周围人物恢复血量。\r\n\r\n如果要使用奇迹，\r\n必须要装备护符或是圣铃，\r\n并在营火处预先记忆奇迹。",
+      "jap": "聖職者の初歩的な奇跡\r\n周囲も含め、ＨＰを回復する\r\n\r\n奇跡を使用するためには\r\nタリスマンか聖鈴の何れかを装備し\r\n篝火で奇跡を記憶しておく必要がある",
+      "eng": "Elementary miracle cast by clerics.\r\nRestores HP for self and those in the vicinity.\r\n\r\nTo use miracles, equip a talisman or sacred chime\r\nand attune a miracle at a bonfire."
+    },
+    "remark": {
+      "chn": "连同周围人物恢复血量",
+      "jap": "周囲も含め、ＨＰを回復する",
+      "eng": "Restore HP for self and vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3500000.webp"
+  },
+  {
+    "id": "3501000",
+    "name": {
+      "chn": "中等恢复",
+      "jap": "中回復",
+      "eng": "Med Heal"
+    },
+    "description": {
+      "chn": "相当于“恢复”的高阶奇迹。\r\n能连同周围人物恢复中等量的血量。\r\n\r\n所谓的奇迹，即学习神明们的故事，\r\n这是祈求并接受恩惠的技艺。\r\n威力取决于施术者的信仰。",
+      "jap": "「回復」の上位にあたる奇跡\r\n周囲も含め、ＨＰを中程度回復する\r\n\r\n奇跡とは、神々の物語を学び\r\nその恩恵を祈り受ける業であり\r\nその威力は術者の信仰に依存する",
+      "eng": "Miracle superior to Heal.\r\nRestores moderate HP for self and those in the vicinity.\r\n\r\nMiracles are fruit of the study of divine tales,\r\na blessing received from the gods through acts of prayer.\r\nMiracle strength depends on the caster's faith."
+    },
+    "remark": {
+      "chn": "连同周围人物恢复中等量的血量",
+      "jap": "周囲も含め、ＨＰを中程度回復する",
+      "eng": "Restore moderate HP for self and vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3501000.webp"
+  },
+  {
+    "id": "3502000",
+    "name": {
+      "chn": "大恢复",
+      "jap": "大回復",
+      "eng": "Great Heal"
+    },
+    "description": {
+      "chn": "高阶圣职使用的伟大奇迹。\r\n能连同周围人物大幅恢复血量。\r\n\r\n这是个壮阔的故事，\r\n知道故事全貌的人少之又少，\r\n因此对通晓故事的人来说，\r\n其恩惠已是绰绰有余。",
+      "jap": "高位の聖職者の使う偉大な奇跡\r\n周囲も含め、ＨＰを大きく回復する\r\n\r\nそれは膨大な物語であり\r\n全てを知る者はごく少ない\r\nだがその恩恵は、人の身には有り余るほどだろう",
+      "eng": "Glorious miracle used by high-ranking clerics.\r\nRestores a large amount of HP for self\r\nand those in the vicinity.\r\n\r\nOnly a select few have learned to\r\nrecite this epic tale in its entirety,\r\nbut those who do are amply rewarded. "
+    },
+    "remark": {
+      "chn": "连同周围人物大幅恢复血量",
+      "jap": "周囲も含め、ＨＰを大きく回復する",
+      "eng": "Restore high HP for self and vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3502000.webp"
+  },
+  {
+    "id": "3503000",
+    "name": {
+      "chn": "阳光疗愈",
+      "jap": "太陽の光の癒し",
+      "eng": "Soothing Sunlight"
+    },
+    "description": {
+      "chn": "侍奉阳光公主的圣女们\r\n被特别传授的奇迹。\r\n\r\n能连同周围人物，大范围、大幅恢复血量。\r\n\r\n受万物爱戴的葛维艾薇雅，\r\n将奇迹的恩惠分授给许多战士。",
+      "jap": "太陽の光の王女に仕えた聖女たちに\r\n特別に伝えられたという奇跡\r\n\r\n周囲を大きく含め、ＨＰを大きく回復する\r\n\r\n全てに愛されたグウィネヴィアの奇跡は\r\nその恩恵をひろく戦士たちに分け与えた",
+      "eng": "Special miracle granted to the maidens\r\nof the Princess of Sunlight.\r\n\r\nRestores a large amount of HP for self\r\nand those in the general area.\r\n\r\nThe miracles of Gwynevere,\r\nthe princess cherished by all,\r\nbestow their blessing on a great many warriors."
+    },
+    "remark": {
+      "chn": "连同周围人物，大范围、大幅恢复血量",
+      "jap": "周囲を大きく含め、ＨＰを大きく回復する",
+      "eng": "Restore high HP for self and broad area"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3503000.webp"
+  },
+  {
+    "id": "3504000",
+    "name": {
+      "chn": "生命力涌现",
+      "jap": "生命湧き",
+      "eng": "Replenishment"
+    },
+    "description": {
+      "chn": "过去受圣职骑士喜爱的奇迹。\r\n能缓慢恢复血量。\r\n\r\n这是古老洛伊德信仰留下的痕迹，\r\n据说圣职骑士们因此不曾在战斗中败倒。",
+      "jap": "かつて聖職の騎士に愛された奇跡\r\nＨＰをゆっくりと回復する\r\n\r\nそれは古いロイド信仰の名残であり\r\n聖職の騎士たちは不倒の戦いを見せたという",
+      "eng": "Miracle once cherished by cleric knights.\r\nGradually restores HP.\r\n\r\nReplenishment is a relic of the old Lloyd faith,\r\nwhose cleric knights were unfaltering in battle."
+    },
+    "remark": {
+      "chn": "缓慢恢复血量",
+      "jap": "ＨＰをゆっくりと回復する",
+      "eng": "Gradually restore HP"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3504000.webp"
+  },
+  {
+    "id": "3505000",
+    "name": {
+      "chn": "阳光滋润",
+      "jap": "太陽の光の恵み",
+      "eng": "Bountiful Sunlight"
+    },
+    "description": {
+      "chn": "阳光公主传授的特别奇迹。\r\n\r\n连同周围人物，大范围、缓慢大幅恢复血量。\r\n\r\n为妻及为母的葛维艾薇雅，\r\n将奇迹的恩惠分授给许多战士。",
+      "jap": "太陽の光の王女が与えたという特別な奇跡\r\n\r\n周囲を大きく含め、ＨＰをゆっくりと大きく回復する\r\n\r\n母であり妻であったグウィネヴィアの奇跡は\r\nその恩恵をひろく戦士たちに分け与えた",
+      "eng": "Special miracle granted by the Princess of Sunlight.\r\n\r\nGradually restores a large amount of HP\r\nfor self and those in the vicinity.\r\n\r\nThe miracles of Gwynevere,\r\nloved as both mother and wife bestow\r\ntheir blessing on a great many warriors."
+    },
+    "remark": {
+      "chn": "连同周围人物，大范围、缓慢大幅恢复血量",
+      "jap": "周囲を大きく含め、ＨＰをゆっくりと大きく回復する",
+      "eng": "Gradually restore high HP for self and broad area"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3505000.webp"
+  },
+  {
+    "id": "3507000",
+    "name": {
+      "chn": "光芒恩惠",
+      "jap": "光の恵み",
+      "eng": "Bountiful Light"
+    },
+    "description": {
+      "chn": "王妃的圣女──葛慈德\r\n传授给骑士们的奇迹。\r\n\r\n能缓慢大幅恢复血量。\r\n\r\n而后“天使的女儿”葛慈德\r\n被传是王妃的真正女儿。",
+      "jap": "王妃の聖女、ゲルトルードが\r\n騎士たちに伝えたという奇跡\r\n\r\nＨＰをゆっくりと、大きく回復する\r\n\r\n後の「天使の娘」ゲルトルードは\r\n王妃の実子であるといわれている",
+      "eng": "Miracle taught to knights by Gertrude,\r\nholy maiden to the Queen.\r\n\r\nGradually restores a large amount of HP.\r\n\r\nThe Heavenly Daughter is said to be\r\nthe Queen's child."
+    },
+    "remark": {
+      "chn": "缓慢大幅恢复血量",
+      "jap": "ＨＰをゆっくりと、大きく回復する",
+      "eng": "Gradually restore high HP"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3507000.webp"
+  },
+  {
+    "id": "3508000",
+    "name": {
+      "chn": "治愈眼泪",
+      "jap": "治癒の涙",
+      "eng": "Caressing Tears"
+    },
+    "description": {
+      "chn": "卡利姆大主教的使徒\r\n摩恩传授的奇迹。\r\n\r\n能连同周围人物治疗出血、\r\n中毒，以及寒气等异常状态。\r\n\r\n摩恩是女神夸特知名的随从，\r\n而这是关于她被死亡环绕的故事。",
+      "jap": "カリム大司教の使徒\r\nモーンが伝えた奇跡\r\n\r\n周囲も含め、出血、毒、冷気の状態異常を治癒する\r\n\r\nモーンは女神クァトの従者としても知られ\r\nこれは彼女を巡る死の物語であるという",
+      "eng": "Miracle taught by Morne, the Archbishop's apostle.\r\n\r\nCures bleeding, poison and frost for self\r\nand those in the vicinity.\r\n\r\nCaressing Tears is a tale of\r\nthe many deaths surrounding the goddess Caitha,\r\nof whom Morne was a known follower."
+    },
+    "remark": {
+      "chn": "连同周围人物治疗出血、中毒、寒气等异常状态",
+      "jap": "周囲も含め、出血、毒、冷気の状態異常を治癒する",
+      "eng": "Cure ailments for self and vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3508000.webp"
+  },
+  {
+    "id": "3509000",
+    "name": {
+      "chn": "雷电箭",
+      "jap": "雷の矢",
+      "eng": "Lightning Arrow"
+    },
+    "description": {
+      "chn": "在神的时代，为数稀少的女骑士们\r\n使用的猎龙奇迹。\r\n\r\n拉满雷电弓之后，能射出雷电箭。\r\n\r\n与枪相比，射程距离更突出，\r\n据传足以从远方射穿龙的眼眸。\r\n所谓美谈，总会附带一些浮夸元素。",
+      "jap": "神々の時代、数少ない女騎士たちが\r\n竜狩りに用いた奇跡\r\n\r\n雷の弓を引き絞り、雷の矢を射る\r\n\r\n槍に比べて射程距離に優れ\r\n彼方から竜の瞳を射抜いたともいう\r\n美々しい物語には、誇張が付き物だ",
+      "eng": "The few female knights who served in\r\nthe age of the gods used this miracle for dragonslaying.\r\n\r\nDraw lightning bow to fire a lightning arrow.\r\n\r\nThe lightning arrows offer a great improvement\r\nto the range of spears,\r\nand were said to have been used to\r\npierce the eyes of dragons from afar.\r\nBut remember, beautiful stories\r\nare always marked by embellishment."
+    },
+    "remark": {
+      "chn": "射出雷电箭",
+      "jap": "雷の矢を射る",
+      "eng": "Fire lightning arrow"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3509000.webp"
+  },
+  {
+    "id": "3513000",
+    "name": {
+      "chn": "##死亡诱惑",
+      "jap": "##死への誘い",
+      "eng": "##Morbid Temptation"
+    },
+    "description": {
+      "chn": "折磨游魂们的奇迹。\r\n\r\n由施术者设下的死亡诱惑，\r\n对游魂而言是无比折磨，\r\n那份痛苦光想就毛骨悚然。",
+      "jap": "亡者となったものにのみ苦しみを与える奇跡\r\n\r\n術者の死への誘いは、亡者にとってこの上ない\r\n苦痛となり、その痛みは想像を絶する",
+      "eng": "A micracle that causes distress\r\nonly to those that have turned hollow.\r\n\r\nTo hollows, there is no greater affliction\r\nthan the temptation of death.\r\nTo them, this agony transcends imagination."
+    },
+    "remark": {
+      "chn": "折磨游魂们",
+      "jap": "亡者となった者に苦しみを与える",
+      "eng": "Inflict pain on hollows"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3513000.webp"
+  },
+  {
+    "id": "3520000",
+    "name": {
+      "chn": "惜别眼泪",
+      "jap": "惜別の涙",
+      "eng": "Tears of Denial"
+    },
+    "description": {
+      "chn": "卡利姆大主教的使徒\r\n摩恩传授的奇迹。\r\n\r\n当血量归0时，能仅此一次逃过死亡。\r\n\r\n这是为了赋予垂死之人\r\n足以话别的时间而生的奇迹。\r\n眼泪是为了生者而流，远比死者还需要。",
+      "jap": "カリム大司教の使徒\r\nモーンが伝えた奇跡\r\n\r\nＨＰがゼロになった時、一度だけ踏みとどまる\r\n\r\nそれは、死にゆく者の今わの際に\r\n別れの時間を与えるための奇跡である\r\n涙は死者のために、それ以上に生者のために",
+      "eng": "Miracle taught by Morne, the Archbishop's apostle.\r\n\r\nGrants one chance to endure when HP reaches 0\r\n\r\nIntended to grant the dying\r\na few moments for a final farewell.\r\nTears are shed for the sake of the living,\r\nmore so than the deceased."
+    },
+    "remark": {
+      "chn": "当血量归0时，仅此一次逃过死亡",
+      "jap": "ＨＰがゼロになった時、一度だけ踏みとどまる",
+      "eng": "Grant one chance to endure when HP reaches 0"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3520000.webp"
+  },
+  {
+    "id": "3521000",
+    "name": {
+      "chn": "返回",
+      "jap": "家路",
+      "eng": "Homeward"
+    },
+    "description": {
+      "chn": "传授给旅行圣职的奇迹。\r\n能返回最后休息的营火处，或是祭祀场的营火。\r\n\r\n原来是能回到故乡的奇迹，\r\n但因为不死诅咒使得效果被扭曲。\r\n还是说，营火就是不死人的故乡呢？",
+      "jap": "旅の聖職者に伝えられる奇跡\r\n最後に休息した篝火か、祭祀場の篝火に戻る\r\n\r\n本来は故郷へと帰還するものであるが\r\n不死の呪いがそれを歪めている\r\nあるいは、篝火こそ不死の故郷なのか",
+      "eng": "Miracle taught to traveling clerics.\r\nReturns caster to the last bonfire used for resting, \r\nor to the bonfire in the shrine.\r\n\r\nIt would normally link to one's homeland,\r\nonly the curse of the Undead has twisted its power,\r\nredirecting casters to a bonfire.\r\nPerhaps for Undead, the bonfire serves as home."
+    },
+    "remark": {
+      "chn": "返回最后休息的营火处，或是祭祀场的营火",
+      "jap": "最後に休息した篝火か、祭祀場の篝火に戻る",
+      "eng": "Return caster to last bonfire rested at, or to shrine"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3521000.webp"
+  },
+  {
+    "id": "3530000",
+    "name": {
+      "chn": "原力",
+      "jap": "フォース",
+      "eng": "Force"
+    },
+    "description": {
+      "chn": "手持武器的圣职在初期所学的奇迹。\r\n能释放冲击波。\r\n\r\n并非直接给予伤害，\r\n而是能弹飞周围的敌人，使其踉跄。\r\n也有防御飞箭的效果。",
+      "jap": "武器を持つ聖職者の初歩的な奇跡\r\n衝撃波を発生させる\r\n\r\n直接的なダメージを与えるものではないが\r\n周囲の敵を弾き飛ばし、よろめかせ\r\nまた飛来する矢を防ぐ効果もある",
+      "eng": "Elementary miracle among clerics.\r\nCreates a shockwave.\r\n\r\nWhile it inflicts no direct damage,\r\nthis miracle propels foes back, staggering them.\r\nCan also defend against incoming arrows."
+    },
+    "remark": {
+      "chn": "释放冲击波",
+      "jap": "衝撃波を発生させる",
+      "eng": "Create shockwave"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3530000.webp"
+  },
+  {
+    "id": "3531000",
+    "name": {
+      "chn": "诸神之怒",
+      "jap": "神の怒り",
+      "eng": "Wrath of the Gods"
+    },
+    "description": {
+      "chn": "“原力”的古老原型。\r\n能释放强烈冲击波。\r\n\r\n“诸神之怒”是非常长的故事，\r\n而“原力”是其精简过的版本。\r\n\r\n这是描述极度愤怒的故事，\r\n能伴随冲击波给予极大的伤害。",
+      "jap": "「フォース」の古い原型\r\n強い衝撃波を発生させる\r\n\r\n「神の怒り」は非常に長い物語であり\r\n「フォース」はその略述である\r\n\r\n原型となる深い怒りの物語は\r\n衝撃波に大きなダメージを伴うものだ",
+      "eng": "Primal form of Force.\r\nCreates a powerful shockwave.\r\n\r\nWrath of the Gods is an epic tale,\r\nwhile Force is but a woefully\r\nincomplete version of that yarn.\r\n\r\nThis primal account of profound fury\r\nemits a shockwave that also inflicts damage."
+    },
+    "remark": {
+      "chn": "释放强烈冲击波",
+      "jap": "強い衝撃波を発生させる",
+      "eng": "Create powerful shockwave"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3531000.webp"
+  },
+  {
+    "id": "3532000",
+    "name": {
+      "chn": "原力并射",
+      "jap": "放つフォース",
+      "eng": "Emit Force"
+    },
+    "description": {
+      "chn": "著名的卡塔利纳式奇迹。\r\n能朝自身前方释放冲击波。\r\n\r\n美酒与讴歌国度的人民个性直率，\r\n比如说生起气来，\r\n他们不会忍耐，而是直接动手。",
+      "jap": "カタリナの流儀として知られる奇跡\r\n衝撃波を前方に投げつける\r\n\r\n酒と謳歌の国の人々は率直である\r\nたとえそれが怒りの類であっても\r\n待つのではなく、ぶつけるのだ",
+      "eng": "Traditional miracle of Catarina.\r\nReleases a shockwave in front.\r\n\r\nThe people of lands known for festivity\r\nand drink are typically outspoken.\r\nOne can be sure that they will not\r\nbottle their emotions,\r\ninstead venting anger and the like with confidence."
+    },
+    "remark": {
+      "chn": "朝自身前方释放冲击波",
+      "jap": "衝撃波を前方に投げつける",
+      "eng": "Release shockwave in front"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3532000.webp"
+  },
+  {
+    "id": "3540000",
+    "name": {
+      "chn": "寻求建言",
+      "jap": "助言求め",
+      "eng": "Seek Guidance"
+    },
+    "description": {
+      "chn": "迷惘者们的奇迹。\r\n\r\n能看见更多来自其他世界的建议，\r\n而身无余火者也能看见召唤记号。\r\n\r\n圣职的标准长存在信仰中，\r\n因此他们不需要不知名的建议。\r\n\r\n虽然如此，这个奇迹还是被传颂下来，\r\n让迷惘者能继续看见些许希望。",
+      "jap": "迷える者たちの奇跡\r\n\r\n他世界からの助言を多く表示し\r\nまた、残り火無き身にも召喚サインを見せる\r\n\r\n聖職者の道標は信仰の中にあり\r\n故知らぬ助言など知る必要はない\r\n\r\nそのはずが、だがこの奇跡は語り継がれ\r\n迷える者たちの微かな望みとなり続けた",
+      "eng": "Miracle of stray souls.\r\nDisplays more help from other worlds and\r\nreveals summon signs without using an ember.\r\n\r\nFaith serves as a guide for clerics,\r\nmeaning they should have no need for secondhand wisdom.\r\n\r\nBe that as it may,\r\nthis miracle has been passed down from soul to soul,\r\nproviding a tiny ray of hope for the lost."
+    },
+    "remark": {
+      "chn": "能看见更多建议，身无余火者能看见记号",
+      "jap": "助言を多く表示し、残り火無き身にサインを見せる",
+      "eng": "Reveal more help, and signs without using ember"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3540000.webp"
+  },
+  {
+    "id": "3550000",
+    "name": {
+      "chn": "雷枪",
+      "jap": "雷の槍",
+      "eng": "Lightning Spear"
+    },
+    "description": {
+      "chn": "太阳誓约的战士所使用的奇迹。\r\n\r\n能投掷雷枪。\r\n\r\n枪具有雷属性攻击力，\r\n对擅长防御魔力、火属性的对手相当有效，\r\n而对金属铠甲，或是龙族，则是特别有威力。",
+      "jap": "太陽の誓約戦士の使ったという奇跡\r\n\r\n雷の槍を投げる\r\n\r\n槍は雷属性の攻撃力を持ち\r\n魔力や炎に強い対象にも有効となり\r\n金属の鎧や、また竜族に対して特に威力が高い",
+      "eng": "Miracle allegedly used by Warriors of Sunlight.\r\n\r\nHurls a lightning spear.\r\n\r\nThe spears inflict lightning damage,\r\nproviding an effective counter to magic or fire.\r\nEspecially powerful against metal armor and dragons."
+    },
+    "remark": {
+      "chn": "投掷雷枪",
+      "jap": "雷の槍を投げる",
+      "eng": "Hurl lightning spear"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3550000.webp"
+  },
+  {
+    "id": "3551000",
+    "name": {
+      "chn": "巨雷枪",
+      "jap": "雷の大槍",
+      "eng": "Great Lightning Spear"
+    },
+    "description": {
+      "chn": "“雷枪”的原型故事。\r\n是古老的猎龙奇迹。\r\n\r\n能投掷巨雷枪。\r\n\r\n“#1初始薪王#3#2初始之王#3”葛温以阳光枪猎龙，\r\n而那重责大任通过长子的巨枪继承下来。\r\n\r\n这父子两人壮阔的故事，据说还没有完结。",
+      "jap": "「雷の槍」の原型となる物語\r\n太古の竜狩りの奇跡\r\n\r\n雷の大槍を投げる\r\n\r\n最古の王グウィンが太陽の槍で竜を狩り\r\nやがてその任は長子の大槍に引き継がれる\r\n\r\n親子二代の壮大な物語は、だが未完であるという",
+      "eng": "Primal account of Lightning Spear,\r\nwhich tells of an ancestral dragonslayer.\r\n\r\nHurls a giant lightning spear.\r\n\r\nGwyn, the First Lord,\r\nslew dragons with his sunlight spear,\r\na tradition upheld by his firstborn\r\nand the greatspear he wielded.\r\n\r\nMuch of this resplendent tale of father and son,\r\nwhile epic, remains tragically untold. "
+    },
+    "remark": {
+      "chn": "投掷巨雷枪",
+      "jap": "雷の大槍を投げる",
+      "eng": "Hurl giant lightning spear"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3551000.webp"
+  },
+  {
+    "id": "3552000",
+    "name": {
+      "chn": "阳光之枪",
+      "jap": "太陽の光の槍",
+      "eng": "Sunlight Spear"
+    },
+    "description": {
+      "chn": "“初始薪王”葛温的奇迹。\r\n\r\n能投掷阳光枪。\r\n\r\n这是关于葛温狩猎古龙──\r\n讲述火的时代开端的故事。",
+      "jap": "最古の薪の王グウィンの奇跡\r\n\r\n太陽の光の槍を投げる\r\n\r\nグウィンの古竜狩り\r\nそれは火の時代のはじまりの物語である",
+      "eng": "Miracle of Gwyn, the First Lord.\r\nHurls a sunlight spear.\r\n\r\nThe tales of Gwyn's Archdragon hunts\r\ndescribe the inception of the Age of Fire."
+    },
+    "remark": {
+      "chn": "投掷阳光枪",
+      "jap": "太陽の光の槍を投げる",
+      "eng": "Hurl sunlight spear"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3552000.webp"
+  },
+  {
+    "id": "3553000",
+    "name": {
+      "chn": "风暴落雷",
+      "jap": "嵐の落雷",
+      "eng": "Lightning Storm"
+    },
+    "description": {
+      "chn": "古龙的同盟，无名王者的奇迹。\r\n\r\n能唤出猛烈落雷。\r\n\r\n过去曾是猎龙战神的他，\r\n却在余生与风暴龙成为战友。\r\n这个奇迹是关于他们之间的故事。",
+      "jap": "古竜の同盟者、無名の王の奇跡\r\n\r\n激しい落雷を呼ぶ\r\n\r\nかつて竜狩りの戦神であった彼は\r\n生涯、嵐の竜を戦場の友とした\r\nこれはきっとその一対の物語であろう",
+      "eng": "Miracle of the Nameless King,\r\nally to the ancient dragons.\r\n\r\nCalls forth furious bolts of lightning.\r\n\r\nOnce a slayer of dragons,\r\nthe former king and war god tamed a Stormdrake,\r\non which he led a lifetime of battle.\r\nThis miracle is likely a tale of their bond."
+    },
+    "remark": {
+      "chn": "唤出猛烈落雷",
+      "jap": "激しい落雷を呼ぶ",
+      "eng": "Call forth furious bolts of lightning"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3553000.webp"
+  },
+  {
+    "id": "3554000",
+    "name": {
+      "chn": "侵蚀",
+      "jap": "蝕み",
+      "eng": "Gnaw"
+    },
+    "description": {
+      "chn": "幽邃教堂传授的黑暗奇迹。\r\n\r\n能召唤一群虫子，啃噬敌人。\r\n\r\n潜藏在深处的虫子们，小小的颚上有牙，\r\n能在一瞬间咬破皮肤，潜入皮肉，\r\n接着引起大量出血。",
+      "jap": "深みの聖堂に伝わる暗い奇跡\r\n\r\n蟲の群れを召喚し、敵を蝕む\r\n\r\n深みに潜む蟲たちは、小さな顎に牙を持ち\r\n瞬く間に皮膚を裂き、肉に潜り込む\r\nそれは激しい出血を伴うという",
+      "eng": "Dark miracle taught in the Cathedral of the Deep.\r\n\r\nSummons insect swarm to feast on foes.\r\n\r\nThese insects which lurk in the Deep\r\nhave tiny jaws lined with fangs to\r\ntear open the skin and burrow into the flesh\r\nin the blink of an eye, causing intense bleeding."
+    },
+    "remark": {
+      "chn": "召唤一群虫子，啃噬敌人",
+      "jap": "蟲の群れを召喚し、敵を蝕む",
+      "eng": "Summon insect swarm to feast on foes"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3554000.webp"
+  },
+  {
+    "id": "3555000",
+    "name": {
+      "chn": "朵丽丝的侵蚀",
+      "jap": "ドーリスの蝕み",
+      "eng": "Dorhys' Gnawing"
+    },
+    "description": {
+      "chn": "发狂的导师——朵丽丝的奇迹。\r\n\r\n能召唤一大群虫子，猛烈啃噬敌人。\r\n\r\n站在幽邃边缘的人，有时会失足落下，\r\n此时她能得到好处，并一定会沉醉于此。",
+      "jap": "狂った教導師、ドーリスの奇跡\r\n\r\n蟲の大群を召喚し、敵を酷く蝕む\r\n\r\n深みの縁に立つ者は、ときに足を滑らせる\r\n彼女は肥え、きっと酔ってもいたのだろう",
+      "eng": "Miracle of Dorhys the deranged evangelist.\r\n\r\nSummons great insect swarm to feast on foes.\r\n\r\nThose who linger too long on the brink\r\nof the Deep will often slip.\r\nDorhys is sure to have wallowed in this darkness,\r\nintoxicated by its peril."
+    },
+    "remark": {
+      "chn": "召唤一大群虫子，猛烈啃噬敌人",
+      "jap": "蟲の大群を召喚し、敵を酷く蝕む",
+      "eng": "Summon great insect swarm to feast on foes"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3555000.webp"
+  },
+  {
+    "id": "3556000",
+    "name": {
+      "chn": "白教光环",
+      "jap": "白教の輪",
+      "eng": "Way of White Corona"
+    },
+    "description": {
+      "chn": "失传的白教奇迹。\r\n白色光环在撕裂敌人后，会回到施术者身边。\r\n\r\n据说在过去，诸神还具有深厚影响力的时代，\r\n白教奇迹常有光环相伴。\r\n\r\n怀念过去的人们坚信着，\r\n总有一天，那些日子能够重返。",
+      "jap": "失われた白教の奇跡\r\n白い光輪は敵を切り裂き、やがて術者の元に戻る\r\n\r\nかつて、神々の名残が濃い時代には\r\n白教の奇跡は光輪と共にあったという\r\n\r\nそして偲ぶ者たちは\r\nいつの日かそれが戻ると信じていた",
+      "eng": "A lost Way of White miracle.\r\nLaunches a white discus which slices\r\ninto foes and returns to its conjurer.\r\n\r\nLong ago, when the imprints left\r\nby the gods were still deep,\r\nmiracles of the Way of White existed alongside aureoles.\r\n\r\nThose who yearned for the long-lost aureoles\r\nfully believed that they would return, one day."
+    },
+    "remark": {
+      "chn": "白色光环在撕裂敌人后，会回到施术者身边",
+      "jap": "白い光輪は敵を切り裂き、やがて術者の元に戻る",
+      "eng": "White discus slices into foes and returns to conjurer"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3556000.webp"
+  },
+  {
+    "id": "3557000",
+    "name": {
+      "chn": "释放恢复",
+      "jap": "放つ回復",
+      "eng": "Projected Heal"
+    },
+    "description": {
+      "chn": "在洛斯里克的最后一刻发现的奇迹。\r\n能掷出光芒，恢复接触地点周围人物的血量。\r\n\r\n已淡忘阳光公主的疗愈及恩惠的人们，\r\n自行想象出她的身影，\r\n描绘出笨拙，但真挚的故事。",
+      "jap": "その終末期に、ロスリックで見出された奇跡\r\n光を投げつけ、着弾地点周囲のＨＰを回復する\r\n\r\n太陽の光の王女\r\nその癒しと恵みを忘れた人々は\r\nそれでもなお、彼女の後姿を思い描き\r\n稚拙だが、真剣な物語を紡いだのだ",
+      "eng": "A miracle discovered in the last days of Lothric.\r\nToss a light that heals those near the point of impact.\r\n\r\nEven those who had forgotten the caress and bounty\r\nof the Princess of Sunlight did their best\r\nto recall her image. The stories spun about her\r\nwere most certainly childish, and yet gravely sincere."
+    },
+    "remark": {
+      "chn": "掷出光芒，恢复接触地点周围人物的血量",
+      "jap": "光を投げつけ、着弾地点周囲のＨＰを回復する",
+      "eng": "Toss a light that heals those nearby impact point"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3557000.webp"
+  },
+  {
+    "id": "3560000",
+    "name": {
+      "chn": "魔力防护",
+      "jap": "魔力防護",
+      "eng": "Magic Barrier"
+    },
+    "description": {
+      "chn": "为了手持武器的圣职所出现的奇迹。\r\n\r\n能借由全身覆满白色防护膜，\r\n提升魔力属性减伤率。\r\n\r\n在历史上，圣职与魔法师常针锋相对。\r\n所以质朴的圣职们\r\n必须要有对抗魔法的手段。",
+      "jap": "武器を持つ聖職者のための奇跡\r\n\r\n全身を白い防護膜で覆い\r\n魔力カット率を高める\r\n\r\n歴史上、聖職者と魔術師はしばし対立した\r\nだから質実な聖職者たちには\r\n魔術に対する手段が必要だったのだ",
+      "eng": "Miracle of clerics who wield weapons.\r\n\r\nIncreases magic damage absorption by \r\ncovering the body in a white protective coating.\r\n\r\nThere was a short period in history where\r\nclerics and sorcerers opposed one another.\r\nThus it became necessary for even simple clerics\r\nto have some means of opposing magic."
+    },
+    "remark": {
+      "chn": "借由防护膜，提升魔力属性减伤率",
+      "jap": "防護膜により、魔力カット率を高める",
+      "eng": "Increase magic damage absorption with coating"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3560000.webp"
+  },
+  {
+    "id": "3561000",
+    "name": {
+      "chn": "大魔力防护",
+      "jap": "大魔力防護",
+      "eng": "Great Magic Barrier"
+    },
+    "description": {
+      "chn": "#1基于#3#2相当于#3“魔力防护”#1改编#3#2原典#3的故事。\r\n\r\n能借由全身覆满白色强力防护膜，\r\n大幅提升魔力属性减伤率。\r\n\r\n这是“坚石”哈维尔的故事，\r\n身为白龙希斯敌对者的哈维尔极度讨厌魔法，\r\n因此他非常勤于找出对抗魔法的手段。",
+      "jap": "「魔力防護」の原典にあたる物語\r\n\r\n全身を白く強い防護膜で覆い\r\n魔力カット率を大きく高める\r\n\r\nそれは「岩のような」ハベルの物語であるという\r\n白竜シースの敵対者であったハベルは\r\n魔術を嫌い、それに対する手段も怠らなかった",
+      "eng": "The tale which was later interpreted as Magic Barrier.\r\n\r\nGreatly increases magic damage absorption\r\nby covering the body in a strong white protective coating.\r\n\r\nSaid to be a tale of Havel the Rock,\r\narch enemy of Seath the Scaleless.\r\nHavel despised magic,\r\nand was never complacent in preparing means to counter it."
+    },
+    "remark": {
+      "chn": "借由强力防护膜，大幅提升魔力属性减伤率",
+      "jap": "強い防護膜により、魔力カット率を大きく高める",
+      "eng": "Greatly increase magic damage absorption with coating"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3561000.webp"
+  },
+  {
+    "id": "3563000",
+    "name": {
+      "chn": "金石之誓",
+      "jap": "固い誓い",
+      "eng": "Sacred Oath"
+    },
+    "description": {
+      "chn": "被太阳誓约选上的人所用的奇迹。\r\n\r\n能连同周围人物，提升攻击力及减伤率。\r\n\r\n这是太阳长男与其#1直属#3#2首席#3骑士，以及猎龙剑士，\r\n三者交织成最为雄壮的猎龙故事。",
+      "jap": "太陽の誓約に選ばれた者の奇跡\r\n\r\n周囲も含め、攻撃力とカット率を高める\r\n\r\n太陽の長子と、その筆頭騎士\r\nそして竜狩りの剣士の物語は\r\n最も勇壮な竜狩り譚であるという",
+      "eng": "Miracle of those chosen by the Sunlight covenant.\r\n\r\nTemporarily boosts attack and damage absorption\r\nfor self and those in the vicinity.\r\n\r\nThis is the tale of the Sun's firstborn,\r\nhis faithful first knight,\r\nand the brave dragonslayer who served them both."
+    },
+    "remark": {
+      "chn": "连同周围人物提升攻击力及减伤率",
+      "jap": "周囲も含め、攻撃力とカット率を高める",
+      "eng": "Boost ATK/DMG absorption for self and vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3563000.webp"
+  },
+  {
+    "id": "3581000",
+    "name": {
+      "chn": "沉默禁令",
+      "jap": "沈黙の禁則",
+      "eng": "Vow of Silence"
+    },
+    "description": {
+      "chn": "隆道尔黑教会的奇迹。\r\n\r\n能连同自己，封印周围人物的法术。\r\n\r\n黑教会的剑士们实力都相当卓越，\r\n而隆道尔的沉默常与他们相伴。\r\n这些剑绝对不会背叛黑教会。",
+      "jap": "ロンドール黒教会の奇跡\r\n\r\n自分も含め、周囲にいる者の魔法を封じる\r\n\r\n黒教会の者たちは、皆卓越した剣士であり\r\nロンドールの沈黙はいつも彼らと共にある\r\nそして剣だけは、決して裏切らない",
+      "eng": "Miracle of the Sable Church of Londor.\r\n\r\nPrevents spells in vicinity, including one's own.\r\n\r\nMembers of the Sable Church\r\nare all trained swordsmen,\r\neach sworn only to their weapons\r\nas they bear the leaden silence of Londor."
+    },
+    "remark": {
+      "chn": "连同自己，封印周围人物的法术",
+      "jap": "自分も含め、周囲にいる者の魔法を封じる",
+      "eng": "Prevent spells in vicinity, including one's own"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3581000.webp"
+  },
+  {
+    "id": "3590000",
+    "name": {
+      "chn": "雷电剑",
+      "jap": "雷の剣",
+      "eng": "Lightning Blade"
+    },
+    "description": {
+      "chn": "据说是神的时代，猎龙剑士使用的奇迹。\r\n\r\n能让右手武器强化雷属性。\r\n\r\n关于猎龙骑士的故事，现在大都已不为人知。\r\n只有在边境区域，被断断续续地传承下来。",
+      "jap": "神の時代、竜狩りの剣士が振るったという奇跡\r\n\r\n右手の武器を雷で強化する\r\n\r\n竜狩りの剣士の物語は、いまや殆ど知られておらず\r\n僅かに辺境に、切れ切れに伝わるのみであるという",
+      "eng": "Miracle allegedly wielded by a certain dragonslayer knight\r\nin the Age of Gods.\r\n\r\nReinforces right weapon with lightning.\r\n\r\nTales of dragonslayers are now a rare thing,\r\ntold only in fragments and whispers in remote regions."
+    },
+    "remark": {
+      "chn": "让右手武器强化雷属性",
+      "jap": "右手の武器を雷で強化する",
+      "eng": "Reinforce right weapon with lightning"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3590000.webp"
+  },
+  {
+    "id": "3591000",
+    "name": {
+      "chn": "暗月光剑",
+      "jap": "暗月の光の剣",
+      "eng": "Darkmoon Blade"
+    },
+    "description": {
+      "chn": "为暗月誓约牺牲奉献者所用的奇迹。\r\n\r\n能以暗月力量强化右手武器。\r\n\r\n暗月奇迹就是关于复仇的故事。\r\n但是骑士团团长幽儿希卡并不知其含义，\r\n只是单纯以她认知的兄长，\r\n来讲述关于他的故事。\r\n\r\n仅有剑明了复仇的涵义即可。",
+      "jap": "暗月の誓約に身を捧げた者の奇跡\r\n\r\n右手の武器を暗月の光の力で強化する\r\n\r\n暗い月の奇跡は、即ち復讐の物語である\r\nだが騎士団総長ヨルシカはその意味を知らず\r\nただ兄の面影に、彼の物語を語るだろう\r\n\r\n復讐の意味は剣だけが知ればよい",
+      "eng": "Miracle of those who devoted themselves\r\nto the Darkmoon covenant.\r\n\r\nReinforces right weapon with Darkmoon light.\r\n\r\nMiracles of the Darkmoon are tales of revenge,\r\nbut Captain Yorshka recites only for\r\nthe sake of remembering her brother,\r\nwithout knowledge of its meaning.\r\n\r\nPerhaps this is better,\r\nas revenge is better left to the Blades."
+    },
+    "remark": {
+      "chn": "以暗月力量强化右手武器",
+      "jap": "右手の武器を暗月の光の力で強化する",
+      "eng": "Reinforce right weapon with Darkmoon light"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3591000.webp"
+  },
+  {
+    "id": "3640000",
+    "name": {
+      "chn": "黑剑",
+      "jap": "黒剣",
+      "eng": "Dark Blade"
+    },
+    "description": {
+      "chn": "隆道尔黑教会的奇迹。\r\n\r\n能让右手武器强化暗属性。\r\n\r\n黑教会的创始者之一——三女莉莉安妮，\r\n据说是位讲述游魂们的苦难及奋斗史的说书人。",
+      "jap": "ロンドール黒教会の奇跡\r\n\r\n右手の武器を闇強化する\r\n\r\n黒教会の創始者の一人、三女リリアーネは\r\n亡者たちの苦難と、戦いの語り部であるという",
+      "eng": "Miracle of the Sable Church of Londor.\r\n\r\nReinforces right weapon with dark.\r\n\r\nThe third daughter Liliane,\r\none of the founders of the Sable Church,\r\nis said to recount tales that portray\r\nthe suffering and conflict of Hollows."
+    },
+    "remark": {
+      "chn": "让右手武器强化暗属性",
+      "jap": "右手の武器を闇強化する",
+      "eng": "Reinforce right weapon with dark"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3640000.webp"
+  },
+  {
+    "id": "3700000",
+    "name": {
+      "chn": "死者活化",
+      "jap": "死者の活性",
+      "eng": "Dead Again"
+    },
+    "description": {
+      "chn": "隆道尔黑教会的亵渎奇迹。\r\n\r\n能赋予尸骸祝福，化成黑暗炸弹。\r\n\r\n在游魂之国隆道尔，不死人才是所谓的人。\r\n尸骸总归一句，只是无法兼容的生者造成的产物。\r\n给予这些尸骸祝福，有必要犹豫吗？",
+      "jap": "ロンドール黒教会の冒涜的奇跡\r\n\r\n死骸を祝福し、闇の爆弾と化す\r\n\r\n亡者の国ロンドールでは、不死こそが人であり\r\n死骸など、所詮相容れぬ生者たちのなれの果て\r\n祝福を躊躇う必要がどこにあろうか？",
+      "eng": "Sacrilegious miracle of the Sable Church of Londor.\r\n\r\nBless corpses, transforming them into traps.\r\n\r\nLondor, the Hollow Realm, is a society of undead,\r\ncomprised of the corpses and shades\r\nof those who led unsavory lives.\r\nIs such blessing really something one must ponder?"
+    },
+    "remark": {
+      "chn": "赋予尸骸祝福，化成黑暗炸弹",
+      "jap": "死骸を祝福し、闇の爆弾と化す",
+      "eng": "Bless corpses, transforming them into traps"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3700000.webp"
+  },
+  {
+    "id": "3710000",
+    "name": {
+      "chn": "雷电柱",
+      "jap": "雷の杭",
+      "eng": "Lightning Stake"
+    },
+    "description": {
+      "chn": "失传的猎龙奇迹。\r\n\r\n能刺入雷电柱。\r\n\r\n这个奇迹讲述关于被遗忘的猎龙方法。\r\n如果想贯穿龙鳞，只投掷雷电没有效果，\r\n必须直接在龙身上刺入雷电柱才行。",
+      "jap": "失われた竜狩りの奇跡\r\n\r\n雷の杭を叩き込む\r\n\r\nこの物語は忘れられた竜狩りの姿を伝えている\r\n竜のウロコを貫くのなら、雷を投げてはならぬ\r\nその手で直接、竜に杭を突き立てるのだと",
+      "eng": "A lost dragonslaying miracle.\r\n\r\nStrikes with a stake of lightning.\r\n\r\nThis tale describes the lost practices\r\nof ancient dragonslayers,\r\nwho found that in order to pierce dragonscale,\r\nlightning should not be hurled as a bolt,\r\nbut rather be thrust as a stake directly into\r\nthe dragon's hide, to be truly effective."
+    },
+    "remark": {
+      "chn": "刺入雷电柱",
+      "jap": "雷の杭を叩き込む",
+      "eng": "Strike with a stake of lightning"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3710000.webp"
+  },
+  {
+    "id": "3720000",
+    "name": {
+      "chn": "天使光柱",
+      "jap": "天使の光柱",
+      "eng": "Divine Pillars of Light"
+    },
+    "description": {
+      "chn": "“天使的女儿”葛慈德的奇迹。\r\n\r\n能在周围降下数道光柱。\r\n\r\n据说这是天使见到\r\n王妃的圣女──葛慈德之后，\r\n传授给她的故事。\r\n\r\n她失去了光明与声音，但却不停地记述着故事，\r\n那常人难以理解、堆栈得如山一般已绽线的书籍，\r\n正是洛斯里克天使信仰的渊源。",
+      "jap": "「天使の娘」ゲルトルードの奇跡\r\n\r\n周囲に幾つもの光の柱を落とす\r\n\r\n王妃の聖女であったゲルトルードは\r\n彼女のいう天使に見え、その物語を知ったという\r\n\r\n彼女は光と声を失い、だが物語を記し続けた\r\n常人には理解できぬ、破綻した書付の山が\r\nロスリック天使信仰の源流となったのだ",
+      "eng": "Miracle of Gertrude, the Heavenly Daughter.\r\n\r\nBrings down multiple pillars of light in vicinity.\r\n\r\nThe Queen's holy maiden Gertrude was visited by an angel,\r\nwho revealed this tale to her.\r\n\r\nDespite losing both her sight and her voice,\r\nshe was determined to record the tale.\r\nOrdinary men cannot decipher her fragmentary scrawl,\r\nnor comprehend how it became the foundation\r\nof the Angelic faith of Lothric."
+    },
+    "remark": {
+      "chn": "在周围降下数道光柱",
+      "jap": "周囲に幾つもの光の柱を落とす",
+      "eng": "Bring down multiple pillars of light in vicinity"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3720000.webp"
+  },
+  {
+    "id": "3730000",
+    "name": {
+      "chn": "猎命镰刀",
+      "jap": "生命狩りの鎌",
+      "eng": "Lifehunt Scythe"
+    },
+    "description": {
+      "chn": "吞噬神明的艾尔德利奇所用的奇迹。\r\n\r\n能以幻影镰刀夺取敌人的血量。\r\n\r\n艾尔德利奇吃掉暗月之神后，\r\n时不时会看到神明做的梦，\r\n梦中有个偷偷躲藏起来的苍白女孩。",
+      "jap": "神喰らいとなったエルドリッチの奇跡\r\n\r\n幻の鎌で、敵のＨＰを奪い取る\r\n\r\nエルドリッチは暗月の神を喰らい\r\n遅々としたその中に夢を見た\r\n密かに隠した、白い娘の夢を",
+      "eng": "Miracle of Aldrich, Devourer of Gods.\r\n\r\nSteals HP of foes using an illusory scythe.\r\n\r\nAldrich dreamt as he slowly devoured\r\nthe God of the Darkmoon.\r\nIn this dream, he perceived the form of\r\na young, pale girl in hiding."
+    },
+    "remark": {
+      "chn": "以幻影镰刀夺取敌人的血量",
+      "jap": "幻の鎌で、敵のＨＰを奪い取る",
+      "eng": "Steal HP of foes using an illusory scythe"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3730000.webp"
+  },
+  {
+    "id": "3750000",
+    "name": {
+      "chn": "##朵丽丝的虫",
+      "jap": "##ドーリスの蟲",
+      "eng": "##Dorris Swarm"
+    },
+    "description": {
+      "chn": "幽邃教堂传授的黑暗奇迹。\r\n是导师朵丽丝在发狂前传授的奇迹。\r\n\r\n能召唤一群虫子，从敌人体内开始蚕食。\r\n\r\n最终虫子会咬破敌人的身体，\r\n再把周围的一切啃噬殆尽。",
+      "jap": "深みの聖堂に伝わる暗い奇跡\r\n教導師ドーリスが、狂うその前に伝えたもの\r\n\r\n蟲の群れを召喚し、敵の体内に巣食わせる\r\n\r\nやがて蟲は、敵の体を食い破り\r\n周囲の全てを蝕むという",
+      "eng": "Dark miracle taught at the Cathedral of the Deep;\r\nimparted by the mentor Dorris before she lost her mind.\r\n\r\nSummon a swarm of insects that nestles within foes.\r\n\r\nThe insects bore completely through the body\r\nbefore continuing to erode everything in the vicinity."
+    },
+    "remark": {
+      "chn": "召唤一群虫子，从敌人体内开始蚕食",
+      "jap": "蟲の群れを召喚し、敵の体内に巣食わせる",
+      "eng": "Summon swarm of insects that nestles within foes"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3750000.webp"
+  },
+  {
+    "id": "3760000",
+    "name": {
+      "chn": "祝福武器",
+      "jap": "武器の祝福",
+      "eng": "Blessed Weapon"
+    },
+    "description": {
+      "chn": "授予洛斯里克骑士的奇迹。\r\n\r\n能赋予右手武器祝福，\r\n祝福能提升攻击力、渐渐地微幅恢复血量。\r\n\r\n骑士是三大支柱之一，\r\n而据说在贤者得到大书库之后，\r\n与主祭的关系更加紧密。",
+      "jap": "ロスリック騎士に授けられた奇跡\r\n\r\n右手の武器を祝福する\r\n祝福は攻撃力を高め、僅かずつＨＰを回復する\r\n\r\n騎士はロスリック三柱のひとつであり\r\n賢者が大書庫を得て後\r\n祭儀長との結びつきを強めたという",
+      "eng": "Miracle taught to Lothric Knights.\r\n\r\nBlesses right weapon, increasing attack power,\r\nas well as gradually restoring HP.\r\n\r\nThe Knight is one of the Three Pillars of Lothric,\r\nsaid to have strengthened ties with the High Priestess\r\nafter the Scholars acquired the Grand Archives."
+    },
+    "remark": {
+      "chn": "赋予右手武器祝福",
+      "jap": "右手の武器を祝福する",
+      "eng": "Bless right weapon"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3760000.webp"
+  },
+  {
+    "id": "3770000",
+    "name": {
+      "chn": "幽邃庇佑",
+      "jap": "深みの加護",
+      "eng": "Deep Protection"
+    },
+    "description": {
+      "chn": "幽邃教堂的主教群就任时\r\n被传授的奇迹。\r\n\r\n能渐渐提升攻击力、减伤率、抵抗力，\r\n以及精力的恢复速度。\r\n\r\n幽邃原本是静谧且神圣之地，\r\n也因此成为那些恐怖事物们的温床。\r\n这个深海故事能保护崇拜恐怖事物的祭祀者。",
+      "jap": "深みの聖堂の主教たちが\r\nその任に就くとき授かる奇跡\r\n\r\n攻撃力、カット率、耐性を少しずつ高め\r\nスタミナ回復速度も少し上げる\r\n\r\n深みは本来、静謐にして神聖であり\r\n故におぞましいものたちの寝床となる\r\nそれを祀る者たちもまた同様であり\r\n深い海の物語は、彼らに加護を与えるのだ",
+      "eng": "Miracle taught to inaugurated deacons\r\nof the Cathedral of the Deep.\r\n\r\nSlightly boosts attack, damage absorption and resistance,\r\nwhile also increasing stamina recovery speed.\r\n\r\nThe Deep was originally a peaceful and sacred place,\r\nbut became the final rest\r\nfor many abhorrent things.\r\nThis tale of the Deep offers protection\r\nfor those who worship amidst those horrors."
+    },
+    "remark": {
+      "chn": "稍微提升攻击力、减伤率、抵抗力，及精力的恢复速度",
+      "jap": "攻撃力、カット率、耐性、スタミナ回復を少し高める",
+      "eng": "Some extra ATK/absorption/resist/stamina recovery"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3770000.webp"
+  },
+  {
+    "id": "3780000",
+    "name": {
+      "chn": "赎罪",
+      "jap": "贖罪",
+      "eng": "Atonement"
+    },
+    "description": {
+      "chn": "隆道尔黑教会赐予放逐者的奇迹。\r\n\r\n将容易被敌人攻击。\r\n\r\n被放逐者不知道其他奇迹，\r\n他们坚信这个故事中仍有救赎。\r\n也认为被诅咒的旅行终有结束的一天。",
+      "jap": "ロンドール黒教会が追放者に贈る奇跡\r\n\r\n敵から狙われやすくなる\r\n\r\n追放者はこれ以外の物語を知らず\r\nまたその物語が許しであると信じている\r\n呪われた旅にも、いつか終わりがあるのだと",
+      "eng": "Miracle given to those cast out\r\nfrom the Sable Church of Londor.\r\n\r\nAttracts more attention from foes.\r\n\r\nThis is the only tale known by the exiles,\r\nwho believe it carries words of forgiveness.\r\nCursed journeys, too, must ultimately come to an end."
+    },
+    "remark": {
+      "chn": "容易被敌人攻击",
+      "jap": "敵から狙われやすくなる",
+      "eng": "Attract more attention from foes"
+    },
+    "type": "magic",
+    "game": 3,
+    "icon": "/icons/ds3/magics/3780000.webp"
+  }
+]

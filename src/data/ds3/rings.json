@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "20000",
+    "name": {
+      "chn": "生命戒指",
+      "jap": "生命の指輪",
+      "eng": "Life Ring"
+    },
+    "description": {
+      "chn": "自古传承下来的小颗红色宝石戒指，\r\n能提升血量上限。\r\n\r\n戒指里蕴藏各种不同的力量，\r\n如果在旅途中找到的话，\r\n一定能有很大的帮助吧。",
+      "jap": "古くから伝わる、小さな赤い宝石の指輪\r\n最大ＨＰを増やす\r\n\r\n指輪には、様々な力が込められている\r\n旅の途中でそれらを見つければ\r\n大きな助けになることだろう",
+      "eng": "A generations-old ring set with a small red jewel.\r\nRaises maximum HP.\r\n\r\nRings have unique powers,\r\nand their discovery will do much\r\nto ease a wearisome journey."
+    },
+    "remark": {
+      "chn": "提升血量上限",
+      "jap": "最大ＨＰを増やす",
+      "eng": "Raises maximum HP"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20000.webp"
+  },
+  {
+    "id": "20010",
+    "name": {
+      "chn": "绿花戒指",
+      "jap": "緑花の指輪",
+      "eng": "Chloranthy Ring"
+    },
+    "description": {
+      "chn": "依照大绿花形象设计而成的古老戒指。\r\n但这抹美丽的绿，早已不复当时的风采。\r\n\r\n提升精力恢复速度。",
+      "jap": "大輪の緑花を象った古い指輪\r\nだが美しい緑は、とうに失われている\r\n\r\nスタミナの回復速度を上げる",
+      "eng": "This old ring is named for its decorative green\r\nblossom, but its luster is long since faded.\r\n\r\nRaises stamina recovery speed."
+    },
+    "remark": {
+      "chn": "提升精力的恢复速度",
+      "jap": "スタミナの回復速度を上げる",
+      "eng": "Raises stamina recovery speed"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20010.webp"
+  },
+  {
+    "id": "20020",
+    "name": {
+      "chn": "哈维尔戒指",
+      "jap": "ハベルの指輪",
+      "eng": "Havel's Ring"
+    },
+    "description": {
+      "chn": "能承受高负重战士们的戒指。\r\n提升装备重量上限。\r\n\r\n这只戒指命名乃是源于“坚石”哈维尔，\r\n而他正以“#1初始薪王#3#2初始之王#3”葛温的战友身份闻名。\r\n\r\n从古至今，不见战争有所改变，\r\n而信奉哈维尔的信徒亦络绎不绝。",
+      "jap": "重厚をもってよしとする戦士たちの指輪\r\n最大装備重量を増やす\r\n\r\n最古の王グウィンの戦友として知られる\r\n「岩のような」ハベルに由来するという\r\n\r\n戦いは古くからその姿を変えず\r\nハベルの信奉者が絶えることはなかった",
+      "eng": "A ring for warriors keen on heavy accoutrements.\r\nIncreases maximum equip load.\r\n\r\nThis ring was named after Havel the Rock,\r\nthe battlefield compatriot of Gwyn, the First Lord.\r\n\r\nThe art of war has been a constant since ages past,\r\nand those who would follow in Havel's footsteps\r\nare no fewer now than in his own day."
+    },
+    "remark": {
+      "chn": "提升装备重量上限",
+      "jap": "最大装備重量を増やす",
+      "eng": "Increases maximum load"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20020.webp"
+  },
+  {
+    "id": "20030",
+    "name": {
+      "chn": "宠爱戒指",
+      "jap": "寵愛の指輪",
+      "eng": "Ring of Favor"
+    },
+    "description": {
+      "chn": "人人歌颂有着“天生美貌”的\r\n女神菲娜的宠爱戒指。\r\n\r\n女神的宠爱有如飞翔的蝴蝶捉摸不定。\r\n可同时提升装备者的血量、精力，以及装备重量上限。",
+      "jap": "「運命的な美しさ」を謡われる\r\n女神フィナの寵愛の指輪\r\n\r\n女神の寵愛は蝶のように移り気で\r\n最大ＨＰ、スタミナ、最大装備重量\r\n全てを増やす",
+      "eng": "A ring symbolizing the favor of the Goddess Fina,\r\nwhose \"fateful beauty\" is mentioned in legend.\r\n\r\nTrue to the fickle nature of Fina's favor,\r\nher ring increases max HP, stamina,\r\nand maximum equip load."
+    },
+    "remark": {
+      "chn": "能提升血量、精力与装备重量上限",
+      "jap": "最大ＨＰ、スタミナ、最大装備重量を増やす",
+      "eng": "Increases HP, stamina, and maximum equip load"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20030.webp"
+  },
+  {
+    "id": "20040",
+    "name": {
+      "chn": "钢铁庇佑戒指",
+      "jap": "鉄の加護の指輪",
+      "eng": "Ring of Steel Protection"
+    },
+    "description": {
+      "chn": "古老传说中骑士王的戒指。\r\n提升物理属性减伤率。\r\n\r\n骑士王不论何时都如钢铁一般，\r\n据说连巨大飞龙的爪子也无法重伤他。",
+      "jap": "古い伝説の騎士王の指輪\r\n物理カット率を高める\r\n\r\n騎士王はその内に鉄を抱き\r\n巨大な飛竜の爪ですらも\r\n彼を十分に傷つけなかったという",
+      "eng": "Ring of the Knight King of ancient legend.\r\nIncreases physical damage absorption.\r\n\r\nThe Knight King was said to be\r\nlined with steel on the inside,\r\nsuch that even the talons of\r\nmighty dragons did him little harm."
+    },
+    "remark": {
+      "chn": "提升物理属性减伤率",
+      "jap": "物理カット率を高める",
+      "eng": "Increases physical damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20040.webp"
+  },
+  {
+    "id": "20050",
+    "name": {
+      "chn": "火方石戒指",
+      "jap": "炎方石の指輪",
+      "eng": "Flame Stoneplate Ring"
+    },
+    "description": {
+      "chn": "作为骑士象征广为人知的方石戒指。\r\n\r\n红色戒指送给与混沌对峙的人。\r\n可提升火属性减伤率。",
+      "jap": "騎士の証として知られる方石の指輪\r\n\r\n赤いそれは、混沌に対する者に贈られ\r\n炎カット率を高める",
+      "eng": "Stoneplates are symbols of true knights,\r\nand red stoneplates are granted to those\r\nwho valiantly face Chaos.\r\n\r\nIncreases fire damage absorption."
+    },
+    "remark": {
+      "chn": "提升火属性减伤率",
+      "jap": "炎カット率を高める",
+      "eng": "Increases fire damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20050.webp"
+  },
+  {
+    "id": "20060",
+    "name": {
+      "chn": "雷方石戒指",
+      "jap": "雷方石の指輪",
+      "eng": "Thunder Stoneplate Ring"
+    },
+    "description": {
+      "chn": "作为骑士象征广为人知的方石戒指。\r\n\r\n黄色戒指送给以龙为目标的人。\r\n可提升雷属性减伤率。",
+      "jap": "騎士の証として知られる方石の指輪\r\n\r\n黄色いそれは、竜を目指す者に贈られ\r\n雷カット率を高める",
+      "eng": "Stoneplates are symbols of true knights,\r\nand yellow stoneplates are granted to\r\nthose who would become dragons.\r\n\r\nIncreases lightning damage absorption."
+    },
+    "remark": {
+      "chn": "提升雷属性减伤率",
+      "jap": "雷カット率を高める",
+      "eng": "Increases lightning damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20060.webp"
+  },
+  {
+    "id": "20070",
+    "name": {
+      "chn": "魔力方石戒指",
+      "jap": "魔力方石の指輪",
+      "eng": "Magic Stoneplate Ring"
+    },
+    "description": {
+      "chn": "作为骑士象征广为人知的方石戒指。\r\n\r\n蓝色戒指送给国王的禁卫军。\r\n可提升魔力属性减伤率。",
+      "jap": "騎士の証として知られる方石の指輪\r\n\r\n青いそれは、王の近衛たちに贈られ\r\n魔力カット率を高める",
+      "eng": "Stoneplates are symbols of true knights,\r\nand blue stoneplates are granted to\r\nthe royal palace guards.\r\n\r\nIncreases magic damage absorption."
+    },
+    "remark": {
+      "chn": "提升魔力属性减伤率",
+      "jap": "魔力カット率を高める",
+      "eng": "Increases magic damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20070.webp"
+  },
+  {
+    "id": "20080",
+    "name": {
+      "chn": "暗方石戒指",
+      "jap": "闇方石の指輪",
+      "eng": "Dark Stoneplate Ring"
+    },
+    "description": {
+      "chn": "作为骑士象征广为人知的方石戒指。\r\n\r\n黑紫色戒指送给不死人骑士们。\r\n可提升暗属性减伤率。",
+      "jap": "騎士の証として知られる方石の指輪\r\n\r\n黒紫のそれは、不死の騎士たちに贈られ\r\n闇カット率を高める",
+      "eng": "Stoneplates are symbols of true knights,\r\nand dark purple stoneplates are granted to\r\nUndead knights.\r\n\r\nIncreases dark damage absorption."
+    },
+    "remark": {
+      "chn": "提升暗属性减伤率",
+      "jap": "闇カット率を高める",
+      "eng": "Increases dark damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20080.webp"
+  },
+  {
+    "id": "20090",
+    "name": {
+      "chn": "斑方石戒指",
+      "jap": "斑方石の指輪",
+      "eng": "Speckled Stoneplate Ring"
+    },
+    "description": {
+      "chn": "作为骑士象征广为人知的方石戒指。\r\n\r\n含有四色的戒指，是无尽旅行的启程赠礼。\r\n稍微提升魔力、火、雷及暗属性的减伤率。",
+      "jap": "騎士の証として知られる方石の指輪\r\n\r\n四色斑のそれは、果てない旅立ちに贈られ\r\n炎、雷、魔力、闇\r\n全てのカット率を少し高める",
+      "eng": "Stoneplates are symbols of true knights,\r\nand speckled stoneplates are granted to\r\nthose who face an endless journey.\r\n\r\nSlightly increases magic, lightning, fire\r\nand dark damage absorption."
+    },
+    "remark": {
+      "chn": "稍微提升火、雷、暗、魔力属性的减伤率",
+      "jap": "炎、雷、魔力、闇のカット率を少し高める",
+      "eng": "Slightly ups magic, lightning, fire and dark damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20090.webp"
+  },
+  {
+    "id": "20100",
+    "name": {
+      "chn": "咬血戒指",
+      "jap": "血咬みの指輪",
+      "eng": "Bloodbite Ring"
+    },
+    "description": {
+      "chn": "由卡利姆所流传的“啮咬戒指”之一。\r\n可提升对出血的抵抗力。\r\n\r\n那柔和的石头反而让人有不吉利的感觉。\r\n据说制作方法是个禁忌，\r\n唯有圣职人员，才能够把玩它吧。",
+      "jap": "カリムに伝わる「咬み指輪」のひとつ\r\n出血耐性を高める\r\n\r\n柔らかな石に不吉を感じるものか\r\nその製法は禁忌であるという\r\n聖職者だけが、それを弄ぶのだろう",
+      "eng": "One of the bite rings native to Carim.\r\nIncreases bleed resistance.\r\n\r\nThe crafting of these rings is forbidden,\r\nperhaps owing to a fear of malleable stone.\r\nClerics, however, dabble freely in the art."
+    },
+    "remark": {
+      "chn": "提升对出血的抵抗力",
+      "jap": "出血耐性を高める",
+      "eng": "Increases bleed resistance"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20100.webp"
+  },
+  {
+    "id": "20110",
+    "name": {
+      "chn": "咬毒戒指",
+      "jap": "毒咬みの指輪",
+      "eng": "Poisonbite Ring"
+    },
+    "description": {
+      "chn": "由卡利姆所流传的“啮咬戒指”之一。\r\n可提升对毒的抵抗力。\r\n\r\n那柔和的石头反而让人有不吉利的感觉。\r\n据说制作方式是个禁忌，\r\n唯有圣职人员，才能够把玩它吧。",
+      "jap": "カリムに伝わる「咬み指輪」のひとつ\r\n毒耐性を高める\r\n\r\n柔らかな石に不吉を感じるものか\r\nその製法は禁忌であるという\r\n聖職者だけが、それを弄ぶのだろう",
+      "eng": "One of the bite rings native to Carim.\r\nIncreases poison resistance.\r\n\r\nThe crafting of these rings is forbidden,\r\nperhaps owing to a fear of malleable stone.\r\nClerics, however, dabble freely in the art."
+    },
+    "remark": {
+      "chn": "提升对毒的抵抗力",
+      "jap": "毒耐性を高める",
+      "eng": "Increases poison resistance"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20110.webp"
+  },
+  {
+    "id": "20120",
+    "name": {
+      "chn": "咬咒戒指",
+      "jap": "呪い咬みの指輪",
+      "eng": "Cursebite Ring"
+    },
+    "description": {
+      "chn": "由卡利姆所流传的“啮咬戒指”之一。\r\n可提升对咒死的抵抗力。\r\n\r\n那柔和的石头反而让人有不吉利的感觉。\r\n据说制作方式是个禁忌，\r\n唯有圣职人员，才能够把玩它吧。",
+      "jap": "カリムに伝わる「咬み指輪」のひとつ\r\n呪死耐性を高める\r\n\r\n柔らかな石に不吉を感じるものか\r\nその製法は禁忌であるという\r\n聖職者だけが、それを弄ぶのだろう",
+      "eng": "One of the bite rings native to Carim.\r\nIncreases curse resistance.\r\n\r\nThe crafting of these rings is forbidden,\r\nperhaps owing to a fear of malleable stone.\r\nClerics, however, dabble freely in the art."
+    },
+    "remark": {
+      "chn": "提升对咒死的抵抗力",
+      "jap": "呪死耐性を高める",
+      "eng": "Increases curse resistance"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20120.webp"
+  },
+  {
+    "id": "20130",
+    "name": {
+      "chn": "咬人戒指",
+      "jap": "人咬みの指輪",
+      "eng": "Fleshbite Ring"
+    },
+    "description": {
+      "chn": "由卡利姆所流传的“啮咬戒指”之一。\r\n可提升对出血、毒、寒气、咒死的抵抗力。\r\n\r\n那柔和的石头反而让人有不吉利的感觉。\r\n据说制作方式是个禁忌，\r\n唯有圣职人员，才能够把玩它吧。",
+      "jap": "カリムに伝わる「咬み指輪」のひとつ\r\n出血、毒、冷気、呪死\r\n全ての耐性を高める\r\n\r\n柔らかな石に不吉を感じるものか\r\nその製法は禁忌であるという\r\n聖職者だけが、それを弄ぶのだろう",
+      "eng": "One of the bite rings native to Carim.\r\nRaises poison, bleed, frost and curse resist.\r\n\r\nThe crafting of these rings is forbidden,\r\nperhaps owing to a fear of malleable stone.\r\nClerics, however, dabble freely in the art."
+    },
+    "remark": {
+      "chn": "提升对出血、毒、寒气、咒死的抵抗力",
+      "jap": "出血、毒、冷気、呪死の耐性を高める",
+      "eng": "Raises poison, bleed, curse and frost resist"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20130.webp"
+  },
+  {
+    "id": "20140",
+    "name": {
+      "chn": "木纹戒指",
+      "jap": "木目の指輪",
+      "eng": "Wood Grain Ring"
+    },
+    "description": {
+      "chn": "在东方国度制成的特殊戒指。\r\n虽然以金属制成，表面却有木纹。\r\n可以让装备耐久度变得不容易下降。\r\n\r\n同样使用东方国度所制刀剑的人，\r\n往往都会喜欢装备这个戒指。\r\n据说他们的刀剑都有特别的铭刻。",
+      "jap": "東の地で作られる特殊な指輪\r\n金属でありながら、表面には木目の文様があり\r\n装備の耐久度が減りにくくなる\r\n\r\n同じく東で作られる刀剣の使用者に\r\nこれを愛用する者が多い\r\n彼らは刀剣に、特別な銘を刻むという",
+      "eng": "This special ring crafted in an Eastern land is made of metal,\r\nbut with a wood grain crest on its surface.\r\nSlows equipment degradation.\r\n\r\nWielders of swords originating in the same region\r\nfollow a practice of inscribing special words\r\non the blades of their swords,\r\nand are naturally drawn to this ring."
+    },
+    "remark": {
+      "chn": "让装备的耐久度变得不容易下降",
+      "jap": "装備の耐久度が減りにくくなる",
+      "eng": "Slows equipment degradation"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20140.webp"
+  },
+  {
+    "id": "20150",
+    "name": {
+      "chn": "贤者戒指",
+      "jap": "賢者の指輪",
+      "eng": "Scholar Ring"
+    },
+    "description": {
+      "chn": "雕有贤者肖像的戒指。\r\n可提升智力。\r\n\r\n自古以来在洛斯里克，\r\n贤者是支持国王的三大支柱之一，\r\n据说因此拥有支配大书库的资格。",
+      "jap": "賢者の姿が刻まれた肖像の指輪\r\n理力を高める\r\n\r\n古くよりロスリックでは\r\n賢者は王を支える三柱のひとつとされ\r\n故に大書庫の領主たるを許されたという",
+      "eng": "A ring engraved with a portrait of a scholar.\r\nIncreases intelligence.\r\n\r\nIn Lothric, the Scholar has long been considered\r\none of the Three Pillars of the king's rule,\r\nand is therefore master of the Grand Archives."
+    },
+    "remark": {
+      "chn": "提升智力",
+      "jap": "理力を高める",
+      "eng": "Increases intelligence"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20150.webp"
+  },
+  {
+    "id": "20160",
+    "name": {
+      "chn": "主祭戒指",
+      "jap": "祭儀長の指輪",
+      "eng": "Priestess Ring"
+    },
+    "description": {
+      "chn": "雕有主祭肖像的戒指。\r\n可提升信仰。\r\n\r\n自古以来在洛斯里克，\r\n主祭是支持国王的三大支柱之一，\r\n据说通常皆为女性、且为王子的乳母担任。",
+      "jap": "祭儀長の姿が刻まれた肖像の指輪\r\n信仰を高める\r\n\r\n古くよりロスリックでは\r\n祭儀長は王を支える三柱のひとつとされた\r\nそれは常に女であり、王子の乳母でもあったという",
+      "eng": "A ring engraved with a portrait of the High Priestess.\r\nIncreases faith.\r\n\r\nIn Lothric, the High Priestess has long been\r\nconsidered one of the Three Pillars of the king's rule.\r\nThe High Priestess also served as the prince's wet nurse."
+    },
+    "remark": {
+      "chn": "提升信仰",
+      "jap": "信仰を高める",
+      "eng": "Increases faith"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20160.webp"
+  },
+  {
+    "id": "20170",
+    "name": {
+      "chn": "红泪石戒指",
+      "jap": "赤い涙石の指輪",
+      "eng": "Red Tearstone Ring"
+    },
+    "description": {
+      "chn": "以泪石为名的珍贵大宝石戒指。\r\n血量大幅减少时，攻击力会暂时提升。\r\n\r\n传说那是女神夸特所流下的哀悼眼泪，\r\n而正是因为与死亡相连，眼泪才显得美丽。",
+      "jap": "涙石と呼ばれる希少な大宝石の指輪\r\nＨＰが大きく減ると、攻撃力を一時的に高める\r\n\r\nそれは女神クァトの、悼みの涙であるという\r\nそして涙とは、死の側でこそ美しいものだ",
+      "eng": "A ring set with a large rare tearstone jewel.\r\nTemporarily boosts attack when HP is low.\r\n\r\nThis stone is said to be a tear of mourning\r\nof the goddess Caitha, and of course,\r\ntears are always more beautiful near death."
+    },
+    "remark": {
+      "chn": "当血量大幅减少时，攻击力会暂时提升",
+      "jap": "ＨＰが大きく減ると、攻撃力を一時的に高める",
+      "eng": "Boosts attacks when HP is low"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20170.webp"
+  },
+  {
+    "id": "20180",
+    "name": {
+      "chn": "蓝泪石戒指",
+      "jap": "青い涙石の指輪",
+      "eng": "Blue Tearstone Ring"
+    },
+    "description": {
+      "chn": "以泪石为名的珍贵大宝石戒指。\r\n血量大幅减少时，减伤率会暂时提升。\r\n\r\n传说那是女神夸特所流下的哀悼眼泪，\r\n而正是因为与死亡相连，眼泪才显得美丽。",
+      "jap": "涙石と呼ばれる希少な大宝石の指輪\r\nＨＰが大きく減ると、カット率を一時的に高める\r\n\r\nそれは女神クァトの、哀れみの涙であるという\r\nそして涙とは、死の側でこそ美しいものだ",
+      "eng": "A ring set with a large rare tearstone jewel.\r\nTemporarily boosts damage absorption when HP is low.\r\n\r\nThis stone is said to be a tear of sorrow\r\nof the goddess Caitha, and of course,\r\ntears are always more beautiful near death."
+    },
+    "remark": {
+      "chn": "当血量大幅减少时，减伤率会暂时提升",
+      "jap": "ＨＰが大きく減ると、カット率を一時的に高める",
+      "eng": "Increases damage absorption when HP is low"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20180.webp"
+  },
+  {
+    "id": "20190",
+    "name": {
+      "chn": "狼戒指",
+      "jap": "狼の指輪",
+      "eng": "Wolf Ring"
+    },
+    "description": {
+      "chn": "以侍奉“#1初始薪王#3#2初始之王#3”葛温的四骑士之一，\r\n“漫步深渊”亚尔特留斯之名流传下来的戒指。\r\n\r\n可提升强韧度。\r\n\r\n亚尔特留斯具有强韧的意志，绝不会怯懦。\r\n当他挥舞大剑，据说是所向彼靡。",
+      "jap": "最古の王グウィンに仕えた四騎士のひとり\r\n「深淵歩き」アルトリウスの名で伝わる指輪\r\n\r\n強靭度を高める\r\n\r\nアルトリウスは、強靭な意志により決して怯まず\r\n大剣を振るえば、まさに無双であったという",
+      "eng": "Ring associated with Abysswalker Artorias,\r\none of the Four Knights of Gwyn, the First Lord.\r\n\r\nIncreases poise.\r\n\r\nArtorias had an unbendable will of steel,\r\nand was unmatched with a greatsword."
+    },
+    "remark": {
+      "chn": "提升强韧度",
+      "jap": "強靭度を高める",
+      "eng": "Increases poise"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20190.webp"
+  },
+  {
+    "id": "20200",
+    "name": {
+      "chn": "狮子戒指",
+      "jap": "獅子の指輪",
+      "eng": "Leo Ring"
+    },
+    "description": {
+      "chn": "以侍奉“#1初始薪王#3#2初始之王#3”葛温的四骑士之一，\r\n“猎龙者”翁斯坦之名流传下来的戒指。\r\n\r\n可提升突刺属性的反击攻击力。\r\n\r\n翁斯坦是太阳长男的首席骑士，\r\n据说他的十字枪连岩石般的鳞片都能贯穿。",
+      "jap": "最古の王グウィンに仕えた四騎士のひとり\r\n「竜狩り」オーンスタインの名で伝わる指輪\r\n\r\n刺突属性のカウンター攻撃力を高める\r\n\r\nオーンスタインは、太陽の長子の筆頭騎士であり\r\nその十字槍は岩のウロコをも貫いたと言う",
+      "eng": "Ring associated with Dragon Slayer Ornstein,\r\none of the Four Knights of Gwyn, the First Lord.\r\n\r\nStrengthens thrust weapon counter attacks.\r\n\r\nOrnstein was the first knight of the sun's eldest born,\r\nand his cross spear is said to\r\nhave pierced scales made of stone."
+    },
+    "remark": {
+      "chn": "提升突刺属性的反击攻击力",
+      "jap": "刺突属性のカウンター攻撃力を高める",
+      "eng": "Strengthens thrust weapon counter attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20200.webp"
+  },
+  {
+    "id": "20210",
+    "name": {
+      "chn": "牺牲戒指",
+      "jap": "犠牲の指輪",
+      "eng": "Ring of Sacrifice"
+    },
+    "description": {
+      "chn": "通过牺牲仪式所制成，\r\n罪业女神蓓尔嘉的神秘戒指。\r\n\r\n装备者在死亡时，不会失去灵魂，\r\n但作为代价，将会失去戒指。\r\n\r\n牺牲的价值由被拯救者而定。",
+      "jap": "犠牲の儀式によって作られる\r\n罪の女神ベルカの、神秘の指輪\r\n\r\n死んだときソウルを手放さないが\r\n引き換えに、この指輪は失われる\r\n\r\n犠牲の価値は救う者次第だ",
+      "eng": "This mystical ring was created in a sacrificial rite of\r\nVelka, the Goddess of Sin.\r\n\r\nIts wearer will lose nothing upon death,\r\nbut the ring itself breaks.\r\n\r\nA sacrifice is only worth as much as the life it spares."
+    },
+    "remark": {
+      "chn": "死亡时不会失去灵魂，但会失去戒指",
+      "jap": "死んだときソウルを手放さないが、指輪は失われる",
+      "eng": "Lose nothing upon death, but ring breaks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20210.webp"
+  },
+  {
+    "id": "20220",
+    "name": {
+      "chn": "##宝贵牺牲戒指",
+      "jap": "##貴い犠牲の指輪",
+      "eng": "##Rare Ring of Sacrifice"
+    },
+    "description": {
+      "chn": "通过牺牲仪式所制成，\r\n是罪业女神蓓尔嘉的神秘戒指。\r\n其中，带有红色泽的戒指更加特别。\r\n\r\n装备者在死亡时，不会失去灵魂，\r\n也不会累积造成咒死的诅咒。\r\n但作为代价，将会失去戒指。\r\n\r\n牺牲的价值由被拯救者而定。",
+      "jap": "犠牲の儀式によって作られる\r\n罪の女神ベルカの、神秘の指輪\r\n中でも赤混じりは特別とされる\r\n\r\n死んだときソウルを手放さず\r\n呪死により呪いが蓄積することもないが\r\n引き換えに、この指輪は失われる\r\n\r\n犠牲の価値は救う者次第だ",
+      "eng": "This mystical ring was created in a sacrificial rite of\r\nVelka, the Goddess of Sin.\r\nThis magenta-shaded ring is especially rare.\r\n\r\nIts wearer will lose nothing upon death,\r\nand will be freed from any curse whatsoever,\r\nbut the ring itself breaks.\r\n\r\nA sacrifice is only worth as much as the life it spares."
+    },
+    "remark": {
+      "chn": "被咒死时不会累积诅咒，但会失去戒指",
+      "jap": "呪死したとき呪いが蓄積しないが、指輪は失われる",
+      "eng": "Breaks on death, but nothing lost, nullifies curse"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20220.webp"
+  },
+  {
+    "id": "20230",
+    "name": {
+      "chn": "稚嫩龙徽戒指",
+      "jap": "幼い竜印の指輪",
+      "eng": "Young Dragon Ring"
+    },
+    "description": {
+      "chn": "知名的魔法故乡彼海姆，\r\n与魔法师名号共同获赠的戒指。\r\n\r\n可提升魔法威力。\r\n\r\n其象征不朽古龙的徽印与龙学院相当匹配，\r\n有教导幼龙研究之路何其漫长之用。",
+      "jap": "魔術の故郷として知られるヴィンハイムにおいて\r\n魔術師の名と共に贈られた指輪\r\n\r\n魔術の威力を高める\r\n\r\n竜の学院に相応しく、その印は朽ちぬ古竜を象る\r\n幼い竜は、その先に続く探究の長きを教えるものだ",
+      "eng": "Ring given in Vinheim, home of sorcery,\r\nwhen newly ordained as a sorcerer.\r\n\r\nBoosts sorceries.\r\n\r\nApropos to the Dragon School,\r\nthe seal depicts an everlasting dragon.\r\nA young dragon presages the great length\r\nof the journey to mastery."
+    },
+    "remark": {
+      "chn": "提升魔法威力",
+      "jap": "魔術の威力を高める",
+      "eng": "Boosts sorceries"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20230.webp"
+  },
+  {
+    "id": "20231",
+    "name": {
+      "chn": "狂吼龙徽戒指",
+      "jap": "吠える竜印の指輪",
+      "eng": "Bellowing Dragoncrest Ring"
+    },
+    "description": {
+      "chn": "知名的魔法故乡彼海姆，\r\n赠与准许踏上研究旅行者的特殊戒指。\r\n\r\n可大幅提升魔法威力。\r\n\r\n其象征不朽古龙的徽印与龙学院相当匹配，\r\n也传达出“狂吼的龙是魔法师的理想内在”的含义。",
+      "jap": "魔術の故郷として知られるヴィンハイムにおいて\r\n探究の旅を許された者に贈られた特別な指輪\r\n\r\n魔術の威力を大きく高める\r\n\r\n竜の学院に相応しく、その印は朽ちぬ古竜を象る\r\n吠える竜は魔術師の理想、その内面を教えるものだ",
+      "eng": "A special ring given to those who are deemed fit\r\nto undertake the journey of discovery in Vinheim,\r\nhome of sorcery.\r\n\r\nGreatly boosts sorceries.\r\n\r\nApropos to the Dragon School,\r\nthe seal depicts an everlasting dragon.\r\nA bellowing dragon symbolizes the true nature\r\nof the consummate sorcerer."
+    },
+    "remark": {
+      "chn": "大幅提升魔法威力",
+      "jap": "魔術の威力を大きく高める",
+      "eng": "Greatly boosts sorceries"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20231.webp"
+  },
+  {
+    "id": "20240",
+    "name": {
+      "chn": "大沼戒指",
+      "jap": "大沼の指輪",
+      "eng": "Great Swamp Ring"
+    },
+    "description": {
+      "chn": "在大沼生活的畸形咒术师们\r\n以火蜥蜴的骨头加工的戒指。\r\n\r\n可提升咒术威力。\r\n\r\n火蜥蜴据信是恶魔的后裔，\r\n也就是与咒术同源，皆诞生自混沌火焰。",
+      "jap": "大沼に住まう異形の呪術師たちが\r\n火蜥蜴の骨を削り出したという指輪\r\n\r\n呪術の威力を高める\r\n\r\n火蜥蜴は、呪術のはじまりとなる混沌の火\r\nすなわちデーモンの末裔と信じられている",
+      "eng": "Ring said to be chiseled from the bone of\r\na flame salamander by blighted Pyromancers\r\nliving in the Great Swamp.\r\n\r\nBoosts pyromancies.\r\n\r\nIt is believed that salamanders\r\nare the descendants of demons,\r\nborn of the Chaos Flame,\r\nfrom which Pyromancy is also said to have originated."
+    },
+    "remark": {
+      "chn": "提升咒术威力",
+      "jap": "呪術の威力を高める",
+      "eng": "Boosts pyromancies"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20240.webp"
+  },
+  {
+    "id": "20241",
+    "name": {
+      "chn": "魔女们的戒指",
+      "jap": "魔女たちの指輪",
+      "eng": "Witch's Ring"
+    },
+    "description": {
+      "chn": "被混沌火焰洗礼过的伊札里斯的魔女们，\r\n将咒术传授给人们，并且赠与的戒指。\r\n\r\n可大幅提升咒术威力。\r\n\r\n据说魔女们告诉人们对火须敬畏，\r\n也为了让人们驾驭火焰而传授咒术。\r\n这是身为咒术师都知道的传说。",
+      "jap": "混沌の火に焼かれたイザリスの魔女たちが\r\n人に呪術を伝え、そして贈ったという指輪\r\n\r\n呪術の威力を大きく高める\r\n\r\n彼女たちは、火の畏れを伝え\r\nそれを御するため呪術を伝えたという\r\n呪術師なら誰もが知る、お伽噺だ",
+      "eng": "The Witch of Izalith and her daughters,\r\nscorched by the Flame of Chaos,\r\ntaught humans the art of pyromancy\r\nand offered them this ring.\r\n\r\nGreatly boosts pyromancies.\r\n\r\nEvery pyromancer is familiar with the parable that\r\ntells of the witches espousing the need to fear the flame,\r\nand teaching the art of pyromancy to men in hopes\r\nthat they might learn to control it."
+    },
+    "remark": {
+      "chn": "大幅提升咒术威力",
+      "jap": "呪術の威力を大きく高める",
+      "eng": "Greatly boosts pyromancies"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20241.webp"
+  },
+  {
+    "id": "20250",
+    "name": {
+      "chn": "摩恩戒指",
+      "jap": "モーンの指輪",
+      "eng": "Morne's Ring"
+    },
+    "description": {
+      "chn": "赋予卡利姆骑士的畸形戒指。\r\n可提升奇迹威力。\r\n\r\n摩恩是女神夸特的随从，\r\n据说后来成为#1卡利姆#3大主教的使徒，\r\n为抚慰弱者尽力。",
+      "jap": "カリムの騎士に与えられる異形の指輪\r\n奇跡の威力を高める\r\n\r\nモーンとは、女神クァトの従者であり\r\n後に大司教の使徒になったという\r\n全ての弱き者を慰める力として",
+      "eng": "A malformed ring given to knights of Carim.\r\n\r\nBoosts miracles.\r\n\r\nMorne served the goddess Caitha\r\nand later became an apostle of the Archbishop.\r\nThey labored together to provide comfort to the suffering."
+    },
+    "remark": {
+      "chn": "提升奇迹威力",
+      "jap": "奇跡の威力を高める",
+      "eng": "Boosts miracles"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20250.webp"
+  },
+  {
+    "id": "20251",
+    "name": {
+      "chn": "太阳长男戒指",
+      "jap": "太陽の長子の指輪",
+      "eng": "Ring of the Sun's First Born"
+    },
+    "description": {
+      "chn": "传说继承“#1初始薪王#3#2初始之王#3”葛温光芒的\r\n太阳长男的戒指。\r\n\r\n可大幅提升奇迹威力。\r\n\r\n太阳长男过去曾是战神，\r\n但因为他的愚昧被驱逐出神的行列，\r\n现在就连名字都没有被记载流传。",
+      "jap": "最古の王グウィンの光を継いだという\r\n太陽の長子の指輪\r\n\r\n奇跡の威力を大きく高める\r\n\r\n太陽の長子はかつて戦神であったが\r\nその愚かさにより、神を追われたという\r\nいまやその名前すら伝わっていない",
+      "eng": "Ring of the Sun's first born,\r\nwho inherited the light of Gwyn, the First Lord.\r\n\r\nGreatly boosts miracles.\r\n\r\nThe Sun's first born was once a god of war,\r\nuntil he was stripped of his stature\r\nas punishment for his foolishness.\r\nNo wonder his very name\r\nhas slipped from the annals of history."
+    },
+    "remark": {
+      "chn": "大幅提升奇迹威力",
+      "jap": "奇跡の威力を大きく高める",
+      "eng": "Greatly boosts miracles"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20251.webp"
+  },
+  {
+    "id": "20270",
+    "name": {
+      "chn": "伫立龙徽戒指",
+      "jap": "佇む竜印の指輪",
+      "eng": "Lingering Dragoncrest Ring"
+    },
+    "description": {
+      "chn": "知名的魔法故乡彼海姆，\r\n赠与准许踏上研究旅行者的特殊戒指。\r\n\r\n可延长法术的效果时间。\r\n\r\n其象征不朽古龙的徽印与龙学院相当匹配，\r\n也传达出“伫立的龙是魔法师的理想外在”的含义。",
+      "jap": "魔術の故郷として知られるヴィンハイムにおいて\r\n探究の旅を許された者に贈られた特別な指輪\r\n\r\n魔法の効果時間を延ばす\r\n\r\n竜の学院に相応しく、その印は朽ちぬ古竜を象る\r\n佇む竜は魔術師の理想、その外面を教えるものだ",
+      "eng": "A special ring given to those who are deemed fit\r\nto undertake the journey of discovery in Vinheim,\r\nhome of sorcery.\r\n\r\nExtends length of spell effect.\r\n\r\nApropos to the Dragon School,\r\nthe seal depicts an everlasting dragon.\r\nA lingering dragon symbolizes the true nature\r\nof the consummate sorcerer."
+    },
+    "remark": {
+      "chn": "延长法术的有效时间",
+      "jap": "魔法の効果時間を延ばす",
+      "eng": "Extends length of spell effect"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20270.webp"
+  },
+  {
+    "id": "20280",
+    "name": {
+      "chn": "老者戒指",
+      "jap": "古老の指輪",
+      "eng": "Sage Ring"
+    },
+    "description": {
+      "chn": "以结晶老者身份闻名的孪生老师，\r\n#1其部分结晶#3#2其中一人#3作为赠与法兰不死队的戒指。\r\n\r\n可缩短法术的咏唱时间。\r\n\r\n成为深渊监视者的法兰魔法师\r\n必定是孤独的战士。\r\n据说他们更爱好能用于实际战斗的魔法。",
+      "jap": "結晶の古老として知られる双子の導師\r\nその片割れがファランの不死隊に贈った指輪\r\n\r\n魔法の詠唱時間を短くする\r\n\r\n深淵の監視者の一員たるファランの魔術師は\r\nすべからく孤独な戦士であった\r\n彼らは、より実戦的な魔術を好んだという",
+      "eng": "A ring given to Farron's Undead Legion\r\nby one of the preacher twins,\r\nknown more commonly as the Crystal Sages.\r\n\r\nShortens spell casting time.\r\n\r\nThe sorcerers of Farron's Abyss Watchers\r\nwere known to be lonesome warriors\r\nwho would only rely upon more pragmatic spells."
+    },
+    "remark": {
+      "chn": "缩短法术的咏唱时间",
+      "jap": "魔法の詠唱時間を短くする",
+      "eng": "Shortens spell casting time"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20280.webp"
+  },
+  {
+    "id": "20290",
+    "name": {
+      "chn": "沉眠龙徽戒指",
+      "jap": "静かに眠る竜印の指輪",
+      "eng": "Slumbering Dragoncrest Ring"
+    },
+    "description": {
+      "chn": "知名的魔法故乡彼海姆，\r\n其潜藏暗处、见不得光的魔法师戒指。\r\n\r\n可消除装备者发出的声响。\r\n\r\n龙学院是彼海姆的实际支配者，\r\n据说有非常多优秀的密探。",
+      "jap": "魔術の故郷として知られるヴィンハイムにおいて\r\n密かにあった裏の魔術師たちの指輪\r\n\r\n装備者の出す音を消す\r\n\r\n竜の学院は、ヴィンハイムの実質的支配者であり\r\n多くの優秀な隠密を抱えていたという",
+      "eng": "Ring of a clandestine guild of sorcerers based in Vinheim,\r\nhome of sorcery.\r\n\r\nMasks the sound of its wearer.\r\n\r\nThe Dragon School held effective sovereignty over Vinheim,\r\nwith a great many adept assassins at its disposal."
+    },
+    "remark": {
+      "chn": "消除装备者发出的声响",
+      "jap": "装備者の出す音を消す",
+      "eng": "Masks the sounds of its wearer"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20290.webp"
+  },
+  {
+    "id": "20300",
+    "name": {
+      "chn": "幽暗宝冠戒指",
+      "jap": "宵闇の指冠",
+      "eng": "Dusk Crown Ring"
+    },
+    "description": {
+      "chn": "古代黄金魔法国度──乌拉席露，\r\n其公主出生时获得的草绿色宝冠戒指。\r\n\r\n可减少使用法术消耗的专注值，但血量也会随之减少。\r\n\r\n乌拉席露已经是失传魔法的代名词，\r\n而黄衣魔法师为其研究者。\r\n是现今遗留下为数不多的魔法产物之一。",
+      "jap": "古い黄金の魔術の国、ウーラシール\r\nその姫君に与えられたという若葉色の指冠\r\n\r\n魔法の消費ＦＰを減らすが、ＨＰも減ってしまう\r\n\r\nその国の名は、失われた魔術の代名詞でもあり\r\n黄衣の魔術師はその探究者である\r\nこの指冠は、数少ない魔術遺産のひとつなのだ",
+      "eng": "Leaf-colored crown ring bestowed\r\nupon the princess of Oolacile,\r\nancient land of golden sorceries.\r\n\r\nReduces spell FP consumption, but also lowers HP.\r\n\r\nOolacile is synonymous for its lost sorceries,\r\nof which the xanthous sorcerers are dedicated scholars.\r\nThis crown ring is a rare artifact of great magic heritage."
+    },
+    "remark": {
+      "chn": "减少使用法术消耗的专注值，但血量会减少",
+      "jap": "魔法の消費ＦＰを減らすが、ＨＰも減ってしまう",
+      "eng": "Reduces spell FP consumption, but also lowers HP"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20300.webp"
+  },
+  {
+    "id": "20310",
+    "name": {
+      "chn": "圣女戒指",
+      "jap": "聖女の指輪",
+      "eng": "Saint's Ring"
+    },
+    "description": {
+      "chn": "赋予卡利姆圣女的戒指，\r\n可增加记忆空格。\r\n\r\n在卡利姆，圣女是负责物语的传承者，\r\n能记忆好几册厚重的圣典，用美妙的声音述说，\r\n正因为如此，她们的名声极高。",
+      "jap": "カリムの聖女に与えられる指輪\r\n記憶スロットを増やす\r\n\r\nカリムでは、聖女は物語の語り部である\r\n分厚い聖書を何冊もよく覚え、よい声で語る\r\nそのように、彼女たちは名高い",
+      "eng": "A ring bestowed upon a Carim saint.\r\nAllows attunement of additional spells.\r\n\r\nIn Carim, the saints give voice to the ancient tales.\r\nThey memorize countless cumbersome sacred books\r\nand read them in sonorous tones,\r\na function for which they are widely renowned."
+    },
+    "remark": {
+      "chn": "增加记忆空格",
+      "jap": "記憶スロットを増やす",
+      "eng": "Allows attunement of additional spells"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20310.webp"
+  },
+  {
+    "id": "20320",
+    "name": {
+      "chn": "幽邃戒指",
+      "jap": "深みの指輪",
+      "eng": "Deep Ring"
+    },
+    "description": {
+      "chn": "赋予幽邃教堂主教群的戒指。\r\n可增加记忆空格。\r\n\r\n教堂是恐怖事物的寝房，\r\n因此主教群需要有壮大的故事──\r\n必须是能与其共存，却不会发狂的故事。",
+      "jap": "深みの聖堂、その主教たちに与えられる指輪\r\n記憶スロットを増やす\r\n\r\n聖堂はおぞましいものの寝床であり\r\n故に彼らには、大きな物語が必要だった\r\nおぞみと共に深くあり、狂わぬほどの物語が",
+      "eng": "A ring bestowed upon the Deacons of the Cathedral of the Deep.\r\nAllows attunement of additional spells.\r\n\r\nIn the Cathedral slumber things most terrible,\r\nand as such, the deacons require a grand narrative,\r\nto ensure they do not falter in their duty.\r\nA philosophy, to ward away the madness beckoned\r\nby the grotesqueries at hand."
+    },
+    "remark": {
+      "chn": "增加记忆空格",
+      "jap": "記憶スロットを増やす",
+      "eng": "Allows attunement of additional spells"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20320.webp"
+  },
+  {
+    "id": "20330",
+    "name": {
+      "chn": "暗月戒指",
+      "jap": "暗月の指輪",
+      "eng": "Darkmoon Ring"
+    },
+    "description": {
+      "chn": "“#1初始薪王#3#2初始之王#3”葛温的小儿子，\r\n暗月之神葛温德林的戒指。\r\n\r\n可大幅增加记忆空格。\r\n\r\n葛温德林被称为黯影太阳，\r\n率领着暗月骑士们，\r\n而这个戒指，据传是授予给优秀骑士的物品。",
+      "jap": "最古の王グウィンの末子\r\n暗月の神グウィンドリンの指輪\r\n\r\n記憶スロットを大きく増やす\r\n\r\n陰の太陽とも呼ばれるグウィンドリンは\r\n暗月の騎士たちを率い\r\nこの指輪を、優れた騎士に与えたという",
+      "eng": "Ring of the moon deity Gwyndolin,\r\nyoungest son of Gwyn, the First Lord.\r\n\r\nAdds many slots for attunement.\r\n\r\nGwyndolin, also known as the Dark Sun,\r\ncommands the Darkmoon Knights,\r\nand bestows this ring upon the best of them."
+    },
+    "remark": {
+      "chn": "大幅增加记忆空格",
+      "jap": "記憶スロットを大きく増やす",
+      "eng": "Adds many slots for attunement"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20330.webp"
+  },
+  {
+    "id": "20370",
+    "name": {
+      "chn": "老鹰戒指",
+      "jap": "鷹の指輪",
+      "eng": "Hawk Ring"
+    },
+    "description": {
+      "chn": "以侍奉“#1初始薪王#3#2初始之王#3”葛温的四骑士之一，\r\n“鹰眼”戈夫之名流传下来的戒指。\r\n\r\n可增加弓的攻击距离。\r\n\r\n据说巨人戈夫晚年在看不见的情况下，\r\n用大弓射下了灾厄的龙。",
+      "jap": "最古の王グウィンに仕えた四騎士のひとり\r\n「鷹の目」ゴーの名で伝わる指輪\r\n\r\n弓の射程距離を延ばす\r\n\r\n巨人ゴーは、晩年その目を塞がれてなお\r\nその大弓で災厄の竜を射落としたという",
+      "eng": "Ring associated with Hawkeye Gough,\r\none of the Four Knights of Gwyn, the First Lord.\r\n\r\nExtends the range of arrows.\r\n\r\nIn his later years, the giant Gough was blinded,\r\nbut this did not prevent him from striking down\r\na calamitous dragon with his Greatbow."
+    },
+    "remark": {
+      "chn": "增加弓的攻击距离",
+      "jap": "弓の射程距離を延ばす",
+      "eng": "Extends the range of bows"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20370.webp"
+  },
+  {
+    "id": "20380",
+    "name": {
+      "chn": "黄蜂戒指",
+      "jap": "スズメバチの指輪",
+      "eng": "Hornet Ring"
+    },
+    "description": {
+      "chn": "以侍奉“#1初始薪王#3#2初始之王#3”葛温的四骑士之一，\r\n“王的先锋”基亚蓝之名流传下来的戒指。\r\n\r\n可提升致命攻击力。\r\n\r\n据说假面的基亚蓝是四骑士中唯一的女性，\r\n曾用她的双曲剑歼灭了葛温王的敌人。",
+      "jap": "最古の王グウィンに仕えた四騎士のひとり\r\n「王の刃」キアランの名で伝わる指輪\r\n\r\n致命攻撃力を高める\r\n\r\n仮面のキアランは四騎士唯一の女性であり\r\nその双曲剣は王の敵ことごとくを抹殺したという",
+      "eng": "Ring associated with the Lord's Blade Ciaran,\r\none of the Four Knights of Gwyn, the First Lord.\r\n\r\nBoosts critical attacks.\r\n\r\nThe masked Ciaran was the only woman\r\nto serve in Gwyn's Four Knights,\r\nand her curved sword granted a swift death\r\nto any and all enemies of the throne."
+    },
+    "remark": {
+      "chn": "提升致命攻击力",
+      "jap": "致命攻撃力を高める",
+      "eng": "Boosts critical attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20380.webp"
+  },
+  {
+    "id": "20390",
+    "name": {
+      "chn": "贪婪金蛇戒指",
+      "jap": "貪欲な金の蛇の指輪",
+      "eng": "Covetous Gold Serpent Ring"
+    },
+    "description": {
+      "chn": "蛇是退化的龙，以蛇为形象制作的金戒指。\r\n可提升寻宝能力。\r\n\r\n蛇能吞下比自己身形还大的猎物，\r\n是以极度贪婪闻名的生物。\r\n\r\n既然对附加在身上的枷锁心生不满，\r\n有时也要靠满足贪欲来弥补吧。",
+      "jap": "竜のなりそこない、蛇を象った金の指輪\r\n発見力を高める\r\n\r\n蛇は、己よりも大きな獲物を丸のみにする\r\nきわめて貪欲な生物としても知られている\r\n\r\n嵌められた枷をよしとしないのなら\r\nときに貪欲も必要だろう",
+      "eng": "A gold ring depicting a snake that could have been,\r\nbut never was, a dragon.\r\nFallen foes are more likely to drop items.\r\n\r\nSnakes are known as creatures of great avarice,\r\ndevouring prey even larger than themselves\r\nby swallowing them whole.\r\n\r\nIf one's shackles are cause for discontent,\r\nperhaps it is time for some old-fashioned greed."
+    },
+    "remark": {
+      "chn": "提升寻宝能力",
+      "jap": "発見力を高める",
+      "eng": "Fallen foes are more likely to drop items"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20390.webp"
+  },
+  {
+    "id": "20400",
+    "name": {
+      "chn": "贪婪银蛇戒指",
+      "jap": "貪欲な銀の蛇の指輪",
+      "eng": "Covetous Silver Serpent Ring"
+    },
+    "description": {
+      "chn": "蛇是退化的龙，以蛇为形象制作的银戒指。\r\n可增加打倒敌人时吸收的灵魂量。\r\n\r\n蛇能吞下比自己身形还大的猎物，\r\n是以极度贪婪闻名的生物。\r\n\r\n既然对附加在身上的枷锁心生不满，\r\n有时也要靠满足贪欲来弥补吧。",
+      "jap": "竜のなりそこない、蛇を象った銀の指輪\r\n敵を倒したとき吸収するソウルを増やす\r\n\r\n蛇は、己よりも大きな獲物を丸のみにする\r\nきわめて貪欲な生物としても知られている\r\n\r\n嵌められた枷をよしとしないのなら\r\nときに貪欲も必要だろう",
+      "eng": "A silver ring depicting a snake that could have been,\r\nbut never was, a dragon.\r\nFallen foes yield more souls.\r\n\r\nSnakes are known as creatures of great avarice,\r\ndevouring prey even larger than themselves\r\nby swallowing them whole.\r\n\r\nIf one's shackles are cause for discontent,\r\nperhaps it is time for some old-fashioned greed."
+    },
+    "remark": {
+      "chn": "增加打倒敌人时吸收的灵魂量",
+      "jap": "敵を倒したとき吸収するソウルを増やす",
+      "eng": "Fallen foes yield more souls"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20400.webp"
+  },
+  {
+    "id": "20410",
+    "name": {
+      "chn": "太阳公主戒指",
+      "jap": "太陽の王女の指輪",
+      "eng": "Sun Princess Ring"
+    },
+    "description": {
+      "chn": "以“#1初始薪王#3#2初始之王#3”葛温的知名长女，\r\n阳光公主葛维艾薇雅之名流传下来的戒指。\r\n\r\n有如阳光般，让人感到些许温暖，\r\n可缓慢恢复血量。\r\n\r\n与众多神明一同离开故乡的她，\r\n据传成为妻子，也成为母亲，\r\n而后生下尊贵子嗣们。",
+      "jap": "最古の王グウィンの長女として知られる\r\n太陽の光の王女グウィネヴィアの名で伝わる指輪\r\n\r\nそれは陽光に似てわずかに温かく\r\nＨＰをゆっくりと回復する\r\n\r\n多くの神と共に故郷を去った彼女は\r\nやがて妻となり、母となった\r\nそして貴い子たちをもうけたという",
+      "eng": "Ring associated with Gwynevere,\r\nprincess of sunlight and eldest daughter of\r\nGwyn, the First Lord.\r\n\r\nThe ring is vaguely warm, like a beam of sunlight,\r\nand gradually restores HP.\r\n\r\nGwynevere left her home with a great many other deities,\r\nand became a wife and mother,\r\nraising several heavenly children."
+    },
+    "remark": {
+      "chn": "缓慢恢复血量",
+      "jap": "ＨＰをゆっくりと回復する",
+      "eng": "Gradually restores HP"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20410.webp"
+  },
+  {
+    "id": "20420",
+    "name": {
+      "chn": "银猫戒指",
+      "jap": "銀猫の指輪",
+      "eng": "Silvercat Ring"
+    },
+    "description": {
+      "chn": "以飞跃的猫为形象制作的银色戒指。\r\n掉落时完全不会受到伤害。\r\n\r\n神的时代，或者说，神还残存影响力的时代，\r\n据说有只年迈的猫会说人语，\r\n是有着老妪的声音，如同幻影般的不死猫。",
+      "jap": "飛び跳ねる猫を象った銀色の指輪\r\n落下ダメージを完全に無くす\r\n\r\n神の時代、あるいはその名残の時代\r\n年老いた猫は人語を介したという\r\n老女の声を持ち、幻のように不死であったと",
+      "eng": "Silver ring depicting a leaping feline.\r\nPrevents damage from falling.\r\n\r\nIn the Age of Gods, or possibly just following it,\r\nan old cat was said to speak a human tongue,\r\nwith the voice of an old woman,\r\nand the form of a fanciful immortal."
+    },
+    "remark": {
+      "chn": "掉落时不会受到伤害",
+      "jap": "落下ダメージを完全に無くす",
+      "eng": "Prevents damage from falling"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20420.webp"
+  },
+  {
+    "id": "20430",
+    "name": {
+      "chn": "头盖骨戒指",
+      "jap": "頭蓋の指輪",
+      "eng": "Skull Ring"
+    },
+    "description": {
+      "chn": "库尔兰所炼成的珍宝之一，\r\n由“噬魂”的灵魂炼成而来。\r\n\r\n会变得容易受到敌人攻击。\r\n\r\n据说“噬魂”是能无止尽地吸收灵魂，\r\n再将力量化为己有的怪物。\r\n那被诅咒的尸骸就算被燃烧殆尽，\r\n其灵魂的味道却久久不散。",
+      "jap": "クールラントが錬成した秘宝のひとつ\r\n「魂喰らい」のソウルに由来するもの\r\n\r\n敵から狙われやすくなる\r\n\r\n「魂喰らい」は無限のソウルを吸収し\r\n己の力とする化け物であったという\r\nその呪われた死骸が燃え尽きようと\r\nソウルの臭いの消えることはなかったと",
+      "eng": "One of Courland's transposed wonders.\r\nDerived from the soul of a Soulfeeder.\r\n\r\nEasier to be detected by enemies.\r\n\r\nThe Soulfeeder was a beast that\r\ninsatiably absorbed souls to feed its own power.\r\nEven after its accursed corpse was burned,\r\nit is said that the pungent stench of souls\r\nleft the air permanently stained."
+    },
+    "remark": {
+      "chn": "变得容易受到敌人攻击",
+      "jap": "敵から狙われやすくなる",
+      "eng": "Easier to be detected by enemies"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20430.webp"
+  },
+  {
+    "id": "20440",
+    "name": {
+      "chn": "白色伪装戒指",
+      "jap": "白い偽りの指輪",
+      "eng": "Untrue White Ring"
+    },
+    "description": {
+      "chn": "隆道尔游魂们所使用的\r\n其中一种伪装戒指。\r\n\r\n可变成非游魂的灵体外表。\r\n\r\n如果变成老弱不堪的模样，\r\n既能瞒骗众人眼光，又能隐藏自己。\r\n因此隆道尔的游魂常遭人嫌恶。",
+      "jap": "ロンドールの亡者たちが用いる\r\n偽りの指輪のひとつ\r\n\r\n亡者でない霊体の外見となる\r\n\r\n非力に老いさらばえ、欺瞞に満ち己を見せぬ\r\n故にロンドールの亡者は忌み嫌われるのだ",
+      "eng": "One of the illusory rings worn by the Hollows of Londor.\r\n\r\nTake the appearance of a phantom.\r\n\r\nThe Hollows of Londor are wretchedly aged,\r\nfraught with deceit, and dubiously secretive.\r\nIt is no wonder that they are deeply detested."
+    },
+    "remark": {
+      "chn": "变成非游魂的灵体外表",
+      "jap": "亡者でない霊体の外見となる",
+      "eng": "Take the appearance of a phantom"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20440.webp"
+  },
+  {
+    "id": "20450",
+    "name": {
+      "chn": "卡萨斯乳白戒指",
+      "jap": "カーサスの乳環",
+      "eng": "Carthus Milkring"
+    },
+    "description": {
+      "chn": "砂砾国的卡萨斯剑士们的戒指。\r\n可稍微提升敏捷，\r\n翻滚中的身影将变得不容易被看见。\r\n\r\n卡萨斯剑术能自在操控曲刀，\r\n据说动作也轻如飘飞的砂尘，\r\n能将对手玩弄于掌心。\r\n而他们随着霸王沃尼尔的名声\r\n共同席卷众多国家。",
+      "jap": "砂の国、カーサスの剣士たちの指輪\r\n技量を少し高め、ローリング時に姿が見えにくくなる\r\n\r\n曲刀を自在に用いるカーサスの剣技は\r\n砂塵のように身軽に、対手を翻弄したという\r\nそして彼らは、多くの国々を席巻した\r\n覇王ウォルニールの名と共に",
+      "eng": "Ring worn by warriors of the sand kingdom, Carthus.\r\nSlightly boosts dexterity\r\nand obscures the wearer while rolling.\r\n\r\nThe sword technique of Carthus allows for \r\nfluid movement with a curved sword.\r\nMasters of the technique are said to\r\ndazzle their opponents by moving\r\nas weightlessly as a grain of sand.\r\nThey live for their High Lord Wolnir,\r\nconqueror of most kingdoms known to their people."
+    },
+    "remark": {
+      "chn": "稍微提升敏捷，将难以看见翻滚中的身影",
+      "jap": "技量を少し高め、ローリング時に姿が見えにくくなる",
+      "eng": "Slightly boosts dexterity and obscures rolling"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20450.webp"
+  },
+  {
+    "id": "20460",
+    "name": {
+      "chn": "骑士戒指",
+      "jap": "騎士の指輪",
+      "eng": "Knight's Ring"
+    },
+    "description": {
+      "chn": "雕有骑士肖像的戒指。\r\n可提升力气。\r\n\r\n自古以来在洛斯里克，\r\n骑士是支持国王的三大支柱之一，\r\n据说因此被允许与龙为友。",
+      "jap": "騎士の姿が刻まれた肖像の指輪\r\n筋力を高める\r\n\r\n古くよりロスリックでは\r\n騎士は王を支える三柱のひとつとされ\r\n故に竜の友たるを許されたという",
+      "eng": "Ring engraved with a portrait of a knight.\r\nIncreases strength.\r\n\r\nIn Lothric, the Knight has long been considered\r\none of the Three Pillars of the king's rule,\r\nand were thus allowed to rear dragons."
+    },
+    "remark": {
+      "chn": "提升力气",
+      "jap": "筋力を高める",
+      "eng": "Increases strength"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20460.webp"
+  },
+  {
+    "id": "20470",
+    "name": {
+      "chn": "猎人戒指",
+      "jap": "狩人の指輪",
+      "eng": "Hunter's Ring"
+    },
+    "description": {
+      "chn": "雕有猎人肖像的戒指。\r\n可提升敏捷。\r\n\r\n自古以来，猎人常是洛斯里克的背后黑手。\r\n黑手拥有与三大支柱抗衡的力量，\r\n需要暗杀敌人时，历代国王都会吩咐他们去办。",
+      "jap": "狩人の姿が刻まれた肖像の指輪\r\n技量を高める\r\n\r\n狩人は、古くよりロスリックの黒い手であった\r\n三柱に対抗し、また密かに刑するために\r\n代々の王たちは黒い手を頼んだのだ",
+      "eng": "Ring engraved with a portrait of a hunter.\r\nIncreases dexterity.\r\n\r\nThe hunters serve Lothric on the fringes and in the shadows.\r\nFor generations, rulers of Lothric have relied especially\r\nupon the Black Hand hunters to punish enemies\r\nin ways that the king's Three Pillars cannot."
+    },
+    "remark": {
+      "chn": "提升敏捷",
+      "jap": "技量を高める",
+      "eng": "Increases dexterity"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20470.webp"
+  },
+  {
+    "id": "20480",
+    "name": {
+      "chn": "猎杀骑士戒指",
+      "jap": "騎士狩りの指輪",
+      "eng": "Knight Slayer's Ring"
+    },
+    "description": {
+      "chn": "因猎杀骑士卓力格闻名的戒指。\r\n\r\n可提升敌人持盾防御消耗的精力。\r\n\r\n卓力格曾与古老都城的守卫战士拼死战斗，\r\n据说他连同战士们的手指，\r\n将结冻的戒指抢夺而去。",
+      "jap": "騎士狩りゾリグの名で知られる指輪\r\n\r\n盾受けに対するスタミナ攻撃力を高める\r\n\r\nゾリグは、かつて古い都で守護戦士と死闘を演じ\r\n彼らの指ごと、凍りついた指輪を奪ったという",
+      "eng": "Ring of the savage Tsorig,\r\nmore commonly known as the Knight Slayer.\r\n\r\nEnemies lose more stamina when guarding attacks.\r\n\r\nLong ago, Tsorig engaged the guardians\r\nof an ancient city in a bloody confrontation,\r\nand returned with their rings as his prize,\r\nstill frozen on their dismembered fingers."
+    },
+    "remark": {
+      "chn": "提升敌人持盾防御消耗的精力",
+      "jap": "盾受けに対するスタミナ攻撃力を高める",
+      "eng": "Enemies lose more stamina when guarding attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20480.webp"
+  },
+  {
+    "id": "20490",
+    "name": {
+      "chn": "魔力怪手戒指",
+      "jap": "魔力の奇手の指輪",
+      "eng": "Magic Clutch Ring"
+    },
+    "description": {
+      "chn": "握着蓝石的怪异手掌戒指，\r\n虽然可以提升魔力属性攻击力，\r\n但会降低减伤率。\r\n\r\n根据隆道尔自古流传的传说，\r\n怪异手掌只会在屈服绝望者面前现身。",
+      "jap": "青石を掴む奇手の指輪\r\n魔力攻撃力を高めるが\r\nカット率が下がってしまう\r\n\r\nロンドールの古い言い伝えによれば\r\n絶望に心折れようとする者の前にこそ\r\n奇手の誘いが現れるのだという",
+      "eng": "Ring depicting a hand grasping a blue stone.\r\nIncreases magic attack,\r\nbut compromises damage absorption.\r\n\r\nAn old fable in Londor claims that the lure of\r\nthe clutch ring reaches out to the crestfallen,\r\nwho might otherwise be overcome by despair."
+    },
+    "remark": {
+      "chn": "提升魔力属性攻击力，但会降低减伤率",
+      "jap": "魔力攻撃力を高めるが、カット率が下がってしまう",
+      "eng": "Increases magic attack but compromises damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20490.webp"
+  },
+  {
+    "id": "20500",
+    "name": {
+      "chn": "雷电怪手戒指",
+      "jap": "雷の奇手の指輪",
+      "eng": "Lightning Clutch Ring"
+    },
+    "description": {
+      "chn": "握着黄石的怪异手掌戒指，\r\n虽然可以提升雷属性攻击力，\r\n但会降低减伤率。\r\n\r\n根据隆道尔自古流传的传说，\r\n怪异手掌只会在屈服绝望者面前现身。",
+      "jap": "黄石を掴む奇手の指輪\r\n雷攻撃力を高めるが\r\nカット率が下がってしまう\r\n\r\nロンドールの古い言い伝えによれば\r\n絶望に心折れようとする者の前にこそ\r\n奇手の誘いが現れるのだという",
+      "eng": "Ring depicting a hand grasping a yellow stone.\r\nIncreases lightning attack,\r\nbut compromises damage absorption.\r\n\r\nAn old fable in Londor claims that the lure of\r\nthe clutch ring reaches out to the crestfallen,\r\nwho might otherwise be overcome by despair."
+    },
+    "remark": {
+      "chn": "提升雷属性攻击力，但会降低减伤率",
+      "jap": "雷攻撃力を高めるが、カット率が下がってしまう",
+      "eng": "Increases lightning attack but compromises damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20500.webp"
+  },
+  {
+    "id": "20510",
+    "name": {
+      "chn": "火焰怪手戒指",
+      "jap": "炎の奇手の指輪",
+      "eng": "Fire Clutch Ring"
+    },
+    "description": {
+      "chn": "握着红石的怪异手掌戒指，\r\n虽然可以提升火属性攻击力，\r\n但会降低减伤率。\r\n\r\n根据隆道尔自古流传的传说，\r\n怪异手掌只会在屈服绝望者面前现身。",
+      "jap": "赤石を掴む奇手の指輪\r\n炎攻撃力を高めるが\r\nカット率が下がってしまう\r\n\r\nロンドールの古い言い伝えによれば\r\n絶望に心折れようとする者の前にこそ\r\n奇手の誘いが現れるのだという",
+      "eng": "Ring depicting a hand grasping a red stone.\r\nIncreases fire attack,\r\nbut compromises damage absorption.\r\n\r\nAn old fable in Londor claims that the lure of\r\nthe clutch ring reaches out to the crestfallen,\r\nwho might otherwise be overcome by despair."
+    },
+    "remark": {
+      "chn": "提升火属性攻击力，但会降低减伤率",
+      "jap": "炎攻撃力を高めるが、カット率が下がってしまう",
+      "eng": "Increases fire attack but compromises damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20510.webp"
+  },
+  {
+    "id": "20520",
+    "name": {
+      "chn": "暗怪手戒指",
+      "jap": "闇の奇手の指輪",
+      "eng": "Dark Clutch Ring"
+    },
+    "description": {
+      "chn": "握着蓝石的怪异手掌戒指，\r\n虽然可以提升暗属性攻击力，\r\n但会降低减伤率。\r\n\r\n根据隆道尔自古流传的传说，\r\n怪异手掌只会在屈服绝望者面前现身。",
+      "jap": "紫石を掴む奇手の指輪\r\n闇攻撃力を高めるが\r\nカット率が下がってしまう\r\n\r\nロンドールの古い言い伝えによれば\r\n絶望に心折れようとする者の前にこそ\r\n奇手の誘いが現れるのだという",
+      "eng": "Ring depicting a hand grasping a purple stone.\r\nIncreases dark attack,\r\nbut compromises damage absorption.\r\n\r\nAn old fable in Londor claims that the lure of\r\nthe clutch ring reaches out to the crestfallen,\r\nwho might otherwise be overcome by despair."
+    },
+    "remark": {
+      "chn": "提升暗属性攻击力，但会降低减伤率",
+      "jap": "闇攻撃力を高めるが、カット率が下がってしまう",
+      "eng": "Increases dark attack but compromises damage absorption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20520.webp"
+  },
+  {
+    "id": "20540",
+    "name": {
+      "chn": "弗林戒指",
+      "jap": "フリンの指輪",
+      "eng": "Flynn's Ring"
+    },
+    "description": {
+      "chn": "驰名于世的义贼弗林的戒指。\r\n装备重量数值越轻，攻击力越高。\r\n\r\n弗林借助风的力量战斗，\r\n是孱弱贫困人们的英雄。\r\n而崇拜者也心知肚明：\r\n一切不过是童话故事罢了。",
+      "jap": "義賊として謳われるフリンの指輪\r\n装備重量が少ないほど、攻撃力を高める\r\n\r\n風の力を助けに戦ったというフリンは\r\n小さく貧しい者たちの英雄である\r\nそして彼らは、それが夢物語であると知っている",
+      "eng": "Ring of Flynn, the eulogized thief.\r\nLowering equip load increases attack power.\r\n\r\nFlynn fought with the wind on his side,\r\nand was a hero among the weak and poor,\r\nyet even his admirers knew that\r\nit was little more than an idyllic fable."
+    },
+    "remark": {
+      "chn": "装备重量越轻，攻击力越高",
+      "jap": "装備重量が少ないほど、攻撃力を高める",
+      "eng": "Lowering equip load increases attack"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20540.webp"
+  },
+  {
+    "id": "20550",
+    "name": {
+      "chn": "俘虏锁链",
+      "jap": "虜囚の鎖",
+      "eng": "Prisoner's Chain"
+    },
+    "description": {
+      "chn": "曾经束缚古达的部分铁链。\r\n可提升生命力、持久力、体力，\r\n但受到的伤害也会增加。\r\n\r\n俘虏为了自由愿意付出任何代价，\r\n而受命运束缚的英雄，更是如此吧。",
+      "jap": "かつてグンダを縛った鉄鎖の一部\r\n生命力、持久力、体力が高まるが\r\n被ダメージも増えてしまう\r\n\r\n虜囚とは、自由の代償に全てを受け容れるものだ\r\n英雄の運命であれば尚更であろう",
+      "eng": "Portion of a steel chain used to restrain Gundyr.\r\nGain vigor, endurance, and vitality, but take extra damage.\r\n\r\nA prisoner is one who has staked everything on a belief,\r\na proclivity most apparent in the greatest of champions."
+    },
+    "remark": {
+      "chn": "提升生命力、持久力、体力，受到的伤害也会增加",
+      "jap": "生命力、持久力、体力が高まり、被ダメージも増える",
+      "eng": "Increases VGR, END and VIT, but take more damage"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20550.webp"
+  },
+  {
+    "id": "20560",
+    "name": {
+      "chn": "暗色伪装戒指",
+      "jap": "暗い偽りの指輪",
+      "eng": "Untrue Dark Ring"
+    },
+    "description": {
+      "chn": "隆道尔游魂们所使用的\r\n其中一种伪装戒指。\r\n\r\n可变成非游魂的实体外表。\r\n\r\n如果变成老弱不堪的模样，\r\n既能瞒骗众人眼光，又能隐藏自己。\r\n因此隆道尔的游魂常遭人嫌恶。",
+      "jap": "ロンドールの亡者たちが用いる\r\n偽りの指輪のひとつ\r\n\r\n亡者でない実体の外見となる\r\n\r\n非力に老いさらばえ、欺瞞に満ち己を見せぬ\r\n故にロンドールの亡者は忌み嫌われるのだ",
+      "eng": "One of the illusory rings worn by the Hollows of Londor.\r\n\r\nRetain human appearance while Hollow.\r\n\r\nThe Hollows of Londor are wretchedly aged,\r\nfraught with deceit, and dubiously secretive.\r\nIt is no wonder that they are deeply detested."
+    },
+    "remark": {
+      "chn": "变成非游魂的实体外表",
+      "jap": "亡者でない実体の外見となる",
+      "eng": "Retain human appearance while Hollow"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20560.webp"
+  },
+  {
+    "id": "20570",
+    "name": {
+      "chn": "##约亚戒指",
+      "jap": "##ヨアの指輪",
+      "eng": "##Yorgh's Ring"
+    },
+    "description": {
+      "chn": "为求龙血攻入萨尔瓦的\r\n英雄约亚的戒指。\r\n拥有弹开咒文的效果。\r\n\r\n抵达沉睡之龙的跟前时，\r\n约亚施出一闪，解放了龙血，\r\n却也招致了龙体内累积的剧毒\r\n扩散至整个王都的结果。",
+      "jap": "竜の血を求めてサルヴァに攻め入った\r\n英雄ヨアの指輪\r\nスペルを弾く効果がある\r\n\r\n眠り竜シンの元へ辿りつき\r\nヨアが放った一閃は竜の血を解き放った\r\nだが、同時に竜が蓄積した毒を\r\n都全体に拡散する結果となった",
+      "eng": "Ring of Sir Yorgh, who sought the blood\r\nof a dragon and invaded Shulva.\r\nCan deflect spells.\r\n\r\nWhen Sir Yorgh faced Sinh, the slumbering dragon,\r\nhe drew blood with a flash of his steel,\r\nbut Sinh responded by spewing forth\r\nthe poison that had long brewed within him,\r\nblanketing the city in a miasmic cloud."
+    },
+    "remark": {
+      "chn": "偶尔会弹开咒文",
+      "jap": "たまにスペルを弾く",
+      "eng": "Sometimes deflects spells"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20570.webp"
+  },
+  {
+    "id": "20580",
+    "name": {
+      "chn": "幻肢戒指",
+      "jap": "幻肢の指輪",
+      "eng": "Obscuring Ring"
+    },
+    "description": {
+      "chn": "赋予献上舌头的入侵者──\r\n罗莎莉亚的指头们的戒指。\r\n\r\n可在远处就隐藏装备者的身影。\r\n\r\n据说“重生之母”罗莎莉亚，\r\n被她#1的第一个#3#2最初的#3孩子夺去舌头。\r\n从那之后，她就一直等待#1孩子们#3#2他们#3归来。",
+      "jap": "舌を捧げる侵入者たち\r\nロザリアの指に与えられる指輪\r\n\r\n遠い距離で、装備者の姿を隠す\r\n\r\n生まれ変わりの母、ロザリアは\r\n最初の子に舌を奪われたという\r\n以来彼女は、それらを待っているのだと",
+      "eng": "Ring bestowed upon the Fingers of Rosaria,\r\ninvaders who seek tongues for their goddess.\r\n\r\nHides the presence of the wearer when far away.\r\n\r\nIt is said that Rosaria, the mother of rebirth,\r\nwas robbed of her tongue by her firstborn,\r\nand has been waiting for their return ever since."
+    },
+    "remark": {
+      "chn": "能在远处就隐藏装备者的身影",
+      "jap": "遠い距離で、装備者の姿を隠す",
+      "eng": "Obscures wearer while far away"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20580.webp"
+  },
+  {
+    "id": "20590",
+    "name": {
+      "chn": "邪眼戒指",
+      "jap": "邪眼の指輪",
+      "eng": "Ring of the Evil Eye"
+    },
+    "description": {
+      "chn": "封印过去袭击亚斯特拉的魔物──\r\n邪眼恶灵的戒指。\r\n\r\n打倒敌人时，能恢复血量。\r\n\r\n可怕的恶灵几乎摧毁了亚斯特拉，\r\n但据说最后被“尊贵符实者之剑”击退。",
+      "jap": "かつてアストラを襲ったという魔物\r\n邪眼の悪霊を封じ込めた指輪\r\n\r\n敵を倒したときＨＰを回復する\r\n\r\n恐るべき悪霊はアストラを崩壊寸前まで追い込み\r\nしかし「本当に貴い者の剣」の前に敗れ去ったという",
+      "eng": "This ring captured the foul spirit of an evil eye,\r\na creature that ravaged Astora.\r\n\r\nAbsorb HP from each defeated foe.\r\n\r\nThe horrid spirit nearly destroyed Astora,\r\nbut was eventually defeated by\r\n\"the sword of one most noble.\""
+    },
+    "remark": {
+      "chn": "打倒敌人时能恢复血量",
+      "jap": "敵を倒したときＨＰを回復する",
+      "eng": "Absorb HP from each defeated foe"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20590.webp"
+  },
+  {
+    "id": "20600",
+    "name": {
+      "chn": "灾难戒指",
+      "jap": "災厄の指輪",
+      "eng": "Calamity Ring"
+    },
+    "description": {
+      "chn": "灾难之龙的橙色眼眸戒指。\r\n受到的伤害加倍。\r\n\r\n作为戒指的效果不高，\r\n被当作龙信仰的象征秘密传承下来。\r\n有时信仰者会将其效果当成被赋予的考验。",
+      "jap": "災厄の竜、その橙の瞳の指輪\r\n被ダメージが倍になる\r\n\r\n指輪として有用な効果はなく\r\nただ竜信仰の対象として隠し伝えられている\r\nときに求道者は、それを己だけの試練と思いこむのだ",
+      "eng": "A ring made from the orange eye of a calamitous dragon.\r\nReceive double damage.\r\n\r\nThis ring has no useful powers,\r\nand is merely a symbol of dragon worship,\r\na thing quietly passed down\r\namongst its most fervent adherents,\r\nsome of whom become convinced the task\r\nhas been bestowed upon them as a sacred duty."
+    },
+    "remark": {
+      "chn": "受到的伤害加倍",
+      "jap": "被ダメージが倍になる",
+      "eng": "Receive double damage"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20600.webp"
+  },
+  {
+    "id": "20610",
+    "name": {
+      "chn": "法兰戒指",
+      "jap": "ファランの指輪",
+      "eng": "Farron Ring"
+    },
+    "description": {
+      "chn": "赋予法兰的不死队的戒指。\r\n可减少使用战技消耗的专注值。\r\n\r\n狩猎怪物的深渊的监视者们\r\n必须身怀超乎常人的剑术。\r\n狼血能提供监视者们力量，\r\n而这个戒指有辅助作用。",
+      "jap": "ファランの不死隊に与えられた指輪\r\n戦技の消費ＦＰを減らす\r\n\r\n深淵の監視者として化け物を狩る彼らには\r\n尋常を超えた剣技こそが必要であった\r\n狼の血がそれを与え、この指輪がそれを支えたのだ",
+      "eng": "A ring given to Undead Legion of Farron.\r\nReduces Skill FP consumption.\r\n\r\nThe Abyss Watchers, for their hunting,\r\nrequired a sword technique that\r\nwent beyond any existing art.\r\nWolf's blood provided just that,\r\nand this ring further extends the effect."
+    },
+    "remark": {
+      "chn": "减少使用战技消耗的专注值",
+      "jap": "戦技の消費ＦＰを減らす",
+      "eng": "Reduces Skill FP consumption"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20610.webp"
+  },
+  {
+    "id": "20620",
+    "name": {
+      "chn": "艾尔德利奇红石",
+      "jap": "エルドリッチの赤石",
+      "eng": "Aldrich's Ruby"
+    },
+    "description": {
+      "chn": "幽邃圣者艾尔德利奇留下的扭曲戒指。\r\n致命攻击时，能恢复血量。\r\n\r\n艾尔德利奇以骇人的食人行为闻名，\r\n而他渴望分享自己的看法：\r\n一边沐浴在悲鸣声中，一边感受生命的颤抖──\r\n这才是真正的进食方式。",
+      "jap": "深みの聖者エルドリッチの残した歪んだ指輪\r\n致命攻撃時にＨＰを回復する\r\n\r\nおぞましい人喰いで知られるエルドリッチは\r\nきっと伝えたいのだろう\r\n悲鳴に浴し、生命の震えをこそ喰らうやり方を",
+      "eng": "A malformed ring left by Aldrich, Saint of the Deep.\r\nRecovers HP from critical attacks.\r\n\r\nAldrich, infamous for his appetite for flesh,\r\napparently had the desire to share with others\r\nhis joy of imbibing the final shudders of life\r\nwhile luxuriating in his victim's screams."
+    },
+    "remark": {
+      "chn": "致命攻击时恢复血量",
+      "jap": "致命攻撃時にＨＰを回復する",
+      "eng": "Recovers HP from critical attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20620.webp"
+  },
+  {
+    "id": "20630",
+    "name": {
+      "chn": "艾尔德利奇蓝石",
+      "jap": "エルドリッチの青石",
+      "eng": "Aldrich's Sapphire"
+    },
+    "description": {
+      "chn": "幽邃圣者艾尔德利奇留下的扭曲戒指。\r\n致命攻击时，会恢复专注值。\r\n\r\n艾尔德利奇以骇人的食人行为闻名，\r\n而他渴望分享自己的看法：\r\n一边沐浴在悲鸣声中，一边感受生命的颤抖──\r\n这才是真正的进食方式。",
+      "jap": "深みの聖者エルドリッチの残した歪んだ指輪\r\n致命攻撃時にＦＰを回復する\r\n\r\nおぞましい人喰いで知られるエルドリッチは\r\nきっと伝えたいのだろう\r\n悲鳴に浴し、生命の震えをこそ喰らうやり方を",
+      "eng": "A malformed ring left by Aldrich, Saint of the Deep.\r\nRecovers FP from critical attacks.\r\n\r\nAldrich, infamous for his appetite for flesh,\r\napparently had the desire to share with others\r\nhis joy of imbibing the final shudders of life\r\nwhile luxuriating in his victim's screams."
+    },
+    "remark": {
+      "chn": "致命攻击时恢复专注值",
+      "jap": "致命攻撃時にＦＰを回復する",
+      "eng": "Recovers FP from critical attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20630.webp"
+  },
+  {
+    "id": "20660",
+    "name": {
+      "chn": "洛伊德剑徽戒指",
+      "jap": "ロイドの剣の指輪",
+      "eng": "Lloyd's Sword Ring"
+    },
+    "description": {
+      "chn": "侍奉白教的骑士被赋予的戒指。\r\n仿造主神洛伊德的法剑制成。\r\n\r\n血量全满时，将暂时提升攻击力。\r\n\r\n但白教的洛伊德早已无人信仰，\r\n而且卡利姆的圣职们高声主张：\r\n洛伊德不过是#1分支#3#2旁系#3，称呼主神是喧宾夺主。",
+      "jap": "白教に仕える騎士に与えられる指輪\r\n主神ロイドの法の剣を象っている\r\n\r\nＨＰが最大のとき、攻撃力を一時的に高める\r\n\r\nだが白教のロイド信仰は、今や廃れて久しい\r\nカリムの司祭たちは声高に主張する\r\nロイドは傍系にすぎず、主神を僭称したのだと",
+      "eng": "Ring given to knights of the Way of White.\r\nDepicts Allfather Lloyd's Sword of Law.\r\n\r\nBoosts attack power when HP is full.\r\n\r\nMuch time has passed since the worship of Lloyd\r\nwas common in the Way of White.\r\nThe clerics of Carim had always strongly asserted that\r\nLloyd was a derivative fraud,\r\nand that the Allfather title was self-proclaimed."
+    },
+    "remark": {
+      "chn": "血量全满时，暂时提升攻击力",
+      "jap": "ＨＰが最大のとき、攻撃力を一時的に高める",
+      "eng": "Boosts attacks when HP is full"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20660.webp"
+  },
+  {
+    "id": "20670",
+    "name": {
+      "chn": "洛伊德盾徽戒指",
+      "jap": "ロイドの盾の指輪",
+      "eng": "Lloyd's Shield Ring"
+    },
+    "description": {
+      "chn": "侍奉白教的骑士被赋予的戒指。\r\n仿造主神洛伊德的阶级盾制成。\r\n\r\n血量全满时，将暂时提升减伤率。\r\n\r\n但白教的洛伊德早已无人信仰，\r\n而且卡利姆的圣职们高声主张：\r\n洛伊德不过是#1分支#3#2旁系#3，称呼主神是喧宾夺主。",
+      "jap": "白教に仕える騎士に与えられる指輪\r\n主神ロイドの階級の盾を象っている\r\n\r\nＨＰが最大のとき、カット率を一時的に高める\r\n\r\nだが白教のロイド信仰は、今や廃れて久しい\r\nカリムの司祭たちは声高に主張する\r\nロイドは傍系にすぎず、主神を僭称したのだと",
+      "eng": "Ring given to knights of the Way of White.\r\nDepicts Allfather Lloyd's Shield of Caste.\r\n\r\nBoosts damage absorption when HP is full.\r\n\r\nMuch time has passed since the worship of Lloyd\r\nwas common in the Way of White.\r\nThe clerics of Carim had always strongly asserted that\r\nLloyd was a derivative fraud,\r\nand that the Allfather title was self-proclaimed."
+    },
+    "remark": {
+      "chn": "血量全满时，暂时提升减伤率",
+      "jap": "ＨＰが最大のとき、カット率を一時的に高める",
+      "eng": "Boosts damage absorption when HP is full"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20670.webp"
+  },
+  {
+    "id": "20690",
+    "name": {
+      "chn": "##隐蔽戒指",
+      "jap": "##隠蔽の指輪",
+      "eng": "##Ring of Hiding"
+    },
+    "description": {
+      "chn": "不让敌人感受到气息的戒指，\r\n对距离较远的暗灵隐身。\r\n\r\n对于入侵者消除装备者的气息,\r\n隐藏自身存在。\r\n但在接近时效果会弱化。",
+      "jap": "敵対者に気配を悟らせない指輪\r\n距離の離れた闇霊から姿を隠す\r\n\r\n装備者の気配を消し、世界の侵入者から\r\n存在自体を隠蔽する\r\nしかし、その効果は接近を許すと薄れてしまうだろう",
+      "eng": "Masks one's presence from adversaries.\r\nHides the wearer from Dark Spirits at a distance.\r\n\r\nThe wearer's presence is obscured,\r\nconcealing their very existence from invaders of that world.\r\nHowever, if permitted to get close, the effect will fade."
+    },
+    "remark": {
+      "chn": "对距离较远的暗灵隐身",
+      "jap": "距離の離れた闇霊から姿を隠す",
+      "eng": "Hides the wearer from Dark Spirits at a distance"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20690.webp"
+  },
+  {
+    "id": "20700",
+    "name": {
+      "chn": "原素戒指",
+      "jap": "エストの指輪",
+      "eng": "Estus Ring"
+    },
+    "description": {
+      "chn": "由碎片制成的绿色戒指。\r\n可提升原素瓶恢复的血量。\r\n\r\n据说这是托付给某位防火女的戒指，\r\n但是到最后一刻，她还是没能遇到英雄。\r\n这则传说化作经典悲剧为人津津乐道。",
+      "jap": "かけらから作られた緑色の指輪\r\nエスト瓶のＨＰ回復量を高める\r\n\r\nそれはある火防女に託され\r\nだが彼女は、終に英雄に出会えなかったという\r\nやがて愚か者の悲劇は、大衆好みの伝承となった",
+      "eng": "A green ring crafted from shards.\r\nIncreases HP restored by Estus Flask.\r\n\r\nThis ring was entrusted to a certain Fire Keeper,\r\nbut in the end she never met her champion,\r\nand the ensuing tragic farce became\r\na favorite tale of the masses."
+    },
+    "remark": {
+      "chn": "提升原素瓶恢复的血量",
+      "jap": "エスト瓶のＨＰ回復量を高める",
+      "eng": "Increases HP restored with Estus Flask"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20700.webp"
+  },
+  {
+    "id": "20710",
+    "name": {
+      "chn": "原素灰戒指",
+      "jap": "エストの灰指輪",
+      "eng": "Ashen Estus Ring"
+    },
+    "description": {
+      "chn": "由碎片制成的灰色结晶戒指。\r\n可提升原素灰瓶恢复的专注值。\r\n\r\n据说这原来是献给王妃的戒指，\r\n而她把戒指供奉在无主墓地里，\r\n希望有一天，无火的余灰能够拿走。",
+      "jap": "かけらから作られた灰結晶の指輪\r\nエストの灰瓶のＦＰ回復量を高める\r\n\r\nあるとき王妃の元にもたらされ\r\n彼女はそれを無縁墓地に祀ったという\r\nいつか火の無き灰が、それを手にするように",
+      "eng": "Gray crystalline ring crafted from shards.\r\nIncreases FP restored by Ashen Estus Flask.\r\n\r\nOnce a treasure brought before Lothric's Queen,\r\nshe had it enshrined in the Cemetery of Untended Graves,\r\nso that one day an Unkindled might profit from its use."
+    },
+    "remark": {
+      "chn": "提升原素灰瓶恢复的专注值",
+      "jap": "エストの灰瓶のＦＰ回復量を高める",
+      "eng": "Increases FP restored with Ashen Estus Flask"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20710.webp"
+  },
+  {
+    "id": "20720",
+    "name": {
+      "chn": "马腿戒指",
+      "jap": "馬脚の指輪",
+      "eng": "Horsehoof Ring"
+    },
+    "description": {
+      "chn": "刻着马腿图徽的古老戒指。\r\n可提升踢击的攻击力。\r\n\r\n此为不屈不挠的帕奇喜爱的戒指。\r\n帕奇喜欢把中陷阱的猎物踢下去，\r\n而他的同伙总会笑帕奇变不出新把戏。\r\n\r\n所以啊，你露出马脚的日子也不远了。",
+      "jap": "馬の足が刻印された古い指輪\r\n蹴りの攻撃力を高める\r\n\r\n不屈のパッチはこれを愛用し\r\n罠にはめた相手を蹴り落としていたが\r\nそれは後ろめたい仲間の嘲笑の的でもあった\r\n\r\nだからお前は、すぐに馬脚をあらわすのだと",
+      "eng": "An old ring with a seal depicting a horse's hoof.\r\nBoosts kick effect.\r\n\r\nUnbreakable Patches adored this ring and the feeling that\r\nit gave it him when he kicked his marks\r\ninto the depths of treacherous traps,\r\nbut suffered no shortage of ridicule from his associates\r\nfor relying so heavily on the tired old trick.\r\n\r\nBut who is the sorrier? The horse who knows only to kick,\r\nor the fool who approaches the old beast without thought?"
+    },
+    "remark": {
+      "chn": "提升踢击的攻击力",
+      "jap": "蹴りの攻撃力を高める",
+      "eng": "Boosts kick effect"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20720.webp"
+  },
+  {
+    "id": "20730",
+    "name": {
+      "chn": "卡萨斯血环",
+      "jap": "カーサスの血環",
+      "eng": "Carthus Bloodring"
+    },
+    "description": {
+      "chn": "砂砾国的卡萨斯剑士们的戒指。\r\n可提升翻滚的回避能力，\r\n但受到的伤害增加。\r\n\r\n卡萨斯剑术能自在操控曲刀，\r\n据说动作也轻如飘飞的砂尘，\r\n能将对手玩弄于掌心。\r\n而他们随着霸王沃尼尔的名声\r\n共同席卷众多国家。",
+      "jap": "砂の国、カーサスの剣士たちの指輪\r\nローリングの回避性能が上がるが\r\n被ダメージも増えてしまう\r\n\r\n曲刀を自在に用いるカーサスの剣技は\r\n砂塵のように身軽に、対手を翻弄したという\r\nそして彼らは、多くの国々を席巻した\r\n覇王ウォルニールの名と共に",
+      "eng": "Ring worn by warriors of the sand kingdom, Carthus.\r\nBoosts rolling invincibility, at the cost of defense.\r\n\r\nThe sword technique of Carthus allows for\r\nfluid movement with a curved sword.\r\nMasters of the technique are said to dazzle their opponents\r\nby moving as weightlessly as a grain of sand.\r\nThey live for their High Lord Wolnir,\r\nconqueror of most kingdoms known to their people."
+    },
+    "remark": {
+      "chn": "提升翻滚的回避能力，但受到的伤害增加",
+      "jap": "ローリングの回避性能が上がり、被ダメージも増える",
+      "eng": "Boosts rolling invincibility, at the cost of defense"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20730.webp"
+  },
+  {
+    "id": "20740",
+    "name": {
+      "chn": "化生戒指",
+      "jap": "化生の指輪",
+      "eng": "Reversal Ring"
+    },
+    "description": {
+      "chn": "暗月之神葛温德林\r\n幼时获得的神秘戒指。\r\n\r\n男性会变成女性，女性则会变成男性，\r\n能变成异性的举止。\r\n\r\n他因为月亮的力量，以女儿身被养育长大。\r\n而他的一举一动有如阴郁虚幻的女神。",
+      "jap": "暗月の神グウィンドリンに\r\n幼き頃与えられた神秘の指輪\r\n\r\n男性であれば女性、女性であれば男性に\r\n動作が別性のものに変化する\r\n\r\n彼はその月の力から、娘として育てられ\r\n暗く儚い女神のごとく振る舞ったという",
+      "eng": "A divine ring granted to\r\nthe Darkmoon Gwyndolin in his youth.\r\n\r\nCauses males to perform female actions,\r\nand vice-versa.\r\n\r\nGwyndolin was raised like a daughter\r\nthrough the aura of the moon,\r\nand was said to behave like a sullen brooding goddess."
+    },
+    "remark": {
+      "chn": "能变成异性的举止",
+      "jap": "動作が別性のものに変化する",
+      "eng": "Males can perform female actions and vice versa"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20740.webp"
+  },
+  {
+    "id": "20750",
+    "name": {
+      "chn": "教宗右眼",
+      "jap": "法王の右眼",
+      "eng": "Pontiff's Right Eye"
+    },
+    "description": {
+      "chn": "教宗沙力万授予骑士们的魔质戒指。\r\n越持续攻击，攻击力会越高。\r\n\r\n凝视这黑色眼眸后将变得情绪高昂，\r\n会有拼死战斗的欲望，\r\n而最后，骑士将降格为野兽般的狂战士。\r\n因此教宗只在骑士出外征战时，才赐予此物。",
+      "jap": "法王サリヴァーンが騎士たちに与えた魔性の指輪\r\n攻撃が連続するほど、攻撃力が高まる\r\n\r\nその黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い\r\nやがて騎士を獣のような狂戦士に貶めてしまう\r\n故に法王は、外征に際してのみこれを与えたという",
+      "eng": "Bewitched ring that Pontiff Sulyvahn\r\nbestowed upon his knights.\r\n\r\nBoosts attacks, as long as attacking persists.\r\n\r\nKnights who peer into the black orb\r\nare lured into battles of death,\r\ntransformed into frenzied beasts.\r\nNo wonder the Pontiff only provides these rings\r\nto those dispatched to foreign lands."
+    },
+    "remark": {
+      "chn": "越持续攻击，攻击力越高",
+      "jap": "攻撃が連続するほど、攻撃力が高まる",
+      "eng": "Boosts attacks, as long as attacking persists"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20750.webp"
+  },
+  {
+    "id": "20760",
+    "name": {
+      "chn": "##持续坚定戒指",
+      "jap": "##継続する堅固の指輪",
+      "eng": "##Ring of Sustained Toughness"
+    },
+    "description": {
+      "chn": "将装备人员的战斗意志转化为力量的戒指。\r\n越持续攻击，防御力越高。\r\n\r\n将已故英雄的能力寄宿在装备者身上，\r\n只允许被选中的勇者使用。",
+      "jap": "装備者の戦う意思を力に変える指輪\r\n攻撃が持続する限り、防御力を高める\r\n\r\n今は亡き英雄の異能が装備者に宿るとされ\r\n選ばれし勇者にのみ使用が許されるという",
+      "eng": "Wearer's will to fight is converted into strength.\r\nBoosts defense,\r\nas long as attacking persists.\r\n\r\nThe unnatural ability of a late hero\r\ndwells within this ring,\r\nthe use of which was permitted\r\nto only a select and valiant few."
+    },
+    "remark": {
+      "chn": "越持续攻击，防御力越高",
+      "jap": "攻撃が持続する限り、防御力を高める",
+      "eng": "Boosts defense, as long as attacking persists"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20760.webp"
+  },
+  {
+    "id": "20770",
+    "name": {
+      "chn": "##持续活力戒指",
+      "jap": "##継続する活力の指輪",
+      "eng": "##Ring of Sustained Energy"
+    },
+    "description": {
+      "chn": "将装备人员的战斗意志转化为力量的戒指。\r\n持续攻击能恢复精力的恢复速度。\r\n\r\n将已故英雄的能力寄宿在装备者身上，\r\n只允许被选中的勇者使用。",
+      "jap": "装備者の戦う意思を力に変える指輪\r\n攻撃が持続する限り、スタミナ回復速度を高める\r\n\r\n今は亡き英雄の異能が装備者に宿るとされ\r\n選ばれし勇者にのみ使用が許されるという",
+      "eng": "Wearer's will to fight is converted into strength.\r\nBoosts stamina recovery speed,\r\nas long as attacking persists.\r\n\r\nThe unnatural ability of a late hero\r\ndwells within this ring,\r\nthe use of which was permitted\r\nto only a select and valiant few."
+    },
+    "remark": {
+      "chn": "持续攻击能恢复精力的恢复速度",
+      "jap": "攻撃が持続する限り、スタミナ回復速度を高める",
+      "eng": "Boosts stamina recovery speed, as long as attacking persists"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20770.webp"
+  },
+  {
+    "id": "20780",
+    "name": {
+      "chn": "##持续魔力戒指",
+      "jap": "##継続する魔力の指輪",
+      "eng": "##Ring of Sustained Magic"
+    },
+    "description": {
+      "chn": "将装备人员的战斗意志转化为力量的戒指。\r\n越持续攻击，魔法攻击力越高。\r\n\r\n将已故英雄的能力寄宿在装备者身上，\r\n只允许被选中的勇者使用。",
+      "jap": "装備者の戦う意思を力に変える指輪\r\n攻撃が持続する限り、スペルの攻撃力を高める\r\n\r\n今は亡き英雄の異能が装備者に宿るとされ\r\n選ばれし勇者にのみ使用が許されるという",
+      "eng": "Wearer's will to fight is converted into strength.\r\nBoosts spells,\r\nas long as attacking persists.\r\n\r\nThe unnatural ability of a late hero\r\ndwells within this ring,\r\nthe use of which was permitted\r\nto only a select and valiant few."
+    },
+    "remark": {
+      "chn": "越持续攻击，魔法攻击力越高",
+      "jap": "攻撃が持続する限り、スペルの攻撃力を高める",
+      "eng": "Boosts spells, as long as attacking persists"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20780.webp"
+  },
+  {
+    "id": "20790",
+    "name": {
+      "chn": "教宗左眼",
+      "jap": "法王の左眼",
+      "eng": "Pontiff's Left Eye"
+    },
+    "description": {
+      "chn": "教宗沙力万授予骑士们的魔质戒指，\r\n持续攻击能恢复血量。\r\n\r\n凝视这黑色眼眸后将变得情绪高昂，\r\n会有拼死战斗的欲望，\r\n而最后，骑士将降格为野兽般的狂战士。\r\n因此教宗只在骑士出外征战时，才赐予此物。",
+      "jap": "法王サリヴァーンが騎士たちに与えた魔性の指輪\r\n攻撃が連続すると、ＨＰを回復する\r\n\r\nその黒い瞳は見つめる者を昂ぶらせ、死闘へと誘い\r\nやがて騎士を獣のような狂戦士に貶めてしまう\r\n故に法王は、外征に際してのみこれを与えたという",
+      "eng": "Bewitched ring that Pontiff Sulyvahn\r\nbestowed upon his knights.\r\n\r\nRecovers HP with successive attacks.\r\n\r\nKnights who peer into the black orb\r\nare lured into battles of death,\r\ntransformed into frenzied beasts.\r\nNo wonder the Pontiff only provides these rings\r\nto those dispatched to foreign lands."
+    },
+    "remark": {
+      "chn": "持续攻击能恢复血量",
+      "jap": "攻撃が連続すると、ＨＰを回復する",
+      "eng": "Recovers HP with successive attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20790.webp"
+  },
+  {
+    "id": "20800",
+    "name": {
+      "chn": "##持续精力戒指",
+      "jap": "##継続する精神の指輪",
+      "eng": "##Ring of Sustained Essence"
+    },
+    "description": {
+      "chn": "将装备人员的战斗意志转化为力量的戒指。\r\n持续攻击能恢复专注力。\r\n\r\n将已故英雄的能力寄宿在装备者身上，\r\n只允许被选中的勇者使用。",
+      "jap": "装備者の戦う意思を力に変える指輪\r\n連続攻撃を行う事で、FPが回復する\r\n\r\n今は亡き英雄の異能が装備者に宿るとされ\r\n選ばれし勇者にのみ使用が許されるという",
+      "eng": "Wearer's will to fight is converted into strength.\r\nRecovers FP with successive attacks.\r\n\r\nThe unnatural ability of a late hero\r\ndwells within this ring,\r\nthe use of which was permitted\r\nto only a select and valiant few."
+    },
+    "remark": {
+      "chn": "持续攻击能恢复专注力",
+      "jap": "連続攻撃を行うことで、CPが回復する",
+      "eng": "Recovers CP with successive attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20800.webp"
+  },
+  {
+    "id": "20810",
+    "name": {
+      "chn": "##持续强盛戒指",
+      "jap": "##継続する強盛の指輪",
+      "eng": "##Ring of Sustained Might"
+    },
+    "description": {
+      "chn": "将装备人员的战斗意志转化为力量的戒指。\r\n越持续攻击，伤害补正越高。\r\n\r\n将已故英雄的能力寄宿在装备者身上，\r\n只允许被选中的勇者使用。",
+      "jap": "装備者の戦う意思を力に変える指輪\r\n連続攻撃を行う事で、次の攻撃にダメージ補正がかかる\r\n\r\n今は亡き英雄の異能が装備者に宿るとされ\r\n選ばれし勇者にのみ使用が許されるという",
+      "eng": "Wearer's will to fight is converted into strength.\r\nAdds extra damage with successive attacks.\r\n\r\nThe unnatural ability of a late hero\r\ndwells within this ring,\r\nthe use of which was permitted\r\nto only a select and valiant few."
+    },
+    "remark": {
+      "chn": "越持续攻击，伤害补正越高",
+      "jap": "連続攻撃を行うことで、次の攻撃にダメージ補正がかかる",
+      "eng": "Adds extra damage with successive attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20810.webp"
+  },
+  {
+    "id": "20820",
+    "name": {
+      "chn": "##持续幸运戒指",
+      "jap": "##継続する幸運の指輪",
+      "eng": "##Ring of Sustained Fortune"
+    },
+    "description": {
+      "chn": "将装备人员的战斗意志转化为力量的戒指。\r\n持续攻击能提高物品掉落率。\r\n\r\n将已故英雄的能力寄宿在装备者身上，\r\n只允许被选中的勇者使用。",
+      "jap": "装備者の戦う意思を力に変える指輪\r\n連続攻撃を行う事で、ドロップ率が上昇する\r\n\r\n今は亡き英雄の異能が装備者に宿るとされ\r\n選ばれし勇者にのみ使用が許されるという",
+      "eng": "Wearer's will to fight is converted into strength.\r\nIncreases drop rate with successive attacks.\r\n\r\nThe unnatural ability of a late hero\r\ndwells within this ring,\r\nthe use of which was permitted\r\nto only a select and valiant few."
+    },
+    "remark": {
+      "chn": "持续攻击能提高物品掉落率",
+      "jap": "連続攻撃を行うことで、ドロップ率が上昇する",
+      "eng": "Increases drop rate with successive attacks"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20820.webp"
+  },
+  {
+    "id": "20830",
+    "name": {
+      "chn": "龙鳞戒指",
+      "jap": "竜鱗の指輪",
+      "eng": "Dragonscale Ring"
+    },
+    "description": {
+      "chn": "洛斯里克的前代国王──欧斯罗艾斯的戒指。\r\n可减少背后攻击受到的伤害。\r\n\r\n欧斯罗艾斯在晚年为龙着迷，\r\n失去理智的他被称作妖王。\r\n据说有许多刺客前往刺杀他，\r\n但是皆以失败收场。\r\n\r\n妖王将此归功于龙鳞的庇佑。",
+      "jap": "ロスリックの先王、オスロエスの指輪\r\n背後からの攻撃のダメージを軽減する\r\n\r\nオスロエスは晩年竜に魅入られた\r\n正気を失った彼は妖王と呼ばれ\r\n多くの刺客が差し向けられたが\r\nそのことごとくが失敗したという\r\n\r\n妖王はそれを竜鱗の加護と呼んだ",
+      "eng": "Ring of Oceiros, former king of Lothric.\r\nReduces damage from backstabs.\r\n\r\nIn his later years,\r\nOceiros became fascinated with dragons.\r\nAfter going mad,\r\nhe was more commonly known as the Consumed King.\r\nMany assassins were dispatched to his domain,\r\nbut none returned.\r\n\r\nThe Consumed King ascribed his resilience\r\nto the divine protection of the dragon scale."
+    },
+    "remark": {
+      "chn": "减少背后攻击受到的伤害",
+      "jap": "背後からの攻撃のダメージを軽減する",
+      "eng": "Reduces damage from backstabs"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/20830.webp"
+  },
+  {
+    "id": "21000",
+    "name": {
+      "chn": "咬霜戒指",
+      "jap": "霜咬みの指輪",
+      "eng": "Chillbite Ring"
+    },
+    "description": {
+      "chn": "由卡利姆所流传的“啮咬戒指”之一。\r\n可提升对寒气的抵抗力。\r\n\r\n芙莉德已不会再戴上这只戒指，\r\n因为绘画和它的冰冷，都已是她的归属。",
+      "jap": "カリムに伝わる「咬み指輪」のひとつ\r\n冷気耐性を高める\r\n\r\nそれはもう、フリーデの指を飾ることはない\r\n絵画とその冷たさが、彼女の故郷なのだから",
+      "eng": "One of the bite rings native to Carim.\r\nIncreases frost resistance.\r\n\r\nThis ring would never grace Friede's hand,\r\nfor the painting and its frost became her home."
+    },
+    "remark": {
+      "chn": "提升对寒气的抵抗力",
+      "jap": "冷気耐性を高める",
+      "eng": "Increases frost resistance"
+    },
+    "type": "ring",
+    "game": 3,
+    "icon": "/icons/ds3/rings/21000.webp"
+  }
+]

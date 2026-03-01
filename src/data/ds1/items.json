@@ -1,0 +1,3026 @@
+[
+  {
+    "id": "100",
+    "name": {
+      "chn": "白标记蜡石",
+      "jap": "白いサインろう石",
+      "eng": "White Sign Soapstone"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，能书写召唤记号。\r\n\r\n可从记号处受召前往其他世界，并以灵体姿态行动，\r\n只要成功打倒受召前往区域的主人，就能获得人性。\r\n（游魂状态时无法使用召唤。）\r\n\r\n这是在时间停滞不动的罗德兰一地，\r\n不死人照应彼此的手段。",
+      "jap": "オンラインプレイ専用アイテム\r\n召喚サインを書く\r\n\r\nサインから他世界に霊体として召喚され\r\n召喚されたエリアの主を倒すことができれば\r\n人間性を得ることができる\r\n（召喚は亡者では行えない）\r\n\r\n時の流れの淀んだロードランの地で\r\n不死人たちがお互い助け合うための手段",
+      "eng": "Online play item.\r\nLeave summon sign.\r\n\r\nBe summoned to another world as a phantom\r\nthrough your sign, and defeat the area boss\r\nto acquire humanity.\r\n(Hollows cannot conduct summons)\r\n\r\nIn Lordran, the flow of time is distorted,\r\nand the White Sign Soapstone allows\r\nUndead to assist one another."
+    },
+    "remark": {
+      "chn": "书写召唤记号",
+      "jap": "召喚サインを書く",
+      "eng": "Leave summon sign"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/100.webp"
+  },
+  {
+    "id": "101",
+    "name": {
+      "chn": "红标记蜡石",
+      "jap": "赤いサインろう石",
+      "eng": "Red Sign Soapstone"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，能书写侵入记号。\r\n（游魂状态时无法使用。）\r\n\r\n可从记号处受召前往其他世界，并以暗灵姿态行动，\r\n成功打倒召唤者，就可以获得人性。\r\n\r\n在化为吸魂鬼，堕入黑暗的人之中，\r\n也有无法抛下身为人的荣耀，以及骑士道的人，\r\n这正是为了他们所准备的手段。",
+      "jap": "オンラインプレイ専用アイテム\r\n侵入サインを書く\r\n（亡者では使用できない）\r\n\r\nサインから他世界に闇霊として召喚され\r\n召喚者を倒せば、人間性を得ることができる\r\n\r\nダークレイスとして闇に堕ちたものの中にも\r\n人の誇りや騎士道を忘れない者たちもいる\r\nこれは、そうした者たちのための手段である",
+      "eng": "Online play item.\r\nLeave invasion sign.\r\n(Hollows cannot use the item)\r\n\r\nBe summoned to another world as a dark\r\nspirit, and defeat the summoner to acquire\r\nhumanity.\r\nCertain Darkwraiths resist their descent into\r\ndark and persevere along the honorable path.\r\nThe Red Sign Soapstone is for them."
+    },
+    "remark": {
+      "chn": "书写侵入记号",
+      "jap": "侵入サインを書く",
+      "eng": "Leave invasion sign"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/101.webp"
+  },
+  {
+    "id": "102",
+    "name": {
+      "chn": "血红眼眸宝珠",
+      "jap": "赤い瞳のオーブ",
+      "eng": "Red Eye Orb"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，能侵入其他世界。\r\n（订立誓约者才可使用，游魂状态无法使用。）\r\n\r\n只要在侵入的世界中，\r\n打倒该世界的主人，就能获得人性。\r\n\r\n此乃遭到卡斯唆使的吸魂鬼之常见行径，\r\n他们越是追求人性，越会堕入更深层的黑暗。\r\n或许该说，这才是人类真正会有的作为呢？",
+      "jap": "オンラインプレイ専用アイテム\r\n他の世界に侵入する\r\n（誓約者のみが使用でき、亡者では使用できない）\r\n\r\n侵入先の世界で、世界の主を倒せば\r\n人間性を得ることができる\r\n\r\nカアスに唆された、ダークレイスたちの業\r\n彼らは人間性を求め、さらなる闇に堕ちていく\r\nあるいは、それこそが本来の人であろうか",
+      "eng": "Online play item.\r\nInvade another world.\r\n(Only Covenanter can use the item while Hollows cannot)\r\n\r\nDefeat the master of the world you have\r\ninvaded to acquire humanity.\r\n\r\nThe Darkwraiths of Kaathe use this orb to\r\nseek humanity and plunge further into dark.\r\nPerhaps they are more human than we?"
+    },
+    "remark": {
+      "chn": "侵入其他世界",
+      "jap": "他の世界に侵入する",
+      "eng": "Invade another world"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/102.webp"
+  },
+  {
+    "id": "103",
+    "name": {
+      "chn": "诀别黑水晶",
+      "jap": "決別の黒水晶",
+      "eng": "Black Separation Crystal"
+    },
+    "description": {
+      "chn": "成为不死人的放逐者所拿到的黑水晶，\r\n自古以来就代表着诀别。\r\n召唤者可借此让召唤出的灵体回到原来的世界，\r\n灵体则能借此从其他世界回到原来的世界。\r\n\r\n但若珍惜人与人的缘分，\r\n就不该轻率地使用这项道具。",
+      "jap": "不死となった追放者に与えられる黒水晶は\r\n古くより、決別の証であり\r\n召喚した霊体を元の世界に戻し\r\n召喚された他世界から元の世界に戻ることができる\r\n\r\nだが、出会いを大切に思うのであれば\r\n軽々しくこれを使用するべきではない",
+      "eng": "This black crystal, long a symbol of\r\nfarewell, is granted to banished Undead.\r\nThe crystal sends phantoms back to their\r\nhomes, or sends you back to yours.\r\n\r\nBeware of fickle use of this item if you\r\nintend to nurture relations."
+    },
+    "remark": {
+      "chn": "使灵体回到原来的世界、从其他世界回到原来的世界",
+      "jap": "霊体を元の世界に戻す／他世界から元の世界に戻る",
+      "eng": "Banish phantom/return home"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/103.webp"
+  },
+  {
+    "id": "106",
+    "name": {
+      "chn": "橘建言蜡石",
+      "jap": "橙の助言ろう石",
+      "eng": "Orange Guidance Soapstone"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，\r\n能够书写、确认、评价讯息。\r\n\r\n写出的讯息将被送往其他世界，并受他人评价，\r\n也可以评价来自其他世界的讯息。\r\n\r\n这是在时间停滞不动的罗德兰一地，\r\n不死人照应彼此的手段，\r\n同时，也是种互相欺骗的手段。",
+      "jap": "オンラインプレイ専用アイテム\r\nメッセージを書く／確認する／評価する\r\n\r\nメッセージは他世界に送られ、評価される\r\n他世界からのメッセージを評価することもできる\r\n\r\n時の流れの淀んだロードランの地で\r\n不死人たちがお互い支え合うための手段であり\r\nまた、騙し合うための手段でもある",
+      "eng": "Online play item.\r\nWrite/view/rate message.\r\n\r\nMessages transmit to other worlds, where they\r\nare rated. Also, rate messages of others.\r\n\r\nIn Lordran, the flow of time is distorted,\r\nand messages allow Undead to assist\r\n(or deceive) one another."
+    },
+    "remark": {
+      "chn": "书写、确认、评价讯息",
+      "jap": "メッセージを書く／確認する／評価する",
+      "eng": "Write/view/rate message"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/106.webp"
+  },
+  {
+    "id": "108",
+    "name": {
+      "chn": "罪人录",
+      "jap": "罪人録",
+      "eng": "Book of the Guilty"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，\r\n能够确认世界的罪人名单。\r\n\r\n此为罪业女神蓓尔嘉管理的纪录本。\r\n所谓的罪人，便是那些藐视诸神与誓约之人，\r\n他们无法逃过遭暗月之刃制裁的命运。",
+      "jap": "オンラインプレイ専用アイテム\r\n世界の罪人たちを確認する\r\n\r\n罪の女神ベルカの管理する記録帳\r\n罪人とは、神々や誓約を蔑ろにした者たちであり\r\nいつか暗月の刃に倒れる運命にある",
+      "eng": "Online play item.\r\nCheck list of indicted players.\r\n\r\nThe Goddess of Sin Velka oversees this list\r\nof the guilty, who have disrespected the Gods\r\nor their covenants, and shall one day face\r\nthe wrath of the Blades of the Darkmoon."
+    },
+    "remark": {
+      "chn": "确认世界的罪人名单",
+      "jap": "世界の罪人たちを確認する",
+      "eng": "Check list of indicted players"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/108.webp"
+  },
+  {
+    "id": "109",
+    "name": {
+      "chn": "死者眼眸",
+      "jap": "死の瞳",
+      "eng": "Eye of Death"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，能够将灵体从其他世界引诱过来。\r\n（订立誓约者才可使用，游魂状态无法使用。）\r\n\r\n带有祸患气息的“死者眼眸”可以对其他世界散播灾厄，\r\n是种将其他灵体化为牺牲者，引诱至自身世界的手段。\r\n而牺牲者也会产生“死者眼眸”，使得灾厄更加扩散。",
+      "jap": "オンラインプレイ専用アイテム\r\n他の世界から霊体を誘い込む\r\n（誓約者のみが使用でき、亡者では使用できない）\r\n\r\n禍々しい「死の瞳」は、他の世界に災厄をばら撒き\r\n犠牲者となる霊体を誘い込むための手段である\r\n犠牲者は「死の瞳」を生み、災厄は更に広がるのだ",
+      "eng": "Online play item.\r\nLure phantoms from other worlds.\r\n(Only Covenanter can use the item while Hollows cannot)\r\n\r\nThe dreadful Eyes of Death spread disaster\r\nacross neighboring worlds. Phantoms lured\r\nto the host world may end up as victims,\r\nallowing the Eyes of Death to multiply,\r\nand leading to further proliferation of bane."
+    },
+    "remark": {
+      "chn": "将灵体从其他世界引诱过来",
+      "jap": "他の世界から霊体を誘い込む",
+      "eng": "Lure phantoms from other worlds"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/109.webp"
+  },
+  {
+    "id": "111",
+    "name": {
+      "chn": "龟裂血红眼眸宝珠",
+      "jap": "ひび割れた赤い瞳のオーブ",
+      "eng": "Cracked Red Eye Orb"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，能侵入其他世界。\r\n（游魂状态无法使用。）\r\n\r\n只要在侵入的世界中，\r\n打倒该世界的主人，就能获得人性。\r\n\r\n此乃遭到卡斯唆使的吸魂鬼之常见行径，\r\n可以借由这已经裂开的红色宝珠，\r\n暂时模仿他们的所作所为。",
+      "jap": "オンラインプレイ専用アイテム\r\n他の世界に侵入する\r\n（亡者では使用できない）\r\n\r\n侵入先の世界で、世界の主を倒せば\r\n人間性を得ることができる\r\n\r\nカアスに唆された、ダークレイスたちの業\r\nこのひび割れた赤いオーブは\r\nその業を一時的に真似るためのものである",
+      "eng": "Online play item.\r\nInvade another world.\r\n(Hollows cannot use the item)\r\n\r\nDefeat the master of the world you have\r\ninvaded to acquire humanity.\r\n\r\nThe Cracked Red Eye Orb allows players to\r\ntemporarily imitate this ability normally\r\nlimited to the Darkwraiths of Kaathe."
+    },
+    "remark": {
+      "chn": "侵入其他世界",
+      "jap": "他の世界に侵入する",
+      "eng": "Invade another world"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/111.webp"
+  },
+  {
+    "id": "112",
+    "name": {
+      "chn": "仆人名册",
+      "jap": "従者名簿",
+      "eng": "Servant Roster"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，\r\n能确认替混沌的女儿效力的仆人。\r\n\r\n这本名册由背蛋者恩吉负责管理，\r\n上头记载着那些替他的大小姐──\r\n混沌的女儿效力的仆人。\r\n只要献上许多人性，减缓她的疼痛，\r\n似乎就能得到恩吉的高评价。\r\n\r\n不过，那似乎也没什么太大的意义……",
+      "jap": "オンラインプレイ専用アイテム\r\n混沌の娘に仕える、従者たちを確認する\r\n\r\nたまご背負いエンジーの管理する\r\n彼の姫様、混沌の娘に仕える従者たちの名簿\r\n娘に多く人間性を捧げ、その痛みをやわらげた者が\r\nエンジーから高い評価を得られるようだ\r\n\r\n…大した意味があるわけではなさそうだが",
+      "eng": "Online play item.\r\nCheck servants of the Daughters of Chaos.\r\n\r\nEgg-bearer Eingyi keeps this roster of those\r\nwho serve his master, a Daughter of Chaos.\r\nEingyi praises those who offer significant\r\nhumanity to alleviate his master's suffering.\r\n\r\nBut what is praise from Eingyi really worth?"
+    },
+    "remark": {
+      "chn": "确认替混沌的女儿效力的仆人",
+      "jap": "混沌の娘に仕える、従者たちを確認する",
+      "eng": "Check servants of the Daughters of Chaos"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/112.webp"
+  },
+  {
+    "id": "113",
+    "name": {
+      "chn": "深蓝眼眸宝珠",
+      "jap": "青い瞳のオーブ",
+      "eng": "Blue Eye Orb"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，\r\n能侵入名列罪人录的罪人所处世界，\r\n并诛杀他们取得“复仇之证”。\r\n（订立誓约者才可使用。）\r\n\r\n唯有替黯影太阳葛温德林效力的\r\n“暗月之剑”骑士，才能获得这颗神秘宝珠。\r\n他们可说是为诸神复仇的先锋。",
+      "jap": "オンラインプレイ専用アイテム\r\n罪人録にある罪人たちの世界に侵入し\r\n彼らを誅することで「復讐の証」を手に入れる\r\n（誓約者のみが使用できる）\r\n\r\n陰の太陽グウィンドリンに仕える\r\n暗月の剣の騎士たちに与えられる神秘のオーブ\r\n彼らはつまり、神々の復讐の刃なのだ",
+      "eng": "Online play item.\r\nInvade world of player in Book of the Guilty.\r\nSubdue player to acquire Souvenir of Reprisal.\r\n(Only Covenanter can use the item)\r\n\r\nThese mystical orbs are granted to\r\nBlades of the Darkmoon, knights who serve\r\nthe Dark Sun Gwyndolin, so that they may\r\nserve the Gods in meting out vengeance."
+    },
+    "remark": {
+      "chn": "侵入罪人的世界",
+      "jap": "罪人の世界に侵入する",
+      "eng": "Invade world of guilty player"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/113.webp"
+  },
+  {
+    "id": "114",
+    "name": {
+      "chn": "古龙眼珠",
+      "jap": "古竜の瞳",
+      "eng": "Dragon Eye"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，\r\n能找出在其他世界已取得“龙鳞”的人，\r\n并侵入其世界夺取“龙鳞”。\r\n（订立誓约者才可使用。）\r\n\r\n此乃向古龙祈祷，试图接近它们的超人之常见行径。\r\n生者必有弱点，即便是拥有火的诸神也不例外。\r\n超人的目标，便是成为有别于生命的另一种存在型态。",
+      "jap": "オンラインプレイ専用アイテム\r\n他世界で「竜のウロコ」を得た者を探し出し\r\nその世界に侵入して「竜のウロコ」を奪う\r\n（誓約者のみが使用できる）\r\n\r\n古竜に祈り、それに近づこうとする超越者たちの業\r\n生とは弱さであり、火の者である神々も例外ではない\r\n超越者の目標は、生命とは別のあり様なのだ",
+      "eng": "Online play item.\r\nFind a player who has acquired a Dragon Scale\r\nand invade that player's world to pillage it.\r\n(Only Covenanter can use the item)\r\n\r\nAn art of the transcendent apostles who pray\r\nto the ancient dragons. To be alive is to be\r\nvulnerable, and the fiery Gods are no\r\nexception. The apostles seek another plane\r\nof existence, which transcends life."
+    },
+    "remark": {
+      "chn": "找出取得“龙鳞”的人，并侵入其世界",
+      "jap": "「竜のウロコ」を得た者を探し、その世界に侵入する",
+      "eng": "Invade world of possessor of Dragon Scale"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/114.webp"
+  },
+  {
+    "id": "115",
+    "name": {
+      "chn": "漆黑眼眸宝珠",
+      "jap": "黒い瞳のオーブ",
+      "eng": "Black Eye Orb"
+    },
+    "description": {
+      "chn": "遗留在防火女尸体上的神秘宝珠。\r\n\r\n如果能侵入杀害她的凶手所处的世界，\r\n并成功打倒该世界的主人，\r\n应该就可以夺回防火女的灵魂。\r\n\r\n那对黑色眼眸，始终凝视着亚诺尔隆德。",
+      "jap": "火防女の死体に残っていた神秘のオーブ\r\n\r\n彼女を殺した者の世界に侵入し\r\nその世界の主を倒すことができれば\r\n火防女の魂を取り戻せるだろう\r\n\r\n黒い瞳はじっとアノール・ロンドを見つめている",
+      "eng": "Mystical orb found on a Keeper's corpse.\r\n\r\nInvade the world of the murderer of a \r\nFire Keeper, to defeat the perpetrator and\r\nreclaim the soul of the Fire Keeper.\r\n\r\nThe Black Eye keeps constant watch on the\r\ncity of the Gods, Anor Londo."
+    },
+    "remark": {
+      "chn": "侵入杀害防火女凶手的世界",
+      "jap": "火防女を殺した者の世界に侵入する",
+      "eng": "Invade world of murderer of Fire Keeper"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/115.webp"
+  },
+  {
+    "id": "116",
+    "name": {
+      "chn": "##漆黑眼眸宝珠",
+      "jap": "##黒い瞳のオーブ",
+      "eng": "##Black Eye Orb"
+    },
+    "description": {
+      "chn": "背叛者芝所留下的神秘宝珠。\r\n\r\n如果能侵入芝的世界，并成功打倒他的话，\r\n应该就能抢回遭他夺走的“混沌之刃”。\r\n\r\n那黑色眼眸已然失焦，因不安而骚动不已，\r\n背叛者究竟藏身何处呢……",
+      "jap": "裏切り者シバの残した神秘のオーブ\r\n\r\nシバの世界に侵入し、彼を倒すことができれば\r\n奪われた「混沌の刃」を取り戻せるだろう\r\n\r\nだが黒い瞳は焦点を失い、不安げに蠢いている\r\n裏切り者はどこにいるのだろうか…",
+      "eng": "Invade the world of the traitor Shiva.\r\n\r\nInvade the world of Shiva, and subdue him\r\nto reclaim the Blade of Chaos.\r\n\r\nBut the Black Eye has lost its focus,\r\nand its powers waver timorously.\r\nWhere could the traitor Shiva be?"
+    },
+    "remark": {
+      "chn": "侵入背叛者芝的世界",
+      "jap": "裏切り者シバの世界に侵入する",
+      "eng": "Invade world of traitor Shiva"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/116.webp"
+  },
+  {
+    "id": "117",
+    "name": {
+      "chn": "黑暗之环",
+      "jap": "ダークリング",
+      "eng": "Darksign"
+    },
+    "description": {
+      "chn": "被诅咒的不死人之证。\r\n身上有黑暗之环的人，就算死了也会复活，\r\n最后将因失去心智而化为游魂。\r\n\r\n黑暗之环也具有自杀的效用，\r\n使用后，将失去所有人性和灵魂，\r\n回到最后休息的营火处。",
+      "jap": "呪われた不死人の証\r\nこのリングが現れた者は、死んでも蘇り\r\nやがて心をなくした亡者となる\r\n\r\nリングはまた自死の力を持ち\r\n使用者は人間性とソウルをすべて失い\r\n最後に休息した篝火に戻る",
+      "eng": "The Darksign signifies an accursed Undead.\r\nThose branded with it are reborn after\r\ndeath, but will one day lose their mind\r\nand go Hollow.\r\n\r\nDeath triggers the Darksign, which returns\r\nits bearer to the last bonfire rested at,\r\nbut at the cost of all humanity and souls."
+    },
+    "remark": {
+      "chn": "放弃人性与灵魂，回到最后休息的营火处",
+      "jap": "人間性とソウルを失い、最後に休息した篝火に戻る",
+      "eng": "Lose humanity and souls, and return to bonfire"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/117.webp"
+  },
+  {
+    "id": "118",
+    "name": {
+      "chn": "胆小鬼紫水晶",
+      "jap": "臆病者の紫水晶",
+      "eng": "Purple Coward's Crystal"
+    },
+    "description": {
+      "chn": "联机游玩专用道具，能脱离“试炼之战”。\r\n（主方玩家一旦脱离，将会解散联机）\r\n\r\n此为古来通往亚诺尔隆德的必经之战。\r\n虽然如今已无人管理，丧失其应有的意义，\r\n但脱离者仍会遭人讥讽为胆小鬼。\r\n\r\n因此就算只是想追求战斗的意义，\r\n也不该轻率地使用这紫水晶。",
+      "jap": "オンラインプレイ専用アイテム\r\n「試練の戦い」から離脱する\r\n（ホストが離脱するとセッションは解散する）\r\n\r\nその戦いは古来アノール・ロンドへの道であり\r\n既に管理者なく、その本分が失われた今でも\r\n離脱するものは臆病者の誹りを免れない\r\n\r\n故に、この紫水晶は軽々に使用すべきでない\r\n仮りそめでも、戦いに意味を求めるならば",
+      "eng": "Online play item.\r\nQuit Battle of Stoicism.\r\n(Session ends if host leaves)\r\n\r\nVictory in this battle once led to ancient\r\nAnor Londo, but even in the absence\r\nof its overseer, capitulation is a disgrace.\r\nIn the name of a warrior's honor, do not\r\nquickly resort to use of this crystal."
+    },
+    "remark": {
+      "chn": "脱离“试炼之战”",
+      "jap": "「試練の戦い」から離脱する",
+      "eng": "Exit Battle of Stoicism"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/118.webp"
+  },
+  {
+    "id": "200",
+    "name": {
+      "chn": "原素瓶",
+      "jap": "エスト瓶",
+      "eng": "Estus Flask"
+    },
+    "description": {
+      "chn": "不死人珍重的暗绿色玻璃瓶，\r\n可借着营火累积原素，喝下去便能恢复血量。\r\n\r\n似乎与营火守护者──防火女有着密切的关联，\r\n在黑暗传承中，也有以下一段文字：\r\n\r\n　那绿色瓶子源自防火女的灵魂，\r\n　她们在活着的时候守护营火，\r\n　即便在死后，也持续守护着其温度。",
+      "jap": "不死人の宝たる鈍い緑ガラスの瓶\r\n篝火でエストを溜め、飲んでＨＰを回復する\r\n\r\n篝火の守り手、火防女と深い関わりがあるようで\r\n暗い伝承にはこんな一説がある\r\n\r\n　火防女の魂から、その緑瓶は生まれる\r\n　彼女たちは、生きて篝火を守り\r\n　死してなお、その熱を守り続けるのだ",
+      "eng": "The Undead treasure these dull green flasks.\r\nFill with Estus at bonfire. Fills HP.\r\n\r\nThe Estus Flasks are linked to the Fire\r\nKeepers. The Dark Tales also make reference:\r\n\r\n   An emerald flask, from the Keeper's soul\r\n   She lives to protect the flame,\r\n   And dies to protect it further"
+    },
+    "remark": {
+      "chn": "借着营火累积原素，喝下去便能恢复血量",
+      "jap": "篝火でエストを溜め、飲んでＨＰを回復する",
+      "eng": "Fill with Estus at bonfire. Heals HP."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/200.webp"
+  },
+  {
+    "id": "220",
+    "name": {
+      "chn": "银项链",
+      "jap": "銀のペンダント",
+      "eng": "Silver Pendant"
+    },
+    "description": {
+      "chn": "雕有骑士亚尔特留斯徽章的银项链。\r\n\r\n亚诺尔隆德的远古宝物之一，\r\n特别赠予挑战深渊的他。\r\n\r\n使用后能闪避深渊黑暗，\r\n对闪避法术特别有效。",
+      "jap": "騎士アルトリウスの紋章が刻まれた\r\n銀のペンダント\r\n\r\nアノール・ロンドの古い宝具の１つであり\r\n深淵に挑む彼に特別に贈られたもの\r\n\r\n使用により深淵の闇\r\n特に魔法の類を避ける効果がある",
+      "eng": "Silver pendant engraved with\r\nthe crest of Artorias.\r\n\r\nOne of the ancient treasures of Anor Londo.\r\nPresented to Artorias for facing the Abyss.\r\n\r\nEffectively deflects the Dark of the Abyss,\r\nespecially in its magic forms."
+    },
+    "remark": {
+      "chn": "有闪避黑暗效果的银项链",
+      "jap": "銀のペンダント。闇を避ける効果がある",
+      "eng": "Silver pendant. Deflects Dark."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/220.webp"
+  },
+  {
+    "id": "230",
+    "name": {
+      "chn": "伊丽莎白的秘药",
+      "jap": "エリザベスの秘薬",
+      "eng": "Elizabeth's Mushroom"
+    },
+    "description": {
+      "chn": "灵庙看守者，伊丽莎白的秘药。\r\n似乎是大型蕈类物品。\r\n\r\n服用后会变得活力充沛，情绪高张。\r\n一定时间内，持续大幅恢复血量。\r\n\r\n这强大的效果，或许可以成为战士的压箱宝。",
+      "jap": "霊廟の守人、エリザベスの秘薬\r\n大型の菌類の類だろうか\r\n\r\n口にすれば肉体を鼓舞し、高揚させ\r\n一定時間、ＨＰを大きく回復し続ける\r\n\r\nその強い効果は、戦士の切り札ともなるだろう",
+      "eng": "Large medicinal mushroom of\r\nElizabeth, keeper of the sanctuary.\r\n\r\nEating this mushroom invigorates the flesh,\r\nand greatly restores HP for a limited duration.\r\n\r\nIts dramatic effect can make the difference\r\nbetween a warrior's life and death."
+    },
+    "remark": {
+      "chn": "一定时间内，持续大幅恢复血量",
+      "jap": "一定時間、ＨＰを大きく回復し続ける",
+      "eng": "Greatly restores HP for a limited duration"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/230.webp"
+  },
+  {
+    "id": "240",
+    "name": {
+      "chn": "女神的祝福",
+      "jap": "女神の祝福",
+      "eng": "Divine Blessing"
+    },
+    "description": {
+      "chn": "女神葛维艾薇雅的祝福圣水，\r\n可让血量完全恢复，并治愈异常状态。\r\n\r\n为人熟知的阳光女神葛维艾薇雅，\r\n乃是伟大的阳光之王──葛温的女儿，\r\n她象征了丰饶与恩惠，广受人们的爱戴。",
+      "jap": "女神グウィネヴィアの祝福の聖水\r\nＨＰを全回復し、異常を癒す\r\n\r\n太陽の光の女神として知られるグウィネヴィアは\r\n偉大なる太陽の光の王グウィンの娘であり\r\n豊穣と恵みの象徴として、ひろく人々に愛されている",
+      "eng": "Holy water from Goddess Gwynevere.\r\nFully restore HP and undo irregularities.\r\n\r\nThe Goddess of Sunlight Gwynevere, daughter of\r\nthe great Lord of Sunlight Gwyn, is cherished\r\nby all as the symbol of bounty and fertility."
+    },
+    "remark": {
+      "chn": "让血量完全恢复，并治愈异常状态",
+      "jap": "ＨＰを全回復し、異常を癒す",
+      "eng": "Fully restore HP and undo irregularities"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/240.webp"
+  },
+  {
+    "id": "260",
+    "name": {
+      "chn": "绿花草",
+      "jap": "緑花草",
+      "eng": "Green Blossom"
+    },
+    "description": {
+      "chn": "如同一大朵花般的绿草，\r\n可以暂时提升精力恢复速度。\r\n\r\n这具有独特苦味与刺激性的绿草，\r\n因为其效果而被人们大量栽培，\r\n原本是生长在水滨的一年生草本植物。",
+      "jap": "大輪の花のような緑の草\r\n一時的に、スタミナの回復速度を上げる\r\n\r\n独特の苦味と刺激に特徴のある草本\r\nその効果により大量に栽培されることもあるが\r\n本来は水辺に自生する一年草である",
+      "eng": "Green weed, shaped like a flower.\r\nTemporary boost to stamina recovery speed.\r\n\r\nThis uniquely bitter, biting herb is\r\nsometimes harvested in large quantities,\r\nbut normally it is an annual plant found\r\nnear water."
+    },
+    "remark": {
+      "chn": "暂时提升精力恢复速度",
+      "jap": "一時的に、スタミナの回復速度を上げる",
+      "eng": "Temporary boost to stamina recovery speed"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/260.webp"
+  },
+  {
+    "id": "270",
+    "name": {
+      "chn": "血红苔藓球",
+      "jap": "血赤の苔玉",
+      "eng": "Bloodred Moss Clump"
+    },
+    "description": {
+      "chn": "具有药效的红色苔藓球，\r\n可以减少出血的累积。\r\n\r\n出血会随着遭到利刃或尖刺的攻击而累积，\r\n一旦引发出血，便会身受重伤。\r\n最好在发生惨剧前，先行使用这苔藓球。",
+      "jap": "薬効のある赤色の苔玉\r\n出血の蓄積を減らす\r\n\r\n出血は、鋭い刃やトゲの攻撃により蓄積し\r\n発生すると大きなダメージとなる\r\nそうなる前に、この苔玉を使うとよい",
+      "eng": "Medicinal red moss clump.\r\nReduces bleeding build-up.\r\n\r\nBleeding builds up when attacked by sharp\r\nblades or spikes, and once triggered causes\r\nsevere damage. Use this moss clump before\r\nit reaches this point."
+    },
+    "remark": {
+      "chn": "减少出血的累积",
+      "jap": "出血の蓄積を減らす",
+      "eng": "Reduces bleeding build-up"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/270.webp"
+  },
+  {
+    "id": "271",
+    "name": {
+      "chn": "毒紫苔藓球",
+      "jap": "毒紫の苔玉",
+      "eng": "Purple Moss Clump"
+    },
+    "description": {
+      "chn": "具有药效的紫色苔藓球，\r\n可以减少毒的累积，解除中毒状态。\r\n\r\n当体内累积一定的毒之后，便会陷入中毒状态，\r\n中毒时会在一定时间内持续受到伤害。\r\n\r\n毒非常地棘手，\r\n若要前往有可能中毒的场所，\r\n先准备好这苔藓球绝对不会吃亏。",
+      "jap": "薬効のある紫色の苔玉\r\n毒の蓄積を減らし、毒状態を解除する\r\n\r\n毒は体に蓄積し、発生すると毒状態となり\r\nしばらくの間ダメージを与え続ける\r\n\r\n毒は非常に厄介であり\r\nそれが予想される場所に向かうのならば\r\nこの苔玉を用意しておいて損はない",
+      "eng": "Medicinal purple moss clump.\r\nReduces poison build-up. Cures poison.\r\n\r\nPoison builds up in the body, and when it\r\nbreaks out, it causes gradual damage over\r\na period of time.\r\nPoison can be exasperating, so be certain to\r\ncarry the needed quantity of these moss\r\nclumps when destined for an afflicted area."
+    },
+    "remark": {
+      "chn": "减少毒的累积，解除中毒状态",
+      "jap": "毒の蓄積を減らし、毒状態を解除する",
+      "eng": "Reduces poison build-up. Cures poison."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/271.webp"
+  },
+  {
+    "id": "272",
+    "name": {
+      "chn": "毒紫花苔藓球",
+      "jap": "毒紫の花苔玉",
+      "eng": "Blooming Purple Moss Clump"
+    },
+    "description": {
+      "chn": "具有强烈药效的带花苔藓球，\r\n可以减少毒与剧毒的累积，并解除上述两种状态。\r\n\r\n剧毒也属于毒的一种，\r\n其效果十分强烈，能够立刻致死。\r\n\r\n未带花的苔藓球对剧毒完全无效，\r\n是否携带此种花苔藓球，大多关系到生死。",
+      "jap": "強い薬効のある花付きの苔玉\r\n毒や猛毒の蓄積を減らし、状態を解除する\r\n\r\n猛毒は毒の一種であるが\r\nその効果は強く、すぐに死を招く\r\n\r\n花無しは猛毒にまったく無力であり\r\nこの花苔玉の有無が生死を分けることも多い",
+      "eng": "Potently medicinal moss clump with a flower.\r\nReduces poison and toxin. Restores status.\r\n\r\nToxin is a more vicious form of poison which\r\nquickly leads to death.\r\n\r\nMoss clumps without a flower are useless\r\nagainst toxin, and a lack of these moss\r\nclumps could lead to an early demise."
+    },
+    "remark": {
+      "chn": "减少毒与剧毒的累积，并解除上述两种状态",
+      "jap": "毒および猛毒の蓄積を減らし、状態を解除する",
+      "eng": "Reduces poison and toxin. Restores status."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/272.webp"
+  },
+  {
+    "id": "274",
+    "name": {
+      "chn": "解咒石",
+      "jap": "解呪石",
+      "eng": "Purging Stone"
+    },
+    "description": {
+      "chn": "与半颗头骨融为一体的灰色石块，\r\n是卡利姆伯爵阿尔斯特的宝藏之一，\r\n可以减少诅咒的累积，解除咒死状态。\r\n\r\n人们对诅咒无能为力，\r\n唯一能做的，就只有让诅咒转移目标而已。\r\n\r\n解咒石就是作为接受转移诅咒的物品，\r\n这石块应该是人，或曾经是人的某种东西吧。",
+      "jap": "半ば頭骨が溶け込んだ灰色の石\r\nカリム伯アルスターの秘宝の１つ\r\n呪いの蓄積を減らし、呪死状態を解除する\r\n\r\n人は呪いに対し無力であり\r\nそれを逸らすことしかできない\r\n\r\n解呪石もまた、呪いを逸らす先でしかなく\r\nそれは人、ないし人だった何かなのだろう",
+      "eng": "Ash-colored stone encasing a skull.\r\nSecret treasure of Arstor, the Earl of Carim.\r\nReduces curse build-up and breaks curse.\r\n\r\nHumans are helpless against curses,\r\nand can only redirect their influence.\r\nThe Purging Stone does not dispel curses,\r\nbut receives them as a surrogate. The stone\r\nitself was once a person or some other being."
+    },
+    "remark": {
+      "chn": "减少诅咒的累积，解除咒死状态",
+      "jap": "呪いの蓄積を減らし、呪死状態を解除する",
+      "eng": "Reduces curse build-up and breaks curse"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/274.webp"
+  },
+  {
+    "id": "275",
+    "name": {
+      "chn": "堕蛋药",
+      "jap": "たまごくだし",
+      "eng": "Egg Vermifuge"
+    },
+    "description": {
+      "chn": "味道既苦又酸的橡果，\r\n可以除去寄生在身体上的蛋。\r\n\r\n所谓的背蛋者，\r\n便是一群自愿替混沌火焰效力的人，\r\n而蛋便是他们的象征。\r\n\r\n这橡果因此成为禁忌的果实，\r\n不过无论如何，总会有容许禁忌存在的理由。",
+      "jap": "苦すっぱいドングリ\r\n体に寄生したたまごを取り除く\r\n\r\nたまご背負いとは\r\n自ら進んで混沌の炎に仕えんとする者たちであり\r\nたまごはその象徴である\r\n\r\n故にこのドングリは禁断の実ですらあるが\r\n何処にも、禁忌が許される理由はあるものだ",
+      "eng": "Bitter, sour chestnut.\r\nRemoves parasitic egg from body.\r\n\r\nThe egg-bearers have chosen to serve the\r\nFlame of Chaos, and the eggs symbolize this\r\nselfless choice.\r\n\r\nNaturally, these chestnuts are forbidden, but\r\nare allowed under special circumstances."
+    },
+    "remark": {
+      "chn": "除去寄生在身体上的蛋",
+      "jap": "体に寄生したたまごを取り除く",
+      "eng": "Removes parasitic egg from body"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/275.webp"
+  },
+  {
+    "id": "280",
+    "name": {
+      "chn": "修理光粉",
+      "jap": "修理の光粉",
+      "eng": "Repair Powder"
+    },
+    "description": {
+      "chn": "带有微弱魔力的金属粉末，\r\n可以修理右手武器。\r\n\r\n武器的耐久度会随着使用而逐渐下滑，\r\n一旦降到一定数值以下，其性能便会大幅滑落。\r\n\r\n这不用修理箱便能修理武器的粉末，\r\n成为能在战场上修理武器的宝贵手段。",
+      "jap": "弱い魔力を帯びた金属粉\r\n右手の武器を修理する\r\n\r\n武器は使用により耐久度が落ちていき\r\n一定値以下になるとその効果は大きく落ちる\r\n\r\n修理箱を必要としないこの粉は\r\n戦場で武器を修理できる貴重な手段となる",
+      "eng": "Lightly enchanted golden powder.\r\nRepairs weapon equipped in right hand.\r\n\r\nUse of a weapon depletes its durability,\r\neventually rendering it ineffective.\r\n\r\nRepair Powder is a precious method of repair\r\non the battlefield, as it obviates the need\r\nfor a Repairbox."
+    },
+    "remark": {
+      "chn": "修理右手武器",
+      "jap": "右手の武器を修理する",
+      "eng": "Repairs weapon equipped in right hand"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/280.webp"
+  },
+  {
+    "id": "290",
+    "name": {
+      "chn": "飞刀",
+      "jap": "投げナイフ",
+      "eng": "Throwing Knife"
+    },
+    "description": {
+      "chn": "投掷用匕首，\r\n可以朝着敌人射去。\r\n\r\n虽然与弓等武器相比，不但飞行距离短，命中率也低，\r\n却是能轻松使出间接攻击的道具。\r\n\r\n如果没有其他间接攻击的手段，\r\n带着这道具备用应该也不错。",
+      "jap": "投擲用のナイフ\r\n敵に投げつける\r\n\r\n弓などに比べ飛距離は短く、精度も低いが\r\n簡単に間接攻撃ができるアイテム\r\n\r\nこれ以外に間接攻撃手段がないようであれば\r\n備えとして持っておくのもよいだろう",
+      "eng": "Throwing knife.\r\nUsed as a projectile.\r\n\r\nThrowing knives have limited range and\r\naccuracy compared to arrows, but offer a\r\nquick-and-easy ranged attack.\r\n\r\nUndead who lack other means of ranged\r\nattacks will do well to stock a few of these."
+    },
+    "remark": {
+      "chn": "投掷用匕首，可以朝着敌人射去",
+      "jap": "投擲用のナイフ。敵に投げつける",
+      "eng": "Throwing knife. Used as a projectile."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/290.webp"
+  },
+  {
+    "id": "291",
+    "name": {
+      "chn": "毒飞刀",
+      "jap": "毒投げナイフ",
+      "eng": "Poison Throwing Knife"
+    },
+    "description": {
+      "chn": "投掷用匕首，\r\n刀刃上涂有毒液，可以朝着敌人射去。\r\n\r\n虽然与弓等武器相比，不但飞行距离短，命中率也低，\r\n却是能轻松使出间接攻击的道具。\r\n\r\n如果能成功让敌人中毒的话，\r\n对方会在一定时间内持续受到伤害。",
+      "jap": "投擲用のナイフ\r\n刃に毒が塗られており、敵に投げつける\r\n\r\n弓などに比べ飛距離は短く、精度も低いが\r\n簡単に間接攻撃ができるアイテム\r\n\r\n敵を毒状態にすることができれば\r\nしばらくダメージを与え続けることができる",
+      "eng": "Throwing knife.\r\nCoated with poison.\r\n\r\nThrowing knives have limited range and\r\naccuracy compared to arrows, but offer a\r\nquick-and-easy ranged attack.\r\n\r\nWhen a foe is poisoned, it will continually\r\ntake damage over a period of time."
+    },
+    "remark": {
+      "chn": "投掷用匕首，刀刃上涂有毒液",
+      "jap": "投擲用のナイフ。刃に毒が塗られている",
+      "eng": "Throwing knife. Coated with poison."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/291.webp"
+  },
+  {
+    "id": "292",
+    "name": {
+      "chn": "火焰壶",
+      "jap": "火炎壷",
+      "eng": "Firebomb"
+    },
+    "description": {
+      "chn": "装满火药的素烧陶壶，\r\n可以引发爆炸，使敌人遭到火属性伤害。\r\n\r\n这是相对而言，威力较高的间接攻击手段，\r\n而且有时候火属性伤害会发挥功效，\r\n因此是在等级偏低时，特别宝贵的道具。\r\n\r\n经常使用这道具，\r\n并将之用于战术上的战士也不在少数。",
+      "jap": "火薬の詰められた素焼きの壷\r\n爆発して炎ダメージを与える\r\n\r\n比較的威力の大きい間接攻撃であり\r\nまた炎ダメージが有効な場面もあるため\r\n特に低レベルでは貴重なアイテムである\r\n\r\nこれを愛用し、戦術に組み込む戦士も多い",
+      "eng": "Bisque urn filled with black powder.\r\nExplodes, inflicting fire damage.\r\n\r\nRelatively powerful ranged weapon, especially\r\nin situations calling for fire damage.\r\nA very precious item at low levels.\r\n\r\nMany warriors use these to augment their\r\nstrategic repertoire."
+    },
+    "remark": {
+      "chn": "引发爆炸，使敌人遭到火属性伤害",
+      "jap": "爆発して炎ダメージを与える",
+      "eng": "Explodes, inflicting fire damage"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/292.webp"
+  },
+  {
+    "id": "293",
+    "name": {
+      "chn": "屎块",
+      "jap": "糞団子",
+      "eng": "Dung Pie"
+    },
+    "description": {
+      "chn": "新鲜的排泄物。大便。\r\n丢向敌人便能使其累积剧毒，\r\n但自己也会累积剧毒。\r\n\r\n虽然臭味很重，让人不大想带在身边，\r\n如果能成功让敌人中剧毒的话，\r\n对方会在一定时间内持续受到重创。",
+      "jap": "瑞々しい排泄物。大便\r\n敵に投げつけ、猛毒を蓄積していくが\r\n自分にも猛毒が蓄積していく\r\n\r\n臭いも強く、あまり持ち歩きたくない類だが\r\n敵を猛毒状態にすることができれば\r\nしばらく大ダメージを与え続けることができる",
+      "eng": "Atrocious fecal waste material.\r\nThrow at enemy to build up toxins,\r\nbut also builds up your toxicity.\r\n\r\nAlthough the stench makes it difficult to\r\ncarry on one's person, turning an enemy toxic\r\ninflicts high damage over a period of time."
+    },
+    "remark": {
+      "chn": "让敌人陷入剧毒状态，但自身也会受到影响",
+      "jap": "敵を猛毒状態にするが、自分も影響を受ける",
+      "eng": "Turns enemy toxic, but also affects player"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/293.webp"
+  },
+  {
+    "id": "294",
+    "name": {
+      "chn": "诱敌头盖骨",
+      "jap": "誘い頭蓋",
+      "eng": "Alluring Skull"
+    },
+    "description": {
+      "chn": "残留着些许灵魂的头盖骨，\r\n可以丢出，使其残留的灵魂四散，\r\n引诱部分敌人接近。\r\n\r\n灵魂乃是生命的象征，\r\n能借此吸引对灵魂深感饥渴的游魂等，\r\n但并非对所有的敌人都能生效。",
+      "jap": "わずかなソウルが残った頭蓋骨\r\n投げつけることでそのソウルをばら撒き\r\n一部の敵を誘い寄せる\r\n\r\nソウルとは生命の象徴であり\r\nそれに餓えた亡者などを誘い寄せるが\r\nすべての敵に有効なわけではない",
+      "eng": "A skull with meekly lingering souls.\r\nThrow to shatter and spread souls to\r\nattract certain types of enemies.\r\n\r\nSouls are a concentration of life, and the\r\nlife-starved Hollows are lured by its power.\r\nNot effective for all enemies."
+    },
+    "remark": {
+      "chn": "引诱部分敌人接近",
+      "jap": "一部の敵を誘い寄せる",
+      "eng": "Attracts certain types of enemies"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/294.webp"
+  },
+  {
+    "id": "296",
+    "name": {
+      "chn": "洛伊德护符",
+      "jap": "ロイドの護符",
+      "eng": "Lloyd's Talisman"
+    },
+    "description": {
+      "chn": "主神洛伊德的骑士在猎捕不死人时所用的道具，\r\n在有效范围内，将无法借着原素来恢复。\r\n\r\n在人世中，不死人被视为遭到诅咒的怪物，\r\n猎捕不死人的洛伊德骑士甚至还成了英雄。\r\n\r\n该英雄便是利用这受到祝福的护符，\r\n封锁不死人的恢复手段，堂堂正正地应战。",
+      "jap": "主神ロイドの騎士が不死人を狩るときの道具\r\n効果範囲内でエストによる回復をできなくする\r\n\r\n人の世界では、不死人は呪われた化け物であり\r\n不死を狩るロイドの騎士は英雄ですらある\r\n\r\nその英雄は、この祝福された護符により\r\n不死の回復だけを封じ、正々堂々と戦うのだ",
+      "eng": "Talisman utilized by Allfather Lloyd's\r\ncleric knights to hunt down the Undead.\r\nBlocks Estus recovery within a limited area.\r\n\r\nIn the outside world, the Undead are accursed\r\ncreatures, and Lloyd's cleric knights are\r\nwidely praised for their Undead hunts. This\r\nblessed talisman blocks Undead recovery,\r\nallowing the knights to fight with impunity."
+    },
+    "remark": {
+      "chn": "在有效范围内，将无法借着原素来恢复",
+      "jap": "効果範囲内でエストによる回復をできなくする",
+      "eng": "Prevents Estus recovery within a limited area"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/296.webp"
+  },
+  {
+    "id": "297",
+    "name": {
+      "chn": "黑火焰壶",
+      "jap": "黒い火炎壺",
+      "eng": "Black Firebomb"
+    },
+    "description": {
+      "chn": "装满火药的黑色素烧陶壶，\r\n可以引发爆炸，使敌人遭到火属性伤害。\r\n\r\n这是威力强大的间接攻击手段，\r\n而且有时候火属性伤害会发挥功效，\r\n因此是在等级偏低时，特别宝贵的道具。\r\n\r\n特别是黑色火焰壶，威力比一般火焰壶还要强。",
+      "jap": "火薬の詰められた黒い素焼きの壷\r\n爆発して炎ダメージを与える\r\n\r\n威力の大きい間接攻撃であり\r\nまた炎ダメージが有効な場面もあるため\r\n特に低レベルでは貴重なアイテムである\r\n\r\n特に黒い火炎壷は、通常のものより威力が大きい",
+      "eng": "Black bisque urn filled with black powder.\r\nExplodes, inflicting fire damage.\r\n\r\nPowerful ranged weapon, especially\r\nin situations calling for fire damage.\r\nA very precious item at low levels.\r\n\r\nBlack Firebombs are especially destructive."
+    },
+    "remark": {
+      "chn": "引发爆炸，使敌人遭到火属性伤害",
+      "jap": "爆発して炎ダメージを与える",
+      "eng": "Explodes, inflicting fire damage"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/297.webp"
+  },
+  {
+    "id": "310",
+    "name": {
+      "chn": "焦炭松脂",
+      "jap": "炭松脂",
+      "eng": "Charcoal Pine Resin"
+    },
+    "description": {
+      "chn": "如同焦炭般的黑色松脂，\r\n可以让右手武器燃起火焰。\r\n\r\n武器将能暂时获得火属性攻击力，\r\n对于具有肉体的不死人与野兽等，\r\n畏惧火焰的生物格外有效。",
+      "jap": "炭のような黒い松脂\r\n右手の武器に炎をまとわせる\r\n\r\nその武器は一時的に炎属性の攻撃力を得\r\n生身の不死人や獣など\r\n炎を恐れる生物に特に有効となる",
+      "eng": "Black charcoal-like pine resin.\r\nApplies fire to right-hand weapon.\r\n\r\nAffected weapon inflicts fire damage\r\nfor a short time. Particularly effective\r\nagainst corporeal creatures and Undead,\r\nwho have an instinctual fear of fire."
+    },
+    "remark": {
+      "chn": "让右手武器燃起火焰",
+      "jap": "右手の武器に炎をまとわせる",
+      "eng": "Applies fire to right-hand weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/310.webp"
+  },
+  {
+    "id": "311",
+    "name": {
+      "chn": "黄金松脂",
+      "jap": "黄金松脂",
+      "eng": "Gold Pine Resin"
+    },
+    "description": {
+      "chn": "极为罕见，散发着黄金光芒的松脂，\r\n可以让右手武器带有雷电。\r\n\r\n武器将能获得罕见的雷属性攻击力，\r\n对于抗法术或抗火能力强的对象也能生效。\r\n特别是在对付龙族时，应该更能发挥强大的威力。",
+      "jap": "黄金の光を放つとても珍しい松脂\r\n右手の武器に雷をまとわせる\r\n\r\nその武器は珍しい雷属性の攻撃力を得\r\n魔法や炎に強い対象にも有効となる\r\n特に竜族には、大きな威力を発揮するだろう",
+      "eng": "Rare pine resin which emits golden sparks.\r\nApplies lightning to right-hand weapon.\r\n\r\nAffected weapon inflicts rare lightning\r\ndamage, making it effective against targets\r\nwhich are resilient to both magic and fire.\r\nVery effective against dragon family foes."
+    },
+    "remark": {
+      "chn": "让右手武器带有雷电",
+      "jap": "右手の武器に雷をまとわせる",
+      "eng": "Applies lightning to right-hand weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/311.webp"
+  },
+  {
+    "id": "312",
+    "name": {
+      "chn": "暂时诅咒",
+      "jap": "一時の呪い",
+      "eng": "Transient Curse"
+    },
+    "description": {
+      "chn": "受诅咒而死的死者手臂。\r\n可以暂时变成咒死状态，得以跟亡灵交手。\r\n\r\n亡灵是受诅咒的灵体，如果想与之交战，\r\n唯有让自身也受到诅咒，别无他法。\r\n既然有如此安全受到诅咒的方法，\r\n那么不惜冒犯也要砍下死者的手臂，\r\n也就无可厚非了。",
+      "jap": "呪われて死んだ者の腕\r\n一時的に呪死状態となり、亡霊と戦えるようになる\r\n\r\n亡霊は呪われた存在であり\r\nそれと戦うには自らも呪われる他はない\r\n最も安全に呪われる方法があるのなら\r\n死者の腕を切る冒涜も仕方ないだろう",
+      "eng": "Limb of the victim of a curse.\r\nTemporary curse allows engagement with ghosts.\r\n\r\nThe only way to fight back against ghosts,\r\nwho are cursed beings, is to become cursed\r\noneself. The safest method, however dreadful,\r\nis to cut off an arm of the dead."
+    },
+    "remark": {
+      "chn": "暂时变成咒死状态，得以跟亡灵交手",
+      "jap": "一時的に呪死状態となり、亡霊と戦えるようになる",
+      "eng": "Temporary curse allows engagement with ghosts"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/312.webp"
+  },
+  {
+    "id": "313",
+    "name": {
+      "chn": "腐败松脂",
+      "jap": "腐れ松脂",
+      "eng": "Rotten Pine Resin"
+    },
+    "description": {
+      "chn": "已经腐败，具有毒性的松脂，\r\n可以让右手武器附加毒效果。\r\n\r\n使用后，攻击时能让敌人累积毒，\r\n如果能成功让敌人中毒的话，\r\n对方会在一定时间内持续受到伤害。",
+      "jap": "腐敗して毒性をもった松脂\r\n右手の武器に毒効果を付与する\r\n\r\nその武器の攻撃は敵に毒を蓄積し\r\n毒状態にすることができれば\r\nしばらくダメージを与え続けることができる",
+      "eng": "Rotten pine resin that has gained poison.\r\nAdds poison effect to right-hand weapon.\r\n\r\nHits with affected weapon build up enemy\r\npoison level. If enemy is poisoned, damage\r\nwill be inflicted for a period of time."
+    },
+    "remark": {
+      "chn": "让右手武器附加毒效果",
+      "jap": "右手の武器に毒効果を付与する",
+      "eng": "Adds poison effect to right-hand weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/313.webp"
+  },
+  {
+    "id": "330",
+    "name": {
+      "chn": "返回骨片",
+      "jap": "帰還の骨片",
+      "eng": "Homeward Bone"
+    },
+    "description": {
+      "chn": "已经烧成灰烬的骨片，\r\n可以返回最后休息的营火处。\r\n\r\n营火的薪材乃是不死人的骨头，\r\n这些骨头中，少数带有返回的魔力──\r\n因为他们即便已化为白骨，依然受火吸引。",
+      "jap": "燃え尽き、白い灰となった骨片\r\n最後に休息した篝火に戻る\r\n\r\n篝火の薪は不死人の骨であり\r\nその骨は稀に帰還の魔力を帯びる\r\n骨となって尚、篝火に惹かれるのだ",
+      "eng": "Bone fragment reduced to white ash.\r\nReturn to last bonfire used for resting.\r\n\r\nBonfires are fueled by bones of the Undead.\r\nIn rare cases, the strong urge of their\r\nprevious owner's to seek bonfires enchants\r\ntheir bones with a homeward instinct."
+    },
+    "remark": {
+      "chn": "返回最后休息的营火处",
+      "jap": "最後に休息した篝火に戻る",
+      "eng": "Return to last bonfire rested at"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/330.webp"
+  },
+  {
+    "id": "370",
+    "name": {
+      "chn": "七色石",
+      "jap": "七色石",
+      "eng": "Prism Stone"
+    },
+    "description": {
+      "chn": "绽放出美丽光辉的石块，\r\n颜色会七彩变换，据说还有罕见的第八种颜色。\r\n\r\n虽然并未具备特别的效果，\r\n但只要放在地上就能当成路标，\r\n亦可从落地的声音来推测山崖高度。\r\n\r\n如果丢到山崖后发出了巨大声响，\r\n往下跳应该可说是必死无疑。",
+      "jap": "綺麗な輝きを放つ温かな石ころ\r\nその色は七つに変わり、珍しい八色目もあるという\r\n\r\n特別な効果はないが、地面に置けば道標となり\r\nまた落下音から崖の高さを推し量ることもできる\r\n\r\n崖下に投げて大きな音が響くとしたら\r\n飛び降りれば確実な死が待っているだろう",
+      "eng": "Warm pebble emitting a beautiful phasing aura\r\nof seven colors, with a very rare eighth.\r\n\r\nThe rainbow stone does nothing special, but\r\ncan serve as a path marker, and can be\r\ndropped off a cliff to judge height by the\r\nsound of its descent.\r\nIf a loud noise is heard upon its landing,\r\nthen a fall off the ledge is surely lethal."
+    },
+    "remark": {
+      "chn": "可当成路标，或从落地的声音来推测山崖高度",
+      "jap": "道標となり、落下音から崖の高さを推し量る",
+      "eng": "Path marker. Drop and listen to check heights."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/370.webp"
+  },
+  {
+    "id": "371",
+    "name": {
+      "chn": "望远镜",
+      "jap": "遠眼鏡",
+      "eng": "Binoculars"
+    },
+    "description": {
+      "chn": "用黄铜制成的双筒望远镜，\r\n可以清楚看到远方景致。\r\n\r\n由亚斯特拉名匠亲手打造，非常先进的用品，\r\n虽然效果十分单纯，却有着五花八门的用法，\r\n其价值也会随着拥有者而大为不同。",
+      "jap": "真鍮でできた双眼の遠眼鏡\r\n遠くの景色が大きく見える\r\n\r\nアストラの名工の手になる、非常に進んだ道具\r\nできることは単純だが、使い方はいろいろあり\r\n持つ者によってその価値は大きく変わる",
+      "eng": "Binoculars made of brass.\r\nUse to peer at distant scenery.\r\n\r\nThis advanced device was built by a\r\nfamous craftsman of Astora. Its utility is\r\nsingular, but its applications many.\r\n\r\nThe value of these specs depends greatly on\r\nthe imagination of their owner."
+    },
+    "remark": {
+      "chn": "可以放大观看前方景致",
+      "jap": "遠くの景色が大きく見える",
+      "eng": "Use to peer at distant scenery"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/371.webp"
+  },
+  {
+    "id": "372",
+    "name": {
+      "chn": "###2（受死版译文）#3宣誓符",
+      "jap": "##宣誓符",
+      "eng": "##Affidavit"
+    },
+    "description": {
+      "chn": "罪业女神蓓尔嘉的司祭所卖的符，\r\n可以无罪地毁弃一切誓约。\r\n\r\n虽然说誓约原本是极为神圣的，\r\n不能随随便便就将其毁弃等等的，\r\n但蓓尔嘉却也承认凡事总会有其苦衷。",
+      "jap": "罪の女神ベルカの司祭が売っている符\r\nあらゆる誓約を、罪なく破棄できる\r\n\r\n誓約とは本来至極神聖なものであり\r\nそれを尋常に破棄することなどできないが\r\n何処にも事情はあり、ベルカはそれを承認する",
+      "eng": "Slip sold by bishop of Velka, Goddess of Sin\r\nAnnul a covenant without committing sin\r\n\r\nA covenant is a most sacred union,\r\nnormally not subject to negotiation,\r\nbut when circumstances require it,\r\neven Goddess Velka will make an exception."
+    },
+    "remark": {
+      "chn": "可无罪地毁弃一切誓约",
+      "jap": "あらゆる誓約を、罪なく破棄できる",
+      "eng": "Annul a covenant without committing sin"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/372.webp"
+  },
+  {
+    "id": "373",
+    "name": {
+      "chn": "控诉符",
+      "jap": "告罪符",
+      "eng": "Indictment"
+    },
+    "description": {
+      "chn": "罪业女神蓓尔嘉的司祭贩卖的符，\r\n遭到来自其他世界的侵入者杀害时，\r\n可以控诉该名侵入者。\r\n\r\n遭到举发的人将刊载在罪人录上，\r\n相信总有一天，必会受到暗月之刃制裁。",
+      "jap": "罪の女神ベルカの司祭が売っている符\r\n他世界からの侵入者に殺されたとき\r\nその侵入者の罪を告発する\r\n\r\n告発された者は罪人録に載り\r\nいつか暗月の刃に倒れるだろう",
+      "eng": "Slip sold by bishop of Velka, Goddess of Sin.\r\nIf you are killed by an invader, use this to\r\nreport the crime of that trespasser.\r\n\r\nThe indicted player will be added to a list\r\nof unfortunate souls who will one day face\r\nthe wrath of the Blades of the Darkmoon."
+    },
+    "remark": {
+      "chn": "控诉侵入者的罪状",
+      "jap": "侵入者の罪を告発する",
+      "eng": "Report trespass of invader"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/373.webp"
+  },
+  {
+    "id": "374",
+    "name": {
+      "chn": "复仇之证",
+      "jap": "復讐の証",
+      "eng": "Souvenir of Reprisal"
+    },
+    "description": {
+      "chn": "从已死罪人的身上切下\r\n血液流尽而干缩的耳朵。\r\n\r\n暗月之剑的骑士在诛杀逆神的罪人后，\r\n都会带回这项物品以资证明。\r\n\r\n让人望而生畏的无耳罪人尸体，\r\n应该能使人们了解何谓复仇先锋，并进而敬畏诸神。\r\n那正是黯影太阳永恒的使命。",
+      "jap": "血が抜けて縮んだ耳\r\n倒れた罪人から切り取られたもの\r\n\r\n暗月の剣の騎士たちは、神々の敵たる罪人を誅し\r\nその証としてこれを持ち帰る\r\n\r\n耳のない罪人の死体は恐怖の対象となる\r\n人々は復讐の刃を知り、もって神々を敬うだろう\r\nそれが、陰の太陽の永の使命なのだ",
+      "eng": "Blood-drained, shrunken ear.\r\nSouvenir taken for subduing the guilty.\r\n\r\nThe knights called the Blades of the Darkmoon\r\npunish the guilt-soaked offenders of the Gods\r\nand take this as proof of their conquest.\r\nThe earless corpses of the guilty will be\r\nleft behind as a warning to others, inspiring\r\nboth fear and respect for the Gods. Such is\r\nthe eternal mandate of the Dark Sun."
+    },
+    "remark": {
+      "chn": "诛杀罪人的证明",
+      "jap": "罪人を誅した証",
+      "eng": "Souvenir taken for subduing the guilty"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/374.webp"
+  },
+  {
+    "id": "375",
+    "name": {
+      "chn": "太阳徽章",
+      "jap": "太陽のメダル",
+      "eng": "Sunlight Medal"
+    },
+    "description": {
+      "chn": "刻着太阳圣徽的徽章，\r\n是致赠给召唤出太阳战士，并达成目的之人。\r\n至高无上的荣誉证明。\r\n\r\n虽然圣征所代表的阳光长男早已遭神放逐，\r\n关于他的一切纪录也随之消散，\r\n但至今仍以战神身分，默默眷顾着各方战士。",
+      "jap": "太陽のホーリーシンボルが刻まれたメダル\r\n太陽の戦士を召喚し、目的を達成した皆に贈られる\r\nわずかに熱を帯びた、なによりの名誉の証\r\n\r\nシンボルの主、太陽の光の長子は\r\nすべての記録と共に神を追われて久しいが\r\nいまだ戦神として、戦士たちを見守っている",
+      "eng": "This faintly warm medal, engraved with the\r\nsymbol of the Sun, is the ultimate honor,\r\nawarded to those who summon the Warrior\r\nof Sunlight and complete a goal.\r\n\r\nThe symbol represents Lord Gwyn's firstborn,\r\nwho lost his deity status and was expunged\r\nfrom the annals. But the old God of War\r\nstill watches closely over his warriors."
+    },
+    "remark": {
+      "chn": "至高无上的荣誉证明",
+      "jap": "なによりの名誉の証",
+      "eng": "A badge of the ultimate honor"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/375.webp"
+  },
+  {
+    "id": "376",
+    "name": {
+      "chn": "项链",
+      "jap": "ペンダント",
+      "eng": "Pendant"
+    },
+    "description": {
+      "chn": "\r\n完全没有特别效果的普通项链。\r\n\r\n不过在艰辛的旅途中，\r\n也需要有些宝贵的回忆。",
+      "jap": "何の効果もないただのペンダント\r\n\r\nだが辛い旅には\r\nむしろあたたかい思い出が必要なのだ",
+      "eng": "A simple pendant with no effect.\r\n\r\nEven so, pleasant memories are crucial\r\nto survival on arduous journeys."
+    },
+    "remark": {
+      "chn": "毫无任何效果",
+      "jap": "何の効果もない",
+      "eng": "No effect"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/376.webp"
+  },
+  {
+    "id": "377",
+    "name": {
+      "chn": "龙头石",
+      "jap": "竜頭石",
+      "eng": "Dragon Head Stone"
+    },
+    "description": {
+      "chn": "宿有不朽古龙能力的石块。\r\n借由那些向古龙祈祷，\r\n以接近它们的超人所用的秘密仪式，\r\n把人头化为龙头，喷出龙的吐息。\r\n\r\n超人的目标是超越生命，\r\n为此须先变形成和古龙十分相似的外貌。\r\n这秘密仪式仅是此目标的起点，\r\n变形效果唯有死亡方可解除。",
+      "jap": "朽ちぬ古竜の力を宿した石\r\n古竜に祈り、近づこうとする超越者たちの秘儀\r\n人頭を竜のそれとし、竜のブレスを吐く\r\n\r\n超越者の目指すものは、生命の超越であり\r\nそのために古竜の完全な似姿を得ることである\r\nこの秘儀はその入口にすぎないが\r\nその変態効果は死ぬまで解けることはない",
+      "eng": "Stone imbued with the power of the dragons.\r\nRite of apostles of the ancient dragons.\r\nGain head of dragon. Emit dragon breath.\r\n\r\nThe dragon apostles seek transcendence of\r\nlife itself, attainable by transformation\r\ninto an ancient dragon. This rite is only one\r\nstep, but it cannot be reversed until death."
+    },
+    "remark": {
+      "chn": "把人头化为龙头，喷出龙的吐息",
+      "jap": "人頭を竜のそれとし、竜のブレスを吐く",
+      "eng": "Gain dragon head and emit dragon breath"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/377.webp"
+  },
+  {
+    "id": "378",
+    "name": {
+      "chn": "龙体石",
+      "jap": "竜体石",
+      "eng": "Dragon Torso Stone"
+    },
+    "description": {
+      "chn": "宿有不朽古龙能力的石块。\r\n借由那些向古龙祈祷，\r\n以接近它们的超人所用的秘密仪式，\r\n把人体化为龙身，发出龙吼。\r\n\r\n超人的目标是超越生命，\r\n为此须先变形成和古龙十分相似的外貌。\r\n这秘密仪式就是为此而有，\r\n变形效果唯有死亡方可解除。",
+      "jap": "朽ちぬ古竜の力を宿した石\r\n古竜に祈り、近づこうとする超越者たちの秘儀\r\n人体を竜のそれとし、竜の咆哮をなす\r\n\r\n超越者の目指すものは、生命の超越であり\r\nそのために古竜の完全な似姿を得ることである\r\nこの秘儀もそのためのものであり\r\nその変態効果は死ぬまで解けることはない",
+      "eng": "Stone imbued with the power of the dragons.\r\nRite of apostles of the ancient dragons.\r\nGain torso of dragon. Roar like a dragon.\r\n\r\nThe dragon apostles seek transcendence of\r\nlife itself, attainable by transformation\r\ninto an ancient dragon. This rite is only one\r\nstep, but it cannot be reversed until death."
+    },
+    "remark": {
+      "chn": "把人体化为龙身，发出龙吼",
+      "jap": "人体を竜のそれとし、竜の咆哮をなす",
+      "eng": "Gain dragon torso and roar like a dragon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/378.webp"
+  },
+  {
+    "id": "380",
+    "name": {
+      "chn": "垃圾残渣",
+      "jap": "ゴミクズ",
+      "eng": "Rubbish"
+    },
+    "description": {
+      "chn": "一点价值也没有的垃圾残渣。\r\n究竟是在想些什么，才会把这种东西带在身边呢？\r\n相信常人应该很难理解吧。",
+      "jap": "何の価値もないゴミクズ\r\n何を考えてこんなものを持ち歩いているのか\r\n常人であれば理解に苦しむだろう",
+      "eng": "Rubbish with no value.\r\nWho in their right mind would bother carrying\r\nthis around? Perhaps you need help."
+    },
+    "remark": {
+      "chn": "毫无任何价值",
+      "jap": "何の価値もない",
+      "eng": "Has no value"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/380.webp"
+  },
+  {
+    "id": "381",
+    "name": {
+      "chn": "铜币",
+      "jap": "銅の硬貨",
+      "eng": "Copper Coin"
+    },
+    "description": {
+      "chn": "铜制硬币。\r\n中央铸有酒与药之神──马克洛依夫老爹的侧脸。\r\n\r\n在人世，铜币虽然具有一定价值，\r\n但是在以灵魂作为货币的罗德兰，则是毫无意义。\r\n\r\n即便如此，却还是舍不得丢弃的原因，\r\n想必是希望有一天可以重回人世吧。",
+      "jap": "銅で作られた硬貨\r\n中央は酒と薬の神、マクロイフ親父の横顔である\r\n\r\n人の世界ではそれなりに価値のある銅貨も\r\nソウルが貨幣のロードランではあまり意味がない\r\n\r\nそれでもそれを捨てられないのは\r\nいつか人の世界に帰る希望からだろうか",
+      "eng": "Coin made of copper. Its face shows\r\nOld Man McLoyf, god of medicine and drink.\r\n\r\nEven coins of great value in the world of\r\nmen have little value in Lordran, where the\r\naccepted currency is souls.\r\n\r\nThose who dream of returning to the outside\r\nworld are fond of carrying these around."
+    },
+    "remark": {
+      "chn": "以铜制成的马克洛依夫老爹硬币",
+      "jap": "銅で作られたマクロイフ親父の硬貨",
+      "eng": "Copper coin of Old Man McLoyf"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/381.webp"
+  },
+  {
+    "id": "382",
+    "name": {
+      "chn": "银币",
+      "jap": "銀の硬貨",
+      "eng": "Silver Coin"
+    },
+    "description": {
+      "chn": "银制硬币。\r\n中央铸有传说中的骑士王──伦德尔的肖像。\r\n\r\n在人世，银币虽然价值不菲，\r\n但是在以灵魂作为货币的罗德兰，则是毫无意义。\r\n\r\n即便如此，却还是舍不得丢弃的原因，\r\n想必是希望有一天可以重回人世吧。",
+      "jap": "銀で作られた硬貨\r\n中央は伝説の騎士王レンドルの肖像である\r\n\r\n人の世界では価値の高い銀貨も\r\nソウルが貨幣のロードランではあまり意味がない\r\n\r\nそれでもそれを捨てられないのは\r\nいつか人の世界に帰る希望からだろうか",
+      "eng": "Coin made of silver, with a portrait of the\r\nlegendary Knight King Rendal on its face.\r\n\r\nEven coins of great value in the world of\r\nmen have little value in Lordran, where the\r\naccepted currency is souls.\r\n\r\nThose who dream of returning to the outside\r\nworld are fond of carrying these around."
+    },
+    "remark": {
+      "chn": "以银制成的骑士王伦德尔硬币",
+      "jap": "銀で作られた騎士王レンドルの硬貨",
+      "eng": "Silver coin of Knight King Rendal"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/382.webp"
+  },
+  {
+    "id": "383",
+    "name": {
+      "chn": "金币",
+      "jap": "金の硬貨",
+      "eng": "Gold Coin"
+    },
+    "description": {
+      "chn": "黄金制硬币。\r\n中央铸有主神洛伊德及环绕他的白色光环。\r\n\r\n在人世，金币虽然价值连城，\r\n但是在以灵魂作为货币的罗德兰，则是毫无意义。\r\n\r\n即便如此，却还是舍不得丢弃的原因，\r\n想必是希望有一天可以重回人世吧。",
+      "jap": "金で作られた硬貨\r\n中央は主神ロイドと彼の白い光輪である\r\n\r\n人の世界ではきわめて価値の高い金貨も\r\nソウルが貨幣のロードランではあまり意味がない\r\n\r\nそれでもそれを捨てられないのは\r\nいつか人の世界に帰る希望からだろうか",
+      "eng": "Coin made of gold, with Allfather Lloyd\r\nand his white halo shown on its face.\r\n\r\nEven coins of great value in the world of\r\nmen have little value in Lordran, where the\r\naccepted currency is souls.\r\n\r\nThose who dream of returning to the outside\r\nworld are fond of carrying these around."
+    },
+    "remark": {
+      "chn": "以黄金制成的主神洛伊德硬币",
+      "jap": "金で作られた主神ロイドの硬貨",
+      "eng": "Gold coin of Allfather Lloyd"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/383.webp"
+  },
+  {
+    "id": "384",
+    "name": {
+      "chn": "诡异人偶",
+      "jap": "おかしな人形",
+      "eng": "Peculiar Doll"
+    },
+    "description": {
+      "chn": "形状样貌奇特，不太常见的人偶。\r\n\r\n据来源不明的传说所提，这是禁忌者才有的物品，\r\n这种人不容于世界，\r\n最后受到导引而到了冰冷的绘画世界中。",
+      "jap": "あまり見ない奇妙な形、奇妙な格好の人形\r\n\r\nある伝承によれば、忌み者だけがこれを持ち\r\n世界のどこにも居場所なく\r\nやがて冷たい絵画の世界に導かれるという",
+      "eng": "A strange doll in strange dress.\r\n\r\nThere once was an abomination who had\r\nno place in this world. She clutched this\r\ndoll tightly, and eventually was drawn into\r\na cold and lonely painted world."
+    },
+    "remark": {
+      "chn": "形状样貌奇特，不太常见的人偶",
+      "jap": "あまり見ない奇妙な形、奇妙な格好の人形",
+      "eng": "A strange doll with strange dress"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/384.webp"
+  },
+  {
+    "id": "385",
+    "name": {
+      "chn": "干缩手指",
+      "jap": "干からびた指",
+      "eng": "Dried Finger"
+    },
+    "description": {
+      "chn": "联机游玩专用道具。\r\n已干缩的多节手指。\r\n\r\n使用后可以加强与其他世界的联系，\r\n虽然能够召唤第三位灵体，\r\n但是也能让第二位暗灵入侵。\r\n\r\n并且短时间内会变得容易被暗灵入侵。\r\n请小心使用此物。",
+      "jap": "オンラインプレイ専用アイテム\r\n干からびた多節の指\r\n\r\n使用により他世界との繋がりを強め\r\n三人目の霊体が召喚可能になるが\r\n二人目の闇霊も侵入可能になってしまう\r\n\r\nまた、短時間の内に闇霊に侵入されやすくもなる\r\n\r\n十分に注意して使用すること",
+      "eng": "Online play item.\r\nDried finger with multiple knuckles.\r\n\r\nUse to strengthen connection to other worlds, allowing the \r\nsummoning of a third phantom, but also a second dark spirit.\r\n\r\nAlso makes the summoning of a dark spirit occur earlier. \r\nUse with caution."
+    },
+    "remark": {
+      "chn": "请小心使用此物",
+      "jap": "十分に注意して使用すること",
+      "eng": "Should only be used with the greatest of caution"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/385.webp"
+  },
+  {
+    "id": "390",
+    "name": {
+      "chn": "防火女的灵魂",
+      "jap": "火防女の魂",
+      "eng": "Fire Keeper Soul"
+    },
+    "description": {
+      "chn": "传火祭祀场的防火女──灰色圣女的灵魂。\r\n\r\n人性可以附身在防火女的灵魂上，\r\n也会对她们的身体造成影响：\r\n她们的每一寸肌肤下，都有无数人性蠢动，\r\n那模样看起来十分恐怖。\r\n\r\n而她之所以会成为阴暗监牢中的囚虏，\r\n会不会是自己心甘情愿如此呢？",
+      "jap": "火継ぎの祭祀場の火防女、灰色の聖女の魂\r\n\r\n火防女の魂は人間性の憑代であり\r\nそれは彼女たちの体においても変わらない\r\nあらゆる皮膚の下に無数の人間性が蠢き\r\nその姿は、大抵おぞましいものとなる\r\n\r\n彼女が暗い牢の虜囚となったのも\r\nあるいは自ら進んでのことだったのだろうか",
+      "eng": "Soul of the Ash Maiden,\r\nFire Keeper of Firelink Shrine.\r\n\r\nA Fire Keeper's soul is a draw for humanity,\r\nand held within their bosoms, below just a\r\nthin layer of skin, are swarms of humanity\r\nthat writhe and squirm.\r\nWas the Ash Maiden locked in this dark prison\r\nfor some transgression, or by her own will?"
+    },
+    "remark": {
+      "chn": "据说可以强化原素瓶的效力",
+      "jap": "エスト瓶の力を高めるという",
+      "eng": "Boosts power of Estus Flask"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/390.webp"
+  },
+  {
+    "id": "391",
+    "name": {
+      "chn": "防火女的灵魂",
+      "jap": "火防女の魂",
+      "eng": "Fire Keeper Soul"
+    },
+    "description": {
+      "chn": "亚诺尔隆德的防火女──暗月女骑士的灵魂。\r\n\r\n人性可以附身在防火女的灵魂上，\r\n也会对她们的身体造成影响：\r\n她们的每一寸肌肤下，都有无数人性蠢动，\r\n那模样看起来十分恐怖。\r\n\r\n而她会穿戴一身黄铜铠甲，\r\n也是为了掩饰那恐怖的模样。",
+      "jap": "アノール・ロンドの火防女、暗月の女騎士の魂\r\n\r\n火防女の魂は人間性の憑代であり\r\nそれは彼女たちの体においても変わらない\r\nあらゆる皮膚の下に無数の人間性が蠢き\r\nその姿は、大抵おぞましいものとなる\r\n\r\n彼女の真鍮の鎧は\r\nその姿を隠すものでもあったわけだ",
+      "eng": "Soul of the Darkmoon Knightess,\r\nFire Keeper of Anor Londo.\r\n\r\nA Fire Keeper's soul is a draw for humanity,\r\nand held within their bosoms, below just a\r\nthin layer of skin, are swarms of humanity\r\nthat writhe and squirm. Her brass armor\r\nserves to disguise this ghastly form."
+    },
+    "remark": {
+      "chn": "据说可以强化原素瓶的效力",
+      "jap": "エスト瓶の力を高めるという",
+      "eng": "Boosts power of Estus Flask"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/391.webp"
+  },
+  {
+    "id": "392",
+    "name": {
+      "chn": "防火女的灵魂",
+      "jap": "火防女の魂",
+      "eng": "Fire Keeper Soul"
+    },
+    "description": {
+      "chn": "克拉格住处的防火女──混沌的女儿的灵魂。\r\n\r\n人性可以附身在防火女的灵魂上，\r\n也会对她们的身体造成影响：\r\n她们的每一寸肌肤下，都有无数人性蠢动，\r\n那模样看起来十分恐怖。\r\n\r\n而在她的身上，人性则是化为无数颗蛋。\r\n那些蛋全都是人性的摇篮。",
+      "jap": "クラーグの住処の火防女、混沌の娘の魂\r\n\r\n火防女の魂は人間性の憑代であり\r\nそれは彼女たちの体においても変わらない\r\nあらゆる皮膚の下に無数の人間性が蠢き\r\nその姿は、大抵おぞましいものとなる\r\n\r\n彼女においてそれは、無数のたまごとして現れた\r\nあのたまごはすべて、人間性の揺り篭なのだ",
+      "eng": "Soul of a Daughter of Chaos,\r\nFire Keeper of Quelaag's Domain.\r\n\r\nA Fire Keeper's soul is a draw for humanity,\r\nand held within their bosoms, below just a\r\nthin layer of skin, are swarms of humanity\r\nthat writhe and squirm.\r\nTo her, the countless eggs which appeared\r\nwere cradles for each tiny humanity. "
+    },
+    "remark": {
+      "chn": "据说可以强化原素瓶的效力",
+      "jap": "エスト瓶の力を高めるという",
+      "eng": "Boosts power of Estus Flask"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/392.webp"
+  },
+  {
+    "id": "393",
+    "name": {
+      "chn": "防火女的灵魂",
+      "jap": "火防女の魂",
+      "eng": "Fire Keeper Soul"
+    },
+    "description": {
+      "chn": "出现在某时某地的防火女灵魂。\r\n\r\n所谓防火女，乃是营火的化身，\r\n也是所有献上人性的附身所在。\r\n据说防火女的灵魂受到无数人性的分食，\r\n可以强化不死人宝贵的原素瓶。\r\n\r\n可以当道具使用，但使用后不会强化原素瓶，\r\n而是会获得人性、恢复血量，并丧失防火女的灵魂。",
+      "jap": "いつかどこかにいた火防女の魂\r\n\r\n火防女とは篝火の化身であり\r\n捧げられた人間性の憑代である\r\nその魂は、無数の人間性に食い荒らされ\r\n不死の宝、エスト瓶の力を高めるという\r\n\r\nアイテムとして使用することもできるが\r\nその場合エスト瓶は強化されず\r\n人間性を得、ＨＰを回復し、火防女の魂は失われる",
+      "eng": "Soul of a long-lost Fire Keeper.\r\n\r\nEach Fire Keeper is a corporeal manifestation\r\nof her bonfire, and a draw for the humanity\r\nwhich is offered to her. Her soul is gnawed\r\nby infinite humanity, and can boost the power\r\nof precious Estus Flasks.\r\n\r\nIt can be used to gain Humanity and restore HP\r\nat the cost of losing the Fire Keeper soul to\r\nreinforce the Estus Flasks."
+    },
+    "remark": {
+      "chn": "据说可以强化原素瓶的效力",
+      "jap": "エスト瓶の力を高めるという",
+      "eng": "Boosts power of Estus Flask"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/393.webp"
+  },
+  {
+    "id": "400",
+    "name": {
+      "chn": "来历不明不死人的灵魂",
+      "jap": "故も知らぬ不死のソウル",
+      "eng": "Soul of a Lost Undead"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n来历不明不死人的灵魂。\r\n\r\n使用后可以获得灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n故も知らぬ不死人のソウル\r\n\r\n使用によりソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Soul of a lost Undead who has\r\nlong ago gone Hollow.\r\n\r\nUse to acquire souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/400.webp"
+  },
+  {
+    "id": "401",
+    "name": {
+      "chn": "来历不明不死人的大块灵魂",
+      "jap": "故も知らぬ不死の大きなソウル",
+      "eng": "Large Soul of a Lost Undead"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n来历不明不死人的大块灵魂。\r\n\r\n使用后可以获得灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n故も知らぬ不死人の大きなソウル\r\n\r\n使用によりソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Large soul of a lost Undead\r\nwho has long ago gone Hollow.\r\n\r\nUse to acquire souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/401.webp"
+  },
+  {
+    "id": "402",
+    "name": {
+      "chn": "无名战士的灵魂",
+      "jap": "名も無き戦士のソウル",
+      "eng": "Soul of a Nameless Soldier"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n无名不死人战士的灵魂。\r\n\r\n使用后可以获得灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n名も無き不死の戦士のソウル\r\n\r\n使用によりソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Soul of a nameless Undead soldier\r\nwho has long ago gone Hollow.\r\n\r\nUse to acquire souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/402.webp"
+  },
+  {
+    "id": "403",
+    "name": {
+      "chn": "无名战士的大块灵魂",
+      "jap": "名も無き戦士の大きなソウル",
+      "eng": "Large Soul of a Nameless Soldier"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n无名不死人战士的大块灵魂。\r\n\r\n使用后可以获得较多的灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n名も無き不死の戦士の大きなソウル\r\n\r\n使用により多くのソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Large soul of a nameless Undead\r\nsoldier who has long ago gone Hollow.\r\n\r\nUse to acquire many souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/403.webp"
+  },
+  {
+    "id": "404",
+    "name": {
+      "chn": "知名骑士的灵魂",
+      "jap": "高名な騎士のソウル",
+      "eng": "Soul of a Proud Knight"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n知名不死人骑士的灵魂。\r\n\r\n使用后可以获得较多的灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n高名な不死の騎士のソウル\r\n\r\n使用により多くのソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Soul of a proud Undead knight who\r\nhas long ago gone Hollow.\r\n\r\nUse to acquire many souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/404.webp"
+  },
+  {
+    "id": "405",
+    "name": {
+      "chn": "知名骑士的大块灵魂",
+      "jap": "高名な騎士の大きなソウル",
+      "eng": "Large Soul of a Proud Knight"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n知名不死人骑士的大块灵魂。\r\n\r\n使用后可以获得较多的灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n高名な不死の騎士の大きなソウル\r\n\r\n使用により多くのソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Large soul of a proud Undead knight\r\nwho has long ago gone Hollow.\r\n\r\nUse to acquire many souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/405.webp"
+  },
+  {
+    "id": "406",
+    "name": {
+      "chn": "骁悍勇者的灵魂",
+      "jap": "勇敢な勇者のソウル",
+      "eng": "Soul of a Brave Warrior"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n骁悍不死人勇者的灵魂。\r\n\r\n使用后可以获得大量灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n勇敢な不死の勇者のソウル\r\n\r\n使用により大量のソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Soul of a brave Undead warrior\r\nwho has long ago gone Hollow.\r\n\r\nUse to acquire a large amount of souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/406.webp"
+  },
+  {
+    "id": "407",
+    "name": {
+      "chn": "骁悍勇者的大块灵魂",
+      "jap": "勇敢な勇者の大きなソウル",
+      "eng": "Large Soul of a Brave Warrior"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n骁悍不死人勇者的大块灵魂。\r\n\r\n使用后可以获得大量灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n勇敢な不死の勇者の大きなソウル\r\n\r\n使用により大量のソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Large soul of a brave Undead warrior\r\nwho has long ago gone Hollow.\r\n\r\nUse to acquire a large amount of souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/407.webp"
+  },
+  {
+    "id": "408",
+    "name": {
+      "chn": "英雄的灵魂",
+      "jap": "英雄のソウル",
+      "eng": "Soul of a Hero"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n传说英雄的灵魂。\r\n\r\n使用后可以获得大量灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n伝承にある英雄のソウル\r\n\r\n使用により大量のソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Soul of a hero of legend\r\nwho has long ago gone Hollow.\r\n\r\nUse to acquire a large amount of souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/408.webp"
+  },
+  {
+    "id": "409",
+    "name": {
+      "chn": "伟大英雄的灵魂",
+      "jap": "偉大な英雄のソウル",
+      "eng": "Soul of a Great Hero"
+    },
+    "description": {
+      "chn": "在成为游魂后，终于死透的\r\n传说中伟大英雄的灵魂。\r\n\r\n使用后可以获得不计其数的灵魂。\r\n\r\n灵魂是一切生命的根源，\r\n即便成了不死人，甚至成为游魂，\r\n依然会基于本能持续追求灵魂。",
+      "jap": "亡者となり、遂に動かなくなった\r\n伝承にある偉大な英雄のソウル\r\n\r\n使用により莫大なソウルを獲得する\r\n\r\nソウルは生命すべての源であり\r\n不死となり、また亡者となっても\r\n皆本能的にそれを求め続ける",
+      "eng": "Great soul of a hero of legend\r\nwho has long ago gone Hollow.\r\n\r\nUse to acquire an incredible amount of souls.\r\n\r\nSouls are the source of all life,\r\nand whether Undead, or even Hollow,\r\none continues to seek them."
+    },
+    "remark": {
+      "chn": "使用后可以获得灵魂",
+      "jap": "使用によりソウルを獲得する",
+      "eng": "Use to acquire souls"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/409.webp"
+  },
+  {
+    "id": "500",
+    "name": {
+      "chn": "人性",
+      "jap": "人間性",
+      "eng": "Humanity"
+    },
+    "description": {
+      "chn": "偶尔可从尸体找到的小黑精，\r\n使用后可以得到1点人性，并大幅恢复血量。\r\n\r\n虽然这种黑精也被称为人性，\r\n但实际上是什么并不清楚。\r\n如果说灵魂是一切生命的根源，\r\n那唯有人才拥有的人性又代表着什么？",
+      "jap": "稀に死体に見られる小さな黒い精\r\n使用により人間性１を得、ＨＰを大きく回復する\r\n\r\nこの黒い精もまた人間性と呼ばれるが\r\n詳しいことは分かっていない\r\nソウルが生命すべての源であるなら\r\n人のみにある人間性とはなんなのか？",
+      "eng": "Rare tiny black sprite found on corpses.\r\nUse to gain 1 humanity and restore a\r\nlarge amount of HP.\r\n\r\nThis black sprite is called humanity, but\r\nlittle is known about its true nature.\r\nIf the soul is the source of all life,\r\nthen what distinguishes the humanity\r\nwe hold within ourselves?"
+    },
+    "remark": {
+      "chn": "使用后可以得到1点人性，并大幅恢复血量",
+      "jap": "使用により人間性１を得、ＨＰを大きく回復する",
+      "eng": "Use to gain 1 humanity + greatly restore HP"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/500.webp"
+  },
+  {
+    "id": "501",
+    "name": {
+      "chn": "孪生人性",
+      "jap": "人間性の双子",
+      "eng": "Twin Humanities"
+    },
+    "description": {
+      "chn": "偶尔可从尸体找到的小黑精之中，\r\n极为罕见的孪生小黑精。\r\n使用后可以得到2点人性，并大幅恢复血量。\r\n\r\n虽然这种黑精也被称为人性，\r\n但实际上是什么并不清楚。\r\n如果说灵魂是一切生命的根源，\r\n那唯有人才拥有的人性又代表着什么？",
+      "jap": "稀に死体に見られる小さな黒い精\r\n珍しい双子のもの\r\n使用により人間性２を得、ＨＰを大きく回復する\r\n\r\nこの黒い精もまた人間性と呼ばれるが\r\n詳しいことは分かっていない\r\nソウルが生命すべての源であるなら\r\n人のみにある人間性とはなんなのか？",
+      "eng": "Rare tiny black sprite found on corpses.\r\nVery unusual twin humanity.\r\nUse to gain 2 humanity and restore a\r\nlarge amount of HP.\r\n\r\nThis black sprite is called humanity, but\r\nlittle is known about its true nature.\r\nIf the soul is the source of all life,\r\nthen what distinction is left for humanity?"
+    },
+    "remark": {
+      "chn": "使用后可以得到2点人性，并大幅恢复血量",
+      "jap": "使用により人間性２を得、ＨＰを大きく回復する",
+      "eng": "Use to gain 2 humanity + greatly restore HP"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/501.webp"
+  },
+  {
+    "id": "510",
+    "name": {
+      "chn": "人脸“你好啊”",
+      "jap": "人面「こんにちは」",
+      "eng": "Hello Carving"
+    },
+    "description": {
+      "chn": "被囚禁的戈夫持续雕刻出的古木人脸。\r\n他边雕刻边投入感情，最后终于逐渐开悟。\r\n\r\n人脸受到刺激会发出声音，\r\n发声内容会根据投入的感情而不同。\r\n\r\n……这款人脸像是在说“你好啊”，\r\n这么一想，看起来还真有些亲切。",
+      "jap": "囚われのゴーが彫り続ける古木の人面\r\n彼はこれに感情を僅かずつ移し、悟りに近づいていく\r\n\r\n人面は刺激により声を発し\r\nその内容は移された感情により異なる\r\n\r\n…この人面は「こんにちは」のようだ\r\nそう思えば親しげな顔にも見える",
+      "eng": "Head carved of archtrees by Gough in his\r\nimprisonment. Gough imparts an emotion to\r\neach and every completed carving, which\r\nhelps him achieve personal enlightenment.\r\nWhen a head is disturbed, it speaks,\r\nreflecting the emotion conferred to it.\r\n\r\nThis head says \"Hello\". Have another look.\r\nDo you sense the amicability in its eyes?"
+    },
+    "remark": {
+      "chn": "古木人脸，会发出“你好啊”的声音",
+      "jap": "古木の人面。「こんにちは」と声を発する",
+      "eng": "Archtree carving. Says \"Hello\""
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/510.webp"
+  },
+  {
+    "id": "511",
+    "name": {
+      "chn": "人脸“谢谢你”",
+      "jap": "人面「ありがとう」",
+      "eng": "Thank you Carving"
+    },
+    "description": {
+      "chn": "被囚禁的戈夫持续雕刻出的古木人脸。\r\n他边雕刻边投入感情，最后终于逐渐开悟。\r\n\r\n人脸受到刺激会发出声音，\r\n发声内容会根据投入的感情而不同。\r\n\r\n……这款人脸像是在说“谢谢你”，\r\n这么一想，看起来是张很开心的脸。",
+      "jap": "囚われのゴーが彫り続ける古木の人面\r\n彼はこれに感情を僅かずつ移し、悟りに近づいていく\r\n\r\n人面は刺激により声を発し\r\nその内容は移された感情により異なる\r\n\r\n…この人面は「ありがとう」のようだ\r\nそう思えば嬉しげな顔にも見える",
+      "eng": "Head carved of archtrees by Gough in his\r\nimprisonment. Gough imparts an emotion to\r\neach and every completed carving, which\r\nhelps him achieve personal enlightenment.\r\nWhen a head is disturbed, it speaks,\r\nreflecting the emotion conferred to it.\r\n\r\nThis head says \"Thank you\". Have another\r\nlook. Is this not a face of gratitude?"
+    },
+    "remark": {
+      "chn": "古木人脸，会发出“谢谢你”的声音",
+      "jap": "古木の人面。「ありがとう」と声を発する",
+      "eng": "Archtree carving. Says \"Thank you\""
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/511.webp"
+  },
+  {
+    "id": "512",
+    "name": {
+      "chn": "人脸“不错啊！”",
+      "jap": "人面「いいね！」",
+      "eng": "Very good! Carving"
+    },
+    "description": {
+      "chn": "被囚禁的戈夫持续雕刻出的古木人脸。\r\n他边雕刻边投入感情，最后终于逐渐开悟。\r\n\r\n人脸受到刺激会发出声音，\r\n发声内容会根据投入的感情而不同。\r\n\r\n……这款人脸像是在说“不错啊！”，\r\n这么一想，看起来是张很快乐的脸。",
+      "jap": "囚われのゴーが彫り続ける古木の人面\r\n彼はこれに感情を僅かずつ移し、悟りに近づいていく\r\n\r\n人面は刺激により声を発し\r\nその内容は移された感情により異なる\r\n\r\n…この人面は「いいね！」のようだ\r\nそう思えば楽しげな顔にも見える",
+      "eng": "Head carved of archtrees by Gough in his\r\nimprisonment. Gough imparts an emotion to\r\neach and every completed carving, which\r\nhelps him achieve personal enlightenment.\r\nWhen a head is disturbed, it speaks,\r\nreflecting the emotion conferred to it.\r\n\r\nThis head says \"Very good!\" Have another\r\nlook. Does it not appear quite jovial?"
+    },
+    "remark": {
+      "chn": "古木人脸，会发出“不错啊！”的声音",
+      "jap": "古木の人面。「いいね！」と声を発する",
+      "eng": "Archtree carving. Says \"Very good!\""
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/512.webp"
+  },
+  {
+    "id": "513",
+    "name": {
+      "chn": "人脸“很抱歉”",
+      "jap": "人面「申し訳ない」",
+      "eng": "I'm sorry Carving"
+    },
+    "description": {
+      "chn": "被囚禁的戈夫持续雕刻出的古木人脸。\r\n他边雕刻边投入感情，最后终于逐渐开悟。\r\n\r\n人脸受到刺激会发出声音，\r\n发声内容会根据投入的感情而不同。\r\n\r\n……这款人脸像是在说“很抱歉”，\r\n这么一想，看起来是张难过的脸。",
+      "jap": "囚われのゴーが彫り続ける古木の人面\r\n彼はこれに感情を僅かずつ移し、悟りに近づいていく\r\n\r\n人面は刺激により声を発し\r\nその内容は移された感情により異なる\r\n\r\n…この人面は「申し訳ない」のようだ\r\nそう思えば悲しげな顔にも見える",
+      "eng": "Head carved of archtrees by Gough in his\r\nimprisonment. Gough imparts an emotion to\r\neach and every completed carving, which\r\nhelps him achieve personal enlightenment.\r\nWhen a head is disturbed, it speaks,\r\nreflecting the emotion conferred to it.\r\n\r\nThis head says \"I'm sorry\". Have another look.\r\nIsn't that an expression of atonement?"
+    },
+    "remark": {
+      "chn": "古木人脸，会发出“很抱歉”的声音",
+      "jap": "古木の人面。「申し訳ない」と声を発する",
+      "eng": "Archtree carving. Says \"I'm sorry\""
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/513.webp"
+  },
+  {
+    "id": "514",
+    "name": {
+      "chn": "人脸“救命啊！”",
+      "jap": "人面「助けてくれ！」",
+      "eng": "Help me! Carving"
+    },
+    "description": {
+      "chn": "被囚禁的戈夫持续雕刻出的古木人脸。\r\n他边雕刻边投入感情，最后终于逐渐开悟。\r\n\r\n人脸受到刺激会发出声音，\r\n发声内容会根据投入的感情而不同。\r\n\r\n……这款人脸像是在说“救命啊！”，\r\n这么一想，看起来就像在高声要求什么一样。",
+      "jap": "囚われのゴーが彫り続ける古木の人面\r\n彼はこれに感情を僅かずつ移し、悟りに近づいていく\r\n\r\n人面は刺激により声を発し\r\nその内容は移された感情により異なる\r\n\r\n…この人面は「助けてくれ！」のようだ\r\nそう思えば何か叫び訴えるような顔だ",
+      "eng": "Head carved of archtrees by Gough in his\r\nimprisonment. Gough imparts an emotion to\r\neach and every completed carving, which\r\nhelps him achieve personal enlightenment.\r\nWhen a head is disturbed, it speaks,\r\nreflecting the emotion conferred to it.\r\n\r\nThis head says \"Help me!\" Look again.\r\nCan you hear the desperate plea?"
+    },
+    "remark": {
+      "chn": "古木人脸，会发出“救命啊！”的声音",
+      "jap": "古木の人面。「助けてくれ！」と声を発する",
+      "eng": "Archtree carving. Says \"Help me!\""
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/514.webp"
+  },
+  {
+    "id": "700",
+    "name": {
+      "chn": "克拉格的灵魂",
+      "jap": "クラーグのソウル",
+      "eng": "Soul of Quelaag"
+    },
+    "description": {
+      "chn": "已化身为混沌恶魔的\r\n伊札里斯魔女的女儿──克拉格的灵魂。\r\n\r\n特殊的人物会拥有特殊的灵魂──\r\n克拉格的灵魂展现出混沌的各种样貌。\r\n使用后可以获得不计其数的灵魂，\r\n或是可以用来创造出无与伦比的武器。",
+      "jap": "混沌のデーモンと化した\r\nイザリスの魔女の娘クラーグのソウル\r\n\r\n特別な存在は特別なソウルを有する\r\nクラーグのソウルは混沌の諸相をなし\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul of Quelaag, once daughter of the\r\nWitch of Izalith, but now a chaos demon.\r\n\r\nSpecial beings have special souls, and\r\nQuelaag's soul contains all aspects of Chaos.\r\nUse it to acquire a huge amount of souls,\r\nor to create a unique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/700.webp"
+  },
+  {
+    "id": "701",
+    "name": {
+      "chn": "大狼希夫的灵魂",
+      "jap": "大狼シフのソウル",
+      "eng": "Soul of Sif"
+    },
+    "description": {
+      "chn": "替“漫步深渊”的骑士亚尔特留斯效力，\r\n始终守护着他的坟墓的灰色大狼──希夫的灵魂。\r\n\r\n特殊的人物会拥有特殊的灵魂──\r\n继承骑士圣剑的希夫，\r\n其灵魂使用后，可以获得不计其数的灵魂，\r\n或是可以用来创造出无与伦比的武器。",
+      "jap": "「深淵歩き」の騎士アルトリウスに仕え\r\n彼の墓を守ってきた灰色の大狼シフのソウル\r\n\r\n特別な存在は特別なソウルを有する\r\n騎士の聖剣を継いだシフのソウルは\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul of Sif the Great Grey Wolf, who\r\nguards the grave of Artorias the Abysswalker.\r\n\r\nSpecial beings have special souls.\r\nUse the soul of Sif, who inherited the\r\ndivine knightsword, to acquire a huge\r\namount of souls, or to create a\r\nunique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/701.webp"
+  },
+  {
+    "id": "702",
+    "name": {
+      "chn": "乌薪王葛温的灵魂",
+      "jap": "薪の王グウィンのソウル",
+      "eng": "Soul of Gwyn, Lord of Cinder"
+    },
+    "description": {
+      "chn": "伟大的阳光之王，\r\n以及承继初始之火的乌薪王──葛温的灵魂。\r\n\r\n虽然他已将大多数的力量分给诸神，\r\n又化为初始之火的薪材，燃烧成灰，\r\n但即使如此，大王的灵魂依然隐藏着非比寻常的力量。",
+      "jap": "偉大なる太陽の光の王にして\r\n最初の火を継いだ薪の王グウィンのソウル\r\n\r\nその力の多くは神々に分け与えられ\r\nまた最初の火の薪として灰になってしまったが\r\nそれでもなお大王のソウルは\r\n尋常ならざる力を秘めている",
+      "eng": "Soul of the Gwyn, Lord of Sunlight\r\nand Cinder, who linked the First Flame.\r\n\r\nLord Gwyn bequeathed most of his power to the\r\nGods, and burned as cinder for the First\r\nFlame, but even so, Lord Gwyn's soul\r\nis a powerful thing indeed."
+    },
+    "remark": {
+      "chn": "隐藏着非比寻常的力量",
+      "jap": "なお尋常ならざる力を秘めている",
+      "eng": "Contains an incredible power"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/702.webp"
+  },
+  {
+    "id": "703",
+    "name": {
+      "chn": "钢铁巨偶的核心",
+      "jap": "アイアンゴーレムの核",
+      "eng": "Core of an Iron Golem"
+    },
+    "description": {
+      "chn": "钢铁巨偶核心的灵魂。\r\n钢铁巨偶是赛恩古城的防卫者，\r\n专门屠杀想前往亚诺尔隆德的英雄。\r\n\r\n据说这核心原本是古龙骨。\r\n使用后可以获得不计其数的灵魂，\r\n或是可以用来创造出无与伦比的武器。",
+      "jap": "センの古城の守護者として\r\nアノール・ロンドを目指す英雄達を屠ってきた\r\nアイアンゴーレムの核となるソウル\r\n\r\n元々は古竜の骨であったと言われ\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul serving as the core of the Iron Golem,\r\nguardian of Sen's Fortress, and slayer of\r\ncountless heroes seeking Anor Londo.\r\n\r\nOriginally a bone of an everlasting dragon.\r\nUse to acquire a huge amount of souls,\r\nor to create a unique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/703.webp"
+  },
+  {
+    "id": "704",
+    "name": {
+      "chn": "翁斯坦的灵魂",
+      "jap": "オーンスタインのソウル",
+      "eng": "Soul of Ornstein"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德\r\n守护教堂的“猎龙者”翁斯坦的灵魂。\r\n\r\n特殊的人物会拥有特殊的灵魂──\r\n属于葛温王四骑士一员的灵魂，\r\n使用后可以获得不计其数的灵魂，\r\n或是可以用来创造出无与伦比的武器。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「竜狩り」オーンスタインのソウル\r\n\r\n特別な存在は特別なソウルを有する\r\nグウィン王の四騎士に数えられた者のソウルは\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul of Ornstein, Dragonslayer Knight who\r\nguards the cathedral in the forsaken city of Anor Londo.\r\n\r\nSpecial beings have special souls.\r\nLord Gwyn granted this soul to his four\r\nmost trusted knights.\r\n\r\nUse to acquire a huge amount of souls,\r\nor to create a unique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/704.webp"
+  },
+  {
+    "id": "705",
+    "name": {
+      "chn": "月光蝶的灵魂",
+      "jap": "月光蝶のソウル",
+      "eng": "Soul of the Moonlight Butterfly"
+    },
+    "description": {
+      "chn": "在黑森林庭院中翩翩飞舞的神秘生物──\r\n月光蝶的灵魂。\r\n\r\n特殊的人物会拥有特殊的灵魂──\r\n据说白龙希斯创造出的蝴蝶，\r\n其灵魂使用后，可以获得不计其数的灵魂，\r\n或是可以用来创造出无与伦比的武器。",
+      "jap": "黒い森の庭を舞う神秘の生物\r\n月光蝶のソウル\r\n\r\n特別な存在は特別なソウルを有する\r\n白竜シースの被造物であるという蝶のソウルは\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul of the mystical Moonlight Butterfly,\r\nwhich flitters in the Darkroot Garden.\r\n\r\nSpecial beings have special souls.\r\nThe butterfly's soul is a creation of\r\nSeath the Scaleless.\r\n\r\nUse to acquire a huge amount of souls,\r\nor to create a unique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/705.webp"
+  },
+  {
+    "id": "706",
+    "name": {
+      "chn": "斯摩的灵魂",
+      "jap": "スモウのソウル",
+      "eng": "Soul of Smough"
+    },
+    "description": {
+      "chn": "在被遗弃的亚诺尔隆德，\r\n守护教堂的“刽子手”斯摩的灵魂。\r\n\r\n特殊的人物会拥有特殊的灵魂──\r\n脸上总是带着冷酷笑意的刽子手，\r\n其灵魂使用后，可以获得不计其数的灵魂，\r\n或是可以用来创造出无与伦比的武器。",
+      "jap": "棄てられたアノール・ロンドで聖堂を守る\r\n「処刑者」スモウのソウル\r\n\r\n特別な存在は特別なソウルを有する\r\n酷薄な笑みを貼り付けた処刑者のソウルは\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul of Smough the Executioner, who\r\nguards the cathedral in the forsaken\r\ncity of Anor Londo.\r\n\r\nSpecial beings have special souls.\r\nUse the soul of this eerily gleeful\r\nexecutioner to acquire a huge amount\r\nof souls, or to create a unique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/706.webp"
+  },
+  {
+    "id": "707",
+    "name": {
+      "chn": "半龙普利希拉的灵魂",
+      "jap": "半竜プリシラのソウル",
+      "eng": "Soul of Priscilla"
+    },
+    "description": {
+      "chn": "被囚禁在艾雷米雅斯的绘画世界中的\r\n纯白半龙，普利希拉的灵魂。\r\n\r\n特殊的人物会拥有特殊的灵魂──\r\n身分是私生子，又是所有生命之敌的半龙，\r\n其灵魂使用后，可以获得不计其数的灵魂，\r\n或是可以用来创造出无与伦比的武器。",
+      "jap": "エレーミアス絵画世界に閉じ込められた\r\n純白の半竜プリシラのソウル\r\n\r\n特別な存在は特別なソウルを有する\r\n不義の子にして生命の敵である半竜のソウルは\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul of Priscilla the Crossbreed,\r\ntrapped inside the painted world of Ariamis.\r\n\r\nSpecial beings have special souls.\r\nUse the soul of this crossbreed bastard\r\nchild and antithesis to all life to acquire\r\na huge amount of souls, or to create\r\na unique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/707.webp"
+  },
+  {
+    "id": "708",
+    "name": {
+      "chn": "葛温德林的灵魂",
+      "jap": "グウィンドリンのソウル",
+      "eng": "Soul of Gwyndolin"
+    },
+    "description": {
+      "chn": "守护被遗弃的亚诺尔隆德的黯影太阳，\r\n葛温德林的灵魂。\r\n\r\n特殊的人物会拥有特殊的灵魂──\r\n身为葛温王#1么子#3#2幺子#3的葛温德林，\r\n其灵魂在使用后，会获得不计其数的灵魂，\r\n或是创造出无与伦比的武器。",
+      "jap": "棄てられたアノール・ロンドを守る\r\n陰の太陽グウィンドリンのソウル\r\n\r\n特別な存在は特別なソウルを有する\r\nグウィン王の末子たる彼のソウルは\r\n使用により莫大なソウルを獲得するか\r\n他にない武器を生み出せる",
+      "eng": "Soul of Darkmoon Gwyndolin, god of the Dark\r\nSun and guardian of deserted Anor Londo.\r\n\r\nSpecial beings have special souls.\r\nUse the soul of Gwyn's lastborn\r\nto acquire a huge amount of souls,\r\nor to create a unique weapon."
+    },
+    "remark": {
+      "chn": "可以获得不计其数的灵魂，或创造出无与伦比的武器",
+      "jap": "莫大なソウルを獲得するか、他にない武器を生み出せる",
+      "eng": "Acquire many souls, or create unique weapon"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/708.webp"
+  },
+  {
+    "id": "709",
+    "name": {
+      "chn": "圣兽灵魂",
+      "jap": "聖獣のソウル",
+      "eng": "Guardian Soul"
+    },
+    "description": {
+      "chn": "灵庙圣兽，白色带翼狮子的灵魂。\r\n它似乎对深渊逐渐扩大感到恐惧。\r\n\r\n圣兽的身上除了狮子以外，\r\n还有其他不同动物的特征。\r\n可以推论它并非自然的生物，\r\n而且其本质与恶魔较为相近。",
+      "jap": "霊廟の聖獣、白い有翼獅子のソウル\r\n深淵のひろがりに怯えていたようだ\r\n\r\n獅子以外にも色々な動物の特徴を有しており\r\nおそらくは自然な生物でないことが想像できる\r\nそれはむしろ、デーモンの性質に近いものだ",
+      "eng": "Soul of the white winged lion sanctuary\r\nwatchkeeper, who dreaded the spread of\r\nthe Abyss.\r\n\r\nThe Guardian exhibited traits of several\r\nanimals other than lions, suggesting that it\r\nwas no ordinary beast, but rather\r\ncloser to the beings known as Demons."
+    },
+    "remark": {
+      "chn": "灵庙圣兽的灵魂",
+      "jap": "霊廟の聖獣のソウル",
+      "eng": "Soul of Sanctuary Guardian"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/709.webp"
+  },
+  {
+    "id": "710",
+    "name": {
+      "chn": "亚尔特留斯的灵魂",
+      "jap": "アルトリウスのソウル",
+      "eng": "Soul of Artorias"
+    },
+    "description": {
+      "chn": "被深渊吞噬的葛温王骑士──\r\n亚尔特留斯的灵魂。\r\n\r\n狩猎深渊的亚尔特留斯传说，却在中途落幕。\r\n\r\n或许能讨伐堕落的他，挽救其荣耀的人，\r\n才算是传说中真正的主角──狩猎深渊之人。",
+      "jap": "深淵に飲まれたグウィン王の騎士\r\nアルトリウスのソウル\r\n\r\n深淵を狩ったというアルトリウスの伝説は\r\nしかし道半ばで終わっていた\r\n\r\nあるいは堕ちた彼を討ち、誇りを救った者が\r\n実際の伝説の主、深淵を狩る者となるのだろうか",
+      "eng": "Soul of Lord Gwyn's Knight Artorias,\r\nwho was consumed by the Abyss.\r\n\r\nThe legend that Artorias repelled the Abyss\r\nonly told half of the story.\r\n\r\nIt seems that he was defeated, and his\r\nhonor preserved, by some unsung hero,\r\nwho is the true victor over the Abyss."
+    },
+    "remark": {
+      "chn": "被深渊吞噬的骑士，亚尔特留斯的灵魂",
+      "jap": "深淵に飲まれた騎士、アルトリウスのソウル",
+      "eng": "Soul of Knight Artorias, Victim of the Abyss"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/710.webp"
+  },
+  {
+    "id": "711",
+    "name": {
+      "chn": "深渊之主马努斯的灵魂",
+      "jap": "深淵の主マヌスのソウル",
+      "eng": "Soul of Manus"
+    },
+    "description": {
+      "chn": "深渊之主马努斯的灵魂。\r\n这并非普通的灵魂，而是性质浓稠，\r\n既温暖又温和的块状人性。\r\n\r\n马努斯虽然看起来有些岁月，但无庸置疑是个人类。\r\n在他的人性失去控制，成为深渊之主后，\r\n一直在寻找他的另一半──破裂项链。",
+      "jap": "深淵の主マヌスのソウル\r\nそれは尋常のソウルではなく\r\nどろりとして生あたたかい、優しい人間性の塊である\r\n\r\nマヌスは、古くとも明らかに人であった\r\n人間性を暴走させ、深淵の主となった後も\r\nずっと寄る辺、あの割れたペンダントを求めていた",
+      "eng": "Soul of Manus, Father of the Abyss.\r\nThis extraordinary soul is a viscous,\r\nlukewarm lump of gentle humanity.\r\n\r\nAncient Manus was clearly once human.\r\nBut he became the Father of the Abyss\r\nafter his humanity went wild, eternally\r\nseeking his precious broken pendant."
+    },
+    "remark": {
+      "chn": "深渊之主马努斯的灵魂",
+      "jap": "深淵の主マヌスのソウル",
+      "eng": "Soul of Manus, Father of the Abyss"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/711.webp"
+  },
+  {
+    "id": "800",
+    "name": {
+      "chn": "大块余烬",
+      "jap": "大きな種火",
+      "eng": "Large Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n大块余烬算是其中质量较高的，\r\n亚斯特拉的铁匠会处理这种余烬。\r\n\r\n可让+5的一般武器进化，\r\n使之可强化到+10。\r\n\r\n此外，还能让+5的一般武器进化为粗制武器。\r\n（粗制武器可强化到+5）",
+      "jap": "武器を進化させるために必要な種火\r\n大きな種火は中でも上質なものであり\r\nアストラの鍛冶屋が扱う\r\n\r\n＋５の通常武器を進化させ\r\n＋１０まで強化できるようにする\r\n\r\nまた、＋５の通常武器を粗製武器に進化させる\r\n（粗製武器は＋５まで強化できる）",
+      "eng": "Ember required for weapon ascension.\r\nA large, high-quality ember.\r\nHandled by the blacksmiths of Astora.\r\n\r\nAscension for +5 standard weapon.\r\nAllows reinforcement to +10.\r\n\r\nAlso, can ascend +5 std wpn to raw wpn.\r\n(raw weapon can be reinforced to +5)"
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/800.webp"
+  },
+  {
+    "id": "801",
+    "name": {
+      "chn": "特大块余烬",
+      "jap": "とても大きな種火",
+      "eng": "Very Large Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n特大块余烬为其中最高级的，\r\n亚斯特拉的铁匠会处理这种余烬。\r\n\r\n可让+10的一般武器进化，\r\n使之可强化到+15。\r\n如此一来，就跟传说的武器没什么两样了。",
+      "jap": "武器を進化させるために必要な種火\r\nとても大きな種火は最上級のものであり\r\nアストラの鍛冶屋が扱う\r\n\r\n＋１０の通常武器を進化させ\r\n＋１５まで強化できるようにする\r\nそれは、もはや伝説の武器そのものである",
+      "eng": "Ember required for weapon ascension.\r\nHuge ember of highest quality.\r\nHandled by the blacksmiths of Astora.\r\n\r\nAscension for +10 standard weapon.\r\nAllows reinforcement to +15,\r\non par with the greatest weapons of legend."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/801.webp"
+  },
+  {
+    "id": "802",
+    "name": {
+      "chn": "结晶余烬",
+      "jap": "結晶の種火",
+      "eng": "Crystal Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n结晶余烬乃是由白龙希斯创造而成，\r\n唯有身为诸神铁匠的巨人才会处理。\r\n\r\n可让+10的一般武器进化为结晶武器。\r\n（结晶武器可强化到+5）\r\n\r\n虽然结晶武器以威力强大著称，但却容易损坏，\r\n而且也无法修理，坏了就得丢弃。",
+      "jap": "武器を進化させるために必要な種火\r\n結晶の種火は白竜シースの被造物であり\r\n神の鍛冶たる巨人だけが扱える\r\n\r\n＋１０の通常武器を、結晶武器に進化させる\r\n（結晶武器は＋５まで強化できる）\r\n\r\n結晶の武器は高い威力を誇るが\r\n壊れやすく、また修理もできない使い捨てである",
+      "eng": "Ember required for weapon ascension.\r\nCrystal ember created by Seath the Scaleless.\r\nHandled only by the giant God's blacksmiths.\r\n\r\nAscends +10 standard wpn to crystal weapon.\r\n(crystal weapon can be reinforced to +5)\r\n\r\nCrystal weapons are powerful but brittle,\r\nand cannot be repaired once broken."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/802.webp"
+  },
+  {
+    "id": "806",
+    "name": {
+      "chn": "大块法术余烬",
+      "jap": "大きな魔法の種火",
+      "eng": "Large Magic Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n大块法术余烬是一种魔法，\r\n唯有彼海姆的法术铁匠才会处理。\r\n\r\n可让+5的法术武器进化，\r\n使之可强化到+10。\r\n就法术武器而言，这已经是最高水平了。",
+      "jap": "武器を進化させるために必要な種火\r\n大きな魔法の種火は魔術の１つであり\r\nヴィンハイムの魔法鍛冶だけが扱う\r\n\r\n＋５の魔法の武器を進化させ\r\n＋１０まで強化できるようにする\r\nそれは、魔法の武器としては最高のものだ",
+      "eng": "Ember required for weapon ascension.\r\nLarge magic ember, a form of sorcery.\r\nHandled only by the Vinheim magic blacksmiths.\r\n\r\nAscends +5 magic weapon.\r\nAllows reinforcement to +10,\r\nthe most powerful level for magic weapons."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/806.webp"
+  },
+  {
+    "id": "807",
+    "name": {
+      "chn": "魔力余烬",
+      "jap": "魔力の種火",
+      "eng": "Enchanted Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n魔力余烬是种魔法，\r\n为已灭亡的乌拉席露王国遗产。\r\n\r\n可让+5的法术武器进化为魔力武器。\r\n（魔力武器可强化到+5）\r\n\r\n魔力武器具备法术攻击力，\r\n是种可依据智力来强化的魔法师武器。",
+      "jap": "武器を進化させるために必要な種火\r\n魔力の種火は魔術の１つであり\r\n亡国ウーラシールの遺産である\r\n\r\n＋５の魔法の武器を、魔力の武器に進化させる\r\n（魔力の武器は＋５まで強化できる）\r\n\r\n魔力の武器は魔法攻撃力を持ち\r\n理力によって強化される魔術師の武器である",
+      "eng": "Ember required for weapon ascension.\r\nThis enchanted ember, a form of sorcery,\r\nis a vestige of the lost land of Oolacile.\r\n\r\nAscends +5 magic wpn to enchanted weapon.\r\n(enchanted weapon can be reinforced to +5)\r\n\r\nThe sorcerer's enchanted weapon that inflicts\r\nmagic damage and is boosted by intelligence."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/807.webp"
+  },
+  {
+    "id": "808",
+    "name": {
+      "chn": "圣职余烬",
+      "jap": "聖職の種火",
+      "eng": "Divine Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n圣职余烬为教会所有，\r\n原本是给圣职铁匠处理的，但……\r\n\r\n可让+5的一般武器进化为神圣武器。\r\n（神圣武器可强化到+5）\r\n\r\n神圣武器乃是猎捕不死人所用的武器，\r\n对付不死人与尸术师的仆从会十分有效。",
+      "jap": "武器を進化させるために必要な種火\r\n聖職の種火は教会の所有物であり\r\n本来は聖職の鍛治が扱うのだが…\r\n\r\n＋５の通常武器を、神聖の武器に進化させる\r\n（神聖の武器は＋５まで強化できる）\r\n\r\n神聖の武器は不死狩りの武器であり\r\n不死人や屍術師のしもべたちに有効となる",
+      "eng": "Ember required for weapon ascension.\r\nDivine embers are property of the church,\r\nand intended for divine blacksmiths.\r\n\r\nAscends +5 standard wpn to divine weapon.\r\n(divine weapon can be reinforced to +5)\r\n\r\nDivine weapons are for Undead hunting. Use\r\nagainst Undead and the pawns of necromancers."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/808.webp"
+  },
+  {
+    "id": "809",
+    "name": {
+      "chn": "大块圣职余烬",
+      "jap": "大きな聖職の種火",
+      "eng": "Large Divine Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n大块圣职余烬出自于教会的秘密仪式，\r\n原本是给那些获选的圣职铁匠处理。\r\n\r\n可让+5的神圣武器进化，\r\n使之可强化到+10。\r\n如此一来，就跟诸神的武器没什么两样了。",
+      "jap": "武器を進化させるために必要な種火\r\n大きな聖職の種火は教会の秘儀であり\r\n本来は選ばれた聖職の鍛治が扱う\r\n\r\n＋５の神聖の武器を進化させ\r\n＋１０まで強化できるようにする\r\nそれは、もはや神々の武器そのものである",
+      "eng": "Ember required for weapon ascension.\r\nLarge divine ember, of secret church rites.\r\nIntended for select divine blacksmiths.\r\n\r\nAscends +5 divine weapon.\r\nAllows reinforcement to +10,\r\non par with the very weapons of the Gods."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/809.webp"
+  },
+  {
+    "id": "810",
+    "name": {
+      "chn": "黑暗余烬",
+      "jap": "暗い種火",
+      "eng": "Dark Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n黑暗余烬是长久以来受到教会藏匿的禁忌，\r\n知道它的铁匠都已不在人世。\r\n\r\n可让+5的神圣武器进化为邪教武器。\r\n（邪教武器可强化到+5）\r\n\r\n邪教武器乃是猎杀神所用的武器，\r\n对付神之一族及其信徒会十分有效。",
+      "jap": "武器を進化させるために必要な種火\r\n暗い種火は永く教会に秘匿される禁忌であり\r\nそれを知る鍛治は誰も生きてはいない\r\n\r\n＋５の神聖の武器を、邪教の武器に進化させる\r\n（邪教の武器は＋５まで強化できる）\r\n\r\n邪教の武器は神狩りの武器であり\r\n神の一族やその信徒たちに有効となる",
+      "eng": "Ember required for weapon ascension. The\r\nchurch long hid the forbidden black ember,\r\nand no living blacksmith knows of it.\r\n\r\nAscends +5 divine weapon to occult weapon.\r\n(occult weapon can be reinforced to +5)\r\n\r\nOccult weapons were used to hunt the Gods, and\r\nare effective against their followers and kin."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/810.webp"
+  },
+  {
+    "id": "812",
+    "name": {
+      "chn": "大块火焰余烬",
+      "jap": "大きな炎の種火",
+      "eng": "Large Flame Ember"
+    },
+    "description": {
+      "chn": "进化武器时，余烬是不可或缺的一环。\r\n大块火焰余烬出自于小隆德的秘密仪式，\r\n唯有知道古传手法的铁匠才会处理。\r\n\r\n可让+5的火焰武器进化，\r\n使之可强化到+10。\r\n就火焰武器而言，这就已经是最高水平了。",
+      "jap": "武器を進化させるために必要な種火\r\n大きな炎の種火は古の秘儀であり\r\n古い作法を知る鍛冶屋だけが扱える\r\n\r\n＋５の炎の武器を進化させ\r\nそれを＋１０まで強化することができる\r\nそれは、炎の武器としては最高のものだ",
+      "eng": "Ember required for weapon ascension.\r\nLarge flame ember used in ancient rites.\r\nHandled only by blacksmiths knowledgeable in\r\nancient methods.\r\n\r\nAscends +5 fire weapon.\r\nAllows reinforcement to +10,\r\nthe most powerful level for fire weapons."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/812.webp"
+  },
+  {
+    "id": "813",
+    "name": {
+      "chn": "混沌火焰余烬",
+      "jap": "混沌の炎の種火",
+      "eng": "Chaos Flame Ember"
+    },
+    "description": {
+      "chn": "武器在进化时，余烬是不可或缺的一环，\r\n混沌火焰余烬是出自废都伊札里斯的技艺，\r\n唯有知道古传手法的铁匠才会处理。\r\n\r\n可让+5的火焰武器进化为混沌武器。\r\n（混沌武器则可强化到+5为止）\r\n\r\n混沌武器具备着火属性的攻击力，\r\n是一种可通过人性来强化的恶魔武器。",
+      "jap": "武器を進化させるために必要な種火\r\n混沌の炎の種火は廃都イザリスの業であり\r\n古い作法を知る鍛冶屋だけが扱える\r\n\r\n＋５の炎の武器を、混沌の武器に進化させる\r\n（混沌の武器は＋５まで強化できる）\r\n\r\n混沌の武器は炎攻撃力を持ち\r\n人間性によって強化されるデーモンの武器である",
+      "eng": "Ember required for weapon ascension.\r\nChaos Flame Ember is an art of the lost city\r\nof Izalith. Handled only by blacksmiths\r\nknowledgeable in ancient methods.\r\n\r\nAscends +5 flame weapon to chaos weapon.\r\n(chaos weapon can be reinforced to +5)\r\nChaos weapons are demon weapons augmented\r\nby humanity which inflict fire damage."
+    },
+    "remark": {
+      "chn": "铁匠方能运用，在进化武器时不可或缺的余烬",
+      "jap": "鍛治が扱う、武器を進化させるために必要な種火",
+      "eng": "Ember for blacksmith weapon ascension"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/813.webp"
+  },
+  {
+    "id": "1000",
+    "name": {
+      "chn": "楔形石碎片",
+      "jap": "楔石の欠片",
+      "eng": "Titanite Shard"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石碎片，\r\n此为其中最常见的一种，\r\n可将一般武器强化到+5。\r\n\r\n据说，楔形石碎片\r\n乃是从神所拥有的原盘上剥落的薄片\r\n捣碎并附到武器上，便能强化该武器。",
+      "jap": "武器を強化する楔石の欠片\r\nそのもっともありふれたもの\r\n通常の武器を＋５まで強化する\r\n\r\n楔石の欠片は\r\n神の持つ原盤から剥がれた薄片であるといわれ\r\n武器に刻み込むことでその武器を強化する",
+      "eng": "Titanite shard for weapon reinforcement.\r\nMost common titanite material.\r\nReinforces standard weapons to +5.\r\n\r\nTitanite shards are fragments of\r\nthe Legendary Slabs. Titanite is\r\netched into weapons to reinforce."
+    },
+    "remark": {
+      "chn": "将一般武器强化到+5",
+      "jap": "通常の武器を＋５まで強化する",
+      "eng": "+5 reinforce: standard weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1000.webp"
+  },
+  {
+    "id": "1010",
+    "name": {
+      "chn": "楔形石大碎片",
+      "jap": "楔石の大欠片",
+      "eng": "Large Titanite Shard"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石碎片，\r\n此为其中体积特别大的一种。\r\n可将一般武器强化到+10，\r\n或将粗制武器强化到+5。\r\n\r\n据说，楔形石碎片\r\n乃是从神所拥有的原盘上剥落的薄片\r\n捣碎并附到武器上，便能强化该武器。",
+      "jap": "武器を強化する楔石の欠片\r\nその中でも特に大きなもの\r\n通常の武器を＋１０まで強化し\r\n粗製の武器を＋５まで強化する\r\n\r\n楔石の欠片は\r\n神の持つ原盤から剥がれた薄片であるといわれ\r\n武器に刻み込むことでその武器を強化する",
+      "eng": "Titanite shard for weapon reinforcement.\r\nLarger titanite material.\r\nReinforces standard weapons to +10,\r\nand raw weapons to +5.\r\n\r\nTitanite shards are fragments of\r\nthe Legendary Slabs. Titanite is\r\netched into weapons to reinforce."
+    },
+    "remark": {
+      "chn": "将一般武器强化到+10，或将粗制武器强化到+5",
+      "jap": "通常武器を＋１０まで、粗製武器を＋５まで強化する",
+      "eng": "+10 reinforce: standard weapon. +5 reinforce: raw weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1010.webp"
+  },
+  {
+    "id": "1020",
+    "name": {
+      "chn": "绿楔形石大碎片",
+      "jap": "緑楔の大欠片",
+      "eng": "Green Titanite Shard"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石碎片。\r\n绿楔形石带有特殊的力量，\r\n可将法术、神圣与火焰武器强化到+5。\r\n\r\n据说，楔形石碎片\r\n乃是从神所拥有的原盘上剥落的薄片\r\n捣碎并附到武器上，便能强化该武器。",
+      "jap": "武器を強化する楔石の欠片\r\nその中でも緑楔石は特殊な力を帯び\r\n魔法、神聖、炎の武器を＋５まで強化する\r\n\r\n楔石の欠片は\r\n神の持つ原盤から剥がれた薄片であるといわれ\r\n武器に刻み込むことでその武器を強化する",
+      "eng": "Titanite shard for weapon reinforcement.\r\nGreen titanite imbued with a special power.\r\nReinforces magic, divine, and fire\r\nweapons to +5.\r\n\r\nTitanite shards are fragments of\r\nthe Legendary Slabs. Titanite is\r\netched into weapons to reinforce."
+    },
+    "remark": {
+      "chn": "将法术、神圣、火焰武器强化到+5",
+      "jap": "魔法、神聖、炎の武器を＋５まで強化する",
+      "eng": "+5 reinforce: magic/divine/fire weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1020.webp"
+  },
+  {
+    "id": "1030",
+    "name": {
+      "chn": "楔形石块",
+      "jap": "楔石の塊",
+      "eng": "Titanite Chunk"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石块，\r\n从未出现在罗德兰以外的地方。\r\n可将一般武器强化到+14，\r\n或将结晶、雷电武器强化到+4。\r\n\r\n虽然在罗德兰一地发现楔形石块后，\r\n许多人都涌入该处来找寻神之原盘，\r\n但至今仍然没有任何人顺利找到。",
+      "jap": "武器を強化する楔石の塊\r\nロードラン以外で目にすることは無く\r\n通常の武器を＋１４まで強化し\r\n結晶、雷の武器を＋４まで強化する\r\n\r\nロードランで塊が発見されて後\r\nこの地で神の原盤を探し求める者は多いが\r\nそれを見たものはまだ誰もいない",
+      "eng": "Titanite chunk for weapon reinforcement.\r\nNot found outside of Lordran.\r\nReinforces standard weapons to +14,\r\nand crystal, lightning weapons to +4.\r\n\r\nWith the discovery of chunks in Lordran,\r\nthe race to locate the Legendary Slabs\r\nhas begun. But could they be mere myth?"
+    },
+    "remark": {
+      "chn": "将一般武器强化到+14，或将结晶、雷电武器强化到+4",
+      "jap": "通常武器を＋１４まで、結晶、雷を＋４まで強化する",
+      "eng": "+14 reinforce: std wpn. +4 reinforce: crystal/lightning wpn."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1030.webp"
+  },
+  {
+    "id": "1040",
+    "name": {
+      "chn": "蓝楔形石块",
+      "jap": "青楔石の塊",
+      "eng": "Blue Titanite Chunk"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石块。\r\n蓝楔形石带有强大的法术力量，\r\n可将法术武器强化到+9，\r\n或将魔力武器强化到+4。\r\n\r\n虽然在罗德兰一地发现楔形石块后，\r\n许多人都涌入该处来找寻神之原盘，\r\n但至今仍然没有任何人顺利找到。",
+      "jap": "武器を強化する楔石の塊\r\n青楔石は強い魔法の力を帯び\r\n魔法の武器を＋９まで強化し\r\n魔力の武器を＋４まで強化する\r\n\r\nロードランで塊が発見されて後\r\nこの地で神の原盤を探し求める者は多いが\r\nそれを見たものはまだ誰もいない",
+      "eng": "Titanite chunk for weapon reinforcement.\r\nBlue titanite has powerful magic energy.\r\nReinforces magic weapons to +9,\r\nand enchanted weapons to +4.\r\n\r\nWith the discovery of chunks in Lordran,\r\nthe race to locate the Legendary Slabs\r\nhas begun. But could they be mere myth?"
+    },
+    "remark": {
+      "chn": "将法术武器强化到+9，或将魔力武器强化到+4",
+      "jap": "魔法武器を＋９まで、魔力武器を＋４まで強化する",
+      "eng": "+9 reinforce: magic weapon. +4 reinforce: enchanted weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1040.webp"
+  },
+  {
+    "id": "1050",
+    "name": {
+      "chn": "白楔形石块",
+      "jap": "白楔石の塊",
+      "eng": "White Titanite Chunk"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石块。\r\n白楔形石带有强大的奇迹力量，\r\n可将神圣武器强化到+9，\r\n或将邪教武器强化到+4。\r\n\r\n虽然在罗德兰一地发现楔形石块后，\r\n许多人都涌入该处来找寻神之原盘，\r\n但至今仍然没有任何人顺利找到。",
+      "jap": "武器を強化する楔石の塊\r\n白楔石は強い奇跡の力を帯び\r\n神聖の武器を＋９まで強化し\r\n邪教の武器を＋４まで強化する\r\n\r\nロードランで塊が発見されて後\r\nこの地で神の原盤を探し求める者は多いが\r\nそれを見たものはまだ誰もいない",
+      "eng": "Titanite chunk for weapon reinforcement.\r\nWhite titanite has powerful miracle energy.\r\nReinforces divine weapons to +9,\r\nand occult weapons to +4.\r\n\r\nWith the discovery of chunks in Lordran,\r\nthe race to locate the Legendary Slabs\r\nhas begun. But could they be mere myth?"
+    },
+    "remark": {
+      "chn": "将神圣武器强化到+9，或将邪教武器强化到+4",
+      "jap": "神聖武器を＋９まで、邪教武器を＋４まで強化する",
+      "eng": "+9 reinforce: divine weapon. +4 reinforce: occult weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1050.webp"
+  },
+  {
+    "id": "1060",
+    "name": {
+      "chn": "红楔形石块",
+      "jap": "赤楔石の塊",
+      "eng": "Red Titanite Chunk"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石块。\r\n红楔形石带有强大的火焰力量，\r\n可将火焰武器强化到+9，\r\n或将混沌武器强化到+4。\r\n\r\n虽然在罗德兰一地发现楔形石块后，\r\n许多人都涌入该处来找寻神之原盘，\r\n但至今仍然没有任何人顺利找到。",
+      "jap": "武器を強化する楔石の塊\r\n赤楔石は強い炎の力を帯び\r\n炎の武器を＋９まで強化し\r\n混沌の武器を＋４まで強化する\r\n\r\nロードランで塊が発見されて後\r\nこの地で神の原盤を探し求める者は多いが\r\nそれを見たものはまだ誰もいない",
+      "eng": "Titanite chunk for weapon reinforcement.\r\nRed titanite has powerful fire energy.\r\nReinforces fire weapons to +9,\r\nand chaos weapons to +4.\r\n\r\nWith the discovery of chunks in Lordran,\r\nthe race to locate the Legendary Slabs\r\nhas begun. But could they be mere myth?"
+    },
+    "remark": {
+      "chn": "将火焰武器强化到+9，或将混沌武器强化到+4",
+      "jap": "炎武器を＋９まで、混沌武器を＋４まで強化する",
+      "eng": "+9 reinforce: fire weapon. +4 reinforce: chaos weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1060.webp"
+  },
+  {
+    "id": "1070",
+    "name": {
+      "chn": "楔形石原盘",
+      "jap": "楔石の原盤",
+      "eng": "Titanite Slab"
+    },
+    "description": {
+      "chn": "强化武器用的楔形石原盘，\r\n此为传说中神所拥有的物品。\r\n可将一般武器强化到+15，\r\n或将结晶、雷电武器强化到+5。\r\n\r\n原盘乃是无名冶炼之神的遗物，\r\n用来冶炼获选的神之武器。\r\n借此原盘冶炼出的武器，\r\n应该可以跟寥寥无几的传说武器相提并论。",
+      "jap": "武器を強化する楔石の原盤\r\n伝承では神が持つとされていたもの\r\n通常の武器を＋１５に強化し\r\n結晶、雷の武器を＋５に強化する\r\n\r\n原盤は、名も無き鍛治の神の遺物であり\r\n選ばれた神の武器を鍛えるためのものである\r\nこれによって鍛えられた武器は\r\n数少ない伝説の武器に並び称されるだろう",
+      "eng": "Titanite slab for weapon reinforcement.\r\nLegendary Slabs were the domain of the Gods.\r\nReinforces standard weapons to +15,\r\nand crystal or lightning weapons to +5.\r\n\r\nLegendary Slabs are the heirlooms of a\r\nnameless blacksmith deity, who forged the\r\nweapons of other Gods. Weapons forged with\r\nthis slab become rare legendary weapons."
+    },
+    "remark": {
+      "chn": "将一般武器强化到+15，或将结晶、雷电武器强化到+5",
+      "jap": "通常武器を＋１５に、結晶、雷を＋５に強化する",
+      "eng": "+15 reinforce: std wpn. +5 reinforce: crystal/lightning wpn."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1070.webp"
+  },
+  {
+    "id": "1080",
+    "name": {
+      "chn": "蓝楔形石原盘",
+      "jap": "青楔石の原盤",
+      "eng": "Blue Titanite Slab"
+    },
+    "description": {
+      "chn": "强化武器用的蓝楔形石原盘，\r\n此为传说中神所拥有的物品。\r\n可将法术武器强化到+10，\r\n或将魔力武器强化到+5。\r\n\r\n原盘乃是无名冶炼之神的遗物，\r\n用来冶炼获选的神之武器。\r\n借此原盘冶炼出的武器，\r\n应该可以跟寥寥无几的传说武器相提并论。",
+      "jap": "武器を強化する青楔石の原盤\r\n伝承では神が持つとされていたもの\r\n魔法の武器を＋１０に強化し\r\n魔力の武器を＋５に強化する\r\n\r\n原盤は、名も無き鍛治の神の遺物であり\r\n選ばれた神の武器を鍛えるためのものである\r\nこれによって鍛えられた武器は\r\n数少ない伝説の武器に並び称されるだろう",
+      "eng": "Blue titanite slab for weapon reinforcement.\r\nLegendary Slabs were the domain of the Gods.\r\nReinforces magic weapons to +10,\r\nand enchanted weapons to +5.\r\n\r\nLegendary Slabs are the heirlooms of a\r\nnameless blacksmith deity, who forged the\r\nweapons of other Gods. Weapons forged with\r\nthis slab become rare legendary weapons."
+    },
+    "remark": {
+      "chn": "将法术武器强化到+10，或将魔力武器强化到+5",
+      "jap": "魔法武器を＋１０に、魔力武器を＋５に強化する",
+      "eng": "+10 reinforce: magic weapon. +5 reinforce: enchanted weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1080.webp"
+  },
+  {
+    "id": "1090",
+    "name": {
+      "chn": "白楔形石原盘",
+      "jap": "白楔石の原盤",
+      "eng": "White Titanite Slab"
+    },
+    "description": {
+      "chn": "强化武器用的白楔形石原盘，\r\n此为传说中神所拥有的物品。\r\n可将神圣武器强化到+10，\r\n或将邪教武器强化到+5。\r\n\r\n原盘乃是无名冶炼之神的遗物，\r\n用来冶炼获选的神之武器。\r\n借此原盘冶炼出的武器，\r\n应该可以跟寥寥无几的传说武器相提并论。",
+      "jap": "武器を強化する白楔石の原盤\r\n伝承では神が持つとされていたもの\r\n神聖の武器を＋１０に強化し\r\n邪教の武器を＋５に強化する\r\n\r\n原盤は、名も無き鍛治の神の遺物であり\r\n選ばれた神の武器を鍛えるためのものである\r\nこれによって鍛えられた武器は\r\n数少ない伝説の武器に並び称されるだろう",
+      "eng": "White titanite slab for weapon reinforcement.\r\nLegendary Slabs were the domain of the Gods.\r\nReinforces divine weapons to +10,\r\nand occult weapons to +5.\r\n\r\nLegendary Slabs are the heirlooms of a\r\nnameless blacksmith deity, who forged the\r\nweapons of other Gods. Weapons forged with\r\nthis slab become rare legendary weapons."
+    },
+    "remark": {
+      "chn": "将神圣武器强化到+10，或将邪教武器强化到+5",
+      "jap": "神聖武器を＋１０に、邪教武器を＋５に強化する",
+      "eng": "+10 reinforce: divine weapon. +5 reinforce: occult weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1090.webp"
+  },
+  {
+    "id": "1100",
+    "name": {
+      "chn": "红楔形石原盘",
+      "jap": "赤楔石の原盤",
+      "eng": "Red Titanite Slab"
+    },
+    "description": {
+      "chn": "强化武器用的红楔形石原盘，\r\n此为传说中神所拥有的物品。\r\n可将火焰武器强化到+10，\r\n或将混沌武器强化到+5。\r\n\r\n原盘乃是无名冶炼之神的遗物，\r\n用来冶炼获选的神之武器。\r\n借此原盘冶炼出的武器，\r\n应该可以跟寥寥无几的传说武器相提并论。",
+      "jap": "武器を強化する赤楔石の原盤\r\n伝承では神が持つとされていたもの\r\n炎の武器を＋１０に強化し\r\n混沌の武器を＋５に強化する\r\n\r\n原盤は、名も無き鍛治の神の遺物であり\r\n選ばれた神の武器を鍛えるためのものである\r\nこれによって鍛えられた武器は\r\n数少ない伝説の武器に並び称されるだろう",
+      "eng": "Red titanite slab for weapon reinforcement.\r\nLegendary Slabs were the domain of the Gods.\r\nReinforces fire weapons to +10,\r\nand chaos weapons to +5.\r\n\r\nLegendary Slabs are the heirlooms of a\r\nnameless blacksmith deity, who forged the\r\nweapons of other Gods. Weapons forged with\r\nthis slab become rare legendary weapons."
+    },
+    "remark": {
+      "chn": "将火焰武器强化到+10，或将混沌武器强化到+5",
+      "jap": "炎武器を＋１０に、混沌武器を＋５に強化する",
+      "eng": "+10 reinforce: fire weapon. +5 reinforce: chaos weapon."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1100.webp"
+  },
+  {
+    "id": "1110",
+    "name": {
+      "chn": "龙鳞",
+      "jap": "竜のウロコ",
+      "eng": "Dragon Scale"
+    },
+    "description": {
+      "chn": "据说是从龙的身体生长而出，\r\n可强化龙武器的鳞片。\r\n\r\n龙鳞乃是古龙身体的一部分，\r\n据说追寻古龙之永恒不灭的超人，\r\n不惜跨越世界的藩篱来找寻它。",
+      "jap": "竜の体から生まれるという\r\nドラゴンウェポンを強化するウロコ\r\n\r\n竜のウロコは古竜の体の一部であり\r\n古竜の永遠を求める超越者たちが\r\n世界の垣根を超え探し求めているという",
+      "eng": "Dragon scale for reinforcing dragon weapons.\r\nPeeled from an ancient dragon.\r\n\r\nA dragon is inseparable from its scales,\r\nand the transcendent apostles, who seek\r\nthe perpetuity of the ancient dragons,\r\nhave crossed the very end of the earth\r\nto seek this invaluable treasure."
+    },
+    "remark": {
+      "chn": "可强化龙武器",
+      "jap": "ドラゴンウェポンを強化する",
+      "eng": "Reinforce dragon weapons."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1110.webp"
+  },
+  {
+    "id": "1120",
+    "name": {
+      "chn": "恶魔楔形石",
+      "jap": "デーモンの楔",
+      "eng": "Demon Titanite"
+    },
+    "description": {
+      "chn": "从无脸的石像魔物──\r\n楔形石恶魔身上夺来的特殊楔形石，\r\n可将生自特殊灵魂的武器强化到+5。\r\n\r\n在无名冶炼之神死后，某几个原盘生出了魔物，\r\n那些魔物至今仍带有楔形石的力量，\r\n在罗德兰一地四处流浪徘徊。",
+      "jap": "顔の無い石の魔物\r\n楔のデーモンから奪える特別な楔石\r\n特別なソウルから生まれた武器を＋５まで強化する\r\n\r\n名も無き鍛治の神が死して後\r\n幾つかの原盤から魔物が生まれた\r\nそれらはいまだ楔の力を帯び\r\nロードランの地をさまよっている",
+      "eng": "Special titanite stolen from a faceless\r\nstone beast known as a Titanite Demon.\r\n\r\nWhen the nameless blacksmith deity passed,\r\nfrom several Slabs, great beasts arose.\r\nThe power of titanite remains within them,\r\nand they still roam Lordran today."
+    },
+    "remark": {
+      "chn": "将生自特殊灵魂的武器强化到+5",
+      "jap": "特別なソウルから生まれた武器を＋５まで強化する",
+      "eng": "+5 reinforce: weapons born from special souls."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1120.webp"
+  },
+  {
+    "id": "1130",
+    "name": {
+      "chn": "光辉楔形石",
+      "jap": "光る楔石",
+      "eng": "Twinkling Titanite"
+    },
+    "description": {
+      "chn": "在强化武器用的楔形石中，\r\n具备特别强大力量的种类。\r\n可将平常无法强化的武器强化到+5。\r\n\r\n据说这种楔形石与众不同，\r\n是从原盘剥落后，才开始带有力量，\r\n但详细状况不明。",
+      "jap": "武器を強化する楔石の中でも\r\n特に強い力を帯びたもの\r\n通常には強化できない武器を＋５まで強化する\r\n\r\n他の楔石とは違い\r\n原盤から剥がれた後に力を帯びたといわれるが\r\n詳しいことは分かっていない",
+      "eng": "This weapon-reinforcing titanite is imbued\r\nwith a particularly powerful energy.\r\nReinforces weapons that cannot be\r\nreinforced normally to +5.\r\n\r\nAfter this titanite was peeled from its Slab,\r\nit is said that it received a special power,\r\nbut its specific nature is not clear."
+    },
+    "remark": {
+      "chn": "将平常无法强化的武器强化到+5",
+      "jap": "通常には強化できない武器を＋５まで強化する",
+      "eng": "+5 reinforce: for weapons not reinforced normally."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/1130.webp"
+  },
+  {
+    "id": "2001",
+    "name": {
+      "chn": "下层钥匙",
+      "jap": "下層の鍵",
+      "eng": "Basement Key"
+    },
+    "description": {
+      "chn": "在城外不死镇“大桥”的桥端处，\r\n可通往下层的纵向道的门扉钥匙。\r\n\r\n在城外不死镇，下层算是较危险的区域，\r\n会从背后偷袭的盗贼，以及肮脏的野狗等，\r\n这些恐怖的山羊头恶魔手下四处徘徊。",
+      "jap": "城下不死街「大橋」の壁側の端にある\r\n下層に向かう縦穴の扉の鍵\r\n\r\n城下不死街の中でも、下層は危険なエリアであり\r\n背中を狙う盗賊や汚れた野犬といった\r\n恐ろしい山羊頭デーモンの手下がうろついている",
+      "eng": "Opens the narrow passage leading below\r\nat the far face of the great bridge in\r\nthe Undead Burg.\r\n\r\nThe lower Undead Burg is a treacherous place.\r\nDo not turn your back on the wily thieves, or\r\nthe wild dogs who serve the Capra Demon."
+    },
+    "remark": {
+      "chn": "通往不死镇下层的纵向道的门钥匙",
+      "jap": "不死街下層に向かう縦穴の扉の鍵",
+      "eng": "Opens door leading to lower Undead Burg"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2001.webp"
+  },
+  {
+    "id": "2002",
+    "name": {
+      "chn": "亚尔特留斯的徽章",
+      "jap": "アルトリウスの紋章",
+      "eng": "Crest of Artorias"
+    },
+    "description": {
+      "chn": "可开启大致位于黑森林庭院中心位置，\r\n受远古法术封锁的门扉徽章。\r\n\r\n门的后方就是“漫步深渊”亚尔特留斯的坟墓，\r\n但是森林中有个盗贼团\r\n专门狩猎为了坟墓前来的战士，\r\n因此从未有人能全身而退。\r\n\r\n所以说，这徽章绝对不能交给那些经验不足，\r\n没办法收集到灵魂的家伙。",
+      "jap": "黒い森の庭の中ほどにある\r\n古い魔法により閉じられた扉を開く紋章\r\n\r\nその先は「深淵歩き」アルトリウスの墓と言うが\r\n森には、墓を目指す戦士を狙う盗賊団がおり\r\n無事に戻るものはいない\r\n\r\nだから、ソウルも集められぬ未熟者には\r\n渡すべきではないのだ",
+      "eng": "This crest opens a door in the\r\nDarkroot Garden sealed by ancient magic.\r\n\r\nThe door leads to the grave of Sir Artorias\r\nthe Abysswalker. Many adventurers have left\r\nfor the grave, but none have returned,\r\nfor they make easy prey for local bandits.\r\nWith such dangers, the crest can do more harm\r\nthan good in the hands of the uninitiated."
+    },
+    "remark": {
+      "chn": "可开启大致位于森林中心位置，受封锁的门扉徽章",
+      "jap": "森の中ほどにある閉じられた扉を開く紋章",
+      "eng": "Crest opens sealed door in heart of forest"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2002.webp"
+  },
+  {
+    "id": "2003",
+    "name": {
+      "chn": "牢笼钥匙",
+      "jap": "籠牢の鍵",
+      "eng": "Cage Key"
+    },
+    "description": {
+      "chn": "吊在赛恩古城中的牢笼钥匙。\r\n\r\n那些镇守古城的蛇人，\r\n不会马上杀害有勇无谋地接受考验，\r\n却在中途倒下的人，\r\n蛇人反而会将那些人关在牢笼中。\r\n如果蛇人没有忘记他们，终究会将他们带到某处。",
+      "jap": "センの古城に吊るされた籠牢の鍵\r\n\r\n古城を守る蛇人たちは、無謀にも試練に挑み\r\n力尽きた者たちをすぐには殺さない\r\n彼らは籠牢に囚われ、蛇人たちが忘れなければ\r\nやがてどこかに連れて行かれるのだ",
+      "eng": "Key to the hanging cage in Sen's Fortress.\r\n\r\nIf a hapless adventurer becomes fatigued\r\nduring an imprudent attempt to overcome the\r\nfortress, the serpent men will not kill him,\r\nbut lock him up in a lonely cage.\r\nEventually, unless they have forgotten,\r\nthey drag the victim off to who-knows-where."
+    },
+    "remark": {
+      "chn": "吊在赛恩古城中的牢笼钥匙",
+      "jap": "センの古城に吊るされた籠牢の鍵",
+      "eng": "Opens hanging cage in Sen's Fortress"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2003.webp"
+  },
+  {
+    "id": "2004",
+    "name": {
+      "chn": "书库塔牢房钥匙",
+      "jap": "書庫塔牢屋の鍵",
+      "eng": "Archive Tower Cell Key"
+    },
+    "description": {
+      "chn": "公爵书库塔内牢房的钥匙。\r\n\r\n拥有许多宝贵藏书的书库塔，\r\n如今已随着希斯的疯狂化为一座监狱，\r\n并由完全不在意书籍价值的蛇人担任狱卒。\r\n\r\n此外，据说在书库塔的底部，\r\n也有因恐怖实验而生的产物蠢蠢欲动。",
+      "jap": "公爵の書庫塔に作られた牢屋の鍵\r\n\r\nかつて貴重な蔵書に溢れていた書庫塔は\r\nシースの狂気と共に牢獄となり\r\n書の価値も介さぬ蛇人がその牢番となった\r\n\r\nそして書庫塔の底には\r\nおぞましい実験の落し子が蠢いているという",
+      "eng": "Key to the cell of the Duke's Archive Tower.\r\n\r\nThe Archive Tower, once a trove of precious\r\ntomes and letters, became a prison after the\r\nonset of Seath's madness. The serpent men\r\nwho guard the prison know not the value of\r\nwhat they hide. In the basement of the tower\r\nare the writhing \"mistakes\" of the terrifying\r\nexperiments which were conducted there."
+    },
+    "remark": {
+      "chn": "书库塔内牢房的钥匙",
+      "jap": "書庫塔に作られた牢屋の鍵",
+      "eng": "Opens prison in Archive Tower"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2004.webp"
+  },
+  {
+    "id": "2005",
+    "name": {
+      "chn": "书库塔大门钥匙",
+      "jap": "書庫塔大扉の鍵",
+      "eng": "Archive Tower Giant Door Key"
+    },
+    "description": {
+      "chn": "已化为监狱的书库塔，\r\n最上层通往外侧的大门钥匙。\r\n\r\n那以监狱钥匙来说不太协调的设计，\r\n正隐约透露出书库塔过去的姿态。",
+      "jap": "牢獄となった書庫塔の最上部にある\r\n外に通じる大扉の鍵\r\n\r\n牢獄の鍵としては不似合いな意匠は\r\nかつての書庫塔の姿を忍ばせている",
+      "eng": "Key to the giant door leading out from\r\nthe uppermost floor of Archive Tower,\r\nwhich now serves as a prison.\r\n\r\nThe key's design resembles not the key of a\r\nprison; indeed, the tower was once no prison\r\nat all, but a trove of precious tomes."
+    },
+    "remark": {
+      "chn": "已化为监狱的书库塔大门钥匙",
+      "jap": "牢獄となった書庫塔の大扉の鍵",
+      "eng": "Opens giant door of Archive Tower prison"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2005.webp"
+  },
+  {
+    "id": "2006",
+    "name": {
+      "chn": "书库塔大牢钥匙",
+      "jap": "書庫塔大牢屋の鍵",
+      "eng": "Archive Tower Giant Cell Key"
+    },
+    "description": {
+      "chn": "公爵书库塔底部的大牢钥匙。\r\n\r\n过去曾囚禁许多圣女的大牢，\r\n现在已变得空荡，仅关着要犯。\r\n在这眼前有大量实验产物蠕动的地方，\r\n相信一般人应该难以保有理性吧。",
+      "jap": "公爵の書庫塔の底にある大牢屋の鍵\r\n\r\nかつて多くの聖女を閉じ込めた大牢屋は\r\n今はガランとし、重要な囚人だけが閉じ込められる\r\n鼻先に大量の落し子が蠢くその場所では\r\n常人が長く正気を保つのは難しいだろう",
+      "eng": "Key to the giant cell below the Duke's\r\nArchive Tower.\r\n\r\nThe giant cell once imprisoned countless\r\nmaidens, but is now empty, save for a few\r\nkey persons. They struggle to uphold their\r\nsanity, as the horde of \"mistakes\" writhe\r\nat a fearfully close proximity."
+    },
+    "remark": {
+      "chn": "书库塔底部的大牢钥匙",
+      "jap": "書庫塔の底にある大牢屋の鍵",
+      "eng": "Opens giant cell below Archive Tower"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2006.webp"
+  },
+  {
+    "id": "2007",
+    "name": {
+      "chn": "病村钥匙",
+      "jap": "病み村の鍵",
+      "eng": "Blighttown Key"
+    },
+    "description": {
+      "chn": "可从不死镇底层通往病村的门扉钥匙。\r\n曾被一条贪食魔龙吞入肚中，\r\n因此上面沾了些口水，但不影响使用。\r\n\r\n病村正如其名，是座满是病患的村子，\r\n就连肮脏至极的底层居民也不愿接近，\r\n因此才建了一扇坚固的门，并牢牢关上。",
+      "jap": "貪食ドラゴンが飲み込んでいた\r\n不死街最下層から病み村にいたる扉の鍵\r\n少しよだれまみれだが、大丈夫\r\n\r\n病み村はその名のとおり疫病者の村であり\r\n不潔極まる最下層の住人たちでさえ近づかず\r\n頑丈な扉を作り、これを固く閉ざしていた",
+      "eng": "Key to Blighttown from the Depths of the\r\nUndead Burg. Swallowed by the Gaping Dragon.\r\n\r\nAs its name suggests, Blighttown is a place\r\nof great pestilence. Even the polluted\r\ninhabitants of the Depths are aware of its\r\ndangers, and built this mighty door in hopes\r\nthat they could remain safely separated."
+    },
+    "remark": {
+      "chn": "从底层通往病村的门钥匙",
+      "jap": "最下層から病み村にいたる扉の鍵",
+      "eng": "Opens door in Depths leading to Blighttown"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2007.webp"
+  },
+  {
+    "id": "2008",
+    "name": {
+      "chn": "小隆德遗迹钥匙",
+      "jap": "小ロンド遺跡の鍵",
+      "eng": "Key to New Londo Ruins"
+    },
+    "description": {
+      "chn": "隔开小隆德遗迹与飞龙之谷的铁栏杆钥匙。\r\n\r\n受诅咒的亡灵四处徘徊的小隆德遗迹，\r\n因为其危险性，以及封印着黑暗的传闻，\r\n才会为了不让任何人靠近，而设置栏杆。",
+      "jap": "小ロンド遺跡と飛竜の谷を隔てる鉄格子の鍵\r\n\r\n呪われた亡霊が徘徊する小ロンド遺跡は\r\nその危険さと、闇を封印したという言い伝えにより\r\n何者も近づけぬよう封鎖されているのだ",
+      "eng": "Key to the iron bars separating the ruins of\r\nNew Londo and Drake Valley.\r\n\r\nThe ruins of New Londo were blocked off,\r\nfor the cursed ghosts posed danger to life\r\nand spirit, and the legends speak of a\r\nterrible Dark which was sealed away."
+    },
+    "remark": {
+      "chn": "隔开小隆德遗迹与飞龙之谷的铁栏杆钥匙",
+      "jap": "小ロンド遺跡と飛竜の谷を隔てる鉄格子の鍵",
+      "eng": "For bars between New Londo and Drake Valley"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2008.webp"
+  },
+  {
+    "id": "2009",
+    "name": {
+      "chn": "别馆钥匙",
+      "jap": "別棟の鍵",
+      "eng": "Annex Key"
+    },
+    "description": {
+      "chn": "艾雷米雅斯的绘画世界，其中的别馆钥匙。\r\n\r\n积雪深厚的绘画世界，建筑仿照古老寺院的建法，\r\n别馆似乎作为仓库使用。",
+      "jap": "エレーミアス絵画世界の別棟の鍵\r\n\r\n雪深い絵画の世界は、古い寺院を模しており\r\n別棟は倉庫の類であるようだ",
+      "eng": "Key to the annex in the Painted World\r\nof Ariamis.\r\n\r\nIn the wintery painted world, there is\r\na structure resembling an old cathedral;\r\nits annex serves as a type of storehouse."
+    },
+    "remark": {
+      "chn": "艾雷米雅斯的绘画世界，其中的别馆钥匙",
+      "jap": "エレーミアス絵画世界の別棟の鍵",
+      "eng": "Opens annex in the Painted World"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2009.webp"
+  },
+  {
+    "id": "2010",
+    "name": {
+      "chn": "地牢钥匙",
+      "jap": "地下牢の鍵",
+      "eng": "Dungeon Cell Key"
+    },
+    "description": {
+      "chn": "北方不死院的地牢钥匙。\r\n\r\n骑士丢下有这把钥匙的尸体后，\r\n便有如幻影般，一言不发地离开了。\r\n虽然不知道他有什么打算，但也只有前进一途。",
+      "jap": "北の不死院の地下牢の鍵\r\n\r\nこの鍵を持った死体を落とした騎士は\r\n半ば幻のようで、何も言わずに去った\r\nその意図は分からず、だが進む他はない",
+      "eng": "Key to the dungeon of the Undead Asylum to\r\nthe North.\r\n\r\nA mysterious knight, without saying a word,\r\nshoved a corpse down into the cell, and on\r\nits person was this key. Who was this knight?\r\nAnd what was his purpose? There may be no\r\nanswers, but one must still forge ahead."
+    },
+    "remark": {
+      "chn": "北方不死院的地牢钥匙",
+      "jap": "北の不死院の地下牢の鍵",
+      "eng": "Opens dungeon of Undead Asylum in the north"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2010.webp"
+  },
+  {
+    "id": "2011",
+    "name": {
+      "chn": "巡礼者大钥匙",
+      "jap": "巡礼者の大鍵",
+      "eng": "Big Pilgrim's Key"
+    },
+    "description": {
+      "chn": "被选上的不死人巡礼者的大钥匙，\r\n可开启北方不死院主殿后方的门。\r\n\r\n所谓的“被选上”还有“巡礼”，\r\n究竟有什么含意呢？",
+      "jap": "北の不死院の本堂の奥扉を開く\r\n選ばれた不死の巡礼者の大鍵\r\n\r\n選ばれた不死とは、巡礼とは\r\n何を意味するのだろうか",
+      "eng": "Key to the inner door of the Undead Asylum\r\nmain hall. Big key belonging to a chosen\r\nUndead pilgrim.\r\n\r\nBut this Chosen Undead knows not what\r\nthis pilgrimage has in store."
+    },
+    "remark": {
+      "chn": "可开启不死院主殿后门的巡礼者大钥匙",
+      "jap": "不死院本堂の奥扉を開く巡礼者の大鍵",
+      "eng": "Opens inner door of Undead Asylum main hall"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2011.webp"
+  },
+  {
+    "id": "2012",
+    "name": {
+      "chn": "不死院二楼东侧钥匙",
+      "jap": "不死院二階東の鍵",
+      "eng": "Undead Asylum F2 East Key"
+    },
+    "description": {
+      "chn": "北方不死院二楼东侧铁栏杆的钥匙。\r\n\r\n所谓不死院，就是座巨大的不死人监狱，\r\n里面四处都有铁栏杆阻隔。\r\n\r\n所以即便囚犯想尽办法成功逃出牢房，\r\n也没有办法如愿重回人世。",
+      "jap": "北の不死院の二階、東側にある鉄格子の鍵\r\n\r\n不死院とは巨大な不死の牢獄であり\r\nいたるところが鉄格子で塞がれている\r\n\r\n仮に、囚人がなんとか牢を出たとしても\r\n人の世界に戻ることはかなわないだろう",
+      "eng": "Key to the iron bars on the east side of the\r\nsecond floor of the North Undead Asylum.\r\n\r\nThe Undead Asylum is a giant Undead prison,\r\nsegmented by countless iron bars.\r\n\r\nEven if an Undead were to escape from a\r\ncell, passage to the outside world would\r\nnot be gained easily."
+    },
+    "remark": {
+      "chn": "北方不死院二楼东侧铁栏杆的钥匙",
+      "jap": "不死院の二階、東側にある鉄格子の鍵",
+      "eng": "Opens east iron bars of Undead Asylum F2"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2012.webp"
+  },
+  {
+    "id": "2013",
+    "name": {
+      "chn": "封印钥匙",
+      "jap": "封印の鍵",
+      "eng": "Key to the Seal"
+    },
+    "description": {
+      "chn": "开启用来封印堕入黑暗的小隆德四王\r\n小隆德水门的钥匙。\r\n\r\n封印者们为了封印小隆德四王与吸魂鬼，\r\n将他们连同该地人民、城镇沉入水中。\r\n于是，小隆德一地的繁荣文化就此消逝，\r\n因此丧命的人民也成了受诅咒的亡灵。",
+      "jap": "闇に堕ちた四人の公王の封印たる\r\n小ロンドの水門を開くための鍵\r\n\r\n四人の公王とダークレイスを封じるため\r\n封印者たちは、民人諸共、街を水底に沈めた\r\nかくて小ロンドの豊かな文化は失われ\r\n民草は死して呪われた亡霊となった",
+      "eng": "Key to the floodgates of New Londo, which\r\nseal away the Four Kings who fell to Dark.\r\n\r\nThe Sealers flooded New Londo to banish\r\nthe Darkwraiths and the Four Kings.\r\nThe agonizing decision was made with the\r\nrealization that countless lives, and the\r\nrobust culture of the city, would be lost.\r\nThe victims now roam the ruins as ghosts."
+    },
+    "remark": {
+      "chn": "开启小隆德水门的封印钥匙",
+      "jap": "小ロンドの水門を開くための封印の鍵",
+      "eng": "Breaks seal on the floodgates of New Londo"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2013.webp"
+  },
+  {
+    "id": "2014",
+    "name": {
+      "chn": "底层钥匙",
+      "jap": "最下層の鍵",
+      "eng": "Key to Depths"
+    },
+    "description": {
+      "chn": "从城外不死镇的下层，通往底层的门扉钥匙。\r\n\r\n被驱赶出不死镇的人们群集的底层，\r\n据说是个潮湿，暗无天日，\r\n且一半区域被污水淹没的迷宫。",
+      "jap": "城下不死街の下層から、最下層にいたる扉の鍵\r\n\r\n不死街を追放された者たちの集う最下層は\r\nじめじめとして日の光など射さず\r\n半ば下水に没した迷路となっているようだ",
+      "eng": "Key opening the door from the lower\r\nUndead Burg to the Depths.\r\n\r\nThose banished from the Undead Burg eke out\r\ntheir existence in the Depths, a damp lair\r\nwith no trace of sunlight. Nearly half of\r\nthe Depths form a perilous flooded labyrinth."
+    },
+    "remark": {
+      "chn": "从不死镇的下层，通往底层的门钥匙",
+      "jap": "不死街下層から最下層にいたる扉の鍵",
+      "eng": "Opens door leading from lower Burg to Depths"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2014.webp"
+  },
+  {
+    "id": "2015",
+    "name": {
+      "chn": "###2（受死版译文）#3升降梯室的钥匙",
+      "jap": "##リフト部屋の鍵",
+      "eng": "##Lift Chamber Key"
+    },
+    "description": {
+      "chn": "可从传火祭祀场的地底，\r\n通往小隆德遗迹升降梯室的钥匙。\r\n\r\n有着受到诅咒之亡灵四处徘徊的小隆德遗迹，\r\n由于其危险性，以及此处过去曾封印着黑暗的传说，\r\n因此遭到了彻底封锁，不让任何人接近该处。",
+      "jap": "火継ぎの祭祀場の地下から\r\n小ロンド遺跡にいたるリフト部屋の鍵\r\n\r\n呪われた亡霊が徘徊する小ロンド遺跡は\r\nその危険さと、闇を封印したという言い伝えにより\r\n何者も近づけぬよう封鎖されているのだ",
+      "eng": "Key opening the lift leading to New Londo\r\nruins in the basement of Firelink Shrine.\r\n\r\nThe ruins of New Londo were blocked off,\r\nfor the cursed ghosts posed danger to life\r\nand spirit, and the legends speak of a\r\nterrible Dark which was sealed away."
+    },
+    "remark": {
+      "chn": "传火祭祀场地底升降梯室的钥匙",
+      "jap": "火継ぎの祭祀場地下にあるリフト部屋の鍵",
+      "eng": "For lift in basement of Firelink Shrine"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2015.webp"
+  },
+  {
+    "id": "2016",
+    "name": {
+      "chn": "不死院二楼西侧钥匙",
+      "jap": "不死院二階西の鍵",
+      "eng": "Undead Asylum F2 West Key"
+    },
+    "description": {
+      "chn": "北方不死院二楼西侧铁栏杆的钥匙。\r\n\r\n所谓不死院，就是座巨大的不死人监狱，\r\n里面四处都有铁栏杆阻隔。\r\n\r\n不过，就算在罗德兰一地找到这把钥匙，\r\n还有办法可以回到不死院吗？",
+      "jap": "北の不死院の二階、西側にある鉄格子の鍵\r\n\r\n不死院とは巨大な不死の牢獄であり\r\nいたるところが鉄格子で塞がれている\r\n\r\nだが、ロードランの地でこの鍵を見つけ\r\n不死院に戻る手段があるだろうか？",
+      "eng": "Key to the iron bars on the west side of the\r\nsecond floor of the North Undead Asylum.\r\n\r\nThe Undead Asylum is a giant Undead prison,\r\nsegmented by countless iron bars.\r\n\r\nBut even if a hero found a key in Lordran\r\nto liberate this prison, would he have the\r\nmeans, or the heart, to ever come back?"
+    },
+    "remark": {
+      "chn": "北方不死院二楼西侧铁栏杆的钥匙",
+      "jap": "不死院の二階、西側にある鉄格子の鍵",
+      "eng": "Opens west iron bars of Undead Asylum F2"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2016.webp"
+  },
+  {
+    "id": "2017",
+    "name": {
+      "chn": "未知钥匙",
+      "jap": "不明の鍵",
+      "eng": "Mystery Key"
+    },
+    "description": {
+      "chn": "用途不明的钥匙。\r\n看起来应该是把普通牢房的钥匙。",
+      "jap": "用途の分からない鍵\r\n見たところ、簡易な牢の鍵だろうか",
+      "eng": "The purpose of this key is unknown.\r\nIt appears to be a basic prison cell key."
+    },
+    "remark": {
+      "chn": "看起来应该是把普通牢房的钥匙",
+      "jap": "見たところ、簡易な牢の鍵だろうか",
+      "eng": "Resembles a basic prison cell key"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2017.webp"
+  },
+  {
+    "id": "2018",
+    "name": {
+      "chn": "污水室钥匙",
+      "jap": "下水部屋の鍵",
+      "eng": "Sewer Chamber Key"
+    },
+    "description": {
+      "chn": "底层的污水室钥匙。\r\n\r\n无论在什么地方都有贪婪之徒。\r\n即便成为不死人，被流放至底层仍本性不改。\r\n那应该是人类的本质之一吧。",
+      "jap": "最下層の下水部屋の鍵\r\n\r\n欲の深いものはどこにでもいる\r\nそれは、不死となり、最下層に追放されてなお\r\n人の性質の１つであるのだろう",
+      "eng": "Key to the sewer chamber in the Depths.\r\n\r\nIn any community, a few bad apples are sure\r\nto exhibit insatiable greed. If they were\r\nturned Undead, and banished to the Depths,\r\nwould they reconsider their ways?\r\n\r\nUse this key to see for yourself."
+    },
+    "remark": {
+      "chn": "底层的污水室钥匙",
+      "jap": "最下層の下水部屋の鍵",
+      "eng": "Opens sewer chamber in Depths"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2018.webp"
+  },
+  {
+    "id": "2019",
+    "name": {
+      "chn": "监视塔钥匙",
+      "jap": "見張り塔下層の鍵",
+      "eng": "Watchtower Basement Key"
+    },
+    "description": {
+      "chn": "城外不死镇，监视塔下层的门扉钥匙。\r\n\r\n监视塔的下层是座石牢。\r\n据说化为游魂的英雄被朋友亲手关进石牢后，\r\n牢门就不曾被开启。",
+      "jap": "城下不死街にある見張り塔下層の扉の鍵\r\n\r\n見張り塔の下層は石の牢になっており\r\n亡者となった英雄が、友の手により閉じ込められ\r\n以来ずっと閉ざされたままだという",
+      "eng": "Key to the basement of the watchtower in\r\nthe Undead Burg.\r\n\r\nThe basement of the watchtower forms a stone\r\ncell. There are rumors of a hero turned\r\nHollow who was locked away by a dear friend.\r\nFor his own good, of course."
+    },
+    "remark": {
+      "chn": "不死镇监视塔下层的门钥匙",
+      "jap": "不死街にある見張り塔下層の扉の鍵",
+      "eng": "Opens basement of watchtower in Undead Burg"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2019.webp"
+  },
+  {
+    "id": "2020",
+    "name": {
+      "chn": "书库塔牢房的别把钥匙",
+      "jap": "書庫塔牢屋の別鍵",
+      "eng": "Archive Prison Extra Key"
+    },
+    "description": {
+      "chn": "公爵书库塔内牢房的另一把钥匙。\r\n\r\n可能是身为狱卒的蛇人做事太随便的关系，\r\n书库塔的牢房钥匙就有好几把，且被随意乱放。",
+      "jap": "公爵の書庫塔に作られた牢屋の別鍵\r\n\r\n牢番である蛇人の無計画さの故だろうか\r\n書庫塔の牢には幾種類かの鍵があり\r\nその並びもデタラメであるようだ",
+      "eng": "Extra key to a cell in the\r\nDuke's Archive Tower.\r\n\r\nPerhaps the serpent men were careless,\r\nfor there are several keys scattered\r\nabout which fit Archive Tower cells."
+    },
+    "remark": {
+      "chn": "书库塔内牢房的另一把钥匙",
+      "jap": "書庫塔に作られた牢屋の別鍵",
+      "eng": "Extra Key to Archive Tower Cell"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2020.webp"
+  },
+  {
+    "id": "2021",
+    "name": {
+      "chn": "民宅钥匙",
+      "jap": "民家の鍵",
+      "eng": "Residence Key"
+    },
+    "description": {
+      "chn": "城外不死镇的民宅钥匙。\r\n设计得极为简单却很坚固，但无法强行撬开锁。\r\n\r\n似乎是此地使用的标准款钥匙，\r\n可用以进入许多户民宅。",
+      "jap": "城下不死街にある民家の鍵\r\nごく簡単な作りではあるが頑丈で\r\n無理やり開けることはできそうにない\r\n\r\nどうやら、この地の標準的な鍵らしく\r\n幾つかの民家に入れるようだ",
+      "eng": "Key to a residence in the Undead Burg.\r\nSimple, sturdy design of the locks in\r\nthe Burg keep out unwanted visitors.\r\n\r\nBut this is a standard key in these parts,\r\nand will open several residences."
+    },
+    "remark": {
+      "chn": "不死镇民宅的钥匙",
+      "jap": "不死街の民家の鍵",
+      "eng": "Opens residences in Undead Burg"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2021.webp"
+  },
+  {
+    "id": "2022",
+    "name": {
+      "chn": "徽章钥匙",
+      "jap": "紋章の鍵",
+      "eng": "Crest Key"
+    },
+    "description": {
+      "chn": "弯曲的徽章钥匙。\r\n\r\n徽章的沟槽里留有魔力的残渣，\r\n应该是用魔力关闭那扇门。",
+      "jap": "折れ曲がった紋章の鍵\r\n\r\n紋章の溝には魔力の残滓があり\r\nその扉は魔力で閉じられているのだろう",
+      "eng": "Bent Crest Key.\r\n\r\nThe grooves of the crest are enchanted,\r\nthe door sealed with a powerful spell."
+    },
+    "remark": {
+      "chn": "弯曲的徽章钥匙",
+      "jap": "折れ曲がった紋章の鍵",
+      "eng": "Bent Crest Key"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2022.webp"
+  },
+  {
+    "id": "2100",
+    "name": {
+      "chn": "万能钥匙",
+      "jap": "万能鍵",
+      "eng": "Master Key"
+    },
+    "description": {
+      "chn": "可以打开所有简易锁的万能钥匙。\r\n盗贼的生财工具。\r\n\r\n不过，开锁后出现的可不一定都是好东西，\r\n更别说是在这受诅咒的不死之地。",
+      "jap": "簡単な鍵であれば開けてしまう万能鍵\r\n盗賊の商売道具\r\n\r\nただし、開けた先がよいものである保証はない\r\n特に呪われた不死の地では",
+      "eng": "This universal key opens any basic lock.\r\nTool of the trade for thieves.\r\n\r\nBut in the cursed land of the Undead,\r\nmost doors are better left unopened."
+    },
+    "remark": {
+      "chn": "可以打开简单的锁",
+      "jap": "簡単な鍵であれば開けてしまう",
+      "eng": "Opens any basic lock"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2100.webp"
+  },
+  {
+    "id": "2500",
+    "name": {
+      "chn": "王的灵魂",
+      "jap": "王のソウル",
+      "eng": "Lord Soul"
+    },
+    "description": {
+      "chn": "“最初的死者”墓王尼特的灵魂。\r\n此乃在火的时代，最初找到的王的灵魂之一。\r\n\r\n掌管着一切生死的墓王尼特，\r\n几乎将所有的力量都献给了死亡。\r\n但即便如此，其灵魂依然十分庞大，\r\n足以用来装满王器。",
+      "jap": "最初の死者、墓王ニトのソウル\r\n火の時代の最初に見出された王のソウルの１つ\r\n\r\nあらゆる生の死を司る墓王ニトは\r\nその力のほとんどを死に捧げている\r\nそれでもなお、そのソウルは大きく\r\n王の器を占めるに足るものだ",
+      "eng": "Soul of Gravelord Nito, first of the dead.\r\nThis Lord Soul was discovered at the\r\ndawn of the Age of Fire.\r\n\r\nGravelord Nito administers the death of all\r\nmanner of beings. The power of this soul is\r\nso great that it satiates the Lordvessel,\r\ndespite the fact that much of its energy has\r\nalready been offered to death."
+    },
+    "remark": {
+      "chn": "“最初的死者”墓王尼特的灵魂",
+      "jap": "最初の死者、墓王ニトのソウル",
+      "eng": "Soul of Gravelord Nito, first of the dead"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2500.webp"
+  },
+  {
+    "id": "2501",
+    "name": {
+      "chn": "王的灵魂",
+      "jap": "王のソウル",
+      "eng": "Lord Soul"
+    },
+    "description": {
+      "chn": "“恶魔之母”混沌温床的灵魂。\r\n此乃在火的时代，最初找到的王的灵魂之一。\r\n\r\n魔女试图从灵魂创造出“初始之火”，\r\n却因此生出了扭曲的混沌火焰巨兽。\r\n化为一切恶魔温床的这股力量，\r\n足以用来装满王器。",
+      "jap": "デーモンの母たる、混沌の苗床のソウル\r\n火の時代の最初に見出された王のソウルの１つ\r\n\r\n魔女はソウルから「最初の火」を作ろうとし\r\n歪んだ混沌の炎の獣を生み出した\r\nすべてのデーモンの苗床となったその力は\r\n王の器を占めるに足るものだ",
+      "eng": "Soul of the Bed of Chaos and the mother\r\nof all demons. This Lord Soul was found\r\nat the dawn of the Age of Fire.\r\n\r\nThe Witch of Izalith attempted to duplicate\r\nthe First Flame from a soul, but instead\r\ncreated a distorted being of chaos and fire.\r\nIts power formed a bed of life which would\r\nbecome the source of all demons, and is more\r\nthan enough to satiate the Lordvessel."
+    },
+    "remark": {
+      "chn": "“恶魔之母”混沌温床的灵魂",
+      "jap": "デーモンの母たる、混沌の苗床のソウル",
+      "eng": "Soul of Bed of Chaos, Mother of Demons"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2501.webp"
+  },
+  {
+    "id": "2502",
+    "name": {
+      "chn": "分得的王的灵魂",
+      "jap": "分け与えられた王のソウル",
+      "eng": "Bequeathed Lord Soul Shard"
+    },
+    "description": {
+      "chn": "堕入黑暗的小隆德四王的灵魂。\r\n此乃在火的时代，最初找到的部分王的灵魂。\r\n\r\n过去，这四人乃是小隆德一地的伟大领袖，\r\n因此得以谒见葛温王，被授与王公地位，\r\n分得葛温王的伟大灵魂。\r\n\r\n虽然这只是部分灵魂，但仍足以用来装满王器。",
+      "jap": "闇に堕ちた四人の公王のソウル\r\n火の時代の最初に見出された王のソウルの一部\r\n\r\nかつて四人は小ロンドの偉大な指導者であり\r\n特にグウィン王に見え、公王の位を授かり\r\nその偉大なるソウルを分け与えられた\r\n\r\nそれは一部といえ、王の器を占めるに足るものだ",
+      "eng": "Soul of one of the Four Kings, who fell to\r\nDark. A fragment of a Lord Soul discovered\r\nat the dawn of the Age of Fire.\r\n\r\nLord Gwyn recognized the foresight of these\r\nfour great leaders of New Londo, and granted\r\nthem their ranks and the fragments of a\r\ngreat soul. Although this is not a full Lord\r\nSoul, it can still satiate the Lordvessel."
+    },
+    "remark": {
+      "chn": "堕入黑暗的小隆德四王的灵魂",
+      "jap": "闇に堕ちた四人の公王のソウル",
+      "eng": "Soul of the Four Kings, who fell to Dark"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2502.webp"
+  },
+  {
+    "id": "2503",
+    "name": {
+      "chn": "分得的王的灵魂",
+      "jap": "分け与えられた王のソウル",
+      "eng": "Bequeathed Lord Soul Shard"
+    },
+    "description": {
+      "chn": "“无鳞”白龙希斯的灵魂。\r\n此乃在火的时代，最初找到的部分王的灵魂。\r\n\r\n白龙背叛古龙，加入葛温王的阵营，\r\n之后以公爵身分成为王的#1外藩#3#2外戚#3时，\r\n便分得葛温王的伟大灵魂。\r\n\r\n虽然这只是部分灵魂，但仍足以用来装满王器。",
+      "jap": "「ウロコのない」白竜シースのソウル\r\n火の時代の最初に見出された王のソウルの一部\r\n\r\nシースはグウィン王に与して古竜を裏切り\r\n後に公爵として王の外戚となったとき\r\nその偉大なるソウルを分け与えられた\r\n\r\nそれは一部といえ、王の器を占めるに足るものだ",
+      "eng": "Soul of the albino Seath the Scaleless.\r\nA fragment of a Lord Soul discovered\r\nat the dawn of the Age of Fire.\r\n\r\nSeath allied with Lord Gwyn and turned upon\r\nthe dragons, and for this he was awarded\r\nDukedom, embraced by the royalty, and given\r\na fragment of a great soul. Although just a\r\npiece, it will still satiate the Lordvessel."
+    },
+    "remark": {
+      "chn": "“无鳞”白龙希斯的灵魂",
+      "jap": "「ウロコのない」白竜シースのソウル",
+      "eng": "Soul of Seath the Scaleless"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2503.webp"
+  },
+  {
+    "id": "2510",
+    "name": {
+      "chn": "王器",
+      "jap": "王の器",
+      "eng": "Lordvessel"
+    },
+    "description": {
+      "chn": "被选为葛温王后继者的\r\n不死人英雄得到的灵魂容器。\r\n可得到以传送方式移动到营火处的技艺。\r\n\r\n将此容器放到传火祭坛上，并用伟大的灵魂盛满，\r\n相信就可以打开最后的门。",
+      "jap": "グウィン王の後継として選ばれた\r\n不死の英雄に与えられるソウルの器\r\n転送により篝火を移動する業を与える\r\n\r\nこの器を火継ぎの祭壇に置き\r\n偉大なソウルで満たすことで\r\n最後の扉が開かれるだろう",
+      "eng": "Lordvessel bestowed upon the chosen Undead\r\nwho is destined to succeed Lord Gwyn.\r\nThe chosen Undead is granted the art of\r\nwarping between bonfires.\r\n\r\nTo open the final door, place this vessel\r\non the Firelink Altar, and fill it with\r\npowerful souls."
+    },
+    "remark": {
+      "chn": "赋予不死英雄的灵魂容器",
+      "jap": "不死の英雄に与えられるソウルの器",
+      "eng": "Soul vessel granted to the chosen Undead"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2510.webp"
+  },
+  {
+    "id": "2520",
+    "name": {
+      "chn": "破裂项链",
+      "jap": "割れたペンダント",
+      "eng": "Broken Pendant"
+    },
+    "description": {
+      "chn": "破裂石头的项链，其中一半。\r\n颈绳用的藤蔓也许是乌拉席露的作工。\r\n\r\n虽然物品本身十分古老，\r\n但依然能感受到石头散发出的强大魔力。\r\n那股现已无人知晓，无法操控的力量，\r\n很近似强烈的乡愁，或是爱意之类的情绪。",
+      "jap": "割れた石のペンダント。その片割れ\r\n紐の蔓はウーラシールのものだろうか\r\n\r\nごく古いものであるようだが\r\nその石からは強い魔力が感じられる\r\n今人が知らず、扱えもせぬその力は\r\nとても強い郷愁、愛慕の類だ",
+      "eng": "Half of a broken stone pendant.\r\nThe vine appears to originate from Oolacile.\r\n\r\nA powerful magic can be sensed from this\r\nancient stone. Yet men of this time can\r\nneither manipulate nor sense its power,\r\nwhich has a distinct air consisting of\r\nboth reverence and nostalgia."
+    },
+    "remark": {
+      "chn": "破裂石头的项链，可以感受到强大魔力",
+      "jap": "割れた石のペンダント。強い魔力が感じられる",
+      "eng": "Broken stone pendant. Deeply enchanted."
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2520.webp"
+  },
+  {
+    "id": "2600",
+    "name": {
+      "chn": "武器打铁箱",
+      "jap": "武器の鍛治箱",
+      "eng": "Weapon Smithbox"
+    },
+    "description": {
+      "chn": "可用来捣碎楔形石，强化武器的道具。\r\n\r\n在营火处休息时，可借此来强化武器。",
+      "jap": "楔石を刻み込み\r\n武器を強化するための道具\r\n\r\n篝火で休息するときに\r\n武器を強化できるようになる",
+      "eng": "Tool used to etch titanite\r\ninto weapons for reinforcement.\r\n\r\nRest at a bonfire to make\r\nweapon reinforcement possible."
+    },
+    "remark": {
+      "chn": "在营火处强化武器所需的道具",
+      "jap": "篝火で武器を強化するための道具",
+      "eng": "Tool for reinforcing weapons at bonfire"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2600.webp"
+  },
+  {
+    "id": "2601",
+    "name": {
+      "chn": "防具打铁箱",
+      "jap": "防具の鍛治箱",
+      "eng": "Armor Smithbox"
+    },
+    "description": {
+      "chn": "可用来捣碎楔形石，强化防具的道具。\r\n\r\n在营火处休息时，可借此来强化防具。",
+      "jap": "楔石を刻み込み\r\n防具を強化するための道具\r\n\r\n篝火で休息するときに\r\n防具を強化できるようになる",
+      "eng": "Tool used to etch titanite\r\ninto armor for reinforcement.\r\n\r\nRest at a bonfire to make\r\narmor reinforcement possible."
+    },
+    "remark": {
+      "chn": "在营火处强化防具所需的道具",
+      "jap": "篝火で防具を強化するための道具",
+      "eng": "Tool for reinforcing armor at bonfire"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2601.webp"
+  },
+  {
+    "id": "2602",
+    "name": {
+      "chn": "修理箱",
+      "jap": "修理箱",
+      "eng": "Repairbox"
+    },
+    "description": {
+      "chn": "借由专用的臼来研磨修理光粉，\r\n再修理武器、防具的道具。\r\n\r\n在营火处休息时，\r\n可借此来修理武器、防具。\r\n不过，这种光粉不能长久保存，\r\n因此无法随身携带。",
+      "jap": "専用の臼により修理の光粉を挽き\r\n武器、防具を修理するための道具\r\n\r\n篝火で休息するときに\r\n武器、防具を修理できるようになる\r\nただしこの光粉は長持ちせず\r\n持ち歩くことはできない",
+      "eng": "Specialized mortar used to repair weapons\r\nand armor by grinding repair powder.\r\n\r\nRest at a bonfire to make weapon\r\nand armor repair possible.\r\nRepair powder is fragile,\r\nand cannot be taken along."
+    },
+    "remark": {
+      "chn": "在营火处修理武器、防具所需的道具",
+      "jap": "篝火で武器、防具を修理するための道具",
+      "eng": "Tool for repairing weapons/armor at bonfire"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2602.webp"
+  },
+  {
+    "id": "2607",
+    "name": {
+      "chn": "注火秘密仪式",
+      "jap": "注ぎ火の秘儀",
+      "eng": "Rite of Kindling"
+    },
+    "description": {
+      "chn": "利用注火来兴旺营火，\r\n以得到更多原素的秘密仪式。\r\n\r\n此为圣职传承中秘密流传的仪式，\r\n但只要是不死人都可以进行。\r\n\r\n这么说来，要等到成为不死人后，\r\n人性才开始有“用途”吗？",
+      "jap": "注ぎ火にて、さらに大きく篝火を育て\r\nより多くのエストを得るための秘儀\r\n\r\n聖職の伝承に秘密として伝わるが\r\n儀式自体はすべての不死人が行える\r\n\r\nしかし人は、不死となりはじめて\r\n人間性の「使い途」を得るものなのか",
+      "eng": "This secret rite allows bonfires to be\r\nbolstered further with Kindling, so that\r\neven more Estus can be collected.\r\n\r\nKindling was a sacred rite passed down\r\namong clerics, but all Undead can imitate\r\nthe process, in the same manner that they\r\nrestore their Hollowing with humanity.\r\nHow peculiar that humans had found little\r\nuse for humanity until they turned Undead."
+    },
+    "remark": {
+      "chn": "兴旺营火的秘密仪式",
+      "jap": "さらに大きく篝火を育てる秘儀",
+      "eng": "Rite which boosts bonfires even further"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2607.webp"
+  },
+  {
+    "id": "2608",
+    "name": {
+      "chn": "无底木箱",
+      "jap": "底なしの木箱",
+      "eng": "Bottomless Box"
+    },
+    "description": {
+      "chn": "无底的奇妙木箱。\r\n虽然似乎也被称为贪婪者的烙印，\r\n但这项名称的由来不得而知。\r\n\r\n无论有多少道具都可以放入其中，\r\n在营火处休息的时候，便能自由地置入、取出道具。",
+      "jap": "底の抜けた不思議な木箱\r\n貪欲者の烙印とも呼ばれるようだが\r\nその由来は分からない\r\n\r\nいくらでもアイテムを入れることができ\r\n篝火で休息するときに、自由に出し入れできる",
+      "eng": "A peculiar bottomless wooden box.\r\nIts origins are unknown. Some deride\r\nit as a symbol of unbridled avarice.\r\n\r\nAny number of items can be deposited into\r\nthe box, and items can be managed while\r\nresting at a bonfire."
+    },
+    "remark": {
+      "chn": "可在营火处自由置入、取出道具的奇妙木箱",
+      "jap": "篝火で自由にアイテムを出し入れできる道具",
+      "eng": "Box allowing inventory management at bonfire"
+    },
+    "type": "item",
+    "game": 1,
+    "icon": "/icons/ds1/items/2608.webp"
+  }
+]

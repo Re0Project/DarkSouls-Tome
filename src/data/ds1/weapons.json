@@ -1,0 +1,3170 @@
+[
+  {
+    "id": "100000",
+    "name": {
+      "chn": "匕首",
+      "jap": "ダガー",
+      "eng": "Dagger"
+    },
+    "description": {
+      "chn": "武器种类：短剑\r\n攻击属性：斩击／突刺\r\n\r\n标准短剑。\r\n小巧，攻击力低，但攻击速度快，可以连续攻击。\r\n格挡后或从背后使出致命一击的威力极高。\r\n\r\n有斩击及突刺两种攻击属性，\r\n足以应付各种情况。",
+      "jap": "武器種別：短剣\r\n攻撃属性：斬撃/刺突\r\n\r\nスタンダードな短剣\r\n小型で攻撃力は低いが、素早い連撃が可能であり\r\nパリィ後や背後からの致命の一撃の威力も高い\r\n\r\n斬撃と刺突という二種類の攻撃属性を持ち\r\n様々な状況に対応できるのも強みとなる",
+      "eng": "Weapon type: Dagger\r\nAttack type: Slash/Thrust\r\n\r\nThis standard small dagger has only a modest\r\nattack but can be jabbed in rapid succession,\r\nand is effective in critical hits such as\r\nafter a parry or when stabbing in the back.\r\nWith both slash and thrust attacks, this\r\ndagger is useful in various situations."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/100000.webp"
+  },
+  {
+    "id": "101000",
+    "name": {
+      "chn": "格挡匕首",
+      "jap": "パリングダガー",
+      "eng": "Parrying Dagger"
+    },
+    "description": {
+      "chn": "武器种类：短剑\r\n攻击属性：斩击／突刺\r\n\r\n专门用于格挡的短剑。\r\n通常装备于左手。\r\n\r\n因卡利姆骑士经常使用而闻名，\r\n卡利姆骑士的特征就是不拿盾。",
+      "jap": "武器種別：短剣\r\n攻撃属性：斬撃/刺突\r\n\r\nパリィに特化した短剣\r\n左手に装備することが基本となる\r\n\r\nカリムの騎士たちが愛用することで知られ\r\n盾を持たないスタイルは彼らの象徴ともなっている",
+      "eng": "Weapon type: Dagger\r\nAttack type: Slash/Thrust\r\n\r\nThis dagger is useful after parrying and is\r\nnormally equipped in the left hand.\r\n\r\nA favorite of the knights of Carim, who are\r\nfamous for fighting without a shield."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/101000.webp"
+  },
+  {
+    "id": "102000",
+    "name": {
+      "chn": "亡灵小刀",
+      "jap": "亡霊の刃",
+      "eng": "Ghost Blade"
+    },
+    "description": {
+      "chn": "武器种类：短剑\r\n攻击属性：斩击／突刺\r\n\r\n小隆德的亡灵和尸骸所拿的锐利刀刃，\r\n能把敌人切得支离破碎。\r\n\r\n受诅咒的武器之一，\r\n可以伤到亡灵。",
+      "jap": "武器種別：短剣\r\n攻撃属性：斬撃/刺突\r\n\r\n小ロンドの亡霊が亡骸とともに持つ鋭利な刃物\r\n敵をめった切りにする\r\n\r\n呪われた武器の１つであり\r\n亡霊にダメージを与えることができる",
+      "eng": "Weapon type: Dagger\r\nAttack type: Slash/Thrust\r\n\r\nThe ghosts of New Londo clutch this wickedly\r\nsharp dagger with their bony hands and make\r\nmincemeat of the living.\r\n\r\nOne of the cursed weapons which can inflict\r\ndamage upon ghosts."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/102000.webp"
+  },
+  {
+    "id": "103000",
+    "name": {
+      "chn": "盗贼短刀",
+      "jap": "盗賊の短刀",
+      "eng": "Bandit's Knife"
+    },
+    "description": {
+      "chn": "武器种类：短剑\r\n攻击属性：斩击\r\n\r\n宽剑身的单刃短剑，\r\n是盗贼或强盗等匪徒使用的武器。\r\n\r\n虽然挥舞时都是挥砍式攻击，\r\n但格挡后或从背后使出致命一击的威力极高。",
+      "jap": "武器種別：短剣\r\n攻撃属性：斬撃\r\n\r\n幅の広い片刃の短刀\r\n盗賊や追いはぎなど、賎しいものたちの武器\r\n\r\nその攻撃は斬りつけるものばかりだが\r\nパリィ後や背後からの致命の一撃の威力が高い",
+      "eng": "Weapon type: Dagger\r\nAttack type: Slash\r\n\r\nThis wide single-edged shortsword is\r\nthe favorite of lowly thieves and bandits.\r\n\r\nPrimarily a slicing weapon, but highly\r\neffective when used for critical hits,\r\nsuch as after parrying or from behind."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/103000.webp"
+  },
+  {
+    "id": "104000",
+    "name": {
+      "chn": "普利希拉短剑",
+      "jap": "プリシラの短剣",
+      "eng": "Priscilla's Dagger"
+    },
+    "description": {
+      "chn": "武器种类：短剑\r\n攻击属性：斩击\r\n\r\n封印于艾雷米雅斯绘画中的禁忌──\r\n半龙普利希拉，其尾巴化成的武器。\r\n稀少的龙武器之一。　\r\n\r\n带有猎杀生命的力量，那有如舞动般的剑术，\r\n与白衣的绘画守护者相仿。",
+      "jap": "武器種別：短剣\r\n攻撃属性：斬撃\r\n\r\nエレーミアス絵画に封印された禁忌\r\n半竜プリシラの尾から生まれた武器\r\n希少なドラゴンウェポンの１つ\r\n\r\n生命狩りの力を帯びており、舞うような剣技は\r\n白衣の絵画守りたちに通じるものがある",
+      "eng": "Weapon type: Dagger\r\nAttack type: Slash\r\n\r\nThis sword, one of the rare dragon weapons,\r\ncame from the tail of Priscilla, the Dragon\r\nCrossbreed in the painted world of Ariamis.\r\nPossessing the power of lifehunt, it dances\r\nabout when wielded, in a fashion reminiscent\r\nof the white-robed painting guardians."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/104000.webp"
+  },
+  {
+    "id": "200000",
+    "name": {
+      "chn": "短剑",
+      "jap": "ショートソード",
+      "eng": "Shortsword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n小型直剑。\r\n和长剑一样，是人们常用的武器之一。\r\n\r\n很好用，具有效果稳定的标准属性攻击，\r\n和高攻击力的突刺属性攻击，\r\n极便于应付各种状况。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n小型の直剣\r\nロングソードと並び、ひろく使われる武器の１つ\r\n\r\n使いやすく効果の安定した標準属性の攻撃と\r\n攻撃力の高い刺突属性の攻撃を持ち\r\n状況対応能力がきわめて高い",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nThis small straight sword is widely used,\r\nto an extent only matched by the longsword.\r\n\r\nAn accessible sword which inflicts consistent\r\nregular damage and high thrust damage, making\r\nit applicable to a variety of situations."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/200000.webp"
+  },
+  {
+    "id": "201000",
+    "name": {
+      "chn": "长剑",
+      "jap": "ロングソード",
+      "eng": "Longsword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n标准直剑。\r\n和短剑一样，是人们常用的武器之一。\r\n\r\n很好用，具有效果稳定的标准属性攻击，\r\n和高攻击力的突刺属性攻击，\r\n极便于应付各种状况。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\nスタンダードな直剣\r\nショートソードと並び、ひろく使われる武器の１つ\r\n\r\n使いやすく効果の安定した標準属性の攻撃と\r\n攻撃力の高い刺突属性の攻撃を持ち\r\n状況対応能力がきわめて高い",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nWidely-used standard straight sword, only\r\nmatched in ubiquity by the shortsword.\r\n\r\nAn accessible sword which inflicts consistent\r\nregular damage and high slash damage, making\r\nit applicable to a variety of situations."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/201000.webp"
+  },
+  {
+    "id": "202000",
+    "name": {
+      "chn": "阔剑",
+      "jap": "ブロードソード",
+      "eng": "Broadsword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准\r\n\r\n宽剑身的直剑。\r\n设计着眼在砍劈，不具突刺属性攻击。\r\n\r\n猛力挥舞的横劈攻击\r\n在对付数量多的敌人时非常有效。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準\r\n\r\n幅広の刃を持つ直剣\r\n斬りつける用途を重視しており\r\n刺突属性の攻撃は存在しない\r\n\r\n大きく横に薙ぐような攻撃は\r\n複数の敵を相手にしたときに有効となる",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular\r\n\r\nThe wide blade of this straight sword\r\nemphasizes slicing and has no thrust attack.\r\n\r\nThe horizontal sweeping motion makes this\r\nsword effective against multiple enemies."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/202000.webp"
+  },
+  {
+    "id": "203000",
+    "name": {
+      "chn": "已折断的直剑",
+      "jap": "折れた直剣",
+      "eng": "Broken Straight Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n剑身折断一半的直剑。\r\n\r\n已经不能算是武器，\r\n除了发狂的游魂以外，\r\n一般人应该不会拿来使用。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n刃の半ばから先が、折れて失われた直剣\r\n\r\n武器として見るべきところはなにもなく\r\n正気をなくした亡者でもなければ\r\n使う者などないだろう",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nHalf of the blade of this straight sword is\r\nbroken off.\r\n\r\nOnly the completely Hollowed would even\r\nconsider using this as a weapon."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/203000.webp"
+  },
+  {
+    "id": "204000",
+    "name": {
+      "chn": "巴勒德尔突刺直剑",
+      "jap": "バルデルの刺突直剣",
+      "eng": "Balder Side Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n古代王国巴勒德尔的骑士使用的直剑。\r\n剑身坚硬且长，突刺攻击的效果颇佳。\r\n\r\n巴勒德尔是骑士王伦德尔的故乡，\r\n因为突然出现大量不死人而灭亡。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n古い王国バルデルの騎士たちが用いた直剣\r\nその刃は硬く、また長く、刺突攻撃に優れる\r\n\r\nバルデルは騎士王レンドルの故国であるが\r\nあるとき多くの不死を生み、そのまま滅び去った",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nThe knights of the ancient kingdom of Balder\r\nwielded these rock-solid, long swords which\r\nare excellent for thrust attacks.\r\nBalder was the home of Knight King Rendal,\r\nbut the kingdom was reduced to ruins after\r\na widespread outbreak of Undead."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/204000.webp"
+  },
+  {
+    "id": "205000",
+    "name": {
+      "chn": "结晶直剑",
+      "jap": "結晶直剣",
+      "eng": "Crystal Straight Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n完全结晶化的直剑。\r\n该怎么做才能做出这种武器，\r\n完全无迹可循。\r\n\r\n因为结晶的影响，攻击力较高，\r\n但容易损坏，也不能修理，\r\n无法长期使用。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n全体が結晶化した直剣\r\nどうすればこのような武器が生まれるのか\r\nまったく見当もつかない\r\n\r\n結晶の力により攻撃力は高いが\r\n壊れやすく、また修理もできないため\r\n長く使い続けることはできない",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nA fully crystallized straight sword.\r\nHow such a weapon was created\r\nis entirely unknown.\r\nThe crystallization boosts its attack, but\r\nmakes the blade brittle. The sword cannot be\r\nused for long, as it cannot be repaired."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/205000.webp"
+  },
+  {
+    "id": "206000",
+    "name": {
+      "chn": "太阳直剑",
+      "jap": "太陽の直剣",
+      "eng": "Sunlight Straight Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n“太阳骑士”亚斯特拉的索拉尔的直剑。\r\n虽然是把普通的长剑，\r\n但用料佳，且经常冶炼，也保养得不错。\r\n\r\n很好用，是把可以安心倚靠的武器，\r\n虽然名字可能夸大了些。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n太陽の騎士、アストラのソラールの直剣\r\n変哲のないロングソードの１つであるが\r\n質が良い上によく鍛えられ、手入れもされている\r\n\r\n使いやすく頼れる武器ではあるが\r\nその名前は多少大げさかもしれない",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nThis standard longsword, belonging to Solaire\r\nof Astora, is of high quality, is well-\r\nforged, and has been kept in good repair.\r\n\r\nEasy-to-use and dependable, but unlikely to\r\nlive up to its grandiose name."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/206000.webp"
+  },
+  {
+    "id": "207000",
+    "name": {
+      "chn": "刺针直剑",
+      "jap": "トゲの直剣",
+      "eng": "Barbed Straight Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n臭名昭著的吸魂鬼“刺针骑士”寇克常用的剑。\r\n剑身上布满尖锐的刺针。\r\n\r\n其锐利的刺针会使敌人大量出血，\r\n是把充满祸害气息的武器。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n悪名高いダークレイス「トゲの騎士」カークの愛剣\r\n刀身にびっしりと鋭いトゲが生えている\r\n\r\nその鋭いトゲの効果により\r\n大量の出血を強いる禍々しい武器",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Thrust\r\n\r\nThe choice weapon of the infamous Darkwraith\r\nKirk, also known as the Knight of Thorns for\r\nthe gnarly spikes on his favorite weapon.\r\n\r\nThis frightful sword deals only thrust\r\nattacks, and causes heavy bleeding."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/207000.webp"
+  },
+  {
+    "id": "208000",
+    "name": {
+      "chn": "银骑士剑",
+      "jap": "銀騎士の剣",
+      "eng": "Silv. Knight Str. Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准\r\n\r\n守护亚诺尔隆德的银骑士使用的直剑。\r\n作工精细，造型优美的亲兵用武器。\r\n\r\n加上自身体重使出的大跨步连击，\r\n就算区区一下攻击，\r\n也具有重创敌人的威力。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準\r\n\r\nアノール・ロンドを守る銀の騎士たちの直剣\r\n細く流麗な近衛の武器\r\n\r\n体重をのせ、大きく踏み込む連撃は\r\n単発でさえ大ダメージを与える威力がある",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular\r\n\r\nThe silver knights of Anor Londo guard the\r\ncity using this beautifully slender weapon.\r\n\r\nIts chain attacks, in which the wielder takes\r\ngreat advancing steps and makes use of his\r\nbodyweight, are deadly even in single hits."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/208000.webp"
+  },
+  {
+    "id": "209000",
+    "name": {
+      "chn": "亚斯特拉直剑",
+      "jap": "アストラの直剣",
+      "eng": "Astora's Straight Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n无名骑士的直剑。\r\n可能是亚斯特拉上级骑士使用的直剑。\r\n\r\n是被赐予强大祝福，质量优良的武器。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n名も知らぬ騎士の直剣\r\n恐らくはアストラの上級騎士のもの\r\n\r\n強力な祝福がほどこされた上質の武器",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nStraight sword of an unknown knight,\r\nlikely one of Astora's superiors.\r\n\r\nHigh-quality weapon with a powerful blessing."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/209000.webp"
+  },
+  {
+    "id": "210000",
+    "name": {
+      "chn": "黑暗剑",
+      "jap": "ダークソード",
+      "eng": "Darksword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准\r\n\r\n听命于小隆德四王的骑士使用的剑。\r\n剑身厚又宽，因此发展出独特的剑术。\r\n\r\n四王堕入黑暗后，\r\n骑士们变成黑暗手下“吸魂鬼”，\r\n而他们持有的剑也变成了黑暗剑。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準\r\n\r\n小ロンドの四人の公王に仕えた騎士たちの剣\r\n肉厚で幅の広い刃は、独特の剣技を生んだ\r\n\r\n四人の公王が闇に堕ちて後\r\n騎士たちは闇の眷属ダークレイスとなり\r\nその剣もまたダークソードと呼ばれている",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular\r\n\r\nThe sword of the knights of the Four Kings of\r\nNew Londo. Its blade is wide and thick, and\r\nit is wielded in an unusual manner.\r\nWhen the Four Kings were seduced by evil,\r\ntheir knights became Darkwraiths, servants\r\nof the Dark who wielded these darkswords."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/210000.webp"
+  },
+  {
+    "id": "211000",
+    "name": {
+      "chn": "飞龙剑",
+      "jap": "飛竜の剣",
+      "eng": "Drake Sword"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准\r\n\r\n由飞龙海尔凯特的尾巴化成的武器。\r\n稀少的龙武器之一。\r\n据说飞龙是成不了龙的生物，\r\n但应该还是不朽古龙的后裔。\r\n\r\n带有不可思议的力量，\r\n双手共持可以释放那股力量。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準\r\n\r\n飛竜ヘルカイトの尾から生まれた武器\r\n希少なドラゴンウェポンの１つ\r\n飛竜は竜のできそこないと言われるが\r\nやはり朽ちぬ古竜の遠い子孫なのだろうか\r\n\r\n神秘の力を帯びており\r\n両手使いでその力が解放される",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular\r\n\r\nThis sword, one of the rare dragon weapons,\r\nis formed by a drake's tail. Drakes are\r\nseen as undeveloped imitators of the dragons,\r\nbut in they are likely their distant kin.\r\nThe sword is imbued with a mystical power,\r\nto be released when held with both hands."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/211000.webp"
+  },
+  {
+    "id": "212000",
+    "name": {
+      "chn": "直剑剑柄",
+      "jap": "直剣の柄",
+      "eng": "Straight Sword Hilt"
+    },
+    "description": {
+      "chn": "武器种类：直剑\r\n攻击属性：标准／突刺\r\n\r\n剑身完全断裂，只剩剑柄的直剑。\r\n被丢弃在不死院的监牢里。\r\n\r\n虽然有武器总比没有好，\r\n不过最好还是快点找到其他替代品，\r\n继续使用这武器没有意义。",
+      "jap": "武器種別：直剣\r\n攻撃属性：標準/刺突\r\n\r\n根元から刃が折れ、失われた直剣\r\n不死院の牢に打ち捨てられていた\r\n\r\n素手よりはまし、という程度の武器であり\r\nはやく別の武器を手に入れたほうがよいだろう\r\nこれを使い続ける意味はない",
+      "eng": "Weapon type: Straight Sword\r\nAttack type: Regular/Thrust\r\n\r\nThe hilt of this lost sword was found\r\ndiscarded in the Undead Asylum.\r\n\r\nOnly slightly better than one's bare hands,\r\nand not recommended for extensive use.\r\nBe certain to find a replacement quickly."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/212000.webp"
+  },
+  {
+    "id": "300000",
+    "name": {
+      "chn": "混种大剑",
+      "jap": "バスタードソード",
+      "eng": "Bastard Sword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n标准大剑。\r\n很沉重，使用时须双手共持。\r\n\r\n攻击方式大多是猛力挥舞。\r\n在对付数量多的敌人时非常有效，\r\n但在狭窄的地方使用时要特别注意。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\nスタンダードな大剣\r\n重量が大きく、両手使用が基本となる\r\n\r\n大きく振り回すような攻撃が多く\r\n複数の敵を相手にしたときに有効だが\r\n狭いところでは扱いに注意が必要となる",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nThis standard greatsword is normally wielded\r\nwith two hands due to its great weight.\r\n\r\nUsually swung in large arcs and effective\r\nagainst multiple foes. Far from ideal when\r\nfighting in tight quarters."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/300000.webp"
+  },
+  {
+    "id": "301000",
+    "name": {
+      "chn": "大剑",
+      "jap": "クレイモア",
+      "eng": "Claymore"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准／突刺\r\n\r\n比平常大了一圈的大剑\r\n很沉重，使用时须双手共持。\r\n\r\n除了砍劈攻击，还可以突刺攻击，\r\n是便于应付各种状况的大剑。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準/刺突\r\n\r\n一回り大きな大剣\r\n重量が大きく、両手使用が基本となる\r\n\r\n振り回す攻撃に加え、刺突攻撃もできるため\r\n状況対応能力の高い武器となっている",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular/Thrust\r\n\r\nThis larger type of greatsword is normally\r\nwielded with two hands due to its weight.\r\n\r\nThis highly flexible greatsword can be used\r\nto attack in swings or thrusts."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/301000.webp"
+  },
+  {
+    "id": "302000",
+    "name": {
+      "chn": "蛇人大剑",
+      "jap": "蛇人の大剣",
+      "eng": "Man-serpent Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n因血锈蚀的单刃大剑。\r\n潜伏在赛恩古城的蛇人武器。\r\n\r\n因为有点重量，\r\n要以人的力量挥舞有相当难度。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\n血に錆びた片刃の大剣\r\nセンの古城にうごめく蛇人の得物\r\n\r\nかなりの重量があり\r\n人の身で十分に振るうのは難しいだろう",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nThis single-bladed blood-stained greatsword\r\nis the choice weapon of the slithering \r\nserpent men of Sen's Fortress.\r\n\r\nAn ordinary human will have great difficulty\r\nswinging this heavy beast effectively."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/302000.webp"
+  },
+  {
+    "id": "303000",
+    "name": {
+      "chn": "焰形大剑",
+      "jap": "フランベルジェ",
+      "eng": "Flamberge"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：斩击\r\n\r\n剑身形状呈蜿蜒状的大剑。\r\n潜伏在赛恩古城的蛇人武器。\r\n\r\n是专门用来扩大皮肤伤口的武器，\r\n会导致敌人大量出血。",
+      "jap": "武器種別：大剣\r\n攻撃属性：斬撃\r\n\r\nうねうねと波打った刃を持つ大剣\r\nセンの古城にうごめく蛇人の得物\r\n\r\n皮膚などを切り裂くことに特化した武器であり\r\n敵に大量の出血を強いる",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Slash\r\n\r\nThis greatsword with an undulating blade is\r\nthe choice weapon of the slithering serpent\r\nmen of Sen's Fortress.\r\n\r\nThis weapon is designed to flay the skin and\r\ncauses heavy bleeding."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/303000.webp"
+  },
+  {
+    "id": "304000",
+    "name": {
+      "chn": "结晶大剑",
+      "jap": "結晶大剣",
+      "eng": "Crystal Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n完全结晶化的大剑。\r\n该怎么做才能做出这种武器，\r\n完全无迹可循。\r\n\r\n因为结晶的影响，攻击力较高，\r\n但容易损坏，也不能修理，\r\n无法长期使用。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\n全体が結晶化した大剣\r\nどうすればこのような武器が生まれるのか\r\nまったく見当もつかない\r\n\r\n結晶の力により攻撃力は高いが\r\n壊れやすく、また修理もできないため\r\n長く使い続けることはできない",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nA fully crystallized greatsword.\r\nHow such a weapon was created\r\nis entirely unknown.\r\nThe crystallization boosts its attack, but\r\nmakes the blade brittle. The sword cannot be\r\nused for long, as it cannot be repaired."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/304000.webp"
+  },
+  {
+    "id": "306000",
+    "name": {
+      "chn": "石大剑",
+      "jap": "石の大剣",
+      "eng": "Stone Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n黑森林庭院的守护者，\r\n长满青苔的石骑士大剑。\r\n\r\n石骑士是古老法术的产物，\r\n所以这把剑也带有法术的力量。\r\n双手共持可以释放那股力量。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\n黒い森の庭の守護者\r\n石の騎士の苔むした大剣\r\n\r\n石の騎士は古い魔法の産物であるが\r\nこの剣もまた、魔法の力を帯びており\r\n両手使いでその力が解放される",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nThe stone knights who guard the Darkroot\r\nGarden wield this moss-covered greatsword.\r\n\r\nThe same magic which created the stone\r\nknights is imbued in the sword. Unleash this\r\npower by wielding the sword with two hands."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/306000.webp"
+  },
+  {
+    "id": "307000",
+    "name": {
+      "chn": "亚尔特留斯大剑",
+      "jap": "アルトリウスの大剣",
+      "eng": "Greatsword of Artorias"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准／突刺\r\n\r\n为“漫步深渊”的骑士亚尔特留斯守墓的\r\n灰色大狼希夫，其灵魂所生的大剑。\r\n\r\n亚尔特留斯专门猎杀吸魂鬼，\r\n而这把剑也对黑暗的手下有极大杀伤力。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準/刺突\r\n\r\n「深淵歩き」の騎士アルトリウスの墓守\r\n灰色の大狼シフのソウルから生まれた大剣\r\n\r\nアルトリウスはダークレイスの狩人であり\r\nその剣もまた闇の眷属に大きな威力を発揮する",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular/Thrust\r\n\r\nSword born from the soul of the great grey\r\nwolf Sif, guardian of the grave of the\r\nAbysswalker Knight Artorias.\r\n\r\nSir Artorias hunted the Darkwraiths, and his\r\nsword strikes harder against dark servants."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/307000.webp"
+  },
+  {
+    "id": "308000",
+    "name": {
+      "chn": "大王大剑",
+      "jap": "大王の大剣",
+      "eng": "Great Lord Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n乌薪王葛温的灵魂所生的大剑。\r\n\r\n有最强灵魂的葛温王，\r\n虽然有如同阳光的雷电作为武器，\r\n但在外出传火前，就把那力量分给了族人，\r\n自己只带着这把大剑踏上旅途。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\n薪の王グウィンのソウルから生まれた大剣\r\n\r\n最も強いソウルの王グウィンは\r\n太陽の光たる雷を武器としていたが\r\n火継ぎを前にその力を一族に分け与え\r\n自らはこの大剣だけを手に旅立ったという",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nGreatsword born from the soul of Gwyn,\r\nLord of Cinder. As bearer of the ultimate\r\nsoul, Gwyn wielded the bolts of the sun,\r\nbut before linking the fire, divided that\r\npower amongst his children, and set off with\r\nonly this greatsword as his companion."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/308000.webp"
+  },
+  {
+    "id": "309000",
+    "name": {
+      "chn": "月光大剑",
+      "jap": "月光の大剣",
+      "eng": "Moonlight Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n过去背叛同胞的“无鳞”古龙──\r\n白龙希斯，其尾巴化成的武器。\r\n稀少的龙武器之一。\r\n\r\n为魔法始祖希斯的魔力结晶，\r\n那股力量能化为月光波动释放出来。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\nかつて同胞を裏切ったウロコのない古竜\r\n白竜シースの尾から生まれた武器\r\n希少なドラゴンウェポンの１つ\r\n\r\n魔術の祖たるシースの魔力の結晶であり\r\nその力は月光の波として解放される",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nThis sword, one of the rare dragon weapons,\r\ncame from the tail of Seath the Scaleless,\r\nthe pale white dragon who betrayed his own.\r\nSeath is the grandfather of sorcery, and this\r\nsword is imbued with his magic, which shall\r\nbe unleashed as a wave of moonlight."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/309000.webp"
+  },
+  {
+    "id": "310000",
+    "name": {
+      "chn": "黑骑士剑",
+      "jap": "黒騎士の剣",
+      "eng": "Black Knight Sword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准／突刺\r\n\r\n于罗德兰四处徘徊的黑骑士大剑。\r\n对抗混沌恶魔用的武器。\r\n\r\n大动作再加上自身体重使出的攻击，\r\n是因应当时的强敌而出现的战法。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準/刺突\r\n\r\nロードランをさまよう黒の騎士たちの大剣\r\n混沌のデーモンと対峙するための武器\r\n\r\n大きな動きから体重をのせた攻撃は\r\nかつての彼らの敵の強大さからくるものだ",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular/Thrust\r\n\r\nGreatsword of the black knights who wander\r\nLordran. Used to face chaos demons.\r\n\r\nThe large motion that puts the weight of the\r\nbody into the attack reflects the great size\r\nof their adversaries long ago."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/310000.webp"
+  },
+  {
+    "id": "311000",
+    "name": {
+      "chn": "亚尔特留斯大剑",
+      "jap": "アルトリウスの大剣",
+      "eng": "Greatsword of Artorias"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准／突刺\r\n\r\n为“漫步深渊”的骑士亚尔特留斯守墓的\r\n灰色大狼希夫，其灵魂所生的大剑。\r\n\r\n亚尔特留斯曾与深渊魔物缔结契约，\r\n受到契约产生的诅咒影响，可以伤害到亡灵。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準/刺突\r\n\r\n「深淵歩き」の騎士アルトリウスの墓守\r\n灰色の大狼シフのソウルから生まれた大剣\r\n\r\nかつてアルトリウスの交わした\r\n深淵の魔物との契約により呪われており\r\n亡霊にダメージを与えることができる",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular/Thrust\r\n\r\nSword born from the soul of the great grey\r\nwolf Sif, guardian of the grave of the\r\nAbysswalker Knight Artorias.\r\nThe sword can damage ghosts, as it was\r\ncursed when Artorias joined a covenant\r\nwith the creatures of the Abyss."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/311000.webp"
+  },
+  {
+    "id": "350000",
+    "name": {
+      "chn": "双手巨剑",
+      "jap": "ツヴァイヘンダー",
+      "eng": "Zweihander"
+    },
+    "description": {
+      "chn": "武器种类：特大剑\r\n攻击属性：标准\r\n\r\n超大型的直剑，特大剑的一种。\r\n\r\n剑如其名，是专为双手持剑而设计的武器，\r\n但如果没有过人的力气，还是无法顺利使用。\r\n若能活用重量，攻击时可以把敌人击飞。",
+      "jap": "武器種別：特大剣\r\n攻撃属性：標準\r\n\r\n超大型の直剣、特大剣の１つ\r\n\r\nその名のとおり、両手持ちを想定した武器であるが\r\nそれでも、尋常な筋力では使用できないほどに重く\r\nその重さを活かして、敵を吹き飛ばす",
+      "eng": "Weapon type: Ultra Greatsword\r\nAttack type: Regular\r\n\r\nOne of the gigantic straight greatswords.\r\n\r\nAs the name suggests, the Zweihander is held\r\nwith two hands, but its wielder must still be\r\ninhumanly strong. It is this great weight\r\nthat sends foes flying when hit solidly."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/350000.webp"
+  },
+  {
+    "id": "351000",
+    "name": {
+      "chn": "巨剑",
+      "jap": "グレートソード",
+      "eng": "Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：特大剑\r\n攻击属性：标准／突刺\r\n\r\n超大型的直剑，特大剑的一种。\r\n\r\n极度沉重，攻击力也高的武器，\r\n但几乎没人可以灵活运用。\r\n除了以重装闻名的伯尼斯骑士团之外，\r\n也是黑铁的塔尔卡斯的常用剑，因而闻名。",
+      "jap": "武器種別：特大剣\r\n攻撃属性：標準/刺突\r\n\r\n超大型の直剣、特大剣の１つ\r\n\r\nとてつもない重さと、攻撃力を持つ武器だが\r\nこれをまともに使用できる者はほとんどおらず\r\n重装で知られるバーニス騎士団のほか\r\n黒鉄のタルカスの愛剣としても知られている",
+      "eng": "Weapon type: Ultra Greatsword\r\nAttack type: Regular/Thrust\r\n\r\nOne of the gigantic straight greatswords.\r\n\r\nVery few have what it takes to wield this\r\nincredibly heavy, damage-dealing monster.\r\nA favorite of the Knights Berenike, known for\r\ntheir heavy armor, and Black Iron Tarkus."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/351000.webp"
+  },
+  {
+    "id": "352000",
+    "name": {
+      "chn": "恶魔柴刀",
+      "jap": "デーモンの大鉈",
+      "eng": "Demon Great Machete"
+    },
+    "description": {
+      "chn": "武器种类：特大剑\r\n攻击属性：标准\r\n\r\n附有镰钩，厚实铸铁刀身的恶魔武器。\r\n山羊头低阶恶魔是双手各拿一把。\r\n\r\n虽然武器本身并没有特殊魔力，\r\n但如果有足够力气挥舞，\r\n就是最适合痛快杀敌的武器之一。",
+      "jap": "武器種別：特大剣\r\n攻撃属性：標準\r\n\r\n分厚い鋳鉄の刀身と鈎を持つデーモンの武器\r\n山羊頭のレッサーデーモンが一対で使用していた\r\n\r\n特別な魔力は帯びていないが\r\nこの重さを振るう筋力があれば\r\n豪快に敵を叩き潰すには最適な武器のひとつ",
+      "eng": "Weapon type: Ultra Greatsword\r\nAttack type: Regular\r\n\r\nThe lesser Capra demons use these greatswords\r\nin pairs. The blade is cast iron and hooked.\r\n\r\nThe sword is imbued with no particular magic,\r\nbut for those who have the strength, its\r\ngreat weight will smash foes mercilessly."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/352000.webp"
+  },
+  {
+    "id": "354000",
+    "name": {
+      "chn": "古龙大剑",
+      "jap": "古竜の大剣",
+      "eng": "Dragon Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：特大剑\r\n攻击属性：标准\r\n\r\n在灰烬湖的不朽古龙后代──\r\n石身古龙，其尾巴化成的武器。\r\n稀少的龙武器之一。\r\n\r\n带有不可思议的力量，\r\n双手共持可以释放那股力量。",
+      "jap": "武器種別：特大剣\r\n攻撃属性：標準\r\n\r\n灰の湖に座するかつての朽ちぬ古竜の末裔\r\n石の古竜の尾から生まれた武器\r\n希少なドラゴンウェポンの１つ\r\n\r\n強い神秘の力を帯びており\r\n両手使いでその力が解放される",
+      "eng": "Weapon type: Ultra Greatsword\r\nAttack type: Regular\r\n\r\nThis sword, one of the rare dragon weapons,\r\ncame from the tail of the stone dragon of\r\nAsh Lake, descendant of the ancient dragons.\r\n\r\nIts great mystical power will be unleashed\r\nwhen wielded with two hands."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/354000.webp"
+  },
+  {
+    "id": "355000",
+    "name": {
+      "chn": "黑骑士大剑",
+      "jap": "黒騎士の大剣",
+      "eng": "Black Knight Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：特大剑\r\n攻击属性：标准／突刺\r\n\r\n于罗德兰四处徘徊的黑骑士大剑。\r\n对抗混沌恶魔用的武器。\r\n\r\n大动作再加上自身体重使出的攻击，\r\n是因应当时的强敌而出现的战法。",
+      "jap": "武器種別：特大剣\r\n攻撃属性：標準/刺突\r\n\r\nロードランをさまよう黒の騎士たちの大剣\r\n混沌のデーモンと対峙するための武器\r\n\r\n大きな動きから体重をのせた攻撃は\r\nかつての彼らの敵の強大さからくるものだ",
+      "eng": "Weapon type: Ultra Greatsword\r\nAttack type: Regular/Thrust\r\n\r\nGreatsword of the black knights who wander\r\nLordran. Used to face chaos demons.\r\n\r\nThe large motion that puts the weight of the\r\nbody into the attack reflects the great size\r\nof their adversaries long ago."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/355000.webp"
+  },
+  {
+    "id": "400000",
+    "name": {
+      "chn": "短弯刀",
+      "jap": "シミター",
+      "eng": "Scimitar"
+    },
+    "description": {
+      "chn": "武器种类：曲剑\r\n攻击属性：斩击\r\n\r\n小型曲剑。\r\n单招攻击力低，\r\n迅速连续攻击才能发挥威力。\r\n\r\n以利刃划伤敌人的斩击攻击，\r\n对柔软的衣服和皮肤等很有效果，\r\n但是对金属铠甲或坚硬鳞片之类效果较差。",
+      "jap": "武器種別：曲剣\r\n攻撃属性：斬撃\r\n\r\n小型の曲剣\r\n単発の攻撃力は低めだが\r\nなめらかな連続攻撃に真価を発揮する\r\n\r\n鋭い刃で敵を切り裂く斬撃攻撃は\r\n柔らかな衣服や表皮などには有効だが\r\n金属鎧や硬いウロコなどには効果が低い",
+      "eng": "Weapon type: Curved Sword\r\nAttack type: Slash\r\n\r\nSmall curved sword. Each hit inflicts little\r\ndamage, but fluid chain attacks are deadly.\r\n\r\nThe scimitar's sharp slashing attacks are\r\neffective against cloth and flesh, but not\r\nagainst metal armor or tough scales."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/400000.webp"
+  },
+  {
+    "id": "401000",
+    "name": {
+      "chn": "弯刃大刀",
+      "jap": "ファルシオン",
+      "eng": "Falchion"
+    },
+    "description": {
+      "chn": "武器种类：曲剑\r\n攻击属性：斩击\r\n\r\n标准曲剑。\r\n单招攻击力低，\r\n迅速连续攻击才能发挥威力。\r\n\r\n用法是以利刃划伤敌人的斩击，\r\n对柔软的衣服和皮肤很有效果，\r\n但是对金属铠甲或硬鳞之类的效果较低。",
+      "jap": "武器種別：曲剣\r\n攻撃属性：斬撃\r\n\r\nスタンダードな曲剣\r\n単発の攻撃力は低めだが\r\nなめらかな連続攻撃に真価を発揮する\r\n\r\n鋭い刃で敵を切り裂く斬撃攻撃は\r\n柔らかな衣服や表皮などには有効だが\r\n金属鎧や硬いウロコなどには効果が低い",
+      "eng": "Weapon type: Curved Sword\r\nAttack type: Slash\r\n\r\nSmall curved sword. Each hit inflicts little\r\ndamage, but fluid chain attacks are deadly.\r\n\r\nThe falchion's sharp slashing attacks are\r\neffective against cloth and flesh, but not\r\nagainst metal armor or tough scales."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/401000.webp"
+  },
+  {
+    "id": "402000",
+    "name": {
+      "chn": "钩剑",
+      "jap": "ショーテル",
+      "eng": "Shotel"
+    },
+    "description": {
+      "chn": "武器种类：曲剑\r\n攻击属性：斩击\r\n\r\n有大幅度弯刃的曲剑。 \r\n\r\n卡利姆伯爵阿尔斯特的作品之一，\r\n要有相当程度的敏捷才能上手的武器。\r\n可以绕过盾牌伤到敌人。",
+      "jap": "武器種別：曲剣\r\n攻撃属性：斬撃\r\n\r\n大きく湾曲した刃を持つ曲剣\r\n\r\nカリム伯アルスターの作の１つであり\r\n使用には高い技量が必要となるが\r\n盾の防御を掻い潜ってダメージを与えられる",
+      "eng": "Weapon type: Curved Sword\r\nAttack type: Slash\r\n\r\nCurved sword with sharply curved blade.\r\n\r\nCreated by Arstor, Earl of Carim.\r\nRequires great skill to wield, but evades\r\nshield defense to sneak in damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/402000.webp"
+  },
+  {
+    "id": "403000",
+    "name": {
+      "chn": "亡灵锯齿刀",
+      "jap": "亡霊のギザギザ刃",
+      "eng": "Jagged Ghost Blade"
+    },
+    "description": {
+      "chn": "武器种类：曲剑\r\n攻击属性：斩击／突刺\r\n\r\n小隆德的亡灵所拿的锯齿刀刃，\r\n能对敌人展开疯狂刺击。\r\n\r\n受诅咒的武器之一，\r\n可以伤到亡灵。",
+      "jap": "武器種別：曲剣\r\n攻撃属性：斬撃/刺突\r\n\r\n小ロンドの亡霊が持つギザギザの刃物\r\n敵をめった突きにする\r\n\r\n呪われた武器の１つであり\r\n亡霊にダメージを与えることができる",
+      "eng": "Weapon type: Curved Sword\r\nAttack type: Slash/Thrust\r\n\r\nJagged blade wielded by New Londo ghosts.\r\nViolent thrust attack.\r\n\r\nOne of the cursed weapons.\r\nInflicts damage to ghosts."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/403000.webp"
+  },
+  {
+    "id": "405000",
+    "name": {
+      "chn": "绘画守护者曲剑",
+      "jap": "絵画守りの曲刀",
+      "eng": "Painting Guardian Sword"
+    },
+    "description": {
+      "chn": "武器种类：曲剑\r\n攻击属性：斩击\r\n\r\n亚诺尔隆德的绘画守护者曲剑。\r\n具有剑尖平直的独特形状。\r\n\r\n如同舞蹈般画圆的连续攻击，\r\n是绘画守护者代代相传的招式，\r\n用来斩杀威胁大绘画的敌人。",
+      "jap": "武器種別：曲剣\r\n攻撃属性：斬撃\r\n\r\nアノール・ロンドの絵画守りたちの曲剣\r\n切っ先の平らな、独特の形状をもつ\r\n\r\n踊るような円の動きから繰り出す連撃は\r\n彼らに代々受け継がれ\r\n大絵画を脅かす者たちを切り裂いてきた",
+      "eng": "Weapon type: Curved Sword\r\nAttack type: Slash\r\n\r\nCurved sword of Anor Londo painting guards.\r\nUnique shape with flat tip.\r\nThe guardians, who strike down those who\r\ndare threaten the paintings, attack in a\r\ncontinuous, circular dancing motion,\r\na technique passed down through generations."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/405000.webp"
+  },
+  {
+    "id": "406000",
+    "name": {
+      "chn": "克拉格魔剑",
+      "jap": "クラーグの魔剣",
+      "eng": "Quelaag's Furysword"
+    },
+    "description": {
+      "chn": "武器种类：曲剑\r\n攻击属性：斩击\r\n\r\n化成混沌恶魔的伊札里斯魔女的女儿──\r\n克拉格，其灵魂所生的曲剑。\r\n\r\n整把剑有如克拉格的下半身，\r\n除了有坚硬外壳和刺，还带有混沌火焰。\r\n威力会随使用者的人性而增加。",
+      "jap": "武器種別：曲剣\r\n攻撃属性：斬撃\r\n\r\n混沌のデーモンと化したイザリスの魔女の娘\r\nクラーグのソウルから生まれた曲剣\r\n\r\nクラーグの下半身がそうだったように\r\n硬い外殻と刺を持ち、混沌を帯びており\r\n使用者の人間性によりその威力を増す",
+      "eng": "Weapon type: Curved Sword\r\nAttack type: Slash\r\n\r\nA curved sword born from the soul of\r\nQuelaag, daughter of the Witch of Izalith,\r\nwho was transformed into a chaos demon.\r\nLike Quelaag's body, the sword features\r\nshells, spikes, and a coating of chaos fire.\r\nPower affected by wielder's humanity."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/406000.webp"
+  },
+  {
+    "id": "450000",
+    "name": {
+      "chn": "献祭刀",
+      "jap": "生贄刀",
+      "eng": "Server"
+    },
+    "description": {
+      "chn": "武器种类：大曲剑\r\n攻击属性：斩击\r\n\r\n原来是用于仪式的巨大曲剑。\r\n\r\n带有可怕的邪教力量，\r\n打到敌人时会吸收敌人的血量。",
+      "jap": "武器種別：大曲剣\r\n攻撃属性：斬撃\r\n\r\n本来儀式に用いられる巨大な曲剣\r\n\r\n禍々しい邪教の力が込められており\r\n敵を攻撃するたび、ＨＰを回復する",
+      "eng": "Weapon type: Curved Greatsword\r\nAttack type: Slash\r\n\r\nA curved greatsword used in a\r\nmysterious ancient rite.\r\n\r\nImbued with a frightful occult energy\r\nwhich restores HP with each hit."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/450000.webp"
+  },
+  {
+    "id": "451000",
+    "name": {
+      "chn": "丛云",
+      "jap": "ムラクモ",
+      "eng": "Murakumo"
+    },
+    "description": {
+      "chn": "武器种类：大曲剑\r\n攻击属性：斩击\r\n \r\n在东方国度特别制作的巨大曲剑。\r\n\r\n具有刀的锋利度，\r\n但有高于柴刀重量的独特武器。\r\n如果想妥善运用，\r\n必须要有超乎常人的力气、敏捷，和精力。",
+      "jap": "武器種別：大曲剣\r\n攻撃属性：斬撃\r\n\r\n東の地で特別に鍛えられた巨大な曲剣\r\n\r\n刀の切れ味と鉈以上の重さを併せ持つ無双の武器だが\r\nこれを存分に振るうためには\r\n並外れた筋力、技量、スタミナが求められる",
+      "eng": "Weapon type: Curved Greatsword\r\nAttack type: Slash\r\n\r\nGiant curved sword forged using special\r\nmethods in an Eastern land.\r\nThis unparalleled weapon cuts like a Katana\r\nbut is heavier than a Nata machete.\r\nRequires extreme strength, dexterity,\r\nand stamina to wield."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/451000.webp"
+  },
+  {
+    "id": "453000",
+    "name": {
+      "chn": "墓王剑",
+      "jap": "墓王の剣",
+      "eng": "Gravelord Sword"
+    },
+    "description": {
+      "chn": "武器种类：大曲剑\r\n攻击属性：斩击／突刺\r\n\r\n只有“最初的死者”墓王尼特的手下持有，\r\n用众多死者骨头制成的剑。\r\n\r\n剑上带有浓烈的死亡瘴气，\r\n对所有的生命来说，是要命的剧毒。",
+      "jap": "武器種別：大曲剣\r\n攻撃属性：斬撃/刺突\r\n\r\n最初の死者、墓王ニトの眷属のみ持つ\r\n死者どもの骨でできた剣\r\n\r\n剣のまとう濃い死の瘴気は\r\nあらゆる生命にとっての猛毒となる",
+      "eng": "Weapon type: Curved Greatsword\r\nAttack type: Slash/Thrust\r\n\r\nSword wielded only by servants of\r\nGravelord Nito, the first of the dead.\r\nCrafted from the bones of the fallen.\r\n\r\nThe miasma of death exudes from the sword,\r\na veritable toxin to any living being."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/453000.webp"
+  },
+  {
+    "id": "500000",
+    "name": {
+      "chn": "打刀",
+      "jap": "打刀",
+      "eng": "Uchigatana"
+    },
+    "description": {
+      "chn": "武器种类：刀\r\n攻击属性：斩击／突刺\r\n\r\n在东方国度制作的刀剑，\r\n以利落的独特造型闻名。\r\n\r\n有极佳的锋利度和出血效果，\r\n但缺点是刀刃很容易钝。",
+      "jap": "武器種別：刀\r\n攻撃属性：斬撃/刺突\r\n\r\n東の地で鍛えられる刀剣\r\nきびきびとした独特の型で知られる\r\n\r\nすばらしい切れ味に加え出血効果があるが\r\n刃こぼれしやすいという欠点もある",
+      "eng": "Weapon type: Katana\r\nAttack type: Slash/Thrust\r\n\r\nKatana forged in an Eastern land.\r\nKnown for its brisk slashing motions.\r\n\r\nThe Uchigatana cuts beautifully and causes\r\nbleeding, but its blade is easily nicked."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/500000.webp"
+  },
+  {
+    "id": "501000",
+    "name": {
+      "chn": "晾衣长刀",
+      "jap": "物干し竿",
+      "eng": "Washing Pole"
+    },
+    "description": {
+      "chn": "武器种类：刀\r\n攻击属性：斩击／突刺\r\n\r\n在东方国度制作的刀剑之中，\r\n属于刀身特别长的逸品。\r\n\r\n因为刀刃极长，\r\n刀容易坏的缺点就更加显著了。",
+      "jap": "武器種別：刀\r\n攻撃属性：斬撃/刺突\r\n\r\n東の地で鍛えられる刀剣の中でも\r\n特に刀身の長い逸品\r\n\r\nその刃は限界まで長く\r\n壊れやすいという刀の欠点が顕著である",
+      "eng": "Weapon type: Katana\r\nAttack type: Slash/Thrust\r\n\r\nKatana forged in an Eastern land.\r\nVery unusual specimen with a long blade.\r\n\r\nThe blade is extremely long,\r\nbut as a result, quite easily broken."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/501000.webp"
+  },
+  {
+    "id": "502000",
+    "name": {
+      "chn": "居合刀",
+      "jap": "居合い刀",
+      "eng": "Iaito"
+    },
+    "description": {
+      "chn": "武器种类：刀\r\n攻击属性：斩击\r\n\r\n在东方国度制作的刀剑之一，\r\n是称作“居合”的剑术流派所用的刀。\r\n会先收刀入鞘，再使出光速般的斩击。\r\n\r\n使出“居合”时，往前一踏的距离颇长，\r\n因此可以瞬间砍倒有段距离的敌人。",
+      "jap": "武器種別：刀\r\n攻撃属性：斬撃\r\n\r\n東の地で鍛えられる刀剣の１つ\r\n刀を鞘に仕舞い、もって光速の斬撃を見舞う\r\n「居合い」と呼ばれる剣術流派のもの\r\n\r\n「居合い」の技は踏み込みに伸びがあり\r\n遠間の敵を一瞬で斬り落とす",
+      "eng": "Weapon type: Katana\r\nAttack type: Slash\r\n\r\nKatana forged in an Eastern land.\r\nThe Katana is drawn from the scabbard at\r\nlightning speed, using an Iaijutsu technique.\r\n\r\nIaijutsu allows the wielder to charge\r\nforward to swiftly cut down distant foes."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/502000.webp"
+  },
+  {
+    "id": "503000",
+    "name": {
+      "chn": "混沌之刃",
+      "jap": "混沌の刃",
+      "eng": "Chaos Blade"
+    },
+    "description": {
+      "chn": "武器种类：刀\r\n攻击属性：斩击\r\n\r\n化成混沌恶魔的伊札里斯魔女的女儿──\r\n克拉格，其灵魂所生的刀。\r\n\r\n只将克拉格的混沌性质保留下来，\r\n刀身有特殊的斑状纹路，\r\n是会同时侵蚀敌人和装备者的魔剑。",
+      "jap": "武器種別：刀\r\n攻撃属性：斬撃\r\n\r\n混沌のデーモンと化したイザリスの魔女の娘\r\nクラーグのソウルから生まれた刀\r\n\r\nクラーグの混沌の性質だけを受け継ぎ\r\n刀身には特徴的な斑流紋が浮かんでいる\r\n敵と同時に持ち主も蝕む魔剣",
+      "eng": "Weapon type: Katana\r\nAttack type: Slash\r\n\r\nA curved sword born from the soul of\r\nQuelaag, daughter of the Witch of Izalith,\r\nwho was transformed into a chaos demon.\r\nThis blade inherits only the chaotic nature\r\nof Quelaag, and has a unique speckled design.\r\nBlade wielder erodes along with opponents."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/503000.webp"
+  },
+  {
+    "id": "600000",
+    "name": {
+      "chn": "破甲细剑",
+      "jap": "鎧貫き",
+      "eng": "Mail Breaker"
+    },
+    "description": {
+      "chn": "武器种类：刺剑\r\n攻击属性：突刺\r\n\r\n极小型的刺剑。\r\n刀身坚硬而无刃，可刺穿坚硬的铠甲。\r\n\r\n可以利用自身体重向前刺，\r\n而在致命一击时也能发挥威力。",
+      "jap": "武器種別：刺剣\r\n攻撃属性：刺突\r\n\r\nごく小型の刺剣\r\n硬く刃の無い刀身は硬い鎧も貫く\r\n\r\n体重をのせ体ごと刺すように用いる他\r\n致命の一撃にも高い威力を発揮する",
+      "eng": "Weapon type: Thrusting Sword\r\nAttack type: Thrust\r\n\r\nStandard small thrusting sword.\r\nUnsharpened but pointed solid\r\nshaft can pierce tough armor.\r\n\r\nCan be thrust using the weight of one's body,\r\nand is very effective for critical attacks."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/600000.webp"
+  },
+  {
+    "id": "601000",
+    "name": {
+      "chn": "细剑",
+      "jap": "レイピア",
+      "eng": "Rapier"
+    },
+    "description": {
+      "chn": "武器种类：刺剑\r\n攻击属性：突刺\r\n\r\n标准的刺剑。\r\n架盾防御时可以使出单手的一般攻击，\r\n左手装备时则可以用来格挡。\r\n\r\n以尖刃穿敌的突刺攻击\r\n对装备较为坚固的敌人很有效，\r\n一抓到敌人的攻击破绽就可以重创敌人。",
+      "jap": "武器種別：刺剣\r\n攻撃属性：刺突\r\n\r\nスタンダードな刺剣\r\n片手の通常攻撃を、盾を構えたまま使用でき\r\nまた左手使用ではパリィに適する\r\n\r\n刃で敵を刺し貫く刺突攻撃は、硬い敵にも有効で\r\n振り終わりの隙をついて大ダメージを与えられる",
+      "eng": "Weapon type: Thrusting Sword\r\nAttack type: Thrust\r\n\r\nStandard thrusting sword. Regular one-handed\r\nattack can be delivered with shield held up.\r\nCan parry with use of left hand.\r\n\r\nThrusting attacks pierce and are effective\r\nagainst foes with hard exteriors, but the\r\nwielder is left open to damage after a swing."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/601000.webp"
+  },
+  {
+    "id": "602000",
+    "name": {
+      "chn": "刺剑",
+      "jap": "エストック",
+      "eng": "Estoc"
+    },
+    "description": {
+      "chn": "武器种类：刺剑\r\n攻击属性：标准／突刺\r\n\r\n最大型的刺剑。\r\n可以连同铠甲，将骑士一起刺穿的武器。\r\n\r\n坚硬的刀身具有利刃，\r\n也可以用来挥砍。",
+      "jap": "武器種別：刺剣\r\n攻撃属性：標準/刺突\r\n\r\n最も大型の刺剣\r\n鎧ごと騎士を刺し貫くための武器\r\n\r\nその硬い刀身には刃もあり\r\n斬りつけて使用することもできる",
+      "eng": "Weapon type: Thrusting Sword\r\nAttack type: Regular/Thrust\r\n\r\nThe largest of the thrusting swords.\r\nCan pierce an armored knight in one thrust.\r\n\r\nThe blade is also sharp,\r\nallowing slicing as well."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/602000.webp"
+  },
+  {
+    "id": "603000",
+    "name": {
+      "chn": "蓓尔嘉刺剑",
+      "jap": "ベルカの刺剣",
+      "eng": "Velka's Rapier"
+    },
+    "description": {
+      "chn": "武器种类：刺剑\r\n攻击属性：标准／突刺\r\n\r\n罪业女神蓓尔嘉的教诲师所装备，\r\n带有强烈象征性质的刺剑。\r\n\r\n不过这并不是徒具象征的装饰品，\r\n剑身带有魔力，再加上教诲师的独特剑术，\r\n使其同时身为卓越的剑士。",
+      "jap": "武器種別：刺剣\r\n攻撃属性：標準/刺突\r\n\r\n罪の女神ベルカの教戒師が身に帯びる\r\n象徴的な意味合いの強い刺剣\r\n\r\nだが、それは単なる象徴に留まらず\r\n魔力を帯びた刀身と、独特の剣技により\r\n教戒師はまた卓越した剣士でもある",
+      "eng": "Weapon type: Thrusting Sword\r\nAttack type: Regular/Thrust\r\n\r\nA symbolic, powerful thrusting sword used\r\nby the Pardoner serving Velka,\r\nGoddess of Sin.\r\nIt is no mere symbol to be sure; the Pardoner\r\nis an inhuman swordsman, and wields this\r\nenchanted blade with special sword technique."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/603000.webp"
+  },
+  {
+    "id": "604000",
+    "name": {
+      "chn": "里卡尔刺剑",
+      "jap": "リカールの刺剣",
+      "eng": "Ricard's Rapier"
+    },
+    "description": {
+      "chn": "武器种类：刺剑\r\n攻击属性：突刺\r\n\r\n有精美装饰的细剑。\r\n有名不死人王子──里卡尔的武器。\r\n\r\n里卡尔王子的故事是一则贵族落难记──\r\n出身王室却受尽命运折磨，因此到处流浪，\r\n最后以变成不死人，并往北方继续流浪作结。",
+      "jap": "武器種別：刺剣\r\n攻撃属性：刺突\r\n\r\n凝った装飾のほどこされたレイピア\r\n有名な不死の王子リカールの武器\r\n\r\n王子リカールの物語は貴種流離譚の１つであり\r\n王家に生まれた彼が運命の悪戯で各地を流浪し\r\n最後は不死となり、北に旅立って終わっている",
+      "eng": "Weapon type: Thrusting Sword\r\nAttack type: Thrust\r\n\r\nA rapier with intricate decorations. Chosen\r\nweapon of the infamous Undead Prince Ricard.\r\nRicard's exploits are told in a monomyth.\r\nHe was born into royalty, but wandered the\r\nlands in a fateful ill-conceived journey.\r\nHe became Undead, and disappeared up North."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/604000.webp"
+  },
+  {
+    "id": "700000",
+    "name": {
+      "chn": "手斧",
+      "jap": "ハンドアクス",
+      "eng": "Hand Axe"
+    },
+    "description": {
+      "chn": "武器种类：斧\r\n攻击属性：标准\r\n\r\n小型手斧。\r\n看起来和樵夫的吃饭家伙没两样，\r\n重量、威力适中，是很好用的武器。\r\n\r\n挥空的话会露出很大的破绽，\r\n使用时要切实抓好距离。",
+      "jap": "武器種別：斧\r\n攻撃属性：標準\r\n\r\n小型の手斧\r\n見た目は木こりの道具そのものだが\r\n適度な重量、威力で使いやすい武器\r\n\r\n空振りは大きな隙になるため\r\nしっかりと間合いをとる必要がある",
+      "eng": "Weapon type: Axe\r\nAttack type: Regular\r\n\r\nSmall hand axe. Appears identical to a\r\nlumberjack's tool, but has an ideal weight\r\nand strength, and is easy to handle.\r\nOne wrong swing leaves the wielder wide\r\nopen, so timing and proximity to the enemy\r\nmust be judged carefully."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/700000.webp"
+  },
+  {
+    "id": "701000",
+    "name": {
+      "chn": "战斧",
+      "jap": "バトルアクス",
+      "eng": "Battle Axe"
+    },
+    "description": {
+      "chn": "武器种类：斧\r\n攻击属性：标准\r\n\r\n标准战斧。\r\n为标准攻击属性，因此用起来不刁钻，\r\n方便在各种状况下运用。\r\n\r\n因为重量很重，攻击起来颇有威力，\r\n但挥空会露出很大的破绽，\r\n使用时要切实抓好距离。",
+      "jap": "武器種別：斧\r\n攻撃属性：標準\r\n\r\nスタンダードな戦斧\r\n攻撃属性標準はクセがなく汎用性が高い\r\n\r\n重さを活かした攻撃は高い威力があるが\r\n空振りは大きな隙になるため\r\nしっかりと間合いをとる必要がある",
+      "eng": "Weapon type: Axe\r\nAttack type: Regular\r\n\r\nStandard battle axe. Inflicts regular damage,\r\nmaking it effective in various situations.\r\nPowerful attack due to its weight, but one\r\nwrong swing leaves the wielder wide open,\r\nso timing and proximity to the enemy must\r\nbe judged carefully."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/701000.webp"
+  },
+  {
+    "id": "702000",
+    "name": {
+      "chn": "弦月斧",
+      "jap": "三日月斧",
+      "eng": "Crescent Axe"
+    },
+    "description": {
+      "chn": "武器种类：斧\r\n攻击属性：标准\r\n\r\n具有弦月状刀刃及长柄，\r\n已使用有段时间的老旧铜制战斧。\r\n\r\n白教所传的受祝福的武器之一，\r\n只赐给特别受肯定的圣职战士。",
+      "jap": "武器種別：斧\r\n攻撃属性：標準\r\n\r\n長い柄と三日月状の刃を持つ\r\n使い込まれた古い銅製の戦斧\r\n\r\n白教に伝わる祝福された武器の１つであり\r\n特に認められた聖職の戦士に与えられる",
+      "eng": "Weapon type: Axe\r\nAttack type: Regular\r\n\r\nWell-used old bronze battle axe with a\r\nlong hilt and a crescent-shaped blade.\r\n\r\nOne of the blessed weapons of the Way of\r\nWhite. The Crescent Axe is bequeathed to\r\ncleric warriors who have proven their faith."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/702000.webp"
+  },
+  {
+    "id": "703000",
+    "name": {
+      "chn": "切肉菜刀",
+      "jap": "肉断ち包丁",
+      "eng": "Butcher Knife"
+    },
+    "description": {
+      "chn": "武器种类：斧\r\n攻击属性：标准\r\n\r\n住在底层的不死人食人女\r\n所使用的巨大切肉菜刀。\r\n\r\n说是武器，还不如说是肢解猎物用的工具。\r\n随性挥舞这把菜刀的模样，\r\n能唤起人类那遗忘已久，对掠食者的恐惧。",
+      "jap": "武器種別：斧\r\n攻撃属性：標準\r\n\r\n最下層に住む不死の人食い女の使う\r\n巨大な肉断ち包丁\r\n\r\n武器というより、獲物を狩り解体する道具であり\r\n本能のまま無造作にそれを振るう様は\r\n人に忘れていた被食者の恐怖を思い起こさせる",
+      "eng": "Weapon type: Axe\r\nAttack type: Regular\r\n\r\nGiant butcher knife wielded by the Undead\r\nman-eating cook lurking in the Depths.\r\nMore a tool for subduing and preparing live\r\ncatches than an actual weapon. Those who\r\nhave faced this deadly blade have a deeper\r\nsense of how helpless prey must feel."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/703000.webp"
+  },
+  {
+    "id": "704000",
+    "name": {
+      "chn": "巨偶斧",
+      "jap": "ゴーレムアクス",
+      "eng": "Golem Axe"
+    },
+    "description": {
+      "chn": "武器种类：斧\r\n攻击属性：标准\r\n\r\n专门屠杀想前往亚诺尔隆德的英雄，\r\n赛恩古城的防卫者──\r\n钢铁巨偶，其灵魂所生的斧。\r\n\r\n单手重攻击可以使出巨偶的风刃，\r\n但是铁斧刃相当沉重，难以活用。",
+      "jap": "武器種別：斧\r\n攻撃属性：標準\r\n\r\nセンの古城の守護者として\r\nアノール・ロンドを目指す英雄達を屠ってきた\r\nアイアンゴーレムのソウルから生まれた斧\r\n\r\n片手の大攻撃で、ゴーレムの風の刃を放つが\r\n鉄の刃は重く、扱いは困難",
+      "eng": "Weapon type: Axe\r\nAttack type: Regular\r\n\r\nAn axe born from the soul of the Iron Golem,\r\nguardian of Sen's Fortress who repelled\r\ncountless heroes who sought Anor Londo.\r\nIts powerful one-handed attack imitates the\r\ngolem's blade of wind, but the heavy iron\r\nblade makes it quite unwieldy."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/704000.webp"
+  },
+  {
+    "id": "705000",
+    "name": {
+      "chn": "石像鬼尾斧",
+      "jap": "ガーゴイルの尾斧",
+      "eng": "Gargoyle Tail Axe"
+    },
+    "description": {
+      "chn": "武器种类：斧\r\n攻击属性：标准\r\n\r\n在不死教堂钟楼守护苏醒之钟的石像鬼，\r\n切下其尾巴而成的斧。\r\n\r\n可以当做青铜战斧使用。\r\n可能因为原来是尾巴，所以当重攻击时，\r\n柄会像鞭子一样延伸变长。",
+      "jap": "武器種別：斧\r\n攻撃属性：標準\r\n\r\n不死教会の鐘楼で目覚ましの鐘を守っていた\r\nガーゴイルの尾を切り落としたもの\r\n\r\n青銅の戦斧として使用することができ\r\n元々の尾の特性によるものか\r\n大攻撃時に柄がムチのように大きくしなる",
+      "eng": "Weapon type: Axe\r\nAttack type: Regular\r\n\r\nSliced tail of the gargoyle guarding the\r\nBell of Awakening in the Undead Church\r\nor patrolling in Anor Londo.\r\n\r\nCan be used as a bronze battle axe.\r\nBends dramatically during large attacks,\r\nowing to its nature as a tail."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/705000.webp"
+  },
+  {
+    "id": "750000",
+    "name": {
+      "chn": "巨斧",
+      "jap": "グレートアクス",
+      "eng": "Greataxe"
+    },
+    "description": {
+      "chn": "武器种类：大斧\r\n攻击属性：标准\r\n\r\n像铁块般的大斧。\r\n非常重，没有超乎常人的力气没办法使用，\r\n如能活用此重量，将可轻易地把敌人打飞。\r\n\r\n因为会使用全身的力量挥动，\r\n所以挥空时的风险也相对变大。",
+      "jap": "武器種別：大斧\r\n攻撃属性：標準\r\n\r\n鉄塊のような大斧\r\n尋常な筋力では使用できないほどに重く\r\n重さを活かした攻撃は、敵を吹き飛ばす\r\n\r\n全身の力をのせて振り抜くため\r\n空振りのリスクもまた大きくなっている",
+      "eng": "Weapon type: Greataxe\r\nAttack type: Regular\r\n\r\nThis greataxe is a veritable mass of iron.\r\nIts weight sends foes flying, but makes it\r\ndifficult to handle without inhuman strength.\r\n\r\nAny miss makes one very vulnerable, as each\r\nswing requires the full force of the body."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/750000.webp"
+  },
+  {
+    "id": "751000",
+    "name": {
+      "chn": "恶魔大斧",
+      "jap": "デーモンの大斧",
+      "eng": "Demon's Greataxe"
+    },
+    "description": {
+      "chn": "武器种类：大斧\r\n攻击属性：标准\r\n\r\n用同族的骨头制成的恶魔武器。\r\n由牛头低阶恶魔所使用。\r\n\r\n虽然武器本身并没有特殊魔力，\r\n但如果有足够力气挥舞，\r\n就是最适合痛快杀敌的武器之一。",
+      "jap": "武器種別：大斧\r\n攻撃属性：標準\r\n\r\n同族の骨を削り出したデーモンの武器\r\n牛頭のレッサーデーモンが使用していた\r\n\r\n特別な魔力は帯びていないが\r\nこの重さを振るう筋力があれば\r\n豪快に敵を叩き潰すには最適な武器のひとつ",
+      "eng": "Weapon type: Greataxe\r\nAttack type: Regular\r\n\r\nCarved from the bones of fellow demons.\r\nWielded by the lesser Taurus demons.\r\n\r\nThis axe is imbued with no special power,\r\nbut can merrily beat foes to a pulp,\r\nproviding you have the strength to wield it."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/751000.webp"
+  },
+  {
+    "id": "752000",
+    "name": {
+      "chn": "龙王大斧",
+      "jap": "竜王の大斧",
+      "eng": "Dragon King Greataxe"
+    },
+    "description": {
+      "chn": "武器种类：大斧\r\n攻击属性：标准\r\n\r\n由变成异形的不朽古龙后裔──\r\n贪食魔龙，其尾巴化成的武器。\r\n稀少的龙武器之一。\r\n\r\n带有不可思议的力量，\r\n双手共持可以释放那股力量。",
+      "jap": "武器種別：大斧\r\n攻撃属性：標準\r\n\r\n異形となった朽ちぬ古竜の子孫\r\n貪食ドラゴンの尾から生まれた武器\r\n希少なドラゴンウェポンの１つ\r\n\r\n強い神秘の力を帯びており\r\n両手使いでその力が解放される",
+      "eng": "Weapon type: Greataxe\r\nAttack type: Regular\r\n\r\nThis axe, one of the rare dragon weapons,\r\nis formed by the tail of the Gaping Dragon,\r\na distant, deformed descendant of the\r\neverlasting dragons.\r\nThe axe is imbued with a mystical power,\r\nto be released when held with both hands."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/752000.webp"
+  },
+  {
+    "id": "753000",
+    "name": {
+      "chn": "黑骑士大斧",
+      "jap": "黒騎士の大斧",
+      "eng": "Black Knight Greataxe"
+    },
+    "description": {
+      "chn": "武器种类：大斧\r\n攻击属性：标准\r\n\r\n于罗德兰四处徘徊的黑骑士大斧。\r\n对抗混沌恶魔用的武器。\r\n\r\n大动作再加上自身体重使出的攻击，\r\n是因应当时的强敌而出现的战法。",
+      "jap": "武器種別：大斧\r\n攻撃属性：標準\r\n\r\nロードランをさまよう黒の騎士たちの大斧\r\n混沌のデーモンと対峙するための武器\r\n\r\n大きな動きから体重をのせた攻撃は\r\nかつての彼らの敵の強大さからくるものだ",
+      "eng": "Weapon type: Greataxe\r\nAttack type: Regular\r\n\r\nGreataxe of the black knights who wander\r\nLordran. Used to face chaos demons.\r\n\r\nThe large motion that puts the weight of the\r\nbody into the attack reflects the great size\r\nof their adversaries long ago."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/753000.webp"
+  },
+  {
+    "id": "800000",
+    "name": {
+      "chn": "棍棒",
+      "jap": "クラブ",
+      "eng": "Club"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：打击\r\n\r\n粗制的木棒。\r\n\r\n不靠刀刃的单纯打击武器\r\n大多很好上手，还可以瓦解盾牌防御，\r\n但是只要一挥空，就会露出大破绽，\r\n使用时要切实抓好距离。",
+      "jap": "武器種別：槌\r\n攻撃属性：打撃\r\n\r\n粗末な木の棍棒\r\n\r\n刃によらない単純な打撃武器は\r\n苦手が少なく、盾受けを崩すこともできる\r\nまた、空振りは大きな隙になるため\r\nしっかりと間合いをとる必要がある",
+      "eng": "Weapon type: Hammer\r\nAttack type: Strike\r\n\r\nA simple wooden club.\r\nThis simple bladeless strike weapon is\r\neffective against most foes, is easily\r\nhandled, and can break the guard of a shield.\r\nHowever, a single miss makes one wide open,\r\nso timing and proximities are crucial."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/800000.webp"
+  },
+  {
+    "id": "801000",
+    "name": {
+      "chn": "锤矛",
+      "jap": "メイス",
+      "eng": "Mace"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：打击\r\n\r\n柄头上有刺的铁锤。\r\n知名的圣职标准装备。\r\n\r\n不靠刀刃的单纯打击武器\r\n大多很好上手，还可以瓦解盾牌防御，\r\n但是只要一挥空，就会露出大破绽，\r\n使用上必需多加注意。",
+      "jap": "武器種別：槌\r\n攻撃属性：打撃\r\n\r\n柄頭に突起のついた鉄の槌\r\n聖職者の標準的な武器として知られる\r\n\r\n刃によらない単純な打撃武器は\r\n苦手が少なく、盾受けを崩すこともできる\r\n空振りは大きな隙になるので注意が必要",
+      "eng": "Weapon type: Hammer\r\nAttack type: Strike\r\n\r\nIron hammer with a protrusive pommel.\r\nStandard weapon for clerics.\r\nThis simple bladeless strike weapon is\r\neffective against most foes, and can\r\nbreak the guard of a shield. However,\r\none miss leaves one wide open."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/801000.webp"
+  },
+  {
+    "id": "802000",
+    "name": {
+      "chn": "晨星锤",
+      "jap": "モーニングスター",
+      "eng": "Morning Star"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：打击\r\n\r\n柄头上有尖锐尖刺的铁锤，\r\n在圣职的武器中，属于比较残酷的种类。\r\n\r\n虽然是打击属性，\r\n但那尖锐的突刺带有出血效果。",
+      "jap": "武器種別：槌\r\n攻撃属性：打撃\r\n\r\n柄頭に鋭いトゲのついた槌\r\n聖職者の武器の中でも残酷なイメージが強い\r\n\r\nその鋭いトゲの効果により\r\n打撃属性でありながら出血効果がある",
+      "eng": "Weapon type: Hammer\r\nAttack type: Thrust\r\n\r\nHammer with a sharp spike on its pommel.\r\nOne of the more barbaric cleric weapons.\r\n\r\nUniquely, this hammer inflicts thrust damage,\r\nand causes bleeding."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/802000.webp"
+  },
+  {
+    "id": "803000",
+    "name": {
+      "chn": "战镐",
+      "jap": "ウォーピック",
+      "eng": "Warpick"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：突刺\r\n\r\n拥有大型坚硬喙状尖刺的战锤。\r\n是改良为战斗用的十字镐。\r\n\r\n虽然构造简单，却是恐怖的武器。\r\n能用重突刺攻击贯穿金属铠甲。",
+      "jap": "武器種別：槌\r\n攻撃属性：刺突\r\n\r\n柄頭に硬く大きい嘴状の突起をもつ槌\r\n戦闘用に調整されたつるはし\r\n\r\n単純だが恐ろしい武器であり\r\n重い刺突攻撃は金属鎧をも簡単に貫く",
+      "eng": "Weapon type: Hammer\r\nAttack type: Thrust\r\n\r\nHammer with a large beak-shaped pommel.\r\nOriginally a pickaxe; redesigned for battle.\r\n\r\nThis simple but deadly weapon hits heavily\r\nwith thrust damage, such that it easily\r\ncracks metal armor."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/803000.webp"
+  },
+  {
+    "id": "804000",
+    "name": {
+      "chn": "十字镐",
+      "jap": "つるはし",
+      "eng": "Pickaxe"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：突刺\r\n\r\n矿工用来挖土的道具。\r\n坚硬喙状尖刺的攻击效果很好。\r\n\r\n那能凿开巨大岩石，全力挥下的攻击，\r\n要粉碎人类的头应该是轻而易举。",
+      "jap": "武器種別：槌\r\n攻撃属性：刺突\r\n\r\n鉱夫が土を掘り返す道具だが\r\n硬い嘴は戦闘でも有効となる\r\n\r\n大岩をも削る渾身の振り下ろしは\r\n人間の頭など簡単に砕いてしまうだろう",
+      "eng": "Weapon type: Hammer\r\nAttack type: Thrust\r\n\r\nTraditionally a mining tool, but the hard\r\ncone on the pommel is effective in battle.\r\n\r\nA downward swing of the Pickaxe can crush\r\nstone; a human head would be an afterthought."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/804000.webp"
+  },
+  {
+    "id": "809000",
+    "name": {
+      "chn": "强化棍棒",
+      "jap": "強化クラブ",
+      "eng": "Reinforced Club"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：打击\r\n\r\n在棍棒头绑皮革，并钉上钉子的棍棒。\r\n城外不死人商人的热卖商品，\r\n但是“强化”的字眼是子虚乌有。\r\n\r\n虽然有提升攻击力，但是变得容易损坏。",
+      "jap": "武器種別：槌\r\n攻撃属性：打撃\r\n\r\n柄頭に革を巻き釘を打った棍棒\r\n城下不死商人の目玉商品だが、その強化は杜撰\r\n\r\n確かに攻撃力が上がったが\r\n同時に壊れやすくなってしまった",
+      "eng": "Weapon type: Hammer\r\nAttack type: Strike\r\n\r\nA club with leather nailed to the pommel.\r\nThe burg Undead merchant proudly peddles\r\nthis club, but its reinforcement is shoddy.\r\nIndeed, its attack is stronger, but the\r\nclub is no longer dependably sturdy."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/809000.webp"
+  },
+  {
+    "id": "810000",
+    "name": {
+      "chn": "铁匠铁锤",
+      "jap": "鍛冶屋の金槌",
+      "eng": "Blacksmith Hammer"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：打击\r\n\r\n在古老教堂冶炼武器的铁匠──\r\n亚斯特拉的安德烈的铁锤。\r\n\r\n虽然可以作为打击武器使用，\r\n但这铁锤还是要在安德烈的手上，\r\n才能发挥它真正的价值。",
+      "jap": "武器種別：槌\r\n攻撃属性：打撃\r\n\r\n古い教会で武器を鍛える鍛冶屋\r\nアストラのアンドレイの金槌\r\n\r\n打撃武器として使用することもできるが\r\nその価値はアンドレイの手にあってこそだ",
+      "eng": "Weapon type: Hammer\r\nAttack type: Strike\r\n\r\nMetal hammer of Andre of Astora,\r\nblacksmith at the Old Church.\r\n\r\nCan be used as a strike weapon, but better\r\nleft in the hands of its talented owner."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/810000.webp"
+  },
+  {
+    "id": "811000",
+    "name": {
+      "chn": "巨人铁匠木槌",
+      "jap": "巨人鍛冶の木槌",
+      "eng": "Blacksmith Giant Hammer"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：打击\r\n\r\n在亚诺尔隆德打造雷电武器的\r\n巨人铁匠使用的巨大木槌。\r\n\r\n打造雷电武器时，绝对不能使用金属锤，\r\n因此巨人铁匠一直使用木制槌子。",
+      "jap": "武器種別：槌\r\n攻撃属性：打撃\r\n\r\nアノール・ロンドで雷の武器を鍛える\r\n巨人鍛冶の巨大な木槌\r\n\r\n雷の武器を作るとき金属は厳禁であるため\r\n巨人鍛治はずっと木の槌を使っている",
+      "eng": "Weapon type: Hammer\r\nAttack type: Strike\r\n\r\nWooden hammer of the giant blacksmith in\r\nAnor Londo who handles lightning weapons.\r\n\r\nThe giant blacksmith forges with this wooden\r\nhammer, as it would be hazardous to handle\r\nlightning weapons with metals."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/811000.webp"
+  },
+  {
+    "id": "812000",
+    "name": {
+      "chn": "巴摩斯锤子",
+      "jap": "バモスのハンマー",
+      "eng": "Hammer of Vamos"
+    },
+    "description": {
+      "chn": "武器种类：槌\r\n攻击属性：打击\r\n\r\n在地下墓地专心打造火焰武器的\r\n骸骨铁匠巴摩斯使用的铁锤。\r\n\r\n虽然可以作为打击武器使用，\r\n但这铁锤还是要在巴摩斯的手上，\r\n才能发挥它真正的价值。",
+      "jap": "武器種別：槌\r\n攻撃属性：打撃\r\n\r\n地下墓地の底で黙々と炎の武器を鍛える\r\n骸骨鍛治バモスの金槌\r\n\r\n打撃武器として使用することもできるが\r\nその価値はバモスの手にあってこそだ",
+      "eng": "Weapon type: Hammer\r\nAttack type: Strike\r\n\r\nMetal hammer of Vamos, a skeleton blacksmith\r\ndeep within the Catacombs who rarely speaks.\r\n\r\nCan be used as a strike weapon, but better\r\nleft in the hands of its talented owner."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/812000.webp"
+  },
+  {
+    "id": "850000",
+    "name": {
+      "chn": "巨型棍棒",
+      "jap": "グレートクラブ",
+      "eng": "Great Club"
+    },
+    "description": {
+      "chn": "武器种类：大槌\r\n攻击属性：打击\r\n\r\n巨大的木质棍棒。\r\n是直接拿又硬又重的大树枝干来挥舞，\r\n并从敌人的头上重重打下去。\r\n\r\n也可以使出棍棒特有的跳跃攻击。",
+      "jap": "武器種別：大槌\r\n攻撃属性：打撃\r\n\r\n巨大な木の棍棒\r\n硬く重い大樹の枝をそのまま振り回し\r\n敵を上から叩き潰す\r\n\r\n棍棒ならではの飛び込み攻撃は\r\nこの巨大な棍棒でも健在である",
+      "eng": "Weapon type: Great Hammer\r\nAttack type: Strike\r\n\r\nGiant tree branch serves as a wooden club.\r\nSmashes enemies from upside the head.\r\n\r\nThe leaping attack is a trademark of clubs,\r\nand this giant club is no exception."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/850000.webp"
+  },
+  {
+    "id": "851000",
+    "name": {
+      "chn": "神许重锤",
+      "jap": "グラント",
+      "eng": "Grant"
+    },
+    "description": {
+      "chn": "武器种类：大槌\r\n攻击属性：打击\r\n\r\n很久以前，成为不死人的圣骑士被托付的\r\n白教传说宝物之一。\r\n\r\n是一般人连拿都拿不动的铁块，\r\n本身已受到祝福，对黑暗物种特别有杀伤力。",
+      "jap": "武器種別：大槌\r\n攻撃属性：打撃\r\n\r\nはるか昔、不死となった聖騎士に託されたという\r\n白教の伝説の宝具の１つ\r\n\r\n尋常の人ならば持ち上げることもできぬ鉄塊であり\r\n予め祝福され、また特に闇の者を屠る力を持つ",
+      "eng": "Weapon type: Great Hammer\r\nAttack type: Strike\r\n\r\nA legendary weapon of the Way of White,\r\ngranted to an Undead paladin long ago.\r\n\r\nThis mass of iron can only be lifted by those\r\nwith inhuman strength, but it is blessed,\r\nand very effective against agents of Dark."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/851000.webp"
+  },
+  {
+    "id": "852000",
+    "name": {
+      "chn": "恶魔大锤",
+      "jap": "デーモンの大槌",
+      "eng": "Demon's Great Hammer"
+    },
+    "description": {
+      "chn": "武器种类：大槌\r\n攻击属性：打击\r\n\r\n用岩石大树加工制成的恶魔武器。\r\n由北方不死院的低阶恶魔使用。\r\n\r\n虽然武器本身并没有特殊魔力，\r\n但如果有足够力气挥舞，\r\n就是最适合痛快杀敌的武器之一。",
+      "jap": "武器種別：大槌\r\n攻撃属性：打撃\r\n\r\n岩の大樹を加工したデーモンの武器\r\n北の不死院のレッサーデーモンが使用していた\r\n\r\n特別な魔力は帯びていないが\r\nこの重さを振るう筋力があれば\r\n豪快に敵を叩き潰すには最適な武器のひとつ",
+      "eng": "Weapon type: Great Hammer\r\nAttack type: Strike\r\n\r\nDemon weapon built from the stone archtrees.\r\nUsed by lesser demons at North Undead Asylum.\r\n\r\nThis hammer is imbued with no special power,\r\nbut can merrily beat foes to a pulp,\r\nproviding you have the strength to wield it."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/852000.webp"
+  },
+  {
+    "id": "854000",
+    "name": {
+      "chn": "大龙牙",
+      "jap": "大竜牙",
+      "eng": "Dragon Tooth"
+    },
+    "description": {
+      "chn": "武器种类：大槌\r\n攻击属性：打击\r\n\r\n据说是把不朽古龙的牙直接当成武器，\r\n“坚石”哈维尔的传说大槌。\r\n\r\n龙牙比一般的岩石还要硬，绝对不会断，\r\n也会提升装备者的法术和火焰的抵抗力。",
+      "jap": "武器種別：大槌\r\n攻撃属性：打撃\r\n\r\n朽ちぬ古竜の牙をそのまま武器にしたという\r\n「岩のような」ハベルの伝説の大槌\r\n\r\nその牙は岩よりも硬く、決して折れず\r\nまた使用者に魔法と炎に耐える力を与える",
+      "eng": "Weapon type: Great Hammer\r\nAttack type: Strike\r\n\r\nCreated from an everlasting dragon tooth.\r\nLegendary great hammer of Havel the Rock.\r\n\r\nThe dragon tooth will never break as it is\r\nharder than stone, and it grants its wielder\r\nresistance to magic and flame."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/854000.webp"
+  },
+  {
+    "id": "855000",
+    "name": {
+      "chn": "大型棍棒",
+      "jap": "ラージクラブ",
+      "eng": "Large Club"
+    },
+    "description": {
+      "chn": "武器种类：大槌\r\n攻击属性：打击\r\n\r\n大型的木质棍棒。\r\n\r\n病村的不死巨人使用的武器，\r\n因为长期放置该地，武器带有毒。",
+      "jap": "武器種別：大槌\r\n攻撃属性：打撃\r\n\r\n大きな木の棍棒\r\n\r\n病み村の大不死人が使っていたもので\r\nかの地に長くあったからか、毒の効果がある",
+      "eng": "Weapon type: Great Hammer\r\nAttack type: Strike\r\n\r\nLarge wooden club.\r\n\r\nThe giant Undead of Blighttown wield these\r\nclubs, which became poisonous from the\r\ninfluence of their surroundings."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/855000.webp"
+  },
+  {
+    "id": "856000",
+    "name": {
+      "chn": "斯摩的锤子",
+      "jap": "スモウハンマー",
+      "eng": "Smough's Hammer"
+    },
+    "description": {
+      "chn": "武器种类：大槌\r\n攻击属性：打击\r\n\r\n在被遗弃的亚诺尔隆德，守护教堂的\r\n“刽子手”斯摩，其灵魂所生的大锤。\r\n\r\n斯摩对处刑乐此不疲，\r\n甚至认为借由碾碎牺牲者的血肉，\r\n化作自己的食粮，就是上上之策。\r\n因为性格如此残忍，才未能挤身四骑士之列。",
+      "jap": "武器種別：大槌\r\n攻撃属性：打撃\r\n\r\n棄てられたアノール・ロンドで聖堂を守る\r\n「処刑者」スモウのソウルから生まれた大槌\r\n\r\nスモウは、処刑に愉悦し、犠牲者の骨肉をすり潰し\r\nもって自分の精にしていたといい、その酷薄さから\r\n遂に四騎士の列に序されることはなかった",
+      "eng": "Weapon type: Great Hammer\r\nAttack type: Strike\r\n\r\nGreat hammer from the soul of executioner\r\nSmough, who guards the cathedral in the forsaken city of Anor Londo.\r\nSmough loved his work, and ground the bones\r\nof his victims into his own feed, ruining his\r\nhopes of being ranked with the Four Knights."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/856000.webp"
+  },
+  {
+    "id": "901000",
+    "name": {
+      "chn": "护手带",
+      "jap": "セスタス",
+      "eng": "Caestus"
+    },
+    "description": {
+      "chn": "武器种类：拳套\r\n攻击属性：打击\r\n\r\n在厚皮革嵌入铁锥，\r\n以强化拳击的武器。\r\n\r\n攻击距离短，但是攻击速度快，\r\n力气越大，攻击力就越高。",
+      "jap": "武器種別：拳\r\n攻撃属性：打撃\r\n\r\n厚手の革に鉄の鋲を埋め込んだ\r\n拳を強化する武器\r\n\r\nリーチは短いが、回転がはやく\r\n攻撃力は己の筋力に依存する",
+      "eng": "Weapon type: Fists\r\nAttack type: Strike\r\n\r\nThe weapon augments one's bare hands\r\nwith thick, studded leather.\r\n\r\nThe Caestus has a short reach, but quick\r\ncool down. Amount of damage inflicted is\r\ndependent on its wearer's strength."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/901000.webp"
+  },
+  {
+    "id": "902000",
+    "name": {
+      "chn": "钩爪",
+      "jap": "かぎ爪",
+      "eng": "Claw"
+    },
+    "description": {
+      "chn": "武器种类：拳套\r\n攻击属性：斩击\r\n\r\n在手套上附有三支锐利爪子的武器。\r\n\r\n攻击有出血效果，伤口不易愈合，\r\n是东方国度的密探爱用的武器。",
+      "jap": "武器種別：拳\r\n攻撃属性：斬撃\r\n\r\n三本の鋭い刃の爪がついた武器\r\n\r\nその攻撃は出血を伴い、傷はなかなか縫合できず\r\n東の地の隠密が好んで用いるという",
+      "eng": "Weapon type: Fists\r\nAttack type: Slash\r\n\r\nA weapon formed by three sharp claws.\r\n\r\nAttacks cause bleeding, and the wounds\r\ninflicted are not easily mended. Preferred\r\nweapon of the spooks of an Eastern land."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/902000.webp"
+  },
+  {
+    "id": "903000",
+    "name": {
+      "chn": "龙骨拳套",
+      "jap": "竜骨の拳",
+      "eng": "Dragon Bone Fist"
+    },
+    "description": {
+      "chn": "武器种类：拳套\r\n攻击属性：打击\r\n\r\n专门屠杀想前往亚诺尔隆德的英雄，\r\n赛恩古城的防卫者──\r\n钢铁巨偶，其灵魂所生的武器。\r\n\r\n诸神把古龙大骨与灵魂的魔力相结合，\r\n创造出强大的巨偶核心。",
+      "jap": "武器種別：拳\r\n攻撃属性：打撃\r\n\r\nセンの古城の守護者として\r\nアノール・ロンドを目指す英雄達を屠ってきた\r\nアイアンゴーレムのソウルから生まれた武器\r\n\r\n神々は、古竜の大骨にソウルの魔力を融合し\r\nもって強大なゴーレムの核としていたのだろう",
+      "eng": "Weapon type: Fists\r\nAttack type: Strike\r\n\r\nA weapon from the soul of the Iron Golem,\r\nguardian of Sen's Fortress who repelled\r\ncountless heroes who sought Anor Londo.\r\nThe Gods fused the power of the soul with\r\nthe great bones of the dragons, forming an\r\nappropriate core for the giant golem."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/903000.webp"
+  },
+  {
+    "id": "904000",
+    "name": {
+      "chn": "黑暗之手",
+      "jap": "ダークハンド",
+      "eng": "Dark Hand"
+    },
+    "description": {
+      "chn": "武器种类：拳套\r\n攻击属性：打击\r\n\r\n遭到卡斯唆使的吸魂鬼之常见行径，\r\n可借由黑暗灵魂，使用夺取人性的吸魂技艺。\r\n也可以当作特殊的盾使用。\r\n\r\n一旦成为伟大古代物种的同类，\r\n就算是圣人那丰富的人性，\r\n相信都能一次吸取到手。",
+      "jap": "武器種別：拳\r\n攻撃属性：打撃\r\n\r\nカアスに唆された、ダークレイスたちの業\r\n闇のソウルにより人間性を奪う吸精の業をなし\r\nまた特殊な盾ともなる\r\n\r\n偉大なる古の者ともなれば、人間性溢れる聖人とて\r\n一度にすべてを奪い取ることができるだろう",
+      "eng": "Weapon type: Fists\r\nAttack type: Strike\r\n\r\nThe Darkwraiths, incited by Kaathe, use the\r\npower of the dark soul to absorb humanity, an\r\nart shared by this weapon, which also acts as\r\na special shield. The ancients, particularly,\r\ncould sap the humanity of even a replete\r\nsaint in the blink of an eye."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/904000.webp"
+  },
+  {
+    "id": "1000000",
+    "name": {
+      "chn": "枪",
+      "jap": "スピア",
+      "eng": "Spear"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n \r\n广为士兵所用的标准枪。\r\n攻击距离远，可以架着盾使用。\r\n\r\n以尖刃穿敌的突刺攻击\r\n对装备较为坚固的敌人很有效，\r\n一抓到敌人的攻击破绽就可以重创敌人，\r\n但攻击范围窄，对付架着盾的敌人也较棘手。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\nひろく兵士に使われるスタンダードな槍\r\nリーチが長く、盾を構えたまま使用できる\r\n\r\n刃で敵を刺し貫く刺突攻撃は、硬い敵にも有効で\r\n振り終わりの隙をついて大ダメージを与えられるが\r\n攻撃範囲が狭く、また盾受けに対処しにくい",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nStandard spear used commonly by soldiers.\r\nLong reach, and can be used with shield up.\r\nEffective against hard exteriors, and can hit\r\nfor high damage at the right moment of an\r\nenemy's swing. But the hit radius is small,\r\nand it is easily blocked by shields."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1000000.webp"
+  },
+  {
+    "id": "1001000",
+    "name": {
+      "chn": "雁翅枪",
+      "jap": "ウィングドスピア",
+      "eng": "Winged Spear"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n \r\n在枪前端设有“防护翼”的枪。\r\n攻击距离长，可以架着盾使用。\r\n\r\n以尖刃穿敌的突刺攻击\r\n对装备较为坚固的敌人很有效，\r\n一抓到敌人的攻击破绽就可以重创敌人，\r\n但攻击范围窄，对付架着盾的敌人也较棘手。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\n穂先に「かえし」の付いた長柄の槍\r\n特にリーチが長く、盾を構えたまま使用できる\r\n\r\n刃で敵を刺し貫く刺突攻撃は、硬い敵にも有効で\r\n振り終わりの隙をついて大ダメージを与えられるが\r\n攻撃範囲が狭く、また盾受けに対処しにくい",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nA long-hilted spear with a barbed point.\r\nLong reach, and can be used with shield up.\r\nEffective against hard exteriors, and hits\r\nfor high damage at the right moment of an\r\nenemy's swing. But the hit radius is small,\r\nand it is easily blocked by shields."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1001000.webp"
+  },
+  {
+    "id": "1002000",
+    "name": {
+      "chn": "游击枪",
+      "jap": "パルチザン",
+      "eng": "Partizan"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：标准／突刺\r\n\r\n枪头宽，边锋磨成利刃的枪。\r\n攻击距离长，可以挥砍。\r\n\r\n攻击方式多元，便于应付各种状况。\r\n长度就枪来说虽然实用，\r\n不过在小巷道挥砍的话，很容易打到墙。",
+      "jap": "武器種別：槍\r\n攻撃属性：標準/刺突\r\n\r\n幅広の穂先に刃を有する槍\r\nリーチが長く、斬りつけて使用することもできる\r\n\r\n攻撃の幅がひろく状況対応能力が高いが\r\n槍としては有効なその長さから\r\n狭所での斬りつけは壁にはじかれやすい",
+      "eng": "Weapon type: Spear\r\nAttack type: Regular/Thrust\r\n\r\nSpear with blade attached to broad point.\r\nBoasts long reach, and can slice.\r\n\r\nThe wide range of this spear makes it\r\nadaptable to many situations. Its strength\r\nlies in its length, but in cramped quarters,\r\nthis backfires, and slices ricochet off walls."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1002000.webp"
+  },
+  {
+    "id": "1003000",
+    "name": {
+      "chn": "恶魔枪",
+      "jap": "デーモンの槍",
+      "eng": "Demon's Spear"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n\r\n用同族的骨头制成的恶魔武器。\r\n由蝙蝠翅膀型削瘦的低阶恶魔所使用。\r\n\r\n虽然同是混沌恶魔，\r\n但栖息于亚诺尔隆德的他们，\r\n使用的武器与其他恶魔用的不同，带有雷电力量。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\n同族の骨を削り出したデーモンの武器\r\n痩せた蝙蝠羽のレッサーデーモンが使用していた\r\n\r\n混沌のデーモンでありながら\r\nアノール・ロンドに住まう彼らの武器は\r\n他のデーモンの武器と違い、雷の力を帯びている",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nCarved from the bones of fellow demons.\r\nWielded by the slim lesser Batwing demons.\r\n\r\nThe weapon of these chaos demons wandering\r\nAnor Londo are different from those of other\r\nchaos demons, and are imbued with lightning."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1003000.webp"
+  },
+  {
+    "id": "1004000",
+    "name": {
+      "chn": "传道者三股叉",
+      "jap": "伝道者の三又槍",
+      "eng": "Channeler's Trident"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n\r\n侍奉白龙希斯，会掳人的魔法师──\r\n六眼传道者的三股叉。\r\n\r\n能用转动的枪头刺向敌人，\r\n还能跳独特的舞蹈，\r\n以狂乱气息鼓舞周围的同伴。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\n白竜シースに仕える人さらいの魔術師たち\r\n六目の伝道者の三又槍\r\n\r\n穂先を回転するように敵を突き\r\nまた独特の舞いを舞うことで\r\n周囲の味方を狂気によって鼓舞する",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nTrident of the Six-eyed Channelers,\r\nsorcerers who serve Seath the Scaleless\r\nin collecting human specimens.\r\nThrusted in circular motions in a unique\r\nmartial arts dance that stirs nearby allies\r\ninto a bloodthirsty frenzy."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1004000.webp"
+  },
+  {
+    "id": "1006000",
+    "name": {
+      "chn": "银骑士枪",
+      "jap": "銀騎士の槍",
+      "eng": "Silver Knight Spear"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：标准／突刺\r\n\r\n守护亚诺尔隆德的银骑士使用的枪。\r\n作工精细，造型优美的亲兵用武器。\r\n\r\n除了瞄准目标后，\r\n利用自身体重以双手突刺之外，\r\n还有猛力横扫敌人的攻击方法。",
+      "jap": "武器種別：槍\r\n攻撃属性：標準/刺突\r\n\r\nアノール・ロンドを守る銀の騎士たちの槍\r\n細く流麗な近衛の武器\r\n\r\n狙いを定め、体重をのせた両手突きのほか\r\n大きく薙ぎ払うような使い方もできる",
+      "eng": "Weapon type: Spear\r\nAttack type: Regular/Thrust\r\n\r\nThe silver knights of Anor Londo guard the\r\ncity using this beautifully slender weapon.\r\n\r\nThe spear can be wielded by both hands in a\r\nfocused thrust that uses one's body weight,\r\nor swung in a large sweeping motion."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1006000.webp"
+  },
+  {
+    "id": "1050000",
+    "name": {
+      "chn": "矛",
+      "jap": "パイク",
+      "eng": "Pike"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n\r\n枪柄长度极长的红柄长枪。\r\n本来是用于团体战术上，\r\n为了让士兵刺杀远方敌人的特制武器。\r\n\r\n除了射击武器之外，是攻击距离最长的武器，\r\n但就是因为如此，有些时候反而难用。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\nきわめて長い赤柄を持つ長槍\r\n元来は兵士の集団戦術で使用される\r\n遠間から突く、ということに特化した武器\r\n\r\n射撃武器を除いて最も長い間合いを持つが\r\nその長さが扱いづらい局面もあるだろう",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nLong spear with a very long red hilt.\r\nTraditionally used by groups of soldiers.\r\nSpecially designed for distance thrusting.\r\nHas the longest range of the non-projectile\r\nweapons, but its very length makes it\r\nsomewhat difficult to handle."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1050000.webp"
+  },
+  {
+    "id": "1051000",
+    "name": {
+      "chn": "猎龙枪",
+      "jap": "竜狩りの槍",
+      "eng": "Dragonslayer Spear"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n\r\n在被遗弃的亚诺尔隆德，守护教堂的\r\n“猎龙者”骑士──翁斯坦，其灵魂所生的十字枪。\r\n\r\n带有对龙族十分有效的雷电力量，\r\n因此握住十字握柄，以双手使出全力突刺后，\r\n可以把枪深深刺入龙的身体，\r\n以人类肉身承受攻击，可能会被刺飞。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\nアノール・ロンドで聖堂を守る「竜狩り」の騎士\r\nオーンスタインのソウルから生まれた十字槍\r\n\r\n竜族に有効な強い雷の力を帯び\r\n十字の支えを持ち渾身の力をのせた両手突きは\r\n竜の体深く槍を刺し、人などは大きく吹き飛ばす",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nCross spear born from the soul of Ornstein, a\r\nDragonslayer guarding Anor Londo cathedral.\r\nInflicts lightning damage; effective against\r\ndragons. Two-handed thrust relies on cross\r\nand buries spear deep within a dragon's hide,\r\nand sends human foes flying."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1051000.webp"
+  },
+  {
+    "id": "1052000",
+    "name": {
+      "chn": "月光蝶触角",
+      "jap": "月光蝶の角",
+      "eng": "Moonlight Butterfly Horn"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n\r\n在黑森林庭院内翩翩飞舞的神秘生物──\r\n月光蝶，其灵魂所生的武器。\r\n\r\n希斯创造出来的月光蝶，\r\n其触角带有纯粹的法术力量。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\n黒い森の庭を舞う神秘の生物\r\n月光蝶のソウルから生まれた武器\r\n\r\nシースの被造物であるという蝶の角は\r\n純粋な魔法の力を帯びている",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nWeapon born from the mystical creature of\r\nthe Darkroot Garden, the Moonlight Butterfly.\r\n\r\nThe horns of the butterfly, a being created\r\nby Seath, are imbued with a pure magic power."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1052000.webp"
+  },
+  {
+    "id": "1100000",
+    "name": {
+      "chn": "戟",
+      "jap": "ハルバード",
+      "eng": "Halberd"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：标准／突刺\r\n\r\n具有斧和枪两种功用的长柄武器。\r\n难以使用，很要求力气和敏捷两种能力。\r\n\r\n攻击方式基本上有如枪般的突刺攻击，\r\n以及大范围的横扫攻击，\r\n但如果挥空的话，要注意会露出很大的破绽。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：標準/刺突\r\n\r\n斧と槍、両方の機能をあわせもった長柄の武器\r\n扱いが難しく、筋力、技量の両方が必要となる\r\n\r\nその戦術は、槍のような刺突攻撃と\r\n大きく薙ぎ払う攻撃がベースになるが\r\n空振りは大きな隙になるので注意が必要",
+      "eng": "Weapon type: Halberd\r\nAttack type: Regular/Thrust\r\n\r\nLong-hilted weapon mixing spear and axe is\r\ndifficult to handle, requiring both strength\r\nand dexterity. The Halberd has two elementary\r\nattacks: spear-like thrusting and large\r\nsweeping swings. However, one false swing\r\nand the wielder is left wide open."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1100000.webp"
+  },
+  {
+    "id": "1101000",
+    "name": {
+      "chn": "巨人戟",
+      "jap": "巨人のハルバード",
+      "eng": "Giant's Halberd"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：标准／突刺\r\n\r\n用老旧黄铜制成的大型戟。\r\n守护亚诺尔隆德的巨人卫兵使用的装备。\r\n\r\n黄铜带有微量的雷电力量，\r\n但因为是考虑巨人的体能而制成的装备，\r\n对人来说大概过于沉重。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：標準/刺突\r\n\r\n古い黄銅で作られた大型のハルバード\r\nアノール・ロンドを守る巨人衛兵の装備\r\n\r\n黄銅はわずかに雷の力を帯びているが\r\n巨人の膂力に合わせて作られているため\r\n人の身には大概重すぎるだろう",
+      "eng": "Weapon type: Halberd\r\nAttack type: Regular/Thrust\r\n\r\nLarge halberd made of old brass, used by\r\nthe giant sentinels of Anor Londo.\r\n\r\nBrass contains traces of lightning,\r\nbut as the halberd is designed for the giant\r\nsentinels, its weight is unbearable."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1101000.webp"
+  },
+  {
+    "id": "1102000",
+    "name": {
+      "chn": "楔形刺叉",
+      "jap": "くさびの刺又",
+      "eng": "Titanite Catch Pole"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：标准\r\n\r\n从楔形石原盘诞生的无脸石像魔物──\r\n楔形石恶魔使用的武器。\r\n\r\n可能因为是原盘的魔力残渣，\r\n是原来就具有法术力量的武器之一。\r\n猛力往前跳，并往头顶刺下的攻击是一大特色。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：標準\r\n\r\nくさびの原盤から生まれた顔の無い石の魔物\r\nくさびのデーモンの武器\r\n\r\n原盤の魔力の残滓なのか\r\n元より魔法の力を帯びた武器の１つであり\r\n大きく前に跳び、上から突き下ろす攻撃が特徴的",
+      "eng": "Weapon type: Halberd\r\nAttack type: Regular\r\n\r\nWeapon of the titanite demon, a faceless\r\nstone monster born from titanite slab.\r\nOne of the enchanted weapons, perhaps from\r\nresidual power of the titanite slab.\r\nKnown for its leaping attack which comes\r\nsmashing down on foes from above."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1102000.webp"
+  },
+  {
+    "id": "1103000",
+    "name": {
+      "chn": "石像鬼戟",
+      "jap": "ガーゴイルの斧槍",
+      "eng": "Gargoyle's Halberd"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：标准\r\n\r\n在不死教堂钟楼守护苏醒之钟的石像鬼武器。\r\n \r\n很普通的青铜戟，\r\n本身不具有什么强大的威力。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：標準\r\n\r\n不死教会の鐘楼で目覚ましの鐘を守っていた\r\nガーゴイルの武器\r\n\r\nごく普通の青銅の斧槍であり\r\nこれ自体強い力は帯びていない",
+      "eng": "Weapon type: Halberd\r\nAttack type: Regular\r\n\r\nHalberd of the gargoyle guarding the\r\nBell of Awakening in the Undead Church.\r\n\r\nPerfectly standard bronze halberd\r\nwithout any special power."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1103000.webp"
+  },
+  {
+    "id": "1105000",
+    "name": {
+      "chn": "黑骑士戟",
+      "jap": "黒騎士の斧槍",
+      "eng": "Black Knight Halberd"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：斩击\r\n\r\n于罗德兰四处徘徊的黑骑士戟。\r\n对抗混沌恶魔用的武器。\r\n\r\n大动作再加上自身体重使出的攻击，\r\n是因应当时的强敌而出现的战法。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：斬撃\r\n\r\nロードランをさまよう黒の騎士たちの斧槍\r\n混沌のデーモンと対峙するための武器\r\n\r\n大きな動きから体重をのせた攻撃は\r\nかつての彼らの敵の強大さからくるものだ",
+      "eng": "Weapon type: Halberd\r\nAttack type: Slash\r\n\r\nHalberd of the black knights who wander\r\nLordran. Used to face chaos demons.\r\n\r\nThe large motion that puts the weight of the\r\nbody into the attack reflects the great size\r\nof their adversaries long ago."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1105000.webp"
+  },
+  {
+    "id": "1106000",
+    "name": {
+      "chn": "鹤嘴戟",
+      "jap": "ルッツエルン",
+      "eng": "Lucerne "
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：突刺\r\n\r\n拥有坚硬、锐利喙状尖刺的戟。\r\n攻击属性变为突刺属性。\r\n\r\n并不是像枪一样的突刺攻击，\r\n而是像挥舞十字镐一样，\r\n用坚硬的喙状尖刺朝敌人脑袋敲下去。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：刺突\r\n\r\n硬く大きい嘴状の突起をもつ斧槍\r\n攻撃属性は刺突となる\r\n\r\n槍のように突く攻撃のかわりに\r\nまるでつるはしのように\r\n敵の脳天目がけて硬い嘴を叩きつける",
+      "eng": "Weapon type: Halberd\r\nAttack type: Thrust\r\n\r\nHalberd with a large, hard beak-like\r\nprotrusion. Inflicts thrust damage.\r\nInstead of thrusting like a spear, the\r\nwielder of the Lucerne aims to club\r\nthe head with its hard beak."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1106000.webp"
+  },
+  {
+    "id": "1107000",
+    "name": {
+      "chn": "镰刀",
+      "jap": "サイズ",
+      "eng": "Scythe"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：斩击\r\n\r\n有大型刀刃的戟，\r\n改良成战斗用的镰刀。\r\n\r\n此武器专用来斩击，\r\n但挥空时的破绽很大，一定要小心。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：斬撃\r\n\r\n大きな刃を持つ斧槍\r\n戦闘用に調整された鎌\r\n\r\n斬りつける攻撃に特化しているが\r\n空振りは大きな隙になるので注意が必要",
+      "eng": "Weapon type: Halberd\r\nAttack type: Slash\r\n\r\nHalberd with a large blade.\r\nScythe adjusted for battle.\r\n\r\nDesigned especially for slicing. However,\r\none false swing leaves one wide open."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1107000.webp"
+  },
+  {
+    "id": "1150000",
+    "name": {
+      "chn": "大镰刀",
+      "jap": "大鎌",
+      "eng": "Great Scythe"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：斩击\r\n\r\n用有弯曲长刀刃的农具改良的武器。\r\n原来是用来割麦之类的用具。\r\n\r\n弯曲的锐利刀刃散发出可怕的气息，\r\n可以让敌人心寒而害怕胆怯。\r\n会如此心生恐惧，或许是人的本能作祟吧。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：斬撃\r\n\r\n湾曲した長い刃をもった農具を武器としたもの\r\n本来は麦の類を刈り取るもの\r\n\r\n鋭く曲がった刃はどこかまがまがしく\r\n敵対するものに薄ら寒い恐怖を植え付ける\r\nそれは、あるいは本能の仕業だろうか",
+      "eng": "Weapon type: Halberd\r\nAttack type: Slash\r\n\r\nWeapon with a long curved blade. Converted\r\nfrom a wheat-harvesting tool.\r\n\r\nThe magnificent sharp curved blade\r\ninstills fear in opponents. Perhaps it is\r\ntheir survival instinct at work."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1150000.webp"
+  },
+  {
+    "id": "1151000",
+    "name": {
+      "chn": "猎命镰刀",
+      "jap": "生命狩りの鎌",
+      "eng": "Lifehunt Scythe"
+    },
+    "description": {
+      "chn": "武器种类：戟\r\n攻击属性：斩击\r\n\r\n被囚禁于艾雷米雅斯绘画世界里的\r\n纯白半龙普利希拉，其灵魂所生的镰刀。\r\n\r\n拥有连诸神都感到畏惧的猎杀生命力量，\r\n但如果不是半龙使用这把镰刀，\r\n那股力量将会反噬装备者。",
+      "jap": "武器種別：斧槍\r\n攻撃属性：斬撃\r\n\r\nエレーミアス絵画世界に閉じ込められた\r\n純白の半竜プリシラのソウルから生まれた鎌\r\n\r\n神々さえ恐怖した生命狩りの力を持つが\r\n半竜ならざる者がその力を振るえば\r\nその力は使用者にもはね返ってしまう",
+      "eng": "Weapon type: Halberd\r\nAttack type: Slash\r\n\r\nScythe born from the soul of Priscilla, the\r\nstark white crossbreed trapped inside the\r\nPainted World of Ariamis.\r\nEven the Gods feared Priscilla's lifehunt\r\nability, and in the hands of a mortal, its\r\npower will turn upon its wielder."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1151000.webp"
+  },
+  {
+    "id": "1200000",
+    "name": {
+      "chn": "短弓",
+      "jap": "ショートボウ",
+      "eng": "Short Bow"
+    },
+    "description": {
+      "chn": "武器种类：弓\r\n攻击属性：无\r\n\r\n小型的弓，标准射击武器。\r\n射击时必须要装备箭。\r\n\r\n拿起弓就可以狙击，\r\n如果是人型敌人，可以尝试射击头部。\r\n可以更换使用的箭。",
+      "jap": "武器種別：弓\r\n攻撃属性：なし\r\n\r\n小型の弓。スタンダードな射撃武器\r\n射撃には矢の装備も必要となる\r\n\r\n弓を構えて狙撃が可能となり\r\n人型の敵であればヘッドショットを狙える\r\n使う矢を切り替えられる",
+      "eng": "Weapon type: Bow\r\nAttack type: none\r\n\r\nSmall bow. Standard projectile weapon.\r\nEquip arrows to use.\r\n\r\nHold bow to aim.\r\nAim for heads of humanoid foes.\r\nMay change type of arrows."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1200000.webp"
+  },
+  {
+    "id": "1201000",
+    "name": {
+      "chn": "长弓",
+      "jap": "ロングボウ",
+      "eng": "Longbow"
+    },
+    "description": {
+      "chn": "武器种类：弓\r\n攻击属性：无\r\n\r\n大型的弓，熟练的猎人使用的射击武器。\r\n射击时必须要装备箭。\r\n\r\n拿起弓就可以狙击，\r\n如果是人型敌人，可以尝试射击头部。\r\n可以更换使用的箭。",
+      "jap": "武器種別：弓\r\n攻撃属性：なし\r\n\r\n大型の弓。熟練した狩人が使う射撃武器\r\n射撃には矢の装備も必要となる\r\n\r\n弓を構えて狙撃が可能となり\r\n人型の敵であればヘッドショットを狙える\r\n使う矢を切り替えられる",
+      "eng": "Weapon type: Bow\r\nAttack type: none\r\n\r\nLarge bow. Projectile weapon for experienced\r\nhunters. Equip arrows to use.\r\n\r\nHold bow to aim.\r\nAim for heads of humanoid foes.\r\nMay change type of arrows."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1201000.webp"
+  },
+  {
+    "id": "1202000",
+    "name": {
+      "chn": "法里斯黑弓",
+      "jap": "ファリスの黒弓",
+      "eng": "Black Bow of Pharis"
+    },
+    "description": {
+      "chn": "武器种类：弓\r\n攻击属性：无\r\n\r\n使弓英雄──法里斯常使用的黑弓。\r\n\r\n虽然射程距离会比普通的弓更远，\r\n但因为使用难度高，能力不够的人用起来\r\n威力会比使用普通的弓还要弱。",
+      "jap": "武器種別：弓\r\n攻撃属性：なし\r\n\r\n弓の英雄ファリスの愛用した黒い弓\r\n\r\n通常の弓よりも飛距離が長いが\r\n使用難度が高く、能力の低いものが使用すると\r\nむしろ普通より威力が下がってしまうだろう",
+      "eng": "Weapon type: Bow\r\nAttack type: none\r\n\r\nThe preferred black bow of the heroic\r\narcher Pharis.\r\n\r\nHas a longer range than standard bows,\r\nbut is more difficult to use. Without proper\r\nabilities, results will be underwhelming."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1202000.webp"
+  },
+  {
+    "id": "1203000",
+    "name": {
+      "chn": "猎龙大弓",
+      "jap": "竜狩りの大弓",
+      "eng": "Dragonslayer Greatbow"
+    },
+    "description": {
+      "chn": "武器种类：大弓\r\n攻击属性：无\r\n\r\n葛温王四骑士──\r\n“鹰眼”戈夫率领的猎龙队使用的大弓。\r\n\r\n因为比一般的弓大上许多，\r\n射击时，需要将弓下方的锚插到地上固定。\r\n只能使用专用的大箭射击。",
+      "jap": "武器種別：大弓\r\n攻撃属性：なし\r\n\r\nグウィン王の四騎士の一人\r\n「鷹の目」ゴーの率いた竜狩り隊の大弓\r\n\r\n弓としては規格外に大きいため\r\n射撃時には下端にあるアンカーを地面に刺し\r\n専用の大矢しか使用することができない",
+      "eng": "Weapon type: Greatbow\r\nAttack type: none\r\n\r\nBow of the Dragonslayers, led by Hawkeye\r\nGough, one of Gwyn's Four Knights.\r\n\r\nThis bow's unusual size requires that it be\r\nanchored to the ground when fired.\r\nOnly uses specialized great arrows."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1203000.webp"
+  },
+  {
+    "id": "1204000",
+    "name": {
+      "chn": "复合弓",
+      "jap": "コンポジットボウ",
+      "eng": "Composite Bow"
+    },
+    "description": {
+      "chn": "武器种类：弓\r\n攻击属性：无\r\n\r\n重视威力而改造成的复合弓。\r\n比一般的弓更要求力气。\r\n\r\n但是箭的射程比较短，\r\n不太适合用在远距离狙击上。",
+      "jap": "武器種別：弓\r\n攻撃属性：なし\r\n\r\n威力重視で調整された複合弓\r\n普通の弓よりも筋力が必要となる\r\n\r\nただし通常の弓よりも飛距離は短く\r\n遠距離からの狙撃には不向きである",
+      "eng": "Weapon type: Bow\r\nAttack type: none\r\n\r\nComposite bow emphasizing power.\r\nRequires more strength than standard bows.\r\n\r\nHowever, its range is shorter, making it\r\nunfit for sniping."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1204000.webp"
+  },
+  {
+    "id": "1205000",
+    "name": {
+      "chn": "暗月弓",
+      "jap": "暗月の弓",
+      "eng": "Darkmoon Bow"
+    },
+    "description": {
+      "chn": "武器种类：弓\r\n攻击属性：无\r\n\r\n守护被遗弃的亚诺尔隆德的暗月之神──\r\n黯影太阳葛温德林，其灵魂所生的弓。\r\n\r\n带有强烈法术力量的黄金弓，\r\n使用月光箭时，才能发挥真正的威力。",
+      "jap": "武器種別：弓\r\n攻撃属性：なし\r\n\r\n棄てられたアノール・ロンドを守る暗月の神\r\n陰の太陽グウィンドリンのソウルから生まれた弓\r\n\r\n強い魔法の力を帯びた黄金の弓であり\r\n月光の矢を使用したときに真の威力を発揮する",
+      "eng": "Weapon type: Bow\r\nAttack type: none\r\n\r\nBow born from the soul of the Dark Sun\r\nGwyndolin, Darkmoon deity who watches over\r\nthe abandoned city of Gods, Anor Londo.\r\n\r\nThis golden bow is imbued with powerful magic\r\nand is most impressive with Moonlight Arrows."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1205000.webp"
+  },
+  {
+    "id": "1250000",
+    "name": {
+      "chn": "轻弩",
+      "jap": "ライトクロスボウ",
+      "eng": "Light Crossbow"
+    },
+    "description": {
+      "chn": "武器种类：弩\r\n攻击属性：无\r\n\r\n士兵使用的标准弩。\r\n和弓不同的是可以单手使用，\r\n但是装上弩箭时，比较花时间。\r\n\r\n射击时必须装备弩箭，\r\n可以更换使用的弩箭。",
+      "jap": "武器種別：クロスボウ\r\n攻撃属性：なし\r\n\r\n兵士の使うスタンダードなクロスボウ\r\n弓とは違い片手でも扱えるが\r\nボルトを番え直す時間が長い\r\n\r\n射撃にはボルトの装備も必要となリ\r\n使うボルトを切り替えられる",
+      "eng": "Weapon type: Crossbow\r\nAttack type: none\r\n\r\nStandard crossbow issued to soldiers.\r\nWhile bows require both hands, a crossbow is\r\nheld in one, but arming each bolt takes time.\r\n\r\nEquip bolts to use.\r\nMay change type of bolt."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1250000.webp"
+  },
+  {
+    "id": "1251000",
+    "name": {
+      "chn": "重弩",
+      "jap": "ヘビークロスボウ",
+      "eng": "Heavy Crossbow"
+    },
+    "description": {
+      "chn": "武器种类：弩\r\n攻击属性：无\r\n\r\n威力较强的大型弩。\r\n和弓不同的是可以单手使用，\r\n但是装上弩箭时，比较花时间。\r\n\r\n射击时必须装备弩箭，\r\n可以更换使用的弩箭。",
+      "jap": "武器種別：クロスボウ\r\n攻撃属性：なし\r\n\r\n威力の高い大型のクロスボウ\r\n弓とは違い片手でも扱えるが\r\nボルトを番え直す時間が長い\r\n\r\n射撃にはボルトの装備も必要となリ\r\n使うボルトを切り替えられる",
+      "eng": "Weapon type: Crossbow\r\nAttack type: none\r\n\r\nPowerful large crossbow.\r\nWhile bows require both hands, a crossbow is\r\nheld in one, but arming each bolt takes time.\r\n\r\nEquip bolts to use.\r\nMay change type of bolt."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1251000.webp"
+  },
+  {
+    "id": "1252000",
+    "name": {
+      "chn": "雅帆琳",
+      "jap": "アヴェリン",
+      "eng": "Avelyn"
+    },
+    "description": {
+      "chn": "武器种类：弩\r\n攻击属性：无\r\n\r\n武器工匠艾亚戴斯制作的连射式弩。\r\n外观设计高贵，要说是武器倒不如说是艺术品。\r\n\r\n精心设计的机关可以连续射出三支弩箭。\r\n虽然可以靠连续命中来重创敌人，\r\n但单发攻击的伤害比较低。",
+      "jap": "武器種別：クロスボウ\r\n攻撃属性：なし\r\n\r\n武器職人エアダイスの手になる連射式クロスボウ\r\n意匠も豪奢で、武器というより工芸品に近い\r\n\r\n精緻な機巧により三連続でボルト発射し\r\n連続被弾による大ダメージを狙えるが\r\n単発のダメージはむしろ低くなっている",
+      "eng": "Weapon type: Crossbow\r\nAttack type: none\r\n\r\nRepeating crossbow cherished by the weapon\r\ncraftsman Eidas. Its elaborate design makes\r\nit closer to a work of art than a weapon.\r\nIntricate mechanism makes heavy damage\r\npossible through triple-shot firing of bolts,\r\nbut in fact each bolt inflicts less damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1252000.webp"
+  },
+  {
+    "id": "1253000",
+    "name": {
+      "chn": "狙击弩",
+      "jap": "スナイパークロス",
+      "eng": "Sniper Crossbow"
+    },
+    "description": {
+      "chn": "武器种类：弩\r\n攻击属性：无\r\n\r\n卡利姆狙击手使用的\r\n射程较远的大型弩，\r\n通常都是装备狙击弩箭射击。\r\n\r\n要够敏捷才用得上手，\r\n这点就弩来说，算是很少见。",
+      "jap": "武器種別：クロスボウ\r\n攻撃属性：なし\r\n\r\nカリムの狙撃手たちが用いる\r\n飛距離の長い大型のクロスボウ\r\nスナイパーボルトと組み合わせることが多い\r\n\r\nただしクロスボウとしては珍しく\r\n使用には熟練の技量が必要となる",
+      "eng": "Weapon type: Crossbow\r\nAttack type: none\r\n\r\nLarge crossbow with long distance used by\r\nCarim snipers. Often used with sniper bolts.\r\n\r\nBut while crossbows are normally easy to\r\nuse, the Sniper Crossbow requires dexterity."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1253000.webp"
+  },
+  {
+    "id": "1300000",
+    "name": {
+      "chn": "魔法师杖",
+      "jap": "魔術師の杖",
+      "eng": "Sorcerer's Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n彼海姆龙学院的魔法师使用的杖。\r\n使用魔法时的触媒。\r\n\r\n使用魔法必须先装备杖，\r\n并在营火处先记住咒文书中的魔法。\r\n大部分的魔法都有限制使用次数。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\n竜の学院ヴィンハイムの魔術師の持つ杖\r\n魔術を使用する触媒となる\r\n\r\n魔術を使用するためには、杖を装備し\r\n篝火で呪文書から魔術を記憶しておく必要がある\r\nまた、大抵の魔術は使用回数に制限がある",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nSorcery catalyst used by sorcerers of\r\nVinheim Dragon School.\r\n\r\nEquip catalyst to use sorceries.\r\nAttune sorceries from a scroll at a bonfire.\r\nMost sorceries have limited no. of uses."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1300000.webp"
+  },
+  {
+    "id": "1301000",
+    "name": {
+      "chn": "比阿特丽斯杖",
+      "jap": "ビアトリスの杖",
+      "eng": "Beatrice's Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n异端魔女比阿特丽斯的杖。\r\n与彼海姆的杖不一样。\r\n\r\n杖本身很旧，也看得出有古代魔法的纹路痕迹，\r\n应该是代代相传的物品。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\n異端の魔女ビアトリスの杖\r\nヴィンハイムのそれとは異なるもの\r\n\r\n杖自体古く、また古い魔術様式の跡も見える\r\n代々受け継がれてきたものだろうか",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nCatalyst belonging to Beatrice, the rogue\r\nwitch. Contrasts with Vinheim catalysts.\r\n\r\nThis ancient catalyst shows signs of being\r\nused for age-old sorceries. It has passed\r\nthe hands of many generations to get here."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1301000.webp"
+  },
+  {
+    "id": "1302000",
+    "name": {
+      "chn": "封印锡杖",
+      "jap": "封印の錫杖",
+      "eng": "Tin Banishment Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：突刺\r\n\r\n将小隆德沉入水中，\r\n封印住堕入黑暗的小隆德四王与吸魂鬼的\r\n封印魔法师们的锡杖。\r\n\r\n和其他的杖不同，是金属制，\r\n因此有攻击力，勉强可以拿来当作武器。",
+      "jap": "武器種別：杖\r\n攻撃属性：刺突\r\n\r\n小ロンドを水底に沈め\r\n闇に堕ちた四人の公王とダークレイスを封印した\r\n封印の魔術師たちの錫杖\r\n\r\n他の杖と異なり金属製で攻撃力もあり\r\nかろうじて武器としても使用に耐える",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Thrust\r\n\r\nCatalyst of the banishment sorcerers who\r\nflooded New Londo to seal off away the\r\nDarkwraiths and the Kings who fell to Dark.\r\nIn contrast to other catalysts, the metal\r\ncatalyst qualifies as a weapon, as it\r\ninflicts physical damage, however small."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1302000.webp"
+  },
+  {
+    "id": "1303000",
+    "name": {
+      "chn": "罗根杖",
+      "jap": "ローガンの杖",
+      "eng": "Logan's Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n伟大的魔法探求者──\r\n“大帽子”罗根的杖。\r\n\r\n材质和彼海姆的魔法杖相同，\r\n但因为罗根常使用的影响而受到强化，\r\n智力越高的人使用，威力会越强。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\n偉大なる魔術の探求者\r\n「ビッグハット」ローガンの杖\r\n\r\n材質はヴィンハイムの魔術杖と同じものだが\r\n永きにわたるローガンの使用により鍛えられており\r\n理力優れた者が使えば、高い威力を引き出せる",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nCatalyst of Big Hat Logan, the great sorcerer\r\nand seeker of knowledge.\r\nOriginally the same catalyst employed by the\r\nVinheim sorcerers, only terribly strengthened\r\nover time due to Logan's use. Very powerful\r\nwhen used by one of superior intelligence."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1303000.webp"
+  },
+  {
+    "id": "1304000",
+    "name": {
+      "chn": "暗月锡杖",
+      "jap": "暗月の錫杖",
+      "eng": "Tin Darkmoon Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n守护被遗弃的亚诺尔隆德的暗月之神──\r\n黯影太阳葛温德林，其灵魂所生的锡杖。\r\n\r\n葛温德林身为葛温王的么子，\r\n不但是神，也是月亮魔法师。\r\n他所使用的锡杖不是依照智力，\r\n而是借由信仰来强化魔法。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\n棄てられたアノール・ロンドを守る暗月の神\r\n陰の太陽グウィンドリンのソウルから生まれた錫杖\r\n\r\nグウィン王の末子として歴とした神でありながら\r\n月の魔術師でもあったグウィンドリンの錫杖は\r\n理力ではなく信仰により魔術を強化する",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nCatalyst born from the soul of the Dark Sun\r\nGwyndolin, Darkmoon deity who watches over\r\nthe abandoned city of Gods, Anor Londo.\r\nGwyndolin is Gwyn's lastborn and a legitimate\r\ngod, but he is also a Moon sorcerer, and this\r\nwand is boosted by faith, not intelligence."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1304000.webp"
+  },
+  {
+    "id": "1305000",
+    "name": {
+      "chn": "乌拉席露白枝",
+      "jap": "ウーラシールの白枝",
+      "eng": "Oolacile Ivory Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n已灭亡的古代王国──乌拉席露的魔法杖。\r\n由带有魔力的白皮树枝制成。\r\n\r\n其带有的魔力会提升魔法威力，\r\n但其实乌拉席露的魔法原来不具攻击性质，\r\n所以无法依装备者的智力提升攻击威力。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\n古い亡国ウーラシールの魔術杖\r\n魔力を帯びた白皮の木の枝をまとめたもの\r\n\r\n帯びた魔力により魔術威力修正が高いが\r\nかの国の魔術に、もとより攻撃的なものはなく\r\n理力が攻撃の威力に反映されることもない",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nSorcery catalyst of lost land of Oolacile.\r\nFormed by enchanted whitebark branches.\r\n\r\nThe whitebark boosts sorcery adjustment,\r\nbut the sorceries of this lost land are\r\ngentle and not affected by intelligence."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1305000.webp"
+  },
+  {
+    "id": "1306000",
+    "name": {
+      "chn": "结晶锡杖",
+      "jap": "結晶の錫杖",
+      "eng": "Tin Crystallization Ctlyst."
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：突刺\r\n\r\n遭到希斯的执着吞噬的罗根使用的锡杖。\r\n带有惊人结晶魔力的触媒。\r\n\r\n虽然可以大幅提升所有魔法的威力，\r\n但是极度要求装备者的智力，\r\n而且魔法的使用次数将会减半。",
+      "jap": "武器種別：杖\r\n攻撃属性：刺突\r\n\r\nシースの妄執に飲まれたローガンの錫杖\r\n凄まじい結晶の魔力を帯びた触媒\r\n\r\nすべての魔術に絶大な威力をもたらすが\r\n使用者は極めて高い理力を要求され\r\nまた魔術使用回数が半分になってしまう",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Thrust\r\n\r\nCatalyst imbued in terrifying crystal magic.\r\nUsed by Logan after his fixation on Seath.\r\n\r\nMakes all sorceries incredibly powerful, but\r\ndemands extremely high intelligence from its\r\nwielder, and halves sorcery usages."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1306000.webp"
+  },
+  {
+    "id": "1307000",
+    "name": {
+      "chn": "恶魔杖",
+      "jap": "デーモンの杖",
+      "eng": "Demon's Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：突刺\r\n\r\n用伊札里斯的溶岩石制成的恶魔杖。\r\n具有火属性攻击力，可当作武器使用。\r\n\r\n恶魔火焰司祭是最早的恶魔，\r\n也是最后#1一个#3会使用\r\n伊札里斯魔女被混沌吞噬前，\r\n不是咒术，而是火焰魔法的恶魔。",
+      "jap": "武器種別：杖\r\n攻撃属性：刺突\r\n\r\nイザリスの溶岩石を削り出したデーモンの杖\r\n炎属性の攻撃力を持った武器としても使える\r\n\r\nデーモンの炎司祭は、最初のデーモンであり\r\nイザリスの魔女が混沌に飲まれる前の\r\n呪術でない、炎の魔術の最後の使い手だった",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Thrust\r\n\r\nDemon catalyst formed from Izalith molten\r\nrock. Can be used as fire weapon.\r\nThe Demon Firesage was the first demon,\r\nand the last master of the original fire\r\narts, before the Witch of Izalith was\r\nengulfed by Chaos, creating pyromancy."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1307000.webp"
+  },
+  {
+    "id": "1308000",
+    "name": {
+      "chn": "伊札里斯杖",
+      "jap": "イザリスの杖",
+      "eng": "Izalith Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n伊札里斯魔女被混沌火焰吞噬前，\r\n其女儿们还是火焰魔女时使用的杖。\r\n\r\n当咒术还未诞生时，\r\n她们的杖也是使用魔法的触媒，\r\n但是那火焰魔法已经完全失传了。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\nイザリスの魔女が混沌に飲まれる前\r\nまだ娘たちが炎の魔女だった頃の杖\r\n\r\n呪術はまだ生まれておらず\r\n彼女たちの杖も魔術の触媒であったが\r\nその炎の魔術は完全に失われてしまった",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nCatalyst of the Witch of Izalith of long ago,\r\nwhen her daughters were still flame witches,\r\nbefore they were engulfed by the Chaos Flame.\r\nBefore the birth of pyromancy, their wands\r\nwere mediums for sorcery, but knowledge of\r\nthis flame sorcery has long since vanished."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1308000.webp"
+  },
+  {
+    "id": "1330000",
+    "name": {
+      "chn": "咒术之火",
+      "jap": "呪術の火",
+      "eng": "Pyromancy Flame"
+    },
+    "description": {
+      "chn": "武器种类：咒术之火\r\n攻击属性：打击\r\n\r\n大沼咒术师使用的火的触媒。\r\n咒术师会先燃起火，再使出各种火的技艺。\r\n\r\n使用咒术必须先装备咒术之火，\r\n并在营火处先记住咒文书中的咒术。\r\n大部分的咒术都有限制使用次数。",
+      "jap": "武器種別：呪術の火\r\n攻撃属性：打撃\r\n\r\n大沼の呪術師が用いる火の触媒\r\n呪術師はこの火を熾し、様々な炎の業を振るう\r\n\r\n呪術を使用するためには、呪術の火を装備し\r\n篝火で呪文書から呪術を記憶しておく必要がある\r\nまた、大抵の呪術は使用回数に制限がある",
+      "eng": "Weapon type: Pyromancy Flame\r\nAttack type: Strike\r\n\r\nFlame medium used by Great Swamp pyromancers.\r\nPyromancers arouse this flame to produce\r\nvarious fire arts.\r\nEquip pyromancer flame to produce pyromancy.\r\nAttune pyromancies from a scroll at bonfire.\r\nMost pyromancies have limited no. of uses."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1330000.webp"
+  },
+  {
+    "id": "1332000",
+    "name": {
+      "chn": "咒术之火",
+      "jap": "呪術の火",
+      "eng": "Pyromancy Flame"
+    },
+    "description": {
+      "chn": "武器种类：咒术之火\r\n攻击属性：打击\r\n\r\n咒术始祖，伊札里斯的克拉娜\r\n亲自引出潜在能力的咒术之火。\r\n\r\n对咒术师来说，火十分特殊，\r\n大致上会与火共度生涯，并细心照顾它。\r\n对他们而言，火就是半个自己，\r\n将火分给他人，双方就拥有火的血缘关系。",
+      "jap": "武器種別：呪術の火\r\n攻撃属性：打撃\r\n\r\n呪術の祖、イザリスのクラーナの手により\r\n潜在する力を引き出された呪術の火\r\n\r\n呪術師にとって火は特別なものであり\r\n大抵は一生を共にし、大事に育て続ける\r\n彼らにとって、火はまさに半身であり\r\n分かち合ったものは火の血縁となるのだ",
+      "eng": "Weapon type: Pyromancy Flame\r\nAttack type: Strike\r\n\r\nPyromancy flame drawing upon the latent power\r\nof Quelana of Izalith, mother of pyromancy.\r\nFor the pyromancer, a flame is a precious\r\nthing indeed, to be nurtured, often for an\r\nentire lifetime. When the flame is shared, it\r\ncreates an eternal bond between the parties."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1332000.webp"
+  },
+  {
+    "id": "1360000",
+    "name": {
+      "chn": "护符",
+      "jap": "タリスマン",
+      "eng": "Talisman"
+    },
+    "description": {
+      "chn": "武器种类：护符\r\n攻击属性：打击\r\n\r\n引发神祇奇迹的触媒。\r\n一般信徒都能拿到的常见物品。\r\n\r\n使用奇迹必须先装备护符，\r\n并在营火处记住书中的奇迹。\r\n大部分的奇迹都有限制使用次数。",
+      "jap": "武器種別：タリスマン\r\n攻撃属性：打撃\r\n\r\n神の奇跡をなす触媒\r\n一般の信者にも配られるありふれたもの\r\n\r\n奇跡を使用するためには、タリスマンを装備し\r\n篝火で書から奇跡を記憶しておく必要がある\r\nまた、大抵の奇跡は使用回数に制限がある",
+      "eng": "Weapon type: Talisman\r\nAttack type: Strike\r\n\r\nMedium for casting miracles of the Gods.\r\nStandard talisman issued to common believers.\r\n\r\nEquip talisman to cast miracles. \r\nAttune miracles from a scroll at a bonfire.\r\nMost miracles have limited no. of uses."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1360000.webp"
+  },
+  {
+    "id": "1361000",
+    "name": {
+      "chn": "粗布护符",
+      "jap": "粗布のタリスマン",
+      "eng": "Canvas Talisman"
+    },
+    "description": {
+      "chn": "武器种类：护符\r\n攻击属性：打击\r\n\r\n引发神祇奇迹的触媒。\r\n以粗糙布料制成，\r\n是旅行圣职持有的质朴护符。\r\n\r\n使用奇迹必须先装备护符，\r\n并在营火处记住书中的奇迹。\r\n大部分的奇迹都有限制使用次数。",
+      "jap": "武器種別：タリスマン\r\n攻撃属性：打撃\r\n\r\n神の奇跡をなす触媒\r\n粗布のそれは、旅の聖職者の持つ質素なもの\r\n\r\n奇跡を使用するためには、タリスマンを装備し\r\n篝火で書から奇跡を記憶しておく必要がある\r\nまた、大抵の奇跡は使用回数に制限がある",
+      "eng": "Weapon type: Talisman\r\nAttack type: Strike\r\n\r\nMedium for casting miracles of the Gods.\r\nCanvas Talisman is for clerics on pilgrimage.\r\n\r\nEquip talisman to cast miracles. \r\nAttune miracles from a scroll at a bonfire.\r\nMost miracles have limited no. of uses."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1361000.webp"
+  },
+  {
+    "id": "1362000",
+    "name": {
+      "chn": "索尔隆德护符",
+      "jap": "ソルロンドのタリスマン",
+      "eng": "Thorolund Talisman"
+    },
+    "description": {
+      "chn": "武器种类：护符\r\n攻击属性：打击\r\n\r\n引发神祇奇迹的触媒。\r\n索尔隆德护符只赋予高位圣职，\r\n因为受到庇佑，不需依靠信仰就能增强威力。",
+      "jap": "武器種別：タリスマン\r\n攻撃属性：打撃\r\n\r\n神の奇跡をなす触媒\r\nソルロンドのそれは高位の聖職者にのみ与えられ\r\n加護により信仰によらず高い威力修正を実現する",
+      "eng": "Weapon type: Talisman\r\nAttack type: Strike\r\n\r\nMedium for casting miracles of the Gods.\r\nThis talisman is only granted to high-\r\nranking Thorolund clerics. Has high\r\nmiracle adjustment which, thanks to divine\r\nprotection, is not dependent upon faith."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1362000.webp"
+  },
+  {
+    "id": "1363000",
+    "name": {
+      "chn": "白护符",
+      "jap": "白のタリスマン",
+      "eng": "Ivory Talisman"
+    },
+    "description": {
+      "chn": "武器种类：护符\r\n攻击属性：打击\r\n\r\n引发神祇奇迹的触媒。\r\n白色护符只赋予女性圣职，\r\n装备者的信仰越高，其价值就越高。",
+      "jap": "武器種別：タリスマン\r\n攻撃属性：打撃\r\n\r\n神の奇跡をなす触媒\r\n白いタリスマンは聖職の女性にのみ与えられ\r\n持ち主の信仰により大きくその価値を変える",
+      "eng": "Weapon type: Talisman\r\nAttack type: Strike\r\n\r\nMedium for casting miracles of the Gods.\r\nIvory Talismans are granted only to female\r\nclerics, and their value is affected\r\ndramatically by their owner's faith."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1363000.webp"
+  },
+  {
+    "id": "1365000",
+    "name": {
+      "chn": "太阳护符",
+      "jap": "太陽のタリスマン",
+      "eng": "Sunlight Talisman"
+    },
+    "description": {
+      "chn": "武器种类：护符\r\n攻击属性：打击\r\n\r\n引发神祇奇迹的触媒。\r\n“太阳骑士”亚斯特拉的索拉尔的护符，\r\n上头有他自己画的圣徽，\r\n是他信仰非常坚定的证明。",
+      "jap": "武器種別：タリスマン\r\n攻撃属性：打撃\r\n\r\n神の奇跡をなす触媒\r\n太陽の騎士、アストラのソラールのそれは\r\n自画によるホーリーシンボルが描かれた\r\n彼の真剣な信仰の証そのものである",
+      "eng": "Weapon type: Talisman\r\nAttack type: Strike\r\n\r\nMedium for casting miracles of the Gods.\r\nThe talisman of Solaire of Astora, the Knight\r\nof Sunlight, is decorated with a holy symbol,\r\nillustrated by Solaire himself.\r\nThis talisman is a projection of Solaire's\r\nupstanding, unwavering faith."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1365000.webp"
+  },
+  {
+    "id": "1366000",
+    "name": {
+      "chn": "暗月护符",
+      "jap": "暗月のタリスマン",
+      "eng": "Darkmoon Talisman"
+    },
+    "description": {
+      "chn": "武器种类：护符\r\n攻击属性：打击\r\n\r\n引发神祇奇迹的触媒。\r\n黯影太阳葛温德林\r\n赋予立誓效忠的暗月之剑骑士的护符，\r\n装备者必须有坚定的信仰，\r\n伴随而来的威力增强效果极为可观。",
+      "jap": "武器種別：タリスマン\r\n攻撃属性：打撃\r\n\r\n神の奇跡をなす触媒\r\n陰の太陽グウィンドリンの誓約者\r\n暗月の剣の騎士たちに与えられるそれは\r\n使用者に敬虔な信仰を求めるが\r\nきわめて高い威力修正値を持つ",
+      "eng": "Weapon type: Talisman\r\nAttack type: Strike\r\n\r\nMedium for casting miracles of the Gods.\r\nGranted to Darkmoon Blade knights, adherents\r\nto the Covenant of the Dark Sun Gwyndolin.\r\nThis talisman demands dutiful faith from its\r\nowner, but has very high miracle adjustment."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1366000.webp"
+  },
+  {
+    "id": "1367000",
+    "name": {
+      "chn": "蓓尔嘉护符",
+      "jap": "ベルカのタリスマン",
+      "eng": "Velka's Talisman"
+    },
+    "description": {
+      "chn": "武器种类：护符\r\n攻击属性：打击\r\n\r\n引发神祇奇迹的触媒。\r\n罪业女神蓓尔嘉的护符是由其黑发制成，\r\n不依靠信仰，而是以智力作为奇迹的能量。",
+      "jap": "武器種別：タリスマン\r\n攻撃属性：打撃\r\n\r\n神の奇跡をなす触媒\r\n罪の女神ベルカのそれは彼女の黒髪であり\r\n信仰によらず理力を奇跡の糧とする",
+      "eng": "Weapon type: Talisman\r\nAttack type: Strike\r\n\r\nMedium for casting miracles of the Gods.\r\nThis black tuft of hair that serves as a\r\ntalisman belongs to Velka, Goddess of Sin.\r\nIt casts miracles not by drawing upon\r\nfaith, but intelligence."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1367000.webp"
+  },
+  {
+    "id": "1396000",
+    "name": {
+      "chn": "头盖骨提灯",
+      "jap": "頭蓋ランタン",
+      "eng": "Skull Lantern"
+    },
+    "description": {
+      "chn": "武器种类：提灯\r\n攻击属性：打击\r\n\r\n地下墓地的尸术师持有的头盖骨提灯。\r\n长长的头发变成了提灯用的绳子。\r\n\r\n墓王尼特的死亡领域会吞噬一般的光，\r\n而此提灯可以照亮巨人墓地，\r\n也还可以作为火属性的打击武器。",
+      "jap": "武器種別：ランタン\r\n攻撃属性：打撃\r\n\r\n地下墓地の屍術師の持つ頭蓋ランタン\r\n長い髪の毛を紐がわりにぶら下げる\r\n\r\n尋常の光を喰う墓王ニトの死の領域\r\n巨人墓地を照らすことのできる灯り\r\n炎属性を持つ打撃武器でもある",
+      "eng": "Weapon type: Lantern\r\nAttack type: Strike\r\n\r\nSkull Lantern of the Catacombs necromancer.\r\nDroops from his long beard locks.\r\n\r\nThis lantern alights the Tomb of the Giants,\r\nNito's light-devouring domain of death.\r\nAlso serves as a fire damage strike weapon."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1396000.webp"
+  },
+  {
+    "id": "1400000",
+    "name": {
+      "chn": "双鸟纹木盾",
+      "jap": "双鳥の木盾",
+      "eng": "East-West Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n木制的盾。\r\n画有双头黄鸟这种老旧的图纹。\r\n\r\n比金属的盾轻，\r\n但是物理减伤率及抵挡能力低。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n木製の盾\r\n古いシンボル、双頭の黄色い鳥が描かれている\r\n\r\n金属の盾に比べて軽量であるが\r\n物理カット率、受け能力は低くなる",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nWooden shield.\r\nDecorated with the ancient symbol of\r\na double-headed eagle, painted yellow.\r\n\r\nWood shields are lighter than metal shields,\r\nbut with lower physical damage reduction,\r\nand reduced shield stability."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1400000.webp"
+  },
+  {
+    "id": "1401000",
+    "name": {
+      "chn": "木盾",
+      "jap": "ウッドシールド",
+      "eng": "Wooden Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n直长形的木制盾。\r\n盾上画有白龙。\r\n\r\n比金属的盾轻，\r\n但是物理减伤率及抵挡能力低。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n縦に長い木製の盾\r\n白い竜の姿が描かれている\r\n\r\n金属の盾に比べて軽量であるが\r\n物理カット率、受け能力は低くなる",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nVertically elongated wooden shield.\r\nDecorated with a white dragon.\r\n\r\nWood shields are lighter than metal shields,\r\nbut with lower physical damage reduction,\r\nand reduced shield stability."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1401000.webp"
+  },
+  {
+    "id": "1402000",
+    "name": {
+      "chn": "大皮盾",
+      "jap": "ラージレザーシールド",
+      "eng": "Large Leather Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n圆形的大皮盾。\r\n因广受猎人使用而有名。\r\n\r\n比金属的盾轻，\r\n但是物理减伤率及抵挡能力低。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n大きな円型の革張り盾\r\n狩人が使用することで知られる\r\n\r\n金属の盾に比べて軽量であるが\r\n物理カット率、受け能力は低くなる",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nLarge, leather-covered round shield.\r\nChoice shield for hunters.\r\n\r\nWood shields are lighter than metal shields,\r\nbut with lower physical damage reduction,\r\nand reduced shield stability."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1402000.webp"
+  },
+  {
+    "id": "1403000",
+    "name": {
+      "chn": "小皮盾",
+      "jap": "スモールレザーシールド",
+      "eng": "Small Leather Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n圆形的小皮盾。\r\n重要部位有用金属补强。\r\n\r\n小型盾的抵挡能力终究比较差，\r\n但是比较容易发动格挡后的致命一击。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n小さな円型の革張り盾\r\n金属で要所を補強している\r\n\r\n小盾はどうしても受け能力が低くなるが\r\nパリィからの致命の一撃を狙いやすい",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nSmall, leather-covered round shield,\r\nreinforced in critical spots with metal.\r\n\r\nSmall shields are always less stable, but\r\nlanding critical hits after parry is easier."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1403000.webp"
+  },
+  {
+    "id": "1404000",
+    "name": {
+      "chn": "团牌",
+      "jap": "ターゲットシールド",
+      "eng": "Target Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n圆形的小金属盾。\r\n有四个用来架开攻击的突起部位。\r\n\r\n小型盾的抵挡能力终究比较差，\r\n但是比较容易发动格挡后的致命一击。\r\n这面盾是特别为了格挡而制成的。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n小さな円型の金属盾\r\n四つの突起を使い、攻撃を受け流す\r\n\r\n小盾はどうしても受け能力が低くなるが\r\nパリィからの致命の一撃を狙いやすく\r\n特にこの盾は、パリィに特化している",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nSmall round metal shield.\r\nFour protrusions used to parry attacks.\r\n\r\nSmall shields are always less stable, but\r\nlanding critical hits after parry is easier.\r\nThis shield is specialized for parrying."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1404000.webp"
+  },
+  {
+    "id": "1405000",
+    "name": {
+      "chn": "小圆盾",
+      "jap": "バックラー",
+      "eng": "Buckler"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n非常小的圆形金属盾。\r\n中间有较突起的部位，用来架开攻击。\r\n\r\n小型盾的抵挡能力终究比较差，\r\n但是比较容易发动格挡后的致命一击。\r\n这面盾是特别为了格挡而制成的。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n非常に小型の円い金属盾\r\n中央の大きな膨らみで、攻撃を受け流す\r\n\r\n小盾はどうしても受け能力が低くなるが\r\nパリィからの致命の一撃を狙いやすく\r\n特にこの盾は、パリィに特化している",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nVery small round metal shield.\r\nParry attacks with large center protrusion.\r\n\r\nSmall shields are always less stable, but\r\nlanding critical hits after parry is easier.\r\nThis shield is specialized for parrying."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1405000.webp"
+  },
+  {
+    "id": "1406000",
+    "name": {
+      "chn": "半坏木盾",
+      "jap": "壊れかけの木盾",
+      "eng": "Cracked Round Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n圆形木盾。\r\n已经松脱得快要坏掉。\r\n\r\n比金属的盾轻，但是因为快要损坏，\r\n物理减伤率及抵挡能力低。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n円い木の盾\r\nガタがきて壊れかけのもの\r\n\r\n金属の盾に比べて軽量であるが\r\n壊れかけということもあり\r\n物理カット率、受け能力は低くなる",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nRound wooden shield.\r\nCracked and nearly broken.\r\n\r\nWood shields are lighter than metal shields,\r\nbut this one has lower physical damage\r\nreduction stability, partly due to cracking."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1406000.webp"
+  },
+  {
+    "id": "1408000",
+    "name": {
+      "chn": "皮盾",
+      "jap": "レザーシールド",
+      "eng": "Leather Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n圆形皮盾。\r\n广为普及的标准盾之一。\r\n\r\n小型盾的抵挡能力终究比较差，\r\n但是比较容易发动格挡后的致命一击。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n円型の革張り盾\r\nひろく使われるスタンダードな盾の１つ\r\n\r\n小盾はどうしても受け能力が低くなるが\r\nパリィからの致命の一撃を狙いやすい",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nRound leather-covered shield.\r\nA standard, widely-used shield.\r\n\r\nSmall shields are always less stable, but\r\nlanding critical hits after parry is easier."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1408000.webp"
+  },
+  {
+    "id": "1409000",
+    "name": {
+      "chn": "木板盾",
+      "jap": "木板の盾",
+      "eng": "Plank Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n用木板拼凑在一起的应急用盾。\r\n只有最低限度的防御效果，\r\n不要太过依赖，否则就是自找苦吃。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n木の板を組み合わせただけの即席の盾\r\n最低限の防御効果以上は期待しない方がいい\r\nみじめになるだけだ",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nMakeshift shield built from wood planks.\r\nProvides minimal protection,\r\nbut at a cost of moderate humiliation."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1409000.webp"
+  },
+  {
+    "id": "1410000",
+    "name": {
+      "chn": "双蛇纹圆盾",
+      "jap": "双蛇の円盾",
+      "eng": "Caduceus Round Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n在罗德兰一地制成的圆形木盾。\r\n画有蓝色孪生蛇的老旧图纹。\r\n\r\n罗德兰的树木是岩石大树的远房子孙，\r\n因为些微继承到岩石大树的特质，\r\n所以法术减伤率较高。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\nロードランの地で作られる円い木の盾\r\n古いシンボル、双子の青い蛇が描かれている\r\n\r\nこの地の樹木は、岩の大樹の遠い子孫であり\r\nその性質をわずかに受け継いでいるため\r\n魔法に対するカット率が高い傾向がある",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nRound wooden shield crafted in Lordran.\r\nDecorated by an ancient blue Caduceus.\r\nThe giant trees in Lordran are distant\r\noffspring of the great stone archtrees.\r\nThis shield inherits their properties,\r\nand the wood greatly reduces magic damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1410000.webp"
+  },
+  {
+    "id": "1411000",
+    "name": {
+      "chn": "结晶环盾",
+      "jap": "結晶輪の盾",
+      "eng": "Crystal Ring Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n在黑森林庭院内翩翩飞舞的神秘生物──\r\n月光蝶，其灵魂所生的盾。\r\n\r\n与希斯创造出来的月光蝶一样，\r\n带有强大的结晶魔力，可以释放出结晶光环。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n黒い森の庭を舞う神秘の生物\r\n月光蝶のソウルから生まれた盾\r\n\r\nシースの被造物であった蝶と同じく\r\n強い結晶の魔力を帯びており\r\n結晶の光輪を放つことができる",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nWeapon born from the mystical creature of\r\nthe Darkroot Garden, the Moonlight Butterfly.\r\nImbued with a powerful crystal power, like\r\nthe butterfly created by Seath the Scaleless.\r\nCan emit crystal light rings."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1411000.webp"
+  },
+  {
+    "id": "1450000",
+    "name": {
+      "chn": "熨斗形盾",
+      "jap": "ヒーターシールド",
+      "eng": "Heater Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n小型金属盾。\r\n广为普及的标准盾之一。\r\n\r\n在物理减伤率100％的盾之中，\r\n是最小的一种，很好用。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n小型の金属盾\r\nひろく使われるスタンダードな盾の１つ\r\n\r\n物理カット率１００％の盾の中では\r\n最も小さいものの１つで、扱いやすい",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nSmall metal shield.\r\nA standard, widely-used shield.\r\n\r\nThis shield is easy to use, and is one of\r\nthe smallest shields that offers\r\n100% physical damage reduction."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1450000.webp"
+  },
+  {
+    "id": "1451000",
+    "name": {
+      "chn": "骑士盾",
+      "jap": "ナイトシールド",
+      "eng": "Knight Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n盾面有精细雕刻及上色的中型金属盾。\r\n应该是古代贵族骑士使用的盾，\r\n但是防御效果和普通的盾没有差异。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n丁寧な彫刻と彩色が施された中型の金属盾\r\n古い貴族の騎士が使ったものと思われるが\r\n防御効果自体は通常の盾と変わらない",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nThis medium metal shield is elegantly\r\ncarved and painted.\r\nAlthough it is thought to have been used by\r\nancient knights of the nobility, its defense\r\ncapabilities are similar to other shields."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1451000.webp"
+  },
+  {
+    "id": "1452000",
+    "name": {
+      "chn": "塔纹鸢形盾",
+      "jap": "塔のカイトシールド",
+      "eng": "Tower Kite Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n中型金属盾。\r\n盾面画有塔的图纹，此为守护者的象征。\r\n广为普及的标准盾之一。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n中型の金属盾\r\n守る者のシンボル、塔の紋章が描かれている\r\nひろく使われるスタンダードな盾の１つ",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nMedium metal shield. Decorated with a tower,\r\nthe symbol of protection.\r\nA standard, widely-used shield."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1452000.webp"
+  },
+  {
+    "id": "1453000",
+    "name": {
+      "chn": "草纹盾",
+      "jap": "草紋の盾",
+      "eng": "Grass Crest Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n来历不明的老旧中型金属盾。\r\n草纹上附有微弱的魔力，\r\n能稍微提升精力的恢复速度。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n由来の分からぬ、古い中型の金属盾\r\n草紋には弱い魔力が込められているようで\r\nわずかではあるがスタミナ回復速度が上がる",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nOld medium metal shield of unknown origin.\r\nThe grass crest is lightly imbued with magic,\r\nwhich slightly speeds stamina recovery."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1453000.webp"
+  },
+  {
+    "id": "1454000",
+    "name": {
+      "chn": "游魂士兵盾",
+      "jap": "亡者兵士の盾",
+      "eng": "Hollow Soldier Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n游魂士兵持有的金属盾。\r\n盾锈蚀得很严重，不过还很牢固，\r\n防御效果好。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n亡者の兵士が持つ金属盾\r\n重く錆びついてはいるが頑丈で\r\n高い防御効果がある",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nMetal shield wielded by Hollow soldiers.\r\nHeavily rusted but sturdy, providing a\r\nstrong defense."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1454000.webp"
+  },
+  {
+    "id": "1455000",
+    "name": {
+      "chn": "巴勒德尔盾",
+      "jap": "バルデルの盾",
+      "eng": "Balder Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n古代王国巴勒德尔的骑士使用的盾。\r\n有特别加强过抵挡能力。\r\n\r\n巴勒德尔是骑士王伦德尔的故乡，\r\n因为突然出现大量不死人而灭亡。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n古い王国バルデルの騎士たちが用いた盾\r\n受け能力を高める調整がなされている\r\n\r\nバルデルは騎士王レンドルの故国であるが\r\nあるとき多くの不死を生み、そのまま滅び去った",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of the knights of the ancient kingdom\r\nof Balder. Tweaked for improved stability.\r\nBalder was the home of Knight King Rendal,\r\nbut the kingdom was reduced to ruins after\r\na widespread outbreak of Undead."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1455000.webp"
+  },
+  {
+    "id": "1456000",
+    "name": {
+      "chn": "图纹盾",
+      "jap": "紋章の盾",
+      "eng": "Crest Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n无名骑士的盾。\r\n很可能是亚斯特拉上级骑士的物品。\r\n\r\n是质量优良，带有魔力的蓝盾之一，\r\n其中图纹盾的法术减伤率特别高。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n名も知らぬ騎士の盾\r\n恐らくはアストラの上級騎士のもの\r\n\r\n魔力を帯びた上質のブルーシールドの１つで\r\n特に紋章の盾は魔法カット率が高い",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of a nameless knight, likely a\r\nhigh-ranked knight of Astora.\r\n\r\nOne of the enchanted blue shields.\r\nThe Crest Shield greatly reduces\r\nmagic damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1456000.webp"
+  },
+  {
+    "id": "1457000",
+    "name": {
+      "chn": "龙图纹盾",
+      "jap": "竜紋章の盾",
+      "eng": "Dragon Crest Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n无名骑士的盾。\r\n很可能是亚斯特拉上级骑士的物品。\r\n\r\n是质量优良，带有魔力的蓝盾之一，\r\n其中龙图纹盾的火焰减伤率特别高。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n名も知らぬ騎士の盾\r\n恐らくはアストラの上級騎士のもの\r\n\r\n魔力を帯びた上質のブルーシールドの１つで\r\n特に竜紋章の盾は炎カット率が高い",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of a nameless knight, likely a\r\nhigh-ranked knight of Astora.\r\n\r\nOne of the enchanted blue shields.\r\nThe Dragon Crest Shield greatly reduces\r\nfire damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1457000.webp"
+  },
+  {
+    "id": "1460000",
+    "name": {
+      "chn": "战士圆盾",
+      "jap": "戦士の円盾",
+      "eng": "Warrior's Round Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n在罗德兰一地制成的圆形木盾。\r\n画有象征战士的双头斧图纹。\r\n\r\n罗德兰的树木是岩石大树的远房子孙，\r\n因为些微继承到岩石大树的特质，\r\n所以法术减伤率较高。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\nロードランの地で作られる円い木の盾\r\n戦士のシンボル、両刃斧の紋章が描かれている\r\n\r\nこの地の樹木は、岩の大樹の遠い子孫であり\r\nその性質をわずかに受け継いでいるため\r\n魔法に対するカット率が高い傾向がある",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nRound wooden shield crafted in Lordran.\r\nDecorated with the ancient Labrys axe.\r\nThe giant trees in Lordran are distant\r\noffspring of the great stone archtrees.\r\nThis shield inherits their properties, \r\nand the wood reduces magic damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1460000.webp"
+  },
+  {
+    "id": "1461000",
+    "name": {
+      "chn": "铁圆盾",
+      "jap": "鉄の円盾",
+      "eng": "Iron Round Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n东方的芝持有的极厚铁盾。\r\n在普通盾之中是最重的，可以挥开敌人的攻击。\r\n\r\n这是芝的收藏品，似乎是有名的盾，\r\n但可以述说这些事情的男人已经不在了。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n東のシバの持つ、ぶ厚い鉄の円盾\r\n通常の盾の中では最も重く、敵の攻撃をはじく\r\n\r\nシバのコレクションでもあり高名な盾のようだが\r\nそれを語るべき男はもういない",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nThick iron shield of Shiva of the East.\r\nHeaviest of the standard shields.\r\nDeflects enemy attacks. A famous specimen\r\nfrom Shiva's collection, but none who have\r\nfaced it have lived to tell the tale."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1461000.webp"
+  },
+  {
+    "id": "1462000",
+    "name": {
+      "chn": "蜘蛛纹盾",
+      "jap": "蜘蛛の盾",
+      "eng": "Spider Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n野蛮山贼所用的盾。\r\n形状独特，还画有黑色的大蜘蛛，\r\n对毒有抵抗力。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n野蛮な山の盗賊たちが用いる盾\r\n独特な形状に黒い蜘蛛が大きく描かれ\r\n毒に対して耐性がある",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of the savage mountain bandits.\r\nUniquely-shaped with a large black spider\r\netched upon it.\r\nHas resistance to poison."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1462000.webp"
+  },
+  {
+    "id": "1470000",
+    "name": {
+      "chn": "刺针盾",
+      "jap": "トゲの盾",
+      "eng": "Spiked Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n臭名昭著的吸魂鬼“刺针骑士”寇克的盾。\r\n盾面布满尖锐的刺针。\r\n\r\n可以当作武器使用，\r\n锐利的刺针容易使敌人大量出血。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n悪名高いダークレイス「トゲの騎士」カークの盾\r\n表面にびっしりと鋭いトゲが生えている\r\n\r\n武器としても使うことができ\r\n鋭いトゲにより、敵に大量の出血を強いる",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of the infamous Darkwraith Kirk,\r\nKnight of Thorns. Covered with spikes.\r\n\r\nCan be used as a weapon.\r\nSharp spikes cause heavy bleeding."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1470000.webp"
+  },
+  {
+    "id": "1471000",
+    "name": {
+      "chn": "结晶盾",
+      "jap": "結晶の盾",
+      "eng": "Crystal Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n完全结晶化的盾。\r\n该怎么做才能做出这种武器，\r\n完全无迹可循。\r\n\r\n因为结晶的影响，防御力较高，\r\n但容易损坏，也不能修理，\r\n无法长期使用。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n全体が結晶化した盾\r\nどうすればこのような武器が生まれるのか\r\nまったく見当もつかない\r\n\r\n結晶の力により防御効果は高いが\r\n壊れやすく、また修理もできないため\r\n長く使い続けることはできない",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nA fully crystallized straight shield.\r\nHow such a weapon was created\r\nis entirely unknown.\r\nThe crystallization boosts its defense, but\r\nmakes the shield brittle. The shield cannot\r\nbe used for long, as it cannot be repaired."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1471000.webp"
+  },
+  {
+    "id": "1472000",
+    "name": {
+      "chn": "太阳纹盾",
+      "jap": "太陽の盾",
+      "eng": "Sunlight Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n“太阳骑士”亚斯特拉的索拉尔的圆盾。\r\n画有大大的太阳圣徽，\r\n但因为是自己画的，并不具神圣力量。\r\n\r\n索拉尔能成为优秀的战士，\r\n靠的是自己的严格训练。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n太陽の騎士、アストラのソラールの円盾\r\n太陽のホーリーシンボルが大きく描かれているが\r\n自画であり、特に聖なる力があるわけではない\r\n\r\nソラールの戦士としての優秀さは\r\nただ彼のみの鍛錬によるものであったようだ",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of Solaire of Astora, Knight of\r\nSunlight. Decorated with a holy symbol,\r\nbut Solaire illustrated it himself, and it\r\nhas no divine powers of its own. As it turns\r\nout, Solaire's incredible prowess is a product\r\nof his own training, and nothing more."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1472000.webp"
+  },
+  {
+    "id": "1473000",
+    "name": {
+      "chn": "银骑士盾",
+      "jap": "銀騎士の盾",
+      "eng": "Silver Knight Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n守护亚诺尔隆德的银骑士盾。\r\n盾面刻有深沟槽。\r\n\r\n银骑士们留在王都，持续守护幻影女神，\r\n他们的盾还留有女神的庇佑。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\nアノール・ロンドを守る銀の騎士たちの盾\r\n表面に流れる溝が深く彫り込まれている\r\n\r\n王都に残り、幻の女神を守り続けた彼らの盾は\r\nまた女神の加護により守られてもいるのだ",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of the Silver Knights of Anor Londo.\r\nA flowing canal is carved deep into its face.\r\nThe Silver Knights stayed behind in Anor\r\nLondo to defend the illusory goddess,\r\nand their shields are blessed with her\r\ndivine protection."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1473000.webp"
+  },
+  {
+    "id": "1474000",
+    "name": {
+      "chn": "黑骑士盾",
+      "jap": "黒騎士の盾",
+      "eng": "Black Knight Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n于罗德兰四处徘徊的黑骑士盾。\r\n盾面刻有深沟槽。\r\n\r\n黑骑士过去曾对抗混沌恶魔，\r\n他们的盾因此熏黑，对火焰有高防御效果。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\nロードランをさまよう黒の騎士たちの盾\r\n表面に流れる溝が深く彫り込まれている\r\n\r\nかつて混沌のデーモンと対峙した彼らの盾は\r\n全身に黒ずみ、炎に対して高い防御効果がある",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nShield of the Black Knights that wander\r\nLordan. A flowing canal is chiseled deeply\r\ninto its face. \r\nLong ago, the black knights faced the chaos\r\ndemons, and were charred black, but their\r\nshields became highly resistant to fire."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1474000.webp"
+  },
+  {
+    "id": "1475000",
+    "name": {
+      "chn": "突刺盾",
+      "jap": "ピアスシールド",
+      "eng": "Pierce Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：突刺\r\n\r\n据说是部分卡塔利纳骑士使用的盾。\r\n盾面中央有大型尖刺，可用于攻击。\r\n\r\n可以当作突刺属性的武器使用。",
+      "jap": "武器種別：盾\r\n攻撃属性：刺突\r\n\r\nカタリナ騎士の一部がこれを用いるという\r\n中央に鋭く大きい突起のついた攻撃用の盾\r\n\r\n刺突属性の武器としても使うことができる",
+      "eng": "Weapon type: Shield\r\nAttack type: Thrust\r\n\r\nShield of certain knights of Catarina, used\r\nin attacks with a large protrusion in center.\r\n\r\nCan be used as a thrust weapon."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1475000.webp"
+  },
+  {
+    "id": "1476000",
+    "name": {
+      "chn": "红白圆盾",
+      "jap": "紅白の円盾",
+      "eng": "Red and White Round Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n在罗德兰一地制成的圆形木盾。\r\n涂有红白两色，制作手法精细。\r\n\r\n罗德兰的树木是岩石大树的远房子孙，\r\n因为些微继承到岩石大树的特质，\r\n所以法术减伤率较高。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\nロードランの地で作られる円い木の盾\r\n紅白に塗り分けられ、意匠も凝っている\r\n\r\nこの地の樹木は、岩の大樹の遠い子孫であり\r\nその性質をわずかに受け継いでいるため\r\n魔法に対するカット率が高い傾向がある",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nRound wooden shield crafted in Lordran\r\nfeaturing an impressive red and white design.\r\nThe giant trees in Lordran are distant\r\noffspring of the great stone archtrees.\r\nThis shield inherits their properties, and\r\nthe wood greatly reduces magic damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1476000.webp"
+  },
+  {
+    "id": "1477000",
+    "name": {
+      "chn": "双蛇纹鸢形盾",
+      "jap": "双蛇のカイトシールド",
+      "eng": "Caduceus Kite Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n中型金属盾，\r\n画有蓝色孪生蛇的老旧图纹。\r\n广为普及的标准盾之一。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n中型の金属盾\r\n古いシンボル、双子の青い蛇が描かれている\r\nひろく使われるスタンダードな盾の１つ",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nMedium metal shield.\r\nDecorated by an ancient blue Caduceus.\r\nA standard, widely-used shield."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1477000.webp"
+  },
+  {
+    "id": "1478000",
+    "name": {
+      "chn": "石像鬼盾",
+      "jap": "ガーゴイルの盾",
+      "eng": "Gargoyle's Shield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n在不死教堂钟楼守护苏醒之钟的\r\n石像鬼青铜盾。\r\n\r\n因为石像鬼的皮肤本来就够硬，\r\n它们会持盾也只是当作装饰。\r\n是面物理减伤率不到100％的罕见金属盾。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n不死教会の鐘楼で目覚ましの鐘を守っていた\r\nガーゴイルの青銅の盾\r\n\r\n元より皮膚の硬いガーゴイルには\r\n所詮飾りでしかなかったのか\r\n物理カット率１００％でない珍しい金属盾",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nBronze shield of the gargoyle guarding the\r\nBell of Awakening in the Undead Church.\r\nThe gargoyle's skin is tough by itself, and\r\nperhaps its shield may have been a prop,\r\nfor it is a rare example of a metal shield\r\nthat does not reduce physical damage 100%."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1478000.webp"
+  },
+  {
+    "id": "1500000",
+    "name": {
+      "chn": "巨鹰纹盾",
+      "jap": "大鷲の盾",
+      "eng": "Eagle Shield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n画有巨鹰的木制大型盾。\r\n是大型盾之中最轻的盾，很好用。\r\n\r\n大型盾的抵挡能力佳，可以挥开攻击，\r\n虽然不能格挡，但可以使出盾牌冲击。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n大鷲の図案が描かれた木の大型盾\r\n大盾の中ではもっとも軽く扱いやすい\r\n\r\n大盾は受け能力が高く、攻撃をはじき\r\nパリィはできず、シールドバッシュとなる",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nGreatshield with an eagle design. Lightest\r\nand easiest greatshield to handle.\r\n\r\nGreatshields are very stable, and deflect\r\nattacks. But one cannot parry, and instead\r\nbashes with the shield."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1500000.webp"
+  },
+  {
+    "id": "1501000",
+    "name": {
+      "chn": "塔盾",
+      "jap": "タワーシールド",
+      "eng": "Tower Shield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n大型金属盾。\r\n以重装闻名的伯尼斯骑士的装备，\r\n是重量和防御效果无与伦比的厚实铁板。\r\n\r\n大型盾的抵挡能力佳，可以挥开攻击，\r\n虽然不能格挡，但可以使出盾牌冲击。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n金属の大型盾\r\n重装で知られるバーニス騎士の装備\r\n圧倒的な重さと防御効果を持つぶ厚い鉄板\r\n\r\n大盾は受け能力が高く、攻撃をはじき\r\nパリィはできず、シールドバッシュとなる",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nMetal greatshield. Used by Knight Berenike,\r\nknown for his heavy armor. This thick plate\r\nof iron is heavily defensive but ultra heavy.\r\nGreatshields are very stable, and deflect\r\nattacks. However, one cannot parry,\r\nand instead bashes with the shield."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1501000.webp"
+  },
+  {
+    "id": "1502000",
+    "name": {
+      "chn": "巨人盾",
+      "jap": "巨人の盾",
+      "eng": "Giant Shield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n用老旧黄铜和白铁打造而成的大型盾。\r\n守护亚诺尔隆德的巨人卫兵使用的装备。\r\n\r\n因为加入白铁，\r\n提升了对物理攻击以外的防御能力，\r\n但因为是考虑巨人的体能而制成的装备，\r\n对人来说大概过于沉重。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n古い黄銅と白鉄で作られた大型盾\r\nアノール・ロンドを守る巨人衛兵の装備\r\n\r\n白鉄により物理攻撃以外にも有効だが\r\n巨人の膂力に合わせて作られているため\r\n人の身には大概重すぎるだろう",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nGreatshield made of bronze and marcasite.\r\nUsed by giant sentinels of Anor Londo.\r\nMarcasite, or white iron, is effective\r\nagainst non-physical damage, but as the\r\nshield is designed for the giant sentinels,\r\nits weight is unbearable."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1502000.webp"
+  },
+  {
+    "id": "1503000",
+    "name": {
+      "chn": "石大盾",
+      "jap": "石の大盾",
+      "eng": "Stone Greatshield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n黑森林庭院的守护者，\r\n长满青苔的石骑士大盾。\r\n\r\n石骑士是古老法术的产物，\r\n所以这面盾也带有法术的力量。\r\n重量非常重。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n黒い森の庭の守護者\r\n石の騎士の苔むした円い大盾\r\n\r\n石の騎士は古い魔法の産物であり\r\nこの盾もまた、魔法の力を帯びているが\r\nすさまじい重さがある",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nMossy round greatshield used by the guardian\r\nof the Darkroot Garden, the Stone Knight.\r\nThe Stone Knight is a creation of ancient\r\nmagic, and this shield is imbued with the\r\nsame power, but is also extremely heavy."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1503000.webp"
+  },
+  {
+    "id": "1505000",
+    "name": {
+      "chn": "哈维尔大盾",
+      "jap": "ハベルの大盾",
+      "eng": "Havel's Greatshield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n用岩石刻制出来的大型盾──\r\n“坚石”哈维尔传说中的盾。\r\n\r\n沉重异常，不过防御效果非常好，\r\n还带有哈维尔的魔力。\r\n和大龙牙同为哈维尔本人遗留的圣物。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\nまさに岩塊を彫って作られた\r\n「岩のような」ハベルの伝説の大盾\r\n\r\nすさまじい重さと防御効果を誇り\r\n更にはハベルの魔力すらも秘められている\r\n大竜牙と並ぶハベル本人の聖遺物",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nGreatshield of the legendary Havel the Rock.\r\nCut straight from a great slab of stone.\r\nThis greatshield is imbued with the magic\r\nof Havel, provides strong defense, and is\r\nincredibly heavy. A true divine heirloom\r\non par with the Dragon Tooth."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1505000.webp"
+  },
+  {
+    "id": "1506000",
+    "name": {
+      "chn": "骸骨车轮盾",
+      "jap": "骸骨車輪の盾",
+      "eng": "Bonewheel Shield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n外缘有刺针的巨大木制车轮。\r\n有一半已经和奇怪的骸骨融合在一起。\r\n\r\n可以当作大型盾用，但充满空隙，\r\n还可以旋转车轮，用刺针来攻击，\r\n是一面颇奇特的盾。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n円周にトゲのついた巨大な木の車輪\r\nおかしな骸骨が半ば一体化していた\r\n\r\nすかすかの大盾として使用することができ\r\n車輪を回転させ、トゲで攻撃することもできる\r\nいろいろと奇妙な盾",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nGiant wooden wheel encircled by spikes.\r\nHalf-melded to a strange skeleton.\r\n\r\nCan be used as a greatshield, only for the\r\ngreat gaps. But at least the spikes turn into\r\nweapons with a good spin. Strange indeed!"
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1506000.webp"
+  },
+  {
+    "id": "1507000",
+    "name": {
+      "chn": "亚尔特留斯大盾",
+      "jap": "アルトリウスの大盾",
+      "eng": "Greatshield of Artorias"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n为“漫步深渊”的骑士亚尔特留斯守墓的\r\n灰色大狼希夫，其灵魂所生的大盾。\r\n\r\n具有稳定的防御效果，再加上有庇佑效果，\r\n给予装备者抵抗各种异常状态的力量。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n「深淵歩き」の騎士アルトリウスの墓守\r\n灰色の大狼シフのソウルから生まれた盾\r\n\r\n安定した防御効果に加え加護の効果もあり\r\n持ち主にあらゆる異常に耐える力を与える",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nShield born from the soul of the great grey\r\nwolf Sif, guardian of the grave of the\r\nAbysswalker Knight Artorias.\r\nBoasts consistent defense and divine\r\nprotection against various status effects."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1507000.webp"
+  },
+  {
+    "id": "1600000",
+    "name": {
+      "chn": "软鞭",
+      "jap": "ウィップ",
+      "eng": "Whip"
+    },
+    "description": {
+      "chn": "武器种类：软鞭\r\n攻击属性：标准\r\n\r\n条索状的皮鞭。\r\n本来不是用来战斗的物品。\r\n\r\n对铠甲或坚硬鳞片等几乎没有攻击效果，\r\n但是对露出皮肤的敌人就可以发挥威力。",
+      "jap": "武器種別：ムチ\r\n攻撃属性：標準\r\n\r\nひも状の皮のムチ\r\n本来戦いに用いるものではない\r\n\r\n鎧や硬いウロコなどにはほぼ効果がないが\r\n肌や皮膚の露出した敵には威力を発揮する",
+      "eng": "Weapon type: Whip\r\nAttack type: Regular\r\n\r\nLeather whip.\r\nNot intended for battle.\r\n\r\nVirtually ineffective against armor and tough\r\nscales, but quite formidable against enemies\r\nwith exposed skin."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1600000.webp"
+  },
+  {
+    "id": "1601000",
+    "name": {
+      "chn": "荆棘软鞭",
+      "jap": "イバラムチ",
+      "eng": "Notched Whip"
+    },
+    "description": {
+      "chn": "武器种类：软鞭\r\n攻击属性：标准\r\n\r\n布满尖锐刺针的条索状软鞭。\r\n对铠甲或坚硬鳞片等攻击效果不大，\r\n但是对露出皮肤的敌人就可以发挥威力，\r\n容易使敌人大量出血。",
+      "jap": "武器種別：ムチ\r\n攻撃属性：標準\r\n\r\n鋭いトゲの生えたひも状のムチ\r\n鎧や硬いウロコなどには効果が薄いが\r\n肌や皮膚の露出した敵には威力を発揮し\r\nまた大量の出血を強いる",
+      "eng": "Weapon type: Whip\r\nAttack type: Regular\r\n\r\nWhip with sharp spikes.\r\n\r\nOnly slightly effective against armor and\r\ntough scales, but quite formidable against\r\nenemies with exposed skin.\r\nAlso causes heavy bleeding."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/1601000.webp"
+  },
+  {
+    "id": "2000000",
+    "name": {
+      "chn": "普通箭",
+      "jap": "普通の矢",
+      "eng": "Standard Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n标准箭。\r\n弓不装备箭的话，无法射击。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\n標準的な矢\r\n何らかの矢を装備しないと\r\n弓を撃つことはできない",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nStandard arrow.\r\nArrows must be equipped to be fired."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2000000.webp"
+  },
+  {
+    "id": "2001000",
+    "name": {
+      "chn": "大型箭",
+      "jap": "大きな矢",
+      "eng": "Large Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n大型箭。\r\n有重量，威力又强，但是射程短。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\n大型の矢\r\n重く威力も高いが、飛距離は短くなる",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nLarge arrow.\r\nHeavier arrows cause more damage,\r\nbut have a shorter range."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2001000.webp"
+  },
+  {
+    "id": "2002000",
+    "name": {
+      "chn": "羽毛箭",
+      "jap": "羽根矢",
+      "eng": "Feather Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n王的猎人使用的红羽毛箭。\r\n射程长，适合用于狙击。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\n王の狩人が用いる赤羽の矢\r\n飛距離が長く、遠距離からの狙撃に適する",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nRed feather arrows of the Lord's hunters.\r\nTheir long range makes them effective for\r\nsniping."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2002000.webp"
+  },
+  {
+    "id": "2003000",
+    "name": {
+      "chn": "火箭",
+      "jap": "火矢",
+      "eng": "Fire Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n在箭头上点火射击的箭。\r\n能给予火属性的伤害。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\n矢じりに火をつけて撃つ矢\r\n炎属性のダメージを与える",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nArrows fired with flaming tips.\r\nInflicts fire damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2003000.webp"
+  },
+  {
+    "id": "2004000",
+    "name": {
+      "chn": "毒箭",
+      "jap": "毒矢",
+      "eng": "Poison Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n在箭头上涂毒射击的箭。\r\n为了让狩猎和暗杀能切实成功而制成的物品，\r\n敌人中毒之后，接下来只要静静等就行了。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\n矢じりに毒を塗った矢\r\n狩りや暗殺の確実性を高めるためのもの\r\n敵が毒状態になったら、あとは待てばよいのだ",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nArrow with point dipped in poison.\r\nEnsures the demise of prey in a hunt,\r\nor the target in an assassination.\r\nOnce an enemy is poisoned, one need\r\nonly wait."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2004000.webp"
+  },
+  {
+    "id": "2005000",
+    "name": {
+      "chn": "月光箭",
+      "jap": "月光矢",
+      "eng": "Moonlight Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n立誓效忠葛温王的么子──\r\n黯影太阳葛温德林后得到的法术箭。\r\n箭带有银色光芒，可以给予法术伤害。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\nグウィン王の末子にして、陰の太陽\r\nグウィンドリンの誓約者に与えられる魔法の矢\r\nその矢は銀の光を帯び、魔法ダメージを与える",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nArrow granted to those bound by\r\nCovenant to the Dark Sun Gwyndolin,\r\nLord Gwyn's lastborn.\r\nMoonlight Arrows glow silver,\r\nand inflict magic damage."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2005000.webp"
+  },
+  {
+    "id": "2006000",
+    "name": {
+      "chn": "木箭",
+      "jap": "木の矢",
+      "eng": "Wooden Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n标准箭。\r\n威力和射程都很普通，\r\n但是很便宜，适合大量使用。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\n標準的な矢\r\n威力、飛距離共に見るべきところはないが\r\n単価が安く、大量使用に適する",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nStandard arrow.\r\nThese arrows do not fly particularly far,\r\nnor do they inflict a terrible amount of\r\ndamage, but their cheap cost makes them\r\nuseful when volume is required."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2006000.webp"
+  },
+  {
+    "id": "2007000",
+    "name": {
+      "chn": "猎龙大箭",
+      "jap": "竜狩りの大矢",
+      "eng": "Dragonslayer Arrow"
+    },
+    "description": {
+      "chn": "武器种类：大箭\r\n攻击属性：突刺\r\n\r\n猎龙大弓专用，如铁枪般巨大的箭，\r\n是“鹰眼”戈夫率领的猎龙队装备，\r\n可以轻易把人射穿。\r\n\r\n这种大箭只能用在猎龙大弓上，\r\n而猎龙大弓也只能用这种大箭。",
+      "jap": "武器種別：大矢\r\n攻撃属性：刺突\r\n\r\n竜狩りの大弓専用の、鉄槍のように巨大な矢\r\n「鷹の目」ゴーの率いた竜狩り隊のもので\r\n人のごときは簡単に貫いてしまう\r\n\r\nこの大矢は竜狩りの大弓でしか使えず\r\nまた、竜狩りの大弓はこの大矢しか使えない",
+      "eng": "Weapon type: Great Arrow\r\nAttack type: Thrust\r\n\r\nGiant dragon-hunting arrows, resembling\r\niron spears. Used by Hawkeye Gough and\r\nhis Dragonslayers, they puncture human\r\nflesh easily. Dragonslayer Arrows can only\r\nbe used with the Dragonslayer Greatbow,\r\nand vice-versa. "
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2007000.webp"
+  },
+  {
+    "id": "2008000",
+    "name": {
+      "chn": "戈夫大箭",
+      "jap": "ゴーの大矢",
+      "eng": "Gough's Great Arrow"
+    },
+    "description": {
+      "chn": "武器种类：大箭\r\n攻击属性：突刺\r\n\r\n葛温王四骑士──\r\n“鹰眼”戈夫使用的猎龙大箭。\r\n为大弓专用。\r\n\r\n这石制箭头以及紧紧缠绕的树皮，\r\n都是由戈夫亲手制作而成。",
+      "jap": "武器種別：大矢\r\n攻撃属性：刺突\r\n\r\nグウィン王の四騎士の一人\r\n「鷹の目」ゴーの用いた竜狩りの大矢\r\n大弓専用\r\n\r\n石の矢じりも、きつく巻かれた樹皮も\r\nすべてゴー自身の手になるものである",
+      "eng": "Weapon type: Great Arrow\r\nAttack type: Thrust\r\n\r\nGreat arrow used by Hawkeye Gough,\r\none of Lord Gwyn's Four Knights,\r\nfor dragon slaying. Requires Greatbow.\r\n\r\nGough personally crafts each stone tip,\r\nand wraps the shaft tightly with tree bark."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2008000.webp"
+  },
+  {
+    "id": "2100000",
+    "name": {
+      "chn": "普通弩箭",
+      "jap": "ノーマルボルト",
+      "eng": "Standard Bolt"
+    },
+    "description": {
+      "chn": "武器种类：弩箭\r\n攻击属性：突刺\r\n\r\n标准弩箭。\r\n主要是轻弩用。\r\n\r\n弩不装备弩箭的话，无法射击。",
+      "jap": "武器種別：ボルト\r\n攻撃属性：刺突\r\n\r\n標準的なクロスボウの矢\r\n主にライトクロスボウで使われる\r\n\r\n何らかのボルトを装備しないと\r\nクロスボウを撃つことはできない",
+      "eng": "Weapon type: Bolt\r\nAttack type: Thrust\r\n\r\nStandard crossbow bolt.\r\nUsed mainly with the Light Crossbow.\r\n\r\nEquip crossbow with a bolt to fire."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2100000.webp"
+  },
+  {
+    "id": "2101000",
+    "name": {
+      "chn": "重弩箭",
+      "jap": "ヘビーボルト",
+      "eng": "Heavy Bolt"
+    },
+    "description": {
+      "chn": "武器种类：弩箭\r\n攻击属性：突刺\r\n\r\n大型弩箭。\r\n主要是重弩用。\r\n\r\n有重量，威力又强，但是射程短。",
+      "jap": "武器種別：ボルト\r\n攻撃属性：刺突\r\n\r\n大型のボルト\r\n主にヘビークロスボウで使われる\r\n\r\n重く威力も高いが、飛距離は短くなる",
+      "eng": "Weapon type: Bolt\r\nAttack type: Thrust\r\n\r\nLarge bolt.\r\nUsed mainly with the Heavy Crossbow.\r\n\r\nThese weighty bolts inflict high damage,\r\nbut have reduced range."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2101000.webp"
+  },
+  {
+    "id": "2102000",
+    "name": {
+      "chn": "狙击弩箭",
+      "jap": "スナイパーボルト",
+      "eng": "Sniper Bolt"
+    },
+    "description": {
+      "chn": "武器种类：弩箭\r\n攻击属性：突刺\r\n\r\n狙击弩使用的红羽毛弩箭。\r\n射程长，适合用于狙击。",
+      "jap": "武器種別：ボルト\r\n攻撃属性：刺突\r\n\r\nスナイパークロスで使われる赤羽のボルト\r\n飛距離が長く、遠距離からの狙撃に適する",
+      "eng": "Weapon type: Bolt\r\nAttack type: Thrust\r\n\r\nRed feather bolts used with the Sniper\r\nCrossbow. Their long range makes them\r\neffective for sniping."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2102000.webp"
+  },
+  {
+    "id": "2103000",
+    "name": {
+      "chn": "木弩箭",
+      "jap": "ウッドボルト",
+      "eng": "Wood Bolt"
+    },
+    "description": {
+      "chn": "武器种类：弩箭\r\n攻击属性：突刺\r\n\r\n木制的简易弩箭。\r\n威力和射程都很普通，\r\n但是很便宜、适合大量使用。",
+      "jap": "武器種別：ボルト\r\n攻撃属性：刺突\r\n\r\n木製の簡易なボルト\r\n威力、飛距離共に見るべきところはないが\r\n単価が安く、大量使用に適する",
+      "eng": "Weapon type: Bolt\r\nAttack type: Thrust\r\n\r\nBasic wood bolt.\r\n\r\nThese bolts do not fly particularly far,\r\nnor do they inflict a terrible amount of\r\ndamage, but their cheap cost makes them\r\nuseful when volume is required."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2103000.webp"
+  },
+  {
+    "id": "2104000",
+    "name": {
+      "chn": "雷弩箭",
+      "jap": "雷のボルト",
+      "eng": "Lightning Bolt"
+    },
+    "description": {
+      "chn": "武器种类：弩箭\r\n攻击属性：突刺\r\n\r\n亚诺尔隆德的巨人铁匠所制作的，\r\n带有雷电力量的特殊弩箭。\r\n\r\n不知弩为何的巨人铁匠之所以制作弩箭，\r\n是因为他记得以前有人请求订制的关系。",
+      "jap": "武器種別：ボルト\r\n攻撃属性：刺突\r\n\r\nアノール・ロンドの巨人鍛治の作る\r\n雷の力を帯びた特別なボルト\r\n\r\nクロスボウを知らぬ彼がボルトを作るのは\r\n古い何人かの依頼をずっと覚えているからだ",
+      "eng": "Weapon type: Bolt\r\nAttack type: Thrust\r\n\r\nSpecial bolts imbued with lightning, crafted\r\nby the giant blacksmith of Anor Londo.\r\n\r\nThe giant blacksmith has never seen a\r\ncrossbow, but remembers the specifications\r\nof the bolts requested by ancient warriors."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/2104000.webp"
+  },
+  {
+    "id": "9000000",
+    "name": {
+      "chn": "邪神盾",
+      "jap": "邪神の盾",
+      "eng": "Effigy Shield"
+    },
+    "description": {
+      "chn": "武器种类：小型盾\r\n攻击属性：打击\r\n\r\n不祥的邪教盾。\r\n可以防御神的武器，还有雷电的攻击。\r\n\r\n与神为敌的邪教徒可能是为了弒神，\r\n而前往盗取“最初的死者”墓王尼特的力量，\r\n但结果却是功败垂成。",
+      "jap": "武器種別：小盾\r\n攻撃属性：打撃\r\n\r\n禍々しい邪教の盾\r\n神の武器、雷を防ぐことができる\r\n\r\n神に敵する邪教の徒は\r\nあるいは神殺しにために\r\n最初の死者、墓王ニトの力を盗もうとし\r\n志半ばにして力尽きたようだ",
+      "eng": "Weapon type: Small Shield\r\nAttack type: Strike\r\n\r\nFrightful occult shield. Defends against\r\ndivine weapons and lightning.\r\n\r\nIn an ill-fated plot to destroy the very\r\ngods, the followers of the occult once\r\nattempted to steal the power of\r\nGravelord Nito, the first of the dead."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9000000.webp"
+  },
+  {
+    "id": "9001000",
+    "name": {
+      "chn": "圣者盾",
+      "jap": "サンクトゥス",
+      "eng": "Sanctus"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n很久以前，成为不死人的圣骑士被托付的\r\n白教传说宝物之一。\r\n\r\n虽然被赋予祝福，还拥有白色火焰的庇佑，\r\n但因为其祝福效果大都已消失，\r\n如今只剩下恢复极少量血量的效果。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\nはるか昔、不死となった聖騎士に託されたという\r\n白教の伝説の宝具の１つ\r\n\r\n予め祝福されており、白い炎の加護があるが\r\nその力の大半はすでに失われており\r\nわずかなＨＰ回復効果が残っているだけだ",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nA legendary weapon of the Way of White,\r\ngranted to an Undead paladin long ago.\r\n\r\nOnce blessed with the protection of a white\r\nflame, but its power has all but faded, so\r\nthat it provides only slight HP recovery."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9001000.webp"
+  },
+  {
+    "id": "9002000",
+    "name": {
+      "chn": "血盾",
+      "jap": "血の盾",
+      "eng": "Bloodshield"
+    },
+    "description": {
+      "chn": "武器种类：盾\r\n攻击属性：打击\r\n\r\n失落传说中提到的血盾。\r\n如血般的红色似乎附有微弱魔力，\r\n能提升所有抵抗力。",
+      "jap": "武器種別：盾\r\n攻撃属性：打撃\r\n\r\n失われた伝承で語られる血の盾\r\n血の赤には弱い魔力が込められているようで\r\nあらゆる耐性を高めてくれる",
+      "eng": "Weapon type: Shield\r\nAttack type: Strike\r\n\r\nThe bloodshield spoken of in the lost\r\nlegends. The red of blood is slightly\r\nenchanted, and boosts various resistances."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9002000.webp"
+  },
+  {
+    "id": "9003000",
+    "name": {
+      "chn": "黑铁大盾",
+      "jap": "黒鉄の大盾",
+      "eng": "Black Iron Greatshield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n知名的力大无穷骑士，塔尔卡斯的大型盾。\r\n\r\n由特殊的黑铁制成，\r\n比伯尼斯骑士使用的塔盾还要重。\r\n对火属性的防御力较高，\r\n而且盾牌冲击的效果也很好。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n大力で知られる騎士のタルカスの大盾\r\n\r\n特殊な黒鉄で作られ\r\nバーニス騎士のタワーシールドよりさらに重いが\r\n特に炎属性の攻撃にも強く\r\nまた、シールドバッシュの効果も高い",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nGreatshield of the mighty knight Tarkus.\r\n\r\nBuilt of special black iron and even heavier\r\nthan Knight Berenike's tower shield.\r\nEspecially resistant to fire attacks and\r\neffective for shield bashing."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9003000.webp"
+  },
+  {
+    "id": "9010000",
+    "name": {
+      "chn": "黄金残光",
+      "jap": "黄金の残光",
+      "eng": "Gold Tracer"
+    },
+    "description": {
+      "chn": "武器种类：曲剑\r\n攻击属性：斩击\r\n\r\n葛温王四骑士──\r\n“王的先锋”基亚蓝使用的黄金曲剑。\r\n\r\n她的剑术有如舞蹈一般，\r\n在黑暗中舞出不祥的金色残影。",
+      "jap": "武器種別：曲剣\r\n攻撃属性：斬撃\r\n\r\nグウィン王の四騎士の一人\r\n「王の刃」キアランの用いた黄金の曲剣\r\n\r\n彼女の剣技はいっそ舞踏のようで\r\n暗闇に不吉な金の残像を描き出す",
+      "eng": "Weapon type: Curved Sword\r\nAttack type: Slash\r\n\r\nCurved sword used by the Lord's Blade\r\nCiaran, one of Lord Gwyn's Four Knights.\r\n\r\nCiaran brandishes her sword in\r\na mesmerizing dance, etching the\r\ndarkness with dire streaks of gold."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9010000.webp"
+  },
+  {
+    "id": "9011000",
+    "name": {
+      "chn": "暗银残灭",
+      "jap": "暗銀の残滅",
+      "eng": "Dark Silver Tracer"
+    },
+    "description": {
+      "chn": "武器种类：短剑\r\n攻击属性：斩击／突刺\r\n\r\n葛温王四骑士──\r\n“王的先锋”基亚蓝使用的暗银短刀。\r\n\r\n刀身涂有猛烈剧毒。\r\n在敌人被黄金残影夺去目光时，\r\n短刀会藏在那残影下，切实收拾掉敌人。",
+      "jap": "武器種別：短剣\r\n攻撃属性：斬撃/刺突\r\n\r\nグウィン王の四騎士の一人\r\n「王の刃」キアランの用いた暗い銀の短刀\r\n\r\nその刃には凄まじい猛毒が仕込まれており\r\n舞うような黄金の残像が目標の目を奪えば\r\nその影で確実にそれを仕留めるだろう",
+      "eng": "Weapon type: Dagger\r\nAttack type: Slash/Thrust\r\n\r\nA dark silver dagger used by the\r\nLord's Blade Ciaran, of Gwyn's Four Knights.\r\n\r\nThe victim is first distracted by dazzling\r\nstreaks of the Gold Tracer, then stung by\r\nthe vicious poison of this dagger."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9011000.webp"
+  },
+  {
+    "id": "9012000",
+    "name": {
+      "chn": "深渊大剑",
+      "jap": "深淵の大剣",
+      "eng": "Abyss Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n被深渊吞噬的葛温王骑士──\r\n亚尔特留斯，其灵魂所生的大剑。\r\n\r\n这把剑伴随主人直到最后，因此被黑暗吞噬，\r\n而完全变成深渊武器。\r\n能借由装备者的人性增加威力。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\n深淵に飲まれたグウィン王の騎士\r\nアルトリウスのソウルから生まれた大剣\r\n\r\nこの剣は最後まで主と共にあり、故に闇に飲まれ\r\n使用者の人間性によってその威力を増す\r\n深淵の武器となり果てている",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nThis greatsword belonged to Lord Gwyn's\r\nKnight Artorias, who fell to the Abyss.\r\n\r\nSwallowed by the Dark with its master, this\r\nsword is tainted by the Abyss, and now its\r\nstrength reflects its wielder's humanity."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9012000.webp"
+  },
+  {
+    "id": "9014000",
+    "name": {
+      "chn": "结界大盾",
+      "jap": "結界の大盾",
+      "eng": "Cleansing Greatshield"
+    },
+    "description": {
+      "chn": "武器种类：大型盾\r\n攻击属性：打击\r\n\r\n被深渊吞噬的葛温王骑士──\r\n亚尔特留斯，其使用的钢制大盾。\r\n\r\n他身受重伤，逐渐受到深渊侵蚀时，\r\n以这面盾作为守护挚友希夫的结界供应源。\r\n因此盾本身受损严重，变得很脆弱，\r\n但对法术却有极高的防御效果。",
+      "jap": "武器種別：大盾\r\n攻撃属性：打撃\r\n\r\n深淵に飲まれたグウィン王の騎士\r\nアルトリウスの用いた鋼の大盾\r\n\r\n深く傷つき、深淵に侵されはじめた彼は\r\nこの盾を友たるシフを守る結界の糧とした\r\nこれにより盾は痛み、物理的に脆くなっているが\r\n一方で魔法などには高い防御効果を持った",
+      "eng": "Weapon type: Greatshield\r\nAttack type: Strike\r\n\r\nThe steel greatshield used by Knight Artorias,\r\nwho succumbed to the Abyss.\r\nArtorias, deeply scarred by the Abyss, used\r\nthis to form a barrier to protect his\r\ncompatriot Sif. Although this drained the\r\nshield, its magic defense remains high."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9014000.webp"
+  },
+  {
+    "id": "9015000",
+    "name": {
+      "chn": "岩石大斧",
+      "jap": "岩の大斧",
+      "eng": "Stone Greataxe"
+    },
+    "description": {
+      "chn": "武器种类：大斧\r\n攻击属性：标准\r\n\r\n灵庙森林的守护者，\r\n石骑士持有的巨岩斧。\r\n\r\n需要有非比寻常的体能才能使用的武器，\r\n与其说用于战斗，不如说适合用于土木工程。\r\n如果想用来把人捣烂，也已经十分够格了。",
+      "jap": "武器種別：大斧\r\n攻撃属性：標準\r\n\r\n霊廟の森の守護者\r\n石の騎士の持つ大岩の斧\r\n\r\n尋常ならざる膂力を要求するこの武器は\r\n戦いよりむしろ土木作業に適するが\r\nとはいえ、人の身をすり潰すには十分すぎるだろう",
+      "eng": "Weapon type: Greataxe\r\nAttack type: Regular\r\n\r\nGreataxe borne by the stone knights\r\nwho guard the forest Sanctuary.\r\n\r\nThis greataxe, requiring inhuman strength to\r\nwield and more fitted to manual labor than\r\nbattle, is nevertheless completely lethal."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9015000.webp"
+  },
+  {
+    "id": "9016000",
+    "name": {
+      "chn": "四齿钉耙",
+      "jap": "四又鋤",
+      "eng": "Four-pronged Plow"
+    },
+    "description": {
+      "chn": "武器种类：枪\r\n攻击属性：突刺\r\n\r\n灵庙森林的园丁，\r\n有如稻草人的木人持有的四齿钉耙。\r\n\r\n从“园丁”的职称可以知道，\r\n这原来并非用于战斗，\r\n但那锐利的边缘仍是危险凶器。",
+      "jap": "武器種別：槍\r\n攻撃属性：刺突\r\n\r\n霊廟の森の園丁\r\nカカシのような木人の持つ四又の鋤\r\n\r\n園丁という役割からも分かるように\r\n本来は戦いに用いる道具ではないが\r\n鋭い切っ先は危険な凶器にもなる",
+      "eng": "Weapon type: Spear\r\nAttack type: Thrust\r\n\r\nFour-pronged Plow wielded by the wooden\r\nscarecrows, serfs of the forest Sanctuary.\r\n\r\nThe scarecrow serfs would not normally use\r\nthese four-pronged plows as weapons, but\r\ntheir sharpness makes them very deadly."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9016000.webp"
+  },
+  {
+    "id": "9017000",
+    "name": {
+      "chn": "马努斯大杖",
+      "jap": "マヌスの大杖",
+      "eng": "Manus Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n深渊之主马努斯，其灵魂所生的魔法触媒。\r\n多节的古木杖，\r\n而因为杖够大，可以作为打击武器使用。\r\n\r\n与结晶锡杖的特质相近，可以提升魔法威力。\r\n现在以人的肉身装备，会减少使用次数。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\n深淵の主マヌスのソウルから生まれた魔術触媒\r\n節くれだった古木の杖\r\nその大きさから、打撃武器としても使用できる\r\n\r\n性質は結晶の錫杖に近く、魔術の威力を高めるが\r\n今人の身で用いれば、使用回数が減ってしまう",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nA sorcery catalyst born from the soul of\r\nManus, Father of the Abyss.\r\nA rough, old wooden catalyst large enough\r\nto be used as a strike weapon.\r\nSimilar to the Tin Crystallization Catalyst,\r\nit boosts the strength of sorceries,\r\nbut limits the number of castings."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9017000.webp"
+  },
+  {
+    "id": "9018000",
+    "name": {
+      "chn": "乌拉席露树枝杖",
+      "jap": "ウーラシールの枝杖",
+      "eng": "Oolacile Catalyst"
+    },
+    "description": {
+      "chn": "武器种类：杖\r\n攻击属性：打击\r\n\r\n相当普遍的乌拉席露魔法杖。\r\n用带有魔力的树枝捆扎而成。\r\n\r\n杖本身带有魔力，可以大幅提升魔法威力。\r\n但因为该国的魔法原本就不具有攻击性，\r\n所以无法将智力用于提升攻击威力。",
+      "jap": "武器種別：杖\r\n攻撃属性：打撃\r\n\r\nウーラシールの一般的な魔術杖\r\n魔力を帯びた木の枝をまとめたもの\r\n\r\n帯びた魔力により魔術威力修正が高いが\r\nかの国の魔術に、もとより攻撃的なものはなく\r\n理力が攻撃の威力に反映されることもない",
+      "eng": "Weapon type: Catalyst\r\nAttack type: Strike\r\n\r\nEveryday Oolacile sorcery catalyst\r\nformed by several enchanted branches.\r\n\r\nBoosts sorcery adjustment, but lost land\r\nsorceries are not offensive, and attacks\r\nare not boosted by intelligence."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9018000.webp"
+  },
+  {
+    "id": "9019000",
+    "name": {
+      "chn": "圣兽尾",
+      "jap": "聖獣の尾",
+      "eng": "Guardian Tail"
+    },
+    "description": {
+      "chn": "武器种类：软鞭\r\n攻击属性：标准\r\n\r\n切下灵庙圣兽的尾巴而成的武器。\r\n\r\n柔韧度强，表面密布尖锐刺针，\r\n并带有强烈的毒。\r\n作为武器使用，必定十分惹人厌吧。",
+      "jap": "武器種別：ムチ\r\n攻撃属性：標準\r\n\r\n霊廟の聖獣の尾を切り落としたもの\r\n\r\nよくしなり、鋭い刺がびっしりと生え\r\nまた強い毒性も帯びている\r\n武器として使えば、いやらしいものになるだろう",
+      "eng": "Weapon type: Whip\r\nAttack type: Regular\r\n\r\nSliced tail of the Sanctuary Guardian.\r\n\r\nThis flexible, spiked, and highly\r\npoisonous tail would make a rather\r\nobnoxious weapon."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9019000.webp"
+  },
+  {
+    "id": "9020000",
+    "name": {
+      "chn": "黑龙大剑",
+      "jap": "黒竜の大剣",
+      "eng": "Obsidian Greatsword"
+    },
+    "description": {
+      "chn": "武器种类：大剑\r\n攻击属性：标准\r\n\r\n幸存的最后一只不朽古龙──\r\n独眼黑龙，喀拉弥特的尾巴化成的武器。\r\n稀少的龙武器之一。\r\n\r\n黑曜剑身带有不可思议的力量，\r\n双手共持可以释放那股力量。",
+      "jap": "武器種別：大剣\r\n攻撃属性：標準\r\n\r\n朽ちぬ古竜の最後の生き残り\r\n単眼の黒竜、カラミットの尾から生まれた武器\r\n希少なドラゴンウェポンの１つ\r\n\r\n黒曜の刀身は強い神秘の力を帯びており\r\n両手使いでその力が解放される",
+      "eng": "Weapon type: Greatsword\r\nAttack type: Regular\r\n\r\nThis greatsword, one of the rare dragon\r\nweapons, is formed by the tail of the\r\none-eyed black dragon Kalameet,\r\nthe last of the ancient dragons.\r\nThe mystical power of its obsidian blade\r\nwill be released when held with both hands."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9020000.webp"
+  },
+  {
+    "id": "9021000",
+    "name": {
+      "chn": "戈夫大弓",
+      "jap": "ゴーの大弓",
+      "eng": "Gough's Greatbow"
+    },
+    "description": {
+      "chn": "武器种类：大弓\r\n攻击属性：无\r\n\r\n葛温王四骑士──\r\n“鹰眼”戈夫使用的猎龙大弓。\r\n\r\n戈夫自下野以来使用的武器。\r\n比猎龙队使用的大弓还要更大，\r\n必须要有超乎常人的体能才能使用。",
+      "jap": "武器種別：大弓\r\n攻撃属性：なし\r\n\r\nグウィン王の四騎士の一人\r\n「鷹の目」ゴーの用いた竜狩りの大弓\r\n\r\n野にあったころからのゴーの得物であり\r\n竜狩り隊の用いた大弓よりもさらに大きく\r\n使用には人ならぬ膂力が必要となる",
+      "eng": "Weapon type: Greatbow\r\nAttack type: none\r\n\r\nGreatbow used by Hawkeye Gough, of Lord\r\nGwyn's Four Knights, for dragon slaying.\r\n\r\nThis bow is larger than even those used by\r\nthe famed Dragonslayers. Only their leader,\r\nGough, had the strength to handle it."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9021000.webp"
+  },
+  {
+    "id": "9022000",
+    "name": {
+      "chn": "###2（受死版译文）#3黑木箭",
+      "jap": "##毒矢",
+      "eng": "##Poison Arrow"
+    },
+    "description": {
+      "chn": "武器种类：箭\r\n攻击属性：突刺\r\n\r\n弓的英雄法里斯所爱用的黑箭。\r\n\r\n威力高、射程远，\r\n但是法里斯死后，就没有人知道制作方法，\r\n变成了贵重的物品。",
+      "jap": "武器種別：矢\r\n攻撃属性：刺突\r\n\r\n矢じりに毒を塗った矢\r\n狩りや暗殺の確実性を高めるためのもの\r\n敵が毒状態になったら、あとは待てばよいのだ",
+      "eng": "Weapon type: Arrow\r\nAttack type: Thrust\r\n\r\nArrow with point dipped in poison.\r\nEnsures the demise of prey in a hunt,\r\nor the target in an assassination.\r\nOnce an enemy is poisoned, one need\r\nonly wait."
+    },
+    "type": "weapon",
+    "game": 1,
+    "icon": "/icons/ds1/weapons/9022000.webp"
+  }
+]

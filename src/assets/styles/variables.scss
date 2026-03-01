@@ -1,0 +1,30 @@
+// 断点
+$breakpoint-mobile: 768px;
+$breakpoint-tablet: 1024px;
+$breakpoint-desktop: 1440px;
+
+// 颜色
+$color-bg-primary: #000;
+$color-bg-secondary: #111;
+$color-bg-card: #111;
+$color-border: #430;
+$color-border-light: #531;
+$color-accent: #960;
+$color-text-primary: #ccc;
+$color-text-secondary: #aaa;
+$color-text-gold: #fe6;
+$color-text-red: #f00;
+
+// CSS变量
+:root {
+  --color-bg-primary: #{$color-bg-primary};
+  --color-bg-secondary: #{$color-bg-secondary};
+  --color-bg-card: #{$color-bg-card};
+  --color-border: #{$color-border};
+  --color-border-light: #{$color-border-light};
+  --color-accent: #{$color-accent};
+  --color-text-primary: #{$color-text-primary};
+  --color-text-secondary: #{$color-text-secondary};
+  --color-text-gold: #{$color-text-gold};
+  --color-text-red: #{$color-text-red};
+}

@@ -1,0 +1,100 @@
+@import './variables.scss';
+
+// 全局重置
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// 选中样式
+::selection {
+  background: #fff;
+  color: #000;
+}
+
+// 滚动条样式
+::-webkit-scrollbar {
+  background: #222;
+  width: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-accent);
+  width: 10px;
+  border-radius: 5px;
+}
+
+// 基础样式
+html {
+  background: var(--color-bg-primary);
+  font-size: 16px;
+}
+
+body {
+  font-family: '仿宋', 'SimSun', serif;
+  color: var(--color-text-primary);
+  line-height: 1.5;
+}
+
+// 链接样式
+a {
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: color 0.3s;
+
+  &:hover {
+    color: var(--color-accent);
+  }
+}
+
+// 按钮样式
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  transition: all 0.3s;
+}
+
+// 输入框样式
+input,
+textarea {
+  font-family: inherit;
+  color: inherit;
+  background: var(--color-bg-secondary);
+  border: 1px solid var(--color-border);
+  padding: 0.5rem;
+  transition: border-color 0.3s;
+
+  &:focus {
+    outline: none;
+    border-color: var(--color-accent);
+  }
+}
+
+// 工具类
+.text-gold {
+  color: var(--color-text-gold);
+}
+
+.text-red {
+  color: var(--color-text-red);
+}
+
+.text-sm {
+  font-size: 0.85em;
+}
+
+.line-through {
+  text-decoration: line-through;
+  text-decoration-color: rgba(255, 238, 102, 0.8);
+  text-decoration-thickness: 0.2em;
+}
+
+.text-title {
+  font-weight: 700;
+  color: #fff;
+  background: linear-gradient(to right, rgba(80, 48, 1, 0), var(--color-border-light), rgba(80, 48, 1, 0));
+  padding: 0.25em 0;
+}
