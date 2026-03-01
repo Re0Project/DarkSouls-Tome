@@ -1,8 +1,9 @@
 <template>
   <div class="item-list">
     <div v-if="loading" class="loading">
-      <div class="spinner"></div>
-      <p>加载中...</p>
+      <div class="items-grid">
+        <SkeletonCard v-for="i in 6" :key="i" />
+      </div>
     </div>
 
     <div v-else-if="error" class="error">
@@ -33,6 +34,7 @@
 
 <script setup lang="ts">
 import ItemCard from './ItemCard.vue';
+import SkeletonCard from './SkeletonCard.vue';
 import type { Item } from '@/types/item';
 
 defineProps<{
@@ -60,25 +62,21 @@ const retry = () => {
 .loading,
 .error,
 .empty {
-  text-align: center;
-  padding: 4rem 2rem;
-  color: var(--color-text-secondary);
+  padding: 2rem 1rem;
 }
 
 .loading {
-  .spinner {
-    width: 48px;
-    height: 48px;
-    margin: 0 auto 1rem;
-    border: 4px solid var(--color-border);
-    border-top-color: var(--color-accent);
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
+  .items-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   }
 }
 
-@keyframes spin {
-  to { transform: rotate(360deg); }
+.error,
+.empty {
+  text-align: center;
+  color: var(--color-text-secondary);
 }
 
 .error {

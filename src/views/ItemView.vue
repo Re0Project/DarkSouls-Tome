@@ -2,9 +2,7 @@
   <div class="item-view">
     <header class="view-header">
       <div class="header-content">
-        <router-link to="/" class="back-link">← 返回</router-link>
         <h1 class="title">{{ title }}</h1>
-        <LanguageSwitch />
       </div>
     </header>
 
@@ -32,7 +30,6 @@ import { useUserStore } from '@/stores/user';
 import { GAME_NAMES, ITEM_TYPE_NAMES } from '@/utils/constants';
 import ItemList from '@/components/ItemList.vue';
 import SearchBar from '@/components/SearchBar.vue';
-import LanguageSwitch from '@/components/LanguageSwitch.vue';
 import type { GameVersion, ItemType } from '@/types/item';
 
 const props = defineProps<{
@@ -80,26 +77,10 @@ onMounted(() => {
   padding: 0 1rem;
   display: flex;
   align-items: center;
-  gap: 1rem;
-}
-
-.back-link {
-  padding: 0.5rem 1rem;
-  background: var(--color-bg-primary);
-  border: 1px solid var(--color-border);
-  border-radius: 4px;
-  color: var(--color-text-primary);
-  text-decoration: none;
-  transition: all 0.2s ease;
-
-  &:hover {
-    border-color: var(--color-accent);
-    color: var(--color-accent);
-  }
+  justify-content: center;
 }
 
 .title {
-  flex: 1;
   font-size: 1.5rem;
   color: var(--color-accent);
   margin: 0;
@@ -113,14 +94,7 @@ onMounted(() => {
 }
 
 @media (max-width: 768px) {
-  .header-content {
-    flex-wrap: wrap;
-  }
-
   .title {
-    width: 100%;
-    order: -1;
-    margin-bottom: 0.5rem;
     font-size: 1.2rem;
   }
 }
